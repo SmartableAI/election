@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-milit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
 type: article
 quality: 173
-heat: 293
+heat: 313
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Gaetz, under federal investigation, scheduled to speak at conservative summit at Trump-owned resort"
+    excerpt: "Fox News has learned that embattled Rep. Matt Gaetz will speak at a conference in Florida later this week who’s organizers are strong supporter of former President Trump."
+    publishedDateTime: 2021-04-06T19:02:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ITGohoVTaxA/gaetz-fbi-investigation-conservative-summit-trump-owned-resort"
+    ampWebUrl: "https://www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

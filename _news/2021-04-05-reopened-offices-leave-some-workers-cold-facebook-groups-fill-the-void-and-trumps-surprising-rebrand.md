@@ -32,37 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Gaetz runs the Trump playbook for scandal: Keep talking, and talking"
-    excerpt: "One thing the former president proved is that unless you're Donald Trump and sit in the White House, his strategy doesn't work as well."
-    publishedDateTime: 2021-03-31T21:32:00Z
-    webUrl: "https://www.politico.com/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
+  - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
+    excerpt: "A former Housing and Urban Development official and Trump family associate has been fined and barred from federal work for violating the Hatch Act's prohibition of use of official authority after she blurred the lines between official business and politics by producing a video for the 2020 Republican"
+    publishedDateTime: 2021-04-06T18:42:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jX0Px_-1p1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 168
     images:
-      - url: "https://static.politico.com/0f/fa/d04271264dcea2393f58d534ba8d/210331-gaetz-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "'The 45th': Why Trump is abandoning his iconic brand for a number"
-    excerpt: "WASHINGTON — Donald Trump spent a lifetime putting his name on steaks to skyscrapers to stimulus checks, but now, the former president appears to be replacing the gold-plated surname with a number: 45. Last week, the 45th president launched his new ..."
-    publishedDateTime: 2021-04-05T09:01:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/45th-why-trump-abandoning-his-iconic-brand-number-n1262935"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262935"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262935"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_11/3457572/210317-donald-trump-se-527p_03c9a81eb2ae8d70b4f979b6ea4c8f08.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump and his allies abandon Gaetz"
     excerpt: "Rep. Matt Gaetz (R-Fla.) built a public profile as an unapologetic, unambiguous, omnipresent booster of President Donald Trump. But as his own political career skids toward disaster amid allegations that he had sex with a minor and paid for sex with women ..."
@@ -77,6 +61,52 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Ex-Trump Official Fined and Barred From Government Over R.N.C. Video"
+    excerpt: "Lynne Patton recruited and interviewed public housing tenants in New York City for a pro-Trump re-election video. The residents accused her of tricking them into participating."
+    publishedDateTime: 2021-04-06T17:27:00Z
+    webUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/06/nyregion/06nypatton1/06nypatton1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Capitol officers sue Trump over 'physical and emotional injuries' from Jan. 6 attack"
+    excerpt: "WASHINGTON — Two Capitol Police officers are suing former President Donald Trump over “physical and emotional injuries” they suffered during the attack on the Capitol Jan. 6, which they say was incited by the former president. Officers James ..."
+    publishedDateTime: 2021-03-31T11:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/capitol-officers-sue-trump-over-physical-emotional-injuries-jan-6-n1262581"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262581"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262581"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3460991/210331-capitol-riot-mc-1141_ac907b44d1b20b0f9a1e1fc98e3f4723.JPG"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Justice Thomas grumbles over Trump's social media ban"
+    excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
+    publishedDateTime: 2021-04-05T14:58:00Z
+    webUrl: "https://www.politico.com/news/2021/04/05/justice-clarence-thomas-trump-twitter-ban-479046"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

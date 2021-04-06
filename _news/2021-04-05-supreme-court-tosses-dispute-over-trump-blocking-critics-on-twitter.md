@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Former Trump housing official sanctioned over campaign video"
+    excerpt: "Patton “improperly harnessed the authority of her federal position to assist the Trump campaign in violation of the Hatch Act,” said a statement released by the special counsel office."
+    publishedDateTime: 2021-04-06T18:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/WNN/210311_atm_presha1_pic_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Easter Message 'Very Nice,' Insists Adviser Amid Criticism It Was Angry, Resentful"
     excerpt: "Hogan Gidley, adviser to former President Donald Trump, appeared on Fox News Sunday morning to defend a series of Easter statements from Trump that his critics have accused of being political rants capped off with a friendly holiday salutation. A Friday ..."
     publishedDateTime: 2021-04-04T18:58:00Z

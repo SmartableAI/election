@@ -76,6 +76,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Gaetz, under federal investigation, scheduled to speak at conservative summit at Trump-owned resort"
+    excerpt: "Fox News has learned that embattled Rep. Matt Gaetz will speak at a conference in Florida later this week who’s organizers are strong supporter of former President Trump."
+    publishedDateTime: 2021-04-06T19:02:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ITGohoVTaxA/gaetz-fbi-investigation-conservative-summit-trump-owned-resort"
+    ampWebUrl: "https://www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Democrats still searching for answers on Trump's appeal to Latinos in 2020 election"
     excerpt: "Former President Donald Trump's appeal to Latino voters may have been more widespread than originally thought, according to new research. Democrats touted their focus on increasing turnout among minority voters for the 2020 elections, but Latino voters ..."
     publishedDateTime: 2021-04-04T12:33:00Z

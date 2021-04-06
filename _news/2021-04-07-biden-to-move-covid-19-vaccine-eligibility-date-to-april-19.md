@@ -1,0 +1,53 @@
+---
+category: news
+title: "Biden to move COVID-19 vaccine eligibility date to April 19"
+excerpt: "President Joe Biden is set to announce that he’s shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines"
+publishedDateTime: 2021-04-06T18:29:00Z
+originalUrl: "https://www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html"
+webUrl: "https://www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+type: article
+quality: 125
+heat: -1
+published: false
+
+provider:
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
+
+related:
+  - title: "Official: Biden moving vaccine eligibility date to April 19"
+    excerpt: "President Joe Biden is set to announce that he's shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines WASHINGTON -- President Joe Biden ..."
+    publishedDateTime: 2021-04-06T11:45:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_8f3ad97807e84cd5bc8723834d33143e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+
+secured: "tv3lDyxT58hSBSQs6nU92KXIypHkbA1ASfhzISbNj8kYra6s9p/1XslcoNj88EzrjRL67OoJxkRdMRoVw+J2l0bc8G5dVvxAYP+6dCy/ZrTN8znuQeM9Tbu/ZyStkPhk7bTtjnJaZwZUTzNWVAj438IzoPappWBzbp1Y7RqQHNoyTxi9hD5Hm9Wyrln5QRwgYAZT+WwkHfjOuUxmyrN4C5RJ0qmjEHl90qePqySSOGVWmwzIdiqAN+LTplfbRHY4B7/WgIOHOwETcPzOkMxaXMMN+0DcozHULXL7rptvQIlD/oqF+srWm6c7DSxI+uQmCNzN2Hs/DU+688qwfkTLAqh4kEQ2v7mChGlU3qWfahw=;znTZ/+PLb/hEaW6kYkmgrw=="
+---
+

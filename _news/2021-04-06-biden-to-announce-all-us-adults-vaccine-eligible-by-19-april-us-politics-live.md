@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
+    excerpt: "Joe Biden is now touring a vaccination site in Alexandria, Virginia, where he will soon deliver an update on vaccine distribution in the US. The president told one of the employees at the vaccination site, located at the Virginia Theological Seminary ..."
+    publishedDateTime: 2021-04-06T17:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c7d9d8f08098d4e056432"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/a77da5d15e3310643e78095fbbf0dbe303834a43/0_99_5307_3184/master/5307.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fd62229786e5cf0c86525e5fbceff2f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "President Joe Biden Continues Hard Line Against Russia, Offers Ukraine 'Unwavering Support'"
     excerpt: "President Joe Biden on Friday offered \"unwavering support\" to Ukraine and reiterated his strong stance against Russian aggression amid reports of Russian actions near the Ukrainian border. After the president's Friday call with Ukrainian President Volodymyr Zelenskiy,"
     publishedDateTime: 2021-04-02T19:40:00Z

@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden ‘100% certain’ he’ll be cleared of wrongdoing in DOJ investigation"
-    excerpt: "Hunter Biden said he is \"100% certain\" he will be cleared of any wrongdoing in a Department of Justice investigation into his finances."
-    publishedDateTime: 2021-04-04T14:55:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9s6V8uKcGnE/hunter-biden-doj-investigation-finances-interview"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-doj-investigation-finances-interview.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-doj-investigation-finances-interview.amp"
+  - title: "Biden White House Easter remarks included zero mentions of Jesus"
+    excerpt: "President Biden, a Roman Catholic, did not mention Jesus or Christ a single time in his Easter remarks on Monday. "
+    publishedDateTime: 2021-04-06T18:07:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PuMoWnrREKo/joe-biden-easter-remarks-white-house-jesus-mentions"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-easter-remarks-white-house-jesus-mentions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-easter-remarks-white-house-jesus-mentions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/HunterBiden.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64b8dbc3-7db5-499f-8a86-9f822fd9a68c/27ce4549-c949-46a6-9990-77077da9ef0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden lost business after revelation of affair with brother's widow Hallie"
+    excerpt: "\"I made a lot of decisions that I probably shouldn't have made,\" Hunter Biden said in a recent interview."
+    publishedDateTime: 2021-04-04T16:24:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZyapbF7wz4/hunter-biden-hallie-business-affair-world-food-program"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1230697183.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

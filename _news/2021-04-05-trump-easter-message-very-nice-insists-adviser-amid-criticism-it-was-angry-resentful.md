@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former Trump housing official sanctioned over campaign video"
+    excerpt: "Patton “improperly harnessed the authority of her federal position to assist the Trump campaign in violation of the Hatch Act,” said a statement released by the special counsel office."
+    publishedDateTime: 2021-04-06T18:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/WNN/210311_atm_presha1_pic_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Top Trump adviser warned then-president on virus supply shortage, then pursued controversial deals"
     excerpt: "A top adviser privately urged President Donald Trump to acquire critical medical supplies in the early days of the coronavirus outbreak — and after the warning was ignored, pursued his own ad hoc strategy that committed more than $1 billion in federal ..."
     publishedDateTime: 2021-03-31T13:07:00Z

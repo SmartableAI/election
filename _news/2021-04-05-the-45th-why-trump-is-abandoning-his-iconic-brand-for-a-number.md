@@ -48,38 +48,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump and his allies abandon Gaetz"
-    excerpt: "Rep. Matt Gaetz (R-Fla.) built a public profile as an unapologetic, unambiguous, omnipresent booster of President Donald Trump. But as his own political career skids toward disaster amid allegations that he had sex with a minor and paid for sex with women ..."
-    publishedDateTime: 2021-04-06T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Reopened offices leave some workers cold, Facebook groups fill the void and Trump's surprising rebrand"
-    excerpt: "For many, the next Covid-19 pandemic challenge is a return to \"normalcy.\" This morning we are looking at what going back to the office means, plus Trump ditching his iconic brand and how a Chicago teacher ignited a firestorm over one country's Nazi legacy."
-    publishedDateTime: 2021-04-05T11:55:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/reopened-offices-leave-some-workers-cold-facebook-groups-fill-void-n1263014"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263014"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263014"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 119
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_13/3462135/210404-stanfordncaatitle-kf-1025p_3ed72c869bb4625859403f739b77ead5.jpg"
-        width: 1929
-        height: 2894
-        isCached: true
 
 secured: "YZeZru6T3rkX7vf6LhyizynKe8Z4wHhxlFboLcz6GkPfx+QHEewYI6VBERvXWM/xs7kwuujlt9yl/WV+w1yflIy040ZmDzTuaWWU3pSdDZRb4HATZLbqcSb9orYZ+3ChiIGxIQAffOCGLgzZAC10KDWkWB9mcfWNOt+Z4xzicORrDURu+YPqPpf9mu5tmXvNCI1SdGX9b7u4cE0fIqz4viM5JhxBYztWHyrTozxBR5ueb8A8pmXSMBxPz4R2L/VrGuuPGh7ToNYNhXjkJvgT6Ah1E7Y8LFgTwZNeykKI1wYxnnjPOWiywMLQFqVCv2NXJScEy+8haR5HdOIc4e2tktrJNA2sILoP3mlCtgZxLkk=;06iYiRLEHWJr4Miuq2yQhQ=="
 ---

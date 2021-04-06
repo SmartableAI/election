@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-18-beto-orourke-says-us-could-become-like-nazi-germany-in-10-years-despite-bidens-win.md",
+      "title": "Beto O'Rourke says U.S. could become like Nazi Germany in 10 years, despite Biden's win",
+      "excerpt": "Democratic politician Beto O'Rourke fretted Thursday on MSNBC that the United States could become Nazi Germany within 10 years, in spite of full Democratic control of the White House and Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7XmFAeiQFiA/beto-orourke-us-nazi-germany-10-years-bidens-win",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7XmFAeiQFiA/beto-orourke-us-nazi-germany-10-years-bidens-win",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6868c53f-020a-448d-b028-4cfb1cec889b/15e23bff-0ea4-4ec4-82e8-1b6805ddc164/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/beto-orourke-us-nazi-germany-10-years-bidens-win.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/beto-orourke-us-nazi-germany-10-years-bidens-win.amp",
+      "publishedDateTime": "2021-02-18T08:36:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.md",
       "title": "Mike Pence on Rush Limbaugh's impact: 'America lost a giant today'",
       "excerpt": "Well, we're mournful because we lost a giant today, a great and unparalleled radio icon, of course, Rush Limbaugh. But we're also grateful for having heard his voice and wisdom for as long as we did.",
@@ -1631,62 +1687,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-north-carolina-man-charged-with-threatening-president-biden.md",
-      "title": "North Carolina man charged with threatening President Biden",
-      "excerpt": "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 735,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp",
-      "publishedDateTime": "2021-02-11T12:59:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

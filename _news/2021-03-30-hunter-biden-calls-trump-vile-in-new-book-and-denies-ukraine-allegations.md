@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Pfizer CEO says Trump told him vaccine 'will help me' with election"
+    excerpt: "Pfizer CEO Albert Bourla says in an interview set to run Friday that former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on ..."
+    publishedDateTime: 2021-04-06T18:37:00Z
+    webUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help"
+    ampWebUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bourlaalbert_022619gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Lindsey Graham Calls Out AOC for Conflicting Border Reactions Under Trump, Biden"
     excerpt: "GOP Senator Lindsey Graham of South Carolina asked, \"Where are you?\" to Democratic Rep. Alexandria Ocasio-Cortez of New York, calling her out for not visiting the Southwest border, where he said conditions are \"worse\" for migrants than those under former President Donald Trump."
     publishedDateTime: 2021-03-24T21:40:00Z

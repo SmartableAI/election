@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-trump-to-be-interviewed-by-foxs-bartiromo.md",
+      "title": "Trump to be interviewed by Fox's Bartiromo",
+      "excerpt": "Former President Trump will appear on “Fox News Primetime” with host Maria Bartiromo on Wednesday night at 7 p.m., the former president’s office announced in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
+      "originalUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpcpac2_030121getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
+      "publishedDateTime": "2021-03-16T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-republicans-are-recycling-trumps-fear-mongering-about-terrorists-entering-the-us-through-mexico.md",
+      "title": "Republicans are recycling Trump's fear-mongering about terrorists entering the US through Mexico",
+      "excerpt": "DOW S&P 500 NASDAQ 100 As record numbers of unaccompanied minors turn up at southern border, congressional Republicans are echoing dubious claims from former President Donald Trump about terrorists attempting to cross into the US from Mexico. House ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
+      "originalUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/605113400347cb00184b61e4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
+      "publishedDateTime": "2021-03-16T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable.md",
       "title": "Birx: Trump's disinfectant injection moment was 'extraordinarily uncomfortable'",
       "excerpt": "Deborah Birx, the former White House coronavirus response coordinator, said on Monday that former President Trump’s suggestion to treat COVID-19 by injecting disinfectant and using ultraviolet rays wa",
@@ -1477,110 +1581,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-bible-teacher-beth-moore-trump-critic-and-advocate-for-sexual-abuse-victims-splits-with-southern-baptist-convention.md",
-      "title": "Bible teacher Beth Moore, Trump critic and advocate for sexual abuse victims, splits with Southern Baptist Convention",
-      "excerpt": "For nearly three decades, Beth Moore has been the very model of a modern Southern Baptist. She loves Jesus and the Bible and has dedicated her life to teaching others why they need both of them in their lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/",
-      "originalUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2WM7QCX2FBSRING2TDYMIJI7M.JPG&w=1440",
-          "width": 1260,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/?outputType=amp",
-      "publishedDateTime": "2021-03-09T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-hills-1230-report-presented-by-johns-hopkins-university-trumps-relationship-with-gop-worsens.md",
-      "title": "The Hill's 12:30 Report - Presented by Johns Hopkins University - Trump's relationship with GOP worsens",
-      "excerpt": "To receive The Hill's 12:30 Report in your inbox, please sign up here:  --> A midday take on what's happening in politics and how to have a sense of humor about it.* *Ha. Haha. Hahah. Sniff. Haha. Sniff.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
-      "originalUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
-      "publishedDateTime": "2021-03-09T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

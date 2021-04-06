@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-26-bidens-message-to-iran-with-missile-strikes-you-cant-act-with-impunity-be-careful.md",
+      "title": "Biden's message to Iran with missile strikes: 'You can't act with impunity, be careful'",
+      "excerpt": "President Joe Biden looked to send a simple message to Iran by authorizing air strikes in Syria on Thursday: \"You can't act with impunity, be careful.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6qvcSH5ctHY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6qvcSH5ctHY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226182332-03a-biden-houston-0226-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/politics/biden-syrian-missile-strikes-iran/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-syrian-missile-strikes-iran/index.html",
+      "publishedDateTime": "2021-02-26T15:35:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-biden-doesnt-penalize-crown-prince-despite-promise-to-punish-senior-saudi-leaders.md",
       "title": "Biden doesn't penalize crown prince despite promise to punish senior Saudi leaders",
       "excerpt": "Despite promising to punish senior Saudi leaders while on the campaign trail, President Joe Biden declined to apply sanctions to the one the US intelligence community determined is responsible for the death of journalist Jamal Khashoggi: Crown Prince Mohammed bin Salman.\n    \n",
@@ -1608,62 +1664,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-cms-pick/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-cms-pick/index.html",
       "publishedDateTime": "2021-02-17T16:29:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-biden-speaks-with-netanyahu-after-delay-raised-questions.md",
-      "title": "Biden speaks with Netanyahu after delay raised questions",
-      "excerpt": "President Joe Biden spoke Wednesday with his Israeli counterpart Benjamin Netanyahu, ending what had been a lengthy stretch without a call after Biden took office.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Z8tgIZe_lE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Z8tgIZe_lE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 555,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
-      "publishedDateTime": "2021-02-17T13:44:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

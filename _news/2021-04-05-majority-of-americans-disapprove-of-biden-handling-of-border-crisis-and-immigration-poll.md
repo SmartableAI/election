@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden’s message on COVID is ‘sacrifice a little bit longer,’ Psaki says"
+    excerpt: "President Biden is urging Americans to “sacrifice a little bit longer” amid lockdowns due to the coronavirus pandemic, White House press secretary Jen Psaki said Tuesday."
+    publishedDateTime: 2021-04-06T18:08:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjCZrl4OP3s/bidens-message-on-covid-is-sacrifice-a-little-bit-longer-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-message-on-covid-is-sacrifice-a-little-bit-longer-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-message-on-covid-is-sacrifice-a-little-bit-longer-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ari Fleischer rips Biden over border access comments: Like a 'co-conspirator hiding evidence' from police"
     excerpt: "President Biden made stunning comments defending the administration's purported transparency when it comes to access to federal border facilities says former White House Press Secretary Ari Fleischer on 'The Story'"
     publishedDateTime: 2021-03-25T20:44:34Z

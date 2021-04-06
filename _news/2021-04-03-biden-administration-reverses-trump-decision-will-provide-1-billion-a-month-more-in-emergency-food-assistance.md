@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Pfizer CEO says Trump told him vaccine 'will help me' with election"
+    excerpt: "Pfizer CEO Albert Bourla says in an interview set to run Friday that former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on ..."
+    publishedDateTime: 2021-04-06T18:37:00Z
+    webUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help"
+    ampWebUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bourlaalbert_022619gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Hunter Biden calls Trump 'vile' in new book and denies Ukraine allegations"
     excerpt: "Last modified on Tue 30 Mar 2021 16.00 EDT In a keenly awaited memoir, Joe Biden’s son Hunter attacks Donald Trump as “a vile man with a vile mission” who plumbed “unprecedented depths” in last year’s US presidential election. Want to book ..."
     publishedDateTime: 2021-03-30T14:59:00Z

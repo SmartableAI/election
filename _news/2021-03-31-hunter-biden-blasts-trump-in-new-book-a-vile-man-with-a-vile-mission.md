@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 1020
+heat: 1040
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 140
     images:
       - url: "https://thehill.com/sites/default/files/kinzinger_adam030921.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Pfizer CEO says Trump told him vaccine 'will help me' with election"
+    excerpt: "Pfizer CEO Albert Bourla says in an interview set to run Friday that former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on ..."
+    publishedDateTime: 2021-04-06T18:37:00Z
+    webUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help"
+    ampWebUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bourlaalbert_022619gn_lead.jpg"
         width: 980
         height: 551
         isCached: true

@@ -32,23 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "New documents show Trump officials' 'haphazard and ineffective' approach to procuring PPE at start of pandemic, House committee says "
-    excerpt: "The Democratic-led House select committee reviewing the federal response to Covid-19 says it obtained documents that show the Trump administration at the start of the pandemic crisis \"pursued a haphazard and ineffective approach to procurement\" of personal protective equipment and medical supplies.\n"
-    publishedDateTime: 2021-03-31T14:40:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FVDL7t-jvFY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/house-covid-committee-trump-administration-navarro-ppp/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/house-covid-committee-trump-administration-navarro-ppp/index.html"
+  - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
+    excerpt: "A former Housing and Urban Development official and Trump family associate has been fined and barred from federal work for violating the Hatch Act's prohibition of use of official authority after she blurred the lines between official business and politics by producing a video for the 2020 Republican"
+    publishedDateTime: 2021-04-06T18:42:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jX0Px_-1p1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 144
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181019110142-01-capitol-building-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and his allies abandon Gaetz"
+    excerpt: "Rep. Matt Gaetz (R-Fla.) built a public profile as an unapologetic, unambiguous, omnipresent booster of President Donald Trump. But as his own political career skids toward disaster amid allegations that he had sex with a minor and paid for sex with women ..."
+    publishedDateTime: 2021-04-06T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Capitol officers sue Trump over 'physical and emotional injuries' from Jan. 6 attack"
+    excerpt: "WASHINGTON — Two Capitol Police officers are suing former President Donald Trump over “physical and emotional injuries” they suffered during the attack on the Capitol Jan. 6, which they say was incited by the former president. Officers James ..."
+    publishedDateTime: 2021-03-31T11:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/capitol-officers-sue-trump-over-physical-emotional-injuries-jan-6-n1262581"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262581"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262581"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3460991/210331-capitol-riot-mc-1141_ac907b44d1b20b0f9a1e1fc98e3f4723.JPG"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Reopened offices leave some workers cold, Facebook groups fill the void and Trump's surprising rebrand"
+    excerpt: "For many, the next Covid-19 pandemic challenge is a return to \"normalcy.\" This morning we are looking at what going back to the office means, plus Trump ditching his iconic brand and how a Chicago teacher ignited a firestorm over one country's Nazi legacy."
+    publishedDateTime: 2021-04-05T11:55:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/reopened-offices-leave-some-workers-cold-facebook-groups-fill-void-n1263014"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263014"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263014"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 119
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_13/3462135/210404-stanfordncaatitle-kf-1025p_3ed72c869bb4625859403f739b77ead5.jpg"
+        width: 1929
+        height: 2894
+        isCached: true
+  - title: "Justice Thomas grumbles over Trump's social media ban"
+    excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
+    publishedDateTime: 2021-04-05T14:58:00Z
+    webUrl: "https://www.politico.com/news/2021/04/05/justice-clarence-thomas-trump-twitter-ban-479046"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "7dlTIBvN9/Vc/qLfVt+a+D+ebwiKEEXnGT/4AFImznrtso+aeEy5rb4cg68+rmX1qJszdVHt+ipJMDNM+X6uxfbkzPs+m4aMqkVRiqJ1qVe9ulFwVTcl9CD1LnNv5/QNHt35aK5+u0If2bOkJTiDjTAq9YCAKOZSiUPaK1c0L/dHzmiBGfTA8LLB98y9qotxsnZEnvVxazsee/FrM8CcQFfS8T+r3DqYuYa5UZjsyOn1MJfbRb4935oKBnIgqHM7VVe3xO37Wj5bNpw5srHke52jviB2h1teg9TjSnlP7Gxr5L924mRoKttUqk3ekIQeneCDIJX49JcnysoyRMx28K1yd0+FWf3FdjeaLhbL8zI=;K8/107tDw1e7IUDt0uzSDQ=="
+secured: "aBW/RV1ocfD5ZlTzbPUxAwa6CF6TfnnSr6aCjQzK57KK2/Vha4mvkahs4HxaR8SorpiJ59XMXFU3yA6ioDCUFQ9ZG+w3AQko2HgYW83qj/qFq+B+wvGD6hkyn1fIufCSCvmIdjXpO1ELZ4IoGqOPKU7lbiWyf9HtZJwurLMfLcPqfC+CAnw36Xq9TYbWs5htPtvHQcah+YnytHIRMvIJdvwS7qwXGVAnRKtrffHmNFTtlEBbB8fAzK5AckdKmcVVwQ79T/oFJ1tZV26ifM7aJXE31JZGh8AQJLXvYh5pQnaDtLEP3K97Y9t9bUlxGbmWYpJxyVZpQKJ66c4yxSE22Y98bDSr6jF8la+hsfDfjBltltWqCrFReyoFuRFd7/TduvBhijDtByVBsH4uW5Zuobb/JhI4eQ6grT3gA1uizg/F4suDiUWIvIvxcl00iPS9+YZssLO8Uu8MP7suOUT6Wy9TGeREHGQk3P6xzGQSoseARIn1ZzyzUfR83Y8wrUYit6gYJQtpOqvt3trs/7AqPQ==;H7ZV99PaVknp16FOXmVRSw=="
 ---
 
