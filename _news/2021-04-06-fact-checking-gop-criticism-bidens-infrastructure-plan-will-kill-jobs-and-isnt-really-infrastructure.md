@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Fact check: Biden and Kemp misleadingly describe parts of Georgia elections law"
-excerpt: "There are a lot of misleading claims being made about Georgia's controversial elections law.\n    \n"
-publishedDateTime: 2021-04-02T14:00:40Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
+title: "Fact-checking GOP criticism Biden's infrastructure plan will kill jobs, and isn't really infrastructure "
+excerpt: "Last Wednesday President Joe Biden announced a more than $2 trillion plan to rebuild US infrastructure, repairing roads, bridges, pipes, as well as expanding access to long-term care services under Medicaid, building schools and expanding internet access across the US.\n    \n"
+publishedDateTime: 2021-04-06T13:28:30Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvcAndPXfPE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvcAndPXfPE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-republican-criticism-fact-check/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-republican-criticism-fact-check/index.html"
 type: article
-quality: 186
-heat: 366
-published: true
+quality: 158
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401182037-kemp-biden-split-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401114824-01-biden-amtrak-infrastructure-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Fact check: Biden and Kemp misleadingly describe parts of Georgia elections law"
+    excerpt: "There are a lot of misleading claims being made about Georgia's controversial elections law.\n    \n"
+    publishedDateTime: 2021-04-02T14:00:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dhhxM-GqpM8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401182037-kemp-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden calls new Georgia voting law 'Jim Crow in the 21st Century'"
     excerpt: "President Joe Biden on Friday called a sweeping elections bill signed into law in Georgia \"Jim Crow in the 21st Century\" and a \"blatant attack on the Constitution and good conscience.\"\n    \n"
     publishedDateTime: 2021-03-26T21:03:30Z
@@ -92,22 +108,6 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200114121528-truist-park-atlanta-aerial-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking GOP criticism Biden's infrastructure plan will kill jobs, and isn't really infrastructure "
-    excerpt: "Last Wednesday President Joe Biden announced a more than $2 trillion plan to rebuild US infrastructure, repairing roads, bridges, pipes, as well as expanding access to long-term care services under Medicaid, building schools and expanding internet access across the US.\n    \n"
-    publishedDateTime: 2021-04-06T13:28:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvcAndPXfPE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-republican-criticism-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-republican-criticism-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401114824-01-biden-amtrak-infrastructure-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -174,6 +174,6 @@ related:
         height: 629
         isCached: true
 
-secured: "nOJixOam46oPNDNcqZYJ6cOl/UGa58TLGnzYVzykG3fHeQI4KC9nzb34tLZZslyPukELjNtmovZ5zf97gJIWH+/1He8DV3aEd7QZm+rOm9QKN5okrnlnZ864fp5Tr4zeyq6FUQeB/Dty/iK7ipaJectv3CfYB0OK3EhH7pIAtkGsKx7v3NCeS2lNZHtmAreSCo1KBdBEcTWeaJygrgC4ofJf1Ca9IoVijYt4GpafFxNaNMJHDyydGrINMAAESIahveOo83wrjtxMuN3rPsKVjGGlxAYEuu6K0/0InYHd6rVkCQgSduqAFhDaXB3I+355hsC1/y3MnEFGAKZ50vud6epHrADsqDRo26TP8bb9G+E=;7bH8tkHjAGRpl1G5MZmaOA=="
+secured: "wz617fDdI4x3+/HFCw83i3G4Qp2AG9xzAF6ZWBhUIzxJTxeEoTvWwmWEm/ub0XS9baOaaa49OLRuYdonmRi+kOigKSCqNet9K36fLfmlBrvCQmV6bMtkDBFHXUDrecu4dXDrN8sUtv/u+n78rcusPqoeDcBZqjYFqR+qC2OiNpHmQfxZDNsmEqppTuavfN0GB1JMkyQ1do4CE9C9S+fA+UsRsplwranBcThSpIwIpByGmlydreVq7obn/RqztzltZeNWf87wnDIOs3hHjRCEpYUaKEqHN1Fwqmw2Id+DsIeANQ2jfQAYeaK86+8Q5GLLiTrC4+tc0W81ZwH2WnY2KzPO9CadBfT7JbqCGlPU3mA=;Fph/eylvuOarO0cKCi+WGg=="
 ---
 

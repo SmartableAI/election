@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking GOP criticism Biden's infrastructure plan will kill jobs, and isn't really infrastructure "
+    excerpt: "Last Wednesday President Joe Biden announced a more than $2 trillion plan to rebuild US infrastructure, repairing roads, bridges, pipes, as well as expanding access to long-term care services under Medicaid, building schools and expanding internet access across the US.\n    \n"
+    publishedDateTime: 2021-04-06T13:28:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvcAndPXfPE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-republican-criticism-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-republican-criticism-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401114824-01-biden-amtrak-infrastructure-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's latest big sell won't be easy"
     excerpt: "(CNN)It's no April Fool's joke: Infrastructure week is, at last, here. Unveiling the plan on Wednesday, it's yet another sign President Joe Biden is thinking big -- like ... legacy-defining big, and not just when it comes to the multi-trillion dollar price ..."
     publishedDateTime: 2021-04-02T22:32:00Z

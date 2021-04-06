@@ -1,33 +1,32 @@
 ---
 category: news
-title: "With an eye on history, Biden moves on big, bold and progressive infrastructure package"
-excerpt: "Every day he works from the Oval Office, President Joe Biden stares across from his desk at the portrait of Franklin Delano Roosevelt he selected to hang above his fireplace.\n    \n"
-publishedDateTime: 2021-03-30T23:57:04Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KVamK9H6VnM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KVamK9H6VnM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-history/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-history/index.html"
+title: "Biden administration announces next steps in overhauling Title IX campus sexual assault rules"
+excerpt: "During the presidential campaign, Joe Biden vowed to scrap the Trump administration's new regulation on campus sexual misconduct, which took effect in August under Title IX, a gender equity law. Former Education Secretary Betsy DeVos had said she had ..."
+publishedDateTime: 2021-04-06T13:00:00Z
+originalUrl: "https://www.nbcnews.com/news/us-news/biden-administration-announces-next-steps-overhauling-title-ix-campus-sexual-n1263113"
+webUrl: "https://www.nbcnews.com/news/us-news/biden-administration-announces-next-steps-overhauling-title-ix-campus-sexual-n1263113"
 type: article
-quality: 167
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330143553-01-biden-signs-ppp-extension-0330-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media2.s-nbcnews.com/j/newscms/2021_14/3462412/210406-joe-biden-al-0857_2213a608bf9c0d57498f84c15f980937.nbcnews-fp-1200-630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -268,6 +267,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210328201915-01-white-house-0328-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "With an eye on history, Biden moves on big, bold and progressive infrastructure package"
+    excerpt: "Every day he works from the Oval Office, President Joe Biden stares across from his desk at the portrait of Franklin Delano Roosevelt he selected to hang above his fireplace.\n    \n"
+    publishedDateTime: 2021-03-30T23:57:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KVamK9H6VnM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-history/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-history/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330143553-01-biden-signs-ppp-extension-0330-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -719,20 +734,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden administration announces next steps in overhauling Title IX campus sexual assault rules"
-    excerpt: "During the presidential campaign, Joe Biden vowed to scrap the Trump administration's new regulation on campus sexual misconduct, which took effect in August under Title IX, a gender equity law. Former Education Secretary Betsy DeVos had said she had ..."
-    publishedDateTime: 2021-04-06T13:00:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/biden-administration-announces-next-steps-overhauling-title-ix-campus-sexual-n1263113"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 104
-    images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2021_14/3462412/210406-joe-biden-al-0857_2213a608bf9c0d57498f84c15f980937.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Legislature votes to legalize marijuana — Biden administration green lights congestion pricing — Deal close on relief fund"
     excerpt: "New York will become the latest state to legalize marijuana, after a years-long push culminated in a vote by the state Legislature to approve a bill ending the prohibition of the drug. The legislation passed the state Senate by a vote of 40-23 Tuesday night,"
     publishedDateTime: 2021-03-31T11:14:00Z
@@ -748,6 +749,6 @@ related:
         height: 629
         isCached: true
 
-secured: "w9vJOGiTd6VHqCgcfD0bp6xtu7Ee67s2hFhkzCjOXP6CybaaAuJZxEDLp2jiPrKsmbUDQIsV0LC4yQ1lpDWFTIttsXqh3407GLWQl05B6gRuT9HSu9iyAITFWoWbwTz+AdXdzhFn8r8fI5Aid2kP0XneEcKE2xMgNXgdDbU4Ljp9U2xp5vn+i/XUZcCEf66eREjjfH9UJkZABFO9GRKIRR8vP5aDV/9CpZAWXk0aC149H011Jce2YSIkQUOusdHQXZR7vs8hcVqtzBakpJsL+CiwZ7NyRYF7R3mTqubf/Y3RCuziOMlSHfDzQDHJHNXfKJ/HwWOwL1BQSQ+8QX0MxlWh2wXk9JjqSqBmoAQ6oxQ=;rU685jcnQ1nQ/SRi1HNfLg=="
+secured: "cApbQJctnwUoibOM9Uy7TamLe/igZrXhqS3po7NaEXiM4FVHyMKUVMCbn0mc7DJTHOo33y2KGtiycAYlCKM6bV4nv6t7KD2NSzndA6gx8rQ24NdEIgeC5v0hrl1PkyQMODgeLuJpSm+W7pMZA2aTnLeC7rjZOUuK1rJgH4NgMjfXJ+eF2ImHF35xE/9z7+PCIiQdXuz3odrb5b74hWH1Ijccf8/QrEX3hhhBoXtN4JCRRWS2u19jRgor80gOWDe6tTIDA8wz+b36hA8o8TtXIeyZAHb1P1JEaUPUv3409/ExEsXM7l1yFSk1YfjL5ixnvIXm7hUB/kbMKWiGEzBOsrTdZwOqvKb3y+avhSNwPA8=;jQzAA3L6zdyc8PhCFt8jXA=="
 ---
 

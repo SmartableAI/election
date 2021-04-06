@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking GOP criticism Biden's infrastructure plan will kill jobs, and isn't really infrastructure "
+    excerpt: "Last Wednesday President Joe Biden announced a more than $2 trillion plan to rebuild US infrastructure, repairing roads, bridges, pipes, as well as expanding access to long-term care services under Medicaid, building schools and expanding internet access across the US.\n    \n"
+    publishedDateTime: 2021-04-06T13:28:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvcAndPXfPE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-republican-criticism-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/infrastructure-plan-republican-criticism-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401114824-01-biden-amtrak-infrastructure-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Outrageous': Biden condemns new Georgia law as a 'blatant attack' on voting rights"
     excerpt: "President Joe Biden on Friday condemned the sweeping new voting restrictions in Georgia as \"outrageous,\" \"un-American\" and \"Jim Crow in the 21st Century.\" \"This law, like so many others being pursued by Republicans in statehouses across the country is a ..."
     publishedDateTime: 2021-03-26T18:11:00Z

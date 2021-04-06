@@ -720,6 +720,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden administration announces next steps in overhauling Title IX campus sexual assault rules"
+    excerpt: "During the presidential campaign, Joe Biden vowed to scrap the Trump administration's new regulation on campus sexual misconduct, which took effect in August under Title IX, a gender equity law. Former Education Secretary Betsy DeVos had said she had ..."
+    publishedDateTime: 2021-04-06T13:00:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/biden-administration-announces-next-steps-overhauling-title-ix-campus-sexual-n1263113"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_14/3462412/210406-joe-biden-al-0857_2213a608bf9c0d57498f84c15f980937.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Legislature votes to legalize marijuana — Biden administration green lights congestion pricing — Deal close on relief fund"
     excerpt: "New York will become the latest state to legalize marijuana, after a years-long push culminated in a vote by the state Legislature to approve a bill ending the prohibition of the drug. The legislation passed the state Senate by a vote of 40-23 Tuesday night,"
     publishedDateTime: 2021-03-31T11:14:00Z

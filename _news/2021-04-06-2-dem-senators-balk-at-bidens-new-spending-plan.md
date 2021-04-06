@@ -720,6 +720,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration announces next steps in overhauling Title IX campus sexual assault rules"
+    excerpt: "During the presidential campaign, Joe Biden vowed to scrap the Trump administration's new regulation on campus sexual misconduct, which took effect in August under Title IX, a gender equity law. Former Education Secretary Betsy DeVos had said she had ..."
+    publishedDateTime: 2021-04-06T13:00:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/biden-administration-announces-next-steps-overhauling-title-ix-campus-sexual-n1263113"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_14/3462412/210406-joe-biden-al-0857_2213a608bf9c0d57498f84c15f980937.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Legislature votes to legalize marijuana — Biden administration green lights congestion pricing — Deal close on relief fund"
     excerpt: "New York will become the latest state to legalize marijuana, after a years-long push culminated in a vote by the state Legislature to approve a bill ending the prohibition of the drug. The legislation passed the state Senate by a vote of 40-23 Tuesday night,"
     publishedDateTime: 2021-03-31T11:14:00Z
@@ -735,6 +749,6 @@ related:
         height: 629
         isCached: true
 
-secured: "RUImDRTP7tMCZSWJJ4/xQb7ePTSm/daZgZcCZjYl6uFdcWlMTQ/cPm5M+qPQbEZd16C28+rMV47Lxdd5R0pfmNqf0cBPClDRIyrmflb3KkH9Yj+gPlf77/K/6J8Z2q7IWSF7v1bQBoSureHmboWcavnHJ06Ht32frHqElLkE0kO8qaBlMA6ECLQwgPPz/ApIZ+2Y1754gXifahQVFz7k23rsUc7RI9H0n9ugmcz5jYE8Bj8JdM4pyQ3BWLHK2s8GQZEPQotavWw8wMEcWTEVLuoO1wiWSoHUAc65QnpFNsy+lqfDJ1PNvd7q0UFLOTom8EBMNVhhQH1YkZAiFamMJ5Cy9Rd43yh7Ozn3KQXTA58=;1nur7lQXbQrZEhyXZpm8iA=="
+secured: "YQCcWK0G3PCNXv1YUmAfmPiiCKA8/z9On1XonFuE/82F9ocD5rZD3NBZLhQVef7zX+HPrB4RhJTAUpTs8UqYOaMRyep+7kHnEKxBN8TejTnCPyrJ8jsPrxTanel26UHwt66tL8EO+qDHmSbZW1A1ql9M0EvmWNnvJ66xtbvonNPm6K9DjnkT0U5GRSZJ//HzqLX/P+D9jH1/zhnJ/OwDck6IzvxYaZIlZC38L/GwRg/ea8SAJZAu/WWqNiLKcn2Pt6C5Nu/y2dTY2wMoK4Va03wNUOZxUv46T9gQ5DW9Wqp1xizTlc9gkMKvBSviyBXbOhyWFMJBeTwbZtU0cX3filDAXdrTxGXAkg75Yk+miv7LTzr0VlCjJW4Ar/KH16Y0hlz2CrSP78+y1y21jtSeelGQrTXT7d1gE/jGNnIAWfoHcWnS7fJ69sbp5w+2Glz+gpDBxP0UsSi2ppVqsE9MAxcA/cRf9nU0lCR2cvY4oE5iQxq1axkqZG79ZhgXE962rdDQIo4ce73SefOyiiQunQ==;wdLrlCTnQ9zKYs6+UojkKQ=="
 ---
 
