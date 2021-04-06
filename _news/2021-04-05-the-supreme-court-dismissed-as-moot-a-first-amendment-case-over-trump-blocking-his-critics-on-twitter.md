@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Value judgment: Donald Trump tumbles down billionaires’ rankings"
+    excerpt: "Today, we learn that Donald Trump got richer, too, but was left trailing by his billionaire mates. Poor guy. According to the yearly update of Forbes’ billionaires list, Donald Trump’s standing among other billionaires has plummeted almost 300 places ..."
+    publishedDateTime: 2021-04-06T16:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a7bb74a5147066fcabe5dcab29348d277436ea83/0_342_5120_3074/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0ddb6768f8c58f6251933c2d295ea8b"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "MKAKnu6T/2CJcdQjULbuL39nLSM6kbyri+FkJWYQ8t0Fv90bfSYvvfZKl9FUylCwoK5814jGgdvy2B3fwnYuphWQZ0bslJu8fL7zIqc5AShVyLzHeQRCf0WV5bBPH21KTLP4teTMC0cNwO4WwC8eyEhjg/W7I8eledtEUKpVNl2m3CYS4BDYxhOgLpDSLb9nUY88gJGLe3HfFL8XN/snShoFzD2m9vQbvmL4/7Xrb9KDaDW6it258com5NL8did9wmYDxIpTL1fyw/Adj1kD6ql4fN9Vk4/VgaB+HEDEbz3Atw4Z1q39UCCM4HLsXdEyIfGWm4HdWJa+O/Iyz+gLBYwS7VjHTvN8iF3uHDHMyknbwPLG3tZC3mgrIcXzyqC/iVEj0aosXgoJMwvaBwCCGQfnGEChDBpqvBkZhl05vK31Y7JsSfcjfJ94IxX3b7Zd0fE+Fw1VKGeFjB8VkuDoisoRKqDmtBmoNKkUDioc6xoNHwRwDOhnbWBJ1E/jtnzfuZ/n9WhXi+L04xSrixXqlg==;JiXXJ3iVKILXUVSdCkh3ag=="
 ---

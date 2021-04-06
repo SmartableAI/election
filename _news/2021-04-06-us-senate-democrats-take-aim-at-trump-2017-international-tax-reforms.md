@@ -319,6 +319,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Ex-Trump official penalized for violating Hatch Act"
+    excerpt: "a political appointee and ally of former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure ..."
+    publishedDateTime: 2021-04-06T15:24:00Z
+    webUrl: "https://thehill.com/homenews/administration/546657-ex-trump-official-penalized-for-violating-hatch-act"
+    ampWebUrl: "https://thehill.com/homenews/administration/546657-ex-trump-official-penalized-for-violating-hatch-act?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546657-ex-trump-official-penalized-for-violating-hatch-act?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/lynnepatton.jpg"
+        width: 645
+        height: 363
+        isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
     publishedDateTime: 2021-03-31T04:05:00Z

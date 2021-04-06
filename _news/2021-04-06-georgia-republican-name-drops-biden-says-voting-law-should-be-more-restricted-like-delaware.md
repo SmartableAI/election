@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Sen. Rick Scott slams Biden for backing MLB Georgia boycott, being silent on moving Olympics out of China"
+    excerpt: "Republican Sen. Rick Scott on Tuesday called on President Biden to offer to host the 2022 Olympic Games in the United States. "
+    publishedDateTime: 2021-04-06T16:39:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_56EhNRfNw/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "ZG70TG6wiReVgAP8Cuampu26bDzty+y6JcOGBqf5ReTY5Vy6npSFjWFaOQK2CGJK4F+//lHY9cWR4fX1/qixijQeHrY9HMFaW0Mnu/2thsrYF29dX8Cu2H1flcEq4Gn4Qhpj3vUjkHaiGJZOoHvLbp2JUEf5+jAaN82Gk88jPN1lMqVac++Py7Lqdstyq6boFfeA/B+VvW+Q8EdeKiegmdkYHGIn8NzooUBW1O2z3xE5eIHEPLsbYuHzGBGHUGu/d+Zfeu7R5Yj1HfXTqty6G744Z5VakiUtz8KG4UoMDmC8PfTibWu4WMKxFPtn31fPPfF7ZbLO+w+ZAgq+juUnEYWn40sSZQrSha970JPC9/Y=;rHpKwRmWNhbXrh1B3jHyUA=="
 ---

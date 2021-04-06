@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GOP Rep. Lee Zeldin urged by Trump allies to run for governor of NY amid Cuomo scandals"
-    excerpt: "Trump allies are quietly rallying their support behind Republican Rep. Lee Zeldin, encouraging him to mount a GOP gubernatorial bid against New York Gov. Andrew Cuomo in 2022, Fox News has learned."
-    publishedDateTime: 2021-04-06T15:26:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1bL9NxbVw8s/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Donald Trump Jr. slams Liz Cheney, says Gov. Cuomo ‘would be in jail’ if GOP"
     excerpt: "Donald Trump Jr. on Friday trashed Rep. Liz Cheney and said New York Gov. Andrew Cuomo “would be in jail” already if he were a Republican. The former first son attacked his dad’s"
     publishedDateTime: 2021-02-26T23:17:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/don-trump-jr-cpac-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "GOP Rep. Lee Zeldin urged by Trump allies to run for governor of NY amid Cuomo scandals"
+    excerpt: "EXCLUSIVE: Trump allies are quietly rallying their support behind Republican Rep. Lee Zeldin, encouraging him to mount a GOP gubernatorial bid against New York Gov. Andrew Cuomo in 2022, Fox News has learned. Sources familiar told Fox News that Zeldin ..."
+    publishedDateTime: 2021-04-06T15:30:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "8QJwBeB/PxKQOTxWzEatgOkAZ9bVKCWaZyrc3tYjI6FwlQZ1fhJQlDY/0N5jkqrYqjmrRI6+cDvqb9nN4deCdvXcDj4fi0U5AbC7vWGkgrTg91yeDccXQf7sSk0m4XHTQ4NrYttpRDSzeI4PsQA5BqnRI90DufE0JAoA3EAv+AvSwpzl1anA7qpnINEF/UWXiZBSy1nV2V30hRW70ipIIWmkfJdalmm3ps0q0MI4MTjZSf/7d1Q55K8DjsKHvuoY6hxaSYywmw40QAGSdeQlgjm1suE7qIuJPFBKKuFPs2nS6F7WJFLUVymQyIguS6LBHDSarDDBtNSflwxoIrPN8/qOYY3nYRNHHGSuRevjLcc=;Em/VNiTE+yvc7ZFZk0oXyg=="

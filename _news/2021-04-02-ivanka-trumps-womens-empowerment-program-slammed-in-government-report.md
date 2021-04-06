@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-pro
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1772025/vaccine-passport-gop-trump-jr.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Value judgment: Donald Trump tumbles down billionaires’ rankings"
+    excerpt: "Today, we learn that Donald Trump got richer, too, but was left trailing by his billionaire mates. Poor guy. According to the yearly update of Forbes’ billionaires list, Donald Trump’s standing among other billionaires has plummeted almost 300 places ..."
+    publishedDateTime: 2021-04-06T16:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a7bb74a5147066fcabe5dcab29348d277436ea83/0_342_5120_3074/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0ddb6768f8c58f6251933c2d295ea8b"
+        width: 600
+        height: 360
         isCached: true
   - title: "The Supreme Court dismissed as moot a First Amendment case over Trump blocking his critics on Twitter"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Supreme Court in a Monday morning ruling dismissed as moot a case over former President Donald Trump blocking Twitter users who criticized him. The Supreme Court vacated a ruling from the Court of Appeals for ..."

@@ -317,6 +317,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Ex-Trump official penalized for violating Hatch Act"
+    excerpt: "a political appointee and ally of former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure ..."
+    publishedDateTime: 2021-04-06T15:24:00Z
+    webUrl: "https://thehill.com/homenews/administration/546657-ex-trump-official-penalized-for-violating-hatch-act"
+    ampWebUrl: "https://thehill.com/homenews/administration/546657-ex-trump-official-penalized-for-violating-hatch-act?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546657-ex-trump-official-penalized-for-violating-hatch-act?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/lynnepatton.jpg"
+        width: 645
+        height: 363
+        isCached: true
   - title: "U.S. Senate Democrats take aim at Trump 2017 international tax reforms"
     excerpt: "WASHINGTON (Reuters) - Top Democrats on the Senate Finance Committee on Monday proposed major shifts in former President Donald Trump’s 2017 tax reforms to eliminate what they say are incentives for companies to move operations overseas and shift profits ..."
     publishedDateTime: 2021-04-05T20:51:00Z

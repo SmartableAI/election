@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Value judgment: Donald Trump tumbles down billionaires’ rankings"
+    excerpt: "Today, we learn that Donald Trump got richer, too, but was left trailing by his billionaire mates. Poor guy. According to the yearly update of Forbes’ billionaires list, Donald Trump’s standing among other billionaires has plummeted almost 300 places ..."
+    publishedDateTime: 2021-04-06T16:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a7bb74a5147066fcabe5dcab29348d277436ea83/0_342_5120_3074/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0ddb6768f8c58f6251933c2d295ea8b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "The Supreme Court dismissed as moot a First Amendment case over Trump blocking his critics on Twitter"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Supreme Court in a Monday morning ruling dismissed as moot a case over former President Donald Trump blocking Twitter users who criticized him. The Supreme Court vacated a ruling from the Court of Appeals for ..."
     publishedDateTime: 2021-04-05T15:10:00Z
@@ -64,6 +80,6 @@ related:
         height: 600
         isCached: true
 
-secured: "CK8Y9/OM/ueFV+4tkFx9AlwQ/tNQ7sS2q4kgSoiSJ96kzKmYXlhVWalHQTbn5Se7BqKZW3qry9CKy2wblNxNQLCLC7VjOZhOmVuursgx+Ib+iUyy1yM919N9prH+SiU7diTR19Yq7G1JoVln9l7uUKaiOChzfOD7l0dhlIfbjoLTzSMOf+A1eDpvJP+nFvcXQ0MB0qjXF7+9+sxBdHzu5Z4AQcx8tZiR4v2PzEVnwNbZEYr6JPfhgtZbZCBme6aW6yRoz2SBF7UknHuiNYhwj/U+edg+inqg3twwVqiONJWsRHbikNIRPvmHYkbTTz/feehFpFc7fxv528Y2lDT9YPuMoCHEhgtuyDRb42fEKSs=;3Y2Z8YfwzElevO3i5aWeGw=="
+secured: "+8ODtXLLudOPHWD7J+TU6zPaVwYCuxhfDpBeJTp8527z+6njts94TG/NFFqxLIljvL1J2UMYGzB2Op8paNadLubKt1kmonjhp+aZpv5QbUj0rKiIERERChc0RGjh6rRk3bmJyJIAId+8lXXTZM0Q+7LuLOls8y6JF1dHrP7n4oP6ivMTfqAhITUDZ6u4ACL7dD3J4KV4gD1DwqMrBvVXirS8yWqU06UBWF1jSpnhd5cDqUxGnCU3BiTjOC/zxLkYFv6F8i7QwkFyEYEZCD7DWSQRSnqk16mDJxIqaFXbGDI2pcyulop2hnhQz/4KQALlLy+kSr1scdGwukoYEt8ui9Q1pMBBt0Aa+X9tMpjBIyq6mkeU5ORn9hBUVc1KUzotD/bEolLjl8yYaDzXlx74xxR4hBxqY29wbTpD82KysqbEH0lMxgHUK83Ed2eW6+dWBa7K1/tBF8QcQ48utfDMuBMponNVi0jVd15XRIxD+73dbxLBTlu3ziJWmQGYY79WY0NuvOXEydI73QbF0Mw41A==;z7wEqddIVAVHGfJnH8GHFA=="
 ---
 

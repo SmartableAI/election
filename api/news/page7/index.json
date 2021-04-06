@@ -2,62 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-03-27-tim-scott-blasts-biden-democrats-for-filibuster-flip-flop-they-cry-racist-whenever-they-want-to-scare-you.md",
-      "title": "Tim Scott blasts Biden, Democrats for filibuster flip-flop: They cry 'racist whenever they want to scare you'",
-      "excerpt": "Sen. Tim Scott, R-S.C., ripped President Biden and congressional Democrats Friday for changing their view of the Senate filibuster rule, telling \"Fox News Primetime\" that they are invoking racism in order to scare Republicans.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQndboNIed0/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQndboNIed0/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78efa97c-fc3c-4cbc-8c1b-5e8db2d0a57d/0645bd61-7716-4015-ae01-3f9193659c55/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist.amp",
-      "publishedDateTime": "2021-03-26T19:41:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-27-frustrated-trump-demands-to-know-if-special-counsel-durham-is-still-living.md",
       "title": "Frustrated Trump demands to know if Special Counsel Durham is still 'living'",
       "excerpt": "Former President Donald Trump called Friday for an update on the status of Special Counsel John Durham’s probe into the origins of the FBI’s “Crossfire Hurricane” investigation of his administration’s alleged ties to Russia.",
@@ -379,6 +323,54 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-watch-vp-kamala-harris-visits-child-development-center-in-connecticut.md",
+      "title": "Watch: VP Kamala Harris Visits Child Development Center In Connecticut",
+      "excerpt": "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/53/538866.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html",
+      "publishedDateTime": "2021-03-26T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {

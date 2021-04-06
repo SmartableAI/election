@@ -734,6 +734,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "The wage gap that threatens Biden's climate plan"
+    excerpt: "President Joe Biden's efforts to sell the country's workers on his climate agenda will face a major hurdle, data obtained by POLITICO show — a big wage gap between the new green energy jobs and the old fossil fuel ones. Energy industry workers employed ..."
+    publishedDateTime: 2021-04-06T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/06/biden-climate-jobs-wage-gap-479130"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/48/1e/40fe17f44d0da80bfb9409b822f1/gettyimages-527740282-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden names diverse slate of judicial nominees in first effort to reshape federal courts"
     excerpt: "Biden plans to nominate Judge Ketanji Brown Jackson for the U.S. Circuit Court of Appeals for the District of Columbia, filling Attorney General Merrick Garland's former seat."
     publishedDateTime: 2021-03-30T11:58:00Z

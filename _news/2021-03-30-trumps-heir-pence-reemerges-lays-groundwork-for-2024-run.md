@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reem
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282"
 type: article
 quality: 150
-heat: 990
+heat: 1010
 published: true
 
 provider:
@@ -303,6 +303,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Ex-Trump official penalized for violating Hatch Act"
+    excerpt: "a political appointee and ally of former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure ..."
+    publishedDateTime: 2021-04-06T15:24:00Z
+    webUrl: "https://thehill.com/homenews/administration/546657-ex-trump-official-penalized-for-violating-hatch-act"
+    ampWebUrl: "https://thehill.com/homenews/administration/546657-ex-trump-official-penalized-for-violating-hatch-act?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546657-ex-trump-official-penalized-for-violating-hatch-act?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/lynnepatton.jpg"
+        width: 645
+        height: 363
         isCached: true
   - title: "U.S. Senate Democrats take aim at Trump 2017 international tax reforms"
     excerpt: "WASHINGTON (Reuters) - Top Democrats on the Senate Finance Committee on Monday proposed major shifts in former President Donald Trump’s 2017 tax reforms to eliminate what they say are incentives for companies to move operations overseas and shift profits ..."

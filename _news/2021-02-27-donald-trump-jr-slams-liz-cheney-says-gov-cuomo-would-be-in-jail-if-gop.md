@@ -61,16 +61,16 @@ related:
         height: 720
         isCached: true
   - title: "GOP Rep. Lee Zeldin urged by Trump allies to run for governor of NY amid Cuomo scandals"
-    excerpt: "Trump allies are quietly rallying their support behind Republican Rep. Lee Zeldin, encouraging him to mount a GOP gubernatorial bid against New York Gov. Andrew Cuomo in 2022, Fox News has learned."
-    publishedDateTime: 2021-04-06T15:26:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1bL9NxbVw8s/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo"
+    excerpt: "EXCLUSIVE: Trump allies are quietly rallying their support behind Republican Rep. Lee Zeldin, encouraging him to mount a GOP gubernatorial bid against New York Gov. Andrew Cuomo in 2022, Fox News has learned. Sources familiar told Fox News that Zeldin ..."
+    publishedDateTime: 2021-04-06T15:30:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo"
     ampWebUrl: "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 127
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
