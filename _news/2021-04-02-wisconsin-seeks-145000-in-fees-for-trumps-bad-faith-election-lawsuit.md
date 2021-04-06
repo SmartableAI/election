@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6M8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6M8"
 type: article
 quality: 139
-heat: 239
+heat: 259
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
+    excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
+    publishedDateTime: 2021-04-05T22:36:00Z
+    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/h6f4G8r7M34xck89FTB6-cG1dv0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RTVEGNYFFH5DNLR3Z5C2PATFKU.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Former Trump adviser takes prominent role in voting battle"
     excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
     publishedDateTime: 2021-03-27T04:26:00Z
@@ -95,22 +111,15 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Wisconsin cities: Trump should pay legal bills for challenge"
-    excerpt: "MADISON, Wis. (AP) — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
-    publishedDateTime: 2021-04-05T21:54:00Z
-    webUrl: "https://www.chron.com/news/article/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
+  - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
+    excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
+    publishedDateTime: 2021-04-05T21:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-05/wisconsin-cities-trump-should-pay-legal-bills-for-challenge"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "X5hxERG4dwU6VJ6jRauWVjEyIKtB7Z5GGZfKpD2cPODi8ckRdpFKqSc7mpQpuBHE3O6I9E6kMEVNuWplC1HoWR74aNDHH4XEw5saJLWFGgAw/fP5cthIysdtr17rmXsR6Ykfh+M40r5xCn2uyKyusEXyGKG2FKYT8eBWK4BzYKb2qUfZhMvkwjZmivbGNexoC1CFTu2+AblpXljI+NfyiS/DiY6QrIoGb4wDZPEsQYbh7jYcMTuNSyZZwpY3YDMYoPpHVKJcJCCNuljLUHXerS0hgS8x5HNxXlz57Lxsuc85YA2nVvS0CrpNukophdzyw9rpWcEwG70FGa7FLTfQ5GdJpMcxug7vCGfozy8DLrw=;YNmus8IqI5yjZRIG0JE/Gw=="
 ---

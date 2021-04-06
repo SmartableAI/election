@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Supreme Court Dismisses Case Over Trump and Twitter Critics"
-excerpt: "WASHINGTON (AP) — The Supreme Court on Monday dismissed a case over former President Donald Trump's efforts to block critics from his personal Twitter account. The court said there was nothing left to the case after Trump was permanently suspended from ..."
-publishedDateTime: 2021-04-05T13:46:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2021-04-05/supreme-court-dismisses-case-over-trump-and-twitter-critics"
-webUrl: "https://www.usnews.com/news/business/articles/2021-04-05/supreme-court-dismisses-case-over-trump-and-twitter-critics"
+title: "Supreme Court dismisses case over Trump and Twitter critics"
+excerpt: "The Supreme Court has dismissed a case over former President Donald Trump’s efforts to block critics from his personal Twitter account What’s next for Donald Trump? WASHINGTON -- The Supreme ..."
+publishedDateTime: 2021-04-05T14:33:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
+webUrl: "https://abcnews.go.com/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_ef0a3b52c3bb4859875d5e3de45cc78e_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Trump rages over election coverage: 'Other than that, Happy Easter'"
@@ -134,6 +142,6 @@ related:
         height: 682
         isCached: true
 
-secured: "+m9mnS+CWqR1JibOCBMm6ThIWaeZnGCULAEQewwzBmMfY/bzzVAuEjd+uhXv1oRy6QRv6Hc/qtPWwXm+jQ2m3Gkzhte+Y+utozrzKSosKAelbQWCMTo7wY6wxp/82buISZPMt3U/jzgQV7pm1ILVaN3+UBR4z8QDEGQMJ9gtQ9D0jBe52AtoLtsbpYRKDy9osWNIy52/GOM+rb8+NqCgNluuv+QnpB02vYksXXiUAQcSswVTtFtNzrPpJBekqhGVKnyXpZiWZHlilmduGGGRKZAfTOJqBT6iKRru8nT1HL+/8pDwaiBetDsNK0vILDyicbAbcoxrtQZgrWZa4UPodtQe/vR+dZnLMk7YJSQ2zfa0Sq3nFhFDHgO5iNdJ2lDUkhf0zSQkiaVnAgiE2iqC2kcTBY4VdpDryB0cpIUTflA0OwgG7ZkUxZDKN5Yy3lYWvBmtARFFPP1Ha89VwJiTFmMr5UR+pY/ZJ8CMTbswnHJDir3WeF5XTp5lerhsT7YFQLhDUiJ6x4d1AVkvekoHLQ==;s2t2LKvPJ2JP/Z+nJ86WIQ=="
+secured: "ScTFo20/xRhUF5tNC6+eaxii4DF6HZfEaoltmSIIxnslB/lJOb2HlWyzSm1rwM6RWl4hrSziK+FImvQNyiRooEjqUg5BFfpf7Vsbx0PvymsfggFvfmZ/hsKe2corooqGnMkDeEmzuZOSl8mLkaMgZHZmqsXjW1wChIWPe6ABggpt2UdW3nIW0GphXW90Va2gn1CsoAh/5NkLPp3sURA0eDRZZQeDOy8c68xPsGpN/xo7zjwGV9zFxeG39YEGGNqYt6SRl4ezZpJFoBTKJT4vL4Rd81DOLN6tDE3aAJP3LTHoInko73oI6HQYHrieF8vzxgTr2qkQ5TR349u62fIkHhbNfvirn2N+5Yw6i26uPaU=;RrAoYJeULj1/2UunGljsLA=="
 ---
 

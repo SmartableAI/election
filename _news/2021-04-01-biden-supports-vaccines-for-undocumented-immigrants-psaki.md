@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigra
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Majority of Americans disapprove of Biden handling of border crisis and immigration: Poll"
+    excerpt: "President Biden’s overall approval rating stands at 61% in a new national poll. But when it comes to issues of border security and immigration, the president’s underwater by double digits."
+    publishedDateTime: 2021-04-05T21:59:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jLet-rKyHuY/bidens-poll-numbers-on-border-crisis-and-immigration-underwater-by-double-digits"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-poll-numbers-on-border-crisis-and-immigration-underwater-by-double-digits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-poll-numbers-on-border-crisis-and-immigration-underwater-by-double-digits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ari Fleischer rips Biden over border access comments: Like a 'co-conspirator hiding evidence' from police"
     excerpt: "President Biden made stunning comments defending the administration's purported transparency when it comes to access to federal border facilities says former White House Press Secretary Ari Fleischer on 'The Story'"
     publishedDateTime: 2021-03-25T20:44:34Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557161752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310PN"
         width: 890
         height: 545
+        isCached: true
+  - title: "Supreme court dismisses case brought by Twitter users Trump blocked"
+    excerpt: "A lawsuit over whether or not former President Donald Trump could block individuals from seeing content published on his @realDonaldTrump Twitter account has been dismissed by the US supreme court. Heeding the rulings of the court of appeals for the second ..."
+    publishedDateTime: 2021-04-05T16:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/05/trump-twitter-block-case-supreme-court-decision"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/05/trump-twitter-block-case-supreme-court-decision"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/05/trump-twitter-block-case-supreme-court-decision"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a7fa7b4cec35d6da20881c6c7e90c8ee859c7020/75_0_1407_844/master/1407.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dadcdc85c4828acc3105da2f2e664e6b"
+        width: 600
+        height: 360
         isCached: true
   - title: "Conservative writer says Trump's Save America PAC is hurting his supporters"
     excerpt: "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ..."

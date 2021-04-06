@@ -77,6 +77,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Supreme Court dismisses case over Trump and Twitter critics"
+    excerpt: "The Supreme Court has dismissed a case over former President Donald Trump’s efforts to block critics from his personal Twitter account What’s next for Donald Trump? WASHINGTON -- The Supreme ..."
+    publishedDateTime: 2021-04-05T14:33:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ef0a3b52c3bb4859875d5e3de45cc78e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Supreme Court tosses dispute over Trump blocking critics on Twitter"
     excerpt: "Washington — The Supreme Court on Monday ordered a dispute over former President Donald Trump's ability to block his critics on Twitter to be tossed out, bringing the battle over Mr. Trump's Twitter account to a close as he is no longer in office and has ..."
     publishedDateTime: 2021-04-05T14:06:00Z
@@ -125,15 +141,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Supreme Court Dismisses Case Over Trump and Twitter Critics"
-    excerpt: "WASHINGTON (AP) — The Supreme Court on Monday dismissed a case over former President Donald Trump's efforts to block critics from his personal Twitter account. The court said there was nothing left to the case after Trump was permanently suspended from ..."
-    publishedDateTime: 2021-04-05T13:46:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-04-05/supreme-court-dismisses-case-over-trump-and-twitter-critics"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "S+dcyuel/5hreypQUq5UiMbI+0E/eOjFWcyjRjloO63yucbdVD1NSFLHprz/sQB56Q5004g0br1CWcgbchbKLWOo2RCG6jVLapPYtImuB8M7S4E1DNc8NSqxuEaKu1m+c9Kn+/AsRQxT8ZAv5UYPLDcL88yLzauWBUjvhSocXrH59aQmzaH3rX3w5YyLHx7c9CEyBnSLUKTjJ/EOb9ZBX5ntF+Le5AaaUYcUUJFmEkP1Pn3Ot/0vaqQf6ix6i/jX05GmbefqdY+ODDUW+DrgYKieiH6oE3eFLMAuRCQGrfx7/C0ATZQ+qwKHHCTUc/vFhX+fbrXX/vdWr1rc1CeHQQqJlhRa8KLb3EYPu01uNH8=;JxQzBWhfxfm/oSpYHjmyBw=="
 ---

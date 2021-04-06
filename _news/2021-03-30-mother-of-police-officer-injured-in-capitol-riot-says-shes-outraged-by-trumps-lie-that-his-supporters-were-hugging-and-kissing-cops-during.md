@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How the Trump campaign steered supporters into recurring donations"
+    excerpt: "According to a New York Times investigation, Donald Trump’s 2020 campaign tricked supporters into making recurring donations. NBC News’ Danny Cevallos explains how it happened and if it’s legal.April 5, 2021 © 2021 NBC UNIVERSAL"
+    publishedDateTime: 2021-04-05T23:08:00Z
+    webUrl: "https://www.nbcnews.com/now/video/how-the-trump-campaign-steered-supporters-into-recurring-donations-109693509532"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo109693509532"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo109693509532"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/ott_now_trump_cevallos_210405_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "7Zpx2qc+csup5pxjOC9dr/KQAq2TDxclVvn5E7XQf7ihqq4wePLwUvwHjYhz5/rG5W2q/C9WVxHokbUWGw5Zu7WbTNThN75xnkjDj4IemNbPn3txof04jCAEoiglka1BZ9sUlTTu1zkgsHcwQ93dp5onIAalmXTnhBrmOdWtGXYhUTYcuk3hL+GLfdfp/OR55aiTYOXEbNjIKjBGVXOPeZdEeNeTuX62y4EtXjs7DeiacglYQtzGPrVVkRRP+f4Qj8VfE+fYcn/GlyabANHen7WaNZuaxI+bkAlOpQXGW5+mY24k2t5L7fLZsJ/o4Bt0K4QJPn9t/NrtAOv8zTs+KDEGnKJB8QRcHxXxwuI4Y5I=;3W5bq+mcdi2OIqje6RF6cA=="
 ---

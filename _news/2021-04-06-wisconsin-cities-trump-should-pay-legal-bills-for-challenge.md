@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Wisconsin cities: Trump should pay legal bills for challenge"
-excerpt: "MADISON, Wis. (AP) — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
-publishedDateTime: 2021-04-05T21:54:00Z
-originalUrl: "https://www.chron.com/news/article/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
-webUrl: "https://www.chron.com/news/article/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
-ampWebUrl: "https://www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
+title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
+excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
+publishedDateTime: 2021-04-05T21:51:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-05/wisconsin-cities-trump-should-pay-legal-bills-for-challenge"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-04-05/wisconsin-cities-trump-should-pay-legal-bills-for-challenge"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Wisconsin seeks $145,000 in fees for Trump's 'bad faith' election lawsuit"
@@ -91,6 +87,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
+    excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
+    publishedDateTime: 2021-04-05T22:36:00Z
+    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/h6f4G8r7M34xck89FTB6-cG1dv0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RTVEGNYFFH5DNLR3Z5C2PATFKU.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Former Trump adviser takes prominent role in voting battle"
     excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
     publishedDateTime: 2021-03-27T04:26:00Z
@@ -108,6 +120,6 @@ related:
         height: 336
         isCached: true
 
-secured: "UDi1UfAXIbJnox4cFhnSK737KAsULIHWI+Mcq0AdkpOYf4WCjgjHax+kjUUOo898ru/oa2h8IZy2XfR/YSXU8ICsTJ0Jx6kVbDd9Wr77zOw5ePLZ26tURUzM6pGXFmZUloZMVVW/qUxN/7HODapY1l2mzVed0E5Bo4cv7gbqffZlfjVtbc50y+tVrlphFjiZle1Khh9tZu6izz5jjmz/GCKd+UlgnGF5wlMUBWApTFmojF8S4sqDOHsdx2wDIPrblUk1xKXgOdZpOh1czPSMsL30pnYlcLtgtuVp+xYaIZiMsHebLZYquP8quVkXsbI/gQE9DasbztE7FYUituwvrCokteBFjzvKPfc/CCzBbUs=;okZdlLCKD8kcLxGs6+Aq9Q=="
+secured: "U39kaydWW/I50SWd6RRMmTdwR4ZzmMEvKTQ+vnkIquzkjTLo2jckudSM/BBKoENxGY+W6pOXlVXI/Vb/KVXjdqTMWsCpVKdo3fXuV8lzCY6QRMCHzIGhw8vlrf1hkhEh3TpRKMN28y5Yu/0I2oc3OGRtt5DIU7fmeJGAO4TzvclxhBKiwZTiKC6a+wSxmSr2eHQWd5euJlYr5qB4iHZkqNIgPmcXZrG27ufybPLpYO9IAsbroBxzSjTdJ/Q8/Kx1PB1TeDcL8JiofMUALALDaeOqrtz1wEVwtPgwmzhyda/jslnG94Y6dhgnIOKSKF9xa/Zh+LgBHxoAumlBi1eZg+cWVpLj8Q6jOArrahgY53nUYEL92JypzCXSOTtyXwD8odzO5VPcMmOQQiNYyeDGOpQm+yu0WjoDJW8DgEq/oVerNVS35SNh07SgssI1KEWZyxM4OfSezfNAnPYliuPzJ/aZOeacvFGklwUK2lPNBdxB3Ug6VCh6OB3eaMDRqRRCRwjoZk5lmeaJesp0Uh4okw==;iBatfiNbunRcpogFKXTVbQ=="
 ---
 

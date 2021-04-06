@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Majority of Americans disapprove of Biden handling of border crisis and immigration: Poll"
+    excerpt: "President Biden’s overall approval rating stands at 61% in a new national poll. But when it comes to issues of border security and immigration, the president’s underwater by double digits."
+    publishedDateTime: 2021-04-05T21:59:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jLet-rKyHuY/bidens-poll-numbers-on-border-crisis-and-immigration-underwater-by-double-digits"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-poll-numbers-on-border-crisis-and-immigration-underwater-by-double-digits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-poll-numbers-on-border-crisis-and-immigration-underwater-by-double-digits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden grants Michigan’s Whitmer 66K more vaccine doses, in seeming shift from population-based US plan: report"
     excerpt: "President Biden is boosting Michigan’s coronavirus vaccine allotment by more than 66,000 doses for next week after receiving a call for help from Gov. Gretchen Whitmer, according to reports."
     publishedDateTime: 2021-03-31T06:53:06Z

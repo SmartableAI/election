@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
+    excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
+    publishedDateTime: 2021-04-05T22:36:00Z
+    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/h6f4G8r7M34xck89FTB6-cG1dv0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RTVEGNYFFH5DNLR3Z5C2PATFKU.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Former Trump adviser takes prominent role in voting battle"
     excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
     publishedDateTime: 2021-03-27T04:26:00Z
@@ -95,22 +111,15 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Wisconsin cities: Trump should pay legal bills for challenge"
-    excerpt: "MADISON, Wis. (AP) — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
-    publishedDateTime: 2021-04-05T21:54:00Z
-    webUrl: "https://www.chron.com/news/article/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wisconsin-cities-Trump-should-pay-legal-bills-16078624.php"
+  - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
+    excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
+    publishedDateTime: 2021-04-05T21:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-05/wisconsin-cities-trump-should-pay-legal-bills-for-challenge"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Nw1j9ojxS5mCwykDLLMq7Vl6tGkrfW2312Gkik+QW6Dcv7XDu0SB9ItviwwE3PInvKX8uv+QTJJF4+vnSQLAwy3Cf1KdFf35uajY3/tiYA/jRevUUkZ/rePj3J7tKPFzNMYmJBzdYZnWt0I1xlkTXurVCFfhmF/gZ1c7ZhLFApc2jEon6NJ+bE/I1DywAkiIhJROke3Pw2OPr03lrzgysNJZ+m3jXUkF+dPn6yAEtQZIKQpxS6i63OJ51Tt4QICcBphm/7w5YfkKHBKg/EOF9Lc9xf1if/hvpYwQtw+nbIGuml7dnsXeR527QvvK5F/BH0hFH3JK8zFK/VhaoEo7GM8vSDAfw3osPjX30DQC2ZcfMhFWFjzSxmx/HiqAFfbXif7/Funi9FOgBFDt0k0ETNVAIhlh9oPvxWfyUDCjKzYGRi5La9fI9BJyefFeZu9/UnU1QXrumx4az9WN+MiSHUgIdruWZ8xrUbFkGsPhCwD8Terft/ksArysNfkkD0k3TBvKSQH+9tdXfv5Hc5yy8A==;0L6w9rqRadccEegMex0Hog=="
 ---

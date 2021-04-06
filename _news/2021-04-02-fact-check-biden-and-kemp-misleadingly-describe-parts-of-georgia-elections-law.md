@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-ge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/fact-check-biden-kemp-georgia-election-law-water-drop-boxes-hours/index.html"
 type: article
 quality: 186
-heat: 326
+heat: 346
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_12/3460045/210326-joe-biden-se-305p_8eceef510d30a283446830dfceed5b6e.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "How a battery plant dispute in Georgia pits Biden's climate goals against U.S. trade policy"
+    excerpt: "President Joe Biden’s ambitious electric vehicle plan has run into a huge hurdle with U.S. trade law, forcing him to choose between swing-state jobs and American intellectual property rules that have come under intense scrutiny during the Covid-19 pandemic."
+    publishedDateTime: 2021-04-05T23:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/05/biden-electric-vehicles-trade-law-479105"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/05/biden-electric-vehicles-trade-law-479105"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/05/biden-electric-vehicles-trade-law-479105"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 125
+    images:
+      - url: "https://static.politico.com/bb/f0/68c46d6b4cfe96780a149e290d31/210402-electric-car-charging-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden warned of defense budget test"
     excerpt: "Act on the news with POLITICO Pro. — A top Republican is making a final plea to President Joe Biden: Don’t shortchange the Pentagon in its upcoming budget request. — The Marine Corps is working on an ambitious plan to remake the entire service by 2030."
