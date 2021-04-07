@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden summons public support as GOP bucks infrastructure"
-excerpt: "WASHINGTON — With an appeal to think big, President Joe Biden is promoting his $2.3 trillion infrastructure plan directly to Americans, summoning public support to push past the Republicans lining up against the massive effort they sum up as big taxes ..."
-publishedDateTime: 2021-04-05T21:48:00Z
-originalUrl: "https://www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html"
-webUrl: "https://www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+title: "Jill Biden to announce plans to aid military families in next phase of her agenda"
+excerpt: "He died of brain cancer in 2015. During the 2020 presidential campaign, Biden promised Joining Forces would be high on her to-do list if she became first lady. Even before President Joe Biden was sworn in, she signaled she intended to keep that promise ..."
+publishedDateTime: 2021-04-07T07:00:00Z
+originalUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/04/07/jill-biden-announce-joining-forces-plans-aid-military-families/7108590002/"
+webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/04/07/jill-biden-announce-joining-forces-plans-aid-military-families/7108590002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7108590002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7108590002"
 type: article
-quality: 125
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://www.gannett-cdn.com/presto/2021/04/06/USAT/78fd5881-48d3-48f3-92b5-025c3e6d6190-AFP_9772HX.jpg?auto=webp&crop=4499,2531,x0,y329&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -126,6 +126,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden summons public support as GOP bucks infrastructure"
+    excerpt: "WASHINGTON — With an appeal to think big, President Joe Biden is promoting his $2.3 trillion infrastructure plan directly to Americans, summoning public support to push past the Republicans lining up against the massive effort they sum up as big taxes ..."
+    publishedDateTime: 2021-04-05T21:48:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-summons-public-support-as-gop-bucks-infrastructure/2021/04/05/b782d618-9658-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden says he has not spoken with Fed Chair Powell"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that he has not spoken to Federal Reserve Chair Jerome Powell, calling the central bank an independent agency."
@@ -254,22 +270,6 @@ related:
       - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Jill Biden to announce plans to aid military families in next phase of her agenda"
-    excerpt: "He died of brain cancer in 2015. During the 2020 presidential campaign, Biden promised Joining Forces would be high on her to-do list if she became first lady. Even before President Joe Biden was sworn in, she signaled she intended to keep that promise ..."
-    publishedDateTime: 2021-04-07T07:00:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/04/07/jill-biden-announce-joining-forces-plans-aid-military-families/7108590002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7108590002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7108590002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/06/USAT/78fd5881-48d3-48f3-92b5-025c3e6d6190-AFP_9772HX.jpg?auto=webp&crop=4499,2531,x0,y329&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden faces Democratic and Republican hurdles over $2tn infrastructure plan – live"
     excerpt: "Senator Joe Manchin, whose vote will likely determine whether Joe Biden’s infrastructure plan can pass the Senate, has expressed criticism of the proposal. In a radio interview with a local West Virginia station today, Machin said he had serious concerns ..."
@@ -515,6 +515,6 @@ related:
         height: 433
         isCached: true
 
-secured: "eKsv1Nc7CQO2eqMLa0HxLKsRocy26HBL3kGuyBFkJaEdI5D4x52ca8FiG0r2UvBpiJ9bf8qV4R2wCkJSPiLmc/uJ+gEZvvelosL9IFDsnTf7yQ507C2X3muS5HV1jsggSAnEk1XRBC/JQHdIHRetvT1F7TYeg2NiXOxyIYqBcP+5hSKnbz2kTP8fnIbvV+24rBN8jJyK5YsHKpsMFzyBGe89+//zzTYo33awAF7eeXM0fMHtYneo84XRP09P+ntaTlYdlIiPVrQ4vPotJkVXAsU47MhvPVCNeEzWkETyY6c7qxpR2msUFQLm+6CR5CKsEy08oLPvZQSNMN2YvHCPvlcSYAZehaZJBkbbs2ftXzs=;moFPuhi4HOmzVVIBBEbxsw=="
+secured: "AoinbTvvn3zJnbzeUbtGdxAB0XL4MwTvdmt7L5xoyjRspexQrYb7I4kqKvdXYxr36fbp4rujQWxSJ66OSdgyxjPjpzneMD5mqVArK8kcCoboQ4jGdxRoSwGEmczrBUlRR2gH61AmP5Si0h1zl9PXssZ768frkHmOYxNF575oXexo0p5CTUK+brN56kdJb82DuwC3rPq6mEcR3x9iCxMC5vRJKDra73qV6zy3Fivy/C0/mkY+1ivTsUw2ba2JWL9zqHtM4UTNwItxdv7I/czyfntBafVkoaCdUKPmOfpVHODknCxlNP6NP++5Zd1MgOpo+o495fh+R7774wWYy5P+8VLSeJ3MbfGJstzhJexpWHg=;cMbzH7pPfSict+Nrxv0XbA=="
 ---
 

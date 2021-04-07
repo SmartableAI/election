@@ -271,6 +271,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Jill Biden to announce plans to aid military families in next phase of her agenda"
+    excerpt: "He died of brain cancer in 2015. During the 2020 presidential campaign, Biden promised Joining Forces would be high on her to-do list if she became first lady. Even before President Joe Biden was sworn in, she signaled she intended to keep that promise ..."
+    publishedDateTime: 2021-04-07T07:00:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/04/07/jill-biden-announce-joining-forces-plans-aid-military-families/7108590002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7108590002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7108590002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/06/USAT/78fd5881-48d3-48f3-92b5-025c3e6d6190-AFP_9772HX.jpg?auto=webp&crop=4499,2531,x0,y329&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
     excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
     publishedDateTime: 2021-04-04T14:01:00Z

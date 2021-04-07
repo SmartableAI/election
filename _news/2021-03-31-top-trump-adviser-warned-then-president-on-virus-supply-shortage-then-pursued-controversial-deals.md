@@ -143,6 +143,22 @@ related:
         width: 1245
         height: 698
         isCached: true
+  - title: "Inside Donald, Melania Trump's Easter Celebration With Their Family: Report"
+    excerpt: "Donald Trump was in a \"good mood\" when he celebrated Easter with his children and grandchildren Sunday, a report says The former president and Melania Trump reportedly were greeted with applause when they attended Easter service Melania reportedly was not ..."
+    publishedDateTime: 2021-04-07T04:39:00Z
+    webUrl: "https://www.ibtimes.com/inside-donald-melania-trumps-easter-celebration-their-family-report-3175994"
+    ampWebUrl: "https://www.ibtimes.com/inside-donald-melania-trumps-easter-celebration-their-family-report-3175994?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-melania-trumps-easter-celebration-their-family-report-3175994?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/outgoing-us-president-donald-trump-and-first-lady.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Melania Trump Sends 'Easter Blessings To Everyone,' Attends Easter Service With Husband Donald"
     excerpt: "Melania Trump tweeted a message for her followers on Easter Sunday and attended a church service with husband Donald Trump."
     publishedDateTime: 2021-04-05T01:48:00Z

@@ -157,6 +157,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Inside Donald, Melania Trump's Easter Celebration With Their Family: Report"
+    excerpt: "Donald Trump was in a \"good mood\" when he celebrated Easter with his children and grandchildren Sunday, a report says The former president and Melania Trump reportedly were greeted with applause when they attended Easter service Melania reportedly was not ..."
+    publishedDateTime: 2021-04-07T04:39:00Z
+    webUrl: "https://www.ibtimes.com/inside-donald-melania-trumps-easter-celebration-their-family-report-3175994"
+    ampWebUrl: "https://www.ibtimes.com/inside-donald-melania-trumps-easter-celebration-their-family-report-3175994?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-donald-melania-trumps-easter-celebration-their-family-report-3175994?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/outgoing-us-president-donald-trump-and-first-lady.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "S+dcyuel/5hreypQUq5UiMbI+0E/eOjFWcyjRjloO63yucbdVD1NSFLHprz/sQB56Q5004g0br1CWcgbchbKLWOo2RCG6jVLapPYtImuB8M7S4E1DNc8NSqxuEaKu1m+c9Kn+/AsRQxT8ZAv5UYPLDcL88yLzauWBUjvhSocXrH59aQmzaH3rX3w5YyLHx7c9CEyBnSLUKTjJ/EOb9ZBX5ntF+Le5AaaUYcUUJFmEkP1Pn3Ot/0vaqQf6ix6i/jX05GmbefqdY+ODDUW+DrgYKieiH6oE3eFLMAuRCQGrfx7/C0ATZQ+qwKHHCTUc/vFhX+fbrXX/vdWr1rc1CeHQQqJlhRa8KLb3EYPu01uNH8=;JxQzBWhfxfm/oSpYHjmyBw=="
 ---

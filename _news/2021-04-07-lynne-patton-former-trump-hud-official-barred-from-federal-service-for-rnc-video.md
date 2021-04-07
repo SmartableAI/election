@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Trump To Launch Own Social Media Platform: Ex-aide"
-excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
-publishedDateTime: 2021-03-21T19:35:00Z
-originalUrl: "https://www.ibtimes.com/trump-launch-own-social-media-platform-ex-aide-3166480"
-webUrl: "https://www.ibtimes.com/trump-launch-own-social-media-platform-ex-aide-3166480"
+title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
+excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
+publishedDateTime: 2021-04-06T20:42:00Z
+originalUrl: "https://www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html"
+webUrl: "https://www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html"
+ampWebUrl: "https://www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html?outputType=amp"
 type: article
-quality: 55
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
-    width: 1024
-    height: 682
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RJEORGI3XFH2BFIZGHFCBAPZDY.jpg"
+    width: 2333
+    height: 1646
     isCached: true
 
 related:
@@ -157,21 +155,19 @@ related:
         width: 1024
         height: 700
         isCached: true
-  - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
-    excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
-    publishedDateTime: 2021-04-06T20:42:00Z
-    webUrl: "https://www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html"
-    ampWebUrl: "https://www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html?outputType=amp"
+  - title: "Trump To Launch Own Social Media Platform: Ex-aide"
+    excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
+    publishedDateTime: 2021-03-21T19:35:00Z
+    webUrl: "https://www.ibtimes.com/trump-launch-own-social-media-platform-ex-aide-3166480"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 69
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RJEORGI3XFH2BFIZGHFCBAPZDY.jpg"
-        width: 2333
-        height: 1646
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/21/donald-trump-appears-to-be-planning-a-return.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "News Media Seeing 'Post-Trump Slump' As Passions Cool"
     excerpt: "The so-called \"Trump bump\" which boosted viewers and subscriptions at outlets such as CNN and the New York Times now appears to have turned into a slump following the departure of Donald Trump from the presidency. At CNN -- which was at loggerheads with ..."
@@ -197,6 +193,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "U4rLDRB9k1yBvzktPHuCM4afnN87JPfXtLRPlMgu1QihgvfvVnGUCjb+a/vTXV7EMuv3k3BWxyxPsLJOEIKRdLwoNpxJSOylQHwk3F9VtDws3iUI4R8kgVVYUGL+/Sj9oUk50E4LpAhE9sB7wpSVsLbuHbl/B6WnVrglFuxEVZ7faLOdk8Nre2qjCPEhXZW8JOtvYFjGdQt5j2Wbs6RX+CMZZXlqLSlXsJMI4Iur7Hycrw5BR8ZN6rAegQwyhCANDImQjTozJJvRDZoIV/5Ev04U+6vHrIUojfyBLUIOuNSa2f2/PyLxKuCMqSWSEQu3Cc1u9FbKANHbX8Z0CcB21owjgafhP26krk+YG3Na+wzSDr+BBVVB0OeOcD+VpWPEYLe+dz/aHMlfsAgnma2XBfHfJe/NeVsaHEcmwY20Jom5lc0WJUX9D22Xeepd43SDCqF3wnXYTHMC0YPUDvl7vkIp5tqbb8hkTJY1EJhKFY+x7yfXp69YFXdM0K0d6AVI2Ta/MzL/9GnqTnQF21ItIg==;FNhttKsjzC78SsSib3HSxg=="
+secured: "sCvrvuhpOq202UObngv9vOzkA8PjaEnsXmGOTHG2SUVZMrKBzquZm4j2SmmnnLqUAjed6Gf9+Szid8oMGYvtfxZ1UgODaPgpYf3d+MVgeb7QTas1nSxZTNaGt28Qm7SXlKKzRJg09QBGTCAUyglDlfHaO7agAK6Q33j9gM+u8U2OUDP2eqdqN+ga9dAFt2iaKmsUJ1brvnVLqSdKJf+JhDPKGIMrTHNv2xgWvEuY67Hfv7HJm32vIIZxzPJZbbSkWyxfsUrGsphvFYwT9cMwb4KXYdM0JkRq87huVjix7/ltR++3MA8icxUrKLGkVDpp4R3cdT0BiO311qiTnG/KWcDwl+YKHP5EGj52vRABBek=;CvrijXZHsVpWvombVVkfGw=="
 ---
 

@@ -143,6 +143,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
+    excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
+    publishedDateTime: 2021-04-06T20:42:00Z
+    webUrl: "https://www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RJEORGI3XFH2BFIZGHFCBAPZDY.jpg"
+        width: 2333
+        height: 1646
+        isCached: true
   - title: "Trump To Launch Own Social Media Platform: Ex-aide"
     excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."
     publishedDateTime: 2021-03-21T19:35:00Z
