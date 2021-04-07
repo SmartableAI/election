@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-i
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct"
 type: article
 quality: 119
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4J26YUUQUI6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
+    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
+    publishedDateTime: 2021-04-07T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 96
+    images:
+      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "d7nwOzVpB4/jqGlDNByVMmQOK7OeXTdhVruNZUTZk8ZBak+UV5EYNH5lY8ujfLvzBBm34/gkDM3JW62GcGSyk1wvNwibJNZQPaN8+0ebDVFV2/bN+kMlgEGYP0QYOMicuJmOhZUD2rytCk5c7hzVDBVZFlHoepUu2THXmrfEDKwZOECeBKLnqXo3ZFRJwhP+L/LyAq6Lh0bS5woROkF4mrmVTr3cmCW63mViLqZboJN5lG8/2o3YpvsQ3NHV6A0XVS7/yw+Dr3I1rVu4sZgMDnZ6XIRgzJzqC+Sd0b00wpmrg2k1OYZyL0DhIm4GrBlpMMyAcLhpAMhneAQkitWYy6AG2zlqyMv5AJoFkWczbigVHHmT9zI3Fd1/3mt7eFRfwYNtTD6dAV8hZMLPtJkIclDmSccbp/COSfUVt2595S3Xijf2yYWEz5OHH3OX5FbaPpag3vAoU6DW/15jeZWamLqzDun+9kAfJbnWOcK5hvChv+hdH8p8GUxrT73Bobeiu6UOQCKiHtf8n8YB/+0yLQ==;XV41XOORYED0AtloBEwITQ=="

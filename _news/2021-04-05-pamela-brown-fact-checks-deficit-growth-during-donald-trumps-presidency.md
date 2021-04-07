@@ -64,6 +64,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Gaetz reported to have sought a ‘blanket’ pardon from Trump"
+    excerpt: "Rep. Matt Gaetz allegedly sought a “blanket” presidential pardon from Donald Trump in the closing weeks of his administration — a request which was ultimately not fulfilled, according to news reports. The request for a blanket preemptive pardon for ..."
+    publishedDateTime: 2021-04-07T02:27:00Z
+    webUrl: "https://www.politico.com/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3b/45/24baa3864faf9352e262d8ef8c93/4-6-21-matt-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Matt Gaetz, Loyal for Years to Trump, Is Said to Have Sought a Blanket Pardon"
     excerpt: "The congressman was at the time under investigation over whether he violated sex trafficking laws, though it was unclear what he knew of the inquiry."
     publishedDateTime: 2021-04-06T23:44:00Z

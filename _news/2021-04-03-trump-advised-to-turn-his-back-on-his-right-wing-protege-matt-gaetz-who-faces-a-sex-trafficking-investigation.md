@@ -61,6 +61,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
+    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
+    publishedDateTime: 2021-04-07T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 96
+    images:
+      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "XTcrLioYAJi8gFO9/D9Oa4pEFCNv7ZLxriUimHveeEPx280jx2m+KxZGtTC3gqtaOEyXb5vCfJGZ79rMn0sh0EzH/ihgbT6YGQZBRvnR/SS5edbWYDDe2+ZSaQAA7rrAl9iHDwxfZPUIiNhV8xXX8DUAeqKRWvs9Dm1U6yHD4VKgorppeEYfFz1Fbh8Ki8GuWB5He/Z6+kMRayC6eA53c+nCJ7s8jBifFosWO6YsQGXRzmdSO66Qke8SvwsuLVX6Ifa+oTHSjqFyAtzAxi4FBohmbC5TZ/rUdszE8Uo5uIybgUffPRgDizFxTuVQa22B3OCy4gHWAdb+HQNl/9O/FpYhA4QyI8RjmNTu+JPNUY2dsI6+PHUS06XIkoLQsx0+315p80Q2BL1htS08w61RfoBsVQpy9FloCz7CbFsAh3KfcMhTXZoIOolXK8nRzNc4enhPgRNk2ydU6g5bTrhpZ0zl2X6w1/L8oEGsj23r5kf5AnEe8oFIi0oHyqBQRDf8DbyKTu1BW4k5uQ+pkNAyZg==;xGiUj1bOk7qA0qnFPVoMQA=="
 ---

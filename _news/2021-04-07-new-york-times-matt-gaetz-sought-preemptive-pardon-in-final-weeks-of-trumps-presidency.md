@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
 type: article
 quality: 166
-heat: 246
+heat: 266
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/0f/fa/d04271264dcea2393f58d534ba8d/210331-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Gaetz reported to have sought a ‘blanket’ pardon from Trump"
+    excerpt: "Rep. Matt Gaetz allegedly sought a “blanket” presidential pardon from Donald Trump in the closing weeks of his administration — a request which was ultimately not fulfilled, according to news reports. The request for a blanket preemptive pardon for ..."
+    publishedDateTime: 2021-04-07T02:27:00Z
+    webUrl: "https://www.politico.com/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3b/45/24baa3864faf9352e262d8ef8c93/4-6-21-matt-gaetz-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -94,6 +110,6 @@ related:
         height: 619
         isCached: true
 
-secured: "IeN8IOj7qvoa0FKWHTGugC1mLNQ5jby5sVMvg+ue/8r3ySQ3MdMTjK6iEqy+yARCOpd59nF0otBcwYL9QhtjyTcUCAGMUuuKrB5rnFmIztWkzFSl4tsNbwY+YyAxB7herySbgTV0GPQ6Nyd4lc/h3g3rEcrAbZ/cdPvP0IM1UGdrsvcYWm1IJumiirEE8S7pAxQdVsC7qZ+JDVzSU4gDFqQQ8Ef+J7k2+GhiNfNXrryPtjpU+29qew2Iek84Mb1rct62vBw0Eui1aJ36LYk+LF9q2Z1QiZ6uOYjOuaTUFU6tGJOhSnzHoEj1I3Rjl2u/3XvLalg/ONgpCb/UHzLhC+zMKSWB016JblKg7p2/bwY=;1UUgL2knus7Icy1/ELwMPw=="
+secured: "HbLmC2nXCjg0wZGtUTlD8NqSVBABvBInnnF9mOjU+l7TxYm/rMwWHUtxzrWE/E9olwBB+wOtUOwj/wnk0xlmQN/yGAnkPcLsb9eYR9UlwO9a3uydylEGEfi3ewwT3vOglbfONsQHl9O8mBWRLpHokR/SWrPxu6f+G4SAWDzWMXl+IY5fHNqbqEGcFEiu+HyPygmNLbtGt1WiZqUa0Hr37s77Hu9r9+jEs8iqj9RdomsGJSdb9A5MXwebhN69iHC3u8IP6r0iD5f7r4IUsELOKDi6RIS0Rh/MAWjKXB614XW+yNHMj6H4BFoLMTLf7Ff0BdsN/cd6XpKU+eihiYRhgcqnwzq936gdOtYGH6lJuAI=;KabC3nAi7/p+RFCVwBQp/w=="
 ---
 

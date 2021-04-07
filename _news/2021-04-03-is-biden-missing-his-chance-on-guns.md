@@ -320,6 +320,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Arrests and deportations of immigrants in US illegally drop under Biden with shift in priorities"
+    excerpt: "The number of people arrested and deported for being in the US illegally has dropped under President Joe Biden after his administration narrowed its enforcement focus to those who may pose a threat or have criminal backgrounds, marking a shift from the policies under the Trump administration.\n    \n"
+    publishedDateTime: 2021-04-07T02:40:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gn7dddXLri8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/immigration-arrests-deportations-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/immigration-arrests-deportations-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170725063150-01-ice-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration announces extension of Affordable Care Act special enrollment by three months"
     excerpt: "The Centers for Medicare & Medicaid Services is extending the Affordable Care Act special enrollment period by three months to August 15, the Biden administration announced Tuesday.\n    \n"
     publishedDateTime: 2021-03-23T21:20:29Z

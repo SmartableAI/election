@@ -2,6 +2,115 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-02-18-rush-limbaugh-created-the-politics-that-trump-used-to-win-the-white-house.md",
+      "title": "Rush Limbaugh created the politics that Trump used to win the White House",
+      "excerpt": "The first time I remember hearing Rush Limbaugh’s radio show, I was in high school. It was 1991, and I was in the district office of then-Rep. Jim Traficant (D-Ohio), for whom I’d earned the dubious honor of interning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USUFFNDRJAI6XBSRNUYJD2WGH4.jpg&w=1440",
+          "width": 1440,
+          "height": 991,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp",
+      "publishedDateTime": "2021-02-17T16:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-rush-limbaughs-legacy-of-venom-as-trump-rose-it-all-sounded-familiar.md",
+      "title": "Rush Limbaugh’s Legacy of Venom: As Trump Rose, ‘It All Sounded Familiar’",
+      "excerpt": "Weaponizing conspiracy theories and bigotry long before Donald Trump’s ascent, the radio giant helped usher in the political style that came to dominate the Republican Party.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/17/us/politics/17limbaugh-politics1/17limbaugh-politics1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
+      "publishedDateTime": "2021-02-17T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-biden-to-pick-chiquita-brooks-lasure-to-run-centers-for-medicare-and-medicaid-services-sources-say.md",
       "title": "Biden to pick Chiquita Brooks-LaSure to run Centers for Medicare and Medicaid Services, sources say",
       "excerpt": "President Joe Biden is expected to nominate Chiquita Brooks-LaSure to lead the Centers for Medicare and Medicaid Services, two sources familiar with the decision told CNN.\n    \n",
@@ -1235,115 +1344,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bennie-thompson-civil-lawsuit-trump-capitol-riot-giuliani.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bennie-thompson-civil-lawsuit-trump-capitol-riot-giuliani.amp",
       "publishedDateTime": "2021-02-16T08:49:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-trump-and-giuliani-sued-by-democratic-congressman-over-deadly-capitol-riot-live.md",
-      "title": "Trump and Giuliani sued by Democratic congressman over deadly Capitol riot – live",
-      "excerpt": "Bennie Thompson accuses Trump and allies of violating 1871 act that prohibits violence that disrupts work of Congress – follow all the latest",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 430,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/af1d76d3db59aaf37cdf030c990b71e6d58dc183/0_39_4393_2635/master/4393.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=506d4603234fc6be44766f4013f3d6ce",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
-      "publishedDateTime": "2021-02-16T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-lincoln-projects-rick-wilson-raised-64g-for-anti-trump-film-that-was-never-released.md",
-      "title": "Lincoln Project's Rick Wilson raised $64G for anti-Trump film that was never released",
-      "excerpt": "Rick Wilson, co-founder of the anti-Trump Lincoln Project PAC, raised nearly $65,000 for an in-production film called \"Everything Trump Touches Dies\" that has yet to be released.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Capture2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
-      "publishedDateTime": "2021-02-16T07:28:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-07-kamala-harris-visited-beloved-brown-sugar-bakery-on-chicagos-south-side-on-tuesday-she-couldnt-have-chosen-better.md",
+      "title": "Kamala Harris visited beloved Brown Sugar Bakery on Chicago’s South Side on Tuesday. She couldn’t have chosen better.",
+      "excerpt": "On her way out of town Tuesday following a pit stop in Chicago between California and Washington, D.C., Vice President Kamala Harris grabbed dessert from Brown Sugar Bakery and Confections in the Chatham neighborhood. It was a pretty sweet call on her part.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/dining/ct-food-kamala-harris-brown-sugar-bakery-20210407-44g5dgeiofai7bw7v5urdp2f7m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/dining/ct-food-kamala-harris-brown-sugar-bakery-20210407-44g5dgeiofai7bw7v5urdp2f7m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/BsFyYsiiXaJdUpR9E7BGyoFiKsg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2JNAWLAZUVGVXDCBJCXY5VUQNU.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/dining/ct-food-kamala-harris-brown-sugar-bakery-20210407-44g5dgeiofai7bw7v5urdp2f7m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/dining/ct-food-kamala-harris-brown-sugar-bakery-20210407-44g5dgeiofai7bw7v5urdp2f7m-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-06T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-harris-vaccinated-can-be-role-models-for-friends-family.md",
       "title": "Harris: Vaccinated can be 'role models' for friends, family",
       "excerpt": "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults.",
@@ -1534,63 +1586,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-silence-on-cuomo-continues-for-kamala-harris-who-crusaded-against-brett-kavanaugh.md",
-      "title": "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh",
-      "excerpt": "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5e96535-8049-4a95-9d9c-69ba9b304ef5/573d402d-aa19-4ae7-b06f-a22eb03424e7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
-      "publishedDateTime": "2021-03-11T12:18:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],
