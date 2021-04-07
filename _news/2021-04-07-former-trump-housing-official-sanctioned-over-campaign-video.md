@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Former Trump housing official sanctioned over campaign video"
-excerpt: "Patton “improperly harnessed the authority of her federal position to assist the Trump campaign in violation of the Hatch Act,” said a statement released by the special counsel office."
-publishedDateTime: 2021-04-06T18:42:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
+excerpt: "NEW YORK — A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday."
+publishedDateTime: 2021-04-06T18:43:00Z
+originalUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html"
+webUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/WNN/210311_atm_presha1_pic_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -158,6 +158,6 @@ related:
         height: 682
         isCached: true
 
-secured: "zehogB6Jgv7qI2SZgJjvvNSl/MiIatIMO34VhYgCy2DbMG1k8SSawnSCw96o9/XO27E2uR+s7drv5aopAIAcGdTcH6jEIPKAdG6VJ1C9UKDOaGFajsW+8Jn+GFy7ql1P7urzFEVUwzJQ7NUFCpgD0LZZ6qK4XAMoJskqK/O4/ILW8kvsk3dYcU6j5My5i6pDF1jvmFa2N5hirC3L70TJkF5GKweHE57Yj3zXLRgVJRf8yC53FWy7BsmCrzGmW98sPnQDXGS1Ni/sdP11+/HBOYbzI19263OnnKSNcZbTs23iZkfSmKo04FC6B2iyqsalJtA0OD9lrS02Lc3gUD1P7l9QhZ3jVvUQ/lGjhwoBIsP25OELQAkdEmCdeu+Uw7B7kg5pKu6U7lRu3Dh39FRlYccZAdkNR5TwhCU+IO1mjQYxjwfYkL8XrbLMVT6VNwsi2xiK44mhgo87jBeMWuYJGBPJpfzy9s0o8SUyQ1vx5AWBqJd6Qk7fN5QfwTOE0J38pwbCBIpOcGHdo+g6ryZtxA==;9j1qhrQIeC2lKm6mdiX6KA=="
+secured: "x0B21KOixEa/KrtkT6lWKlU0rc8HUe4QXs/Owh7dbRU8YNO7/Aa/Yyc2EnHNCLbcaeTe5h5ehaU0Ck0hJPiDNGMblUIPLzva0Xjfl5C4dw0gw2rcGZZslPtTO/OioN+uCVznNWkh5nNvHAuA/eldV+a8+E6Jtm8gmgWEjsOznI9NxDmuWta9b2FDpoLfh2h3evAxriIcqUoMU2NnNTB3cDLz/25ifmSmxwZ1dnMWRrDAHRyC2jhzyOHDHDnoWWR535gj7v5jxRpmGkLShmepVRRJ0g5S57sNouKqfjFcSkqPVjia1kvAMqjPnvKvmsu90e15++lJWPz2xvuvpiGHH9JyLDm1ZFw9LBV1XxuN5nI=;XdLtdZ9tdgdBRJb3uD4r1Q=="
 ---
 

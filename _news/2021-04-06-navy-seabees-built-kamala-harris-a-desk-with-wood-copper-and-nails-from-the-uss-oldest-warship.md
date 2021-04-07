@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp"
 type: article
 quality: 112
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/35/63/20831449/5/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "Kamala Harris: Oakland Coliseum vaccination site will stay open"
+    excerpt: "Vice President Kamala Harris said the federal government plans to keep a mass vaccination site at the Oakland Coliseum open beyond its scheduled closure Sunday, after local officials expressed concern about the planned shutdown just as demand for ..."
+    publishedDateTime: 2021-04-06T10:52:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-Oakland-Coliseum-vaccination-site-16078305.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-Oakland-Coliseum-vaccination-site-16078305.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-Oakland-Coliseum-vaccination-site-16078305.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/35/44/20830467/5/375x250.jpg"
+        width: 374
+        height: 250
         isCached: true
   - title: "VP Kamala Harris urges Chicagoans to get the vaccine and to be safe: ‘In that way we will build back up’"
     excerpt: "Vice President Kamala Harris speaks during visit to a COVID-19 vaccination site Tuesday, April 6, 2021, in Chicago. Listening are Chicago Mayor Lori Lightfoot, Sen. Dick Durbin, D-Ill.,"

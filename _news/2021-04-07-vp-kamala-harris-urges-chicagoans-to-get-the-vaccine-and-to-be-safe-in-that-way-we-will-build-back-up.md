@@ -59,6 +59,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Kamala Harris: Oakland Coliseum vaccination site will stay open"
+    excerpt: "Vice President Kamala Harris said the federal government plans to keep a mass vaccination site at the Oakland Coliseum open beyond its scheduled closure Sunday, after local officials expressed concern about the planned shutdown just as demand for ..."
+    publishedDateTime: 2021-04-06T10:52:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-Oakland-Coliseum-vaccination-site-16078305.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-Oakland-Coliseum-vaccination-site-16078305.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-Oakland-Coliseum-vaccination-site-16078305.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/35/44/20830467/5/375x250.jpg"
+        width: 374
+        height: 250
+        isCached: true
 
 secured: "cY/ESxCKs3/sc5dOiuIPRY9n0Om0kc4dOp6pF/aMdmZ4CShgubRSeGmJ1LEKvnD/VJ13ib1v1PXcCAg9to0BGsaMK8Ubddb9C5ZqwXWIza91PSk7jwffCZGEYkrNkpC2RTEQjzuVwEo50chrYCORCX9RANH6j5n5ipeASZ5IGwcSZdVDUQuXreiUSubRMn6rM4i3C0gQOe245pdvexzHAkWAeGKRNsx3Fx+HOvIUAHo3Q5QU/T/u5BPxEDKvdw7rEN6+TPSzy4ZKlXmf6SOdES/Od5Lht/Qw+xO9TYCm8IHOfsovvMsNZM9lC8u/oOZk7BR99ACKemnkm4JZu9b7t2/J4oZ43YF5wkzYUDlx0bLkK+iTEiJ1lQf8pEewYbhgFzgANQdZWN4IRAKH2sfMTg84HtAml6WsVpom89bUthA+6iRzVkWSkNY2m3qQNWyjBbIqelI5rbcSQiTrHHJVAWzUu5j2Jvj6HU7u6MulXtcxky+E4bfj4AGmI9ft2NfCVwZj+MzJwZkAD0yT6YETQg==;X6UgIIuBYkEJcHnEucjNCQ=="
 ---

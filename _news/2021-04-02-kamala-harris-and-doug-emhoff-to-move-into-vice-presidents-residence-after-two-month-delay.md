@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-mo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/"
 type: article
 quality: 115
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/AP21095651805111.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "VP Kamala Harris Officially Moves Into the Naval Observatory"
+    excerpt: "Vice President Kamala Harris officially moved into her residence at the Naval Observatory Tuesday night, according to NBC News. Harris and second gentleman Doug Emhoff were living temporarily in Blair House, the president’s guest quarters, while the ..."
+    publishedDateTime: 2021-04-07T04:36:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/media.nbcnewyork.com/2021/03/106855604-1616014100475-gettyimages-1230707928-KARENPENCE.jpeg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."

@@ -1,24 +1,30 @@
 ---
 category: news
-title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
-excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
-publishedDateTime: 2021-04-06T14:22:00Z
-originalUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
-webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
-ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+title: "VP Kamala Harris Officially Moves Into the Naval Observatory"
+excerpt: "Vice President Kamala Harris officially moved into her residence at the Naval Observatory Tuesday night, according to NBC News. Harris and second gentleman Doug Emhoff were living temporarily in Blair House, the president’s guest quarters, while the ..."
+publishedDateTime: 2021-04-07T04:36:00Z
+originalUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
 type: article
-quality: 49
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://i2.wp.com/media.nbcnewyork.com/2021/03/106855604-1616014100475-gettyimages-1230707928-KARENPENCE.jpeg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Kamala Harris and Doug Emhoff to move into vice president's residence after two-month delay"
@@ -100,22 +106,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/AP21095651805111.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "VP Kamala Harris Officially Moves Into the Naval Observatory"
-    excerpt: "Vice President Kamala Harris officially moved into her residence at the Naval Observatory Tuesday night, according to NBC News. Harris and second gentleman Doug Emhoff were living temporarily in Blair House, the president’s guest quarters, while the ..."
-    publishedDateTime: 2021-04-07T04:36:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/media.nbcnewyork.com/2021/03/106855604-1616014100475-gettyimages-1230707928-KARENPENCE.jpeg?quality=85&resize=1200%2C675&strip=all&ssl=1"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
@@ -211,6 +201,17 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
+    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
+    publishedDateTime: 2021-04-06T14:22:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 49
   - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
     excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
     publishedDateTime: 2021-04-02T11:19:00Z
@@ -226,6 +227,6 @@ related:
         height: 800
         isCached: true
 
-secured: "49ctfI6+5WDGihhZhMhGtvRyCe8IqNfhOUruZJTVrogMpuhKuAMulM5PtXbq8yVgpt+WuHUJpSVjRfUH+TxghMqu3XIt/CP1RyxnnMz52Jeb0zn3/I6ajwwo/vWdS7KuvLkLLnL91qi66T601GNcr9K0wmudwFG5f9BngbTpizpctcAmEgiissEPfkqwJfepDTble73mJGW8UVaT1QFS6zc5S2CzcYOvgmU8rM1mEthitbQbM/XMIPJWLe8OuVXMdV2/l1jfvdVxb90kLU/bPtN4uUPZv0LQK/hdCO4WCFfOIe7lYmScvboUK1Exhgh93IoPziWPH6/2I3z0plLNpCBKYpzaq9g/JdW6OqUOe6VshkEeGI6IErp9ikCAM7AlhHxWpj+sbNlP22wHJ08Dxy9dwafQh9VUQOxEi9lop78FQSbhUlHEHmJT/FAlLU15YgPh1rlsKaf5eVscOaP/ZibDje7mvMnq2+dATk13T4EN7B0guv1FDzvlTOmF3F5JTHeSME0N9gJ8qSwpLkhJXw==;PakKIt3D1znbAfdWETuI5A=="
+secured: "m4bXO5eIg7z9g715O1KXycGiNAZhZwtCOJd1fdAyWHiOZRJbTyDMW8UEMpXXhPBpfPnJ85Ez9eMG+jbbLhpDKg9zD8ZYwZifWKS5lHGY2YfC2wr4uUVvbszzsERqWsBxw0+NSF4fODHuut8zqu1I9OhIHqgtjudpDWi2TTbqMXQUPok6AGAlnY946v5F1nOnGz7tMoF29iCHKqKSVF/tOdy6hRA39V5liX49hW7tniFw6X5/tULq+dZpK0GBGAzz+QZFNQc15ckjgXiCs4HT68qZgnMBxUod5DMd8QAMspWAiB3L9uh7cZmcsre6ilzG3ll1uKClx2jNSAVK7isZewLsH52K1WZ79H2Fv2nNLO0=;E1UiImQg5Vv6U9aTOd0eVw=="
 ---
 

@@ -427,6 +427,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Matt Gaetz sought preemptive pardon from Trump before he left office, The New York Times reports"
+    excerpt: "Matt Gaetz, a Florida Republican under investigation for alleged human trafficking, sought \"blanket pardons\" for himself and his political allies before former President Donald Trump left office, The New York Times reported Tuesday. The Times, citing two ..."
+    publishedDateTime: 2021-04-07T00:18:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/60677c27856cd700198a2fde?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Reversing Trump, Pentagon Releases Inclusive New Transgender Policies"
     excerpt: "Trump tweeted that the government wouldn’t accept or allow transgender people to serve “in any capacity” in the military"
     publishedDateTime: 2021-04-01T15:54:00Z

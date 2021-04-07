@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 1120
+heat: 1140
 published: true
 
 provider:
@@ -668,6 +668,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/00bb77714be3d1a1bd84d0f6aec80a1d11b9c882/c=0-18-2166-1242/local/-/media/2015/12/15/Rochester/Rochester/635857591312276137-TY-121415-AMTRAK-LUGGAGE.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Biden's infrastructure plan, with no GOP support, gets boost from Senate 'reconciliation' ruling"
+    excerpt: "Biden to unveil massive infrastructure plan The White House on Tuesday insisted that there is a \"bipartisan path forward\" on passing President Joe Biden's sweeping and costly infrastructure plan ..."
+    publishedDateTime: 2021-04-06T20:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 112
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-infrastructure-file-ap-jef-210406_1617738056863_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Republicans say Biden's not focused on infrastructure, but their voters like some of his proposals"
     excerpt: "DOW S&P 500 NASDAQ 100 A new debate is brewing over President Joe Biden's infrastructure package: What, exactly, is infrastructure? According to the $2 trillion plan Biden unveiled this week, infrastructure encompasses everything from broadband access to ..."

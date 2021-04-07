@@ -112,20 +112,20 @@ related:
         height: 630
         isCached: true
   - title: "Former Trump housing official sanctioned over campaign video"
-    excerpt: "Patton “improperly harnessed the authority of her federal position to assist the Trump campaign in violation of the Hatch Act,” said a statement released by the special counsel office."
-    publishedDateTime: 2021-04-06T18:42:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-housing-official-sanctioned-campaign-video-76904914"
+    excerpt: "NEW YORK — A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday."
+    publishedDateTime: 2021-04-06T18:43:00Z
+    webUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/WNN/210311_atm_presha1_pic_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Top Trump adviser warned then-president on virus supply shortage, then pursued controversial deals"
     excerpt: "A top adviser privately urged President Donald Trump to acquire critical medical supplies in the early days of the coronavirus outbreak — and after the warning was ignored, pursued his own ad hoc strategy that committed more than $1 billion in federal ..."

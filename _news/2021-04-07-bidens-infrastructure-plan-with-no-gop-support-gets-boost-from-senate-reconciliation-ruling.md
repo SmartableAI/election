@@ -1,22 +1,22 @@
 ---
 category: news
-title: "33 Democrats urge Biden to shut down Dakota Access Pipeline"
-excerpt: "A group of 33 Democratic lawmakers is asking President Biden Joe Biden The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Biden administration unveils network of community ..."
-publishedDateTime: 2021-04-01T16:19:00Z
-originalUrl: "https://thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline"
-webUrl: "https://thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline"
-ampWebUrl: "https://thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline?amp"
+title: "Biden's infrastructure plan, with no GOP support, gets boost from Senate 'reconciliation' ruling"
+excerpt: "Biden to unveil massive infrastructure plan The White House on Tuesday insisted that there is a \"bipartisan path forward\" on passing President Joe Biden's sweeping and costly infrastructure plan ..."
+publishedDateTime: 2021-04-06T20:06:00Z
+originalUrl: "https://abcnews.go.com/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
+webUrl: "https://abcnews.go.com/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
 type: article
-quality: 125
+quality: 112
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/dakotaaccesspipeline_protest_020817gn_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://s.abcnews.com/images/Politics/president-biden-infrastructure-file-ap-jef-210406_1617738056863_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -285,6 +285,22 @@ related:
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_33021_gettyimages.png"
         width: 826
+        height: 551
+        isCached: true
+  - title: "33 Democrats urge Biden to shut down Dakota Access Pipeline"
+    excerpt: "A group of 33 Democratic lawmakers is asking President Biden Joe Biden The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Biden administration unveils network of community ..."
+    publishedDateTime: 2021-04-01T16:19:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/545991-33-democrats-urge-biden-to-shut-down-dakota-access-pipeline?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/dakotaaccesspipeline_protest_020817gn_lead.jpg"
+        width: 980
         height: 551
         isCached: true
   - title: "82 unions and liberal groups call on Biden to create wealth tax"
@@ -669,22 +685,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Biden's infrastructure plan, with no GOP support, gets boost from Senate 'reconciliation' ruling"
-    excerpt: "Biden to unveil massive infrastructure plan The White House on Tuesday insisted that there is a \"bipartisan path forward\" on passing President Joe Biden's sweeping and costly infrastructure plan ..."
-    publishedDateTime: 2021-04-06T20:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-infrastructure-plan-boost-senate-reconciliation-ruling/story?id=76900258"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 112
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-biden-infrastructure-file-ap-jef-210406_1617738056863_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Republicans say Biden's not focused on infrastructure, but their voters like some of his proposals"
     excerpt: "DOW S&P 500 NASDAQ 100 A new debate is brewing over President Joe Biden's infrastructure package: What, exactly, is infrastructure? According to the $2 trillion plan Biden unveiled this week, infrastructure encompasses everything from broadband access to ..."
     publishedDateTime: 2021-04-02T18:14:00Z
@@ -822,6 +822,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/T5OJJI3UIoI1zCzUnae+bhvr2/7mxoN5LXVw4+PhSDr7wtwQLEE2UUqAZc/YYuvkmoc+/buEeuSDjp4oCVcsBfyhWKR1+tB8r9ABKf7l181J1fRnS6EAidDJHSeFEafOK/XXXjkUIIaxNIT8pr40boREEfsHbu4G7L3OI32hbQQNBratjznqhxgpy/nnM8S4p5kifOS3TVpl3ka3fAyjtykU5qBh5neXcnED3WqdtW4ry1sDeJKWMXeB333Qx745iTxomikuOr8/KK04+EnJyyTrI8BYJ59m1rdQBfBuSBBsvDWW+SUelzAaNC7RB49ENbnNYxiYsgiXspUPwSoQ2dTauu079crq0eFUk6mu+sm3UBYXA0a5NUE0N0PYNHbgBYfmKX4OpkxW/iWu+r0WwlAo/1xuejGKks7Y8JI142kzpn03FsKjVazZS4nhV3zTIIP/3GLF+yUoQTTHKVpoXPyxmK0MPxtuPj5iPjihd9PoGsJxLtZaxDlfIBdpTFo6/r1mBS8woc8HB3nxY8zVg==;JjXH6CUB3pi+wzl/kSTd2Q=="
+secured: "XbGxh1qIvi515/tyJzwoIuXZoRlZVUBoAY0W05GY8ufe/w714fwQUsuIpP2kUt8o6jmodi3MtM+E0npRBViq8/5tuUYvHZa/AzoyMhc27UEXDW5JaeilHIMeN4lDNWOCpSgHI40zCJwTCOgqsfzfHPCCEOlzc40pdZdqcomKBJsQCNmZ6HzQenWlh4tCIukMWHlLziEEcBFEHVFT26MS0JmGpyENezhTHHtZ8XXePJlaZJxA9sfDJtN0ZvIvFUpyG6tmiQADVOTfNoYEmuVG4JPepd1Bp2Hz11O4910MGtpwM0eBGsru/oQcBvVOWWIG6ggGX+1uaI5Y0iElMdV5LHzvWZXSfwwSV6MZZXpAMc4=;h5BpPcQoRHbWHtKPA5C4ow=="
 ---
 

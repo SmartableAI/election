@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Former Vice President Mike Pence reemerges, lays groundwork for 2024 run"
-excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-publishedDateTime: 2021-03-30T10:55:00Z
-originalUrl: "https://www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-ampWebUrl: "https://www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-cdnAmpWebUrl: "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+title: "Matt Gaetz sought preemptive pardon from Trump before he left office, The New York Times reports"
+excerpt: "Matt Gaetz, a Florida Republican under investigation for alleged human trafficking, sought \"blanket pardons\" for himself and his political allies before former President Donald Trump left office, The New York Times reported Tuesday. The Times, citing two ..."
+publishedDateTime: 2021-04-07T00:18:00Z
+originalUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4"
+webUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4"
+ampWebUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
 type: article
-quality: 74
+quality: 112
 heat: -1
 published: false
 
 provider:
-  name: WTVW
-  domain: tristatehomepage.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/03/pence.jpg?w=1280"
-    width: 1024
-    height: 683
+  - url: "https://i.insider.com/60677c27856cd700198a2fde?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -427,22 +431,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Matt Gaetz sought preemptive pardon from Trump before he left office, The New York Times reports"
-    excerpt: "Matt Gaetz, a Florida Republican under investigation for alleged human trafficking, sought \"blanket pardons\" for himself and his political allies before former President Donald Trump left office, The New York Times reported Tuesday. The Times, citing two ..."
-    publishedDateTime: 2021-04-07T00:18:00Z
-    webUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/60677c27856cd700198a2fde?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Reversing Trump, Pentagon Releases Inclusive New Transgender Policies"
     excerpt: "Trump tweeted that the government wouldn’t accept or allow transgender people to serve “in any capacity” in the military"
     publishedDateTime: 2021-04-01T15:54:00Z
@@ -649,6 +637,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Former Vice President Mike Pence reemerges, lays groundwork for 2024 run"
+    excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
+    publishedDateTime: 2021-03-30T10:55:00Z
+    webUrl: "https://www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/news/former-vice-president-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    type: article
+    provider:
+      name: WTVW
+      domain: tristatehomepage.com
+    quality: 74
+    images:
+      - url: "https://www.tristatehomepage.com/wp-content/uploads/sites/92/2021/03/pence.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Mike Pence reemerging as presidential candidate, lays groundwork for 2024"
     excerpt: "Former Vice President Mike Pence and his wife Karen, shown here as Pence leaves office Jan. 21, is writing op-eds, delivering speeches, preparing trips to early voting states and launching an advocacy group as he reenters political life. [ MICHAEL CONROY ..."
     publishedDateTime: 2021-03-30T13:42:00Z
@@ -717,6 +721,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "60OpJKz+JEI6m5lch1VMvuEzd8f6dFFU4M0gq6FnTByK1qHTeaDp/cGfLf08ZQSLDVwmqRY1hzqmAbq/xe4fOZwIZnh5Z8AIVOnkftyuxJd4jj8Psbzt+5dqtv3dA7RVqVOgiME6pY9tHF36vGE/5Uma/JYPsX2trRgMkSgSKCMg2G2nCdGLXVcmQSeFQlIf7It6wxRIh05hGW9T/+5tx4Mib4uvXsQQevRbFv9qKqjnKjtqEjGgpAvTvsuhCskr/t7w+amozDwgZ4ywyFj4NTottdlzQ3nEiW/otZv485NNmKgAIW0kCr3K0yHGiwubGWYbkoDBqL0QhZ4qNSApTyKTJ79u9yLDuBEJEcmMg/vL1o3rsOVsZVc0QF3KfmWxuivA89iRiBGsQX5Jh71c3gQThxl3XiUDMyyC/EwCGt3Ml61b9FigIQPZkFiYtyKzloQAC5dR+Qd9Z8pZupvneKzwM/HfOL8LbGRWgHmtERRCZ82/cA0Gv3asPKgrl6KR1/ZL/O4rEupnh1SGI5TXdg==;94+L5JxwIerradcZRT09/w=="
+secured: "zMIifaPdTyjewM16ohheKMdXwD+SI6JI9jB7YGCFwUtu17BQ8TP0aozV9j3sPB+Jz/uXN2gTviM+uIer8zslg/QMhk+s1cn27imuIqvd0SQn3aNis4o+Gwu2nhH2oLL23+hlAatPWfQwh2Mrk5s7JwciH8ZDPH7/O5Itf8tJVu34M/Jai8wkDxayJT1IVBlQRcu0ClMVECJ25sNXUwLSpDO+kaz2V67A7BamNSvkc7W6phufvx2eUyuHsESRb6TxvXvZX3vGw3GiFDCw8nILr3zAKi0mXRj9p+kLzJjfG3aG8k2YTa2y9/neMKZb2PrXlYskySyh9efSsjlSK0o4JijEQNKSfB5ByxQXZP6GATo=;d/7pujc+1gg+bnhRjNBO/Q=="
 ---
 

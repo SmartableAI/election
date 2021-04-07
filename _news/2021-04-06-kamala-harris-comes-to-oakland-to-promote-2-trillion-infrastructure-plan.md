@@ -107,6 +107,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "VP Kamala Harris Officially Moves Into the Naval Observatory"
+    excerpt: "Vice President Kamala Harris officially moved into her residence at the Naval Observatory Tuesday night, according to NBC News. Harris and second gentleman Doug Emhoff were living temporarily in Blair House, the president’s guest quarters, while the ..."
+    publishedDateTime: 2021-04-07T04:36:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/media.nbcnewyork.com/2021/03/106855604-1616014100475-gettyimages-1230707928-KARENPENCE.jpeg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
     excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
     publishedDateTime: 2021-03-22T17:08:00Z
