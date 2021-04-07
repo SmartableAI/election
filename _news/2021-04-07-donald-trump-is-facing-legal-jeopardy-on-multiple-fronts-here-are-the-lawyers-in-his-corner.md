@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ten Democrats join NAACP lawsuit against Trump"
+    excerpt: "Ten Democratic members of Congress have joined the NAACP’s lawsuit against former President Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship ..."
+    publishedDateTime: 2021-04-07T13:34:00Z
+    webUrl: "https://thehill.com/homenews/house/546877-ten-democrats-join-naacp-lawsuit-against-trump"
+    ampWebUrl: "https://thehill.com/homenews/house/546877-ten-democrats-join-naacp-lawsuit-against-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/546877-ten-democrats-join-naacp-lawsuit-against-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/basskaren_070120bc_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
     excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
     publishedDateTime: 2021-03-29T21:27:00Z

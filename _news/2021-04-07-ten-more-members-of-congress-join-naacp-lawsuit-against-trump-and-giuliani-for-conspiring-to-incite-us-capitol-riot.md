@@ -1,0 +1,53 @@
+---
+category: news
+title: "Ten more members of Congress join NAACP lawsuit against Trump and Giuliani for conspiring to incite US Capitol riot"
+excerpt: "Ten members of Congress who were in the House gallery as rioters breached the Capitol on January 6 are adding their names to the lawsuit first filed in February against former President Donald Trump and his former personal attorney Rudy Giuliani.\n    \n"
+publishedDateTime: 2021-04-07T13:46:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rnQJP9Yji0c/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rnQJP9Yji0c/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
+type: article
+quality: 153
+heat: 173
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407122614-nadler-waters-trump-split-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "James Blassingame and Sidney Hemby’s Lawsuit Against Donald Trump"
+    excerpt: "Case No.: DONALD J. TRUMP : : : Defendant. COMPLAINT 1. This is a complaint for damages by U.S. Capitol Police officers for physical and emotional injuries caused by the defendant Donald Trump's wrongful conduct inciting a riot on January 6, 2021 ..."
+    publishedDateTime: 2021-03-31T10:55:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.html"
+    ampWebUrl: "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/doc-1302982-blassingame-20210330-complaint-redacted1-promo/doc-1302982-blassingame-20210330-complaint-redacted1-promo-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
+
+secured: "p+Je8PMczIfPWIbnHmAeJ/9IIUaz++m5Cbz9R1LV+z+B2C/9sy+X/j0VIZknDiMLfnB2LlrPfy7J7WEGFAo1EX1a/A6YBp/X3P4kfLSvoYQHV9Lu9khrIvGLshdHBZnp/Bdr0/2B+23sd+AWpLK9LH6JzFhuOLToMJ5HwzWK7huNHd6OSUdOM+oJ7Zaj4aXN6YN8uGu6MVsy50DI30eTTkcEYsFYCoPQyb8GfTDk7i28nV9huKhTw8o+oOLlpkB48VVcwnZ6xFHwVQ3vPKODe0hwED4u13K1nfsNoBfo2I4wqX216xBKtlAc4UHaMDn+cGeAtDqStjajSCfbm0he8x6kuvwfz68/ALnIeDy6RZs=;PIGZuwwB5CAnLca/A/9Nsw=="
+---
+

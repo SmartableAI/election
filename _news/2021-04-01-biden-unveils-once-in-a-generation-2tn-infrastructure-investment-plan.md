@@ -63,6 +63,22 @@ related:
         width: 3589
         height: 2393
         isCached: true
+  - title: "Jill Biden announcing next steps for military family program"
+    excerpt: "During the 2020 presidential campaign, she promised to revive Joining Forces. Shortly before President Joe Biden took office, the first lady named Rory Brosius as the initiative’s executive director. Brosius previously served as the program’s deputy ..."
+    publishedDateTime: 2021-04-07T13:06:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/jill-biden-announcing-next-steps-for-military-family-program/2021/04/07/08787e52-97a2-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/jill-biden-announcing-next-steps-for-military-family-program/2021/04/07/08787e52-97a2-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/jill-biden-announcing-next-steps-for-military-family-program/2021/04/07/08787e52-97a2-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
     excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
     publishedDateTime: 2021-03-30T14:20:00Z
