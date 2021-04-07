@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
+    excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
+    publishedDateTime: 2021-04-07T12:59:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
+        width: 1024
+        height: 649
+        isCached: true
 
 secured: "kW7FFzf/HjXe0TxGX/WqYGNjtNYdtU3YF8hy2N7aLIKQFXRfMqU6P1LxDdPphxfHRMkpzMrXV13T60m+zoVLv1yKMMmTRc4qUPYS5u98VbPcnN9T8lXsC7R7RiIt4l9PK6N65ts6KD6Y9JiUImfKGNpyQJGUDCzRsHuZSXmpkg2GgzuaUJEVRU1s4XcLlzdIgoDwEGCht2NE2AJxz+xRlmGi5dBqKhu7W5t4hTyO5XktPt/2FYM1rrAN/tYMcUcrDD9hTZzaP0kP1AIklSmGTgezRbaTjWb46oZ7cV+uTgh9m7Ic1O0IOpNr9T0Y+27O3HUYHL2NF0ijkywqeK7Qq/zDOygA2yi/H3J5x0OTAEGHdgx0hInwr85a8fnVLaB58VQksTCnWSfHrQ3d31xulQkmo8c+E8G6n1WertGIGYz8WcLRLASlmOUaVdpngv75ShqZ+LvXpeSIrF9Eq4BLmcm6SiINZtgdgFp54pl161WnRS5+Q5cdpPeIo4UDKTmIb5OYdnQnZl1v3gUQFW0fMQ==;otGlUebhVJqvcI5RRnUv6A=="
 ---

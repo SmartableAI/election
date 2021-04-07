@@ -32,16 +32,16 @@ images:
 
 related:
   - title: "Ex-Trump aide Stephen Miller forms conservative law group to challenge Democratic policies in court"
-    excerpt: "Stephen Miller, the one-time senior advisor to former President Donald Trump who shaped immigration crackdown policies, has launched a new conservative group that could take on President Biden's progressive agenda in court. "
-    publishedDateTime: 2021-04-07T14:52:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oEr1LR3neEo/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies"
+    excerpt: "Stephen Miller, the one-time senior advisor to former President Donald Trump who shaped immigration crackdown policies, has launched a new conservative group that could take on President Biden's progressive agenda in court. Miller formed America First ..."
+    publishedDateTime: 2021-04-07T14:55:00Z
+    webUrl: "https://www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies"
     ampWebUrl: "https://www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 121
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/Stephen-Miller.jpg?ve=1&tl=1"
         width: 640

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Homan rips Biden border policies after video surfaces of young boy abandoned in Texas desert"
+    excerpt: "Thomas Homan, the former acting director of Immigration and Customs Enforcement (ICE), argued on “America’s Newsroom” on Wednesday that the Biden administration’s immigration policies are not humane."
+    publishedDateTime: 2021-04-07T17:39:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HeW8t6FIpgA/boy-abandoned-border-tom-homan-rips-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "wvzEKYhg1JHLw8X8uHWUCBy4ElmRWIS/G5WU/pdeOXjdRnhKN2hwLD+fzPu/eGOYBvTD8Ayh5ifJPXim90soq5ukuTg1YQ3dZX/IvxbZne0OC2o6WBXCA1zoitaQuJMypCM0yzIrmN6yLBBhGfja2bQIa02R9kUMd8ALlRN8BZZD8m1F6i3HEb0ckgx4Ks3lkVf8U/1vIGX0KTrGBNOpC+YYA3mDMQ0Ty/KXpCuCZ+zIINWVrxBuMFKafyGB67Bjx5OFBiy4swsDBAE7Destiwix8AuunMmu6Mz/Jv/bI7MsjtMTqORHH66fcz/JIIErYHtw+uFcvohoLLYat77hrnKLSiJreBpmKfQTVIYjLos=;ZF1tsgh/vLE3O9IYp13KYA=="
 ---

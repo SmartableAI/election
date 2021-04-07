@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-jan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
 type: article
 quality: 153
-heat: 173
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "James Blassingame and Sidney Hemby’s Lawsuit Against Donald Trump"
-    excerpt: "Case No.: DONALD J. TRUMP : : : Defendant. COMPLAINT 1. This is a complaint for damages by U.S. Capitol Police officers for physical and emotional injuries caused by the defendant Donald Trump's wrongful conduct inciting a riot on January 6, 2021 ..."
-    publishedDateTime: 2021-03-31T10:55:00Z
-    webUrl: "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.html"
-    ampWebUrl: "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html"
+  - title: "Andrew Giuliani, former Trump aide and son of Rudy Giuliani, says he plans for to run for governor of New York"
+    excerpt: "Andrew Giuliani, the son of former New York Mayor Rudy Giuliani, says he's planning to run for governor of the heavily Democratic state next year.\n    \n"
+    publishedDateTime: 2021-04-07T16:16:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBJsVK-1j-w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 155
     images:
-      - url: "https://static01.nyt.com/images/2021/03/31/doc-1302982-blassingame-20210330-complaint-redacted1-promo/doc-1302982-blassingame-20210330-complaint-redacted1-promo-facebookJumbo.png"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407105332-andrew-giuliania-file-2020-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "p+Je8PMczIfPWIbnHmAeJ/9IIUaz++m5Cbz9R1LV+z+B2C/9sy+X/j0VIZknDiMLfnB2LlrPfy7J7WEGFAo1EX1a/A6YBp/X3P4kfLSvoYQHV9Lu9khrIvGLshdHBZnp/Bdr0/2B+23sd+AWpLK9LH6JzFhuOLToMJ5HwzWK7huNHd6OSUdOM+oJ7Zaj4aXN6YN8uGu6MVsy50DI30eTTkcEYsFYCoPQyb8GfTDk7i28nV9huKhTw8o+oOLlpkB48VVcwnZ6xFHwVQ3vPKODe0hwED4u13K1nfsNoBfo2I4wqX216xBKtlAc4UHaMDn+cGeAtDqStjajSCfbm0he8x6kuvwfz68/ALnIeDy6RZs=;PIGZuwwB5CAnLca/A/9Nsw=="

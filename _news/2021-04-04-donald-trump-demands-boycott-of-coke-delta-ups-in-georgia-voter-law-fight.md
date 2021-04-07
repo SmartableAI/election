@@ -47,6 +47,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Trump blasts Georgia election law as 'too weak,' continuing attacks on Kemp, Raffensperger as 'RINOS'"
+    excerpt: "Former President Donald Trump continued his war of words with Georgia's top Republican elected officials while arguing the state's controversial new election law doesn't go far enough. \"Georgia’s election reform law is far too weak and soft to ensure ..."
+    publishedDateTime: 2021-04-07T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/04/07/trump-georgia-election-law-too-weak-attacks-kemp-raffensperger/7123560002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7123560002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7123560002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/USAT/cf2928f7-a7c1-40a8-8637-c9006181ee7c-AFP_AFP_8Y47Z8.jpg?auto=webp&crop=5692,3202,x0,y311&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump has expanded his list of 'woke' companies to boycott, due to their opposition to Georgia's voting law"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump doubled down on his criticism of companies that oppose Georgia's new voting law, and widened his appeal for more boycotts. \"Never submit, never give up!\" Trump said. In a statement ..."
     publishedDateTime: 2021-04-04T09:41:00Z

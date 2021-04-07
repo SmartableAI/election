@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
+    excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."
+    publishedDateTime: 2021-04-07T16:12:00Z
+    webUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "npi0x1hvHPQv9V+V1n/WGPWWs0OfF9lNE9cZvLgTbX/ivUx/52tUhdb5m/me2F7LcwHPX4Xt+KfcApSklytFB2k9dTxnPn/6Y3RfuuoMgtAVnj/zgwOvcUnlGOxS6J7nJ1irEv8CpfzD9+Qy47YIVwn6AYOuazNo4GJE9eLC+jyfIzV8CLd95uza0MkBL8xO1ahkCSYXjKJjBDStzMpRqqsvlMG98dArL2Q5Nh68jqlmdRVR2WMhPF6sbcZ6MUMqyVBIb42jJjXMJKzPlqwHaP5aaU2YbnlqImYwTIU2BQOVBp3WiPVwgYGdhVG8VkeVxhwxiQiw1bhTT9QWVWCypK1D8gsoubucY+MbXuJDc4g=;PY6LFoV/j6uYct2zWxc7iQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1"
 type: article
 quality: 136
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump blasts Georgia election law as 'too weak,' continuing attacks on Kemp, Raffensperger as 'RINOS'"
+    excerpt: "Former President Donald Trump continued his war of words with Georgia's top Republican elected officials while arguing the state's controversial new election law doesn't go far enough. \"Georgia’s election reform law is far too weak and soft to ensure ..."
+    publishedDateTime: 2021-04-07T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/04/07/trump-georgia-election-law-too-weak-attacks-kemp-raffensperger/7123560002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7123560002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7123560002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/USAT/cf2928f7-a7c1-40a8-8637-c9006181ee7c-AFP_AFP_8Y47Z8.jpg?auto=webp&crop=5692,3202,x0,y311&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z

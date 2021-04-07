@@ -204,6 +204,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Where is Kamala? Two weeks since being named border czar, Harris still hasn’t visited"
+    excerpt: "Vice President Kamala Harris was tapped two weeks ago to “lead efforts” to stem the crisis on the southern border — but she still has not visited the crossing, nor has she held a press ..."
+    publishedDateTime: 2021-04-07T16:11:00Z
+    webUrl: "https://nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/"
+    ampWebUrl: "https://nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-border-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris has gone 9 days since being tapped for border crisis role without a press conference"
     excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U."
     publishedDateTime: 2021-04-02T09:26:00Z

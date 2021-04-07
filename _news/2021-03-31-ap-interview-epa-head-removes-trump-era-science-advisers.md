@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/epa-chief-committed-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Exclusive: EPA reverses Trump stance in push to tackle environmental racism"
+    excerpt: "Enforcement of pollution violations dropped steeply under Donald Trump’s administration, with the EPA even suspending routine inspections of facilities while the Covid-19 pandemic raged in the US last year. A lack of federal intervention further ..."
+    publishedDateTime: 2021-04-07T15:17:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/0212b15c304f6f65fe824f0e440fd35fb4df2236/0_224_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8037f13713e4177088028243fdc1df9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "AP Interview: EPA head removes Trump-era science advisers"
     excerpt: "WASHINGTON (AP) — In a move he said would help restore “scientific integrity,” the new head of the Environmental Protection Agency is removing dozens of scientists and other experts from key advisory boards named under President Donald Trump ..."
     publishedDateTime: 2021-03-31T20:44:00Z

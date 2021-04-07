@@ -33,7 +33,7 @@ images:
 related:
   - title: "New York Times: Boehner lays blame for 'that bloody insurrection' at Trump's feet"
     excerpt: "Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book obtained by The New York Times.\n    \n"
-    publishedDateTime: 2021-04-07T14:59:21Z
+    publishedDateTime: 2021-04-07T16:38:25Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ikjj7tB7bJQ/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"

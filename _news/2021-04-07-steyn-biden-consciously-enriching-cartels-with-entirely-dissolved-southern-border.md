@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Steyn: Biden 'consciously enriching cartels' with 'entirely dissolved' southern border"
-excerpt: "In his \"Fox News Primetime\" monologue on Tuesday, host Mark Steyn lamented the exponential increase in human smuggling into the United States as the Biden administration fails to secure the southern border"
-publishedDateTime: 2021-04-07T01:43:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/huGFU_kUJWA/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/huGFU_kUJWA/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border"
+excerpt: "In his \"Fox News Primetime\" monologue on Tuesday, host Mark Steyn lamented the exponential increase in human smuggling into the United States as the Biden administration fails to secure the southern b"
+publishedDateTime: 2021-04-07T01:46:00Z
+originalUrl: "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border"
+webUrl: "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border"
 ampWebUrl: "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp"
 type: article
-quality: 167
-heat: 167
+quality: 127
+heat: 127
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ccaHtdaUei5n/D98ebAty3ys/6VL0ltiq0IXzbqqYgr5DjybBjZ2GNlQ6rw01uiXVF4LTUS1ZRy5R/PkCqcnEltHou86CnEVF1P7ReI/wIa9b6N0RaMaWt0qwSuCYwhDnQ4mi7hyosyzAS7D1jYtOkvBAWd54s/Odc/kJm1wLlveh36NC2JhtChZ8J8Qodp9BsHUfinn6vJuJ86VyYO7dc59sfBb4k42uB48P3RusUfICdkih/MGsbPZtoSpZ1x7AvziSNxf+3KjfM4XE1nPvYmR1IHKq45K2w9/uPaeirQh9wAkAMOnBazr1XvpfE5mkV/DvTnC4cxPmqjBbXjv/NMVplFBkCGR3nmsI9Vu6H0=;1r0ZINx4dQyt7oIxGBQT0A=="
+secured: "5E3wr6ARDg57k1Kusvxrh9Q55bDL31ISvbnbdffCcA6uhfFEFImprflDPEiOWGyKa4sb4objE0aPe38zht4Oz53AgN3jupaXUf4yg5KFRgm/5I4wdiaCJo/xPQVBLuzjBLfLkZjBptSJNSCyLk2h5VbOvoD443wgHlg4Wmd8mljMt2tIadZ0QMcFdoDfGZc2/at6DoGvyCIVgsc/AsS3SP3YAkMmIcMw+0NTJCf3TviC7leNhEWX9LK+65aeSLJYp5VdXl1De8rX8G3egzd3zpUzfAFJvz7tZQF3LHAjVE+iCXs5lkCdsYiqbqy0nLeyl1PkN948UMGgxUnr5WXV+TpfVSeSLuYKJa6EZTW8EbI=;xdNbtmQhhTxGkbBtAeok/g=="
 ---
 

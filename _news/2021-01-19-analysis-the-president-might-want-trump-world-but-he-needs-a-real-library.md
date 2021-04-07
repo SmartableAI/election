@@ -1343,6 +1343,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration is reviewing 5,600 additional files for evidence of family separations under Trump"
+    excerpt: "The Biden administration is reviewing 5,600 files to determine whether more children were separated from their families at the US-Mexico border during the Trump era than previously known, a senior Department of Homeland Security official told reporters Wednesday.\n    \n"
+    publishedDateTime: 2021-04-07T17:26:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mbjqZ_aVMOQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/immigration-family-separations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/immigration-family-separations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407131351-01-migrants-border-patrol-file-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sen. Hawley blocks quick consideration of Biden's Homeland Security nominee"
     excerpt: "Sen. Josh Hawley blocked quick consideration of President-elect Joe Biden's Homeland Security nominee, Alejandro Mayorkas, on Tuesday, leaving the third-largest federal department without confirmed leadership as it faces national security concerns, a pandemic and an incoming president prepared to roll"
     publishedDateTime: 2021-01-19T22:55:36Z

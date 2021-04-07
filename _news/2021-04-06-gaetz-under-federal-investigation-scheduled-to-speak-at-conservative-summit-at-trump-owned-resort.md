@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
+    excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."
+    publishedDateTime: 2021-04-07T16:12:00Z
+    webUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "LxXF+YcCExe1R6gv5XF6QlKZXmIeMKE9vCw2b44ptCxVA360NqVansEAhTM1YSHwxCYSat7GbNES9/nBxRp37LH+t45WLUDMXj9E5zOuKjglmKvHqMtJiuWPhDNbzyiydFDxaJmP1f5XlqlLZyVxUDQ++jQ4D2t6xoNkOgrzANT5oNC4T52tJhbKkzZ5NBX4o9u4CaxrFJFkKPBHh992sA8Nptuajs7Y3FfK+MTqsl8mhK2eEQaNQwZ1d9ag1+WQq4riPQPn5a23cSDQwIk1sa20voyj5bjR/lcCkuU0rR3OFN7G6Vnx7gCrfIBwX/9FAdRbBPJvdXveR9mYYI0Fr+UL6MOPUr+9tQGnuqjm4Aw=;o1diwXD/hbvFJD11fk6MHw=="
 ---

@@ -1031,6 +1031,22 @@ related:
         width: 799
         height: 545
         isCached: true
+  - title: "Biden administration to review thousands of migrant child cases for possible separations at the border under Trump"
+    excerpt: "Read more: Biden's immigration messaging is fine — the problem is his policies don't back up his 'don't come' message President Joe Biden, a Democrat who took over from the Republican Trump on Jan. 20, issued an executive order in February to create a ..."
+    publishedDateTime: 2021-04-07T16:33:00Z
+    webUrl: "https://www.businessinsider.com/us-reviewing-5600-migrant-child-cases-for-possible-separations-at-the-us-mexico-border-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/us-reviewing-5600-migrant-child-cases-for-possible-separations-at-the-us-mexico-border-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-reviewing-5600-migrant-child-cases-for-possible-separations-at-the-us-mexico-border-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/606ddd3030004b0019b266db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Legislators, Online Petition Put Pressure on Biden to Support Recurring Stimulus Checks"
     excerpt: "Kamala Harris supported recurring payments, and restaurant owner Stephanie Bodin, a creator of a Change.org petition, called for people to maintain pressure on legislators."
     publishedDateTime: 2021-02-01T16:41:00Z

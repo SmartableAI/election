@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/546848-pence-launches-conserva
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group?amp"
 type: article
 quality: 125
-heat: 205
+heat: 245
 published: true
 
 provider:
@@ -33,10 +33,10 @@ images:
 related:
   - title: "Pence, eyeing 2024 presidential bid, launches group to defend Trump-era policies from \"liberal attacks and media distortions\""
     excerpt: "Former Vice President Mike Pence is beginning to reemerge after the end of the Trump administration with the launch of a new group to counter the policies of the Biden administration and the Democratic-controlled Congress. The former vice president has ..."
-    publishedDateTime: 2021-04-07T13:25:00Z
-    webUrl: "https://www.cbsnews.com/news/pence-2024-conservative-group-trump-policies/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-2024-conservative-group-trump-policies/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-2024-conservative-group-trump-policies/"
+    publishedDateTime: 2021-04-07T16:45:00Z
+    webUrl: "https://www.cbsnews.com/news/pence-2024-presidential-bid-conservative-group-trump-policies/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-2024-presidential-bid-conservative-group-trump-policies/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-2024-presidential-bid-conservative-group-trump-policies/"
     type: article
     provider:
       name: CBS News
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/7eb90f2c-9bcb-458b-a69c-edd0157334f3-Pence_fist.jpg?auto=webp&crop=4278,2407,x0,y217&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mike Pence launches conservative advocacy group as Republicans cast eyes on 2024"
+    excerpt: "Former Vice President Mike Pence launched a new policy and advocacy organization to “promote the pro-freedom policies of the last four years” in a possible sign he’s gearing up for a 2024 presidential bid. Advancing American Freedom, which plans to ..."
+    publishedDateTime: 2021-04-07T16:20:00Z
+    webUrl: "https://www.bostonherald.com/2021/04/07/mike-pence-launches-conservative-advocacy-group-as-republicans-cast-eyes-on-2024/"
+    ampWebUrl: "https://www.bostonherald.com/2021/04/07/mike-pence-launches-conservative-advocacy-group-as-republicans-cast-eyes-on-2024/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/04/07/mike-pence-launches-conservative-advocacy-group-as-republicans-cast-eyes-on-2024/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 70
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems24-1.jpg?w=1024&h=769"
+        width: 1024
+        height: 769
         isCached: true
   - title: "Mike Pence launches advocacy group to promote conservatism, believed to be eyeing 2024 run"
     excerpt: "Former Vice President Mike Pence is launching a conservative political advocacy group, he announced Wednesday, the latest sign that he's staying involved in the political realm. Pence is widely believed to be weighing a 2024 run. His new organization ..."
@@ -92,6 +108,20 @@ related:
       - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/04/pence-1024x704.jpg"
         width: 1024
         height: 704
+        isCached: true
+  - title: "Pence Launches Group To Defend Trump-Era Policies From 'Liberal Attacks & Media Distortions'"
+    excerpt: "Former Vice President Mike Pence is beginning to reemerge after the end of the Trump administration with the launch of a new group to counter the policies of the Biden administration and the Democratic-controlled Congress. The former vice president has ..."
+    publishedDateTime: 2021-04-07T16:59:00Z
+    webUrl: "https://www.newson6.com/story/606de3f34ba9470bb812c7ca/pence-launches-group-to-defend-trumpera-policies-from-liberal-attacks--media-distortions"
+    type: article
+    provider:
+      name: News on 6
+      domain: newson6.com
+    quality: 59
+    images:
+      - url: "https://hot-town-images.s3.amazonaws.com/kwtv/production/2020/May/11/president-trump--vp-pence.1589216378947.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "hntACmwxJvLK8EBDkQG5mkbaJfQgU4ItrNxYGwTR2AB5RkxV+JK5XV8pLhLt5+q1zn2Ke4sU4FnOkLFxwI70HSJ2hN9e5OyW5bgniT1ry8Tap+uws+o7uCfyAjOj4tmq0M2CfCgqQ4aY9CmUrWOd8RmvOmcGBWQqweapoelBS8DLSFJel8Q1mlIzYkuz/NDxJ+Vk4lxxaAoF6fNtus78SfmdMc8hh3NinXDAsbe8Ldj4xWU5wpov0ongy0QbkO1fCVLBy0vodjiagfNdsHDedr/JiFB3nXVUQXa+4Iq4T8K6V3xKN/Lm5dv4bNMPcvFUO1sDM5YhkxkazsuZCk94Yw9anmwR3a6UYJmnkHQi52LMkLm1Hm/xfGTpYE/fSWhglB1ZUrso5l2AA+piMDretkBHkUalHZk9RsCBvA5sjNuMx6dbfRZDWLYn3jZO0Lhjd4L0eFGrnIUBfvMpeyT6fUe3Jymo8JA4ed16kXHBMz7r0T0MkyZCR9OVvm4qHWqSXQxiPQVn2fZcJESQkY15zQ==;3swhD8u6ywUwgiLD4uZYBQ=="

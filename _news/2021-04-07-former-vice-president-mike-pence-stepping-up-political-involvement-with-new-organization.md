@@ -49,10 +49,10 @@ related:
         isCached: true
   - title: "Pence, eyeing 2024 presidential bid, launches group to defend Trump-era policies from \"liberal attacks and media distortions\""
     excerpt: "Former Vice President Mike Pence is beginning to reemerge after the end of the Trump administration with the launch of a new group to counter the policies of the Biden administration and the Democratic-controlled Congress. The former vice president has ..."
-    publishedDateTime: 2021-04-07T13:25:00Z
-    webUrl: "https://www.cbsnews.com/news/pence-2024-conservative-group-trump-policies/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-2024-conservative-group-trump-policies/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-2024-conservative-group-trump-policies/"
+    publishedDateTime: 2021-04-07T16:45:00Z
+    webUrl: "https://www.cbsnews.com/news/pence-2024-presidential-bid-conservative-group-trump-policies/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-2024-presidential-bid-conservative-group-trump-policies/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-2024-presidential-bid-conservative-group-trump-policies/"
     type: article
     provider:
       name: CBS News
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/07/cae428b8-cdb5-4d2b-936b-264e079af2d4/thumbnail/1200x630g2/78c7ce1e0d22727b10b2b6658ab8f485/gettyimages-1209192269.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mike Pence launches conservative advocacy group as Republicans cast eyes on 2024"
+    excerpt: "Former Vice President Mike Pence launched a new policy and advocacy organization to “promote the pro-freedom policies of the last four years” in a possible sign he’s gearing up for a 2024 presidential bid. Advancing American Freedom, which plans to ..."
+    publishedDateTime: 2021-04-07T16:20:00Z
+    webUrl: "https://www.bostonherald.com/2021/04/07/mike-pence-launches-conservative-advocacy-group-as-republicans-cast-eyes-on-2024/"
+    ampWebUrl: "https://www.bostonherald.com/2021/04/07/mike-pence-launches-conservative-advocacy-group-as-republicans-cast-eyes-on-2024/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/04/07/mike-pence-launches-conservative-advocacy-group-as-republicans-cast-eyes-on-2024/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 70
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems24-1.jpg?w=1024&h=769"
+        width: 1024
+        height: 769
         isCached: true
   - title: "Mike Pence launches advocacy group to promote conservatism, believed to be eyeing 2024 run"
     excerpt: "Former Vice President Mike Pence is launching a conservative political advocacy group, he announced Wednesday, the latest sign that he's staying involved in the political realm. Pence is widely believed to be weighing a 2024 run. His new organization ..."
@@ -93,7 +109,21 @@ related:
         width: 1024
         height: 704
         isCached: true
+  - title: "Pence Launches Group To Defend Trump-Era Policies From 'Liberal Attacks & Media Distortions'"
+    excerpt: "Former Vice President Mike Pence is beginning to reemerge after the end of the Trump administration with the launch of a new group to counter the policies of the Biden administration and the Democratic-controlled Congress. The former vice president has ..."
+    publishedDateTime: 2021-04-07T16:59:00Z
+    webUrl: "https://www.newson6.com/story/606de3f34ba9470bb812c7ca/pence-launches-group-to-defend-trumpera-policies-from-liberal-attacks--media-distortions"
+    type: article
+    provider:
+      name: News on 6
+      domain: newson6.com
+    quality: 59
+    images:
+      - url: "https://hot-town-images.s3.amazonaws.com/kwtv/production/2020/May/11/president-trump--vp-pence.1589216378947.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "Q2nSfrcWRD+SbvlMPdU+iS4EXvdhWgi/ujwMgNZLbY/ZbYSFuF/FnGRvsOmynsUv2bHrHYifBtAZx84fL6i49G0TNUuX3t08V26G20LvvjfQdfdQhTZ49p5MX6W1BqqTtsPIpiC/4N+CUhImk9zxuskviP8nUTIkUSOFjuT5oGfbQyD+ie+GoqneYFskKfnGu6Se3dO+7H8/2yucCzh0daaC2YJNIfhqR5XKgvpLd4cMeAhgR8aw1aWyEvgKonX5b4dJ0gjSbrZmGVYZ5Ed/K382Xyzhd0EfnYZ9hj4OvVc8UVThTC0JVBLsY3hXXNofgh+hoz/VTdlv6UO6W5pnW//Z2gOIGi5br1EkLokM5vI=;r8ZVW3l1z7IOFG5ouyM2kg=="
+secured: "qoW83EltHsGMbFYcGcDTvA0kRTbIF7vee8B4SJKP+nvVY1Cylxt3DZ4H69UKS650q+moRP6exDe0mI9Ig/SrhUCfgNPwAxgcXC1r0CUbVMglxkPRlEfgMS/LoCJ9qFwQgK3vNRdgjcY+Sin/8miuldit71NG6115l/KAQAyUJjyhT6Wcpt8opQWrc3WDsyawhFOi3fng1JjP+X7lJ7Hx5JZD956hyvGRcG2AJ2ReoW/xzryYAeazimznPnk1qm6jKzK4odlctiJXTD0HmWP+OpLYiaLShx4eiGikdvoA6hz4XuyXEY/uSAfibWzqNZxBy06vrjIyFbRGUB2YBJ2+h3UElIw8TBJxAkPYj/e8Kb/XA4hNI8Rf6SY1iYQDDrij5+FTJXZcTxfTIewUhO6i4rsuQOr1jkBd8g4fmrLtO5N7FiyVSbc5qT2neJ0OC4BeD+38STZaHyoiTQKVCJZIbMIkHSLR//k3s6yp2A5xwD0MbpqjgwcMYSekDdk2RUeCKx+fFGIPYsLgnGjkRXfFXQ==;YzmcFnnhOxIkcQUsskrOGg=="
 ---
 

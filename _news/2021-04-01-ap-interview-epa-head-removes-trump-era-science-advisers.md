@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Exclusive: EPA reverses Trump stance in push to tackle environmental racism"
+    excerpt: "Enforcement of pollution violations dropped steeply under Donald Trump’s administration, with the EPA even suspending routine inspections of facilities while the Covid-19 pandemic raged in the US last year. A lack of federal intervention further ..."
+    publishedDateTime: 2021-04-07T15:17:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/0212b15c304f6f65fe824f0e440fd35fb4df2236/0_224_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8037f13713e4177088028243fdc1df9"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "TqGZvZKVsc1X8vtHh/3qqNTLwTRMuLMKi5HMvxvmmNkjIm51FjaYvab0wQZtLTfhT+MjPpCgbo3DXdaekMUm3fGlib/bt+cpUjMNEFbi4WpB7+kxRY/NMRJvfbRCKr41pyku3JBuo9dpOwwSinviZiQ/04z0supeWQ0WjqVKDGE/QnMAYnsLL7zrXz5TaOMWwPUhO9aG4tDVbwYkOdzLuAfXsFH1L9opZa5Lij6E9aorNnwgBsIIKROGsfPsXe5gnVrgsukTwi3nzuzbWscn0mwhdk9FT4n/qtvct4OSO0v/LBYtYPWv/gMdi78fQgugTFrHDVOWDNsMP0BxvFcUfx++v8LALR4w9pzwF3bJe/E=;ttpMjenSskDsDGe13+BmiQ=="
 ---

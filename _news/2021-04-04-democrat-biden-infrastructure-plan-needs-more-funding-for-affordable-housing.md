@@ -175,6 +175,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "White House says Biden will have 'more to say' on guns on Thursday"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden will have “more to say” on the actions he plans on gun regulation on Thursday, White House press secretary Jen Psaki told reporters at a briefing."
+    publishedDateTime: 2021-04-07T16:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557617247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361CD"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden nominates Interior deputy as department's top lawyer"
+    excerpt: "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE has nominated ..."
+    publishedDateTime: 2021-04-07T17:43:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/deptofinterior11172020.jpg"
+        width: 827
+        height: 551
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z
@@ -442,6 +474,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden administration tells Congress it will restart Palestinian aid - source"
+    excerpt: "also said Washington would resume security assistance to the Palestinians, the source told Reuters. President Joe Biden is moving to restore some U.S. aid cut off by his predecessor, Donald Trump."
+    publishedDateTime: 2021-04-07T15:11:00Z
+    webUrl: "https://www.reuters.com/article/palestinians-usa-aid-int/biden-administration-tells-congress-it-will-restart-palestinian-aid-source-idUSKBN2BU2KE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2KE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2KE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "President Biden advocates for student loan forgiveness, here's where he stands"
     excerpt: "President Joe Biden is assessing how the U.S. might tackle student debt. Here's where he stands on the issue."
     publishedDateTime: 2021-04-05T17:36:00Z
