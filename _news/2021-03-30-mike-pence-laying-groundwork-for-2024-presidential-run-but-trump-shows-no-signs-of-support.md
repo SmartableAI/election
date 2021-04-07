@@ -447,18 +447,18 @@ related:
         height: 3730
         isCached: true
   - title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
-    excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-    publishedDateTime: 2021-03-30T12:10:00Z
-    webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-    ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-    cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    excerpt: "Former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. after leaving office. Pence is steadily re-entering public life as he eyes a potential run for the White House ..."
+    publishedDateTime: 2021-03-30T12:27:00Z
+    webUrl: "https://www.everythinglubbock.com/news/latest/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+    ampWebUrl: "https://www.everythinglubbock.com/news/latest/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+    cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/latest/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
     type: article
     provider:
-      name: WTVO
-      domain: mystateline.com
+      name: Everything Lubbock
+      domain: everythinglubbock.com
     quality: 90
     images:
-      - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
+      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/03/pence.jpg?w=1280"
         width: 1024
         height: 683
         isCached: true

@@ -64,22 +64,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Pamela Brown fact-checks deficit growth during Donald Trump's presidency"
-    excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
-    publishedDateTime: 2021-04-04T23:21:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 134
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Matt Gaetz, Loyal for Years to Trump, Is Said to Have Sought a Blanket Pardon"
     excerpt: "The congressman was at the time under investigation over whether he violated sex trafficking laws, though it was unclear what he knew of the inquiry."
     publishedDateTime: 2021-04-06T23:44:00Z
@@ -95,20 +79,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/06/us/politics/06dc-gaetz/merlin_170263383_ddfd807b-d425-43c9-8240-3a567e3fc04f-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Donald Trump's weird post-presidency shouldn't surprise you"
-    excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
-    publishedDateTime: 2021-04-01T15:17:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/01/trump-post-presidency-tmz-video-cillizza-the-point.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401105556-the-point-trump-post-presidency-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "pEatnySdZfvtsMcJSqZqjIKtJvbM+cn0AV0+uZi1uaKO4fMu4fjS8r+HmrkiCgLcTE2VLYyHWWMTfJDpDMcVUCBAL7UmArHd4F5GBWlwTAjzXjM9Q++14NAGaW6BeZmXo42GSklzMANI97wUGVV6R7ulyCQ2NSKQwQoGplpWB/ZQCT2k1l/LZ3caBbH/6hjU+q6ZyrCNQrywLtRMT0TddKOlFKMdu3DsU0mBjbTZ5as8ZHzKr6377x+1xac7B+eu/ilx8dCdePhYbB5g9TV7M8T/AFWCo7SycwO4PsK83BM6UnU+NWALiSqRJHVG2uUo7Wbfy3g1XRKxBYuqiaoMczq+0SbeLpEIZsoIMbv+f5phTj8/LQR841jmh8Ajkeum0LFRlO2W525QQOvm7cnJkob2nIcnzbPy0O3ItSFwRtN98Urb87WuBs801o2Rp5M0zvRzMWmrR8EmW5GfxfcNo9KtXJZS9rggjbjdwg/aZxLsg00N5PrTvXqXMTKztD7WXVMm0ArTftdgM0RvVzfa1A==;ZiinR1TCi2GdPUa8Pu/scg=="

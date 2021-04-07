@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollmen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html"
 type: article
 quality: 167
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "More than 500,000 people have signed up for Obamacare coverage during Biden's special enrollment period"
+    excerpt: "More than 528,000 Americans have signed up for Affordable Care Act coverage on the federal exchange in the first six weeks of the special enrollment period President Joe Biden opened for the uninsured.\n    \n"
+    publishedDateTime: 2021-04-07T14:10:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aernynbJ_yM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/obamacare-enrollment-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/obamacare-enrollment-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "fYLAZg6/NwXZffo3oqTaB0tc1eCkM0B34bgBW1sLdtKUmgMOSGj16XZ1Nlg0Bi5CIpJll16MSMaokrDYFIDydYVBoHDj1HvT/4ROZLbb5D3cVT76vTAoUO2kpS8vkXt4L5JRqxyBULF4hseElQV+XDjp7GyjGWxas2kkxE7icOAWPPkxpiyrB/3Bb6Qtwr2iVyCJk5bmPt8CVUx/wCMgyIncQLfA2FAa250Dp7d7aioFrkWxlNGeeTI46+S+/7ctPP1BGL8xUH+lUeVEzW64zsv1m1MUDyID3eL75k0B97UYqYucN9xfCKMydHZY9skXPp9W+PC1whsAUeiEGjjj+dZ2Cbg+etBjOMEJBwcjvhI=;pDkyypnhWKW1Fn3INj9Zeg=="
 ---

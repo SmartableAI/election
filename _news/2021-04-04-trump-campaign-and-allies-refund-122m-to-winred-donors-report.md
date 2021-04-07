@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-refund-winred-donors
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump denies report that Matt Gaetz asked for blanket pardon"
+    excerpt: "Former President Donald Trump on Wednesday denied a report that claimed embattled Rep. Matt Gaetz sought a blanket pardon from his White House — for himself and unidentified congressional"
+    publishedDateTime: 2021-04-07T15:48:00Z
+    webUrl: "https://nypost.com/2021/04/07/donald-trump-denies-matt-gaetz-sought-blanket-pardon/"
+    ampWebUrl: "https://nypost.com/2021/04/07/donald-trump-denies-matt-gaetz-sought-blanket-pardon/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/donald-trump-denies-matt-gaetz-sought-blanket-pardon/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/matt-gaetz-93.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump attacks NY Times for report on recurring donors who sought refunds"
     excerpt: "Former President Donald Trump on Monday ripped into the New York Times for running a story on refunds issued to people who claimed they unwittingly signed up to be recurring donors to his campaign."
     publishedDateTime: 2021-04-05T19:54:00Z

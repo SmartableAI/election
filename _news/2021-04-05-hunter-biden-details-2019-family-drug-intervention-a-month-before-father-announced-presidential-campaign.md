@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter Biden employs a 'Don’t remember' defense on book tour"
+    excerpt: "Hunter Biden’s new memoir \"Beautiful Things\" and its ensuing promotional tour have been marked with frankness and self-effacement when it comes to his past struggles with addiction — while that same drug use has been drawn upon to support claims of forgetfulness when it comes to other scandals."
+    publishedDateTime: 2021-04-07T14:10:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rOzjLARZHA/hunter-biden-employs-a-dont-remember-defense-on-book-tour"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-employs-a-dont-remember-defense-on-book-tour.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-employs-a-dont-remember-defense-on-book-tour.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden pushed to make sure budget funds ICE amid border crisis"
     excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., is urging President Biden to increase funding for Immigration and Customs Enforcement (ICE) to help deal with the effects of the current crisis at the southern border, warning the president against political pressure to defund the agency."
     publishedDateTime: 2021-04-05T16:17:05Z

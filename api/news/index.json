@@ -2,6 +2,271 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-07-trump-endorses-republican-ally-mo-brooks-for-alabama-senate.md",
+      "title": "Trump endorses Republican ally Mo Brooks for Alabama Senate ",
+      "excerpt": "Former President Donald Trump on Wednesday endorsed Rep. Mo Brooks' campaign for US Senate in Alabama, supporting the controversial GOP congressman who stood by him during two impeachments and led the House effort to object to the 2020 election results.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AleWIwgGNT4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AleWIwgGNT4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407134450-trump-mo-brooks-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/trump-endorses-mo-brooks-senate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/trump-endorses-mo-brooks-senate/index.html",
+      "publishedDateTime": "2021-04-07T08:46:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-former-vp-pence-establishes-advancing-american-freedom-advocacy-group.md",
+      "title": "Former VP Pence establishes 'Advancing American Freedom' advocacy group",
+      "excerpt": "Former Vice President Mike Pence has launched a policy and advocacy organization called “Advancing American Freedom” that is dedicated to promoting and defending the “pro-freedom policies” enacted on former President Trump’s watch. Mr. Pence has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/apr/7/pence-establishes-advancing-american-freedom-advoc/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/7/pence-establishes-advancing-american-freedom-advoc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/03/30/Pence_15218.jpg-27df3_c0-435-5211-3474_s1200x700.jpg?ec2c4bb6b352d856a3e239ba6d1c411cd9865505",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/apr/7/pence-establishes-advancing-american-freedom-advoc/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/7/pence-establishes-advancing-american-freedom-advoc/",
+      "publishedDateTime": "2021-04-07T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-pence-launches-new-advocacy-organization-to-promote-pro-freedom-policies-of-the-last-four-years.md",
+      "title": "Pence launches new advocacy organization to promote 'pro-freedom policies of the last four years'",
+      "excerpt": "Former Vice President Mike Pence on Wednesday launched a new policy and advocacy organization to promote \"pro-freedom policies of the last four years,\" featuring an advisory board of nearly a dozen Trump-era alumni.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-hK3DvTJiJg/pence-new-advocacy-organization-pro-freedom-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-hK3DvTJiJg/pence-new-advocacy-organization-pro-freedom-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-new-advocacy-organization-pro-freedom-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-new-advocacy-organization-pro-freedom-policies.amp",
+      "publishedDateTime": "2021-04-07T08:34:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-for-pardon.md",
+      "title": "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon",
+      "excerpt": "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697",
+      "originalUrl": "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1",
+      "publishedDateTime": "2021-04-07T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-pence-launches-political-advocacy-group-with-an-eye-to-the-trump-legacy-and-his-own-future.md",
+      "title": "Pence launches political advocacy group with an eye to the Trump legacy -- and his own future",
+      "excerpt": "Former Vice President Mike Pence on Wednesday announced the launch of a new political advocacy group, \"Advancing American Freedom,\" a move designed with an eye to his political future and his efforts to help shape the conversation around the Trump administration's legacy.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tdWNrm2BA-g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tdWNrm2BA-g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 449,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html",
+      "publishedDateTime": "2021-04-07T08:11:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-the-mauritanian-star-benedict-cumberbatch-calls-on-joe-biden-to-close-down-guantanamo-bay.md",
       "title": "'The Mauritanian' star Benedict Cumberbatch calls on Joe Biden to close down Guantanamo Bay",
       "excerpt": "Benedict Cumberbatch says he plans to call on Joe Biden to close Guantanamo Bay following his latest movie \"The Mauritanian.\"",
@@ -179,7 +444,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-advocacy-group-to-highlight-agenda-defend-record",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -287,7 +552,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -328,6 +593,49 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.md",
+      "title": "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’",
+      "excerpt": "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html",
+      "originalUrl": "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp",
+      "publishedDateTime": "2021-04-07T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -390,23 +698,23 @@
     {
       "path": "_news/2021-04-07-rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.md",
       "title": "Rep. Jordan: Biden's immigration policies have led to 'more than a crisis' at the border, 'It is chaos'",
-      "excerpt": "Rep. Jim Jordan, R-OH, joins 'The Ingraham Angle' to discuss Biden's immigration agenda ahead of visit to southern border",
+      "excerpt": "Thank God for these agents who are working their tail off, but they are overwhelmed right now. This has been the left's hard policy that Joe Biden announced, you know, these changes that they wanted to make. We should just forget that these were the ...",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ocKDP86N42o/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ocKDP86N42o/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos",
+      "webUrl": "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos",
+      "originalUrl": "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 159,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/070b1ef0-be9c-4599-893d-7fee421d4274/7aa0f9bf-0270-4ff0-ae9b-de487b429f96/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -416,7 +724,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp",
-      "publishedDateTime": "2021-04-06T20:41:42-07:00",
+      "publishedDateTime": "2021-04-06T20:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -440,6 +748,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -508,7 +817,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 266,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -815,7 +1124,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 270,
+      "heat": 290,
       "tags": null,
       "images": [
         {
@@ -1001,338 +1310,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
       "publishedDateTime": "2021-04-06T14:51:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-tells-georgia-to-smarten-up-to-avoid-losing-business-over-new-election-law.md",
-      "title": "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law",
-      "excerpt": "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 664,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21037480732952-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp",
-      "publishedDateTime": "2021-04-06T14:46:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-its-reassuring-to-see-companies-speaking-up-about-restrictive-voting-laws.md",
-      "title": "Biden: It's 'reassuring' to see companies speaking up about restrictive voting laws",
-      "excerpt": "President Joe Biden said Tuesday that it is \"reassuring\" to see businesses \"speaking up\" about restrictive voting laws, but added that he respects whatever judgment a corporation may make as part of its response.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3Kp__9O5G0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3Kp__9O5G0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406172321-joe-biden-april-6-2021-04-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html",
-      "publishedDateTime": "2021-04-06T14:39:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-leans-close-to-tell-someone-to-socially-distance-which-im-not-doing.md",
-      "title": "Biden leans close to tell someone to socially distance, 'which I'm not doing'",
-      "excerpt": "President Biden leaned inches away from someone’s face to urge them to practice social distancing as he promoted the nation’s vaccine progress Tuesday afternoon, video shows.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096696393947-e1617743978498.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
-      "publishedDateTime": "2021-04-06T14:34:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-pa-candidate-running-to-be-first-black-republican-woman-in-senate-slams-biden-over-past-aint-black-comments.md",
-      "title": "PA candidate running to be first Black Republican woman in Senate slams Biden over past ‘ain't Black’ comments",
-      "excerpt": "Kathy Barnette, a Black woman from Pennsylvania running as a Republican for U.S. Senate, criticized President Biden's previous comments on race.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_a5lmf0mJyY/pa-senate-candidate-kathy-barnette-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_a5lmf0mJyY/pa-senate-candidate-kathy-barnette-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d9958d4-eee9-4369-9440-5a9fdb89d147/06ecc847-53bc-4476-af9c-b29f9c048f25/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pa-senate-candidate-kathy-barnette-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-senate-candidate-kathy-barnette-biden.amp",
-      "publishedDateTime": "2021-04-06T14:12:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-jennifer-weisselberg-has-several-boxes-of-documents-left-to-give-prosecutors-investigating-trump-her-lawyer-says.md",
-      "title": "Jennifer Weisselberg has 'several boxes of documents' left to give prosecutors investigating Trump, her lawyer says",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. Jennifer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606cb46e30004b0019b2640e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
-      "publishedDateTime": "2021-04-06T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-hasnt-talked-to-chinese-president-about-coronavirus-origins.md",
-      "title": "Biden hasn't talked to Chinese president about coronavirus origins",
-      "excerpt": "President Biden on Tuesday said he has not spoken to Chinese President Xi Jinping about the origins of COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
-      "publishedDateTime": "2021-04-06T13:58:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

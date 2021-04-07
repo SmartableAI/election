@@ -2,6 +2,339 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-01-biden-hhs-ad-campaign-mirrors-dem-super-pac-ads.md",
+      "title": "Biden HHS ad campaign mirrors Dem super PAC ads",
+      "excerpt": "While it is normal for ad blitzes promoting legislation to happen, the ads coincided with a polling memo put out by Priorities USA after the release of the initial ads saying that voters needed to witness Democrats “deliver on policies that provide real benefits to their lives.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e887285-a232-43af-9f21-5ce5e41052d1/0a5d2b63-0c9e-4b53-82ce-05b1b70011c3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
+      "publishedDateTime": "2021-04-01T13:37:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-former-trump-aide-max-miller-raised-500k-in-one-month-in-house-race-vs-gop-member-who-voted-to-impeach.md",
+      "title": "Former Trump aide Max Miller raised 500K in one month in House race vs GOP member who voted to impeach",
+      "excerpt": "Max Miller, the former Trump aide mounting a primary challenge to Ohio Republican Rep. Anthony Gonzalez, raised more than $500,000 in approximately the first month of his campaign, Fox News has learned. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AekWORwQo0/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AekWORwQo0/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp",
+      "publishedDateTime": "2021-04-01T13:21:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-biden-supports-vaccines-for-undocumented-immigrants-psaki.md",
+      "title": "Biden supports vaccines for undocumented immigrants: Psaki",
+      "excerpt": "White House press secretary Jen Psaki said during Thursday's press briefing that President Biden supports coronavirus vaccines for undocumented immigrants.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/COVID-Vaccine-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
+      "publishedDateTime": "2021-04-01T12:48:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-aoc-claims-surge-plays-into-white-supremacist-philosophy-but-biden-obama-have-used-word-in-border-debates.md",
+      "title": "AOC claims 'surge' plays into White supremacist philosophy – but Biden, Obama have used word in border debates",
+      "excerpt": "The two most recent Democratic presidents have used militaristic language regarding the border crisis that plays into a White supremacist philosophy, according to a standard laid out by Rep. Alexandria Ocasio-Cortez, D-N.Y.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qb3RVGq13X8/aoc-surge-white-supremacy-obama-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qb3RVGq13X8/aoc-surge-white-supremacy-obama-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b32b3df-5cdc-41fa-9dfd-8625bc30b072/126de96c-2963-44ef-8c95-2ce0875c116b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-surge-white-supremacy-obama-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-surge-white-supremacy-obama-biden.amp",
+      "publishedDateTime": "2021-04-01T12:01:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-biden-in-pennsylvania-details-2-trillion-infrastructure-plan.md",
+      "title": "Biden, in Pennsylvania, Details $2 Trillion Infrastructure Plan",
+      "excerpt": "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
+      "originalUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede/31dc-biden-HP-videoSixteenByNineJumbo1600-v3.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html",
+      "publishedDateTime": "2021-04-01T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay.md",
+      "title": "Kamala Harris and Doug Emhoff to move into vice president's residence after two-month delay",
+      "excerpt": "Vice President Kamala Harris is finally moving into the Naval Observatory next week according to chief spokesperson Symone Sanders, over two months after Inauguration Day. Harris and her husband, second gentleman Doug Emhoff, couldn't immediately settle in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/148495a4-3240-4dc0-8427-641d12f7e7a7/thumbnail/1200x630/991e9902f84e80b7f0fe3aeb916af9b7/ap-18075519617702.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/",
+      "publishedDateTime": "2021-04-01T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-kennedy-blasts-bidens-massive-spending-plans-moving-toward-the-china-model-of-capitalism.md",
       "title": "Kennedy blasts Biden's massive spending plans: Moving toward the 'China model of capitalism'",
       "excerpt": "Republican Louisiana Sen. John Kennedy told \"America's Newsroom\" on Thursday that the Biden administration's infrastructure plan is a \"bold-neo socialist experiment\" that is similar to the \"Chinese model of capitalism.\"",
@@ -608,7 +941,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1013,321 +1346,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-two-capitol-police-officers-sue-trump-for-physical-and-emotional-injuries-suffered-in-riots.md",
-      "title": "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots",
-      "excerpt": "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
-      "publishedDateTime": "2021-03-30T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-indiana-senate-congratulates-pence-on-his-retirement.md",
-      "title": "Indiana Senate congratulates Pence on his 'retirement'",
-      "excerpt": "Mike Pence’s political career is over. That at least is the opinion of the Republican-controlled Indiana Senate, which unanimously adopted a resolution Tuesday congratulating the former vice president and Indiana governor on his “retirement.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.html",
-      "originalUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/48/c48dcc07-9dd0-52ac-8b5a-a704f9ee5745/6063a62fa17af.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.amp.html",
-      "cdnAmpWebUrl": "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.amp.html",
-      "publishedDateTime": "2021-03-30T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northwest Indiana Times",
-        "domain": "nwitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-trump-ally-matt-gaetz-say-he-faces-federal-investigation-regarding-sexual-conduct.md",
-      "title": "Trump ally Matt Gaetz say he faces federal investigation 'regarding sexual conduct'",
-      "excerpt": "Florida Republican congressman says he has never had sexual relationship with underage girl Matt Gaetz, a prominent Republican in Congress and a close ally of Donald Trump, said on Tuesday he was being investigated by the justice department over a former ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e19abbddbb06134f5509b2b4af66e4186711a8d8/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b3f2957a9a90f90582890cf4af0d18a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "publishedDateTime": "2021-03-30T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-14-gop-led-states-file-long-shot-bid-with-scotus-to-defend-trump-era-public-charge-rule.md",
-      "title": "14 GOP-led states file long-shot bid with SCOTUS to defend Trump-era 'public charge' rule",
-      "excerpt": "Texas and 13 other Republican-led states have filed a long shot bid with the Supreme Court asking the justices to allow the states to defend a controversial Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use certain public benefits, such as Medicaid, food stamps",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2368at9GbIE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2368at9GbIE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201207182000-immigrant-citizenship-exam-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/public-charge-immigration-supreme-court-texas/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/public-charge-immigration-supreme-court-texas/index.html",
-      "publishedDateTime": "2021-03-30T16:47:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
-      "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
-      "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIjfA_StU2M/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIjfA_StU2M/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Lin-Wood-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "publishedDateTime": "2021-03-30T16:14:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-dems-call-for-firings-of-trump-era-holdovers-in-ssa-over-stimulus-check-delays.md",
-      "title": "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays",
-      "excerpt": "The House Progressive Caucus on Tuesday called for the removal of Trump administration holdover officials they say are responsible for delaying the latest round of stimulus checks to 30 million Americans. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bg53eh9eE6E/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bg53eh9eE6E/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
-      "publishedDateTime": "2021-03-30T13:55:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

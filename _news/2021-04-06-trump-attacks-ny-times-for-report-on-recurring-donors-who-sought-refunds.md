@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump denies report that Matt Gaetz asked for blanket pardon"
+    excerpt: "Former President Donald Trump on Wednesday denied a report that claimed embattled Rep. Matt Gaetz sought a blanket pardon from his White House — for himself and unidentified congressional"
+    publishedDateTime: 2021-04-07T15:48:00Z
+    webUrl: "https://nypost.com/2021/04/07/donald-trump-denies-matt-gaetz-sought-blanket-pardon/"
+    ampWebUrl: "https://nypost.com/2021/04/07/donald-trump-denies-matt-gaetz-sought-blanket-pardon/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/donald-trump-denies-matt-gaetz-sought-blanket-pardon/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/matt-gaetz-93.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ICzHmET4LPLqA5TtLt6tiLjjVtPPJGJVY2uhPGy6bXYKtyLnV7VstaOjyomM6Kek2tPCXsqbpL37WiSAQWKjlrWJ7yWGOjbUiIjAZMFDSv3nb0xGN8386SARekf04CZgT2dVYX1rpfbyoPqLeInN+L0ZKB7v3/hxKSFGJO357yeAN0p6Taxs1jDWpTNDbupPdoX9bJxEj3WhVH1qoifPHIOH6aNSJya4+iyICUpKHfcjiwI+zBs7WqCGKLSccjRzFuEMyZrHcJJZrg9ZXcu69nKDAjO57oLulrdSUlGYTBUP+fleRtNtVcJCV6/Bn3oI7KTc4cc8ahVQIU43g2JN17wo4fr3COMTwJp7I5Nlk07xFoGNShCOMLFxJcR3UtOROwMBeWEEVCepKwkkcsT3cv/hzK1O5tqpvjqUi7pLZMfBmHo/juxQ7UlJeOipQyRn1pbLgRa2vXqRHR8/wNfDmHFsOdqnnwEWZZKsafC7IPIzry11Pg6oKpq3wE36uL6OlTNzKsLnmagOXp9igS/ecw==;c7wZj4DBPR0fmbGS/kyxJw=="
 ---

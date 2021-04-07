@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-adv
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-advocacy-group-to-highlight-agenda-defend-record"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Pence lines up allies, nodding at possible 2024 White House bid"
+    excerpt: "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ..."
+    publishedDateTime: 2021-04-07T14:26:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-lines-up-allies-nodding-at-possible-2024-white-house-bid/article_e3f66a53-77ad-5ce3-adc7-67659f74910f.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vqJCA59xt6a+Se6BVVUQ3u1bXOaLLFqL4Up9w/RXA2/iWSj2SHnnQZaLgoOUT7M2n5BBueQ6DER7aqX+JJT2DqQyYqLv+AD3bVACBBLskHioBgkmkNPOQSf6k+FJ2RzQuLcvNUm4VaYOc7V1hOkQA4sVJu+x7v1anmRA/Z5t5ROt79WmL6KHCLVnbehf1f9KWz6J/jhVqBAgMLpoOdLyKV6hfvjJEq3H/1ZgMIKsgxu++Ukj+3XI7xEe6J9CoCCYfeK3Reh+1vT9f64fXl3lrqLTfHpOtEPpVpVEhdZ4L0UDSFQlLQ5WDCYXTNKtJ4L0QrX3xMrPqHvkymIwvt2lU4uv9X+NAX1O/kLTPxVC0MI=;pC70kzhA3Joh/9VbjmxeAg=="
 ---

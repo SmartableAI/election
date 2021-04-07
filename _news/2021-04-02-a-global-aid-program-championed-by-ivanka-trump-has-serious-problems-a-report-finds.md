@@ -48,6 +48,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Donald Trump got a *lot* less rich as president"
+    excerpt: "(CNN)During his four years as president, Donald Trump loved to remind people that being president was costing him a whole bunch of money. \"I said to one of my friends, a very wealthy friend, I said, 'You know, I'll bet you it cost me $2 or 3 billion and it ..."
+    publishedDateTime: 2021-04-07T14:12:00Z
+    webUrl: "https://www.cnn.com/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200424174956-trump-hands-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations"
     excerpt: "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ..."
     publishedDateTime: 2021-03-24T16:33:00Z

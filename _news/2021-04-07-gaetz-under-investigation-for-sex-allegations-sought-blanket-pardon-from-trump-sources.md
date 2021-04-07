@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ally Matt Gaetz say he faces federal investigation 'regarding sexual conduct'"
-    excerpt: "Florida Republican congressman says he has never had sexual relationship with underage girl Matt Gaetz, a prominent Republican in Congress and a close ally of Donald Trump, said on Tuesday he was being investigated by the justice department over a former ..."
-    publishedDateTime: 2021-03-31T00:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct"
+  - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
+    excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
+    publishedDateTime: 2021-04-07T15:30:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/e19abbddbb06134f5509b2b4af66e4186711a8d8/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b3f2957a9a90f90582890cf4af0d18a"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Trump’s heir? Mike Pence reemerges, lays groundwork for 2024 run"
-excerpt: "When former President Donald Trump was asked to list those he considers the future leaders of the Republican Party, he quickly rattled off a list of names, including Florida Gov."
-publishedDateTime: 2021-03-30T12:10:00Z
-originalUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-webUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
-ampWebUrl: "https://www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
-cdnAmpWebUrl: "https://www-mystateline-com.cdn.ampproject.org/c/s/www.mystateline.com/news/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+excerpt: "Former Vice President Mike Pence and his wife Karen walk from the plane to greet supporters after arriving back in his hometown of Columbus, Ind. after leaving office. Pence is steadily re-entering public life as he eyes a potential run for the White House ..."
+publishedDateTime: 2021-03-30T12:27:00Z
+originalUrl: "https://www.everythinglubbock.com/news/latest/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+webUrl: "https://www.everythinglubbock.com/news/latest/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/"
+ampWebUrl: "https://www.everythinglubbock.com/news/latest/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
+cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/latest/trumps-heir-mike-pence-reemerges-lays-groundwork-for-2024-run/amp/"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: WTVO
-  domain: mystateline.com
+  name: Everything Lubbock
+  domain: everythinglubbock.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.mystateline.com/wp-content/uploads/sites/17/2021/03/pence.jpg?w=1280"
+  - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/03/pence.jpg?w=1280"
     width: 1024
     height: 683
     isCached: true
@@ -717,6 +717,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "eOeQ+h5Bh9YN+WwXZ1oxC47uEqejcsqEELt8ljoiUpxVwc8mkX66eMd2nxP7aKpCr19oRFRG3XRwTJev5umRWKUm/1y6yeLDs33thrqyMSgLt58i001jpEy1iv50z7s1TWcaXJh9GsqAHiDo5/wU3x2IyN1wrVAsWybpw6DFk5nrA6Y93tXiJVQQt4t1GssrD2jPPaFjsbOd/EvI3SUg+ldnUN5qfD0eaazglZlwWXaYIk6+QvHSiJ40triHhdMxbe0jdChsKV6pnPh8ck6ql3otvWpFgzEtG5eDRL+sHI0Ehmrsau4f+T9JsiL9BjP0JaJi7jWW0lyYahEWvzSsjdco+YjBgmtpKtqDcst1mWI=;jUnY2k5O/HW9IArDbLYMIQ=="
+secured: "dYGZmh8jMcczEgPg7nQfEff9dz0aQ2xgW3H06JcA7eN2CHgArwEg/OsS/ZCnRQoXOaTbXnmkPHTmPr4kxa1yAVIsfljb0bNT/PwRC0BFbpDxkhU2wIRSFvoKhfEYmGNL5plP/XyvdhfSgHNeTtqLgOhnXUGUIVAQBk80Nm4a9VZMh72w9O0iHP0l50Q9vsnhwC7WEoTo+mQxyrrzRfk60m6V+96rX1yPB7j+bVi5UTW8ATP92jUhaJe1raoaSt56sAPGRItiawhEc3MMtCEANi3AZnoCakLcKbExmsZQhhd5kqz5zhfoBV5Vsu8YNtAyGZFXAlrA6PqPwFaAn0sCCq4qJWYeHWpzA1KSUFHqIRc=;mrtRn88Lcv6d1mb2WbugMw=="
 ---
 

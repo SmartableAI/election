@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump's DHS Head Chad Wolf Thinks Biden Is Under Pressure to Finish Sections of Border Wall"
+    excerpt: "In a photo taken on March 28 ranch owner Tony Sandoval (67) stands before a portion of the unfinished border wall that former president Donald Trump tried to build, near the southern Texas border city of Roma. Ed Jones/AFP/Getty Images Newsweek reached out ..."
+    publishedDateTime: 2021-04-07T14:12:00Z
+    webUrl: "https://www.newsweek.com/trumps-dhs-head-chad-wolf-thinks-biden-under-pressure-finish-sections-border-wall-1581633"
+    ampWebUrl: "https://www.newsweek.com/trumps-dhs-head-chad-wolf-thinks-biden-under-pressure-finish-sections-border-wall-1581633?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-dhs-head-chad-wolf-thinks-biden-under-pressure-finish-sections-border-wall-1581633?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1772601/donald-trump-border-wall-biden-construction.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Judge blocks Trump rule to limit health studies in EPA regs"
     excerpt: "A federal judge has blocked a last-minute rule issued by the Trump administration to limit what evidence the Environmental Protection Agency may consider as it regulates pollutants to protect public h"
     publishedDateTime: 2021-01-29T19:41:00Z

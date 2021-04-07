@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-lists-dc-condo-for-2m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence.amp"
 type: article
 quality: 185
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "VP Harris visits Chicago bakery even as border crisis escalates"
+    excerpt: "Vice President Kamala Harris on Tuesday visited a bakery in Chicago, coming away with a piece of German chocolate cake -- even as she faces scrutiny for not having visited the overwhelmed southern border."
+    publishedDateTime: 2021-04-07T14:15:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yogec93Pz4o/harris-visits-chicago-bakery-border-crisis-escalates"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Chicago-Bakery-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pavlich calls out VP Harris: 'Stop laughing when you're asked serious questions'"
     excerpt: "The Biden administration's border policies are creating a catastrophe for everyone, Fox News contributor Katie Pavlich said Tuesday on 'Outnumbered,' in reaction to migrants receiving in-person schooling in San Diego while American students are continuing to learn from home."
     publishedDateTime: 2021-03-30T19:41:55Z

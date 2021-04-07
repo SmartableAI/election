@@ -80,36 +80,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Pamela Brown fact-checks deficit growth during Donald Trump's presidency"
-    excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
-    publishedDateTime: 2021-04-04T23:21:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 134
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Donald Trump's weird post-presidency shouldn't surprise you"
-    excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
-    publishedDateTime: 2021-04-01T15:17:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/01/trump-post-presidency-tmz-video-cillizza-the-point.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401105556-the-point-trump-post-presidency-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "T/+OAmxHecdzqPow4i1S8Y66x0xHaL4UD/uyDT9cbYiCy4FOTnQe+w7oMfHA+mkWe41oUrn7nrez65gFctWXFF7Xujrl/sku2WJPmXD/Gx1DfdynVlyvvV8PEu0/Yy7/6CTNX/RarJvCysJngcXBqcqFKic0g8vm1r1OmSYbFmmrVG7ETWdfQYnOOsAgah7C7PUHKoK+9LTfyIbkDYUwN4JQhm97ljkjuqakDQHN1qZf+ix4z8A+/e1KJ9TFoEMrYPCc/fzgC4DQ7H7A3qXjNdBNII939RzN5DvIi+8nHUYjm2FK5onpdS2R3dPDkRlFjPucmNVgNdEcgoktdIkuP3UL3xRn9fhWPZPk7ylfZXqtefWQButmUuVico+tRcb8MHVTlfvjvosN+h+FSeidVoD6gm082F4tzIhML6TWZhSzRSsZGraDDwSrflyDQguSGdxJsQXPkPEhY2s9WJx+cHuy6j2agqRjEts+KUvTc6e+00oZi5mz4zQBMY4CPANqKAuEC8JQrugOK4VOPwPwRQ==;qRERmMf9NlSCVt2Z0zLpmA=="
 ---

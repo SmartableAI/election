@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Harris visits Chicago bakery even as border crisis escalates"
+    excerpt: "Vice President Kamala Harris on Tuesday visited a bakery in Chicago, coming away with a piece of German chocolate cake -- even as she faces scrutiny for not having visited the overwhelmed southern border."
+    publishedDateTime: 2021-04-07T14:15:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yogec93Pz4o/harris-visits-chicago-bakery-border-crisis-escalates"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Chicago-Bakery-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
     excerpt: "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\""
     publishedDateTime: 2021-03-30T19:14:39Z

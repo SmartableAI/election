@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Local Guatemalan official calls on Kamala Harris to visit region as smugglers prey on migrants' desperation"
+    excerpt: "Regional Mayor Winter Coc Ba said people in his area have heard the ads, and it \"works a lot.\" Asked what he would tell Vice President Kamala Harris, who has been tasked with addressing the immigration crisis, he answered that he would like her to come ..."
+    publishedDateTime: 2021-04-07T15:22:00Z
+    webUrl: "https://www.cbsnews.com/news/migrants-smugglers-guatemala-official-kamala-harris-visit/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/migrants-smugglers-guatemala-official-kamala-harris-visit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/migrants-smugglers-guatemala-official-kamala-harris-visit/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/07/8bd2ee43-b54a-4a40-b3c1-c8b59da09f65/thumbnail/1200x630/ff98d2618404bebc9a3872e0877ef6f0/cbsn-fusion-smugglers-seemingly-advertising-trip-to-us-for-a-price-to-migrants-in-guatemala-thumbnail-686956-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris: Oakland Coliseum vaccination site will stay open"
     excerpt: "Vice President Kamala Harris said the federal government plans to keep a mass vaccination site at the Oakland Coliseum open beyond its scheduled closure Sunday, after local officials expressed concern about the planned shutdown just as demand for ..."
     publishedDateTime: 2021-04-06T10:52:00Z
