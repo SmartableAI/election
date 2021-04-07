@@ -495,6 +495,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Democrats offer competing tax ideas on Biden infrastructure"
+    excerpt: "Congressional Democrats are debating how they should raise taxes to finance President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far ..."
+    publishedDateTime: 2021-04-07T10:00:00Z
+    webUrl: "https://thehill.com/policy/finance/546825-democrats-offer-competing-tax-ideas-on-biden-infrastructure"
+    ampWebUrl: "https://thehill.com/policy/finance/546825-democrats-offer-competing-tax-ideas-on-biden-infrastructure?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/546825-democrats-offer-competing-tax-ideas-on-biden-infrastructure?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/beyerdon_blumenaurearl_manchinjoe_040621bc-gn_split_dems-taxes.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z

@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Amid federal probe, Matt Gaetz will speak to conservative women’s group at Trump golf course"
+    excerpt: "Support our journalism. Subscribe today. Now, Gaetz is planning to take center stage later this week as a keynote speaker at a conservative women’s group’s conference at former president Donald Trump’s Miami golf course. Women for America First ..."
+    publishedDateTime: 2021-04-07T09:55:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/04/07/gaetz-save-america-summit-speaker/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/04/07/gaetz-save-america-summit-speaker/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/04/07/gaetz-save-america-summit-speaker/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N226PGUWR4I6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "MKAKnu6T/2CJcdQjULbuL39nLSM6kbyri+FkJWYQ8t0Fv90bfSYvvfZKl9FUylCwoK5814jGgdvy2B3fwnYuphWQZ0bslJu8fL7zIqc5AShVyLzHeQRCf0WV5bBPH21KTLP4teTMC0cNwO4WwC8eyEhjg/W7I8eledtEUKpVNl2m3CYS4BDYxhOgLpDSLb9nUY88gJGLe3HfFL8XN/snShoFzD2m9vQbvmL4/7Xrb9KDaDW6it258com5NL8did9wmYDxIpTL1fyw/Adj1kD6ql4fN9Vk4/VgaB+HEDEbz3Atw4Z1q39UCCM4HLsXdEyIfGWm4HdWJa+O/Iyz+gLBYwS7VjHTvN8iF3uHDHMyknbwPLG3tZC3mgrIcXzyqC/iVEj0aosXgoJMwvaBwCCGQfnGEChDBpqvBkZhl05vK31Y7JsSfcjfJ94IxX3b7Zd0fE+Fw1VKGeFjB8VkuDoisoRKqDmtBmoNKkUDioc6xoNHwRwDOhnbWBJ1E/jtnzfuZ/n9WhXi+L04xSrixXqlg==;JiXXJ3iVKILXUVSdCkh3ag=="
 ---

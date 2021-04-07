@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "10 Things in Politics: Inside Trump's stable of lawyers"
+    excerpt: "Here's what we're talking about today: With Jordan Erb. 1. ALL OF TRUMP'S LAWYERS: Former President Donald Trump faces legal jeopardy on multiple fronts. He runs the risk of becoming the first president to be indicted. In his corner is a mix of lawyers who ..."
+    publishedDateTime: 2021-04-07T09:25:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-team-new-york"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-team-new-york?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-legal-team-new-york?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/606d49de30004b0019b26562?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
     excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
     publishedDateTime: 2021-03-29T21:27:00Z

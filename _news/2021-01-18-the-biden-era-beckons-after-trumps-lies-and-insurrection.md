@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 4250
+heat: 4270
 published: true
 
 provider:
@@ -332,6 +332,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325143535-joe-biden-march-25-2021-03-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP's Trump obsession is giving Biden an opening"
+    excerpt: "Donald Trump has left the White House, but the Republican Party just can't quit his stunt politics.\n    \n"
+    publishedDateTime: 2021-04-07T06:20:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4Wbbg-GW0w0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/donald-trump-republican-politics-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/donald-trump-republican-politics-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326150428-trump-cpac-speech-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

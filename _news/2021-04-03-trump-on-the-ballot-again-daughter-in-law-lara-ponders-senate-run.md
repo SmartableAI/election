@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "10 Things in Politics: Inside Trump's stable of lawyers"
+    excerpt: "Here's what we're talking about today: With Jordan Erb. 1. ALL OF TRUMP'S LAWYERS: Former President Donald Trump faces legal jeopardy on multiple fronts. He runs the risk of becoming the first president to be indicted. In his corner is a mix of lawyers who ..."
+    publishedDateTime: 2021-04-07T09:25:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-team-new-york"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-team-new-york?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-legal-team-new-york?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/606d49de30004b0019b26562?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump is facing legal jeopardy on multiple fronts. Here are the lawyers in his corner."
     excerpt: "Former President Donald Trump has numerous lawyers defending him amid endless legal peril. But some familiar names have drifted from Trump's orbit."
     publishedDateTime: 2021-04-07T08:01:00Z

@@ -479,6 +479,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Democrats offer competing tax ideas on Biden infrastructure"
+    excerpt: "Congressional Democrats are debating how they should raise taxes to finance President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far ..."
+    publishedDateTime: 2021-04-07T10:00:00Z
+    webUrl: "https://thehill.com/policy/finance/546825-democrats-offer-competing-tax-ideas-on-biden-infrastructure"
+    ampWebUrl: "https://thehill.com/policy/finance/546825-democrats-offer-competing-tax-ideas-on-biden-infrastructure?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/546825-democrats-offer-competing-tax-ideas-on-biden-infrastructure?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/beyerdon_blumenaurearl_manchinjoe_040621bc-gn_split_dems-taxes.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Refugee families urge Biden to keep promise to up admissions"
     excerpt: "SAN DIEGO — The families of refugees and their supporters, including 124 elected officials, sent President Joe Biden a letter Tuesday urging him to make good on his promise to boost refugee admissions to the United States during the current budget year ..."
     publishedDateTime: 2021-04-06T20:01:00Z
