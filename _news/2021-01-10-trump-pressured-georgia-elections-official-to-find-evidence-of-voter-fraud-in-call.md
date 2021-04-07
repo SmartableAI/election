@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
 type: article
 quality: 134
-heat: 474
+heat: 454
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
-    excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
-    publishedDateTime: 2021-04-04T00:39:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1771346/donald-trump.jpg"
-        width: 594
-        height: 396
         isCached: true
   - title: "Cozying up to Trump may have hurt Perdue and Loeffler in the Georgia run-off"
     excerpt: "Already, recriminations are flying about what Loeffler and Perdue might have done wrong. Our research suggests that they made one crucial error: aligning themselves with Donald Trump. In an effort to turn out their base,"

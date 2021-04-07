@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-move-naval-observatory-residence/index.html"
 type: article
 quality: 180
-heat: 240
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris moving into Naval Observatory residence after renovations delay"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-04-06T23:55:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "VP Harris is the latest White House official to appear with California Gov. Newsom amid recall effort"
     excerpt: "Top members of the Biden White House have appeared with California's embattled Democratic governor, Gavin Newsom, twice over the last week -- a signal of support for a politician who is likely to face a recall election.\n    \n"
     publishedDateTime: 2021-04-05T20:25:11Z
@@ -45,22 +61,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405145532-01-harris-newsom-0405-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "After two months in office, Kamala Harris is still living out of suitcases -- and she's getting frustrated with it"
-    excerpt: "It has been more than two months since Kamala Harris was sworn in as vice president of the United States, a historic moment for the country, as Harris is the first woman and the first woman of color to hold the second highest office in the land. Yet, Harris -- along with her husband, Georgetown Law professor"
-    publishedDateTime: 2021-03-27T16:36:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oT3ai9fm37Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/27/politics/kamala-harris-vice-presidents-residence/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/kamala-harris-vice-presidents-residence/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120163806-11-biden-parade-harris-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

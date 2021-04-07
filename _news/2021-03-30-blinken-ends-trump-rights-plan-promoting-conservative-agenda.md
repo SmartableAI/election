@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a7fa7b4cec35d6da20881c6c7e90c8ee859c7020/75_0_1407_844/master/1407.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dadcdc85c4828acc3105da2f2e664e6b"
         width: 600
         height: 360
+        isCached: true
+  - title: "The Trump media era ends not with a wow but a whisper"
+    excerpt: "You probably missed it, because it was Donald Trump offering the same pudding of rhetoric we’ve heard so often to an anchor on the far-right network Newsmax. It was to presidential appearances what a pre-dusk set at the Indiana State Fair would be to Kid ..."
+    publishedDateTime: 2021-04-06T23:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G4QP77Q6QUI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Conservative writer says Trump's Save America PAC is hurting his supporters"
     excerpt: "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ..."

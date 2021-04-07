@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp"
 type: article
 quality: 112
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/35/63/20831449/5/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "VP Kamala Harris urges Chicagoans to get the vaccine and to be safe: ‘In that way we will build back up’"
+    excerpt: "Vice President Kamala Harris speaks during visit to a COVID-19 vaccination site Tuesday, April 6, 2021, in Chicago. Listening are Chicago Mayor Lori Lightfoot, Sen. Dick Durbin, D-Ill.,"
+    publishedDateTime: 2021-04-06T21:50:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 58
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "sJoEHRevssuYBwmML1209khiDLVXtYLHI7G+VQBxsBlTQ2NMFU67fRRAvc1gwELl5FWRbhwk/BtOCH3BGjzCBm6ldEiWGa14BdypZRqEzMPiQdi2jVmyDiMyVkdQDKLM7piDEU7WRIInbN3NWsrhdaIWtCk6WnbCgo9i4lW5SSdFj3y++UP+9yMg0wvZ4otRTMU/GfkZXoPTlyqVu+0SMZj8e4qhsHbmP5/2yWF5uqWsX7PybHsOWn1S35CcIypzEev5rKrc4Kfqm4OWUEM3jN2+NNudWMqGQugDUMKz+BzV0uLnmS1S//oV8uVtNmn46R2wcO2rqo7l61ELqNwkDTk9r2CWWg7/bC65C9d5DkLRqbmyELGLgIibPYxH8HPCq3SnrtnIs5xKTB5zo/hCeAUoV+5mR9myrONfhpJjLwMb+Du+eLUvLYhs9M+fBytoK3AGMmx0h1FCy1rFYhWvUhdaUkiqBwUGabDMGs9I3lbPGEDovx5i/5qKpZ9PifHg6BuNmTtHmMfj8DD5ZUA7Ig==;euw2HxGnugvU6s2Fomv1sA=="

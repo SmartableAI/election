@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The Trump media era ends not with a wow but a whisper"
+    excerpt: "You probably missed it, because it was Donald Trump offering the same pudding of rhetoric we’ve heard so often to an anchor on the far-right network Newsmax. It was to presidential appearances what a pre-dusk set at the Indiana State Fair would be to Kid ..."
+    publishedDateTime: 2021-04-06T23:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G4QP77Q6QUI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
     excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
     publishedDateTime: 2021-04-04T02:23:00Z

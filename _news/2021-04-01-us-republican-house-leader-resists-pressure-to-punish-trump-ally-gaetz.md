@@ -71,6 +71,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Gaetz sought blanket pardon from Trump White House: report"
+    excerpt: "reportedly sought a blanket pre-emptive pardon from the White House during the final weeks of President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden ..."
+    publishedDateTime: 2021-04-07T00:31:00Z
+    webUrl: "https://thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report"
+    ampWebUrl: "https://thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gaetzmatt_012821getty_gaetz.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Be at peace, meditate, Trump Buddha statue designer tells former president"
     excerpt: "XIAMEN, China (Reuters) - Chinese furniture maker Hong Jinshi first created a couple of pint-sized statues of former U.S. President Donald Trump meditating in a Buddhist pose as a fun project for himself last year. Slideshow ( 4 images ) Six months on ..."
     publishedDateTime: 2021-03-31T06:22:00Z

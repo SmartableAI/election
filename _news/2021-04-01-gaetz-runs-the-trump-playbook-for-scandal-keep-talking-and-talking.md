@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-sc
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
 type: article
 quality: 135
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "'The 45th': Why Trump is abandoning his iconic brand for a number"
-    excerpt: "WASHINGTON — Donald Trump spent a lifetime putting his name on steaks to skyscrapers to stimulus checks, but now, the former president appears to be replacing the gold-plated surname with a number: 45. Last week, the 45th president launched his new ..."
-    publishedDateTime: 2021-04-05T09:01:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/45th-why-trump-abandoning-his-iconic-brand-number-n1262935"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262935"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262935"
+  - title: "New York Times: Matt Gaetz sought preemptive pardon in final weeks of Trump's presidency"
+    excerpt: "Rep. Matt Gaetz privately sought blanket preemptive pardons for himself and his congressional allies during the final weeks of Donald Trump's presidency, two people familiar with the discussions told The New York Times.\n    \n"
+    publishedDateTime: 2021-04-07T01:47:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iK_MngRY5vo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 166
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_11/3457572/210317-donald-trump-se-527p_03c9a81eb2ae8d70b4f979b6ea4c8f08.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406213400-matt-gaetz-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pamela Brown fact-checks deficit growth during Donald Trump's presidency"
+    excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
+    publishedDateTime: 2021-04-04T23:21:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Matt Gaetz, Loyal for Years to Trump, Is Said to Have Sought a Blanket Pardon"
     excerpt: "The congressman was at the time under investigation over whether he violated sex trafficking laws, though it was unclear what he knew of the inquiry."
@@ -63,6 +79,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/06/us/politics/06dc-gaetz/merlin_170263383_ddfd807b-d425-43c9-8240-3a567e3fc04f-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Donald Trump's weird post-presidency shouldn't surprise you"
+    excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
+    publishedDateTime: 2021-04-01T15:17:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/01/trump-post-presidency-tmz-video-cillizza-the-point.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401105556-the-point-trump-post-presidency-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "KnpHTZkPFSccVn6156cFmUhc+R4P2Kw0V+allMj0OIoLZaChFyNGLQJNn9aIx1oYs/FfeHni/qI4AuBbnv/OMkPzXg8UuK7E/rWzIqdyNWxd1AJ6iy0zJ0l+2yCkWzVJEmHIfMLQ61kWA2VoaOcB2R+PQ29s7++xgCTW6G27d1XKSv8shsAytBgtnJY6EnIqnTFj0N+i/EP9HFDUILuuRAh73TjSpSgX8uU0lDHgxiYRyWHdhfbojcA/G4STnKUERJuRnaajDgyhakiA12imexilCGghfPr9mQ23IEKJZ4noeN/3n8YnhK4TkhVeUUzBR5se8I+LA/KG+PV5aeB9CAZSNrG9IxAz/flJB53H3ijdR9+cifG5xpCX3ALV1IyBrpp2J6rWLBQvCDpLWqDVigWK2EEf0SQrU9kB/yh9feS+QvswbXkPqj5s7V8wubZ7Eu9VGEoNzrUXPk12W5+QD35SOavN9OQyEe8gE2/EakxCZhxo58Bxzy+2xA02cJRbT9M+dO6/VX2JXMV/XzQ56Q==;GgNJHj84WQdZBw0qrwaKIQ=="

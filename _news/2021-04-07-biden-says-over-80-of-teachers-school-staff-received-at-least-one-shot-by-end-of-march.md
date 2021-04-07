@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2T4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2T4"
 type: article
 quality: 116
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,40 @@ images:
     width: 817
     height: 545
     isCached: true
+
+related:
+  - title: "Biden: 'Reassuring' to see companies speak out against voting laws"
+    excerpt: "President Biden Joe Biden Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE on Tuesday credited private companies with speaking up in opposition to new voting laws being passed in Georgia and elsewhere while warning about the impact on workers when businesses leave,"
+    publishedDateTime: 2021-04-06T20:52:00Z
+    webUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws"
+    ampWebUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_04062021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
+    excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "hVlh7evUbfpQyB2+PsfCNLOHR5TFPYpYhqAilV3H5DA4IkwvbOZf4K3A++FVbTWk2fY7Ov95KDvq2hI3bEzNBzgeIFnJReJOT2StX0L23lHcB9dVhq/AGfF+IvNv6QS3uyjd9mhxE020tf2E0+hyqYmG1tYY0vcbTr/pVbgWUHYR7euDV82cOpwRS2EVt5o+8JmsbBpTMGIb3be6pPZmX6koqVMF9KlUYNgIQK/3p+ofjcG03qkfqaH/g8uwjwjC57/88pg9NxasGu8/O0fnQvwqvMjN64afuifxDCz1Prn9hlL7Rpcmt9+nZ2bIeCuS/oCnf0+BXTlgi2i4t59OsLvY8p0Lp9Jg4kNUwoYT8VopuNE//TQbO2u6nf09EC5CNzdkYQXgBOCrb3YtJLqfBKwlWfViJtY/jFp97w4D06R0MyVCGGRlxDXPmS3XRU8CtTXgG2MstJHBTNpx4O7AdJTly/9RxB1a5JKtfET87R+yel68a6xUCcl5eKHdk0ZlZ49+saFadzrGeh4iD/zWYw==;KaPD7E/CuPBMBE2UEmNiBw=="
 ---

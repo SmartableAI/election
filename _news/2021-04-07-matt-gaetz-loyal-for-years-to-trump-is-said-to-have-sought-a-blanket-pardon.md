@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York Times: Matt Gaetz sought preemptive pardon in final weeks of Trump's presidency"
+    excerpt: "Rep. Matt Gaetz privately sought blanket preemptive pardons for himself and his congressional allies during the final weeks of Donald Trump's presidency, two people familiar with the discussions told The New York Times.\n    \n"
+    publishedDateTime: 2021-04-07T01:47:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iK_MngRY5vo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406213400-matt-gaetz-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Gaetz runs the Trump playbook for scandal: Keep talking, and talking"
     excerpt: "One thing the former president proved is that unless you're Donald Trump and sit in the White House, his strategy doesn't work as well."
     publishedDateTime: 2021-03-31T21:32:00Z
@@ -48,23 +64,37 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "'The 45th': Why Trump is abandoning his iconic brand for a number"
-    excerpt: "WASHINGTON — Donald Trump spent a lifetime putting his name on steaks to skyscrapers to stimulus checks, but now, the former president appears to be replacing the gold-plated surname with a number: 45. Last week, the 45th president launched his new ..."
-    publishedDateTime: 2021-04-05T09:01:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/45th-why-trump-abandoning-his-iconic-brand-number-n1262935"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262935"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262935"
+  - title: "Pamela Brown fact-checks deficit growth during Donald Trump's presidency"
+    excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
+    publishedDateTime: 2021-04-04T23:21:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 134
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_11/3457572/210317-donald-trump-se-527p_03c9a81eb2ae8d70b4f979b6ea4c8f08.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Donald Trump's weird post-presidency shouldn't surprise you"
+    excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
+    publishedDateTime: 2021-04-01T15:17:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/01/trump-post-presidency-tmz-video-cillizza-the-point.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401105556-the-point-trump-post-presidency-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
-secured: "E/o8nR2K+uCfMKjGsi8S1jjw0y/WHLqyQ1zfpJI1Xd1K0FmVgwq7W4q2EZkFkTWspoXUNr6ilPKGpl6L1KlUEcLQllUWriH/63NysEhzBFfl+NZMFdk9ElK7BltsjbJSrcEKYdX0DspZp75QoekX9i4zc2IqpS/4OzGuKQW95lrwac+NBbIHSyz8C/OD3QQtgd4o5thRdJ/fwXTAiQsMJCPpCDNeGiZLhcGltq0Gej2tCnHCx428OTioB4p8VQvdBQrO+WkInlgJLmw+AEG+Z7ibFrSqbvrlS5fxCbxtTNFIPKnxE2uHYKxBRn//7udwetnEiBIlMgvgIh1qDr6dj3ubH0e9suGx8GteIYxvW64=;tT/801kbKnsY9F9C/FEldw=="
+secured: "T/+OAmxHecdzqPow4i1S8Y66x0xHaL4UD/uyDT9cbYiCy4FOTnQe+w7oMfHA+mkWe41oUrn7nrez65gFctWXFF7Xujrl/sku2WJPmXD/Gx1DfdynVlyvvV8PEu0/Yy7/6CTNX/RarJvCysJngcXBqcqFKic0g8vm1r1OmSYbFmmrVG7ETWdfQYnOOsAgah7C7PUHKoK+9LTfyIbkDYUwN4JQhm97ljkjuqakDQHN1qZf+ix4z8A+/e1KJ9TFoEMrYPCc/fzgC4DQ7H7A3qXjNdBNII939RzN5DvIi+8nHUYjm2FK5onpdS2R3dPDkRlFjPucmNVgNdEcgoktdIkuP3UL3xRn9fhWPZPk7ylfZXqtefWQButmUuVico+tRcb8MHVTlfvjvosN+h+FSeidVoD6gm082F4tzIhML6TWZhSzRSsZGraDDwSrflyDQguSGdxJsQXPkPEhY2s9WJx+cHuy6j2agqRjEts+KUvTc6e+00oZi5mz4zQBMY4CPANqKAuEC8JQrugOK4VOPwPwRQ==;qRERmMf9NlSCVt2Z0zLpmA=="
 ---
 

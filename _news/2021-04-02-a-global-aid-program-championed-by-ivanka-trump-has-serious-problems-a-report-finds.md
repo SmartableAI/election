@@ -64,20 +64,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Donald Trump's weird post-presidency shouldn't surprise you"
-    excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
-    publishedDateTime: 2021-04-01T15:17:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/01/trump-post-presidency-tmz-video-cillizza-the-point.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401105556-the-point-trump-post-presidency-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "MXPQ5iacZ9hvpJXZa5bUtMSG9ahCzWfH6qUvfzs+WZjVj0jMsEGXdpzRi4FTaRigXCfmSNrn99rtC9JRNz953qb+waoSbe7kHCwVvDC6s2RnRWP37eDHl15G6mFxF+hMQWv9qhrEIz4TY4Tk1Z8BEMd4t7QisAW+EjOJzawOfMyjMkJVdJIHvGWV+XT2M+FLu+QnPPRqMsewhcZNGkpcWIKm9C4Im+NrUNa3xu8NZxv2knu8RWa2oWnIzHm1jTPIFG8PW2OlksENJBzcrFIecsltD+IfKUgGJG/Ycvgl8A/QazIjkeQYJQo+0z6hrSEec0wJqf5BiABvY6O3P6JnTr/TkkREzS013HvgwKclOO8Nu5+YS+qgmsO/jbKOrjVD2ReTknYMtSvY8E6n6dUgI9oJcVGGfEcZN2oTTqOeXRZINxZK0f4eYd9maz9jqns7LF58K+1jmjwnWKq8Gpzmt4IwYn+o2ae5DpGFs/0IhfHKSwb9GkL7I77oM56tXOj0fgu96sEfLCohyDiF8V5BqQ==;CqtuxVBIPqT5ZdKipgFRGQ=="
 ---

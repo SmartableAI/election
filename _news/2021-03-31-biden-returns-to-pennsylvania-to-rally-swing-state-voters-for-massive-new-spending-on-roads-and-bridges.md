@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
 type: article
 quality: 109
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -29,6 +29,40 @@ images:
     width: 1440
     height: 960
     isCached: true
+
+related:
+  - title: "Biden: 'Reassuring' to see companies speak out against voting laws"
+    excerpt: "President Biden Joe Biden Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE on Tuesday credited private companies with speaking up in opposition to new voting laws being passed in Georgia and elsewhere while warning about the impact on workers when businesses leave,"
+    publishedDateTime: 2021-04-06T20:52:00Z
+    webUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws"
+    ampWebUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_04062021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden says over 80% of teachers, school staff received at least one shot by end of March"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that more than 80% of teachers and school staff had received at least one vaccination shot but that variants of the coronavirus are spreading and generating a rise in cases. “We aren’t at ..."
+    publishedDateTime: 2021-04-06T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-variants-idUSKBN2BT2T4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2T4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2T4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351E7"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "/KsXSk+yIBQetwFh8+sdc/y4fboF54sZY1ML0QHgQql89A1pvVr1vjiJ56tcQro0cIGQukOGKJrk8mH88bCCaw6gUKd1LkBvxqsblaHkqnvKYaaXMurN8obteHdbcUIr7Kcj9NpBZmUCy/NP9R01wQgkP6cLzx1GdId/o7NmcroEF21r/2VDDZGuc57XI2H3ln0D/3MoBH5vIamRVTSiWMGDwzXzb9DxGB71D24w5MNR2DbwPSBPInook0ahwGpnoajXPtBHKdhDMSwSoFvsCHUSY2HU1AIoTH2OwDbyvJVq39h89X1AUUcSbEU+4Dzwc81ryIvaMKXVidQ8M4InU4ef0ROH/C2dM/Wr/Mw6AdgHsolLAJpYlyI8gddNVeM646KrYqElcMlnHzsMTD5JtN94pY63ElIVrbwXn6UIG7tfGgnED6Xo9/0pyPkAF0BOV0X6lOJVOY20/mm0AQhzw4uNjDUPPhn/2yd24I/WZqZEofDJaI2L3FoHnFCBdJk3hndmkb5MXwLGX9OV9UmyLA==;LiViJ/KUeMsMhX2z2dSs+Q=="
 ---

@@ -122,6 +122,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris finally moves into official VP residence"
+    excerpt: "After months of waiting for renovations, Vice President Kamala Harris is moving into her official star-studded home. The Democrat and husband Doug Emhoff moved to Number One Observatory Circle"
+    publishedDateTime: 2021-04-07T01:04:00Z
+    webUrl: "https://nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/"
+    ampWebUrl: "https://nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/harris-moving-into-naval-observatory-after-renovations-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution"
     excerpt: "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com."
     publishedDateTime: 2021-04-06T16:18:00Z
@@ -201,6 +217,6 @@ related:
         height: 720
         isCached: true
 
-secured: "VqjtREexXx7QYAqCvap6UnlogGs4eVwG8HrM+4poQU7QtccueVVUvGChLBsXiHE6XrxADJuuUFclJULUI+F7+Bh/COCagh4YDlfQATyN6AaObpzK4yr/ZmmDs2BSIYVqJOlKPiuPMiI5o1MU76apnQ2PLsw9ZQ+PT+ZHnHCTwx+zyP2tMcnkPO66SoDXWcZop/ZOIJuyBoYTQQOqhgkWwjg6jI3VtBDmvcfEAopaWMjx1s4b9MjfRk5c8NhRp5HiT2AGrcgb+6drA/d7EIYKW4zQf+sfWSv9MQMfaCY9vrFMTMq2wXlPjiOJ/LVjHr8y28F9EY94W4FrbaR4BXSp86HWuLzvsmw819b56p+cdmQ=;mNPG8jHZutuWqC/7ZnYNRw=="
+secured: "beABr3fbieLBpGNSKysXJwDPquTSGHqJZGnFuFERtmH5x3LzCyiFYqmq4FI7OfYfA4iV9q3BTKx4N3DYtDLEiVy+k2SBe8SeDVdoTNsbosOPMRHtRBVVgg08nQ2FYOb7Oos4+XllhlyJrp/K+e/XlVcJrh/y/IIMFZW93bv3J0i2zGfmSQDBwEYXfk6bf8YY5SS4iKeRMT6LCa4t90+pCnLzlo+N0gnlVAb1hu449RfF/+o1HqMSLHeMWqlaoTfdDOr8VEEujYLtE2gdFDdV4esR676aTFH6+ElOQnOdGHxKLU09ZbKvqi6xyniWuru2S2JGxaP/WCjQDaGqsluf0KlW5CEvXVytPW46zVDkJk+xKqYf1ZYOl9g3Kl4YkzRA6KDSDkoZY/jUf60yUiNyFV9mEPpm2NFi9rb/ERz2b6Plk8XS20RRpAu4ySWeeovsTkpuY8LT1GV7aBm86eaFQFHzaYmkvs1JVyr46xFr26rE0rPZWcfESB2bo+o7EUvcB/6s5DCY0p6DAzVbcphlHQ==;4bX9fvf0g6XUQwwUPcFf5A=="
 ---
 

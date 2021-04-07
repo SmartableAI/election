@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/trump-legal-jeopardy-new-york-geor
 webUrl: "https://www.businessinsider.com/trump-legal-jeopardy-new-york-georgia-doj-capitol-riot-investigation-2021-4"
 type: article
 quality: 75
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -27,6 +27,56 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Donald Trump Calls Georgia Election Law 'Too Weak': 'Hope the RINOs Are Happy'"
+    excerpt: "Former U.S. President Donald Trump has criticized Georgia's recently passed election law as \"too weak.\" \"Hope the RINOs are happy,\" Trump wrote in a Tuesday statement criticizing the law. RINO is an initialism for Republicans in Name Only. The initialism ..."
+    publishedDateTime: 2021-04-07T00:45:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1772337/donald-trump-georgia-election-law-weak-rinos.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
+    excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
+    publishedDateTime: 2021-04-04T00:39:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1771346/donald-trump.jpg"
+        width: 594
+        height: 396
+        isCached: true
+  - title: "Donald Trump has expanded his list of 'woke' companies to boycott, due to their opposition to Georgia's voting law"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump doubled down on his criticism of companies that oppose Georgia's new voting law, and widened his appeal for more boycotts. \"Never submit, never give up!\" Trump said. In a statement ..."
+    publishedDateTime: 2021-04-04T09:41:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-expands-list-companies-boycott-georgia-law-opposition-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-expands-list-companies-boycott-georgia-law-opposition-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-expands-list-companies-boycott-georgia-law-opposition-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5fba797832f2170011f70856?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 593
+        isCached: true
 
 secured: "F92O0FVeDWRbsxGiZ7YbqZMX+Wp/1KiB37359Lj5ZcX8VQzZXwL0b1YADBfBbTcYBoovTniUMNxt4g6Ld1srUoBJCISPiKlGAb6ZxtmIqTozhddoFPCfj4ib0u49SqGZru9noXHUKEyS+Sew/76oyhzLN/yEIjEmeBggGFz4yiruIiJ14/FhF54UgWgLXeevg0Mr/nCtRzvLjjw9wst73SQZxAt0yW6BmSHU/LtcdN91OHW9NIII6nU3IQ7EjOituCxPVE2jcgxxJ729yE8rveLgw6yEm8HOB3Hf0nAnkfl/wEtWiMKSmqFItd6PFH9tS4Pn4uj/JglQ3eslg2hziraLfHIx4O30n7nhWm8/xMlInVtdd/mAcqB7C22Mw/sQp/KYK29xja3ADKlEacNdkw2cBRk8XPAv4n06qY4/grwvW5/scy46J5pFWOr4VDLxX3QVvNRCmEqO7snajcD9e10XUJxqgVODm4B3z76Ntd5VJqXfFIHwIZRkYfIdhp8nkZLRWO7jpGNbfkIq7IguWA==;etpEfXExCXh9ZkhFKlHbTw=="
 ---

@@ -30,53 +30,69 @@ images:
     isCached: true
 
 related:
-  - title: "Ivanka Trump's flagship policy program slammed by government auditors"
-    excerpt: "The Government Accountability Office has issued a damning report about Ivanka Trump’s pet project during her time as an adviser to her father, President Donald Trump. As Ivanka Trump traveled the world talking up the Women’s Global Development and ..."
-    publishedDateTime: 2021-03-31T17:34:00Z
-    webUrl: "https://www.politico.com/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
+  - title: "New York Times: Matt Gaetz sought preemptive pardon in final weeks of Trump's presidency"
+    excerpt: "Rep. Matt Gaetz privately sought blanket preemptive pardons for himself and his congressional allies during the final weeks of Donald Trump's presidency, two people familiar with the discussions told The New York Times.\n    \n"
+    publishedDateTime: 2021-04-07T01:47:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iK_MngRY5vo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406213400-matt-gaetz-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Gaetz runs the Trump playbook for scandal: Keep talking, and talking"
+    excerpt: "One thing the former president proved is that unless you're Donald Trump and sit in the White House, his strategy doesn't work as well."
+    publishedDateTime: 2021-03-31T21:32:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/c8/c4/dd2581fb4799a6a66ebf77333c62/20210331-ivanka-trump-ap-773.jpg"
+      - url: "https://static.politico.com/0f/fa/d04271264dcea2393f58d534ba8d/210331-gaetz-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "A global aid program championed by Ivanka Trump has serious problems, a report finds."
-    excerpt: "So haphazard was management of the program that an independent watchdog was unable to determine whether it actually worked."
-    publishedDateTime: 2021-04-01T19:54:00Z
-    webUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
+  - title: "Pamela Brown fact-checks deficit growth during Donald Trump's presidency"
+    excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
+    publishedDateTime: 2021-04-04T23:21:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Matt Gaetz, Loyal for Years to Trump, Is Said to Have Sought a Blanket Pardon"
+    excerpt: "The congressman was at the time under investigation over whether he violated sex trafficking laws, though it was unclear what he knew of the inquiry."
+    publishedDateTime: 2021-04-06T23:44:00Z
+    webUrl: "https://www.nytimes.com/2021/04/06/us/politics/matt-gaetz-trump-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/06/us/politics/matt-gaetz-trump-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/06/us/politics/matt-gaetz-trump-pardon.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 128
+    quality: 132
     images:
-      - url: "https://static01.nyt.com/images/2021/04/01/us/01new-washington-briefing-IvankaGAO/01new-washington-briefing-IvankaGAO-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/06/us/politics/06dc-gaetz/merlin_170263383_ddfd807b-d425-43c9-8240-3a567e3fc04f-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations"
-    excerpt: "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ..."
-    publishedDateTime: 2021-03-24T16:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261914"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261914"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459180/210324-moncef-slaoui-jm-0934_dda6551a87edc9aa2311df3b313f08ce.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "SDOy7xAFWYLyRKvUg7YH/IOoag83cc3xpY25Wgk2Dk7xZUzdoTFfNgzrybq+7AjFKihTU06EjWL4UhhQgm1wjXLT4y8Xr9eMSDOljNQKkt4UgyPmhFRm3zBFn3ydcm5xe3/BKo1Z3GykH+giEnLf8cqIjmlGwuEVOKjTH+AY2GL/pw4/wio0IpKnxe00uF5oDC+Hk0mK5D9JqvhtuNilF59Ray5RrBAZI0WMQ1SRM+lGDyDlucG8vQFiM3OkYZs5gEJO61LOie1a3Q/8oXXGc/pkj2c7rkm0Bw79074F9VkNeacUR2Rn2O+kg0I2zs1+tck/E97dibtgjrtJju+ihXjvRZgr6Kzptv1uNdLgNKqTkoxExiL19krvEaSiDI8IYGt3ZZ6tF4VcRjh41js1Hx1N1p+5RBzUXzpevI6AvQG5Jlw8cqof/abx/+mw9FpZDOBPgs11HaB5YDdY/+kgLO3PUTZdvr8rKky3nhZ4yxEH+SahKY13ha5q7uXpW1Xa0Gjp9OUw8egYayicrXBmwA==;aO0DC3WpadZUnNS9Z+QyRA=="

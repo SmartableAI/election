@@ -27,80 +27,39 @@ images:
     isCached: true
 
 related:
-  - title: "Harris: Vaccinated can be 'role models' for friends, family"
-    excerpt: "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults."
-    publishedDateTime: 2021-04-06T23:26:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Harris-Vaccinated-can-be-role-models-for-16081248.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
+  - title: "Navy Seabees built Kamala Harris a desk with wood, copper, and nails from the US's oldest warship"
+    excerpt: "The USS Constitution is one of the country's first frigates and the oldest commissioned warship still afloat."
+    publishedDateTime: 2021-04-06T15:04:00Z
+    webUrl: "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
     images:
-      - url: "https://s.hdnux.com/photos/01/17/36/50/20834855/3/375x250.jpg"
+      - url: "https://i.insider.com/606c764570954f001919560c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kamala Harris promises White House support for Gavin Newsom in recall election"
+    excerpt: "Vice President Kamala Harris promised White House backing Monday for Gov. Gavin Newsom in his likely recall election, saying she and President Biden “will be supportive as much as we possibly can.” “We are unambiguous in our support for Gov."
+    publishedDateTime: 2021-04-06T01:24:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-promises-White-House-support-for-16078969.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-promises-White-House-support-for-16078969.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-promises-White-House-support-for-16078969.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 86
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/35/63/20831449/5/375x250.jpg"
         width: 375
         height: 249
         isCached: true
-  - title: "Vice President Kamala Harris to visit Chicago next week to discuss equitable distribution of COVID-19 vaccine"
-    excerpt: "Vice President Kamala Harris will visit Chicago on Tuesday to talk about equitable distribution of the COVID-19 vaccine, according to the White House. It’s her first official visit here since she and President Joe Biden were inaugurated. In rolling out ..."
-    publishedDateTime: 2021-04-01T03:24:00Z
-    webUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/w4JNZVIqZX0LrYozGoPmn2UnRig=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WI5A4JNE2CBALGRAM2V4LHPXRY.aspx"
-        width: 1200
-        height: 759
-        isCached: true
-  - title: "Vice President Kamala Harris visits Chicago COVID-19 vaccination facility for union workers: ‘We are all in this together.’"
-    excerpt: "Vice President Kamala Harris, joined by Illinois’ top Democrats, touted efforts to expand vaccination sites in underserved communities Tuesday as the White House announced all adults in the U.S. will be eligible for vaccines by April 19 rather than May 1."
-    publishedDateTime: 2021-04-06T19:59:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-vice-president-kamala-harris-visit-chicago-20210406-kvfyarikdjcizcxfra2g4gc72q-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-vice-president-kamala-harris-visit-chicago-20210406-kvfyarikdjcizcxfra2g4gc72q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-vice-president-kamala-harris-visit-chicago-20210406-kvfyarikdjcizcxfra2g4gc72q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 99
-    images:
-      - url: "https://www.chicagotribune.com/resizer/OhJmDzezeGzbWKxG1-SlPwBfYWQ=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/723XQF65ESX7C7OKRQMTPSXJXQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "West Haven girl, 5, who met Kamala Harris: 'You're my best friend and I love you'"
-    excerpt: "WEST HAVEN - Days after meeting vice-president Kamala Harris at West Haven Child Development Center, 5-year-old Galya Nkwenti, said she wants to tell Harris, “You’re my best friend and I love you.” “Her hair is beautiful,"
-    publishedDateTime: 2021-03-31T15:52:00Z
-    webUrl: "https://www.middletownpress.com/news/article/West-Haven-girl-5-who-met-Kamala-Harris-16066544.php?t=bc345118df"
-    type: article
-    provider:
-      name: The Middletown Press
-      domain: middletownpress.com
-    quality: 50
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/30/32/20809401/5/rawImage.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
-    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
-    publishedDateTime: 2021-04-06T14:22:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 49
 
-secured: "wOvG9t3s+Cp5quDERe24wpRuWZvbgPwbiCNRfbgdckZV22lIAGSsBCT27O7QiiExMvALeusMAI9YGnky1cpGfYnzMIxxOKhA2ZxPu6BSiMtUcFXTGNl1T7Jiu1AJdH6YekrYZP3Fj6IDxLmJjGLoLx4M7YNRA9APZ5g9bmG160alJhb43SrcYhVvfnLxOE0k4xscbiazMP5F7jIbK8mcXlgH0vtXxVV7Dk7gwKkr6lPjlIgexs5LI+j6ahnljzuyiaLeMb3Fc6wIJ7Zd4S3Q18IwFFzNZ4Jbhxe4beqi4IAWPkHyJt1kYdUSJJwwll4cfGRgVUbCpedfHbsxr9SRiGoQbIJJmYUHilQ8GDADa2c=;SqVRtzYOxkjCc2tcJZIv7w=="
+secured: "cY/ESxCKs3/sc5dOiuIPRY9n0Om0kc4dOp6pF/aMdmZ4CShgubRSeGmJ1LEKvnD/VJ13ib1v1PXcCAg9to0BGsaMK8Ubddb9C5ZqwXWIza91PSk7jwffCZGEYkrNkpC2RTEQjzuVwEo50chrYCORCX9RANH6j5n5ipeASZ5IGwcSZdVDUQuXreiUSubRMn6rM4i3C0gQOe245pdvexzHAkWAeGKRNsx3Fx+HOvIUAHo3Q5QU/T/u5BPxEDKvdw7rEN6+TPSzy4ZKlXmf6SOdES/Od5Lht/Qw+xO9TYCm8IHOfsovvMsNZM9lC8u/oOZk7BR99ACKemnkm4JZu9b7t2/J4oZ43YF5wkzYUDlx0bLkK+iTEiJ1lQf8pEewYbhgFzgANQdZWN4IRAKH2sfMTg84HtAml6WsVpom89bUthA+6iRzVkWSkNY2m3qQNWyjBbIqelI5rbcSQiTrHHJVAWzUu5j2Jvj6HU7u6MulXtcxky+E4bfj4AGmI9ft2NfCVwZj+MzJwZkAD0yT6YETQg==;X6UgIIuBYkEJcHnEucjNCQ=="
 ---
 

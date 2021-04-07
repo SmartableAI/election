@@ -27,79 +27,20 @@ images:
 related:
   - title: "Harris: Vaccinated can be 'role models' for friends, family"
     excerpt: "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults."
-    publishedDateTime: 2021-04-06T23:26:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Harris-Vaccinated-can-be-role-models-for-16081248.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
+    publishedDateTime: 2021-04-07T01:45:00Z
+    webUrl: "https://www.chron.com/business/article/Harris-Vaccinated-can-be-role-models-for-16081248.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
     type: article
     provider:
       name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/17/36/50/20834855/3/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "Vice President Kamala Harris to visit Chicago next week to discuss equitable distribution of COVID-19 vaccine"
-    excerpt: "Vice President Kamala Harris will visit Chicago on Tuesday to talk about equitable distribution of the COVID-19 vaccine, according to the White House. It’s her first official visit here since she and President Joe Biden were inaugurated. In rolling out ..."
-    publishedDateTime: 2021-04-01T03:24:00Z
-    webUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/w4JNZVIqZX0LrYozGoPmn2UnRig=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WI5A4JNE2CBALGRAM2V4LHPXRY.aspx"
-        width: 1200
-        height: 759
-        isCached: true
-  - title: "Vice President Kamala Harris visits Chicago COVID-19 vaccination facility for union workers: ‘We are all in this together.’"
-    excerpt: "Vice President Kamala Harris, joined by Illinois’ top Democrats, touted efforts to expand vaccination sites in underserved communities Tuesday as the White House announced all adults in the U.S. will be eligible for vaccines by April 19 rather than May 1."
-    publishedDateTime: 2021-04-06T19:59:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-vice-president-kamala-harris-visit-chicago-20210406-kvfyarikdjcizcxfra2g4gc72q-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-vice-president-kamala-harris-visit-chicago-20210406-kvfyarikdjcizcxfra2g4gc72q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-vice-president-kamala-harris-visit-chicago-20210406-kvfyarikdjcizcxfra2g4gc72q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 99
-    images:
-      - url: "https://www.chicagotribune.com/resizer/OhJmDzezeGzbWKxG1-SlPwBfYWQ=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/723XQF65ESX7C7OKRQMTPSXJXQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VP Kamala Harris urges Chicagoans to get the vaccine and to be safe: ‘In that way we will build back up’"
-    excerpt: "Vice President Kamala Harris speaks during visit to a COVID-19 vaccination site Tuesday, April 6, 2021, in Chicago. Listening are Chicago Mayor Lori Lightfoot, Sen. Dick Durbin, D-Ill.,"
-    publishedDateTime: 2021-04-06T21:50:00Z
-    webUrl: "https://chicago.suntimes.com/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 58
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
         isCached: true
-  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
-    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
-    publishedDateTime: 2021-04-06T14:22:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 49
 
 secured: "rAJlEGfnIn+41bpgb4nPJLaT4QYlZKbFnHql3rogmxS+Gwft8lbeGo5/mSF4OoomvjCwez+dFAy+LH4myRGIEvbBvd87LiZJDpuMeoQ1YJBtWqMKEhttDxNn5/oB+2E2luiaIJ+2YPmbsNuFDE8CkE0kg6XHd5aKMPmrfTdNwLdyHVmzmZdzR8bjC0YppBbG2mc8n+jW9sc7r1bagwb/sxFPSwNTs17w1lBda2psL9HuhJ+Rt7EXbze4ZyMpQ9OxZnxbvSlh8/tJrgfvDM/bFXkLJ9RuZxOBSucAyt+PgnVbY4wXA6D/lTzLpCr0qNZ5z1U32mjOtA8sDLHASRQygCQHtDX75PAB4RB8YItzHn8=;cagUn+xhWQdMeUKvBPqDlw=="
 ---

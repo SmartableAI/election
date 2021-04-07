@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris to visit Chicago next week to discuss equitable distribution of COVID-19 vaccine"
+    excerpt: "Vice President Kamala Harris will visit Chicago on Tuesday to talk about equitable distribution of the COVID-19 vaccine, according to the White House. It’s her first official visit here since she and President Joe Biden were inaugurated. In rolling out ..."
+    publishedDateTime: 2021-04-01T03:24:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/w4JNZVIqZX0LrYozGoPmn2UnRig=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WI5A4JNE2CBALGRAM2V4LHPXRY.aspx"
+        width: 1200
+        height: 759
+        isCached: true
+  - title: "Vice President Kamala Harris visits Chicago COVID-19 vaccination facility for union workers: ‘We are all in this together.’"
+    excerpt: "Vice President Kamala Harris, joined by Illinois’ top Democrats, touted efforts to expand vaccination sites in underserved communities Tuesday as the White House announced all adults in the U.S. will be eligible for vaccines by April 19 rather than May 1."
+    publishedDateTime: 2021-04-06T19:59:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-vice-president-kamala-harris-visit-chicago-20210406-kvfyarikdjcizcxfra2g4gc72q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/vaccine/ct-vice-president-kamala-harris-visit-chicago-20210406-kvfyarikdjcizcxfra2g4gc72q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-vice-president-kamala-harris-visit-chicago-20210406-kvfyarikdjcizcxfra2g4gc72q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/OhJmDzezeGzbWKxG1-SlPwBfYWQ=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/723XQF65ESX7C7OKRQMTPSXJXQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris returns to Oakland to tout infrastructure, jobs plan"
     excerpt: "For the first time since assuming office, Vice President Kamala Harris returned to Oakland Monday to promote the administration’s proposal to rebuild the country’s"
     publishedDateTime: 2021-04-05T17:39:00Z
@@ -153,6 +185,17 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
+    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
+    publishedDateTime: 2021-04-06T14:22:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 49
   - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
     excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
     publishedDateTime: 2021-04-02T11:19:00Z

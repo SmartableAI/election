@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-ini
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
 type: article
 quality: 135
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459180/210324-moncef-slaoui-jm-0934_dda6551a87edc9aa2311df3b313f08ce.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Donald Trump's weird post-presidency shouldn't surprise you"
-    excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
-    publishedDateTime: 2021-04-01T15:17:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/01/trump-post-presidency-tmz-video-cillizza-the-point.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401105556-the-point-trump-post-presidency-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "tsjzK+T4ByhzQiPeNQ6m3wXbMkYoshVsPWxK6H4cxj5ko2DNnmc7mAM0OSkpb84uiXmcjI7MsXtE+YLX4FCCIC4zJ26I4nhD3GFAgArh75+tPzawZdTiArrrrJgJzWOIOqBfu6y019gI1Bur2p29v1XWEOurm9gIZUNf/Pm4R/7NIwU+WGcFNfu+FNIWe2PhXiXvlbRhafD2cjVhBI/h8VXI93JQJwjXmS3A51m/hPDsh0HVlDzrvb0LQI/LkOY7X81JC0ryOlO7urx7wCJWlml+GjtSuxMeJQRkfc9o9Qvh84lL1UIdRfrCzl4fNrMg8lFzIvouJQNM8Z1zHoniyTWKnf3U1A/wZvH/ehyHu/+rF++EhQ4OxniZIzZD0qaKK2zl+K5oA4NKKqLHpujyjuoaDZE5FqQhUuGlLHYhQyDthd43+7ZLnORVR/qmXb8uL+XilqOUdZAowow1GEKanz+jF9fxErtqwRSQDnnur9zE/2NOQzz4Q6QuQbP0Gr8uqxba93xQxdK1T6ZHrRrEOA==;1YXNgZhjhepBXD/MlIiKSA=="
