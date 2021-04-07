@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Senate gives Biden a big tool to work around GOP filibuster"
+    excerpt: "With a powerful new tool, Senate Majority Leader Chuck Schumer has fresh options for advancing President Joe Biden’s priorities over Republican obstruction in the 50-50 split Senate WASHINGTON ..."
+    publishedDateTime: 2021-04-06T21:45:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_883d1796173f44a998267ba2805493f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z

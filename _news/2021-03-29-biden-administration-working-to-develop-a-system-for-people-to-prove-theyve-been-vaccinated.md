@@ -624,6 +624,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden: It's 'reassuring' to see companies speaking up about restrictive voting laws"
+    excerpt: "(CNN)President Joe Biden said Tuesday that it is \"reassuring\" to see businesses \"speaking up\" about restrictive voting laws, but added that he respects whatever judgment a corporation may make as part of its response. When asked on Tuesday whether he ..."
+    publishedDateTime: 2021-04-06T21:39:00Z
+    webUrl: "https://www.cnn.com/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406172321-joe-biden-april-6-2021-04-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Four Latinas in the Biden White House reflect on their personal trajectories, historic roles"
     excerpt: "The White House officials were asked about their interactions with President Joe Biden and first lady Jill Biden. “Obviously there is deference, respect but, in reality, they are both very casual and that is not just now. Throughout their entire lives ..."
     publishedDateTime: 2021-03-31T21:13:00Z

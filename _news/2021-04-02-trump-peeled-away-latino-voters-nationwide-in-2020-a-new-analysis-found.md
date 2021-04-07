@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again"
+    excerpt: "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ..."
+    publishedDateTime: 2021-03-30T18:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262494"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262494"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_13/3460820/210330-summer-zervos-jm-1439_7f50bec42ce1680f710a53fe0880bf1c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "Reyse5yv0EOoLkjrqeKydiUDshbzBM1xXTqXdoVNe6Wqw+oYCIUtT7Vpa5kSnjzi7ZuaaHUn6lT2x3yp7J3cyZkVM2aueX4JevR4qR9wAthgT2M8yYv2Ml6zbAGxO+sUlFvKvMEa3agSd1CT5AoAVsPO1Oj12NDD9Cwcx4lrhAqUbFFSb2KFLT5c6XBnfMPooz/fYuiVSk24zUUFHEcezs4gUgr4g73JU72Geuy+VD0BzPA9l0yOulA5+zw0F1zmnn5b1mcAAJJaq7usvdiOnwPS2LBzpUrcYQJYBUjplJ7OVN5FHVtH4UveYNYO6nlRfAqdgi5bmvWXw0dZqw/VqyYdvsDlsCn/BbHQT9p3tuQ=;orNWEnucsIulemgbwiZBcg=="
 ---

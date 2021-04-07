@@ -48,38 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Ex-Trump Official Fined and Barred From Government Over R.N.C. Video"
-    excerpt: "Lynne Patton recruited and interviewed public housing tenants in New York City for a pro-Trump re-election video. The residents accused her of tricking them into participating."
-    publishedDateTime: 2021-04-06T17:27:00Z
-    webUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/06/nyregion/06nypatton1/06nypatton1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Capitol officers sue Trump over 'physical and emotional injuries' from Jan. 6 attack"
-    excerpt: "WASHINGTON — Two Capitol Police officers are suing former President Donald Trump over “physical and emotional injuries” they suffered during the attack on the Capitol Jan. 6, which they say was incited by the former president. Officers James ..."
-    publishedDateTime: 2021-03-31T11:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/capitol-officers-sue-trump-over-physical-emotional-injuries-jan-6-n1262581"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262581"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262581"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3460991/210331-capitol-riot-mc-1141_ac907b44d1b20b0f9a1e1fc98e3f4723.JPG"
-        width: 2500
-        height: 1663
-        isCached: true
   - title: "Reopened offices leave some workers cold, Facebook groups fill the void and Trump's surprising rebrand"
     excerpt: "For many, the next Covid-19 pandemic challenge is a return to \"normalcy.\" This morning we are looking at what going back to the office means, plus Trump ditching his iconic brand and how a Chicago teacher ignited a firestorm over one country's Nazi legacy."
     publishedDateTime: 2021-04-05T11:55:00Z
@@ -109,20 +77,6 @@ related:
       - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
-    excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."
-    publishedDateTime: 2021-04-06T18:42:00Z
-    webUrl: "https://www.cnn.com/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 108
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "JQGlVI3HCrqDCjsgydya1PowfYF9h7Cu659gfB8oXPY/807+J//KinFai+agW6gORX0SgBPSLQY1fY077zPKZBRr1PFobeA0X56m76iGnnHVa22HdesEwwBsWAuJ7z0cI3WtK4GovqOZP5ji/OktOaLQ/BoAstpYV1nXYiwdCphIfqJF4y62BHxQYAyPWrV2p0/71BEE0PbF2Q+pB7mD86va/TQvRAqKuOQg9cF/jDHFVtsatijqrItED2S8yAeInIvO/QgqEdZBcET5cZHqEdAGshsfakV04syaWvFRum+jL699Y6Y8GSwueDzrQQumDY++B6ut98xe56oyqfoxSfZe+lYCtKfcESG1+e4VFwvUlSWuoUVa3KYL4ZaHnzGh/cFQpFrDzdJ8C+FCiHQumVEtt6XmfEgrLdWnUXE0E4KHRUEDJi9xujDPZduNnyiVIlueRmha2vehqHgd58MXYhCg6C85BJQdt2xY6tYQRkGov18jQXxm47ohgH3RfjNYy0meE13MRRJk1cpeKkC1yg==;H/sjbzdBAGaHqnP1fqJ/9Q=="

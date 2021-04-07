@@ -30,37 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
-    excerpt: "A former Housing and Urban Development official and Trump family associate has been fined and barred from federal work for violating the Hatch Act's prohibition of use of official authority after she blurred the lines between official business and politics by producing a video for the 2020 Republican"
-    publishedDateTime: 2021-04-06T18:42:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jX0Px_-1p1g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
+  - title: "Head of Capitol security task force says Trump fed insurrectionists 'a little BS'"
+    excerpt: "Retired Lt. Gen. Russel Honoré, who led a review of security failures around the January 6 insurrection, said Tuesday that the US Capitol attack was fueled by a \"information operation\" led by former President Donald Trump that involved feeding Americans \"a little BS\" and then allowing them to act on"
+    publishedDateTime: 2021-04-06T22:38:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PpycyPf-GhA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405114655-honore-sot-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and his allies abandon Gaetz"
-    excerpt: "Rep. Matt Gaetz (R-Fla.) built a public profile as an unapologetic, unambiguous, omnipresent booster of President Donald Trump. But as his own political career skids toward disaster amid allegations that he had sex with a minor and paid for sex with women ..."
-    publishedDateTime: 2021-04-06T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+  - title: "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office"
+    excerpt: "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n"
+    publishedDateTime: 2021-03-30T18:13:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 161
     images:
-      - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Ex-Trump Official Fined and Barred From Government Over R.N.C. Video"
     excerpt: "Lynne Patton recruited and interviewed public housing tenants in New York City for a pro-Trump re-election video. The residents accused her of tricking them into participating."
@@ -94,37 +94,7 @@ related:
         width: 2500
         height: 1663
         isCached: true
-  - title: "Reopened offices leave some workers cold, Facebook groups fill the void and Trump's surprising rebrand"
-    excerpt: "For many, the next Covid-19 pandemic challenge is a return to \"normalcy.\" This morning we are looking at what going back to the office means, plus Trump ditching his iconic brand and how a Chicago teacher ignited a firestorm over one country's Nazi legacy."
-    publishedDateTime: 2021-04-05T11:55:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/reopened-offices-leave-some-workers-cold-facebook-groups-fill-void-n1263014"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263014"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263014"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 119
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_13/3462135/210404-stanfordncaatitle-kf-1025p_3ed72c869bb4625859403f739b77ead5.jpg"
-        width: 1929
-        height: 2894
-        isCached: true
-  - title: "Justice Thomas grumbles over Trump's social media ban"
-    excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
-    publishedDateTime: 2021-04-05T14:58:00Z
-    webUrl: "https://www.politico.com/news/2021/04/05/justice-clarence-thomas-trump-twitter-ban-479046"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "JI2l8tRwq4R5I3WwRy3ZdQJ6IptbmZBLDXSmxdA81ZKpSAVadRomDsY5lWlCsYrZlAwvBnIyJpQZY7aduvN0sSMdGeCMOKx3iYnZ6bhsLtHvF2BgbfASl+K80mmSWDa/Y6bU1h5rGNw6/fgNN6NgS8UIjS7WoyEhKN6QtU6I4S8b+WKcUmx2FU+1z5vM6krizei6w0s29yc+K8F0s0imxpH50Pb9zl/bY7vUNDcar3ZlVWALNez1V0BmQCWFHa5jOWlRhMrTzQVElWnjJiDuh6t8kfwvvdGz1ykdD3BLR4UBG5FkRwTHGkIg5uktTMyuwvfRvcutj6qd5Ls5yYp5Z/F3VNyAqAExjv4vXs+0bZ0=;ZRV4tUkCXcRHPV/nTOsIiw=="
+secured: "JlpNJHwObsyAryeeBWGKSSj6EgFS491cCiEF9o0A1hDm+aNkRQnyswXQVjcKnzBuuC6io3JmzchrPMW51jQU4a38ldpu/h7BXfJn7rL2vJR7vjsy0l91isqRHqqiBCFBcnRKVHNVmOXx6dInKxCTvNj3D0lugqAIqZgEGbfeqiFn9c8WRy9gRJAO0SC20DHhKXr98t/zGlhQt3fq6vNkY2cV6b21loTthclV4Cj17a39WIYJvU17oHlAM0A2kFj5ioilOstlAW1Q2ul5ktsyX2vmIy0OdO63rCfTCxkVIiIgtrHCWbJGHECYdCktYsKNsjhWuVEzfDX6kBM2cvyRtetkKJD4WGYpNW8rUQD9Tmpuf2ZAKL+SxxsjL/1t210PXOnWUPxoRmEpX3Dt5u855rKntD+KfeMOc35KAhhf53TVUpwuJEdEqZeNxp1CoXOvNbOnCRZklTGEKsKbXbtov6NAjPLH+iQh4453RAdD0AOWVOVStLtSueokZRXO2oVeMhK9AE/nxyva6uCiXqEQww==;HViKNspRCfa9F5Luy3IBIg=="
 ---
 

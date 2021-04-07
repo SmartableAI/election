@@ -143,6 +143,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senate gives Biden a big tool to work around GOP filibuster"
+    excerpt: "With a powerful new tool, Senate Majority Leader Chuck Schumer has fresh options for advancing President Joe Biden’s priorities over Republican obstruction in the 50-50 split Senate WASHINGTON ..."
+    publishedDateTime: 2021-04-06T21:45:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_883d1796173f44a998267ba2805493f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z
@@ -483,6 +499,6 @@ related:
         height: 433
         isCached: true
 
-secured: "b1woQN+HKD5s6KE+9qTok5Ginx6P6HLo9N5T0h42Bh2om3oxrxC8mwPQApuZaK0isfUuGLRRbXSnEgZe6x1zDS5H50gBGoEaTeisfZ3Q+s+ZqzdURBmKENR/jVOi1WDg9coRHbx64hfLCUuhVWWH65Oi0QC8PiRZ8CUyRCbKmHwxcvIPVp9jfYA8hp+5VSmI2HWliZVBt6cTIa3qi7w6SIRSXujP1Lo1XwTrFJ/rTKePi0nd1JpTlqGcFm9QJaD96GnPTVGLi4xProUmu7lBBcKRmAJ3V9J6pgS2Gj4PsxL/JZHYQCdd/H3oXD06OsrxM/RglBMY/FPxQSZ5ALNoGGfxTRCk4/Vgc0vh4B6H7k8=;gd6uqHNUbzmrUvFncuAVOA=="
+secured: "QKYFoOBoVEKtyT1vrKAr/pQtqhKGq32KY8cMdbS+OsNvPcBf4jqpejwK+aAY+9nqw6WSzIARhwak99+Ysw3F1dNA62Wt0jc1UOLbIJyG8jOtJLDw8kPGPoB+L4M3/V/TNvNPkExefonvqA+TJf5XKBBH2Q736KT0l8u/C3JW3aGy+hBfeBnAFRldP8U5mCkK+idnvGmcASNyadd9XIjOAXdau9w1Y2bq7PaGzAFj2dz0NZVQlzIdisPInpIZWiqMqtIw5fDglTQODgkjzaEDE4NUaL+Zxz5GlsOswBAN4+hZfuAD3ouS/mBspvOAqKiRbgbMiVpnc1OXvixJ4e4Rsi/9xYnsEHPFUYJ133sq6WhugrJGgsOT5DigJ1dY8LnG5TLKMmr4M9VxyhVW33rj2SW22o7yIjgH3C/RS4I7O1SoWIdFdmFgKIVz7h9B6TUo5FW7hJlpImoS6DX61VR9KG5bZVImgdn+RE8atpmfEDm8Nm4J32tYyyf+4MZQi236FnV6vDmfPzDzD28tY3h/tQ==;BjNIUKCJ9SeUAuweQoiVdg=="
 ---
 

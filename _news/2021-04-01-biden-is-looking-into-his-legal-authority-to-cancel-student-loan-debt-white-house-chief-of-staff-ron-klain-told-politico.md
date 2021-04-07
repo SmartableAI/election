@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden administration to launch massive funeral assistance program for covid victims"
+    excerpt: "The Biden administration next week will launch a funeral assistance program that will provide up to $9,000 to cover the burial costs of each American who died of covid-19 — the largest program of its type ever offered by the federal government."
+    publishedDateTime: 2021-04-06T21:15:00Z
+    webUrl: "https://www.washingtonpost.com/national/covid-funerals-assistance/2021/04/06/d7d1db20-9659-11eb-b28d-bfa7bb5cb2a5_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4XIAF4EXCMI6XMUNX6T3WXFSUU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "VkLZQPK2/rffuxxzxbWwSLNruYd95UwLZGRpTHLO3OpdkT1HuVi5mx0nVBEbY1nYUtRFdK1sCNbGHBojMP+T7Kt8wunjB3vnHddD5c6X4Tvk/BvYyoEZQIlRLpBZWMz3cJtGGGRlyxEfqBW/f8MwBf9fb3WII9znlLGj/XsBz0NG/y3WWL+dq6bjq62kjl6OIPIj9CnOcWC/MtlffWJPFc5hJ1f9XD0a6KeH/4caB82JPu0a2IOU+2POln8pBxbXs9dQXMFq4xRoOzOn9B+t5Cwj5Bh4eZTJ0Y0AZFROLmH/CLz8xDtCF/IZTgQR0cKrBhkZIQ+ggzM85J8EYeqmuAVOV0sm7KHk+vpWMi5im8lWcG2l1L4LUw2Y9l0uNtoR/O6ZPZIzgfHwuHnJX6xmQu34mJopITeXdziNOILC2XzNpmq3Rn3p5zbG8rZpTmkVQ2zeWN3GHmGLXrvKpmmvLGevDFI1At3qjkFuDHX9LbxXqC3ZYNnwtBwWyQmt+dv1umvjS5DDtP3lsi8KiOz1hg==;DAJZw8vgaJEO3iLB2tqDGw=="
 ---

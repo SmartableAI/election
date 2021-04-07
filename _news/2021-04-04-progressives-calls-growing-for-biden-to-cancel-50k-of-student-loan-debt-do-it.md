@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/progressives-calls-growing-biden-cancel-50k
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937?amp=1"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.insider.com/6065e8c752f11d001943195a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden administration to launch massive funeral assistance program for covid victims"
+    excerpt: "The Biden administration next week will launch a funeral assistance program that will provide up to $9,000 to cover the burial costs of each American who died of covid-19 — the largest program of its type ever offered by the federal government."
+    publishedDateTime: 2021-04-06T21:15:00Z
+    webUrl: "https://www.washingtonpost.com/national/covid-funerals-assistance/2021/04/06/d7d1db20-9659-11eb-b28d-bfa7bb5cb2a5_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4XIAF4EXCMI6XMUNX6T3WXFSUU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "wtctODXHWoRDwTEeMPrQtzVecgja5ARux1JhyV+anq17vQ01DPqt6I028AdgRsjuOXymQvnAZGYtPLDwjNPlI6zqgq+pw8wtNEvmIYMfb7CoI1Fq+kjAnq1dtRHwlXpovmxlBWSraWhEATKAPa0WT0fm33ipDYtbz2GkiQ5F6g15KSUFt48P2XLmnXuT+gPWcdbRCXw/1Ugpt8oPWq7XihvE8XWSbCFLxIX90Z1+ogWFi7iudR/xof/Oomun0MG2bc2LZrMuVFGuLZ8H+4XgnVntksUd6ljGNqR816yatgyZBUpS7YYuYUJCSqda/AzQckYhX5MZpXPTPpSHdr2Ukt+p69mNkHwyxC8ldLWGzro=;GxslPCXa196ndW5SyeswUw=="

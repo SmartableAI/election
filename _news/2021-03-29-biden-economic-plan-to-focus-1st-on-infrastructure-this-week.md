@@ -507,22 +507,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Senate gives Biden a big tool to work around GOP filibuster"
-    excerpt: "WASHINGTON — With a powerful new tool, Senate Majority Leader Chuck Schumer has fresh options for potentially advancing President Joe Biden’s infrastructure package and other priorities past Republican obstruction in the 50-50 split Senate. Support our ..."
-    publishedDateTime: 2021-04-06T21:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/health_care/senate-gives-biden-a-big-tool-to-work-around-gop-filibuster/2021/04/06/5e373910-971f-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/health_care/senate-gives-biden-a-big-tool-to-work-around-gop-filibuster/2021/04/06/5e373910-971f-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/health_care/senate-gives-biden-a-big-tool-to-work-around-gop-filibuster/2021/04/06/5e373910-971f-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump gave drug companies a last-minute win on prescription prices. Democrats want Biden to roll it back."
     excerpt: "Two weeks before President Donald Trump left office, his administration bestowed a parting gift on the U.S. prescription drug industry. It proposed a rule to block the government from citing exorbitant prices to seize control of a drug’s production."
     publishedDateTime: 2021-03-31T10:28:00Z

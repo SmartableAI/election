@@ -32,20 +32,20 @@ images:
 
 related:
   - title: "Harris: Vaccinated can be 'role models' for friends, family"
-    excerpt: "Vice President Kamala Harris is urging Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models” for family and friends who may be reluctant even as Illinoi"
-    publishedDateTime: 2021-04-06T20:36:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/harris-vaccinated-role-models-friends-family-76907287"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/harris-vaccinated-role-models-friends-family-76907287"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/harris-vaccinated-role-models-friends-family-76907287"
+    excerpt: "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults."
+    publishedDateTime: 2021-04-06T23:26:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Harris-Vaccinated-can-be-role-models-for-16081248.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_9fba9157531e45d9993b63ff0aca56e0_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.hdnux.com/photos/01/17/36/50/20834855/3/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
   - title: "Vice President Kamala Harris visits Chicago COVID-19 vaccination facility for union workers: ‘We are all in this together.’"
     excerpt: "Vice President Kamala Harris, joined by Illinois’ top Democrats, touted efforts to expand vaccination sites in underserved communities Tuesday as the White House announced all adults in the U.S. will be eligible for vaccines by April 19 rather than May 1."
@@ -62,6 +62,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/OhJmDzezeGzbWKxG1-SlPwBfYWQ=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/723XQF65ESX7C7OKRQMTPSXJXQ.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "VP Kamala Harris urges Chicagoans to get the vaccine and to be safe: ‘In that way we will build back up’"
+    excerpt: "Vice President Kamala Harris speaks during visit to a COVID-19 vaccination site Tuesday, April 6, 2021, in Chicago. Listening are Chicago Mayor Lori Lightfoot, Sen. Dick Durbin, D-Ill.,"
+    publishedDateTime: 2021-04-06T21:50:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 58
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "West Haven girl, 5, who met Kamala Harris: 'You're my best friend and I love you'"
     excerpt: "WEST HAVEN - Days after meeting vice-president Kamala Harris at West Haven Child Development Center, 5-year-old Galya Nkwenti, said she wants to tell Harris, “You’re my best friend and I love you.” “Her hair is beautiful,"

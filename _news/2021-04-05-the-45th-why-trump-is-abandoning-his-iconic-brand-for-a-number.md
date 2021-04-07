@@ -48,6 +48,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Matt Gaetz, Loyal for Years to Trump, Is Said to Have Sought a Blanket Pardon"
+    excerpt: "The congressman was at the time under investigation over whether he violated sex trafficking laws, though it was unclear what he knew of the inquiry."
+    publishedDateTime: 2021-04-06T23:44:00Z
+    webUrl: "https://www.nytimes.com/2021/04/06/us/politics/matt-gaetz-trump-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/06/us/politics/matt-gaetz-trump-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/06/us/politics/matt-gaetz-trump-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/06/us/politics/06dc-gaetz/merlin_170263383_ddfd807b-d425-43c9-8240-3a567e3fc04f-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "YZeZru6T3rkX7vf6LhyizynKe8Z4wHhxlFboLcz6GkPfx+QHEewYI6VBERvXWM/xs7kwuujlt9yl/WV+w1yflIy040ZmDzTuaWWU3pSdDZRb4HATZLbqcSb9orYZ+3ChiIGxIQAffOCGLgzZAC10KDWkWB9mcfWNOt+Z4xzicORrDURu+YPqPpf9mu5tmXvNCI1SdGX9b7u4cE0fIqz4viM5JhxBYztWHyrTozxBR5ueb8A8pmXSMBxPz4R2L/VrGuuPGh7ToNYNhXjkJvgT6Ah1E7Y8LFgTwZNeykKI1wYxnnjPOWiywMLQFqVCv2NXJScEy+8haR5HdOIc4e2tktrJNA2sILoP3mlCtgZxLkk=;06iYiRLEHWJr4Miuq2yQhQ=="
 ---

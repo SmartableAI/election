@@ -112,6 +112,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Gaetz to be featured speaker at pro-Trump women's group event"
+    excerpt: "Rep. Matt Gaetz, mired in an ongoing federal sex trafficking investigation, is headed to former President Donald Trump’s resort in Doral this Friday where he will be a featured speaker at a summit hosted by a conservative pro-Trump women’s group."
+    publishedDateTime: 2021-04-06T23:09:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/04/06/gaetz-to-be-featured-speaker-at-pro-trump-womens-group-event-1371835"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/08/cf/26ad306641438fbb703eb5d24a82/210406-matt-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "nj4ccnUoNui89EuPJyInEe5Hvok7qGVwSkNGXwATByHi5MZDIYjmjCBDo+CFtOOcK1C7NDLh6vgGjU/spwgS1/RDBN8VzUKtY5bj6XEvf7LCWaC4d/Pzo+N6roL6+cVA8DXwZPRW9iRskedssrLjwdRtsjGD6aVDeqSYIesD64wvemKosrIDoh30P6kr8dJNSmCT28RNByvoQDOEgDB9Tq+lV4tvABeonTSuihQvJ6E4ktJbENNoCXTLwlexG1k82NT93uE+TIpHn8K1kuZ9MYsjmvkSkvGT2KIeuDyTzFEn95dDyQ0i10WbRlMohofHNrjXRefOM2xBZq8Zrp/bsMjNChfWxV2UZlRCwJqnnW2DdbBtgYuI55c53ibEgWaXsgrTOft1OsPvfZw4HZFFLUVaJMDiG+KYctUtk7tMpcCFlgdt619KdQSFoZReHtLB7jhsP9QjLi0xdE5pxC+IEmOGUvuj7JbnDRsHejpot/b1h+fWuN8eUwV4Yz2WginpvG0PvEWgt/I56h8Ur6HcXA==;QzpZpMUoXLKWciaByfKLIQ=="
 ---

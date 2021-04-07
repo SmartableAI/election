@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office"
-    excerpt: "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n"
-    publishedDateTime: 2021-03-30T18:13:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
+  - title: "Supreme Court wipes away ruling that said Trump violated Constitution by blocking Twitter followers"
+    excerpt: "The Supreme Court on Monday wiped away a lower court opinion holding that then-President Donald Trump violated the First Amendment when he blocked followers from his Twitter account.\n    \n"
+    publishedDateTime: 2021-04-05T14:07:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XEw7JhqA9cg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twitter-followers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twitter-followers/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401220308-conclu-trump-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump peeled away Latino voters nationwide in 2020, a new analysis found."
+    excerpt: "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ..."
+    publishedDateTime: 2021-04-02T14:53:00Z
+    webUrl: "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/02/us/politics/02new-washington-briefing-latino-voters/02new-washington-briefing-latino-voters-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "3vxmUPXfqot1jzvsIDyD4DENGz7iA8r9EeMS28WhRoholPMIbpizAFLsHQl2drWGDDS+H0vofY2L/Zv7zGgbdVlOwBrE0o8Wg2wvhboSu8EThimpSnyLj4mqOV1JM5ogp7AySrHIDKwyBAR0ee+4BbYIdRF0gjuu8nHX1lF1mU6zp9OTWV1o5p7i5qXrGwgqDWjtyM+2JKkx3ehWgmHG27gbdTeBPZN96KAGVNujsFcM/faTESOfhH+VOoc1rvjKX04WAzhOMMlBppfz4zmraqpLoPR3WD1ml8BlNOay0mQbd6v0sPLKayTf825PpsCfBCR++d7CwL7Gt0A2Vk/bN5UbKrMaTFmvUIEf3Ory6+wOebQAlGesUdXikG93woqRwgV/4FsOkiy7MRmY3VpY8khe2HOGXqGi0OC4mm3fsZJ7raTB4db/TJxjRbrUiL3OsyRsqPV6YxRX7mkejLUtUNmQ3XEp53DhTgoOpn6RXfZ5bqQpK2YOQkQMVABEm3fUpGRk4tXKTv1OsHNlBqkGZg==;rw64YAq9zSP86twlT56OKA=="

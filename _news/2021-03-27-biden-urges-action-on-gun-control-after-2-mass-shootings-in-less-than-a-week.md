@@ -608,6 +608,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden: It's 'reassuring' to see companies speaking up about restrictive voting laws"
+    excerpt: "(CNN)President Joe Biden said Tuesday that it is \"reassuring\" to see businesses \"speaking up\" about restrictive voting laws, but added that he respects whatever judgment a corporation may make as part of its response. When asked on Tuesday whether he ..."
+    publishedDateTime: 2021-04-06T21:39:00Z
+    webUrl: "https://www.cnn.com/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406172321-joe-biden-april-6-2021-04-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration working to develop a system for people to prove they've been vaccinated"
     excerpt: "President Joe Biden has predicted that life in the US could be back to normal by Christmas, and as more Americans are vaccinated each day, these vaccine credentials -- commonly called \"vaccine passports\" -- could be key to a return to normalcy by the end ..."
     publishedDateTime: 2021-03-28T19:07:00Z

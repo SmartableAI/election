@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigatio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html"
 type: article
 quality: 173
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/ott_now_trump_cevallos_210405_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Gaetz to be featured speaker at pro-Trump women's group event"
+    excerpt: "Rep. Matt Gaetz, mired in an ongoing federal sex trafficking investigation, is headed to former President Donald Trump’s resort in Doral this Friday where he will be a featured speaker at a summit hosted by a conservative pro-Trump women’s group."
+    publishedDateTime: 2021-04-06T23:09:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/04/06/gaetz-to-be-featured-speaker-at-pro-trump-womens-group-event-1371835"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/08/cf/26ad306641438fbb703eb5d24a82/210406-matt-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "TND7U34ZyEvfutflq/KkR8XugOyAajwiihjtXoP9+nsT/C7y2EhXijK1eqkqzdeKP9V1uaDp5ncUavUqSRzeQZG6IDHdcCgWA3BM+bdd9NqFfhrQNjA9nUC57VtKrXaLuIgzcFhY4WKslxiJVi9K/RRR+MHGQOwNPCrhpQNLTpK6ayrJahC6cxAxjLuM8fe3cXAwTVIXC83A1vyAoUuFWUPxZnd4xUdV0tCF9Bqcf4rN2Ngc/YTtN6RGNjUVC0XwGqamQKpdYXulKc4koIlh7TV2AA1o2NTEE1ykcE3xv2CR8sgoyYVvvOfm2HR9s9K+kfAi88//1McjvPPnmJNhHsnxM34OULNffnfx4emcjpo=;kMZ/1+1n/3N/dJs6xDl+CQ=="

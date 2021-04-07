@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Harris: Vaccinated can be 'role models' for friends, family"
-excerpt: "Vice President Kamala Harris is urging Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models” for family and friends who may be reluctant even as Illinoi"
-publishedDateTime: 2021-04-06T20:36:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/harris-vaccinated-role-models-friends-family-76907287"
-webUrl: "https://abcnews.go.com/Health/wireStory/harris-vaccinated-role-models-friends-family-76907287"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/harris-vaccinated-role-models-friends-family-76907287"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/harris-vaccinated-role-models-friends-family-76907287"
+excerpt: "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults."
+publishedDateTime: 2021-04-06T23:26:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Harris-Vaccinated-can-be-role-models-for-16081248.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Harris-Vaccinated-can-be-role-models-for-16081248.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_9fba9157531e45d9993b63ff0aca56e0_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/17/36/50/20834855/3/375x250.jpg"
+    width: 375
+    height: 249
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VP Kamala Harris urges Chicagoans to get the vaccine and to be safe: ‘In that way we will build back up’"
+    excerpt: "Vice President Kamala Harris speaks during visit to a COVID-19 vaccination site Tuesday, April 6, 2021, in Chicago. Listening are Chicago Mayor Lori Lightfoot, Sen. Dick Durbin, D-Ill.,"
+    publishedDateTime: 2021-04-06T21:50:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 58
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "West Haven girl, 5, who met Kamala Harris: 'You're my best friend and I love you'"
     excerpt: "WEST HAVEN - Days after meeting vice-president Kamala Harris at West Haven Child Development Center, 5-year-old Galya Nkwenti, said she wants to tell Harris, “You’re my best friend and I love you.” “Her hair is beautiful,"
     publishedDateTime: 2021-03-31T15:52:00Z
@@ -89,6 +105,6 @@ related:
       domain: bostonglobe.com
     quality: 49
 
-secured: "bo+uIbJqAOCVdszYzTuBYlcipsrn/wks2Yh8exqj/Nc45SfyoTGEFA4SxmhgCZie1j3o0ZIfVFporYUm4jXHfsHpK6p6IA7lrJtNFyuPo+MQi5USNfD7OxaoBzr7FsTQ2y0tFJrZ00dhyJ2aAGzvS+ljdOjSBN1P4D2wwjL7fLKzdLVLIIf1DL4XGZu1CXsrYlRD/N9hhoP28jSSCoYs8pB4fgFVvZqSKWx7pqzlVb/RqOBYaUJJ5Md96cpmpryqobIhauAHTKwus+xAkm0G4nRVvY1q2XPW7/Yd+nxOg6JpPusPJgfbCq5Gqu1Kd+rTHio5alIIwlccOqL8OKHspivcHW4CXl0fnvH9PJ9+X90=;xlqoTdlWzRhPxPb0Vz7VDQ=="
+secured: "LFe5wmSpDi/ogeyP6QuydDBbFvx1pfUEBDk4TmrNc9WPhlr2+c3SCYJlqS/Ul+K/41leFHa15dk8Mvk9NIpy8e5UQ5mev2h+/1Xsueu2aBWspWVtCg2IFHa/dt8BdCmqXuVAAkW5Yxmh29MdmUNV70VcNC58wk1W/XN/oXhpjkp4ZAnXGpxyAeN6zb9RIEQIK8WLglDg3Qs+KJ6H8T3fSa5x6bX1NJoA1tIjy2+CgQoKOF/Hash95xfk3k3gjc2SgJ104I9ChwYcmumlxA+4tv6VwNSk3vkaGJNknoN4nzdJ5X2BmSOJhrNWY9G33BJIVHLBCImwHlK5RRDoRyxAh2HiL0EcKT7G2AR/N1iKiH0=;qz3bhAyYk3sp0v3Ae8joig=="
 ---
 

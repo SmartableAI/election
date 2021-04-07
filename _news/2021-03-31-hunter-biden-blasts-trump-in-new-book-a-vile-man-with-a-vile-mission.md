@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/545713-hunter-biden-blas
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission?amp"
 type: article
 quality: 140
-heat: 1140
+heat: 1120
 published: true
 
 provider:
@@ -485,22 +485,6 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/refugee-families-urge-biden-to-keep-promise-to-up-admissions/2021/04/06/d854b298-9712-11eb-8f0a-3384cf4fb399_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/refugee-families-urge-biden-to-keep-promise-to-up-admissions/2021/04/06/d854b298-9712-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugee-families-urge-biden-to-keep-promise-to-up-admissions/2021/04/06/d854b298-9712-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Senate gives Biden a big tool to work around GOP filibuster"
-    excerpt: "WASHINGTON — With a powerful new tool, Senate Majority Leader Chuck Schumer has fresh options for potentially advancing President Joe Biden’s infrastructure package and other priorities past Republican obstruction in the 50-50 split Senate. Support our ..."
-    publishedDateTime: 2021-04-06T21:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/health_care/senate-gives-biden-a-big-tool-to-work-around-gop-filibuster/2021/04/06/5e373910-971f-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/health_care/senate-gives-biden-a-big-tool-to-work-around-gop-filibuster/2021/04/06/5e373910-971f-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/health_care/senate-gives-biden-a-big-tool-to-work-around-gop-filibuster/2021/04/06/5e373910-971f-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

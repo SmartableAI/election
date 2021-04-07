@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twitter-followers/index.html"
 type: article
 quality: 161
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/02/us/politics/02new-washington-briefing-latino-voters/02new-washington-briefing-latino-voters-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again"
+    excerpt: "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ..."
+    publishedDateTime: 2021-03-30T18:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262494"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262494"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_13/3460820/210330-summer-zervos-jm-1439_7f50bec42ce1680f710a53fe0880bf1c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "VpymV7TLDPxjPehlVPlQKJKDrFqtKOJB6+rduuCDCYRiJTUlQabhJQzmp/Ig2j3H47ldhEqUU3O4S55yoT+iNb/kXBgsyjVfyaYJjjjud1ZLxIdc3nBivlaNnwBBR0hC1KhWYW8xg4ly2+WwQkeeo4CAD2tAXQPAhNWP/P/86BSEQN3WxeBxNalNnZt/qzPBkgtoxks/eNT3j1KXoybDwGjBDv9pQnujsC/YogLqYq6jtYpZDZwTCv/OviVuxxKiGr9e42Imc+zpeAM00yk0ozSetWJ01SJLM9RTn7kRG6fTjYdRSsYFPZnnECYu/rLFQ63Yv6rgxuyipLsjfjWlIh/SnKdUiYtnaCfGizGPTR8=;80qh+k1hfjuQZnYT1nQxLQ=="
