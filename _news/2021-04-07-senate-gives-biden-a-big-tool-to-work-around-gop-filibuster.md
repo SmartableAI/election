@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Senate gives Biden a big tool to work around GOP filibuster"
-excerpt: "With a powerful new tool, Senate Majority Leader Chuck Schumer has fresh options for advancing President Joe Biden’s priorities over Republican obstruction in the 50-50 split Senate WASHINGTON ..."
-publishedDateTime: 2021-04-06T21:45:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
-webUrl: "https://abcnews.go.com/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/senate-biden-big-tool-work-gop-filibuster-76908515"
+excerpt: "Senate Majority Leader Chuck Schumer has fresh options for advancing President Joe Biden’s priorities over Republican obstruction in the 50-50 split Senate WASHINGTON -- With a powerful new tool ..."
+publishedDateTime: 2021-04-06T22:31:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/senate-biden-big-tool-work-gop-filibuster-76915766"
+webUrl: "https://abcnews.go.com/Politics/wireStory/senate-biden-big-tool-work-gop-filibuster-76915766"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-biden-big-tool-work-gop-filibuster-76915766"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-biden-big-tool-work-gop-filibuster-76915766"
 type: article
 quality: 125
 heat: -1
@@ -515,6 +515,6 @@ related:
         height: 433
         isCached: true
 
-secured: "VPqSM+B2OCwpSLtFoD6llzOngnzzEqUKzPAhrNpuJQ4HsIRDE4wDRHYwmevGWrDeeo2eaQys4CHVZU7vUiqK8F0xl0UxAOh1mo4JEdBxm/fQyJ4PLKGhq5QJG3cAdwOXwiBlEBI84j0+R2LJyRWfwe0Qkb6SZau9OmFw3FeVSPG7soU9fzamnM4+1Rx5Byi8+G/SG/A+9R4FvWLZi3/cwYFKSgWUpvn/ThTQzh9tFM5sVuwtrPcJUVTN5/XATUyPH5UA7w8JfzrN9/TF6CVQl224zxbw6uTsf4XK4SXrolIinWGnMLN1NOs4IgbOL12hplJ8wJuy6MDUEDeqd8VBJTkq0ACIFHRIg73NwDMUL4x3UM5IFqlUbZfI6UHqBqixyCKtNKZuN8o47TK6vStG4gi607kjEE6C24T9L+RB4LEljnS6G8jp2zsjwdNd8vuSgkANplFY9Fd4uV17iFktRENuZrqjHifIF9JT1ujAEtvWqvYSPGWy5vlrDAX3QQulxT96a0SU73UzXAP7DjPL3w==;BFiaGNS65k/RBIQM8RnlDg=="
+secured: "IFxuxF6WjWo9yh4yM//tiZ3cq+pMEdNqfpqfkyqWtTkTQ+Wn3Qz7KgOO1bbbRQe5EnfmNsInr4pTQLOszkQj00tXAMIb2euIOmhnhaRAvA2fjKKFhklRx4j3ivF3e2ZqLHXckizVelu3gE9RB+E+UKGP1RcThuZ/Csdy0LbfxcbNW5B3OTe0YBK0z1X6AGJ66FccJl3/P4PGsq8Q0q8MC4ETsuz0wLc2VEYhhc1m3IE6HpoRjF1b/lNdIF7WcMTEYI0OIPcZuoHfWASaM9Rfhb8dMyj6dAZAMdK1MKGb9URMBXk7toy9rJSMUFugMGlcsIffp+gPAULNGUqDH+AFOJABb4YyDsA4QThNudY0E8U=;aHpG42b6aZ4isQlEJjtfKA=="
 ---
 

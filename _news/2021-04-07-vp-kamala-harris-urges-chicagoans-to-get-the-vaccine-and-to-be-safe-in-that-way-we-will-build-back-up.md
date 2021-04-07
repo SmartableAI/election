@@ -75,6 +75,22 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "VP Kamala Harris urges Chicagoans to get vaccinated and stay safe: ‘In that way we will build back up’"
+    excerpt: "Gov. J.B. Pritzker and Mayor Lori Lightfoot greeted Harris when she landed about 1 p.m. at Midway Airport. The nation’s first ever woman and person of color to serve as vice president was in town to tout President Joe Biden’s vaccine effort on the day he directed states to open vaccine eligibility to all adults by April 19."
+    publishedDateTime: 2021-04-06T21:49:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 59
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "cY/ESxCKs3/sc5dOiuIPRY9n0Om0kc4dOp6pF/aMdmZ4CShgubRSeGmJ1LEKvnD/VJ13ib1v1PXcCAg9to0BGsaMK8Ubddb9C5ZqwXWIza91PSk7jwffCZGEYkrNkpC2RTEQjzuVwEo50chrYCORCX9RANH6j5n5ipeASZ5IGwcSZdVDUQuXreiUSubRMn6rM4i3C0gQOe245pdvexzHAkWAeGKRNsx3Fx+HOvIUAHo3Q5QU/T/u5BPxEDKvdw7rEN6+TPSzy4ZKlXmf6SOdES/Od5Lht/Qw+xO9TYCm8IHOfsovvMsNZM9lC8u/oOZk7BR99ACKemnkm4JZu9b7t2/J4oZ43YF5wkzYUDlx0bLkK+iTEiJ1lQf8pEewYbhgFzgANQdZWN4IRAKH2sfMTg84HtAml6WsVpom89bUthA+6iRzVkWSkNY2m3qQNWyjBbIqelI5rbcSQiTrHHJVAWzUu5j2Jvj6HU7u6MulXtcxky+E4bfj4AGmI9ft2NfCVwZj+MzJwZkAD0yT6YETQg==;X6UgIIuBYkEJcHnEucjNCQ=="
 ---

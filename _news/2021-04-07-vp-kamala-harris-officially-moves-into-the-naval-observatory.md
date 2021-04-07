@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris Officially Moves Into the Naval Observatory"
-excerpt: "Vice President Kamala Harris officially moved into her residence at the Naval Observatory Tuesday night, according to NBC News. Harris and second gentleman Doug Emhoff were living temporarily in Blair House, the president’s guest quarters, while the ..."
-publishedDateTime: 2021-04-07T04:36:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
+excerpt: "Vice President Kamala Harris will officially move into her residence at the Naval Observatory Tuesday night, according to NBC News."
+publishedDateTime: 2021-04-07T08:11:00Z
+originalUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
 type: article
@@ -227,6 +227,6 @@ related:
         height: 800
         isCached: true
 
-secured: "m4bXO5eIg7z9g715O1KXycGiNAZhZwtCOJd1fdAyWHiOZRJbTyDMW8UEMpXXhPBpfPnJ85Ez9eMG+jbbLhpDKg9zD8ZYwZifWKS5lHGY2YfC2wr4uUVvbszzsERqWsBxw0+NSF4fODHuut8zqu1I9OhIHqgtjudpDWi2TTbqMXQUPok6AGAlnY946v5F1nOnGz7tMoF29iCHKqKSVF/tOdy6hRA39V5liX49hW7tniFw6X5/tULq+dZpK0GBGAzz+QZFNQc15ckjgXiCs4HT68qZgnMBxUod5DMd8QAMspWAiB3L9uh7cZmcsre6ilzG3ll1uKClx2jNSAVK7isZewLsH52K1WZ79H2Fv2nNLO0=;E1UiImQg5Vv6U9aTOd0eVw=="
+secured: "4sRTWLEpLGwxcSjmtgEYnQzut+7SaaYrc7v5Bdt2Wr4wpw4tCI4tWtP9WmRtpzczkspP7zWLZf4U6y3BLzYtTDhNUewWPgxW24TPNunclsS/TewVVjgfYuM+RzUuX5SPNNxTX4v6PVEDg5Tso5JOExerWpVQeDOf8XdIVrq2xHstqc0iva0OnCMimzdgAy24p7XGL6wYstWsE9uELYyb0iwPMYDnLcwgwH7ywzMkDBbIb84qSV2c0C5Q1A5/jRVeDRNc7xNFlEHXWwBI7Y2PHa6MdcCGVQmIAs9Hsdh7GZJZ8bbaUjJmPV2m/G9pEB94ATSUlkzxWh57Wxg9b+WteX4K56knQczgu7Db5FyiXew=;tsBgiOcQWJJwohJI6vKHGA=="
 ---
 

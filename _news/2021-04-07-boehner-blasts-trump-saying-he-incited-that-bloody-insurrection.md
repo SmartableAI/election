@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
-excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."
-publishedDateTime: 2021-04-06T18:42:00Z
-originalUrl: "https://www.cnn.com/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
-webUrl: "https://www.cnn.com/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
+title: "Boehner Blasts Trump, Saying He ‘Incited That Bloody Insurrection’"
+excerpt: "In his new book, John Boehner, the Republican former House speaker, sharply rebukes the former president for his role in the “mob violence” at the Capitol on Jan. 6."
+publishedDateTime: 2021-04-07T09:00:00Z
+originalUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.html"
+webUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.html"
+ampWebUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
 type: article
-quality: 108
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07trump-boehner/07trump-boehner-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -62,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Boehner Blasts Trump, Saying He ‘Incited That Bloody Insurrection’"
-    excerpt: "In his new book, John Boehner, the Republican former House speaker, sharply rebukes the former president for his role in the “mob violence” at the Capitol on Jan. 6."
-    publishedDateTime: 2021-04-07T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07trump-boehner/07trump-boehner-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Ex-Trump Official Fined and Barred From Government Over R.N.C. Video"
     excerpt: "Lynne Patton recruited and interviewed public housing tenants in New York City for a pro-Trump re-election video. The residents accused her of tricking them into participating."
     publishedDateTime: 2021-04-06T17:27:00Z
@@ -110,7 +96,21 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
+    excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."
+    publishedDateTime: 2021-04-06T18:42:00Z
+    webUrl: "https://www.cnn.com/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 108
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
-secured: "JlpNJHwObsyAryeeBWGKSSj6EgFS491cCiEF9o0A1hDm+aNkRQnyswXQVjcKnzBuuC6io3JmzchrPMW51jQU4a38ldpu/h7BXfJn7rL2vJR7vjsy0l91isqRHqqiBCFBcnRKVHNVmOXx6dInKxCTvNj3D0lugqAIqZgEGbfeqiFn9c8WRy9gRJAO0SC20DHhKXr98t/zGlhQt3fq6vNkY2cV6b21loTthclV4Cj17a39WIYJvU17oHlAM0A2kFj5ioilOstlAW1Q2ul5ktsyX2vmIy0OdO63rCfTCxkVIiIgtrHCWbJGHECYdCktYsKNsjhWuVEzfDX6kBM2cvyRtetkKJD4WGYpNW8rUQD9Tmpuf2ZAKL+SxxsjL/1t210PXOnWUPxoRmEpX3Dt5u855rKntD+KfeMOc35KAhhf53TVUpwuJEdEqZeNxp1CoXOvNbOnCRZklTGEKsKbXbtov6NAjPLH+iQh4453RAdD0AOWVOVStLtSueokZRXO2oVeMhK9AE/nxyva6uCiXqEQww==;HViKNspRCfa9F5Luy3IBIg=="
+secured: "+SJ/TVUN0f7smrFdKuo6hOQriLBRSVyE+KI4IAeOfkTz4Vw92D6swGbL/XdanPm7ENBYDTvhzCRj98Mdlwub6tnrHpCAtocztgjrZ+ojNSm2HWLn4BjOUQm30A2IhftTz/79VgO0+o3RtUo6NS4Vc5Up5DgE8YTvGOoLUDHuAaFLWr+8cmnTgn6WbGisjUcPjwb8kHGKW/CZ8hU/jSSe2ZKOgrsJE+FKlfEllcDBkgH0F7eeiJFVufXtua5YrIuy2hna3aje1q+C7YeDJc8LsN4XbV0umQaGi+vBnqF8aydIdeVPFfwMimvDrMEFmUZWKNtTfYgZZkm9SDdkNTU8tb+zZrljIXhWV3TBwJNPvBU=;yZfuH/Mtq53rS4z8Ae+QFA=="
 ---
 

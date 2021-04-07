@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Boehner Blasts Trump, Saying He ‘Incited That Bloody Insurrection’"
+    excerpt: "In his new book, John Boehner, the Republican former House speaker, sharply rebukes the former president for his role in the “mob violence” at the Capitol on Jan. 6."
+    publishedDateTime: 2021-04-07T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07trump-boehner/07trump-boehner-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Ex-Trump Official Fined and Barred From Government Over R.N.C. Video"
     excerpt: "Lynne Patton recruited and interviewed public housing tenants in New York City for a pro-Trump re-election video. The residents accused her of tricking them into participating."
     publishedDateTime: 2021-04-06T17:27:00Z

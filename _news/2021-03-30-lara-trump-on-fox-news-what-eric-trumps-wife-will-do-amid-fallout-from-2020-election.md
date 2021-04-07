@@ -47,6 +47,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump is facing legal jeopardy on multiple fronts. Here are the lawyers in his corner."
+    excerpt: "Former President Donald Trump has numerous lawyers defending him amid endless legal peril. But some familiar names have drifted from Trump's orbit."
+    publishedDateTime: 2021-04-07T08:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-is-facing-legal-risk-on-many-fronts-meet-the-lawyers-in-his-corner-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/606cba1e70954f00191957d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "UN4+hopx+y7ECCx6DVi3GBuJDjDshhjQ20AQExV8/ukUuV3cjGqmlZCKmHnNciEBZrwnSsw/HxLM2+yRp+NgyWgMOunHR+Y+htpmRTbY/5MUpRjXx9bhW5i4kyI+2YxisPOH6MndWTifWlwZRZwIjGpzeWke/fYRHq3GwAV6KUPfH/YuFm0B7KRj48AAeU+QXBURtxTpW9xx8U4XP9hBDkdgGJw+WjZ5v3XR6cGeOa6CbTpNmqbweFebBI8vnN8/ylS9MG3DoplMXRH/sm5x5HVaxrfuCmVfyneFm/fpSWICDiOEolTVO4aXnzSvpNaMHmDrCe2rfJ8b+3OQf3ur06O1BTx7jbCsLk2O8nFdM3Fs+FY5e7A5U5WjpIIMafVyWIzUAQT1GBZ/2ROGoKSA++LbQdU5Cv8sXVPKtVMGWPB0N+D/+cItgtm7oMV1FtHWXuvRL48W4t+ce67VSvcABsgAb/iGVKT1veCGy68jSTeLsfzscqNazYsIGwJ2gXsfKym83xIiEo00/LYkCVu64Q==;wyq0azX7IYCakQRrJcBWcA=="
 ---

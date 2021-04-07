@@ -50,7 +50,7 @@ related:
   - title: "Biden says over 80% of teachers, school staff received at least one shot by end of March"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that more than 80% of teachers and school staff had received at least one vaccination shot but that variants of the coronavirus are spreading and generating a rise in cases. “We aren’t at ..."
     publishedDateTime: 2021-04-06T19:54:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-biden-variants-idUSW1N2KX01E"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-variants-idUSKBN2BT2T4"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2T4"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2T4"
     type: article

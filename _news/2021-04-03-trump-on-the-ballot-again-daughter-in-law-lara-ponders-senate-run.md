@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump is facing legal jeopardy on multiple fronts. Here are the lawyers in his corner."
+    excerpt: "Former President Donald Trump has numerous lawyers defending him amid endless legal peril. But some familiar names have drifted from Trump's orbit."
+    publishedDateTime: 2021-04-07T08:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-is-facing-legal-risk-on-many-fronts-meet-the-lawyers-in-his-corner-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/606cba1e70954f00191957d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
     excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
     publishedDateTime: 2021-03-29T21:27:00Z
