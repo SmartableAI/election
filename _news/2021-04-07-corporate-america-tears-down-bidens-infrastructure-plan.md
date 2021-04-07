@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Only time will tell just how 'big and bold' Biden's infrastructure plan is for Black Americans"
+    excerpt: "President Joe Biden's newly unveiled $2 trillion American Jobs Plan, which is designed to revive the US's infrastructure and tackle the climate crisis over the next eight years, offers some Black Americans hope -- balanced with caution.\n    \n"
+    publishedDateTime: 2021-04-07T19:43:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yh3x7msMDpg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/biden-infrastructure-racial-justice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/biden-infrastructure-racial-justice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331165419-03-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "XjLsC/LVkaC1sFxPzHIHalXYr5SK8icJRglWAfA2ZKjJaXoLOqEi9N1Y0NBPxSIJoZ5fTBvHnpYRQg4y/Xkwa8IrxlXzbwshXrXZeAOlIiDJiw2VS/MjCnFCVNpj07XhXCJc/BUmGbGdNfyX2gQdJRX7VV3r6EGN7xkBcqnHMMOYBOuvTFvw3pmkwkPZk+uY1mEBbc9J833rV6bOCtZiNnNP5kVaGD3Fevbsaou+ACYTDIvpL/XnDDqtkloF5J4oPzxdp/Gqc6CJK4N+M1L/uXoXxp41m1OW2egII92PjPk9XtBJZG8f3YqSnqOGTO3gdGRgT6lU/GbUDBRpeVol4CiAx3Gh8zAU1zsNBpF6loJ7unfc7JWkb6a88ZEFqN63LCsS1NdzGMfD/YYM0oPfbYHeBYP6GNqxvDripGc1aDq1W8NzZra1F1knFdFsS65k/24C2OSqUhLLS5yufg2fowFKQ1CWmE8BpdTXMExIL6R/sQSITneQ1eKPYB7plT4Esz7iklRLRquxiiMbb3A0qg==;P8yKPBQnT4sboeBg1dWivA=="
 ---

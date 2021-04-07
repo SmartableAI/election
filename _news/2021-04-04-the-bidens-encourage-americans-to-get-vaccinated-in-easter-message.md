@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-cov
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: Only time will tell just how 'big and bold' Biden's infrastructure plan is for Black Americans"
+    excerpt: "President Joe Biden's newly unveiled $2 trillion American Jobs Plan, which is designed to revive the US's infrastructure and tackle the climate crisis over the next eight years, offers some Black Americans hope -- balanced with caution.\n    \n"
+    publishedDateTime: 2021-04-07T19:43:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yh3x7msMDpg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/biden-infrastructure-racial-justice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/biden-infrastructure-racial-justice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331165419-03-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Corporate America tears down Biden's infrastructure plan"
     excerpt: "Executives at some of America’s largest companies complain much more bitterly in private about the White House approach."
     publishedDateTime: 2021-04-07T01:02:00Z

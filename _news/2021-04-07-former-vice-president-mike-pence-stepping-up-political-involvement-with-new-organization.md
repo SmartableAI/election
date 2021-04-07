@@ -2,23 +2,19 @@
 category: news
 title: "Former Vice President Mike Pence stepping up political involvement with new organization"
 excerpt: "WASHINGTON – Former Vice President Mike Pence has a new advocacy organization, the latest move in his gradual return to public and political life since leaving office in January. Pence said he will use his “Advancing American Freedom” group to ..."
-publishedDateTime: 2021-04-07T14:32:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7121718002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7121718002"
+publishedDateTime: 2021-04-07T16:46:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
+ampWebUrl: "https://amp.indystar.com/amp/7121718002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7121718002"
 type: article
-quality: 116
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -124,6 +120,6 @@ related:
         height: 720
         isCached: true
 
-secured: "qoW83EltHsGMbFYcGcDTvA0kRTbIF7vee8B4SJKP+nvVY1Cylxt3DZ4H69UKS650q+moRP6exDe0mI9Ig/SrhUCfgNPwAxgcXC1r0CUbVMglxkPRlEfgMS/LoCJ9qFwQgK3vNRdgjcY+Sin/8miuldit71NG6115l/KAQAyUJjyhT6Wcpt8opQWrc3WDsyawhFOi3fng1JjP+X7lJ7Hx5JZD956hyvGRcG2AJ2ReoW/xzryYAeazimznPnk1qm6jKzK4odlctiJXTD0HmWP+OpLYiaLShx4eiGikdvoA6hz4XuyXEY/uSAfibWzqNZxBy06vrjIyFbRGUB2YBJ2+h3UElIw8TBJxAkPYj/e8Kb/XA4hNI8Rf6SY1iYQDDrij5+FTJXZcTxfTIewUhO6i4rsuQOr1jkBd8g4fmrLtO5N7FiyVSbc5qT2neJ0OC4BeD+38STZaHyoiTQKVCJZIbMIkHSLR//k3s6yp2A5xwD0MbpqjgwcMYSekDdk2RUeCKx+fFGIPYsLgnGjkRXfFXQ==;YzmcFnnhOxIkcQUsskrOGg=="
+secured: "/wpMusMNQaOD48CpzVbXAo649D8ZrQDN0QS+hYFVcPd7WZFVtFfs17qt8zRq26JdyhqFud7TYCZZRCxz8qEWcefqYMea4syM3Vo+wGIw5jNYlWe0xa/GgYjiGIe2R2GSrbsiBVsRplS6gSdQnyuaxpBrhX4cGBNAZzokHM2mjVNdBb9O3nl9uR39MCaQRRhM/Wu1ljz33S7moU7Y/YxlTVAceFWNXVuEA+85TzjDRqqotbep8kog1vHi8E90rj48C5RzDDFu5U01GXVfiPw9sgYdali8qB0jrkE2iVw7chQ3mPFrjbTodkVm71V8oPrGKLEDvYuinDEpUbPYRW6g99ZqILSONqtZiTDId9WsWDc=;ekD6Gm5AMxJqgPrE4vQYiw=="
 ---
 

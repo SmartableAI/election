@@ -91,6 +91,22 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Good Luck Finding Stationary without Kamala Harris, RBG, or the ’F‘ Word"
+    excerpt: "Even stationery has to be about women who celebrate sex and abortion, apparently. Call me crazy, but I prefer flowers."
+    publishedDateTime: 2021-04-07T19:32:00Z
+    webUrl: "https://www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/"
+    ampWebUrl: "https://www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Kamala-Harris.jpg?fit=789%2C460&ssl=1"
+        width: 789
+        height: 460
+        isCached: true
   - title: "VP Kamala Harris urges Chicagoans to get the vaccine and to be safe: ‘In that way we will build back up’"
     excerpt: "Vice President Kamala Harris speaks during visit to a COVID-19 vaccination site Tuesday, April 6, 2021, in Chicago. Listening are Chicago Mayor Lori Lightfoot, Sen. Dick Durbin, D-Ill.,"
     publishedDateTime: 2021-04-06T21:50:00Z

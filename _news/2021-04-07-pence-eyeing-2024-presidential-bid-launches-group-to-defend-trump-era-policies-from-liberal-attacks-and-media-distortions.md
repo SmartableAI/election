@@ -48,22 +48,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Former Vice President Mike Pence stepping up political involvement with new organization"
-    excerpt: "WASHINGTON – Former Vice President Mike Pence has a new advocacy organization, the latest move in his gradual return to public and political life since leaving office in January. Pence said he will use his “Advancing American Freedom” group to ..."
-    publishedDateTime: 2021-04-07T14:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7121718002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7121718002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/7eb90f2c-9bcb-458b-a69c-edd0157334f3-Pence_fist.jpg?auto=webp&crop=4278,2407,x0,y217&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Mike Pence launches conservative advocacy group as Republicans cast eyes on 2024"
     excerpt: "Former Vice President Mike Pence launched a new policy and advocacy organization to “promote the pro-freedom policies of the last four years” in a possible sign he’s gearing up for a 2024 presidential bid. Advancing American Freedom, which plans to ..."
     publishedDateTime: 2021-04-07T16:20:00Z
@@ -79,6 +63,22 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems24-1.jpg?w=1024&h=769"
         width: 1024
         height: 769
+        isCached: true
+  - title: "Former Vice President Mike Pence stepping up political involvement with new organization"
+    excerpt: "WASHINGTON – Former Vice President Mike Pence has a new advocacy organization, the latest move in his gradual return to public and political life since leaving office in January. Pence said he will use his “Advancing American Freedom” group to ..."
+    publishedDateTime: 2021-04-07T16:46:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7121718002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7121718002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/7eb90f2c-9bcb-458b-a69c-edd0157334f3-Pence_fist.jpg?auto=webp&crop=4278,2407,x0,y217&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mike Pence launches advocacy group to promote conservatism, believed to be eyeing 2024 run"
     excerpt: "Former Vice President Mike Pence is launching a conservative political advocacy group, he announced Wednesday, the latest sign that he's staying involved in the political realm. Pence is widely believed to be weighing a 2024 run. His new organization ..."
@@ -125,6 +125,6 @@ related:
         height: 720
         isCached: true
 
-secured: "BfFT9WW75UHUNBtAF/u8UtjMb+RIxG+LJ7JskstQ8Uu1ULR4B+Ko2yD56HWkdMZb9RsC2pvMqpfaC9V9Pl1Vj5bWs1K0qRNyV2VDhoMoFPbJgPd8R0NBE4KpIy92Sj66uvCLErqpmvCznkl9VFG1VTWzhQf7Kd50Y/Oy8/5y2hJyBXiAuBG2A+DLHi43wu1qLz8BnYpM7SvpqxeUS0idlevr2WNusfrzkeOvifJOY6vURzI3xfSp8u5zawKs3lnUunIbk1GgRLxORt+3cWy0AfbAqopTULNlsTxJ6sGGYP2ywtwaUbrVahp3nBMOLLz7LdrXpmXvanMEVhOhkeCcpZh5OGTXy6NZ6rQWSBHZIuI=;riIMsbksAQXdZU6rn4PqXg=="
+secured: "SQizlGLG+GEF4zZufsoInd+cKTYqvviz7Eqd3Cmq/CGyxZEhmR24gmTIkPov3ZV7BQfUETCPXE3ouaZYBwh5ZWt0IixWJ5yRuVbXmydtpu0h5VRteUblMl4k2jpqN6JTsiqWF9e0YuWPz/W9HEIQZyB45gO9NRVgaEjX27STin8aQDxxJFI1yGEp6efvJ7pX0fJkJvdjsb4d6+ymcJFXFcWP4MlYp8fcYRhftiW1RJ8/9IReP47ZmVy76bi67sb0GDtybcnES4hxhZgh2quNaCs/4oFQMbCNA3GFpqQtiotE56HrDF36JQLG35DkTmj3ImC0PATvjf0ZiNuXgDAXaPtEB9kkipxlzS8Uosk2jdbi959VKmpbXEhQ71Os4moxxQXcgHUVJsY5vSot8rD+KeA7HXDAugaurwKj4DQE78cvCIeSH18DpcsM3dKG3WpJlmJL5eQLecZ6Wv2NLsbG1HZaiCZbmOjktd2xWUttchk/QdQxM8L9jXXdBJFq6hwJf2lrO949weSLyNCLFPsLiA==;eqmxp/xj7tkHcVWOYj9Zqw=="
 ---
 

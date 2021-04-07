@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House defends Kamala Harris' travel after visiting places other than border"
+    excerpt: "The White House on Wednesday defended Vice President Kamala Harris' travel, as she faces scrutiny for not having visited the overwhelmed southern border, amid her latest assignment from President Biden to handle the \"root causes\" of the surge in migration in recent months."
+    publishedDateTime: 2021-04-07T19:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/USMfGs-g8Ss/white-house-defends-kamala-harris-travel-no-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
     excerpt: "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\""
     publishedDateTime: 2021-03-30T19:14:39Z
@@ -95,6 +111,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
+    excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen."
+    publishedDateTime: 2021-04-07T19:39:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ipUIcMB2Ioc/kamala-harris-visit-border-no-trip-scheduled-vp-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096752997903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Arizona AG Brnovich invites VP Harris to tour border as crisis escalates"
     excerpt: "EXCLUSIVE: Arizona Attorney General Mark Brnovich is inviting Vice President Kamala Harris, who has been tasked with tackling the root causes of the migration crisis, to tour the southwest border in the state -- saying it will give the vice president \"firsthand insight\" into what those on the ground"
@@ -174,6 +206,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "White House defends Kamala Harris' travel after visiting places other than border"
+    excerpt: "KAMALA HARRIS PLEDGED TO VISIT BORDER 'AT SOME POINT,' BUT TWO WEEKS LATER WHITE HOUSE HAS NO UPDATE \"I think as, you know, working with countries to work on a collaborative approach, to working on circumstances on the ground,\" Psaki replied, adding that ..."
+    publishedDateTime: 2021-04-07T19:53:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Border-Travel-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
     excerpt: "A pastor in Connecticut said the lack of clergy at a local event hosted by Vice President Kamala Harris is \"an insult to the Black community.\" The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association at a Monday press ..."
     publishedDateTime: 2021-03-30T19:20:00Z
@@ -235,6 +283,22 @@ related:
     quality: 121
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
+    excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen. White House press secretary Jen Psaki said she didn't have \"any trips to outline or preview ..."
+    publishedDateTime: 2021-04-07T19:42:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096752997903.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

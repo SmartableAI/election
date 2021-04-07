@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-the-health-202-trump-says-he-recommends-the-coronavirus-vaccines.md",
+      "title": "The Health 202: Trump says he 'recommends' the coronavirus vaccines",
+      "excerpt": "Donald Trump made an important pronouncement in a Fox News interview last night: Americans should agree to get the “great” coronavirus vaccines. Support our journalism. Subscribe today. Yet research suggests one of the most vaccine-hesitant groups ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7OYN2GEGWII6XPSKES4J6YLPFQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/?outputType=amp",
+      "publishedDateTime": "2021-03-17T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-ted-lieu-raises-donald-trumps-kung-flu-rhetoric-after-atlanta-spa-shootings.md",
       "title": "Ted Lieu Raises Donald Trump's 'Kung Flu' Rhetoric After Atlanta Spa Shootings",
       "excerpt": "At least eight people were killed in three shooting incidents in Atlanta with six identified as women of Asian descent.",
@@ -1516,58 +1568,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief.md",
-      "title": "'I Was Speechless': Law Firm Investigated Its Own Ex-Client For Trump VOA Chief",
-      "excerpt": "McGuireWoods earned well over $2 million in taxpayer money to investigate The Open Technology Fund at the behest of Trump-appointed CEO Michael Pack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
-      "originalUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2021/03/09/libby-liu_wide-fa5bf3a19e647452de52145ba3a5db9f98a64ecf.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

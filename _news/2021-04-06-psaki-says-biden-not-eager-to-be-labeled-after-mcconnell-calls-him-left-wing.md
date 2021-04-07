@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-president-mcconnell-left-wing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-president-mcconnell-left-wing.amp"
 type: article
 quality: 170
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "McConnell again slams Biden as a leftist: 'Bernie Sanders is really happy'"
+    excerpt: "Sen. Mitch McConnell doubled down on calling President Biden “far-left,” after the administration shot back, saying Wednesday there is “nothing at all moderate about the administration so far.” "
+    publishedDateTime: 2021-04-07T19:50:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38a79d73-0f3e-4976-86c1-df8b65cc7425/1a5adb29-437a-423f-b1a7-862019efd686/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell says Biden's infrastructure package won't get GOP support, will oppose it 'every step of the way'"
     excerpt: "Senate Minority Leader Mitch McConnell on Thursday told reporters President Biden’s proposed $2.3 trillion infrastructure package \"is not going to get support\" from Republicans and said he plans to oppose it \"every step of the way.\""
     publishedDateTime: 2021-04-02T05:54:48Z

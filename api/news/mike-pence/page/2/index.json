@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-pence-pushes-false-election-fraud-claims-in-denouncing-democratic-reform-bill.md",
+      "title": "Pence pushes false election fraud claims in denouncing Democratic reform bill",
+      "excerpt": "Former Vice President Mike Pence is seizing on a Democratic-led initiative to streamline election standards to again push false claims of voting irregularities in one of his first public statements since leaving office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/03/03/politics/mike-pence-false-claims-voter-fraud/index.html",
+      "originalUrl": "https://www.cnn.com/2021/03/03/politics/mike-pence-false-claims-voter-fraud/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/03/politics/mike-pence-false-claims-voter-fraud/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/mike-pence-false-claims-voter-fraud/index.html",
+      "publishedDateTime": "2021-03-03T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-mike-pence-calls-proposed-election-reform-bill-reckless-and-anti-democratic-in-op-ed.md",
       "title": "Mike Pence Calls Proposed Election Reform Bill 'Reckless' and 'Anti-Democratic' in Op-Ed",
       "excerpt": "The former vice president said H.R. 1, also known as For the People Act, was \"a brazen attempt to nationalize elections in blatant disregard of the U.S. Constitution.\"",
@@ -1510,63 +1567,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-pence-reveals-his-post-white-house-plans.md",
-      "title": "Pence reveals his post-White House plans",
-      "excerpt": "Former Vice President Mike Pence is joining the Heritage Foundation as a distinguished fellow, according to three people familiar with the matter. The move comes a day after the former vice president launched his transition office and announced plans to relocate to his home state of Indiana this summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/04/pence-heritage-foundation-fellow-465884",
-      "originalUrl": "https://www.politico.com/news/2021/02/04/pence-heritage-foundation-fellow-465884",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/bf/e0/c41b2f7042f88a0644c8730922ae/210204-pence-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

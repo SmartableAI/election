@@ -48,6 +48,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Biden says he’s willing to compromise on his infrastructure plan, but will not tolerate ‘doing nothing.’"
+    excerpt: "like Senator Joe Manchin III of West Virginia, who have suggested they might agree to a corporate tax increase, but one not quite as big as the 28 percent Mr. Biden has proposed. The current rate is 21 percent. Asked if he was willing to compromise on the ..."
+    publishedDateTime: 2021-04-07T12:32:00Z
+    webUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07new-was-biden-sub/07new-was-biden-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "//GH5bhlR7zR+ttb6VMTSpzSyE7cONTDscqU6laH8crX4I6NYqK9obdrDuXUrNjoMeRmQYYSddw2y0hIT3nXY9bOnj/F+babV/DCTbp61Q+wwgBELThAssawUMcCU+OPSvQEN6Y2E+lcIt/Fxm/ljzj38viMQvcuxmHANRpjAt+d76tiBLky5TQpYHN3FKYmHoc5cO/157uITeLm/IaIuO3F5suEERwQDcTE59Oc6/2HlUwg/xh8kWvnW36Gm/opIpEJaRiw+VTwxCXeezZ/L0eiv3gtCUW34Fa51DqzBpv/MqYuFzvh9rl1tOt+b7IaQUy1nPBvJYcl3nqaRMwuDuaeGNa78RFN4p7JJN8UvU47F7h8BZua/qbkPlOOUn4qXlzg1fTjaWe7CKykySu+/8k7UgAUZyd+UL6XJWG8fHqTx/4lynoONRZZoCERCoWorMn9iEJH5PjIlaaap0uPxJeY9NcCxDPT1Ris5L47xTl8y04r24c/cGw3hDn00jU/x8bl/oHWwMdUFd6eH2h8Wg==;ovM14Z8PIXT0GSYC9gcTSw=="
 ---

@@ -191,6 +191,38 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "Biden to announce executive actions to combat gun violence"
+    excerpt: "WASHINGTON — President Joe Biden will unveil a series of executive actions aimed at addressing gun violence on Thursday, according to a person familiar with the plans, delivering his first major action on gun control since taking office. Support our ..."
+    publishedDateTime: 2021-04-07T19:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-announce-executive-actions-to-combat-gun-violence/2021/04/07/64f200aa-97d8-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-announce-executive-actions-to-combat-gun-violence/2021/04/07/64f200aa-97d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-announce-executive-actions-to-combat-gun-violence/2021/04/07/64f200aa-97d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden's stimulus plan went beyond what the Fed expected"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The American Rescue Plan passed by President Joe Biden last month was larger than Federal Reserve policymakers had anticipated, according to minutes from the Federal Open Market Committee's March meeting."
+    publishedDateTime: 2021-04-07T19:21:00Z
+    webUrl: "https://www.businessinsider.com/march-fomc-meeting-minutes-biden-stimulus-surpassed-federal-reserve-expectations-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/march-fomc-meeting-minutes-biden-stimulus-surpassed-federal-reserve-expectations-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/march-fomc-meeting-minutes-biden-stimulus-surpassed-federal-reserve-expectations-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f60e09a323fc4001e0d644f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z

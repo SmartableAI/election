@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "McConnell again slams Biden as a leftist: 'Bernie Sanders is really happy'"
+    excerpt: "Sen. Mitch McConnell doubled down on calling President Biden “far-left,” after the administration shot back, saying Wednesday there is “nothing at all moderate about the administration so far.” "
+    publishedDateTime: 2021-04-07T19:50:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38a79d73-0f3e-4976-86c1-df8b65cc7425/1a5adb29-437a-423f-b1a7-862019efd686/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki says Biden ‘not eager to be labeled’ after McConnell calls him ‘left wing’"
     excerpt: "White House press secretary Jen Psaki said President Biden is “not eager” to be labeled by Sen. Majority Leader Mitch McConnell after the Kentucky Republican called the Biden administration “left-wing.” "
     publishedDateTime: 2021-04-06T19:11:47Z

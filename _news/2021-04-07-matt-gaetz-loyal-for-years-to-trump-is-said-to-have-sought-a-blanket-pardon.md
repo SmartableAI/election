@@ -80,6 +80,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump claims Gaetz 'never asked me for a pardon'"
+    excerpt: "Former President Donald Trump said Wednesday that embattled Rep. Matt Gaetz (R-Fla.) “has never asked me for a pardon,\" disputing a New York Times report that Gaetz asked the former president for a blanket pardon as Trump's term in office was coming to a ..."
+    publishedDateTime: 2021-04-07T16:01:00Z
+    webUrl: "https://www.politico.com/news/2021/04/07/trump-gaetz-pardon-479701"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/trump-gaetz-pardon-479701"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/trump-gaetz-pardon-479701"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/69/ac/6bab09c24990918044542d2cf1ae/210407-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "T/+OAmxHecdzqPow4i1S8Y66x0xHaL4UD/uyDT9cbYiCy4FOTnQe+w7oMfHA+mkWe41oUrn7nrez65gFctWXFF7Xujrl/sku2WJPmXD/Gx1DfdynVlyvvV8PEu0/Yy7/6CTNX/RarJvCysJngcXBqcqFKic0g8vm1r1OmSYbFmmrVG7ETWdfQYnOOsAgah7C7PUHKoK+9LTfyIbkDYUwN4JQhm97ljkjuqakDQHN1qZf+ix4z8A+/e1KJ9TFoEMrYPCc/fzgC4DQ7H7A3qXjNdBNII939RzN5DvIi+8nHUYjm2FK5onpdS2R3dPDkRlFjPucmNVgNdEcgoktdIkuP3UL3xRn9fhWPZPk7ylfZXqtefWQButmUuVico+tRcb8MHVTlfvjvosN+h+FSeidVoD6gm082F4tzIhML6TWZhSzRSsZGraDDwSrflyDQguSGdxJsQXPkPEhY2s9WJx+cHuy6j2agqRjEts+KUvTc6e+00oZi5mz4zQBMY4CPANqKAuEC8JQrugOK4VOPwPwRQ==;qRERmMf9NlSCVt2Z0zLpmA=="
 ---

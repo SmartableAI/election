@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3461502/210401-pa-senate-race-malcolm-kenyatta-john-fetterman-split-2x1-se-550p_6f448da845633a2d4d658d16296c5987.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden says he’s willing to compromise on his infrastructure plan, but will not tolerate ‘doing nothing.’"
+    excerpt: "like Senator Joe Manchin III of West Virginia, who have suggested they might agree to a corporate tax increase, but one not quite as big as the 28 percent Mr. Biden has proposed. The current rate is 21 percent. Asked if he was willing to compromise on the ..."
+    publishedDateTime: 2021-04-07T12:32:00Z
+    webUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07new-was-biden-sub/07new-was-biden-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "uj3nsIr7U/Mf+J2GbZPZOYgKDh8ENX5Kh3uq3XZRl//hQgShDbLvP2G6rF7wn50nZ2lzz4LTDWIfn2VjGvznDisTJVYUOOdyCY64wg00bf6f4ock0r1De8DDcl8isjknGuj907+cueNGfRMR0yOoL7guM35dFD8WUHKV7Kt6hBCVRXCA/PgDyOgVCQKknuHgE7TdWGnsunELMX6lJUHA5x9WaRdojgiUAAvwqNeDsxvCFEwaU2zJwL9QlCZspx/ki8h8aKAninYY7xeQOrqUFEOju7vs35A9XmwdPobC+67re3nnF7PxlZxBq52Q1KgSL9851fuBw2u2smz1vSD4mTbKdrqS46kT8Yzfk4yvkLkKjwMQn0CFDnZtGNdW5oLVs8bi0aS4XTrfrCImjVU7egAaYMpwpkgnOKT+mKRv9/vMDF3xOjka/ZRDMl7thOqOV08CEqcoBDqjGX2QzBl4lmH/BOiD61wS+YbXJXRhvFKh/eW73ruCOLe/vam6tu51WYDa9BXpSGZHdWVjjWx+Wg==;ED+Oxhx+TscjdO9BwoXKUQ=="

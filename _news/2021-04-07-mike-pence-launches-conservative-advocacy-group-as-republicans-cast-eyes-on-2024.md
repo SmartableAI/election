@@ -61,15 +61,15 @@ related:
         isCached: true
   - title: "Former Vice President Mike Pence stepping up political involvement with new organization"
     excerpt: "WASHINGTON – Former Vice President Mike Pence has a new advocacy organization, the latest move in his gradual return to public and political life since leaving office in January. Pence said he will use his “Advancing American Freedom” group to ..."
-    publishedDateTime: 2021-04-07T14:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7121718002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7121718002"
+    publishedDateTime: 2021-04-07T16:46:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7121718002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7121718002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 66
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/7eb90f2c-9bcb-458b-a69c-edd0157334f3-Pence_fist.jpg?auto=webp&crop=4278,2407,x0,y217&format=pjpg&width=1200"
         width: 1200
@@ -120,6 +120,6 @@ related:
         height: 720
         isCached: true
 
-secured: "lRo8YRv9GAWsO4RSQ/hyfKfJa4R2y28WjcaAtCG1qxKLcRJ4ajBYWf3qa+tlAixaAlpbThdFczaBsp94Z5CBhojvJ2ERMhZXvrnYQtAIwljsEaiFonbbstkKA8tWS1++DN/wFqqPjgHMwVQr8lRwIINcD4ZQMa7wdpFWWFcKU8I0UtQCgVQnJFg1lnmJH+UXyNExARtLv/t07/EmasEP+NCNCQwtEt3wKy2NjdyAy0Zir1dFu2Qs4L4IyGgAM7WSyfwW7bFOoP5kDKtABbKadC5vIUw357JDGA0stpgY4SQ0fif8yxdf9+jgcVGSrwfjd2bLsi19P9Rt7jAwUgrqHfkwM1FQAVMcMVssyZ7Nado=;2/YgULqlR3rtCy7KjmdGgw=="
+secured: "GFT9CAT3gebnWRonMl+MxiCbDZePN/71Z0N19OhHBNmnuCCz/+1lw/TCi5HhORO9o4B8Qkbi1Qi0VPh+ik448sze2A1RSI7w9YfW8C2m/XPAoulxHujlTjlxFjdIJhtaLFcJi9OpbRiyEtvA4XZyS2vROmT0cNG0QcCxCgfz6Dfpup0DgONdNVMq1l7Cuy6AIPHCo2KdUN2syyvyDzp6YXaxEznwBIhd0cIzNfISHN0Wc9+nYul16crRTuC4FJ3OsiNdtGXFkQGYkOrk2W6XxCEXXCMBXbGU2yR8/QbUrVT/MqM1lJ0LjujvWrARtBuLnxfxzMbaImHk3jVqZVDXaKftbaun89sHmws46945cqw4uInhshB1M51QMTJtBwwn7j379vrACMN2+N6Rpk63/tUueUd1uorxHbXCNkFNW6urt+kZ7o3uw+gW9AYrMswSVA4RaZbIhcnxlph6z7iLQoOUeQacTBFm3tFxjgvgU3f8TmtQrKATTusS9FnJnaeoiAu+AH8QUMiRrw9/zQK4+w==;NAsmU3Ayqk9xLqNLe3kLuA=="
 ---
 
