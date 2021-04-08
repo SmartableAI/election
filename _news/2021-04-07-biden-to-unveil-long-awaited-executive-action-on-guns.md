@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Live Updates: Biden Prepares to Take on Gun Violence in Wake of Back-to-Back Shootings"
+    excerpt: "The president is expected to unveil executive orders on Thursday that will tackle so-called ghost guns and background checks. His office also released a plan to raise $2.5 trillion by overhauling the corporate tax code."
+    publishedDateTime: 2021-04-07T17:04:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/07/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/07/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/07/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/07new-washington-brief-georgia-promo/07new-washington-brief-georgia-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "L0e0lc/2Y/bhac8ABJSFa363Qgn9+OeUdIl3IVSe28U+4MQrO3LJQOur/GzT6uQVrPccEx/hlxwhnzcSbJ0UnIcOki7nVvplhK7vA7pGQYngDl0qC1WnynOY6KbyJch5tj0GGQdwURWdDPN8lA6kIuh70jyiHocpVfd5ymjiHS+gOcd3REmcM74vLkKxBZXrlQK9+Gi8sgDKGmSCtsCqShRxEpiqfnmZOGK8eZ81GF++w5iF7znCAlnDm6tl6ZRZUIDum24T3/E8xlzYqK3jiDJLzqyjrcQPGnkzz+7XGYwmQg0sckGsh37B2BWIVrqc9DljrJdE1nv9HMOo5inmJVseaAw/VhiSFOU/g3QjpnNXWhSUSGyxaFHissTJXDw6FyDiHacP7+Uk59aa1qDJMfhfGLrgy9m6umz6rJR54FeixQCPGl+7zEAWjMx59aXR0396iaAxDFaxsdHivUrDE5+MASXgfJCNsSbM+wRqbDPTo1OJYVNl57HutEnsdocu4k68HD+o2F9Xy1vq32kY8A==;wLt9adzewZFYZXv445kS2Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-executive-actions-gun-control
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden to nominate gun control backer David Chipman to head ATF: WH official"
+    excerpt: "President Biden is expected to nominate David Chipman to serve as the director of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), a White House official confirmed to Fox News on Wednesday."
+    publishedDateTime: 2021-04-07T22:10:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hltUAnLtL1Q/biden-david-chipman-atf"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-david-chipman-atf.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-david-chipman-atf.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f71b38a7-f911-413d-9ce9-8360f122c0ef/b9d50c62-2ac2-4472-ad2e-e18d1d465e88/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "c012d2mqdsvfztdbYC4zQNrbzFoy3yTyGITfDkWvlOgv61HDWU/oLcyEEKtHp7KCr4qH4vvVgAiCzuqLGwHGMQAxdU55rH3THZX/G5r5AmY7Dujg7MVr25QFcWnVMflO0swITjpb0B0aBb9ohcqg2b1p5M7oy6AiAhS6DOv4mNsQzELGHmK6B9UGNNqLRikKKB1cVv/JoBe9KSZOqGDt/9gzm2mZhcCtfUoBAP9td6NlsrIIkYT71xwoJ8M/GxV+Lt7WPxKBv/VdDWOCCz04qaOsLyMv2hSOOh28vFx0jT6joUcTcqnquxuYoT/SkxiCWbY/n9rdLFDk9qGGu2Gn4HZE4PFqkom0yqHsLGwL7XI=;cp/VBwegGDrMbDqnjXqoUQ=="
 ---

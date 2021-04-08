@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas Gov. Abbott blames Biden as allegations emerge of sexual assault at child migrant facility"
+    excerpt: "Texas Republican Gov. Greg Abbott demanded that the White House close a San Antonio facility housing migrant children Wednesday following allegations that children there were being sexually assaulted."
+    publishedDateTime: 2021-04-07T23:42:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mAfpuB5dUAs/texas-gov-abbott-calls-to-end-san-antonio-migrant-children-housing-facility-reports-of-sexual-assault"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-calls-to-end-san-antonio-migrant-children-housing-facility-reports-of-sexual-assault.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-calls-to-end-san-antonio-migrant-children-housing-facility-reports-of-sexual-assault.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b978c8d-9f3c-4090-9f98-47b96bf530e4/ad051e58-195b-4dd6-9b8b-6aee53f1fdff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "kcqmeLX/SwlBid0gzXIYXM9qOE9e9aprOZ0SfeMFiDXeviJRRFvzfzC8wNjDyOU1jtgXX6H86rm6EgUbNY8KzWfi5MTYu5K8RTqPeRlvoZW6lD8lKuDTvSCafds3s238+9kP6tEAteaMTWNzg6mdw6MC19sKIASkWop6MWpQfsho/gKwO4czGxfYQ08C2TXzwQUwXkBzgqms4K3dEL206URTULoKkkguDkx3j7h+dzHplM0G56fUbF23a8qN3Z4p16kr9ci26YxlES5/1zr2NB62WgZ9WKctOrB4yDHO47TngnqyR1svmIHLuM6+wAC2hC7jj7Cpa+eDoWM4Z1PH+t2lW8YrAXo+ZmMKUhrZSV4=;e6F+f64i2/wUVb8NddDB/g=="
 ---

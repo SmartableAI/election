@@ -61,19 +61,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
-    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
-    publishedDateTime: 2021-04-07T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
+  - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
+    excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."
+    publishedDateTime: 2021-04-07T19:35:00Z
+    webUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534"
+    ampWebUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 96
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
     images:
-      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
+        width: 1024
+        height: 534
         isCached: true
 
 secured: "ytoKEyfuuvLPdbqWNqZOP6Xit4afeYrfDnSrmwGfR91phfa3iwqAjufpwLfvBaBEk9C67TGhck/EiGghaXpn79+bPwJ0+GG1CzmBKCBMN+t9yURz0sxmvuOc+R33HPrTi4l5jS70FY7j7Cw9vOljisCLrJpkKoyMJG5157JLcLDuFdSbg3jSK/qTKQm5i2PP1rvAR6KXclkSpJRGCG0EZsWO56w1M7Xu6n7yH1tGJv2mkTEsO1q9VPM6uhcPDkvm/sKGFhnxmlNaZpiOPOKjJ/tesbPNfdXz4FE2x4PdAYLcd7g5ef2PUOndt/1mo9OXGC3UtEC/e6gM6mS7C43Av1tOnJLaJvB5YAWSYB++SYmyz0/FOwlxVIJ7ZZ0lDzcFkylmjgSMxoXiMXEqBFJ59lPisAlBR/ci/etY0hh2FDgDBG6p95WvKhcz6vweLvxHQ6ZuVplTUX9815E5CjsP8cMYE4OTynkYu895on+Oov0YpWzM8XNpU8ySD+rbNIFSxfzwTFqlsRRPQacbwn5cqQ==;GtR6hn31pFClyXd8cRa+JA=="

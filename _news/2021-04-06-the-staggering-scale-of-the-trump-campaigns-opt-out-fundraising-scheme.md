@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://i.insider.com/6064514b6183e1001981972d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
+    excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
+    publishedDateTime: 2021-04-07T23:33:00Z
+    webUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 67
+    images:
+      - url: "https://thumbnails.texastribune.org/aqe7-Li9PzIZ9QIexP_8OQM_5Q8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/6f9c74896c525bff9a658560eee0db9c/Escobar%20Impeachment%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "EghdAgHW49ZekSXCp398A6vqQhaHDkLw1S6yxfbIJUHjVAVHhBk1ne6BAQ5vjqU76oeDEuXyE76qMgBjeee9vNlwHFfFYaErs8RjzvOGRuD9VmXmA8cRoto7J4crPoAMGXzsqspYFat0qw8cZMb6ay0GATgYWqtdUiFnc1FkFUxyyoR5bZb5Obv+R3p2WGcIIe/SRPQcYE1kWDnXTHL/RnGOiQkZlY7zePIwb88QZ2ua/CQdoJFvaxfDdOMYKcyboexcwY68r+yPbayi1hDTkP3BezH25X4+SubYLaaYXWXZXOybsSh4AkaDhD6YP3yTceDPuxlBEYr+AzFuo03D1/RQnb2Pe3xIm+vS4E4P2IPpppBEhNYRTHF3TarIi9CM4TrpiknKncpXchuCpvOKcT+buHckMeFtnwo+4i59HDLfDVurCLTWXfI4+nfGq5hbHP0nf2gHdAK0FHSfwgzqg+SlTjRW4wJ25pY00RBLcu7aBhUOmwFvPSe8c6k6vNsOnEBGLu1qbB7n4R6neEqsbg==;QhmJ52v9/2JGbYCbRWxrsQ=="

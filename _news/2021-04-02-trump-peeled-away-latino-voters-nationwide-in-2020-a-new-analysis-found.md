@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Parents of 445 migrant children separated at border under Trump still have not been found, court filing says"
+    excerpt: "The parents of 445 migrant children separated from their families due to Trump administration policies at the US-Mexico border between 2017 and 2018 have still not been located, down from 506, according to a Wednesday court filing.\n    \n"
+    publishedDateTime: 2021-04-07T22:23:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNtJ2oFnMmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180625234239-deportaciones-sin-proceso-juridico-eunice-rendon-omar-silva-intvw-aristegui-00030023-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again"
     excerpt: "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ..."
     publishedDateTime: 2021-03-30T18:52:00Z

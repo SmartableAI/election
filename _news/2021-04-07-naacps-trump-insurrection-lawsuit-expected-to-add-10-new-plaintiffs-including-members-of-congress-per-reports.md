@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "'A complete rip-off': Campaign-finance experts puzzled and stunned by Trump camp's reported 'money-bomb' ploy"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Older donors who gave a few hundred dollars to former President Donald Trump's reelection campaign said they were shocked to see thousands drained from their accounts. Refund requests jumped in the final months ..."
-    publishedDateTime: 2021-04-06T18:57:00Z
-    webUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
+  - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
+    publishedDateTime: 2021-04-07T14:18:00Z
+    webUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 106
+    quality: 120
     images:
-      - url: "https://i.insider.com/606c75682556c50018947897?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'A complete ripoff': Campaign finance experts puzzled and stunned by Trump camp's reported 'money bomb' ploy"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Elderly donors who gave a few hundred dollars to former President Donald Donald Trump's reelection campaign were shocked to see thousands drained from their accounts. Refund requests spiked in the final months of ..."
-    publishedDateTime: 2021-04-06T18:57:00Z
-    webUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/606c75682556c50018947897?width=1200&format=jpeg"
+      - url: "https://i.insider.com/606dbe1a30004b0019b26624?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

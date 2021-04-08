@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump's China Tariffs Saved US Jobs, Says Biden's Commerce Secretary"
+    excerpt: "Regarding the heightened taxes on Chinese exports, as well as those imposed on some goods produced in other nations during Donald Trump's presidency, Raimondo acknowledged the ways in which they have positively contributed to the U.S. economy. U.S ..."
+    publishedDateTime: 2021-04-07T21:21:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-china-tariffs-saved-us-jobs-says-bidens-commerce-secretary-1581829"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-china-tariffs-saved-us-jobs-says-bidens-commerce-secretary-1581829?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-china-tariffs-saved-us-jobs-says-bidens-commerce-secretary-1581829?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1772817/secretary-commerce-gina-raimondo-white-house.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Lindsey Graham Calls Out AOC for Conflicting Border Reactions Under Trump, Biden"
     excerpt: "GOP Senator Lindsey Graham of South Carolina asked, \"Where are you?\" to Democratic Rep. Alexandria Ocasio-Cortez of New York, calling her out for not visiting the Southwest border, where he said conditions are \"worse\" for migrants than those under former President Donald Trump."
     publishedDateTime: 2021-03-24T21:40:00Z

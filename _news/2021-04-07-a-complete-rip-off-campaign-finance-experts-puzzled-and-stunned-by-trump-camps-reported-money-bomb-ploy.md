@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
 type: article
 quality: 106
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 106
     images:
       - url: "https://i.insider.com/606c75682556c50018947897?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "NAACP's Trump insurrection lawsuit expected to add 10 new plaintiffs, including members of Congress, per reports"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% A federal lawsuit targeting former President Donald Trump, his lawyer, and far-right extremists in the aftermath of the July 6 Capital attack is reportedly scoring some new, heavyweight plaintiffs. The NAACP's ..."
-    publishedDateTime: 2021-04-07T02:10:00Z
-    webUrl: "https://www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/604b7d4ab197370019694a23?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

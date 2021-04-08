@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence signs a seven-figure book deal, but Trump and other administration alums face a tough market in publishing"
+    excerpt: "Mike Pence has signed a multimillion-dollar, two-book deal with publisher Simon & Schuster, making him one of the first alums of former President Donald Trump's inner circle to ink such a lucrative contract.\n    \n"
+    publishedDateTime: 2021-04-07T20:51:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F-yC99mym3c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120162607-mike-pence-joe-biden-inauguration-01202021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's own statements in old lawsuit could haunt him in any future criminal case"
     excerpt: "Donald Trump once said he calculated his net worth, to a degree, on his \"feelings,\" and that he put the \"best spin\" on some of the assets.\n    \n"
     publishedDateTime: 2021-04-01T11:23:49Z
@@ -171,6 +187,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump relaunches his fundraising machine after months of quiet"
+    excerpt: "The red \"Make America Great Again\" hats are back in stock. Former President Donald Trump is reigniting his small-dollar fundraising operation for the first time since leaving the White House, part of his political ramp-up to stake out an outsize role in ..."
+    publishedDateTime: 2021-04-07T20:18:00Z
+    webUrl: "https://www.politico.com/news/2021/04/07/trump-fundraising-relaunch-479724"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d6/5b/2e9d3b5f4cbb81dc25d0a9b7c1ba/4-7-21-maga-hats-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

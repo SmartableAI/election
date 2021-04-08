@@ -65,16 +65,16 @@ related:
         height: 619
         isCached: true
   - title: "Congressional Democrats call on Biden administration to demand Saudi Arabia lift blockade on Yemen"
-    excerpt: "A group of more than 70 congressional Democrats has sent President Joe Biden a letter pushing the White House to encourage Saudi Arabia to end a blockade of Yemen that has led to food and fuel shortages in the country that have hampered the delivery of desperately needed food aid.\n    \n"
-    publishedDateTime: 2021-04-07T17:59:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lozMEvDw2Vc/index.html"
+    excerpt: "(CNN)A group of more than 70 congressional Democrats has sent President Joe Biden a letter pushing the White House to encourage Saudi Arabia to end a blockade of Yemen that has led to food and fuel shortages in the country that have hampered the delivery ..."
+    publishedDateTime: 2021-04-07T13:34:00Z
+    webUrl: "https://www.cnn.com/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 121
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg"
         width: 1100

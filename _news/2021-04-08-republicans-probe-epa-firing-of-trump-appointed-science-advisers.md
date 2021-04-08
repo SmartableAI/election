@@ -64,8 +64,19 @@ related:
         height: 360
         isCached: true
   - title: "Pence launches new group as Trump aides line up new roles"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% WASHINGTON (AP) — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence's , which could serve as a ..."
+    publishedDateTime: 2021-04-07T18:10:00Z
+    webUrl: "https://www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Pence launches group as Trump officials line up new roles"
     excerpt: "The new group is one of several launched in recent weeks by former aides of President Donald Trump. Shunned by corporate big money gigs, they are instead opening their own shops and embracing Trump's legacy as they seek to capitalize on his continued ..."
-    publishedDateTime: 2021-04-07T18:11:00Z
+    publishedDateTime: 2021-04-07T20:11:00Z
     webUrl: "https://www.chron.com/news/article/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
     ampWebUrl: "https://www.chron.com/news/amp/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
@@ -96,6 +107,6 @@ related:
         height: 336
         isCached: true
 
-secured: "rTmkoy5owbbVq2U7iy/XZiQCl28AAxBiid9McADe3G3Jc/QrQp8+3o8z46qc45gjNw03ogLS4rA2O9gmGJdNDabrj3EGcQUE4aTmJhhyHOhHaf3DvlA5ZouqAih3dYlviYDT9Hrz1jNpEZtYPMMwZh7u7LLN/lWTr4945QrdRfW+3Uwjv2mR4rIUXpGweTNmcgCWKN4G4VbfwIs7NhKCF9C2q3cOGym6zDej/LAazalFKTbdx2X3zT7TsPtB9Mw98yd1OeyzrMMr5/H7Z1HIrG1MwRQ52/qvqC40nHINTEwXgBg6DlcK8th821GlBgQCMxW8GzJs22Itrtq/7EONeXbOKI3TY1yw7VwnUqGG0U4=;p8FNi1JvHjpRQualHgHXGQ=="
+secured: "kuB70WIszkidWJeAggXrXZ5/v/OpA52KQDSG2r8uwr+ZjMQjSWDLV0yqcY8he/QVH0wlwvxkBm8VhpUidcTeV3chh7aVqoWY+uhxCwD/PHV0zZglitJM+yIcnYa7tpc9vpYQM2aOTZSFOtDN6rvLv/nfIHjSOmTJVp6YvZpqbQqCq2uRrp3fF0tQLius+3LZqqMQVqDpsE6Jf49HgBrLhTNl2TCA0SOTp4kcR5c4h5ZgjYtNpKpPoC2RwxdhdF0SV7TrVOLx5hf37G6FCxSgMKK1Kh4l57OxIRVEkR6mWzM8j5qEBKLX2+s9g7qcx/dEC7hhGs0U9j0sINQBaBqPqV7xJondcYHxZgGvwOZSE6uL9/eGD8r3h3+ZScvnweKIGvn7mqnLlqgG8fY5k4LbwwuEzvV7so9MRRLh8cJeUPyMyPDMKS7yn7ECKQhA2xDkGQfRTv+Ob/JomUHFzyKFWiwQb3Cwa2a4n5+EHOOy/PsVl9/3R1CcZw2di/kP+jHmWSzUjC8RDE2DVdI0dtmiig==;Vnngbe/i9BI4R77uJouUTA=="
 ---
 

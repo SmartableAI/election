@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden task force has not reunited any families separated at border"
+    excerpt: "None of the hundreds of families separated as part of former President Trump’s zero-tolerance policy have been reunited by the Biden administration yet, Department of Homeland Security (DHS) officials told reporters on a call Wednesday. "
+    publishedDateTime: 2021-04-07T22:01:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uhumLIL17ds/biden-task-force-families-separated-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-task-force-families-separated-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-task-force-families-separated-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/family.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Schumer plots new way to bypass Republicans on Biden's third economic spending bill"
     excerpt: "Senate Majority Leader Chuck Schumer, D-N.Y., is exploring how to pass President Biden's third economic spending bill later this year without any Republican votes via an obscure Senate rule that would allow Democrats to use reconciliation again.  "
     publishedDateTime: 2021-03-29T16:20:38Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-sen
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/"
 type: article
 quality: 125
-heat: 165
+heat: 125
 published: true
 
 provider:
@@ -29,40 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
-    excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
-    publishedDateTime: 2021-04-07T12:59:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
-        width: 1024
-        height: 649
-        isCached: true
-  - title: "Trump endorses Mo Brooks for Senate in Alabama"
-    excerpt: "Former President Donald Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far ..."
-    publishedDateTime: 2021-04-07T13:05:00Z
-    webUrl: "https://thehill.com/homenews/campaign/546863-trump-endorses-brooks-in-alabama-senate-boosting-one-of-his-biggest"
-    ampWebUrl: "https://thehill.com/homenews/campaign/546863-trump-endorses-brooks-in-alabama-senate-boosting-one-of-his-biggest?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546863-trump-endorses-brooks-in-alabama-senate-boosting-one-of-his-biggest?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/brooksmo_113017gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
 
 secured: "cKK8Q2jCVH6UrdQFgdASmOWkBm7tevyC2rsqcIVSmIVA+8yMetcYsyxsQCZeE7Tgxh0DiA+oAH++HP1QS+9mFHiTWswuEs8DedriRD+aTN3OMAI+RGog3qTmKx0cC6F9CCGKQx1z1vMo2L7d+j45mSOtj9mJYdpljn/xaaE6J6Q11adAvONGLlIS4gANuspylJ8PWQbGpx3hWdetCAkZXPWesx9g4OEL5kMFygYg0brZHV445uEq/WhBIDun282xI5m//lr8tCts3wbeHq1WYFKk4f3vgh2ffm9mSXOahYhnwfVSNvb8xOiPbPhpMjjoyZ0Q160feuSfT2oQrUaw6rb/T5+hOFc6WCq5A7Bmf9/dLNLgPv7yCtbTuDqCbH9STZ2Ahv4VFpWCEwtTgbTLrXJeHD8faXSp//dVYoYqrgAZlkT8bJDXURL27iishwQYbqn/xk+G1fhJsyHcy/+8B+R5nThnHOaay8tH5P/ljqbJcXGACHdAgdIqHZlBZE6dWgzvQYX0IzBlCZaYyP7dDg==;U0rSc6mkTv6V/2BKZdy7Qw=="
 ---

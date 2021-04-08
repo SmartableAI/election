@@ -2,13 +2,13 @@
 category: news
 title: "Former Vice President Mike Pence memoir set for 2023 release"
 excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-publishedDateTime: 2021-04-07T19:22:00Z
-originalUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
-webUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
+publishedDateTime: 2021-04-07T22:03:00Z
+originalUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
+webUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
 type: article
 quality: 105
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -25,23 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "Indiana lawmakers honor Mike Pence for retirement from the vice presidency"
-    excerpt: "The Indiana Senate adopted a resolution honoring Mike Pence's \"retirement\" from the vice presidency this week. Pence, of course, lost his bid for reelection in November, along with former President Donald Trump. The resolution, authored by ..."
-    publishedDateTime: 2021-03-31T15:40:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/03/31/indiana-general-assembly-lawmakers-honor-mike-pence-retirement/4819689001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4819689001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4819689001"
+  - title: "Mother of all book deals: Mike Pence signs seven-figure deal for memoirs"
+    excerpt: "Mike Pence has signed a two-book deal for his memoir that is reported to be worth millions of dollars, making him one of the first of former president Donald Trump’s inner circle to announce such a lucrative arrangement. Pence’s autobiography ..."
+    publishedDateTime: 2021-04-07T21:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 73
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9c22e27c-c451-4f11-b546-98ddb50fd19c-cent02-7e5plm5ebo91a0bn9hjs_original.jpg?auto=webp&crop=2588,1456,x0,y407&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/29dfb577d506d79987e35da7b7905dcb3c9f85ed/0_99_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b233b17be0cafb435747a3f167ed844b"
+        width: 600
+        height: 360
         isCached: true
 
-secured: "vbR1Jp9nWtYIeACW5HKifAhclKh/PCMbVYy481OZiGIuVLaNSE+Fe9Gv8q/NlBdkSXq509kV5uMjEK2LBARwhGCqy3akmLNGHlGfqpVcbJc4wjDAfoQoU87DPd9pf7ezIloGFs2yq/QSd8KbvSzciEFhrOpPKQLYB12kPwM8oW8KgHGhUt7KkbL97UZMUGXFSSNRMMmHFTRrXNCru45JizCacn7G1dTiqY2UDNplRAA7SjG9iIgCeza1v6dnG80I0E8sU83IcPkbutPSDBkZ3VoPq1XuyGHulE8Y0vfNgeLTcuGDLRyOLmvrhnkXK1jxCi7Wqa8mp/4kv9vHKAZsbMW/72kVYMQo7PSXQDReqZE=;LiO8c9E0/uXJ9rWwEgdTYA=="
+secured: "zo7aU8AOkvTlF9lbaQsbO3t40gK+4WtqcSSWxV1YY6U/+MJGIhLrK5BZXGgQxMY+CV75etK2SHIF/0AtA96yowI92/zGw0Znu7o5Ar6VR39QtAsSSlTauBHr6U0VDCuBOCiM2MN760SrGuGxAi6ZvCvziP8Mf5nq7zMK8/2ulqgo9Ee6abEl2MoLx/vHyk7IpK4KuvgXi+psesPzGFgi859KNAOr+LV+T0TncHTgUJW96RXWP8DtloVayHA0wYk+FHFQboQdQiWILEN4tdTjg9I325hC0zH3h8NW+/9XXfapHTgMnj9RY6m9S1mY4x1n7ayGCEMDHOWbnoVM50h70W8SkDzOf448/qhZXmzOn9A=;Gm6mEW/3GhymT/rh++wPQQ=="
 ---
 

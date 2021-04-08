@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Congressional Democrats call on Biden administration to demand Saudi Arabia lift blockade on Yemen"
-excerpt: "A group of more than 70 congressional Democrats has sent President Joe Biden a letter pushing the White House to encourage Saudi Arabia to end a blockade of Yemen that has led to food and fuel shortages in the country that have hampered the delivery of desperately needed food aid.\n    \n"
-publishedDateTime: 2021-04-07T17:59:43Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lozMEvDw2Vc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lozMEvDw2Vc/index.html"
+excerpt: "(CNN)A group of more than 70 congressional Democrats has sent President Joe Biden a letter pushing the White House to encourage Saudi Arabia to end a blockade of Yemen that has led to food and fuel shortages in the country that have hampered the delivery ..."
+publishedDateTime: 2021-04-07T13:34:00Z
+originalUrl: "https://www.cnn.com/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
+webUrl: "https://www.cnn.com/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
 type: article
-quality: 161
+quality: 121
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
@@ -80,6 +81,6 @@ related:
         height: 619
         isCached: true
 
-secured: "vejyQR29kkY2ZDElfiwsr6ytfstgGX2/CbSot3ntxXZlSAxN2ikMNKVG1Wk1b8PnG+DRQDE4fBJb8JqfN7JMIQ1rCtuLF9zah8hZAUhgvSuyantut3ZsiuWWs5sZcARgsRVI640NyCcVjnN0+oeLAGBlUqOZsnz65Y0rV+Gssu2E6IqeDOCCm+ZBELyxVo1cKCRF4+hCgEbOVaJxjC3CSQR7AAP+xmWbrmh8i0D3j3eEIx/vRX/EzyMALkpg9P+daVIR8dBI4tXTlPh3VNkDwHyB5jHs60yubONqu3TpjVwy8qbAPuKT05wH2EbDNkR3w9/biL7PdE9HPGmZ5nF/hIHJKQCgfdJk2M1LLq1YlBs=;CdCgehUkjPfDpyv4Sc6p9Q=="
+secured: "XrtvV6811S00AhVqQsSkQYaKhivB34e/f6c4RRZ+qrVjfyT7qRl4sCzzofBGDA6A+3GffeSl+2X7aHCiJHM1antEJLYWxvs7wP5bagjgq5mmilDyAWafVq9Lkfl9az9QrTXxsUIwMYnI0fLd6hWittTga/WZh1ivHcn1av/Df624Yg4ILC4qHAJjXf9LcCz7MaJOJZzRpef+tu/HkozEesu1icpsvOtqH4qyBocEKIE93f0wf+eqs4sOiTRWfZzvxoQatjELSwC+xmM2dzhOqWMaeZM6o5s2mYW0TbGgRZMGeD+wSBLfqCKA3EG/BUolbzkt3AtHtKJXgjz2nthWnMBqoeMfySrLhvc3yX+feeshQW8DlH8q+kpoMM060gYUGNv3RBbCRCUCmjcKAzzipbzL96gD/8QEwt88mY3AxBOJdiXogT56Q9qjbYmIbTFuDUlS52Uh3ZADoGeY9SwMP6vNeB8N/iij6e+3bqogLQCunwrtd6bmUgw/bUP9dxIGEwIwBRGC1PkXIx4NvJVneQ==;SvKfgPxBhS45QAr70pwBgw=="
 ---
 

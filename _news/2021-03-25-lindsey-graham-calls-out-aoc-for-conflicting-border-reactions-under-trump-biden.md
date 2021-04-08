@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump's China Tariffs Saved US Jobs, Says Biden's Commerce Secretary"
+    excerpt: "Regarding the heightened taxes on Chinese exports, as well as those imposed on some goods produced in other nations during Donald Trump's presidency, Raimondo acknowledged the ways in which they have positively contributed to the U.S. economy. U.S ..."
+    publishedDateTime: 2021-04-07T21:21:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-china-tariffs-saved-us-jobs-says-bidens-commerce-secretary-1581829"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-china-tariffs-saved-us-jobs-says-bidens-commerce-secretary-1581829?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-china-tariffs-saved-us-jobs-says-bidens-commerce-secretary-1581829?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1772817/secretary-commerce-gina-raimondo-white-house.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Hunter Biden defends his position on Burisma board, says Trump used it in \"illegitimate way\" during 2020 election"
     excerpt: "He spoke with \"CBS This Morning\" co-host Anthony Mason about whether his business dealings ever crossed a line — including work for a Ukrainian company that became a big issue in President Trump's first impeachment, and whether he regrets putting his ..."
     publishedDateTime: 2021-04-05T11:51:00Z

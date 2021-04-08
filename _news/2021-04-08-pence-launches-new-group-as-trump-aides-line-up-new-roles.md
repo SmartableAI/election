@@ -1,31 +1,28 @@
 ---
 category: news
 title: "Pence launches new group as Trump aides line up new roles"
-excerpt: "The new group is one of several launched in recent weeks by former aides of President Donald Trump. Shunned by corporate big money gigs, they are instead opening their own shops and embracing Trump's legacy as they seek to capitalize on his continued ..."
-publishedDateTime: 2021-04-07T18:11:00Z
-originalUrl: "https://www.chron.com/news/article/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
-webUrl: "https://www.chron.com/news/article/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
-ampWebUrl: "https://www.chron.com/news/amp/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
+excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% WASHINGTON (AP) — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence's , which could serve as a ..."
+publishedDateTime: 2021-04-07T18:10:00Z
+originalUrl: "https://www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4"
+webUrl: "https://www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4"
+ampWebUrl: "https://www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4?amp"
 type: article
-quality: 100
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Mike Pence
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "AP Interview: EPA head removes Trump-era science advisers"
@@ -76,6 +73,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Pence launches group as Trump officials line up new roles"
+    excerpt: "The new group is one of several launched in recent weeks by former aides of President Donald Trump. Shunned by corporate big money gigs, they are instead opening their own shops and embracing Trump's legacy as they seek to capitalize on his continued ..."
+    publishedDateTime: 2021-04-07T20:11:00Z
+    webUrl: "https://www.chron.com/news/article/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-launches-new-group-as-Trump-aides-line-up-16083836.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 100
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "AP Interview: EPA head removes Trump-era science advisers"
     excerpt: "WASHINGTON (AP) — In a move he said would help restore “scientific integrity,” the new head of the Environmental Protection Agency is removing dozens of scientists and other experts from key advisory boards named under President Donald Trump ..."
     publishedDateTime: 2021-03-31T20:44:00Z
@@ -93,6 +106,6 @@ related:
         height: 336
         isCached: true
 
-secured: "hI2U9XngUB4Ch2JlDtAtJx84QklOike1n9Pip4UppFDwcii55ZZBYOOeN+5YuWhXXn5OL5BX2/VnnQoJ9zr603IZTrdvpiWQRVzIgbhHfqZF+gCPxmuOtHBFEjfhWmixjISWbWIPtmWbIhxlIFBz5KwHOOiEfm1p1qX4uZCh/dicbyxfwSkuuCc/cOorx6yyT6cubKf7Tdl/rCX5TdhPsu7yV/UWiYelCm/yfgUSJ4r2QxCdy6K+AyD5xpSy8M3/glc403OD6Aneb27Hz3UWokiduTamXSeAlOEB/kMqrZpjJUiDEECDQpy0DOfBtOegpgPw0b97rDL9SG2KyW/KjWDNo1hHZ4vP0DN9mMDxHto=;kR/QLbgqksB90e+n/Z/WTA=="
+secured: "/+VEHskn0kzumJICkm+V4fIop+b1hGDmhsJ8iLiY0ZqJllSX3hBy2z3AII4OU3tyJFZ2NK0tVBtIAQLKJ2V9oBx3buKewFGoON5r7CpckF0cbbEb60aZQYLWOM1u4sCsdTWZYFhsLkvE7FquLZV2AQjXhvEHfGe7XoatJGEj4NDi7QzwLkpxlWNncY5fnr8LLV0wc9bbUPE827cEeCdU7vDNVAJ99MJbjDWITjjR1k4lJRxcgxq8jLqJSl1WNKa4HQzTVte97CMZrBr8ocfYEUz15UiZkICU3x3BBsoxEyNWdZ2iaV9OXw8RaKLUIbUrcdvsFRA1WasPZU0f8Bq2wFBNAXZtxz8Zr4vTM/r0AR0=;EcJMHEnQk1Ip5W3PjF/g1Q=="
 ---
 

@@ -32,16 +32,16 @@ images:
 
 related:
   - title: "More than 500,000 people have signed up for Obamacare coverage during Biden's special enrollment period"
-    excerpt: "More than 528,000 Americans have signed up for Affordable Care Act coverage on the federal exchange in the first six weeks of the special enrollment period President Joe Biden opened for the uninsured.\n    \n"
-    publishedDateTime: 2021-04-07T14:10:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aernynbJ_yM/index.html"
+    excerpt: "(CNN)More than 528,000 Americans have signed up for Affordable Care Act coverage on the federal exchange in the first six weeks of the special enrollment period President Joe Biden opened for the uninsured. That's more than double the number that turned to ..."
+    publishedDateTime: 2021-04-07T14:10:00Z
+    webUrl: "https://www.cnn.com/2021/04/07/politics/obamacare-enrollment-biden/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/obamacare-enrollment-biden/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/obamacare-enrollment-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 119
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
         width: 1100

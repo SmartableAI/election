@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
+    excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
+    publishedDateTime: 2021-04-07T23:33:00Z
+    webUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 67
+    images:
+      - url: "https://thumbnails.texastribune.org/aqe7-Li9PzIZ9QIexP_8OQM_5Q8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/6f9c74896c525bff9a658560eee0db9c/Escobar%20Impeachment%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ShzV/7rplG/Vpquts/+EnTq1JH8V/FuP4KOgKlTjzLD1Fb4kqSGQCqpsN3PQZztJdJUa2+B82lqQERe1aiCBM5vha2GKzaW7gb3moOzkzpNm06wuRVyQb9UtoGKDA5fyvA7SOomceqsyPwc+GYi6ESt4Ft8dsftjjpCTzE6PhYxFqL8bKx2J00XOTQQm7UuRuOOLHVw46M3ILAiTTMmPAgwdWdtFYMlx0EoZS+Zppm5R0k0tOUdNWxySxtBl7pR81u394rZ/ENgVZlNLbYTiYMm9hVdIEsG1a2SV+MGi+2FnxYFjshd2yTaIO/RJkrGZ1AKvN3VchUxFIyjw3FVIezpOQuC6j6miO9XjyhEGhNDQuQyF/sArBtAytMBTpDu2/dF/YFNeb3M2Q2hVJRd4g5SeCw6JsRFata3dMG1QRK7iFFJmscU49qGv+3YLlkD0nCH0u1+PekeUhWeLWDLsKtqGRd2YlOwiGU0Sw73AMmAKP3kiH7XuieQJT5hNPFJvNz6DcsjVct12Z0DNJe8FrQ==;Qk8ZGJT7NB0bArhVAX2YHQ=="
 ---

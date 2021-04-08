@@ -1,14 +1,14 @@
 ---
 category: news
 title: "More than 500,000 people have signed up for Obamacare coverage during Biden's special enrollment period"
-excerpt: "More than 528,000 Americans have signed up for Affordable Care Act coverage on the federal exchange in the first six weeks of the special enrollment period President Joe Biden opened for the uninsured.\n    \n"
-publishedDateTime: 2021-04-07T14:10:51Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aernynbJ_yM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aernynbJ_yM/index.html"
+excerpt: "(CNN)More than 528,000 Americans have signed up for Affordable Care Act coverage on the federal exchange in the first six weeks of the special enrollment period President Joe Biden opened for the uninsured. That's more than double the number that turned to ..."
+publishedDateTime: 2021-04-07T14:10:00Z
+originalUrl: "https://www.cnn.com/2021/04/07/politics/obamacare-enrollment-biden/index.html"
+webUrl: "https://www.cnn.com/2021/04/07/politics/obamacare-enrollment-biden/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/obamacare-enrollment-biden/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/obamacare-enrollment-biden/index.html"
 type: article
-quality: 159
+quality: 119
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
@@ -48,6 +49,6 @@ related:
         height: 619
         isCached: true
 
-secured: "RHFHiAJJnWJNU79O5nvl2qtQPR6gd1q3ghgT0MwZAZmnZd+YGmRYi5wuu/Q1up8szdENOsWySRKVOI4baxvYA1oRBvD+JitUMyquTizthwq610hIs8dX6Uc4l/R9XNlDG/8V/OVjbs9qo9WQ7E4XpKZiJqqFC5xKL5UBJIn7GtkHvA3SOqWcqDrIM+nvy7dK5I838dbxeWN+k1WnSMyTyPeifHUbQstHPvQuJsPhsQFa5aQAh+UANOQaLtSt6r8qFPP6VINh50SkPZDMk1dKLC7DAYwUkFn0BlylVwsHtL7Y/JzaxB7tl5VAjcsTjy/1aPVLSne+PhhjPFi2rc6U/W32P8oWmHytrqO7dTsNLBw=;ScwZ6uAS6GemXEclFD9tbw=="
+secured: "OUSALxbEUuTm5TYVNtwiUMi9XdxbVUwt27nFK4ioKLnvELElSAwb8ASgn8Sp3W7B+BIo7saLRj8rbq+5cbgZFuOQ49kSr0g9RPXqFnttxTEGmoKS91/GNZXPRbIJlMUbXDkkJvYycoaK/gyIDomFj9TDUIxrPtX4Z7QOy1W8HwW3uA+McVDpJka6BeDh+yGvwG5+JVdKkL1iAPPfS5+7c7GKqvDTW39EHi40kr1q8FBoh1bkMECUj7XoOcGvWY3E/Jcpjsxpr61h8M3IrAzjOT60RzhofQLFrujpOBLdzIcqUcCawtVaKEneo46VcNE+VeO4MmeQZcDMYdW4GMwsVsqemGWYe51Ib44A0gkZqmcQasjAGtMrUGEoZUmBwOG4QUyP7+EYtUjgJWk9oIceEpjeqdtrQaQfPpeEk1yLSy5mm6jRDa9Lwd946OnjQxRo72RDa9tkGXXYyQCSRams7gdxSyz7bWC3RMcCGcirdVw4OF7imFZcgzPFZaD/JrDN0ZOQHn1tkemhirszprhYzw==;U+ZKMYf7O2rjkWZduqqaFA=="
 ---
 

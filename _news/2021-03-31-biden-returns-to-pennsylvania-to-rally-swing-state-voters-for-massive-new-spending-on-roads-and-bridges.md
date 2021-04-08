@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden Suffers School Reopening Setback as Survey Shows Fewer Students Attending Full Time"
+    excerpt: "President Joe Biden has been dealt a setback with his goal to reopen more schools for in-person learning, as new data shows that a majority of students are still not returning to the classroom full time even when given the chance. According to a new survey ..."
+    publishedDateTime: 2021-04-07T21:16:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1772802/person-learning.jpg"
+        width: 2500
+        height: 1649
+        isCached: true
 
 secured: "/KsXSk+yIBQetwFh8+sdc/y4fboF54sZY1ML0QHgQql89A1pvVr1vjiJ56tcQro0cIGQukOGKJrk8mH88bCCaw6gUKd1LkBvxqsblaHkqnvKYaaXMurN8obteHdbcUIr7Kcj9NpBZmUCy/NP9R01wQgkP6cLzx1GdId/o7NmcroEF21r/2VDDZGuc57XI2H3ln0D/3MoBH5vIamRVTSiWMGDwzXzb9DxGB71D24w5MNR2DbwPSBPInook0ahwGpnoajXPtBHKdhDMSwSoFvsCHUSY2HU1AIoTH2OwDbyvJVq39h89X1AUUcSbEU+4Dzwc81ryIvaMKXVidQ8M4InU4ef0ROH/C2dM/Wr/Mw6AdgHsolLAJpYlyI8gddNVeM646KrYqElcMlnHzsMTD5JtN94pY63ElIVrbwXn6UIG7tfGgnED6Xo9/0pyPkAF0BOV0X6lOJVOY20/mm0AQhzw4uNjDUPPhn/2yd24I/WZqZEofDJaI2L3FoHnFCBdJk3hndmkb5MXwLGX9OV9UmyLA==;LiViJ/KUeMsMhX2z2dSs+Q=="
 ---

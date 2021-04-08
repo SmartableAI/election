@@ -91,6 +91,38 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Kamala Harris lists Washington D.C. condo for $2M | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1.99 million. She no longer needs the ..."
+    publishedDateTime: 2021-04-07T21:49:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article250498814.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article250498814.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article250498814.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Good Luck Finding Stationery without Kamala Harris, RBG, or the ‘F’ Word"
+    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks at Emory University in Atlanta, Ga., March 19, 2021. (Carlos Barria/Reuters) Monday night I think I experienced what the kids call a “micro-aggression.” I was roaming after Mass on a ..."
+    publishedDateTime: 2021-04-07T19:32:00Z
+    webUrl: "https://www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/"
+    ampWebUrl: "https://www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Kamala-Harris.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "VP Kamala Harris urges Chicagoans to get vaccinated and stay safe: ‘In that way we will build back up’"
     excerpt: "Gov. J.B. Pritzker and Mayor Lori Lightfoot greeted Harris when she landed about 1 p.m. at Midway Airport. The nation’s first ever woman and person of color to serve as vice president was in town to tout President Joe Biden’s vaccine effort on the day he directed states to open vaccine eligibility to all adults by April 19."
     publishedDateTime: 2021-04-06T21:49:00Z

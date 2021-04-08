@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Jill Biden announcing next steps for military family program"
-excerpt: "During the 2020 presidential campaign, she promised to revive Joining Forces. Shortly before President Joe Biden took office, the first lady named Rory Brosius as the initiative’s executive director. Brosius previously served as the program’s deputy ..."
-publishedDateTime: 2021-04-07T13:06:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/jill-biden-announcing-next-steps-for-military-family-program/2021/04/07/08787e52-97a2-11eb-8f0a-3384cf4fb399_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/jill-biden-announcing-next-steps-for-military-family-program/2021/04/07/08787e52-97a2-11eb-8f0a-3384cf4fb399_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/jill-biden-announcing-next-steps-for-military-family-program/2021/04/07/08787e52-97a2-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/jill-biden-announcing-next-steps-for-military-family-program/2021/04/07/08787e52-97a2-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+excerpt: "During the 2020 presidential campaign, she promised to revive Joining Forces. Shortly before President Joe Biden took office, the first lady . Brosius previously served as the program's deputy director. Biden is a military daughter and mother, with ..."
+publishedDateTime: 2021-04-07T13:05:00Z
+originalUrl: "https://www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4"
+webUrl: "https://www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4"
+ampWebUrl: "https://www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Analysis: Bumpy road ahead for Biden's infrastructure plan"
@@ -175,6 +169,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden: Inaction on infrastructure 'not an option'"
+    excerpt: "President Joe Biden says he's open to compromise on how to pay for his $2.3 trillion infrastructure plan, but insists \"inaction is simply not an option.\" (April 7)"
+    publishedDateTime: 2021-04-07T22:12:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/07/biden-inaction-infrastructure-not-option/7132010002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7b6dc9f2-ffb6-430e-b675-95cbfb5aa480_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Las Vegas, Nashville, Phoenix and more: Amtrak would expand, connect new cities under Joe Biden's infrastructure plan"
     excerpt: "Amtrak late Wednesday released a proposed map of new and expanded service if it can land the $80 billion proposed by President Joe Biden."
     publishedDateTime: 2021-04-01T18:15:00Z
@@ -208,6 +216,6 @@ related:
         height: 429
         isCached: true
 
-secured: "xtBHgPqm6qsYo5yDKc7aUosHHaQGn12MTsXwxq8BsmxyXNck2dKSsOqMTSlykecOTxaMTMvlZO/M1efpEDMZWrdDBrw63NkXAHoaL7dT6mcesmYOZfMIVKBDu4hhwVea8Tk1IDGW6YeidUXyC0sEkeYqdmEWAXwUgo7Bch9TzXbdKc+X83OJOVTQSdxQVlr/fdxFRzdGBneZIKe3CU5+955zpp0ZezUmKG/uKj0VbgMe7sfHv57WXrBzvwPvofR1KhNq8PzuAZkjMSOb0DS8hK7i1aXp8G5IjRbuG+apxQ15FiGCCMcX9aKRWOHfmslO/mmtBfGLGF5bmbpHjZqh5VjmhP0zYF1dsktviIqysmI=;48e8EC3rdXbY0ZaqDAAmMA=="
+secured: "uPdYymkRX8saBGdjfHkRa0WPjfY5hm9AKEUOwcL0FA7OGRoo4Jci9h9uc0XK9/Z8JuOr30St4iNAo4ocrcq17aKsPZPiOPAAZR2PQa4puDZ6bwN8EalnNii91ovFTVFBYJOAkLWe6AVSMIOsxNrCFRIz2cKdWyImhNfkDVI3qL8RZt7zMOc5wjJZcedx4Ad60v4N/tCiirlbt2bUmQyV9u3s72bI9QoZJPVFsmHSWrgEfciNWj6NFpOD3NQbq0COi1u/GxBOH8kqoI6m37Xlva0dpqs7rrmps0U/NVyxfBwSewEO8lnVcAccZ8f/7c6GDMDf1eP3TuhqPmHkzOQ9BYj4TB7qjz/zioKgk5U6Ek8=;UeTh6nY7O9fAws6mN7Xg4w=="
 ---
 

@@ -191,21 +191,53 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden to announce executive actions to combat gun violence"
-    excerpt: "WASHINGTON — President Joe Biden will unveil a series of executive actions aimed at addressing gun violence on Thursday, according to a person familiar with the plans, delivering his first major action on gun control since taking office. Support our ..."
-    publishedDateTime: 2021-04-07T19:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-announce-executive-actions-to-combat-gun-violence/2021/04/07/64f200aa-97d8-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-announce-executive-actions-to-combat-gun-violence/2021/04/07/64f200aa-97d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-announce-executive-actions-to-combat-gun-violence/2021/04/07/64f200aa-97d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+  - title: "Biden set to announce executive action on guns"
+    excerpt: "White House urges Senate to pass gun laws 14:32 President Biden is poised to announce steps he plans to take using his executive authority to curb gun violence, addressing an issue he once vowed to tackle on his first day in office. Full details of the ..."
+    publishedDateTime: 2021-04-07T20:34:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-gun-control-executive-action-ghost-guns/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-gun-control-executive-action-ghost-guns/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-gun-control-executive-action-ghost-guns/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/07/d5af2013-f3b8-4f91-9fcc-172ebb4a41fe/thumbnail/1200x630g2/59a245ad7c0d9ea22f85cd542b3d6ede/gettyimages-1311330343.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden to nominate gun control advocate as ATF director"
+    excerpt: "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE is expected to ..."
+    publishedDateTime: 2021-04-07T21:52:00Z
+    webUrl: "https://thehill.com/homenews/administration/547036-biden-to-nominate-gun-control-advocate-as-atf-director"
+    ampWebUrl: "https://thehill.com/homenews/administration/547036-biden-to-nominate-gun-control-advocate-as-atf-director?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547036-biden-to-nominate-gun-control-advocate-as-atf-director?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/chipmandavid_09252019getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to unveil actions on guns, including new ATF boss"
+    excerpt: "President Joe Biden will unveil a series of executive actions aimed at addressing gun violence on Thursday, according to a person familiar with the plans, delivering his first major action on gun cont"
+    publishedDateTime: 2021-04-07T21:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-announce-executive-actions-combat-gun-violence-76930708"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-announce-executive-actions-combat-gun-violence-76930708"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-announce-executive-actions-combat-gun-violence-76930708"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5791376eaca24c4f8376315a08d99172_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden's stimulus plan went beyond what the Fed expected"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The American Rescue Plan passed by President Joe Biden last month was larger than Federal Reserve policymakers had anticipated, according to minutes from the Federal Open Market Committee's March meeting."
@@ -222,6 +254,22 @@ related:
       - url: "https://i.insider.com/5f60e09a323fc4001e0d644f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Jill Biden shines fresh spotlight on military family program"
+    excerpt: "Shortly before President Joe Biden took office, the first lady named Rory Brosius as the initiative's executive director. Brosius previously served as the program's deputy director. Jill Biden's ..."
+    publishedDateTime: 2021-04-07T20:53:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_39348932ea8c4f53bd94270691cbb3b3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
@@ -350,6 +398,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d1d5761dd6ec36cea3934b289829ea58ebccb010/0_77_5196_3118/master/5196.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9afaba638a859fce2592ce4d5b7729c2"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden's Plan Has People Sharing the Craziest Things They'd Consider Infrastructure"
+    excerpt: "President Joe Biden's $2 trillion infrastructure plan and its earmarks are raising some eyebrows, and a central question: What is infrastructure? The landmark proposal goes beyond standard definitions of infrastructure, a term traditionally understood as ..."
+    publishedDateTime: 2021-04-07T20:14:00Z
+    webUrl: "https://www.newsweek.com/bidens-plan-has-people-sharing-craziest-things-theyd-consider-infrastructure-1581774"
+    ampWebUrl: "https://www.newsweek.com/bidens-plan-has-people-sharing-craziest-things-theyd-consider-infrastructure-1581774?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-plan-has-people-sharing-craziest-things-theyd-consider-infrastructure-1581774?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1772641/virginia-bridge.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
     excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
@@ -505,6 +569,17 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 105
+  - title: "Biden to announce executive actions to combat gun violence"
+    excerpt: "President Joe Biden will unveil a series of executive actions aimed at addressing gun violence on Thursday, according to a person familiar with the plans, delivering his first major action on gun control since taking office."
+    publishedDateTime: 2021-04-07T19:35:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-announce-executive-actions-to-combat-gun-violence-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-announce-executive-actions-to-combat-gun-violence-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-announce-executive-actions-to-combat-gun-violence-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
   - title: "Biden administration tells Congress it will restart Palestinian aid - source"
     excerpt: "also said Washington would resume security assistance to the Palestinians, the source told Reuters. President Joe Biden is moving to restore some U.S. aid cut off by his predecessor, Donald Trump."

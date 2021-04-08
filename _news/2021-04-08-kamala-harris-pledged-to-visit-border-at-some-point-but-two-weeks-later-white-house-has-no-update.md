@@ -128,6 +128,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Nikki Haley blasts Harris as 'missing in action' on border: 'God help us if she ever becomes president'"
+    excerpt: "President Biden's \"obsession\" with reversing former President Donald Trump's policies is \"unacceptable,\" former U.S. Ambassador to the United Nations Nikki Haley told \"America Reports\" Wednesday."
+    publishedDateTime: 2021-04-07T21:33:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Psaki snaps when asked why VP Harris had time to visit Chicago bakery but not border, 'she got a snack'"
+    excerpt: "White House Press Secretary Jen Psaki got snippy with a reporter on Wednesday who questioned why Vice President Kamala Harris had time to visit a Chicago bakery amid the lingering border crisis she has been tasked to deal with."
+    publishedDateTime: 2021-04-07T22:39:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ3mf0uWiFE/psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/943a11fb-AP21096752997903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pastor calls for Black community to 'reevaluate' stance on Democratic Party after no invite to Harris event"
     excerpt: "In a Thursday statement to Fox News, the Rev. Boise Kimber said he believes the Black community needs to \"reevaluate\" their political stance on the Democratic Party after the vice president held an education roundtable in New Haven this week."
     publishedDateTime: 2021-04-01T19:03:41Z
@@ -317,6 +349,6 @@ related:
         height: 720
         isCached: true
 
-secured: "cU+0FV7UotieOyQeIcbvR6Oge4o/PZRlddioRSiZe1fPWvlJsQVn6lKbApHGAJYTnqLMFXXywTy7SQZX0g5Ce00O8wefh2clfdXKlzp9lKbgphvL1A7L55iicPWCm1E86nY4/2vD8tLb5OrZbIQ8hM5K9J4VLvTZuexsWmOXx9YouzWFxgiogmocjCLi4yrcSQNuwZ0DIAplSL100XmjSwNr5ptxxLfagR4V5ZSw4w+mV6FQjKr75cRk640A6eMmd1HXMVX093rAe0Bj+Pt3vwKmgyd6sNGyBnzsdFFzSA1L2AgKRu7WRA0dMRZ/z1enx5MHCnduYaDjljRm/+jyuhSrRqEWQIJwgrhc9GPZ0Qk=;Ena22SMCrUqLQdgy3e+TIQ=="
+secured: "SxpGcl51Fgk56piSSCILXpQWn4jQU+2oTYOuh1LLZhkj098GKoD9KGPzr3lapyWPUbnXjh0iLKZE2W61VZpjMSGvwhbE4FnueyIq6BOODAJ48PmF0qnMTn29TYVcegBWLtKUgEmS8U5IQgISnvN/BN7/LdEStSDrpQLnwVCpB9p9xXHDffOMGom/7zhUTMaAZ0XQjmGQbYerQZZ1ju+BPUX+2pl4A/YaCTaa3QPQjJcGdiRgT4+V9o2kvPbHGZvgRixSJ5rDAXbybhbgsK85zW3soBPd9moVWunalP/PQ7V1arl0H2JZDLgHsaf4idrumbVWHDyFvjCV7nJWpyMnjgchUNhsWUf09fFLOVYBGKg99+J9i+iZwiqQ4YlREl30sWwc24wUROLVThUbAlCr+553AeHKd6NFcMOCPbo8hyIar12Y55OnI5hrxoc2yeT/f1dsIawFSBawvtNnYZ3m0YRAjudJKIBZXm+Fokx5C7Tuqmf5AJuG4ANkD9oL9oZAox0aixkGXjrZKWWEoXjPBw==;2hzwZhI4IgelaAlK9KPUXQ=="
 ---
 

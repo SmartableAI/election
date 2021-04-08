@@ -155,6 +155,22 @@ related:
         width: 299
         height: 487
         isCached: true
+  - title: "Vice President Kamala Harris puts D.C. condo on market for $2 million. Look inside"
+    excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1.99 million. Exterior of Apartments at ..."
+    publishedDateTime: 2021-04-07T21:49:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article250498814.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article250498814.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article250498814.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Kamala Harris calls Springfield Vietnam War veteran Gumersindo Gomez, thanks him for his service"
     excerpt: "Vietnam veteran Gumersindo Gomez received a phone call from the US vice president on National Vietnam War Veterans Day."
     publishedDateTime: 2021-03-29T20:13:00Z
@@ -212,6 +228,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 49
+  - title: "At Long Last, Kamala Harris Is Home: Take a Look Inside the Vice President's Residence"
+    excerpt: "At last—moving day has arrived! Vice President Kamala Harris finally resides in her official residence on the grounds of the U.S. Naval Observatory. Why the long wait, given she was sworn in three months ago? It's because her six-bedroom, 9,000-square ..."
+    publishedDateTime: 2021-04-07T21:22:00Z
+    webUrl: "https://www.chron.com/realestate/article/At-Long-Last-Kamala-Harris-Is-Home-Take-a-Look-16084432.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 47
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/37/65/20839795/3/rawImage.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
     excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
     publishedDateTime: 2021-04-02T11:19:00Z

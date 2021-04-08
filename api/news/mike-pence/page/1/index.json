@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-08-former-vice-president-mike-pence-memoir-set-for-2023-release.md",
-      "title": "Former Vice President Mike Pence memoir set for 2023 release",
-      "excerpt": "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ...",
+      "path": "_news/2021-04-08-mike-pences-advocacy-group-to-hone-in-unaccompanied-minor-surge-at-border.md",
+      "title": "Mike Pence's Advocacy Group to Hone in Unaccompanied Minor Surge at Border",
+      "excerpt": "Former Vice President Mike Pence launched an advocacy organization on Wednesday that said its goal is to \"promote the pro-freedom policies\" in place during former President Donald Trump's administration and protect those policies from individuals on the ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c",
-      "originalUrl": "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c",
+      "webUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835",
+      "originalUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 143,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg",
-          "width": 3000,
-          "height": 2221,
+          "url": "https://d.newsweek.com/en/full/1772843/mike-pence.jpg",
+          "width": 1233,
+          "height": 822,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T12:22:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835?amp=1",
+      "publishedDateTime": "2021-04-07T14:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-mike-pence-to-publish-book-covering-political-career-from-indiana-to-the-white-house.md",
+      "title": "Mike Pence to publish book, covering political career from Indiana to the White House",
+      "excerpt": "Wednesday was a busy day for former vice president Mike Pence. Pence is publishing his first autobiography with publisher Simon & Schuster, the company announced in a news release. The book announcement comes the same day Pence announced he is launching ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/2021/04/07/former-vice-president-mike-pence-book-indiana-white-house-maga/7128861002/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/2021/04/07/former-vice-president-mike-pence-book-indiana-white-house-maga/7128861002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/7128861002",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7128861002",
+      "publishedDateTime": "2021-04-07T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-former-vp-pence-establishes-advancing-american-freedom-advocacy-group.md",
-      "title": "Former VP Pence establishes 'Advancing American Freedom' advocacy group",
-      "excerpt": "Former Vice President Mike Pence has launched a policy and advocacy organization called “Advancing American Freedom” that is dedicated to promoting and defending the “pro-freedom policies” enacted on former President Trump’s watch. Mr. Pence has ...",
+      "path": "_news/2021-04-08-mother-of-all-book-deals-mike-pence-signs-seven-figure-deal-for-memoirs.md",
+      "title": "Mother of all book deals: Mike Pence signs seven-figure deal for memoirs",
+      "excerpt": "Mike Pence has signed a two-book deal for his memoir that is reported to be worth millions of dollars, making him one of the first of former president Donald Trump’s inner circle to announce such a lucrative arrangement. Pence’s autobiography ...",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/apr/7/pence-establishes-advancing-american-freedom-advoc/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/7/pence-establishes-advancing-american-freedom-advoc/",
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/03/30/Pence_15218.jpg-27df3_c0-435-5211-3474_s1200x700.jpg?ec2c4bb6b352d856a3e239ba6d1c411cd9865505",
-          "width": 1200,
-          "height": 700,
+          "url": "https://i.guim.co.uk/img/media/29dfb577d506d79987e35da7b7905dcb3c9f85ed/0_99_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b233b17be0cafb435747a3f167ed844b",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,13 +119,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/apr/7/pence-establishes-advancing-american-freedom-advoc/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/7/pence-establishes-advancing-american-freedom-advoc/",
-      "publishedDateTime": "2021-04-07T08:44:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs",
+      "publishedDateTime": "2021-04-07T14:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-former-vice-president-mike-pence-autobiography-to-arrive-in-2023.md",
+      "title": "Former Vice President Mike Pence autobiography to arrive in 2023",
+      "excerpt": "Vice President Mike Pence speaks during a memorial service for the late Air Force Brig. Gen. Chuck Yeager in Charleston, West Virginia, in 2021. AP NEW YORK — Former Vice President Mike Pence ...",
+      "sourceUrl": null,
+      "webUrl": "https://chicago.suntimes.com/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump",
+      "originalUrl": "https://chicago.suntimes.com/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump",
+      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump",
+      "publishedDateTime": "2021-04-07T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -85,6 +189,63 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster.md",
+      "title": "Former Vice President Mike Pence to Publish Autobiography With Simon & Schuster",
+      "excerpt": "Former Vice President Mike Pence will publish an autobiography with Simon & Schuster that chronicles his life in politics and role in the Trump administration, the publisher said, adding another anticipated title to a hot market for political books.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505",
+      "originalUrl": "https://www.wsj.com/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-321973/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505",
+      "publishedDateTime": "2021-04-07T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
       ]
     },
     {
@@ -157,7 +318,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 449,
+      "heat": 489,
       "tags": null,
       "images": [
         {
@@ -314,7 +475,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -366,7 +527,7 @@
       "originalUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1397,167 +1558,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pence-rails-against-hr-1-laments-capitol-riot-prevented-substantive-discussion-on-election-integrity.md",
-      "title": "Pence rails against HR 1, laments Capitol riot prevented 'substantive discussion' on election integrity",
-      "excerpt": "Former Vice President Mike Pence offered harsh criticism for a Democrat-proposed voting reform legislation while condemning the Capitol protest on Jan. 6 that, he said, interrupted what would have been a worthwhile discussion of election integrity.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
-      "publishedDateTime": "2021-03-03T09:19:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mike-pences-remarkable-op-ed-highlights-the-gops-choice-on-voting-rights-and-where-it-will-probably-land.md",
-      "title": "Mike Pence’s remarkable op-ed highlights the GOP’s choice on voting rights — and where it will probably land",
-      "excerpt": "Alleged voting problems in 2020. In an op-ed for the Daily Signal, Pence details his opposition to a voting rights bill spearheaded by House Democrats. He begins, “After an election marked by significant voting irregularities and numerous instances of officials setting aside state election law,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZ2TGE7SNZAB5G4LNTLM5HF5SI.jpg&w=1440",
-          "width": 1440,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "publishedDateTime": "2021-03-03T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pence-breaks-silence-to-criticize-2020-elections.md",
-      "title": "Pence breaks silence to criticize 2020 elections",
-      "excerpt": "Former Vice President Mike Pence on Wednesday criticized the 2020 elections in his his first extended written comments since leaving office in January.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections",
-      "originalUrl": "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pence_010621getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp",
-      "publishedDateTime": "2021-03-03T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

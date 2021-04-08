@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Parents of 445 migrant children separated at border under Trump still have not been found, court filing says"
+    excerpt: "The parents of 445 migrant children separated from their families due to Trump administration policies at the US-Mexico border between 2017 and 2018 have still not been located, down from 506, according to a Wednesday court filing.\n    \n"
+    publishedDateTime: 2021-04-07T22:23:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNtJ2oFnMmI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180625234239-deportaciones-sin-proceso-juridico-eunice-rendon-omar-silva-intvw-aristegui-00030023-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump peeled away Latino voters nationwide in 2020, a new analysis found."
     excerpt: "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ..."
     publishedDateTime: 2021-04-02T14:53:00Z

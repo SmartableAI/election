@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden Suffers School Reopening Setback as Survey Shows Fewer Students Attending Full Time"
+    excerpt: "President Joe Biden has been dealt a setback with his goal to reopen more schools for in-person learning, as new data shows that a majority of students are still not returning to the classroom full time even when given the chance. According to a new survey ..."
+    publishedDateTime: 2021-04-07T21:16:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1772802/person-learning.jpg"
+        width: 2500
+        height: 1649
+        isCached: true
   - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
     excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
     publishedDateTime: 2021-03-31T10:00:00Z
