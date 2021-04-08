@@ -63,6 +63,54 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
+    excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
+    publishedDateTime: 2021-03-31T17:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-jan6-gty-rc-210305_1614953461904_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Former Trump HUD official fined and barred from federal employment for violating Hatch Act"
+    excerpt: "A former political appointee under the Trump administration has been disciplined ... and Urban Development to support former President Donald Trump's reelection campaign, the U.S. Office of ..."
+    publishedDateTime: 2021-04-06T20:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-hud-official-fined-barred-federal-employment-violating/story?id=76904289"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-hud-official-fined-barred-federal-employment-violating/story?id=76904289"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-hud-official-fined-barred-federal-employment-violating/story?id=76904289"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/Politics/lynne-patton-01-gty-jc-210406_1617734469618_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "In 2016, Trump activated low-turnout Whites. In 2020, he may have done the same with Latinos."
+    excerpt: "Florida was one of the first states to report results, and the numbers in heavily Hispanic Miami-Dade County, which Hillary Clinton won by nearly 30 points in 2016, showed Joe Biden leading Donald Trump by a much narrower margin. The shift held ..."
+    publishedDateTime: 2021-04-02T14:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/02/2016-trump-activated-low-turnout-whites-2020-he-may-have-done-same-with-latinos/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/02/2016-trump-activated-low-turnout-whites-2020-he-may-have-done-same-with-latinos/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/2016-trump-activated-low-turnout-whites-2020-he-may-have-done-same-with-latinos/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P2GLBCQ2GUI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump Social Network Users Won't Feel 'Fact Checkers Are Going to Be All Over Them': Lara Trump"
     excerpt: "A spokesperson for the former president said this week the new social media platform likely will roll out within the next few months."
     publishedDateTime: 2021-03-23T17:42:00Z
@@ -94,6 +142,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/20/donald-trump-seen-in-this-october-5-file.jpg"
         width: 1024
         height: 700
+        isCached: true
+  - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
+    excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
+    publishedDateTime: 2021-04-06T20:42:00Z
+    webUrl: "https://www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/lynne-patton-former-trump-hud-official-barred-from-federal-service-for-rnc-video.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RJEORGI3XFH2BFIZGHFCBAPZDY.jpg"
+        width: 2333
+        height: 1646
         isCached: true
   - title: "Trump To Launch Own Social Media Platform: Ex-aide"
     excerpt: "Donald Trump plans to return to social media soon, using \"his own platform\" after being banned from Twitter and other outlets, a former advisor said Sunday. \"I do think that we're going to see president Trump returning to social media in probably about two ..."

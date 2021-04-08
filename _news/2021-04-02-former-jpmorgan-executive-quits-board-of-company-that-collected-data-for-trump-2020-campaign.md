@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Headhunters having hard time finding jobs for former Trump officials: report"
+    excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
+    publishedDateTime: 2021-04-07T18:56:00Z
+    webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
+    ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme"
     excerpt: "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ..."
     publishedDateTime: 2021-04-04T15:23:00Z
@@ -78,6 +94,54 @@ related:
       - url: "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Dozens of profitable U.S. companies haven't had a federal tax expense since Trump's rate cut"
+    excerpt: "Indeed, they haven't expensed a single dollar for current federal taxes since Donald Trump pushed through a massive tax cut for corporations in the first year of his presidency, according to a new study. Many of those same companies had together paid ..."
+    publishedDateTime: 2021-04-02T22:24:00Z
+    webUrl: "https://www.cbsnews.com/news/tax-increase-corporate-taxes-trump-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/tax-increase-corporate-taxes-trump-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tax-increase-corporate-taxes-trump-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/25/c2ba5a81-e532-4d9a-a138-0f4e81bd2f31/thumbnail/1200x630/ea292bf9f70755f34102f7040c655c02/gettyimages-1230692812.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Supreme Court dismisses as moot case questioning Donald Trump's blocking of critics on Twitter"
+    excerpt: "WASHINGTON – Now-former President Donald Trump may have had about 89 million followers on Twitter before the platform suspended his account, but the Supreme Court apparently isn't interested in how he got along –or didn't–with some of them."
+    publishedDateTime: 2021-04-05T13:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/05/trump-tweets-supreme-court-wont-hear-case-blocking-users/6059714002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6059714002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6059714002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/02/USAT/aa7e541d-70a9-4935-a1b2-02312e9b3ffb-AP_Skilled-Worker-Visas-Lawsuit.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Corporate America isn’t welcoming former Trump Cabinet officials with open arms, headhunters say"
+    excerpt: "said top executives wary of backlash from associating with former Trump officials are boiling down Chao’s four-decade Washington résumé to its most recent entry: long-standing ally of Donald Trump, despite her resignation the day after the Jan. 6 ..."
+    publishedDateTime: 2021-04-07T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus"
     excerpt: "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ..."

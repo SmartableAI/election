@@ -210,6 +210,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden says China is 'racing ahead' of the US in a fiery speech bashing Republicans who oppose his infrastructure plan"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% President Joe Biden in an impassioned speech on Wednesday framed infrastructure as a matter of national security, saying that China was outpacing the US as he excoriated Republicans who opposed his $2 trillion plan."
+    publishedDateTime: 2021-04-07T20:07:00Z
+    webUrl: "https://www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/606e0dcd70954f0019195bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Joe Biden's $2 trillion jobs and climate change plan would improve internet access, upgrade power grids and make road improvements"
     excerpt: "President Joe Biden's $2 trillion jobs and infrastructure plan calls for improving roads, internet access and electricity grids. Credit: Spencer Selvidge for The Texas Tribune Sign up for The Brief, our daily newsletter that keeps readers up to speed on ..."
     publishedDateTime: 2021-03-31T21:43:00Z

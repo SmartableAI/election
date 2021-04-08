@@ -198,6 +198,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden says China is 'racing ahead' of the US in a fiery speech bashing Republicans who oppose his infrastructure plan"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% President Joe Biden in an impassioned speech on Wednesday framed infrastructure as a matter of national security, saying that China was outpacing the US as he excoriated Republicans who opposed his $2 trillion plan."
+    publishedDateTime: 2021-04-07T20:07:00Z
+    webUrl: "https://www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/606e0dcd70954f0019195bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Las Vegas, Nashville, Phoenix and more: Amtrak would expand, connect new cities under Joe Biden's infrastructure plan"
     excerpt: "Amtrak late Wednesday released a proposed map of new and expanded service if it can land the $80 billion proposed by President Joe Biden."
     publishedDateTime: 2021-04-01T18:15:00Z

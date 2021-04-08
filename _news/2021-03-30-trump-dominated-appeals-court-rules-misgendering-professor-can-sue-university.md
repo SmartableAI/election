@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
+    excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
+    publishedDateTime: 2021-03-31T12:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Blinken reaffirms Trump-era ruling on Hong Kong autonomy"
     excerpt: "Secretary of State Antony Blinken has reaffirmed a determination made last year by the Trump administration that Hong Kong is no longer autonomous and remains undeserving of special treatment by the U"
     publishedDateTime: 2021-03-31T17:18:00Z
@@ -62,6 +78,54 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_0da79fe716294ab78d70e81bd1af02f8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "U.S. lifts Trump's sanctions on ICC prosecutor, court official"
+    excerpt: "WASHINGTON (Reuters) -The United States on Friday lifted sanctions on International Criminal Court prosecutor Fatou Bensouda that drew international criticism after they were imposed by the administration of former President Donald Trump. The move ..."
+    publishedDateTime: 2021-04-02T18:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-icc-sanctions-idUSKBN2BP1GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP1GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP1GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557161752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310PN"
+        width: 890
+        height: 545
+        isCached: true
+  - title: "Supreme court dismisses case brought by Twitter users Trump blocked"
+    excerpt: "A lawsuit over whether or not former President Donald Trump could block individuals from seeing content published on his @realDonaldTrump Twitter account has been dismissed by the US supreme court. Heeding the rulings of the court of appeals for the second ..."
+    publishedDateTime: 2021-04-05T16:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/05/trump-twitter-block-case-supreme-court-decision"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/05/trump-twitter-block-case-supreme-court-decision"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/05/trump-twitter-block-case-supreme-court-decision"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a7fa7b4cec35d6da20881c6c7e90c8ee859c7020/75_0_1407_844/master/1407.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dadcdc85c4828acc3105da2f2e664e6b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "The Trump media era ends not with a wow but a whisper"
+    excerpt: "You probably missed it, because it was Donald Trump offering the same pudding of rhetoric we’ve heard so often to an anchor on the far-right network Newsmax. It was to presidential appearances what a pre-dusk set at the Indiana State Fair would be to Kid ..."
+    publishedDateTime: 2021-04-06T23:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G4QP77Q6QUI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Conservative writer says Trump's Save America PAC is hurting his supporters"
     excerpt: "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ..."
@@ -94,6 +158,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Lawsuits pile up over endangered species decisions made by Trump administration"
+    excerpt: "The Center sued the USFWS on March 25 to challenge the Trump administration's downlisting ... delaying a rule finalized in the last weeks of Donald Trump's presidency to eliminate long-standing ..."
+    publishedDateTime: 2021-04-04T09:59:00Z
+    webUrl: "https://abcnews.go.com/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
+    ampWebUrl: "https://abcnews.go.com/amp/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/US/monarch-butterfly-gty-jt-210401_1617294269969_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Supreme Court vacates ruling barring Trump from blocking Twitter critics, saying case is moot"
     excerpt: "The Supreme Court on Monday vacated a lower court opinion that said President Donald Trump could not block critics from his Twitter feed, which since has been suspended by the company. The U.S. Court of Appeals for the 2nd Circuit in New York had ruled ..."
@@ -174,6 +254,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "US Lifts Trump-imposed Sanctions On ICC Prosecutor"
+    excerpt: "The United States said Friday it would lift sanctions imposed by former president Donald Trump's administration on the top prosecutor of the International Criminal Court, calling for a more cooperative relationship. Former secretary of state Mike Pompeo ..."
+    publishedDateTime: 2021-04-02T19:38:00Z
+    webUrl: "https://www.ibtimes.com/us-lifts-trump-imposed-sanctions-icc-prosecutor-3174016"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/02/under-donald-trump-the-united-states-imposed-sanctions.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "US Lifts Trump Sanctions On Hague Prosecutor, Seeking Cooperation"
     excerpt: "US President Joe Biden on Friday revoked sanctions imposed by Donald Trump on the top prosecutor of the International Criminal Court as the new administration seeks a more cooperative approach on a row that has alienated allies."

@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Ten Democrats join NAACP lawsuit against Trump"
+    excerpt: "Ten Democratic members of Congress have joined the NAACP’s lawsuit against former President Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship ..."
+    publishedDateTime: 2021-04-07T13:34:00Z
+    webUrl: "https://thehill.com/homenews/house/546877-ten-democrats-join-naacp-lawsuit-against-trump"
+    ampWebUrl: "https://thehill.com/homenews/house/546877-ten-democrats-join-naacp-lawsuit-against-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/546877-ten-democrats-join-naacp-lawsuit-against-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/basskaren_070120bc_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump is facing legal jeopardy on multiple fronts. Here are the lawyers in his corner."
     excerpt: "Former President Donald Trump has numerous lawyers defending him amid endless legal peril. But some familiar names have drifted from Trump's orbit."
     publishedDateTime: 2021-04-07T08:01:00Z

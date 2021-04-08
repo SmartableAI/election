@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6M8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6M8"
 type: article
 quality: 139
-heat: 239
+heat: 279
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_bced19e82367424f8f295da3bc4dc4d9_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "DOJ asks for more time to make decision on turning over Trump taxes"
+    excerpt: "Justice Department (DOJ) lawyers have reportedly requested additional time to determine their response to House Democrats’ request for former President Trump Donald Trump The Hill's Morning ..."
+    publishedDateTime: 2021-04-01T01:19:00Z
+    webUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes"
+    ampWebUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_8_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "10 House Democrats join suit against Trump for role in Capitol attack"
+    excerpt: "Washington — A growing number of Democrats are signing onto efforts to hold former President Donald Trump accountable for his role in the January 6 assault on the U.S. Capitol through the courts, with 10 House Democrats joining an earlier suit against Mr ..."
+    publishedDateTime: 2021-04-07T13:34:00Z
+    webUrl: "https://www.cbsnews.com/news/capitol-attack-lawsuit-trump-naacp-house-democrats/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/capitol-attack-lawsuit-trump-naacp-house-democrats/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-attack-lawsuit-trump-naacp-house-democrats/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/b3f68a28-4539-4793-a916-84745e0921ca/thumbnail/1200x630/94d4e1ba00bc9fe6727a002cf99cbe91/gettyimages-1230475710.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
     excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
