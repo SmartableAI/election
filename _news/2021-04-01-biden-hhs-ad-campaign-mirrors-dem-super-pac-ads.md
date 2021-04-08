@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp"
 type: article
 quality: 175
-heat: 295
+heat: 335
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "El Salvador president refuses to meet with Biden envoy on immigration crisis"
+    excerpt: "El Salvador’s President Nayib Bukele refused to meet with a visiting senior U.S. diplomat this week over what he sees as a pattern of slights from Democrats and the Biden administration, according to two aides of the Central American leader."
+    publishedDateTime: 2021-04-08T20:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wso7x-_6DJ8/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say"
+    ampWebUrl: "https://www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65de96da-f543-4865-a9c9-92eb3c5e2d16/f46278d2-4dc8-479d-af48-2112da2131dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Inside Biden White House's ties to dark money group seeking to pack Supreme Court"
     excerpt: "Both White House press secretary Jen Psaki and President Biden's judicial nomination point person Paige Herwig previously worked for Demand Justice."
     publishedDateTime: 2021-04-08T13:54:12Z
@@ -108,6 +124,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden challenged over claims about background checks at gun shows"
+    excerpt: "Former White House chief of staff Mark Meadows called Biden out for the error. \"Joe Biden is either lying, never bought a gun at a gun show, or both,\" Meadows tweeted. Meadows was part of a chorus of criticism firing back at Biden's remarks. When asked ..."
+    publishedDateTime: 2021-04-08T19:07:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-challenged-claims-background-checks-gun-shows"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-challenged-claims-background-checks-gun-shows.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-challenged-claims-background-checks-gun-shows.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "States Fight Back Against Biden War on the West"
     excerpt: "This brings us to President Joe Biden. No president in modern times, perhaps ever, has shown such contempt for our system of federalism. So I was thrilled to see this headline from, of all places, Alaska: \"Dunleavy Tells Feds Alaska Is Taking Over ..."

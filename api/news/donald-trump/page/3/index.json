@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-24-fired-yale-doc-says-her-tweet-diagnosing-trump-dershowitz-as-psychotic-was-free-speech.md",
+      "title": "Fired Yale doc says her tweet diagnosing Trump, Dershowitz as psychotic was free speech",
+      "excerpt": "who defended former President Donald Trump at his first impeachment trial. Bandy Lee, in a complaint filed in Connecticut federal court on Monday, accused Yale of breach of contract and wrongful termination, and said her tweet claiming Dershowitz had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/employment-yale-idUSL1N2LL2BR",
+      "originalUrl": "https://www.reuters.com/article/employment-yale-idUSL1N2LL2BR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LL2BR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LL2BR",
+      "publishedDateTime": "2021-03-23T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-the-border-industrial-complex-is-bigger-than-trump-or-biden-and-it-thrives-on-crisis.md",
       "title": "The 'border-industrial complex' is bigger than Trump or Biden, and it thrives on crisis",
       "excerpt": "How Biden deals with the border remains to be seen, but he will be no less caught up in the border-industrial complex than Trump.",
@@ -1509,54 +1552,6 @@
       "ampWebUrl": "https://nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
       "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/army-wont-restore-medals-to-solider-pardoned-by-trump/amp/",
       "publishedDateTime": "2021-03-18T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-cnn-viewership-plummeted-after-trump-left-office.md",
-      "title": "CNN viewership plummeted after Trump left office",
-      "excerpt": "CNN’s viewership has tanked since former President Trump left office — with new data showing the liberal network lost nearly half of its prime-time audience in a key demographic since",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/",
-      "originalUrl": "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cnn-90.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/18/cnn-viewership-plummeted-after-trump-left-office/amp/",
-      "publishedDateTime": "2021-03-18T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Post",

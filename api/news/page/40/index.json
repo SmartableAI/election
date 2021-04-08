@@ -2,6 +2,114 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-02-03-biden-no-family-members-will-be-involved-in-any-government-decisions.md",
+      "title": "Biden: No family members will be involved in any government decisions",
+      "excerpt": "President Joe Biden vowed that no one in his extended family will have sway over government decisions in an interview with People magazine published Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ln8Sm09QP9M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ln8Sm09QP9M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202205019-joe-biden-family-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/politics/biden-people-magazine-family-members-government/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/biden-people-magazine-family-members-government/index.html",
+      "publishedDateTime": "2021-02-03T04:05:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-biden-shows-flexibility-but-tells-house-to-go-big-on-aid.md",
+      "title": "Biden shows flexibility but tells House to ‘go big’ on aid",
+      "excerpt": "President Joe Biden is telling House Democrats he’s not married to all the specifics of the $1.9 trillion COVID rescue plan",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-03T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-trade-to-be-part-of-bidens-china-strategy-not-driving-force-ex-ustr-official.md",
       "title": "Trade to be part of Biden's China strategy, not driving force: ex-USTR official",
       "excerpt": "Trade will be a part of President Joe Biden's overall negotiation policy with China, but it won't be the driving force in Sino-U.S. relations, as it was under former President Donald Trump, a former official at the Office of the U.",
@@ -1229,118 +1337,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ex-nfl-star-marcellus-wiley-calls-for-separate-transgender-category-in-school-sports-after-biden-order.md",
-      "title": "Ex-NFL star Marcellus Wiley calls for 'separate transgender category' in school sports after Biden order",
-      "excerpt": "Former NFL star and current Fox Sports 1 host Marcellus Wiley called last week for the creation of a \"separate transgender category\" for youth athletics.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w31i18hHHNA/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w31i18hHHNA/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b139c892-ec9b-4fd7-8495-2deb7c7cccd5/dd5dac3c-9679-4542-953a-304d19d0093d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order.amp",
-      "publishedDateTime": "2021-02-01T14:54:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-biden-hosts-gop-senators-as-part-of-covid-19-stimulus-outreach.md",
-      "title": "Biden hosts GOP senators as part of Covid-19 stimulus outreach",
-      "excerpt": "White House spokeswoman Jen Psaki defended the size of the administration's $1.9 trillion Covid-19 relief proposal, calling it \"incredibly urgent\" ahead of a meeting with Republican senators on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DAE4F-B04sU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DAE4F-B04sU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 935,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html",
-      "publishedDateTime": "2021-02-01T14:41:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

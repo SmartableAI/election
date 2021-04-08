@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – live"
-excerpt: "Gun violence prevention advocate and former Arizona congresswoman Gabrielle Giffords has also tweeted out her own version of the pic where she elbow-bumps Joe Biden at the White House after the president announced executive actions. “I’m with you ..."
-publishedDateTime: 2021-04-08T19:29:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f49318f087dc3964a36ea"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f49318f087dc3964a36ea"
+excerpt: "Maanvi Singh in Oakland (now) and Joan E Greve in Washington (earlier) Lisa O’Carroll, Rory Carroll and Rajeev Syal report: The White House has expressed concern over a week of riots in Northern Ireland, with Joe Biden joining Boris Johnson and the Irish ..."
+publishedDateTime: 2021-04-08T21:39:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f657c8f087dc3964a3882"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f657c8f087dc3964a3882"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/784b92cf19262663a19785a42c5c098f76f55c0b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=398e49aa601f0b6fd64f19c926465339"
+  - url: "https://i.guim.co.uk/img/media/629214785e112b836dbdfadf68f73510ddde5bb0/66_0_2867_1721/master/2867.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=60475f754919853a976064d06dc36324"
     width: 600
     height: 360
     isCached: true
@@ -46,6 +46,6 @@ related:
         height: 540
         isCached: true
 
-secured: "hVnLvXYnAnKJGi+fInAcn/hwUH8CzT1ACfVxCK/2r5tISZRgaeZ4tP/yYKV05s7nT/8awkwum6eN28yhzPRHfFq41fazSFD9psVP48kgoaNyzsJmttjNdrIPuJi5KKsr3qnVjnIAVnkb+xivo82RqfmCkiis68ci960rnz6Jb+aIihcS/I8JUiM8h5smKG2Xz5KkVs6+N7R32SoGXsumCK2A2CVsUWQkokfnnZ1sIMTMorQrEhJ0HBetR3sSBj/tk31QoH3rEp0tOldc6SKWDPtH+4bNBxJMvMCPxbfWVrJrAjpvj+dB4Gim5rlOlP4GFPWqrXBxAUl5JDRAyPOFvOELVTWnkq2LAsu2Qh3/uDs=;XOokr/FqF674Gao0usM4nQ=="
+secured: "0a2FlCaaZ5PylAKDpRoofDZmFvTAI8meh3ZbFwPQmg5DjPrs4qfykLyI5iN9RqO4QfyfdRkiNhSETzc0x1JTTe5danab+Sl1NAnygFiLyk+ZtUds3bgRhwoLMLqH3EhsnT0th7RtujUiOa5fPHlgpqIrqW/XNiN88Q3JQ0f/Rcz/FkgmvOAHgJ2jflZkg7QGkAkw6enizd3Avep2mayR1Dr7As0i3UWzYXTtTBPMWPSip/gyMM8FEl9o6TWWORaY4ipMwrmWIkCGOANzn3jNilPRr1QJyu/qGCpvUXG9PTwCel7ZCFhWWuLWomhr+RYgBNgpVVTR2X6YxBwis7WekntkoC48xhMMwJGdQ+l9MSM=;LvkSr9vu/Fjo0YFxTeyKZg=="
 ---
 

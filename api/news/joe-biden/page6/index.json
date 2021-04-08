@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-05-weve-learned-to-love-the-guy-how-biden-charmed-the-left.md",
+      "title": "‘We’ve learned to love the guy:’ How Biden charmed the left",
+      "excerpt": "It’s early, but progressive say they’re being included, heard and respected by the Biden White House. But rocky roads are still ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/04/biden-white-house-progressives-466044",
+      "originalUrl": "https://www.politico.com/news/2021/02/04/biden-white-house-progressives-466044",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/57/d3/d68d32e34b518c1e55ce0b85b078/20210204-sanders-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-hunter-bidens-memoir-beautiful-things-out-in-april.md",
       "title": "Hunter Biden's memoir 'Beautiful Things' out in April",
       "excerpt": "NEW YORK (AP) —",
@@ -1512,58 +1569,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-mexican-leader-says-biden-offers-4b-for-central-america.md",
-      "title": "Mexican leader says Biden offers $4B for Central America",
-      "excerpt": "Mexico’s president says that President Joe Biden has told him the U.S. would send $4 billion to help development in Honduras, El Salvador and Guatemala",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_7aad6260e03e4eb1af6cc90dc7555d01_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
-      "publishedDateTime": "2021-01-23T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

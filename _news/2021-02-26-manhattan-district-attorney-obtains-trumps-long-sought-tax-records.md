@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecu
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/23fda673-2a17-47c4-ba9a-b074c782df27/thumbnail/1200x630g3/1d9ca3752e21543f449330f1a67f6fa8/gettyimages-1304610267.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Manhattan district attorney seizes evidence from Trump executive’s former daughter-in-law"
+    excerpt: "Vance Jr. appears to be the latest sign that Allen Weisselberg, the company’s highest-ranking corporate officer who is not a member of the Trump family, is a key focus of the ongoing criminal probe into former president Donald Trump’s financial dealings."
+    publishedDateTime: 2021-04-08T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/allen-weisselberg-jennifer-weisselberg-trump-investigation/2021/04/08/53e2cd62-97ec-11eb-a6d0-13d207aadb78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/allen-weisselberg-jennifer-weisselberg-trump-investigation/2021/04/08/53e2cd62-97ec-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/allen-weisselberg-jennifer-weisselberg-trump-investigation/2021/04/08/53e2cd62-97ec-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R55N5RUYPII6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "In Trump probe, Manhattan district attorney puts pressure on his longtime chief financial officer"
     excerpt: "Investigators have asked about Allen Weisselberg’s loyalty and his sons’ business dealings, according to people familiar with the case."

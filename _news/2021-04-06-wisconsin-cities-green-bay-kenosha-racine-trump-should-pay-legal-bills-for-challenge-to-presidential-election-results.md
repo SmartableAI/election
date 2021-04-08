@@ -175,6 +175,22 @@ related:
         width: 645
         height: 363
         isCached: true
+  - title: "'Run, Ron, Run!': Trump urges his staunch ally Sen. Ron Johnson, who downplayed the Capitol riot, to seek reelection"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump on Thursday urged Republican Sen. Ron Johnson of Wisconsin, a controversial lawmaker who downplayed the January 6 Capitol riot, to seek a third term next year. In a statement ..."
+    publishedDateTime: 2021-04-08T20:24:00Z
+    webUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/606f55de30004b0019b26baa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Rep. Adam Kinzinger raises $1.1 million for his anti-Trump PAC in first quarter, and an equal amount for his reelection fund"
     excerpt: "U.S. Rep. Adam Kinzinger, one of 10 House Republicans who voted to impeach Trump, raises $1.1 million in the first quarter for his anti-Trump political action committee."
     publishedDateTime: 2021-04-01T10:30:00Z

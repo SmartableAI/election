@@ -159,6 +159,22 @@ related:
         width: 645
         height: 363
         isCached: true
+  - title: "'Run, Ron, Run!': Trump urges his staunch ally Sen. Ron Johnson, who downplayed the Capitol riot, to seek reelection"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump on Thursday urged Republican Sen. Ron Johnson of Wisconsin, a controversial lawmaker who downplayed the January 6 Capitol riot, to seek a third term next year. In a statement ..."
+    publishedDateTime: 2021-04-08T20:24:00Z
+    webUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/606f55de30004b0019b26baa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
     excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
     publishedDateTime: 2021-04-05T22:36:00Z
@@ -293,6 +309,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "pZxrSbN9oTpD98kjOp1UGB4OSqcnZeMmVvg58osOB+wgmJ1kzHBv6544MnbZwBV2obcxdfbhRVkrIMg6IkUuQ4rbWUYNXRLUEaW35t2bbkHHjmEjSyeIoptqz219w+oeYRucdKeAnGXLu8DfzkLG/iBJzXpwuowOfluWtKWteTg/sFIYn4GS1POroU03C1RfuJUeHKtIdEnM5Rap5Bgd85giiLIqEfnCd0xAGLz+Ay+ePoL5qmQ1pn/tpfiyb5v13pTkbuvr12+hE3X1YljA/5MdIPAW2bi7A5BC9oclJuzxXyGIINkDD7ju1ICTprssw8tTMnNqoFdQBjSDsa88IPNZBymqYyRehkFlw6/fCrg=;ae5INHwHV90P/plFms2gbA=="
+secured: "rh9NP4qU8VhRgEtk6L89fzwSYyAXvHhirsQS9MH2ONACw7fxMijB444FcPFw9EVm2ytvyjfL4vt3x+4eSib3vNHbHOprnKdwd3mYQQVaHS9aQEq0F6udCLa2btl9G979nVtSJMnjcoK9qZ5lkGO/t6ASNn7Cd9nE2S3GkI0rNUK+KAyi2x/rUKa3YeCqEOPKPwqkEtNjPsI36Q01yTLixk+bTICHHH1yQWwTHbTao5QdAGwIF9bduHvAxHN2GW4qFuFLznKtO+GMv6gc6vChZmL2d/ROvC81fGefcy3edKkbuBAq6X/ml2Dvdd9qQ4AaehdhZeZ3aWQ0OQqKDLC7ta7BjJD1KPMimGMmZQsIBqTGzkAb96HpCCQLcE6VPgLrIW5BwsMIRK7sRego2VubQTj2UG4UuHPBHn3lmYM86qY6V6R9UbrDHyuFVer3ShHQ8usQzHYztWHw0tU0GgIgiAsNSdLBMlFYp+uRAcZtp+mo/laz8OZ4NTvcYipP0EQobXL09mmz5s9h7ldCAYAwSg==;oMsHVkH63Aw6lf7MeqnVnQ=="
 ---
 

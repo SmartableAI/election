@@ -2,6 +2,166 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-08-275-sheriffs-sign-letter-to-biden-on-border-crisis-reckless-effort-to-put-politics-before-safety.md",
+      "title": "275 sheriffs sign letter to Biden on border crisis: 'Reckless effort' to put politics before safety",
+      "excerpt": "Bristol County, Mass. Sheriff Thomas Hodgson discussed the letter 275 sheriffs signed urging President Biden to get the border crisis under control, during a Thursday segment of 'Fox & Friends.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NPuUBvLJ3Rw/275-sheriffs-sign-letter-biden-border-crisis-immigration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NPuUBvLJ3Rw/275-sheriffs-sign-letter-biden-border-crisis-immigration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a4800cc-2cbe-4ee2-8264-b821ee0e4244/c40a06fc-3d7a-4ad9-8d39-7bf23e41b7b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/275-sheriffs-sign-letter-biden-border-crisis-immigration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/275-sheriffs-sign-letter-biden-border-crisis-immigration.amp",
+      "publishedDateTime": "2021-04-08T05:49:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-mike-pence-inks-deal-to-write-2-books.md",
+      "title": "Mike Pence inks deal to write 2 books",
+      "excerpt": "Washington — Former Vice President Mike Pence has signed a deal with Simon & Schuster to publish two books, with the first, his autobiography, tentatively set to hit shelves in 2023 as the nation gears up for the next presidential election. His ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
+      "originalUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/a0af4233-839a-42bc-b7ea-17a6b76762fa/thumbnail/1200x630/c35ad2142b94342d0dc5c9892e32ec28/gettyimages-1230702122.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
+      "publishedDateTime": "2021-04-08T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-biden-could-agree-to-a-25-corporate-tax-rate-as-a-compromise-with-business-groups-rather-than-the-28-he-wanted-according-to-a-report.md",
+      "title": "Biden could agree to a 25% corporate tax rate as a compromise with business groups, rather than the 28% he wanted, according to a report",
+      "excerpt": "President Joe Biden. Jabin Botsford/The Washington Post via Getty Images Summary List Placement President Joe Biden may not achieve his proposed corporate tax rise to 28%, but lawmakers and corporations could agree on a 25% rate as a compromise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4",
+      "originalUrl": "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/606ec12730004b0019b26927?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp",
+      "publishedDateTime": "2021-04-08T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
       "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
       "excerpt": "Vice President Kamala Harris now has her own “Resolute” desk, crafted from materials from the historic USS Constitution warship.",
@@ -392,7 +552,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1186,175 +1346,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-omar-says-its-shameful-and-unacceptable-for-biden-to-continue-the-construction-of-trump-border-wall.md",
-      "title": "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall",
-      "excerpt": "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
-      "publishedDateTime": "2021-04-07T12:27:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
-      "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
-      "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "originalUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c3/24/49791ee84b6a94e296633797d05f/210407-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "publishedDateTime": "2021-04-07T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-biden-high-speed-internet-is-infrastructure.md",
-      "title": "Biden: High-speed internet is infrastructure ",
-      "excerpt": "President Joe Biden responds to critics who say his $2 trillion infrastructure plan is \"too big\" and he should instead focus on traditional forms of infrastructure.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KU4p8CymnSk/joe-biden-infrastructure-plan-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KU4p8CymnSk/joe-biden-infrastructure-plan-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407144138-joe-biden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn",
-      "publishedDateTime": "2021-04-07T11:50:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
+    excerpt: "He called shootings in the U.S. an \"international embarrassment.\" Biden takes aim at gun control President Joe Biden announced limited steps, using his executive power, to address gun violence ..."
+    publishedDateTime: 2021-04-08T20:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-gun-violence-prevention-01-gty-iwb-210408_1617900253327_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to unveil 6 executive orders to curb gun violence, nominate a permanent ATF director"
     excerpt: "WASHINGTON – President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act the president's long-held campaign ..."
     publishedDateTime: 2021-04-08T00:14:00Z

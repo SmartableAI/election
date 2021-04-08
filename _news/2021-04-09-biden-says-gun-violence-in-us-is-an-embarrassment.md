@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – live"
-    excerpt: "Gun violence prevention advocate and former Arizona congresswoman Gabrielle Giffords has also tweeted out her own version of the pic where she elbow-bumps Joe Biden at the White House after the president announced executive actions. “I’m with you ..."
-    publishedDateTime: 2021-04-08T19:29:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f49318f087dc3964a36ea"
+    excerpt: "Maanvi Singh in Oakland (now) and Joan E Greve in Washington (earlier) Lisa O’Carroll, Rory Carroll and Rajeev Syal report: The White House has expressed concern over a week of riots in Northern Ireland, with Joe Biden joining Boris Johnson and the Irish ..."
+    publishedDateTime: 2021-04-08T21:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f657c8f087dc3964a3882"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
     type: article
@@ -41,11 +41,11 @@ related:
       domain: theguardian.com
     quality: 110
     images:
-      - url: "https://i.guim.co.uk/img/media/784b92cf19262663a19785a42c5c098f76f55c0b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=398e49aa601f0b6fd64f19c926465339"
+      - url: "https://i.guim.co.uk/img/media/629214785e112b836dbdfadf68f73510ddde5bb0/66_0_2867_1721/master/2867.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=60475f754919853a976064d06dc36324"
         width: 600
         height: 360
         isCached: true
 
-secured: "SKN29618xuTBsoQJRHOC4TfG6YLaKNyz2e+c7BtALnhvipI831ELLwjY574+67fHfkUbtHRggwEZnlis20EjzQIyrqPZBPXD/Uhx/tqxsh2/3BQhy3SQDEgmxN8PHYYWMuDx9W5nGg3o+JkISXvH2hXfKgCHE4G2wLpgkSUCVya1IeTD3kbVQ1p0C4P3Dh6r2wWjxgVziYb4VMUr/oH+7vs4drHh7s2zoTTeavXtxXC1p1jpNUtVOfg/iQBW0MApMNQi4RjVNc12tOikcrmfb+jHDkL8Xx0AAadMyUvGyMb0zSWmbttEpi8jleKOeie2v+dWNiQQvasYc28P/pItOMy7iwtEPNDVWvNeMSa6cVg=;ClpP67EY9DMx/yWvsT7Nxg=="
+secured: "MnC8whtLAEpcCzAKw9xB4D/fHFFccpWwlL4N4maVAZv8cd5TIrRI3RcmWWhNkCIaHRi9lJnUf9lE8PzzdIWng1K/KnaDQMUsBZQovjJ7UhWWDlmUBRJorfdjbiUehMy9c8TNHAlLbv/0Gi9eit48Y0Qutbs4wOiEYnWKa6lw4V47p8jJaQC0NhqAETOa+ypgoUaPlJ7EYj6zrScmedN0PfybBejkHsHAJqmC1iWtnUJ+c1v27bUA/DeD9Bo6CGG0a5eSqW+4wX6iWYrlOZsPJ1yFaZQCZseC4AC6mYb11Vv59mH5MDJ208Zxw/WnxsXfC4UHVIh2e1kKz+xSFCu4xfJo9aLRBnoxqNQe4Eq55eYKzKGWoUWn1KYlSw7Bw68SWLeORE+CMwlm/bxHcDK151uABMUqooTWuipjW/7wpX462VMdfcRqQxgW5iLFuKF78atDvfu0fyDyspNXGSK74tiuhC2xKKvElhoAD1rcjPzSGRssqjr+jIJswsBOqXxXjAWrrL6V0wfwTJ4Yxg43sQ==;XWbCyon7Ony47QA+7zHWGA=="
 ---
 

@@ -2,6 +2,110 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-05-refugees-flights-cancelled-as-trump-policy-remains.md",
+      "title": "Refugees’ flights cancelled as Trump policy remains",
+      "excerpt": "Refugee resettlement agencies say more than 260 refugees who were vetted, approved and booked to come to the United States have had their flights canceled by the State Department over the past two wee",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-04T20:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-veep-with-a-pearl-earring-kamala-harris-ignites-a-jewelry-trend.md",
+      "title": "Veep with a pearl earring: Kamala Harris ignites a jewelry trend",
+      "excerpt": "Fashion insiders credit Vice President Kamala Harris with single-handedly bringing back a bygone trend: pearls. When she was sworn in as our country’s first woman, first Black and first South Asian vice president,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "originalUrl": "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 885,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/16/76/12/20701837/3/375x250.jpg",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "publishedDateTime": "2021-03-04T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-where-are-ivanka-trump-and-jared-kushner-donald-angry-at-son-in-law-report.md",
       "title": "Where Are Ivanka Trump And Jared Kushner? Donald Angry At Son-In-Law: Report",
       "excerpt": "There may be contention brewing between former President Donald Trump and Jared Kushner after his son-in-law was not seen at the Conservative Political Action Conference last week. Jared Kushner, husband of Trump’s daughter Ivanka,",
@@ -1239,115 +1343,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-back-to-school-for-first-lady-jill-biden-theres-light-at-end-of-tunnel-for-reopening-schools.md",
-      "title": "Back to school for first lady Jill Biden: There's 'light at end of tunnel' for reopening schools",
-      "excerpt": "First lady Jill Biden and the new education secretary visited schools in Connecticut and Pennsylvania to talk about safely returning to classrooms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/03/jill-biden-miguel-cardona-education-pandemic/6912906002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/03/jill-biden-miguel-cardona-education-pandemic/6912906002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/03/NETN/7f56ab68-0619-44f1-b73d-3e37f4b098ad-p4jillbiden030321.jpg?auto=webp&crop=3057,1720,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6912906002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6912906002",
-      "publishedDateTime": "2021-03-03T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-msnbc-contributor-my-guts-telling-me-trump-white-house-behind-lack-of-capitol-protection-on-jan-6.md",
-      "title": "MSNBC contributor: 'My gut's telling me' Trump White House behind lack of Capitol protection on Jan. 6",
-      "excerpt": "MSNBC contributor Frank Figliuzzi speculated Wednesday that the Trump White House delayed sending military assets as the Capitol building was stormed by pro-Trump rioters during the certification of President Biden's election victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dceb1775-5059-410a-b2fa-59a4aa6a6de4/35762ff5-24b7-42c7-b4c0-e4c4511f85cd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
-      "publishedDateTime": "2021-03-03T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

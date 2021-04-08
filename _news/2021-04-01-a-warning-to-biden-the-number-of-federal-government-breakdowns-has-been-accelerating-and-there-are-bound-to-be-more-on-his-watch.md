@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 895
         isCached: true
+  - title: "OnPolitics: Biden takes on gun control"
+    excerpt: "President Joe Biden called for swift action on gun control legislation in the wake of the mass shootings in Colorado and Georgia in March. Today Biden took it one step farther, unveiling six executive actions on curbing gun violence. It's Mabinty ..."
+    publishedDateTime: 2021-04-08T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/08/biden-tackles-gun-control-legislation-after-mass-shootings/7145327002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7145327002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7145327002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/976f8936-4e67-4e9e-b7e9-7140c2588fac-DESK.00_00_35_25.Still002.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eHURCpBEJ0W7J9t7MgNsgbARoqO3fkUcqJ4Cebi9A6mwO904TWmioRl51VSlpLwzGdAa7TFZKvEH0m1xfeeytj6M3ZC1ph2PEnKbpN+eRc7QwqtWOXckNkmukYkkAR8NyiCkg/o0uEbuwx74siTDsINu3mFeEVJSCiEhUZKQVonjBu4zg2vihg4S+J8mLTiCIn00I2DoXhK0FUwTwnhCw4i3HXAvUniF4MxG+IrtiUZLQCjg40Pqj+4WWFkXKxyKfXSA9AdQW/wVbS+tKsPAd7cDfHFlej8HJyCkTsm/UfiMlZFpTc0zCvwD7coEUY1hUXdsT9KOabW10uLOcj+Tj9hKb/zWU3J9dR0cXsMDbpvDrhFyuLQWW+1dMSUP5nDKM3usj8reaFXalBZXSIe7CeEq3qBmFjQvxg11OiHukmRNnuXj+mFkr60r24dLkmwwiBR9Hy+0rFUR0hzPJHZUPtSElw1Kctx3LUiZ7L+dT8zUVanCHM1qM9IPe2o2iAfj+ZPM07IBRCe5sU7672mgig==;873clbUUM0qdNOOEqpowRQ=="
 ---

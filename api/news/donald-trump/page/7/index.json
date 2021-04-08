@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
+      "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
+      "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac-repubs1/26cpac-repubs1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
+      "publishedDateTime": "2021-02-26T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-donald-trump-jr-suggests-rino-policies-part-of-what-led-to-trump-presidency.md",
       "title": "Donald Trump Jr. Suggests 'RINO Policies' Part of What Led to Trump Presidency",
       "excerpt": "The former president's son delivered his remarks at CPAC during a scheduled \"Reigniting the Spirit of the American Dream\" speech.",
@@ -422,7 +479,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1512,58 +1569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-trump-ally-nunes-sees-cnn-ukraine-lawsuit-thrown-out-by-new-york-judge.md",
-      "title": "Trump ally Nunes sees CNN Ukraine lawsuit thrown out by New York judge",
-      "excerpt": "California congressman sought $435m in damages over story that linked him to hunt for Biden dirt in Ukraine",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5826a3ca181e521f7c7a46b6fb2ad9bc3a2637e3/0_200_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6736946fdcf4d2a9d1a580bf04f472cb",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/20/trump-nunes-cnn-ukraine-lawsuit-thrown-out-new-york-judge",
-      "publishedDateTime": "2021-02-20T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

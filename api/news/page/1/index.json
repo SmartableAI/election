@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-09-biden-condemns-us-gun-violence-as-an-international-embarrassment-as-he-announces-new-actions-live.md",
+      "title": "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – live",
+      "excerpt": "Maanvi Singh in Oakland (now) and Joan E Greve in Washington (earlier) Lisa O’Carroll, Rory Carroll and Rajeev Syal report: The White House has expressed concern over a week of riots in Northern Ireland, with Joe Biden joining Boris Johnson and the Irish ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f657c8f087dc3964a3882",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f657c8f087dc3964a3882",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/629214785e112b836dbdfadf68f73510ddde5bb0/66_0_2867_1721/master/2867.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=60475f754919853a976064d06dc36324",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
+      "publishedDateTime": "2021-04-08T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.md",
+      "title": "Rep. Kat Cammack: Joe Biden has become 'trafficker-in-chief' of southern border 'crisis'",
+      "excerpt": "Congresswoman Kat Cammack, R-Fla., called out her Democrat colleagues Thursday for calling the border situation anything but a \"crisis,\" telling \"The Story\" the Biden administration should have followed Trump’s lead.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YfaGyl9P0H0/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YfaGyl9P0H0/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.amp",
+      "publishedDateTime": "2021-04-08T13:53:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-mcconnells-home-state-bridge-symbol-of-infrastructure-standoff-with-biden.md",
+      "title": "McConnell's home state bridge symbol of infrastructure standoff with Biden",
+      "excerpt": "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "originalUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/brent-spence-bridge-file-gty-jef-210407_1617823616171_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "publishedDateTime": "2021-04-08T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-biden-falsely-claims-gun-manufacturers-cant-be-sued.md",
       "title": "Biden falsely claims gun manufacturers 'can't be sued'",
       "excerpt": "President Biden on Thursday falsely claimed that gun manufacturers \"can't be sued.\"",
@@ -55,58 +215,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-biden-condemns-us-gun-violence-as-an-international-embarrassment-as-he-announces-new-actions-live.md",
-      "title": "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – live",
-      "excerpt": "Gun violence prevention advocate and former Arizona congresswoman Gabrielle Giffords has also tweeted out her own version of the pic where she elbow-bumps Joe Biden at the White House after the president announced executive actions. “I’m with you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f49318f087dc3964a36ea",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f49318f087dc3964a36ea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/784b92cf19262663a19785a42c5c098f76f55c0b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=398e49aa601f0b6fd64f19c926465339",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
-      "publishedDateTime": "2021-04-08T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -166,6 +274,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-09-donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-of-transgender-bill-bye-bye.md",
+      "title": "Donald Trump Attacks GOP Arkansas Governor Asa Hutchinson Over Veto of Transgender Bill: 'Bye-Bye!'",
+      "excerpt": "Former President Donald Trump continues to ramp up his feud with Arkansas Governor Asa Hutchinson, attacking the Republican state leader Thursday over his veto of a bill that targeted people who are transgender. \"Asa Hutchinson, the lightweight RINO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142",
+      "originalUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1773955/trump-asa.jpg",
+          "width": 3489,
+          "height": 2613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142?amp=1",
+      "publishedDateTime": "2021-04-08T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-mueller-fraud-investigator-brought-in-to-help-vances-probe-of-trump-org.md",
       "title": "Mueller fraud investigator brought in to help Vance's probe of Trump Org.",
       "excerpt": "A former FBI agent key to special counsel Robert Mueller's investigation into Russian meddling in the 2016 presidential election is one of several forensic accountants working on the Manhattan district attorney's investigation into the Trump Organization, people familiar with the matter say.\n    \n",
@@ -178,7 +338,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -399,7 +559,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/547175-trump-calls-on-ron-johnson-to-run-for-reelection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 480,
+      "heat": 500,
       "tags": null,
       "images": [
         {
@@ -623,7 +783,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1173,7 +1333,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-immigration-border-idUSKBN2BV24H",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1197,166 +1357,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-275-sheriffs-sign-letter-to-biden-on-border-crisis-reckless-effort-to-put-politics-before-safety.md",
-      "title": "275 sheriffs sign letter to Biden on border crisis: 'Reckless effort' to put politics before safety",
-      "excerpt": "Bristol County, Mass. Sheriff Thomas Hodgson discussed the letter 275 sheriffs signed urging President Biden to get the border crisis under control, during a Thursday segment of 'Fox & Friends.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NPuUBvLJ3Rw/275-sheriffs-sign-letter-biden-border-crisis-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NPuUBvLJ3Rw/275-sheriffs-sign-letter-biden-border-crisis-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a4800cc-2cbe-4ee2-8264-b821ee0e4244/c40a06fc-3d7a-4ad9-8d39-7bf23e41b7b7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/275-sheriffs-sign-letter-biden-border-crisis-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/275-sheriffs-sign-letter-biden-border-crisis-immigration.amp",
-      "publishedDateTime": "2021-04-08T05:49:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mike-pence-inks-deal-to-write-2-books.md",
-      "title": "Mike Pence inks deal to write 2 books",
-      "excerpt": "Washington — Former Vice President Mike Pence has signed a deal with Simon & Schuster to publish two books, with the first, his autobiography, tentatively set to hit shelves in 2023 as the nation gears up for the next presidential election. His ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/a0af4233-839a-42bc-b7ea-17a6b76762fa/thumbnail/1200x630/c35ad2142b94342d0dc5c9892e32ec28/gettyimages-1230702122.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
-      "publishedDateTime": "2021-04-08T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-could-agree-to-a-25-corporate-tax-rate-as-a-compromise-with-business-groups-rather-than-the-28-he-wanted-according-to-a-report.md",
-      "title": "Biden could agree to a 25% corporate tax rate as a compromise with business groups, rather than the 28% he wanted, according to a report",
-      "excerpt": "President Joe Biden. Jabin Botsford/The Washington Post via Getty Images Summary List Placement President Joe Biden may not achieve his proposed corporate tax rise to 28%, but lawmakers and corporations could agree on a 25% rate as a compromise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4",
-      "originalUrl": "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606ec12730004b0019b26927?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp",
-      "publishedDateTime": "2021-04-08T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

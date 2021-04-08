@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/275-sheriffs-sign-letter-biden-bord
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/275-sheriffs-sign-letter-biden-border-crisis-immigration.amp"
 type: article
 quality: 161
-heat: 181
+heat: 161
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Rep. Jordan: Biden's immigration policies have led to 'more than a crisis' at the border, 'It is chaos'"
-    excerpt: "Thank God for these agents who are working their tail off, but they are overwhelmed right now. This has been the left's hard policy that Joe Biden announced, you know, these changes that they wanted to make. We should just forget that these were the ..."
-    publishedDateTime: 2021-04-07T03:48:00Z
-    webUrl: "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/070b1ef0-be9c-4599-893d-7fee421d4274/7aa0f9bf-0270-4ff0-ae9b-de487b429f96/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "U3FznXauo2v3Y570yk8jd2CGs6pHbBOEVCp0wtSb2K+ax9KM2653ix00ZqM34MEd+e/dX7a1oL2zRE52Hy+6CnpQt3S9PfatFm1oEVf4B7TQ6SUBaYftgHvFh1p5ZreYQ2vmq9sGw8/rWUAoDbcmoUJKZbNTkmMczKcZ73GuYKB7TaDrq9yF1MosdgWKOZ8T9eeRYLPaX5BmJzsSIo8eZJ4EVEapESZx370klmKOI/KJDNxv2fyowezHf9ppuU7/zLcvDpLcQJ7FvTRyG/VVIwAPLtg2Dc0ShHuMd6Bl7/Vl5SF9+9//fb/pFzMEgHtGUvfXQ4jM0dAAiAlyAg9CZFT22in87+RvKSfejgaaRA0=;KzPFLX4jvB7mQwbaJxUCrQ=="
 ---

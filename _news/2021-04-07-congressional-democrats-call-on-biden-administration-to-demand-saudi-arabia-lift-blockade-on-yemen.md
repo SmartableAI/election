@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Frustrated military officials want Biden to make a decision on Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden's lack of a final decision on the future status of U.S. troops in Afghanistan just three weeks before a deadline for their complete withdrawal has begun to frustrate some military officials, according to current and ..."
+    publishedDateTime: 2021-04-08T16:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/national-security/frustrated-military-officials-want-biden-make-decision-afghanistan-n1263416"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263416"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263416"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3428929/201117-troops-afghanistan-mc-1450_7c348b33731f3cc4efcbc910e3f32707.JPG"
+        width: 2500
+        height: 1513
+        isCached: true
   - title: "Biden to nominate Robin Carnahan as administrator of General Services Administration"
     excerpt: "(CNN)President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed ..."
     publishedDateTime: 2021-04-06T21:51:00Z

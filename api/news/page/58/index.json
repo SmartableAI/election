@@ -2,6 +2,101 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-01-09-all-honor-to-mike-pence.md",
+      "title": "All Honor to Mike Pence",
+      "excerpt": "We have an editorial up titled “Mitch McConnell’s Finest Hour” that also makes a nod to the admirable role which Mike Pence played in the proceedings on Wednesday. I want to underline that point because I thought Pence would recuse himself,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalreview.com/corner/all-honor-to-mike-pence/",
+      "originalUrl": "https://www.nationalreview.com/corner/all-honor-to-mike-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/pence.jpg?resize=300%2C300&ssl=1",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nationalreview.com/corner/all-honor-to-mike-pence/amp/",
+      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/all-honor-to-mike-pence/amp/",
+      "publishedDateTime": "2021-01-08T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Review",
+        "domain": "nationalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-the-latest-house-dems-mulling-fast-track-trump-impeachment.md",
+      "title": "The Latest: House Dems mulling fast-track Trump impeachment",
+      "excerpt": "House Democratic leaders say the House could take up articles of impeachment against President Donald Trump as soon as next week if Vice President Mike Pence and Trump’s Cabinet don’t act to remove hi",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 825,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-08T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-trumps-billionaire-backers-are-horrified-by-the-insurrection-at-the-capitol-but-only-one-has-broken-with-him.md",
       "title": "Trump's billionaire backers are 'horrified' by the insurrection at the Capitol but only one has broken with him",
       "excerpt": "More than 100 billionaires have donated to Donald Trump's political campaigns. Few of them are willing to speak out regarding the US Capitol attack.",
@@ -1245,114 +1340,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-tom-cotton-says-pro-trump-capitol-protesters-were-insurrectionists.md",
-      "title": "Tom Cotton says pro-Trump Capitol protesters were 'insurrectionists'",
-      "excerpt": "Sen. Cotton said that the riots Wednesday were \"no different\" than the chaos that unfolded last year over police brutality.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C4oD20OZHeI/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C4oD20OZHeI/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp",
-      "publishedDateTime": "2021-01-07T08:39:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-biden-to-nominate-judge-merrick-garland-for-attorney-general.md",
-      "title": "Biden to nominate Judge Merrick Garland for attorney general",
-      "excerpt": "President-elect Joe Biden will nominate federal appeals court Judge Merrick Garland to be U.S. attorney general, Biden's transition office said in a statement on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546953058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060RY",
-          "width": 765,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29C1FY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C1FY",
-      "publishedDateTime": "2021-01-07T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

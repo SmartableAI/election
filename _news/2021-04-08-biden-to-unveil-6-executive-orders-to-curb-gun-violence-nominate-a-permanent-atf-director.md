@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
+    excerpt: "He called shootings in the U.S. an \"international embarrassment.\" Biden takes aim at gun control President Joe Biden announced limited steps, using his executive power, to address gun violence ..."
+    publishedDateTime: 2021-04-08T20:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-gun-violence-prevention-01-gty-iwb-210408_1617900253327_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What are ghost guns?: Biden executive action targets 'dangerous' and 'untraceable' firearms"
     excerpt: "As President Joe Biden is set to announce Thursday a host of executive actions aimed at slowing gun violence in the wake of several recent mass shootings in the U.S., renewed focus is on so-called \"ghost guns.\" Among the actions Biden will announce is ..."
     publishedDateTime: 2021-04-08T14:42:00Z

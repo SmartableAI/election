@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden action on guns draws praise, skepticism"
+    excerpt: "President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of infrastructure debate Omar slams Biden admin for continuing ..."
+    publishedDateTime: 2021-04-08T20:55:00Z
+    webUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
+    ampWebUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040821getty_guns.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Fixing the credit Catch-22: How Biden wants to make credit scores fairer"
     excerpt: "Reforming credit scores is one of U.S. President Joe Biden’s many priorities as he tries to repair the financial wreckage caused by the coronavirus pandemic, which disproportionately harmed minorities, women and low-income workers, according to ..."
     publishedDateTime: 2021-04-08T10:13:00Z

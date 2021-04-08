@@ -2,6 +2,110 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-29-nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me.md",
+      "title": "Nancy Sinatra: 'I'll never forgive Trump voters. I hope the anger doesn't kill me'",
+      "excerpt": "She may be 80 and cut off by Covid, but she’s still ready to walk all over Donald Trump. As her greatest songs are reissued, she reflects on the sexual politics of the 60s, her friendship with Elvis a",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "originalUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/82417b28bc16912f6f47d9e309378f3e086e658f/0_663_2275_1567/master/2275.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=631bc24f8cf8b8ecc2c3619dfe27efa4",
+          "width": 600,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
+      "publishedDateTime": "2021-01-29T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-fauci-said-macho-guy-trump-saw-masks-as-a-sign-of-weakness-and-many-americans-followed-his-lead.md",
+      "title": "Fauci said 'macho guy' Trump saw masks as a 'sign of weakness' and many Americans followed his lead",
+      "excerpt": "\"To him, a mask was a sign of weakness. The unfortunate aspect of this is that a lot of people in the country took that on as a mantra,\" Fauci said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1",
+      "originalUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1?amp",
+      "publishedDateTime": "2021-01-28T22:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-trump-officials-moved-most-bureau-of-land-management-positions-out-of-dc-more-than-87-percent-quit-instead.md",
       "title": "Trump officials moved most Bureau of Land Management positions out of D.C. More than 87 percent quit instead.",
       "excerpt": "The decision to relocate BLM headquarters to Colorado and redistribute jobs in the West prompted 287 employees to retire or find other jobs.",
@@ -1238,119 +1342,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-biden-wont-budge-on-the-senate-filibuster-why-arent-progressives-pushing-him.md",
-      "title": "Biden Won’t Budge on the Senate Filibuster. Why Aren’t Progressives Pushing Him?",
-      "excerpt": "The president doesn’t want to eliminate the Senate’s 60-vote threshold, an impediment to major legislation. Left-leaning Democrats disagree, but they’re holding their fire for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/27/us/politics/biden-filibuster.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/27/us/politics/biden-filibuster.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/21/us/politics/21progressives-filibuster1/21progressives-filibuster1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/27/us/politics/biden-filibuster.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/biden-filibuster.amp.html",
-      "publishedDateTime": "2021-01-27T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-european-commission-president-twitters-trump-ban-a-serious-interference-with-freedom-of-expression.md",
-      "title": "European Commission president: Twitter's Trump ban a 'serious interference with freedom of expression'",
-      "excerpt": "European Commission president Ursula von der Leyen said regulators in the U.S. and abroad should work together to develop a “framework of laws for such far-reaching decisions.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ES6J2Mgmy7I/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ES6J2Mgmy7I/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb68ffc8-6b3e-4f50-8aa8-fbd4121d32e4/ec0272e1-91d1-4361-9227-e9df659a3a30/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp",
-      "publishedDateTime": "2021-01-27T14:21:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

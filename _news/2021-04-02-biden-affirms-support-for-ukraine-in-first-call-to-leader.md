@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/52577f63b6920f5b4b643b2159c2d9e2b93ec6fc/0_260_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc0ce429f90291119ff6f21174f3fcde"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden action on guns draws praise, skepticism"
+    excerpt: "President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of infrastructure debate Omar slams Biden admin for continuing ..."
+    publishedDateTime: 2021-04-08T20:55:00Z
+    webUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
+    ampWebUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040821getty_guns.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden tightens some gun controls, says much more needed"
     excerpt: "In President Joe Biden’s first notable gun control measures, he has announced executive actions aimed at addressing what the White House calls a “gun violence public health epidemic"

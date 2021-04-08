@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
+    excerpt: "He called shootings in the U.S. an \"international embarrassment.\" Biden takes aim at gun control President Joe Biden announced limited steps, using his executive power, to address gun violence ..."
+    publishedDateTime: 2021-04-08T20:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-gun-violence-prevention-01-gty-iwb-210408_1617900253327_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to unveil 6 executive orders to curb gun violence, nominate a permanent ATF director"
     excerpt: "WASHINGTON – President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act the president's long-held campaign ..."
     publishedDateTime: 2021-04-08T00:14:00Z
@@ -188,6 +204,6 @@ related:
         height: 630
         isCached: true
 
-secured: "CZ6afAVxt6BLrlK9LepJDwx40Tu+A8Y6nU3u4EAQPuTIwE8tsjOghp92QVw83EQibToBNrmfotthUnXNvrUEw61zZBlxlGvIVNYGK9QRYw5gRj6cKiwV7VTQPzlyxq574SkIRqfjxDpI5CHwWOF+hNhWsGmRFDWqTQm7Hfs+97wAeVC7OJ4Jkl/HOCOoxnMlbmZtmr3l+qeVvxjS0jm5Ji27RatsFe56Ojxfvfb8fFfrD/YwhFjcooqhUtmN3jLDL/SkT+GXWMWSlOXkLbozaunAVCTsYiDcttZULADGovDKGYm6LXDqcgGob9xFBKeTJcHJfWzYNq/s/utQpMTCoN06bF6TnvQckkCWbAqPw58=;ZWi74yhQq7inUETHfZ593Q=="
+secured: "EheDzwq1jHPSkm8pX1AOTMDeT9LCR5duVXb9gIxTg3gJedYxIIaPxQVQ9lbDRzELk7ir5j7bOkoIcpzfLnLPIxdNP+la2YW9qRsowYIgbA4tBLq+yz7GBQq18CHI9YE9gjfgocn384WGCdCEXFwNCy00iLEJVMUQW8nFP1qauBhRsY71JmED6tGp3zwAFdUCOQVoaG+ITyAmnseR+n5x0zOrSuw9tvUfKcQLyeyfmEJijGRaKuEFGr0vvO3Qrd5nd2tr1js6NULirQpy9B9bPj3mlrb1gDYAH1ZuUnGB4T9uBNFqonpIP6/KADVH4RpenjKloS5OjAhwFWk1c47xjygsEbT7oCJEZSEQwdrkmN2GZekTxsgQXJMvxRtkSvAEIu9DFyJHaInjmT9eKErgTd4A/th5iEqTLclErHcWPAXz93CPsisUvN5nDKJ9Qk5U+V8StRA7ghy5/RMNxOjyryQ+oeouM+Nd2M/Yjv8iVq0tGPMZt27NGhZg/2QG4ZSPic0PjxnFowE33xv47oOCag==;H+8nCX19BqyBOXcRtFZ7jQ=="
 ---
 

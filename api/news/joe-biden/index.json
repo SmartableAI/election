@@ -4,17 +4,17 @@
     {
       "path": "_news/2021-04-09-biden-condemns-us-gun-violence-as-an-international-embarrassment-as-he-announces-new-actions-live.md",
       "title": "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – live",
-      "excerpt": "Gun violence prevention advocate and former Arizona congresswoman Gabrielle Giffords has also tweeted out her own version of the pic where she elbow-bumps Joe Biden at the White House after the president announced executive actions. “I’m with you ...",
+      "excerpt": "Maanvi Singh in Oakland (now) and Joan E Greve in Washington (earlier) Lisa O’Carroll, Rory Carroll and Rajeev Syal report: The White House has expressed concern over a week of riots in Northern Ireland, with Joe Biden joining Boris Johnson and the Irish ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f49318f087dc3964a36ea",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f49318f087dc3964a36ea",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f657c8f087dc3964a3882",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f657c8f087dc3964a3882",
       "featuredContent": null,
       "highlight": null,
       "heat": 130,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/784b92cf19262663a19785a42c5c098f76f55c0b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=398e49aa601f0b6fd64f19c926465339",
+          "url": "https://i.guim.co.uk/img/media/629214785e112b836dbdfadf68f73510ddde5bb0/66_0_2867_1721/master/2867.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=60475f754919853a976064d06dc36324",
           "width": 600,
           "height": 360,
           "title": null,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
-      "publishedDateTime": "2021-04-08T12:29:00-07:00",
+      "publishedDateTime": "2021-04-08T14:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -34,6 +34,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-mcconnells-home-state-bridge-symbol-of-infrastructure-standoff-with-biden.md",
+      "title": "McConnell's home state bridge symbol of infrastructure standoff with Biden",
+      "excerpt": "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "originalUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/brent-spence-bridge-file-gty-jef-210407_1617823616171_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "publishedDateTime": "2021-04-08T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -171,7 +223,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-immigration-border-idUSKBN2BV24H",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -275,7 +327,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -763,7 +815,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1137,7 +1189,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1552,58 +1604,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-analysis-bumpy-road-ahead-for-bidens-infrastructure-plan.md",
-      "title": "Analysis: Bumpy road ahead for Biden's infrastructure plan",
-      "excerpt": "But Joe Biden believes he can use it to drive America to the future after a dozen years of false starts. The trip is unlikely to be smooth. Biden's $2.3 trillion infrastructure package ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_321a78dd44454ce7b60608ca3d71101e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947",
-      "publishedDateTime": "2021-03-31T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

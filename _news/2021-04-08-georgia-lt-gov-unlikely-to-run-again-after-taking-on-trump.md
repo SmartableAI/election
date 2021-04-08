@@ -169,6 +169,22 @@ related:
         width: 645
         height: 363
         isCached: true
+  - title: "'Run, Ron, Run!': Trump urges his staunch ally Sen. Ron Johnson, who downplayed the Capitol riot, to seek reelection"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump on Thursday urged Republican Sen. Ron Johnson of Wisconsin, a controversial lawmaker who downplayed the January 6 Capitol riot, to seek a third term next year. In a statement ..."
+    publishedDateTime: 2021-04-08T20:24:00Z
+    webUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/606f55de30004b0019b26baa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
     excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
     publishedDateTime: 2021-04-05T22:36:00Z

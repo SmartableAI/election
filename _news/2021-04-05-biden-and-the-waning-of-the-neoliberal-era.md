@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "OnPolitics: Biden takes on gun control"
+    excerpt: "President Joe Biden called for swift action on gun control legislation in the wake of the mass shootings in Colorado and Georgia in March. Today Biden took it one step farther, unveiling six executive actions on curbing gun violence. It's Mabinty ..."
+    publishedDateTime: 2021-04-08T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/08/biden-tackles-gun-control-legislation-after-mass-shootings/7145327002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7145327002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7145327002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/976f8936-4e67-4e9e-b7e9-7140c2588fac-DESK.00_00_35_25.Still002.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "A warning to Biden: The number of federal government breakdowns has been accelerating, and there are bound to be more on his watch"
     excerpt: "Research by New York University professor Paul Light found an increasing number of government failures in recent years, driven by “decades of neglect.”"
     publishedDateTime: 2021-04-01T10:04:00Z

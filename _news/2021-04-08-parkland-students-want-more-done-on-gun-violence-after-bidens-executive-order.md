@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden action on guns draws praise, skepticism"
+    excerpt: "President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of infrastructure debate Omar slams Biden admin for continuing ..."
+    publishedDateTime: 2021-04-08T20:55:00Z
+    webUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
+    ampWebUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040821getty_guns.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden tightens some gun controls, says much more needed"
     excerpt: "In President Joe Biden’s first notable gun control measures, he has announced executive actions aimed at addressing what the White House calls a “gun violence public health epidemic"
     publishedDateTime: 2021-04-08T19:14:00Z
@@ -190,6 +206,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "vJZbldwNz9ulJGG41TA9V7IVuWJHm+y8SfP5xgCkwMXkBOiejR0MKPpDgg5Iu9Xnzj0V9Xeb0MKPiCYPD60XvXymOkiIwl8Uxv4zxjKByOK2OnBrvs6dRLFFShd2135SDCnI0YbpZIuuz6WVjUj/Kn1qWv/cJuAPYlZbubRtge/Jf5CvQG3NFVGdHV8Ye7KRTFeQWk45abHfXKIQnnZbhRMvOhCslV6oi72/mk4qrQcp6dkkP2kD3dqz9vg3Nq4LEg5GDG4yf+wHa6rbj2pIPvzjCrtod8jQMknNj4oFRZsIHSpkDZxakquhift4s+2m4n+0v3+B68WndFFc8q2iOviyetVD511z3MXeZpaZlqY=;LPPdeE9xW79LR9qqeGz0hg=="
+secured: "e1x8RLyHjaWxOV7FkZyG5f1LXX6yTT0Vr+PEybSBIx3JsATYaLWDhrJ/KT4qb3zS5QDPMEBn6KnFGFj3Eo6MPu0VmTAG1u3r5eWuinUWoZlxyjlrpdiJzSdvcEPP3wVnweon24bwmxwaOuX0oYZUWtDvWIYJPPRh6v9SXbtNVg7U3DSmC581AoUo+5IGSSuIUiEIfC7AOXMX8s4CNr7pul0g58Q8AwhLf3bsCpZLT9jm9o5qzHNccpvqEN14dvDf9R2+Hgtpbz9ls4xvgP5Ye2hp0KSK+jZbTsVcRmHGIZhwbFk/IZsRcPqHx30dPO0CpCi+AzECu20LKsAy8aF0cBCDGBSwQS+rsWPbZeLGoWopveLxesuiOI7xKZEmdcYVagkz5gNcCnl6cH9Xn1zGNAIZLfB8sAEGUbTcdZLgbxSd1x215qGRfrCOYg9jYKVI2T2PNDOVfggaLgmujmc+0Wx8lslLx88qPa6vM8HU33h0EWrk4RixydTfBv0Y0aJeWi08k9rF0QD3zrKXwpABoQ==;0KrsTvs45yhZsnJ/vLjiaw=="
 ---
 

@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Manhattan DA's office has obtained boxes of documents from former daughter-in-law of top Trump Organization official Allen Weisselberg"
+    excerpt: "The Manhattan District Attorney's Office has obtained boxes of documents from the former daughter-in-law of a Trump Organization official, after issuing a subpoena for financial records including those related to two Trump Organization-run Central Park businesses, according to a subpoena issued Wednesday.\n"
+    publishedDateTime: 2021-04-08T20:09:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lp7gAF6FjAk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/manhattan-da-jennifer-weisselberg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/manhattan-da-jennifer-weisselberg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 143
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319221118-01-trump-weisselberg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "JlpNJHwObsyAryeeBWGKSSj6EgFS491cCiEF9o0A1hDm+aNkRQnyswXQVjcKnzBuuC6io3JmzchrPMW51jQU4a38ldpu/h7BXfJn7rL2vJR7vjsy0l91isqRHqqiBCFBcnRKVHNVmOXx6dInKxCTvNj3D0lugqAIqZgEGbfeqiFn9c8WRy9gRJAO0SC20DHhKXr98t/zGlhQt3fq6vNkY2cV6b21loTthclV4Cj17a39WIYJvU17oHlAM0A2kFj5ioilOstlAW1Q2ul5ktsyX2vmIy0OdO63rCfTCxkVIiIgtrHCWbJGHECYdCktYsKNsjhWuVEzfDX6kBM2cvyRtetkKJD4WGYpNW8rUQD9Tmpuf2ZAKL+SxxsjL/1t210PXOnWUPxoRmEpX3Dt5u855rKntD+KfeMOc35KAhhf53TVUpwuJEdEqZeNxp1CoXOvNbOnCRZklTGEKsKbXbtov6NAjPLH+iQh4453RAdD0AOWVOVStLtSueokZRXO2oVeMhK9AE/nxyva6uCiXqEQww==;HViKNspRCfa9F5Luy3IBIg=="
 ---
