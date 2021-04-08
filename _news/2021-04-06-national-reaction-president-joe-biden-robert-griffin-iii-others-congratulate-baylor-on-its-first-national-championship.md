@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/sports/baylor-bears/2021/04/06/national-r
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/sports/baylor-bears/2021/04/06/national-reaction-president-joe-biden-robert-griffin-iii-others-congratulate-baylor-on-its-first-national-championship/?outputType=amp"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – live"
-    excerpt: "The White House press secretary, Jen Psaki, said Joe Biden is “clear eyed” about the challenges of advancing gun control legislation in Congress, where Democrats hold narrow majorities in both chambers. The president has called on the Senate to pass ..."
-    publishedDateTime: 2021-04-08T17:30:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f27548f08098d4e0587b5"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 110
-    images:
-      - url: "https://i.guim.co.uk/img/media/784b92cf19262663a19785a42c5c098f76f55c0b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=398e49aa601f0b6fd64f19c926465339"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "V5vaH7EjK984L4cJGjyUsCKNUqUH+rAn6rx1r6x0SfpkvTB/yKYESKJ5uEBGhbRr9FmFp+Y0jWPlE31moY4AFzYuQVpeWGtOsmfZPVwqrLMfq8FuKYG5Hy8OP3uVgIAj1Qd5puWuyXdCbJKiGzPWk4nsrLRCmE7Fk+/6EtVza0/ZUq29DM9kghAmDfefVy3IbcAhn7jqR8vP2Z249o7nHIP+WLpxk9MhjoAo9Ry7jP3gC4HVt+3hNUmZp9msaOS9WhER97wafvZklLkNAVQnoFtKMlFiVfNi7tafKd5vNcu7+1I/F0ald1UlrTuK8N4kHo2Ge909LlaQeK3z3LAyV5Lt8lHYCgxkfCv+oTh5nk98VTD4UN4wAUFml1SqZPAJBXGekh6Q0Lhlk/KjKYZgBd3bJDwtpy76zbkTpNrdccdGHryXy5A3Nkv2m8WyP1IPl7OZK94YDxDmy3A01pfMmGUOw4q+Gk4cGbQ46HkQuj3KR666ArBsiYAmDHJOGdKMGXdqD47fdVL1oFt/YhfmZA==;exB0ji0ujnHS6M3f8q3asA=="
 ---

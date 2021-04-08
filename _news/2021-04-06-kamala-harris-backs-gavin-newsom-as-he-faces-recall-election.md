@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -482,6 +482,20 @@ related:
     quality: 55
     images:
       - url: "https://s.hdnux.com/photos/01/17/40/52/20843145/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Kamala Harris asked Lamont to explore placing migrant youth in CT"
+    excerpt: "Vice President Kamala Harris walked up to Gov. Ned Lamont during her visit to New Haven March 26 and asked if there was a way for Connecticut to help the border situation, according to the governor’s Communications Director Max Reiss."
+    publishedDateTime: 2021-04-08T17:04:00Z
+    webUrl: "https://www.stamfordadvocate.com/middletown/article/Kamala-Harris-asked-Lamont-to-explore-placing-16086298.php?src=sthpdesecp"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/40/52/20843145/5/rawImage.jpg"
         width: 2048
         height: 1365
         isCached: true

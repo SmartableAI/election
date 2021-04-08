@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rOzjLARZHA/hunter-biden-employs-a-dont-remember-defense-on-book-tour"
     ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-employs-a-dont-remember-defense-on-book-tour.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-employs-a-dont-remember-defense-on-book-tour.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden challenged over claims about background checks at gun shows"
+    excerpt: "President Biden received immediate backlash on Thursday after a remark describing the purchasing of firearms at gun shows."
+    publishedDateTime: 2021-04-08T19:04:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8cnEGnQESc4/biden-challenged-claims-background-checks-gun-shows"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-challenged-claims-background-checks-gun-shows.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-challenged-claims-background-checks-gun-shows.amp"
     type: article
     provider:
       name: Fox News

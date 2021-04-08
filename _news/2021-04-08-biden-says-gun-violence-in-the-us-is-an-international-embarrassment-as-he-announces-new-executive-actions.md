@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\""
+    excerpt: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\" President Joe Biden announced executive action on guns today at the White House, calling gun violence in America is an \"epidemic.\""
+    publishedDateTime: 2021-04-08T19:29:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-gun-reform-executive-action-parkland-tony-montalto/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 90
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border"
     excerpt: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border President Joe Biden is set to unveil a list of executive actions tackling gun violence following a series of deadly mass shootings across ..."
     publishedDateTime: 2021-04-08T14:49:00Z
@@ -174,6 +188,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mjWvSH9EDjKdq3pscow0V6k3Q5mEWU6wKsGC2IO9IdUYYZENc8V757j3rHvIL1VNbx3hGDSHDlD6BxATxiptqbFfNLz0C4ed0ldpK/BqpoPDTgl7pRef0rGBQvCuTDZF3IB54xHC2HCxrlIN+3dDRnfqr9qIhw1L+yBrsEJQc0yeLFbfywBEG041gnB9z6Ia4E313UrVVjnwMk2JON0RVjAbIZXHLzEwWF/1poeukq4ms+/C5D3MwX0XOVRhn//lCsz3o5GfTUD912aWvwM2Ls8kIiS/U+j7vx7iJphc6Wi/1DUVQfM/f7IKYa4tg5a+Km6iFZGx00YpxS4xdg8CqrG7GywUHZw32idNXMsdaf0=;A3dBB1bDc5JNjD3feouLzg=="
+secured: "7iWfdK43rbmqlqRO3XXmzp9ZTC7tW7PQ9T9hDebDB3pfRmXKfQGZsHfOzkXbeMWzoGdlLek4ZSqaVDSP0ArDGdeV5g/l1PdK0+reqTTsGy/B/QgvnLkYdYCeDJkX1+KWorImZs8E0E18MJU2vc/aMU3BCM2M0eL9Uoi74GIrD9ClTSAVlI+jHdtwjSuDwQaZ1pizwMJVzuzbbX/NZAqMjfl9wzPmQZnLJYByoM/27ueZHBo8ICoXtS+3l1FsCS2SBnCuEa0O4lyj3izxwOH/9Mnwofjgxo1kxkg+Zjkfw8rp12GPmddzu+b26pfzfyKMTSztsJq1yQZBOra69zrSKOLieAJMCJQLgZ1s+1bvzFQG9TzdUmOOwkR2gsmf8rQmjEntaBkEZS3XlzIByjujBPDOayjCtuK98+4C+5qrj+IuiQkZueai2QqDF5UEAN8pDpSdVz0CgWcYm+lcTf+eOs5oaBM9R0gLV7Oz1BQe8ztD0WJr/dIzfnVQH1BJKbucROW5ENVt/gCqYZkSZXX3CA==;yzoUzHJTRd3Spt7ICQfLbA=="
 ---
 

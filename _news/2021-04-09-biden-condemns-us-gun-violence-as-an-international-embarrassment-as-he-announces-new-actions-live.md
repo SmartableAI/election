@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – live"
-excerpt: "The White House press secretary, Jen Psaki, said Joe Biden is “clear eyed” about the challenges of advancing gun control legislation in Congress, where Democrats hold narrow majorities in both chambers. The president has called on the Senate to pass ..."
-publishedDateTime: 2021-04-08T17:30:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f27548f08098d4e0587b5"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f27548f08098d4e0587b5"
+excerpt: "Gun violence prevention advocate and former Arizona congresswoman Gabrielle Giffords has also tweeted out her own version of the pic where she elbow-bumps Joe Biden at the White House after the president announced executive actions. “I’m with you ..."
+publishedDateTime: 2021-04-08T19:29:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f49318f087dc3964a36ea"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f49318f087dc3964a36ea"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
 type: article
@@ -31,23 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "National Reaction: President Joe Biden, Robert Griffin III, others congratulate Baylor on its first national championship"
-    excerpt: "Find more Baylor coverage from The Dallas Morning News here."
-    publishedDateTime: 2021-04-06T04:54:00Z
-    webUrl: "https://www.dallasnews.com/sports/baylor-bears/2021/04/06/national-reaction-president-joe-biden-robert-griffin-iii-others-congratulate-baylor-on-its-first-national-championship/"
-    ampWebUrl: "https://www.dallasnews.com/sports/baylor-bears/2021/04/06/national-reaction-president-joe-biden-robert-griffin-iii-others-congratulate-baylor-on-its-first-national-championship/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/sports/baylor-bears/2021/04/06/national-reaction-president-joe-biden-robert-griffin-iii-others-congratulate-baylor-on-its-first-national-championship/?outputType=amp"
+  - title: "Biden says gun violence in U.S. is an 'embarrassment’"
+    excerpt: "News Agency Biden says gun violence in U.S. is an 'embarrassment’ Posted . President Joe Biden called gun violence in the U.S. an 'epidemic' as he announced limited measures to"
+    publishedDateTime: 2021-04-08T18:25:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE7O393Z"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 50
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/y7RD0fC7kTOLTBYj56ugRBLXv4U=/1200x630/filters:focal(2230x1854:2240x1844):no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/NF23SSXXVTSE4KW7ESAYBHIIFQ.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.reuters.com/resources/r/?d=20210408&i=OVE7O393Z&r=OVE7O393Z&t=2"
+        width: 960
+        height: 540
         isCached: true
 
-secured: "roxPnQ/+lPxEe1MCJyUV9+mP/Fwefk0rsESHLCj37qMaOdez7/mSxUh3Zsr9z6eJJ29jahc92nBa1t7X9vEIhDTMEr7FtWPrmBCWEjyfTQwguTqIc8cUwN3iZ3iwouHBU5lKe0uLXYFFcsVNA9Un/KykwblknSbIxZhbhHvVNsC/cbg2BiNCiQEn70TAtB+jRlITmnCYo6AXlXAj6Tn3nNZ7jiBD6/LFp43+hWMaahs2MW77mzrOpTYGBzAheYz9KUlo7ot54tdXpvmvU4qV/S1utb9XtTnP/+M+ucH68ub4cQcWz1ssPsw7q+39d5ISBGD8KMW4WS3p9T8cR4iP3a5i9hpRqHDZwovqGi2Dh4I=;/tY4RgiQBgSiTS68xIoxSw=="
+secured: "hVnLvXYnAnKJGi+fInAcn/hwUH8CzT1ACfVxCK/2r5tISZRgaeZ4tP/yYKV05s7nT/8awkwum6eN28yhzPRHfFq41fazSFD9psVP48kgoaNyzsJmttjNdrIPuJi5KKsr3qnVjnIAVnkb+xivo82RqfmCkiis68ci960rnz6Jb+aIihcS/I8JUiM8h5smKG2Xz5KkVs6+N7R32SoGXsumCK2A2CVsUWQkokfnnZ1sIMTMorQrEhJ0HBetR3sSBj/tk31QoH3rEp0tOldc6SKWDPtH+4bNBxJMvMCPxbfWVrJrAjpvj+dB4Gim5rlOlP4GFPWqrXBxAUl5JDRAyPOFvOELVTWnkq2LAsu2Qh3/uDs=;XOokr/FqF674Gao0usM4nQ=="
 ---
 

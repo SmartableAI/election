@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump Urges Ron Johnson to Run for Re-Election in Wisconsin: 'Run, Ron, Run!'"
+    excerpt: "In a statement released by Save America PAC Thursday, Trump encouraged Johnson to \"Run, Ron, Run!\" Trump's public statement comes with more than a year to go until Johnson could be re-elected and even acknowledged that Johnson himself has not announced ..."
+    publishedDateTime: 2021-04-08T19:00:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-urges-ron-johnson-run-re-election-wisconsin-run-ron-run-1582136"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-urges-ron-johnson-run-re-election-wisconsin-run-ron-run-1582136?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-urges-ron-johnson-run-re-election-wisconsin-run-ron-run-1582136?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1773959/senator-ron-johnson-wisconsin.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit"
     excerpt: "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ..."
     publishedDateTime: 2021-04-02T16:52:00Z
@@ -93,6 +109,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump endorses Wisconsin Sen. Ron Johnson, encourages him to run in 2022"
+    excerpt: "MADISON, WIS. — Former President Donald Trump offered his “Total Endorsement” of Wisconsin’s Republican Sen. Ron Johnson on Thursday, encouraging him to seek a third term as he mulls whether to run again or retire. Johnson’s seat in battleground ..."
+    publishedDateTime: 2021-04-08T18:39:00Z
+    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-trump-endorses-johnson-20210408-erpkdcgytvgxvpio353a2tmwvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-trump-endorses-johnson-20210408-erpkdcgytvgxvpio353a2tmwvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-trump-endorses-johnson-20210408-erpkdcgytvgxvpio353a2tmwvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/9rbKM6LwPE3HotSopY0UxwnLtWI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OVPGT475W2XTICONE6KTJSHUFM.aspx"
+        width: 1200
+        height: 796
+        isCached: true
   - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
     excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
     publishedDateTime: 2021-04-04T02:23:00Z
@@ -124,6 +156,22 @@ related:
       - url: "https://i.insider.com/606ee08430004b0019b2694b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Former Trump campaign manager advising Jenner on potential California gubernatorial run"
+    excerpt: "ADVERTISEMENT Parscale was the digital guru for former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar slams Biden admin for ..."
+    publishedDateTime: 2021-04-08T19:18:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 117
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/jennercaitlyn03112016getty.jpg"
+        width: 645
+        height: 363
         isCached: true
   - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
     excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
@@ -202,6 +250,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump endorses Wisconsin's Johnson, encourages him to run"
+    excerpt: "MADISON, Wis. (AP) — Former President Donald Trump offered his “Total Endorsement” of Wisconsin's Republican Sen. Ron Johnson on Thursday, encouraging him to seek a third term as he mulls whether to run again or retire. Johnson's seat in battleground ..."
+    publishedDateTime: 2021-04-08T18:31:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-endorses-Wisconsin-s-Johnson-encourages-16086827.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-endorses-Wisconsin-s-Johnson-encourages-16086827.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-endorses-Wisconsin-s-Johnson-encourages-16086827.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "US Lifts Trump Sanctions On Hague Prosecutor, Seeking Cooperation"
     excerpt: "US President Joe Biden on Friday revoked sanctions imposed by Donald Trump on the top prosecutor of the International Criminal Court as the new administration seeks a more cooperative approach on a row that has alienated allies."

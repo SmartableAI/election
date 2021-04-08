@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\""
+    excerpt: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\" President Joe Biden announced executive action on guns today at the White House, calling gun violence in America is an \"epidemic.\""
+    publishedDateTime: 2021-04-08T19:29:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-gun-reform-executive-action-parkland-tony-montalto/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 90
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border"
     excerpt: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border President Joe Biden is set to unveil a list of executive actions tackling gun violence following a series of deadly mass shootings across ..."
     publishedDateTime: 2021-04-08T14:49:00Z

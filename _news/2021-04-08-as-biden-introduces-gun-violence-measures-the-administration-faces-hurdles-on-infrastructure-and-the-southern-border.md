@@ -173,6 +173,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\""
+    excerpt: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\" President Joe Biden announced executive action on guns today at the White House, calling gun violence in America is an \"epidemic.\""
+    publishedDateTime: 2021-04-08T19:29:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-gun-reform-executive-action-parkland-tony-montalto/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 90
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "nDZasT9clrKUyUz2RzD5LeqZpBWHb1ecBH7Se7cVLJhdPy47Ju2zYzf7u7GQTpg5v+UpoP8pgQi+fvENCef9M8INXK+LbQOXKQYSQ5cOw8BJAcK3ah4mwAOpfp7njlWjnupMh8QfdudyIPk1Sd7h9YuJSDRo45yacaX89WH7f0bT3cMlV/Qyxirxc881bfcMaKUDaTcvVlqk1hPIJMicJTQKQPFTQOr9pBBupulUPbtjlIZggAQNJ98MbzzdVpZGV43CyYa2/c8QaxiXpOYa63+/NG2yuiOlzst4mA4JcZa7c19VgzsM0Ljl8R2veKANCujhcfBplzHQ3DZB3005wIkfNHx5vq+AAPaXElMDqC99hkutifdtZsXXClcvORcOefpxa8oip11FSZiQOa3ICPDJF5Yvp/44Sbs7hqurBJYdwrlGl+WFuczF0CkyV4SChk/44/RQlRwY2HvrFP2RQaNe4dVl3Fm/D7e1k1Wx2i1cLABhb81bSfX8TvjJjqdE+30W0mCy7dspZUHo/GeD4g==;jFhCzbw/TwsrRae9V9Rwtw=="
 ---

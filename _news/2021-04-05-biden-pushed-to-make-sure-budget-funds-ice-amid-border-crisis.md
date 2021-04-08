@@ -61,6 +61,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden challenged over claims about background checks at gun shows"
+    excerpt: "President Biden received immediate backlash on Thursday after a remark describing the purchasing of firearms at gun shows."
+    publishedDateTime: 2021-04-08T19:04:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8cnEGnQESc4/biden-challenged-claims-background-checks-gun-shows"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-challenged-claims-background-checks-gun-shows.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-challenged-claims-background-checks-gun-shows.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Inside Biden White House's ties to dark money group seeking to pack Supreme Court"
     excerpt: "Both White House press secretary Jen Psaki and President Biden's judicial nomination point person Paige Herwig previously worked for Demand Justice."
     publishedDateTime: 2021-04-08T13:54:12Z

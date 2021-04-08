@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden challenged over claims about background checks at gun shows"
+    excerpt: "President Biden received immediate backlash on Thursday after a remark describing the purchasing of firearms at gun shows."
+    publishedDateTime: 2021-04-08T19:04:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8cnEGnQESc4/biden-challenged-claims-background-checks-gun-shows"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-challenged-claims-background-checks-gun-shows.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-challenged-claims-background-checks-gun-shows.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hunter Biden details 2019 family drug intervention a month before father announced presidential campaign"
     excerpt: "In his forthcoming book \"Beautiful Things,\" Hunter Biden delves into his struggles with addiction, including a dramatic intervention that his family staged for him in March 2019."
     publishedDateTime: 2021-04-05T11:46:30Z
