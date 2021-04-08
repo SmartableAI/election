@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-sev
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs"
 type: article
 quality: 124
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,19 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Former Vice President Mike Pence memoir set for 2023 release"
-    excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-    publishedDateTime: 2021-04-07T22:03:00Z
-    webUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
+  - title: "Mike Pence joins Simon & Schuster’s political roster with two-book deal"
+    excerpt: "Mike Pence, former vice president of the United States, will write his autobiography and another book for Simon & Schuster, the publisher announced Wednesday. In doing so he joins some serious political families on the Simon & Schuster author roster ..."
+    publishedDateTime: 2021-04-07T21:29:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal"
+    ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal?_amp=true"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg"
-        width: 3000
-        height: 2221
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cdab4c8/2147483647/strip/true/crop/480x314+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8HvxbQCEsFU%2Fhqdefault.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Mike Pence to publish book, covering political career from Indiana to the White House"
+    excerpt: "Wednesday was a busy day for former vice president Mike Pence. Pence is publishing his first autobiography with publisher Simon & Schuster, the company announced in a news release. The book announcement comes the same day Pence announced he is launching ..."
+    publishedDateTime: 2021-04-07T21:02:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/04/07/former-vice-president-mike-pence-book-indiana-white-house-maga/7128861002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7128861002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7128861002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "c1bnp9Jz6xjNPW0BVQIqrAhoLYLvtsMm3e8OUF/R6y1YccpqM3Yf0JIlMAyMapf5DIUCrxH3DHrUaRXbWEBkI1i9GMLWcBTxo/6vTFeoeKECLMHIrgO6DN8FFCdSeyiMQgB86egxWJ4q/1muJ/VMDyMo08CP3NbmHKOHr0s9d3lV3xcO4QtRFqsVvDZ/HgluuP6GjRvN4X+LIs8sj0KIFQJKUhSWV8iKuhg3/i+/Flkpfe9kbpiw2SuXoPFJYEEDL0Z/ePCoFUYw9SYe8/jfgL60C8NcAX2cHag+iBhLGrF2o3hzNAt04L0H7/tocBa3wDe5nFa7Ry3vL8xykqGDPCLsaCIJBF3xv/yfMY21Ue4NZ/+o01jmCZ4v41F2gMVaE00+GL2oXRA6+Om9yfVOY9FnXLfqfj4Ztef+d2W0/aGrYYSj4hfTmTgVtZ0sxepQGbgCiIxPMFi30ctRgREdmCHPn9Oum7oAxZfJG3bXuZQMT08bSs2IqRaR4by/E4cqO5293dAMqU3fBzIzoqHHtQ==;oRBiOqy8mtp/x/iXbFwORQ=="

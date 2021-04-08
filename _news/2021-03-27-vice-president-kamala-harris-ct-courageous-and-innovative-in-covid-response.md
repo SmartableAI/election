@@ -156,13 +156,13 @@ related:
   - title: "Vice President Kamala Harris puts D.C. condo on market for $2 million. Look inside"
     excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1.99 million. Exterior of Apartments at ..."
     publishedDateTime: 2021-04-07T21:49:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article250498814.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article250498814.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article250498814.html"
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article250498814.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article250498814.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article250498814.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 69
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"

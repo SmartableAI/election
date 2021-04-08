@@ -95,6 +95,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "As press embraces Biden agenda, White House leaks have disappeared"
+    excerpt: "No such thing anymore,\" the paper says. There aren’t even authorized, self-serving leaks in the mold of \"Joe Biden slammed his fist on the desk and said ‘We’ve got to get this done, failure is not an option.’\" The Trump White House was the leakiest ..."
+    publishedDateTime: 2021-04-08T07:23:00Z
+    webUrl: "https://www.foxnews.com/media/as-press-embraces-biden-agenda-white-house-leaks-have-disappeared"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Psaki-318-3.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2YufiESVmc94yNQpjaGWVExqfRYfQ6qDH9QPTKIz+Szar64OYeicYTA0w7hsC/Z0oOAQzvuNYaC0xhcN+WuN6Uv/DMnUfXWBKf9fDDSYiTK+xeESWKW/ZKkCU4OkhFcfz1fuiG/7E4uo2JG3Cd5wqgtjRiCzbIe2AKjrsVuKw+arVqQoukzz08sIDjTkGlHGllZQuqzze7SID95krU0U8FwUHD7U4M0IUIYqx43qafHO5xbeTlZ8aERqjOlplLasxz+NUKNCczLRo1hAE8qFuDsY95VsPF7oASOh4USeTkx4JaFbFmfeCwZ6TOsaOqdveWaj5wqbbptkIFtPRY0TIbmkT6tPqixwqOb7fG6IT3k=;YKSfLnGtliqO7PXyx73SJg=="
 ---

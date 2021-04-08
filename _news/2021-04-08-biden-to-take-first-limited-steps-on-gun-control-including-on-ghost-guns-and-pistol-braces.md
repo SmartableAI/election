@@ -63,6 +63,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden to announce executive actions on gun control, name ATF nominee"
+    excerpt: "WASHINGTON — President Joe Biden is expected to announce a series of executive actions Thursday on gun control and to nominate a prominent gun control advocate to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives, White House officials said."
+    publishedDateTime: 2021-04-07T22:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announce-executive-actions-guns-name-atf-nominee-n1263385"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263385"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263385"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2019_32/2960651/190805-gun-store-texas-2009-ac-746p_f75a3534f260768c4cd06851439901ce.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Watch Live: Biden Speaks on Infrastructure Plan"
     excerpt: "new video loaded: Watch Live: Biden Speaks on Infrastructure Plan President Biden delivers remarks on his $2 trillion American Jobs Plan, which aims to overhaul the nation’s infrastructure. Advertisement NOW PLAYING 1:36 1:38 Advertisement 0:57 1:33 ..."
     publishedDateTime: 2021-04-07T17:17:00Z

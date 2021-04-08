@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "As press embraces Biden agenda, White House leaks have disappeared"
+    excerpt: "No such thing anymore,\" the paper says. There aren’t even authorized, self-serving leaks in the mold of \"Joe Biden slammed his fist on the desk and said ‘We’ve got to get this done, failure is not an option.’\" The Trump White House was the leakiest ..."
+    publishedDateTime: 2021-04-08T07:23:00Z
+    webUrl: "https://www.foxnews.com/media/as-press-embraces-biden-agenda-white-house-leaks-have-disappeared"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Psaki-318-3.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "1rDr+YBw+J2+aSSeMoSz9mmhmNUYEgBaoaJgHxgV6feL1zhGPJ2LnOf4muhQnZsTD6nXGLPzZCRhHAEpm3bSeg3RJLfgpBPHxXhcsj1aI/bmxiB/ENjHFNSs/PIms7EnFNgs/6TaE2kVXTHVAnFuqrU/eJDutl+ykfF2AsJdwHXkbfSWhFGeHCThU6xAdlOblavgZUEGNraxgiBN8wInj33wj0Vrx0DSXD3cIokGQU29fhbKMfCxnnpPpLAuuq090brMdYPk767KC0n+mgc49LTTo1Em/E5SchlHVZlyHgDGZgu2WMwVdoE8SQH6Yxv+tfQj0k+LCrtblMwA3Dvi+B4KcrhmDA8xuV9gIt1jMQc=;JwsANSqCRvbNuGrY7xGgBw=="

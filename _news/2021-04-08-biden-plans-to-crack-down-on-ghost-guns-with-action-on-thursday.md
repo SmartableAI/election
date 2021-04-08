@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
+    excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
+    publishedDateTime: 2021-04-08T00:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/8cb0f1df4d97cb291848bdcec97186e30d5ec37d/0_74_3938_2364/master/3938.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=359d318f8616008e4268fcc2c6acc0f1"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden to unveil 6 executive orders to curb gun violence, nominate a permanent ATF director"
     excerpt: "WASHINGTON – President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act the president's long-held campaign ..."
     publishedDateTime: 2021-04-08T00:14:00Z

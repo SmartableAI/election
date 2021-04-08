@@ -2,118 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2021-02-03-washington-post-manhattan-da-considering-prosecuting-steve-bannon-after-trump-pardon.md",
-      "title": "Washington Post: Manhattan DA considering prosecuting Steve Bannon after Trump pardon",
-      "excerpt": "The Manhattan District Attorney's Office is considering bringing state charges against Steve Bannon related to the same border wall fundraising campaign fraud scheme for which he was federally charged and then granted a presidential pardon, according to The Washington Post.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v9ZYdWYC3s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v9ZYdWYC3s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210203063618-file-steve-bannon-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html",
-      "publishedDateTime": "2021-02-03T06:15:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-biden-says-no-one-in-our-family-will-be-involved-in-government-decisions.md",
-      "title": "Biden says ‘no one in our family’ will be involved in government decisions",
-      "excerpt": "President Biden said he intends to keep his family and his administration separate as reports surrounding the business dealings of his son and brother raised questions of potential impropriety.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314f29b6-b9c9-4c05-b3d2-ae7a2ac645a0/68c889cf-b668-4b8c-a9f0-a272442f7d6f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
-      "publishedDateTime": "2021-02-03T06:07:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-03-trump-powers-gop-schism-over-taylor-greene-and-cheney.md",
       "title": "Trump powers GOP schism over Taylor Greene and Cheney",
       "excerpt": "The Republican civil war hits a critical moment on Wednesday over the fate of two prominent lawmakers who represent rival visions for a party torn by the toxic but still powerful influence of Donald Trump.\n    \n",
@@ -1354,6 +1242,114 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-trumps-oval-office-meeting-with-4-election-conspiracists-spiraled-into-a-chaotic-multi-hour-screaming-match.md",
+      "title": "Trump's Oval Office meeting with 4 election conspiracists spiraled into a chaotic multi-hour screaming match",
+      "excerpt": "\"Are you out of your f---ing mind?,\" White House advisor Eric Herschmann told conspiracy-wielding layer Sidney Powell at one point, Axios reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2",
+      "originalUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff8b9cdd184b30018aadd87?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-meeting-with-election-conspiracists-spiraled-into-screaming-match-2021-2?amp",
+      "publishedDateTime": "2021-02-02T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-live-updates-biden-meets-with-republican-senators-on-coronavirus-aid.md",
+      "title": "Live Updates: Biden meets with Republican senators on coronavirus aid",
+      "excerpt": "President Joe Biden on Monday night said that he's unwilling to settle on an insufficient coronavirus aid package.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6z8Pf8Cya2s/live-updates-biden-2-2-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 535,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ee85791-b1c2-4b3e-9f69-c5782ed6f4dc/031107ab-fd5f-4504-b7b8-bb97e033f264/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
+      "publishedDateTime": "2021-02-01T23:01:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

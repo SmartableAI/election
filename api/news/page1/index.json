@@ -14,7 +14,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 599,
+      "heat": 619,
       "tags": null,
       "images": [
         {
@@ -175,7 +175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -283,7 +283,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -773,6 +773,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-08-mike-pence-joins-simon-schusters-political-roster-with-two-book-deal.md",
+      "title": "Mike Pence joins Simon & Schuster’s political roster with two-book deal",
+      "excerpt": "Mike Pence, former vice president of the United States, will write his autobiography and another book for Simon & Schuster, the publisher announced Wednesday. In doing so he joins some serious political families on the Simon & Schuster author roster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/cdab4c8/2147483647/strip/true/crop/480x314+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8HvxbQCEsFU%2Fhqdefault.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal?_amp=true",
+      "publishedDateTime": "2021-04-07T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-mike-pences-advocacy-group-to-hone-in-unaccompanied-minor-surge-at-border.md",
       "title": "Mike Pence's Advocacy Group to Hone in Unaccompanied Minor Surge at Border",
       "excerpt": "Former Vice President Mike Pence launched an advocacy organization on Wednesday that said its goal is to \"promote the pro-freedom policies\" in place during former President Donald Trump's administration and protect those policies from individuals on the ...",
@@ -825,21 +877,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-mike-pence-to-publish-book-covering-political-career-from-indiana-to-the-white-house.md",
-      "title": "Mike Pence to publish book, covering political career from Indiana to the White House",
-      "excerpt": "Wednesday was a busy day for former vice president Mike Pence. Pence is publishing his first autobiography with publisher Simon & Schuster, the company announced in a news release. The book announcement comes the same day Pence announced he is launching ...",
+      "path": "_news/2021-04-08-donald-trump-is-not-too-queens-for-iowa.md",
+      "title": "Donald Trump is not “too Queens” for Iowa",
+      "excerpt": "CBS News Correspondent Julianna Goldman, Ed O'Keefe of the Washington Post, Mark Leibovich of The New York Times Magazine, and the Atlantic’s Jeffrey Goldberg discuss Trump’s newfound Iowa appeal.",
       "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/politics/2021/04/07/former-vice-president-mike-pence-book-indiana-white-house-maga/7128861002/",
-      "originalUrl": "https://www.indystar.com/story/news/politics/2021/04/07/former-vice-president-mike-pence-book-indiana-white-house-maga/7128861002/",
+      "webUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "originalUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/20/PIND/c81436e0-3d7b-4731-aaa3-94b9139346e5-01202021_Pence_GH_003.jpg?auto=webp&crop=3730,2099,x0,y565&format=pjpg&width=1200",
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/07/c1a68032-f68e-4bcd-ba4a-c86f3966bce4/thumbnail/1200x630/3c6d955cdc8e82a852c383f95c1b2883/ftn-panel3-0830-438452-640x360.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -847,59 +899,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/7128861002",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7128861002",
-      "publishedDateTime": "2021-04-07T14:02:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "publishedDateTime": "2021-04-07T14:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mother-of-all-book-deals-mike-pence-signs-seven-figure-deal-for-memoirs.md",
-      "title": "Mother of all book deals: Mike Pence signs seven-figure deal for memoirs",
-      "excerpt": "Mike Pence has signed a two-book deal for his memoir that is reported to be worth millions of dollars, making him one of the first of former president Donald Trump’s inner circle to announce such a lucrative arrangement. Pence’s autobiography ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/29dfb577d506d79987e35da7b7905dcb3c9f85ed/0_99_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b233b17be0cafb435747a3f167ed844b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs",
-      "publishedDateTime": "2021-04-07T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -916,7 +925,7 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Donald Trump"
       ]
     },
     {
@@ -928,7 +937,7 @@
       "originalUrl": "https://chicago.suntimes.com/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -950,6 +959,58 @@
         "name": "Chicago Sun-Times",
         "domain": "suntimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-pence-launches-group-as-trump-officials-line-up-new-roles.md",
+      "title": "Pence launches group as Trump officials line up new roles",
+      "excerpt": "WASHINGTON — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence’s Advancing American Freedom, which could serve as a springboard for his own ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 900,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-07T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1181,58 +1242,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-ex-trump-aide-stephen-miller-launches-legal-group-to-fight-democrats-in-the-courts.md",
-      "title": "Ex-Trump aide Stephen Miller launches legal group to fight Democrats in the courts",
-      "excerpt": "Washington — Stephen Miller, who was a top aide to former President Donald Trump and the driving force behind his hardline immigration policies, has launched a new legal group that aims to take the fight against President Biden and Democrats' agenda to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/stephen-miller-legal-group-democratic-lawsuits/",
-      "originalUrl": "https://www.cbsnews.com/news/stephen-miller-legal-group-democratic-lawsuits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/07/d7884123-3798-45b6-beec-647627a4fcaf/thumbnail/1200x630g3/12410e2f8128157dac1ed9d9374c251e/ap21077576679504.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/stephen-miller-legal-group-democratic-lawsuits/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stephen-miller-legal-group-democratic-lawsuits/",
-      "publishedDateTime": "2021-04-07T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

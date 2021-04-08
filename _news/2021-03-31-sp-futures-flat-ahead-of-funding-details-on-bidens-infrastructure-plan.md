@@ -335,6 +335,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "U.S. Senate readying legislation on semiconductors, Biden says"
+    excerpt: "WASHINGTON (Reuters) -U.S. Senate leaders are preparing to introduce legislation on semiconductors, President Joe Biden said on Wednesday as the nation wrestles with an ongoing shortage of the critical technology used in a range of devices from cars to ..."
+    publishedDateTime: 2021-04-07T20:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-chips-shortage-congress-idUSKBN2BU32M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU32M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU32M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557642265&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361P3"
+        width: 795
+        height: 545
+        isCached: true
   - title: "Democrat: Biden infrastructure plan needs more funding for affordable housing"
     excerpt: "Democratic Rep. Ritchie Torres (N.Y.) on Sunday criticized President Biden Joe Biden Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott companies amid voting ..."
     publishedDateTime: 2021-04-04T16:15:00Z

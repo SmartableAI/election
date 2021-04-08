@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden to announce executive actions on gun control, name ATF nominee"
+    excerpt: "WASHINGTON — President Joe Biden is expected to announce a series of executive actions Thursday on gun control and to nominate a prominent gun control advocate to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives, White House officials said."
+    publishedDateTime: 2021-04-07T22:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announce-executive-actions-guns-name-atf-nominee-n1263385"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263385"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263385"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2019_32/2960651/190805-gun-store-texas-2009-ac-746p_f75a3534f260768c4cd06851439901ce.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Watch Live: Biden Speaks on Infrastructure Plan"
     excerpt: "new video loaded: Watch Live: Biden Speaks on Infrastructure Plan President Biden delivers remarks on his $2 trillion American Jobs Plan, which aims to overhaul the nation’s infrastructure. Advertisement NOW PLAYING 1:36 1:38 Advertisement 0:57 1:33 ..."
     publishedDateTime: 2021-04-07T17:17:00Z
@@ -78,6 +94,6 @@ related:
         height: 550
         isCached: true
 
-secured: "qD9smuqxvYr7fe1xj03Na4aU3MisQKPP9qI1Doyc6+a/dScav6QE8n1333vjF0qYcssHxYNalQQNLM7fFLqqNWHc82n/NxAekYOLXbyrnaYBcvRE/N5nyX7z/x+YvZmH5n34w09YAXDQ3rUTE0sXThzS2yErCXE0mI5U9Pu2kpYbV7eemdcIR1cnqCS3jvv6LA0N2lWzR76R6kQbMje1zNQ5WTH4GFYFMHgpP14ovmUSskFsQnhPQi7Lkb5Dd5mBv9eo60+k7Lj9atDiSE53MEFSln+RekbQTlwv3S4e1xcxzKXc4a19kfQiXGnpZe6hMsdyW1t4MYxdLfU/J+kVSVsdpJKJd6pypv763hO3r7Q=;G2IqxwwgxYq77czo7CYJXA=="
+secured: "NTxUa6T14KTl3XYJtzvcp3GKeUZtX70arRi+MU584IggvLtMmdFHGsjNn7ZBmprYFENkuS+apFtbYoAojywvD2UMphgkJvWNTJhuUb3ONOzEYAtYNqnXhE8FBIDBUxDU9ocCrVKuiOM0M8lfl6CCcAljneVKEABd4WUaOZrGc+Syf/qfknIZ1yqSK99WNOX/ZqdhSu+S/mJq7UQRbcCddCjB+6OxZZBAbsxe8pAYvJF+V682E1THhBwaDr+II+GwGKl30U25NiIa3Q5BvGMd1Xi9Hyb7o3EnGXA/niGevEohiHB7j2C55v2k32M7OGJS/8jBDgBBxrcSk1ESaoSDEMvnIJDY9gYA5NYFfsV+J1E=;nmFV7KmF/It+dUT2PsL7sg=="
 ---
 

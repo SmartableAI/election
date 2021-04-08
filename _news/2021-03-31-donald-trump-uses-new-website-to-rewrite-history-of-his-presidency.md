@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump pushes back on NYT story on campaign refunds"
-    excerpt: "Former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports will backfire on ..."
-    publishedDateTime: 2021-04-05T20:11:00Z
-    webUrl: "https://thehill.com/homenews/campaign/546545-trump-pushes-back-on-nyt-story-on-campaign-refunds"
-    ampWebUrl: "https://thehill.com/homenews/campaign/546545-trump-pushes-back-on-nyt-story-on-campaign-refunds?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546545-trump-pushes-back-on-nyt-story-on-campaign-refunds?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Gaetz sought blanket pardon from Trump White House: report"
     excerpt: "reportedly sought a blanket pre-emptive pardon from the White House during the final weeks of President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden ..."
     publishedDateTime: 2021-04-07T00:31:00Z
@@ -143,17 +127,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Theatre project lets Trump accusers tell their stories"
-    excerpt: "The Pussy Grabber Plays – eight short pieces premiering in New York on Monday – humanise the people behind sexual misconduct allegations against the president Lucia Graves Journalist and writer Natasha Stoynoff has co-written a play about Donald Trump ..."
-    publishedDateTime: 2021-04-01T11:00:00Z
-    webUrl: "https://www.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
-    ampWebUrl: "https://amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
   - title: "Donald Trump elevates a loyal Florida operative to shore up his post-presidency political operation"
     excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. Former President Donald Trump has tapped longtime Florida political operative Susie Wiles to help lead his post-White House political operation, Trump advisors ..."
     publishedDateTime: 2021-03-31T22:28:00Z

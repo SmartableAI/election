@@ -47,7 +47,23 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
+    excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
+    publishedDateTime: 2021-04-08T00:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/8cb0f1df4d97cb291848bdcec97186e30d5ec37d/0_74_3938_2364/master/3938.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=359d318f8616008e4268fcc2c6acc0f1"
+        width: 600
+        height: 360
+        isCached: true
 
-secured: "EYG23DEcBGoYnzsyn7u6C1n6uFH5N+/Zn25QUryk5IRZI2jr25HhH7SrQL2d0AzIdM9fd2G6FS0wgj689PTkmYc5yOgdcfYJ9+hKBrfgmycmCe5XoiWD+eTL2ISsJntJnxhyqfTlFRQHoOv5oZGYNUDhebvzQ5Uqi2R7HRmuKoJq1ZeMXzvXWT1cIW65t6hP3F4rSge9h3Lyp2vzJ7FEP9nG0a5o7d+wnWFiB7v495IYjE8s6qntOEPGLVmYK9RBVhf+4ffGACq+ABFpcnxq1+6RUGFan2kOBlsdwDTH+wkRJni/UnnSW+Pj6rKqrZ/aLiiRwVs0hjSDSrfCXIH4Hz9E56LdlXZmfX9C/WJ5Ia8=;iH1SJLn9Js8Mr9CeNRgUPg=="
+secured: "kg/CX5ukygVr4KvyKAN3tKgBtk816mCBT0e702BwPaN5YBBSJ8byvuKp70tqRAPfMcm/hpRVruxofVWNbq5Fl5VNnWrYK5B/swlQHNdwlQiQkUiq0bVRpjFGIRsxArdbOqcMpQLmOWJdyl+BRFDTD5KWzbs1VXlwtQPymY0iUpJY+a1H8yjVDWhMh/b9APPLXCDaZIvu6fspVKWkNlqsTOmtZvDYIDD01N+24H2p4sDe3l7DEB301QIX8laHnNJuRTC02MC2gqhdQJx2TulgYMhWOuzS8Iyb01/MYlKa48rTZM8/T03J5XExczkxoQVkPgqWBLAYOsvyiEOStVcOHjCesLYDEGCgc4EqeWhzSnfKRsppiqIXvads9af0Gcx98Lac7q5ecgS+5l2KVb+wDejikOsqZ1U215AUPjSgo7ADgo9vs/ENqcjMY8YIgIlJIxdlCwle7bcfu094vQrHmLW6t3P8kfE7rXPknQM1+rE4W96wnzodVzid4eFvIjmlB6gjJCTqc66CPydObwktZw==;LWMnj2qsk3jFcauYkpN7iQ=="
 ---
 

@@ -3,18 +3,18 @@ category: news
 title: "Vice President Kamala Harris puts D.C. condo on market for $2 million. Look inside"
 excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1.99 million. Exterior of Apartments at ..."
 publishedDateTime: 2021-04-07T21:49:00Z
-originalUrl: "https://www.miamiherald.com/news/nation-world/national/article250498814.html"
-webUrl: "https://www.miamiherald.com/news/nation-world/national/article250498814.html"
-ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article250498814.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article250498814.html"
+originalUrl: "https://www.sacbee.com/news/nation-world/national/article250498814.html"
+webUrl: "https://www.sacbee.com/news/nation-world/national/article250498814.html"
+ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article250498814.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article250498814.html"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -257,6 +257,6 @@ related:
         height: 800
         isCached: true
 
-secured: "7ukjg5xIVlwtIG7v5hWjvkNIkEs7Kc2TSKDZVfTjB5RITuQRSPOasAu62sRlGvRKplX8z3iJx9GOuW55x9+mwcqm+am4YyTmRtpH1PQ9ZsD/XzCOFkIl8O+gbR7K2TJEp6s7coC3AFmfdGPLx8GsuyRXQkatVFAWNU1dvvsNPL97WLi2BaBklbLosClANACom7SgDJy+Hy84Vx+Joxzyzr367G7IG9w6LbbN76vnqR9v7NQqPmlwJlqT3nWfEbZFcMv/lmA67NwfYY+IcrV3i2qQPPBc4BvAMcVFtlspOzXC3pcbxs8JVYKpE9oT51qNqCEf2zN7rZtgq7gnDXbsfBC6G1Ua0PnCEBM7hUOsv8b+zdBOR9EQIbi4ZtyAYiDMvzlzTqQ3CCIs8wk6XQh1m4NuGVdYzCNYe4ClYqUZkj7dxMnFSBlxa+uqNTw/SLh/ibIUHd3oig69DKVwk+jQK8p7Ai9x5F1FHURG/mAkg/ubgH7qnlWQbDVXpM5bcyIF+F8HUmkIgHB+sPKFP9YJZA==;dWh8aXO+lyR+uPUDurvR2w=="
+secured: "yAW1ZHqXffks6eVb8cZXl68GD++avYyLO8WxB9KMDBvYhp8LpUK1P8MnUxBOhCGFka3vazX1J6sFal7W9keOi7N6FivLhAw1HI/8d49Se8Yod2EJIRzXvJDrEVerIgEY7Waq3UJh/Hdu/PxzZPdDimJIAgj0gvaPopskTzLg/NAS4vncpxOCE7juD3dbphjP0tfMQMBB21bTfZ6UBlt0DHWb4d/82CNxuFoxmwmgv0WGXyvoTla1RfPIEclVD43v3DgLKxBqDNA3wXl71AG2IrdnNQEgvQis70kYRybz66tGY1PCThk8K81v0TOL5EPRBPlY9HYrUkx3HmEkfBTz0OjAG7x0+xOSww2gRMhqGCE=;PubhTMr08mttQ5IdbUUPJw=="
 ---
 

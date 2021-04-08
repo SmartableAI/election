@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Burgess Owens tells Biden, Harris to 'get some backbone,' visit border region"
+    excerpt: "Rep. Burgess Owens, R-Utah, called on President Biden and Vice President Kamala Harris to \"get some backbone\" and visit the border amid a surge in migrant crossings, according to reports."
+    publishedDateTime: 2021-04-08T06:40:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jOzpWaR_YHk/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region"
+    ampWebUrl: "https://www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Harris visits Chicago bakery even as border crisis escalates"
     excerpt: "Vice President Kamala Harris on Tuesday visited a bakery in Chicago, coming away with a piece of German chocolate cake -- even as she faces scrutiny for not having visited the overwhelmed southern border."
     publishedDateTime: 2021-04-07T14:15:32Z

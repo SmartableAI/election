@@ -2,46 +2,64 @@
 category: news
 title: "Former Vice President Mike Pence memoir set for 2023 release"
 excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-publishedDateTime: 2021-04-07T22:03:00Z
-originalUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
-webUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
+publishedDateTime: 2021-04-07T21:57:00Z
+originalUrl: "https://www.chron.com/news/article/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
+webUrl: "https://www.chron.com/news/article/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
+ampWebUrl: "https://www.chron.com/news/amp/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg"
-    width: 3000
-    height: 2221
+  - url: "https://s.hdnux.com/photos/01/17/37/54/20839220/3/rawImage.jpg"
+    width: 2048
+    height: 1516
     isCached: true
 
 related:
-  - title: "Mother of all book deals: Mike Pence signs seven-figure deal for memoirs"
-    excerpt: "Mike Pence has signed a two-book deal for his memoir that is reported to be worth millions of dollars, making him one of the first of former president Donald Trump’s inner circle to announce such a lucrative arrangement. Pence’s autobiography ..."
-    publishedDateTime: 2021-04-07T21:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/07/mike-pence-signs-seven-figure-deal-for-memoirs"
+  - title: "Former Vice President Mike Pence autobiography to arrive in 2023"
+    excerpt: "Vice President Mike Pence speaks during a memorial service for the late Air Force Brig. Gen. Chuck Yeager in Charleston, West Virginia, in 2021. AP NEW YORK — Former Vice President Mike Pence ..."
+    publishedDateTime: 2021-04-07T20:29:00Z
+    webUrl: "https://chicago.suntimes.com/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
     images:
-      - url: "https://i.guim.co.uk/img/media/29dfb577d506d79987e35da7b7905dcb3c9f85ed/0_99_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b233b17be0cafb435747a3f167ed844b"
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
-        height: 360
+        height: 336
+        isCached: true
+  - title: "Former Vice President Mike Pence stepping up political involvement with new organization"
+    excerpt: "WASHINGTON – Former Vice President Mike Pence has a new advocacy organization, the latest move in his gradual return to public and political life since leaving office in January. Pence said he will use his “Advancing American Freedom” group to ..."
+    publishedDateTime: 2021-04-07T16:46:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7121718002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7121718002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/7eb90f2c-9bcb-458b-a69c-edd0157334f3-Pence_fist.jpg?auto=webp&crop=4278,2407,x0,y217&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "2PufDKf2E6QM18gVJiN76UBoaTmxqvVcR3uuFFXbxo1EWMcEM28KkxLHFvLh9YI2Rpsvy+CSIr5/KiwUy5Nc81yWY8TH79CiNokGpkeZgfOt0mQCQ374vjOSMwjGwAXjfgh7UZ6fQTJ2gNYD4nK7FEv95GfSs1R954JDpKGYObhH6zERBHg8fKwIVRV/CI9HosTvP7ATTabOetgObcqy9m2GLypYGULLTYwNBLep51G85CXw13nDqbnjFQ/QpD2PdnmqQL6U64kOsl5Ra5Cj5pebRDhgINBsrDF0YbP03fg6ptwfHHQJf+m0cSaTxV9T0FJtWASxoE9xViBwRhfoutxvOgZT7E4Yx7jP5wKR7ABuWox9XmvCi6ZS+Yf3EST1Ga0/XTMD/u0ZR6TzI85YzQG+n7acjvKvm2rftH0EneL3Be+PHRyyWKr8bhX5l+GlygG4AurTHAkx0syukMy/dAEFb/DFnl9NS8Zb91joQEyyvrGoMo6/2usXAyDozB8ymLpl/tZV1yy7VathirJdag==;aw61IRLHucSc6ACrArIqbg=="
+secured: "pfJPS1sGmYydVl0KBOcWFdbyGU4njKgGRuZSf6uHn/ktfC6pB5QfY+nIgfWkEThLcJdK6VwXMvn33C+wMMs+eAGDxB80dsH5aBOCqtNU7l3YwGrWdPADF3y8f1irC7HXwReG6GABmzXNn1vbjArWC8tu5By+spp7yUoNmRIaufNbnvq0uVDuIha1hRb30iG4jtMYtPTjAHACK4CVOO8H6SVfWQZtkG7WQTLtPTk+raHio9LyEAEtxJ1TX0zBWnaZBsoXVyN8Yy6dpsusNvITVtnHFUMlITbQGB/e/v5dMv3BPAuqmpETg+NqoQNf3pBeOdHZs7OEr6A8/yOyMGQBmcI+mKiwh4a9oEOC/rJvgNs=;Np2iDTwJeil4jXMnabStQA=="
 ---
 

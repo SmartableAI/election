@@ -78,6 +78,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden to announce executive actions on gun control, name ATF nominee"
+    excerpt: "WASHINGTON — President Joe Biden is expected to announce a series of executive actions Thursday on gun control and to nominate a prominent gun control advocate to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives, White House officials said."
+    publishedDateTime: 2021-04-07T22:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announce-executive-actions-guns-name-atf-nominee-n1263385"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263385"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263385"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2019_32/2960651/190805-gun-store-texas-2009-ac-746p_f75a3534f260768c4cd06851439901ce.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "isGl4NBwSx3spD96aDdFLAQtzlx+NNR2YjE4HEVwP8AvdeYmvr5nu3AaiR/XbHGtNfnpH0/9KptVbtZTmRcrur+6xpm+lweGwAafabHy/CYs9Hbd1PY/me15CTxWrvxZu3TkByxQPzOhZf4T9YgKDmxUNW8rQmofqSgZN30sd1YT0z4SfWXZMdHcHMlmP2V8gqc00+xtmqvobHPJ8JsMnQSz9ZPpYxhfYF6mDnF81/edPfvSxT5yoowDAd1LTh6dCuYD4f8L3cVgaIpvyNvnie+q/Aut8kIr02oq+FYc5bhcNzLP0iOUZEriwoPEqj5TCSJ+sV42tgw97Uf1duWBnBiwdEmpVhR5V8mIzqcIP2mjI47tSrJj1LSbSyXYevg8HC5zBhpjWVIzYICYUxJR+JmX5jD1MAzn/ANzALThb3idUUuet7u12qdhMhYXpMlap2x9hV3PJRtIkuKwO1Nwwc8kgjbaCJRBmcGHkB0JrClrWvptXxySIeZRdxWl+oWBMvripNX0cHrAI2JWDapEjg==;3SAE8uk52Xaw7CO+NHcIHQ=="
 ---

@@ -2,105 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2021-02-01-heres-what-to-exect-from-pences-post-vp-life.md",
-      "title": "Here's what to exect from Pence's post-VP life",
-      "excerpt": "Pence's relationship with former President Donald Trump, which, to put it mildly, faltered after the deadly Jan. 6 Capitol riot, does not appear to have improved over the last few weeks, NBC reports.",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "originalUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230702122.jpg?itok=9TsIXNEV&resize=450x300",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "publishedDateTime": "2021-01-31T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-twitter-employees-heavily-favored-biden-over-trump-ahead-of-priceless-ban.md",
-      "title": "Twitter employees heavily favored Biden over Trump ahead of 'priceless' ban",
-      "excerpt": "President Biden was the clear favorite of Twitter employees when it came to campaign donations during the 2020 election cycle.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9wq-8x5938/twitter-biden-trump-ban-2020-election-donations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 588,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322568207291-e1605632911601.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-trump-ban-2020-election-donations.amp",
-      "publishedDateTime": "2021-01-31T05:45:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-31-deal-or-no-deal-virus-aid-tests-biden-work-together-plea.md",
       "title": "Deal or no deal: Virus aid tests Biden 'work together' plea",
       "excerpt": "Joe Biden pitched himself during the presidential campaign as someone who could “get people working together” and lower the temperature in a Washington overheated by Donald Trump",
@@ -1359,6 +1260,115 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-the-fired-fox-news-editor-behind-the-networks-arizona-election-call-for-biden-says-he-became-the-target-of-murderous-rage-from-viewers.md",
+      "title": "The fired Fox News editor behind the network's Arizona election call for Biden says he became the target of 'murderous rage' from viewers",
+      "excerpt": "Chris Stirewalt, who oversaw the Fox News Decision Desk during 2020 election coverage, was fired last week after being exiled from air.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1",
+      "originalUrl": "https://www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6013fdee1d2df20018b71845?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fired-fox-editor-chris-stirewalt-targeted-after-biden-arizona-call-2021-1?amp",
+      "publishedDateTime": "2021-01-29T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming.md",
+      "title": "DeSantis: Florida deserves federal help — Governor proposes $1B climate initiative — Morgan & Biden? — Gaetz bashes Cheney in Wyoming",
+      "excerpt": "When Gov. Ron DeSantis laid out his $96 billion budget plan on Thursday, he was unapologetic that the billions of dollars that came out of Washington, D.C., have helped the state deal with the fallout from an economic collapse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/01/29/desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming-491566",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/01/29/desantis-florida-deserves-federal-help-governor-proposes-1b-climate-initiative-morgan-biden-gaetz-bashes-cheney-in-wyoming-491566",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

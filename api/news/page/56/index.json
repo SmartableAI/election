@@ -2,118 +2,6 @@
   "page": 56,
   "value": [
     {
-      "path": "_news/2021-01-10-biden-trump-not-above-the-law-justice-serves-the-people-it-doesnt-protect-the-powerful.md",
-      "title": "Biden: Trump 'not above the law. Justice serves the people — it doesn’t protect the powerful'",
-      "excerpt": "President-elect Joe Biden said on Twitter Saturday that President Trump is “not above the law,” after the House announced it would be bringing forth articles of impeachment on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m1UToI_cQo/biden-trump-not-above-law",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5m1UToI_cQo/biden-trump-not-above-law",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 319,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21007689539650.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-not-above-law.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-not-above-law.amp",
-      "publishedDateTime": "2021-01-09T17:55:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-gop-sen-toomey-trump-committed-impeachable-offenses.md",
-      "title": "GOP Sen. Toomey: Trump 'committed impeachable offenses'",
-      "excerpt": "Republican Sen. Pat Toomey, Pa., said that President Trump “committed impeachable offenses” in his efforts to throw out the results of the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/73f76cRvWmI/toomey-trump-committed-impeachable-offenses",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/73f76cRvWmI/toomey-trump-committed-impeachable-offenses",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e9767d2-3af3-4ac6-8e0e-cf32f941a86a/46c66756-82eb-4028-80dc-a2efc886ff4e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/toomey-trump-committed-impeachable-offenses.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/toomey-trump-committed-impeachable-offenses.amp",
-      "publishedDateTime": "2021-01-09T17:07:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-10-trump-considering-giuliani-and-dershowitz-for-impeachment-defense-team.md",
       "title": "Trump considering Giuliani and Dershowitz for impeachment defense team",
       "excerpt": "Staring down the barrel of a second impeachment, President Donald Trump is beginning to mull who would represent him in a Senate trial.\n    \n",
@@ -1349,6 +1237,110 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-pelosi-says-she-spoke-to-gen-milley-about-protecting-nuclear-codes-from-trump.md",
+      "title": "Pelosi says she spoke to Gen. Milley about protecting nuclear codes from Trump",
+      "excerpt": "House Speaker Nancy Pelosi, D-Calif., said she has spoken to Chairman of the Joint Chiefs of Staff Mark Milley about protecting the nuclear codes from an “unhinged president.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GVgKBIdVhcs/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GVgKBIdVhcs/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94a18acc-5025-4d44-9bda-db2348258d22/107bb457-e4ae-4598-8a02-535aaa65aa94/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump.amp",
+      "publishedDateTime": "2021-01-08T10:13:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-ashli-babbitt-rioter-fatally-shot-in-dc-was-bananas-over-trump-grandfather.md",
+      "title": "Ashli Babbitt, rioter fatally shot in DC, was ‘bananas’ over Trump: grandfather",
+      "excerpt": "The Air Force veteran who was fatally shot as she stormed the Capitol was an “excellent patriot” who was a fanatic follower of President Trump, her grandfather said. Ashli Babbitt, 35, of San",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/",
+      "originalUrl": "https://nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/ashli-babbit-trump-supporter-1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/amp/",
+      "publishedDateTime": "2021-01-08T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

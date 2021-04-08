@@ -63,22 +63,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "MLB Boycott Calls Grow After Donald Trump Hits Out Over All-Star Game"
-    excerpt: "An effort to boycott Major League Baseball (MLB) has gained some traction on social media after former President Donald Trump urged people to punish MLB for its decision to move its All-Star Game out of Georgia. The move was in response to the state's new ..."
-    publishedDateTime: 2021-04-03T07:51:00Z
-    webUrl: "https://www.newsweek.com/mlb-boycott-calls-grow-after-donald-trump-hits-out-over-all-star-game-1580840"
-    ampWebUrl: "https://www.newsweek.com/mlb-boycott-calls-grow-after-donald-trump-hits-out-over-all-star-game-1580840?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mlb-boycott-calls-grow-after-donald-trump-hits-out-over-all-star-game-1580840?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1771300/former-president-donald-trump-throws-baseball.jpg"
-        width: 2526
-        height: 1684
-        isCached: true
   - title: "‘Momentous error’: Italian businessman mistakenly blacklisted by Trump to sue"
     excerpt: "Alessandro Bazzoni, who owns a graphic design company in Sardinia, has been unable to trade since 19 January, when his business was slapped with sanctions as part of the Trump administration’s crackdown on blacklisted Venezuelan crude oil. In a case of ..."
     publishedDateTime: 2021-04-06T18:43:00Z
@@ -158,6 +142,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/473/1dc/31ae2e285447760fc121a82bdb66657496-GettyImages-1229151535.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Sylvester Stallone Becomes Member Of Donald Trump's Private Club Mar-A-Lago: Report"
+    excerpt: "Sylvester Stallone has become a member of Donald Trump's private club after buying a home in Palm Beach, Florida, according to a report."
+    publishedDateTime: 2021-04-08T04:12:00Z
+    webUrl: "https://www.ibtimes.com/sylvester-stallone-becomes-member-donald-trumps-private-club-mar-lago-report-3176798"
+    ampWebUrl: "https://www.ibtimes.com/sylvester-stallone-becomes-member-donald-trumps-private-club-mar-lago-report-3176798?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/sylvester-stallone-becomes-member-donald-trumps-private-club-mar-lago-report-3176798?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/21/sylvester-stallone.jpg"
+        width: 1024
+        height: 655
         isCached: true
 
 secured: "X3BzGnclswB1NAgAW7oJxw480sND/w6bTwCFwgIdneXmL+uXzvwe1Z6nw4eoChgDTLHUliqURfXPytABGiX2ZAHRRgrkgWpBYUx5yE0gANT2gmKuwmRyjRidX+Dwx66r2qJ6QNzQimJEczNsJ1uoO3G7O+m0m8xFFVlyDEO3NybMfrY/Wy5YHnoBWwvCZucQpc+Tp2Rub30Enlcpt4cLGnqjZrYWRjZTFxQVc0U5mrEGvTHRzWMrxhuhgn8BO0YfYFxdxI8cTOGaY2eydxExlLZwCEjkV/ZNUVBoV9Suif/Jilgyf7BkV87Hz+P9EgLsCgfXHC78sKNEaI563jFW0YlafB3F9apjcEhUBIWcPoGfo+j4TttM242Ao8/qKuER2j4gxJdVnRYjwhpA8hL0lqPy8u3r6iyW4h0ksqLaDMu18r3c0xgFdtVsO5oBDRKQISWstTL/kijhgjgsV51t1i2JHHu+l429bmnx+GZhbP/EpeP/vguBgx3APAYZJpwYeVTWDuxabugBjZt2c5TCsQ==;ZnNgpyZzsAYLKMMZKb5/sw=="

@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Burgess Owens tells Biden, Harris to 'get some backbone,' visit border region"
+    excerpt: "Rep. Burgess Owens, R-Utah, called on President Biden and Vice President Kamala Harris to \"get some backbone\" and visit the border amid a surge in migrant crossings, according to reports."
+    publishedDateTime: 2021-04-08T06:40:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jOzpWaR_YHk/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region"
+    ampWebUrl: "https://www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris lists DC condo for $2M as she moves into VP residence"
     excerpt: "Since her inauguration, Vice President Kamala Harris has been living at Blair House, across the street from the White House, while the U.S. Naval Observatory—the traditional home of the vice president—undergoes renovations. Now Ms. Harris’s former home in Washington, D.C.—a condo at the Westlight complex"
     publishedDateTime: 2021-04-06T16:08:42Z

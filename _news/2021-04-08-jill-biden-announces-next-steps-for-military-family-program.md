@@ -319,6 +319,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "U.S. Senate readying legislation on semiconductors, Biden says"
+    excerpt: "WASHINGTON (Reuters) -U.S. Senate leaders are preparing to introduce legislation on semiconductors, President Joe Biden said on Wednesday as the nation wrestles with an ongoing shortage of the critical technology used in a range of devices from cars to ..."
+    publishedDateTime: 2021-04-07T20:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-chips-shortage-congress-idUSKBN2BU32M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU32M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU32M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557642265&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361P3"
+        width: 795
+        height: 545
+        isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
     publishedDateTime: 2021-03-31T10:25:00Z
@@ -724,6 +740,6 @@ related:
         height: 433
         isCached: true
 
-secured: "gpSHCBQyNFP+ngbd7hEdx/Feq553vLMt6pm9RkhRUHZ8uWErdJhWNovZcuK/pk0h9BfW12AHZo4k3RSZVSWnTbmjer9bJRbpZjUJITpuTxHfZQb6JB6GY6l5zShCQlgz5b3L62bHWoAafWyUY8ExDxF5Nj0/yPCiziOOnM4PKNWmJiWMCnRocerRR3Dmt4r2ZqnkxH9VXXsufOpjGv/fPnnishjt3jkLkW3Pmmi+XdDrmrTX2f97xEmGIEAzEdwAjbOz7DeWzV4JDItrTUz8SOZtfVVqyXu+tLSuixwxtZEMcrZ20bX0YcwagwPaM9FYrMX/wzy6znG1WRA3YXvUgOo5DHA0uSEWGtEXK6Yt6Ro=;didBtuGEffKHT+f1SRj63A=="
+secured: "tLsUkJmw3sS6nyo3WTG/9tboBZYbjYh4wOkEIIgGCPjiKjhZeaWIaNqxtoIWCSvwVXZmnowZzLMMYqQ19zTtvKX+nWSa/S6MLKUqYI4gWkdvfr78kYZK2EGsQDCysEq9d0Rwz1cq5gu+CIC1Mj2pRlqcp8ZhPMYb71eX6cukk/jUOeWQZpY0rPUugtFnbp5Bv8jEj7+1ipdt6WPFSFpomiiodplYkkp94PsNM173CTyeyFFalDcDBTIrvJ9NK2qACjIq8Nz0KKpus2lUVwjBtc35iJcxveSlYgkUhZDgmqQcARZgo5o/CF30m4acU+3mpK4N7PBqSHZck2reg7Pez01Il6m7MJJzQoJuegZHwdHVrpTX1GxJrA+nDbhibA/ywMpeBZ87NKHKrjXdwO01kga4VN4qZ4a5uRzrpU2UK+sAuhoDMXMGN7yzL6sBlfUDHkFN7shN8pRxKYztrlGUK+kGk2Jk62s1zPtUyM3JWi4DBpsPLHQpDBNG/PnJNShGqYxTnQ376IpmwIX3rfrRgw==;6cNArrS5Ono1ZWC3j0bfLA=="
 ---
 
