@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-08-mike-pences-memoir-could-be-explosive5-things-to-look-out-for.md",
-      "title": "Mike Pence's Memoir Could Be Explosive—5 Things to Look Out For",
-      "excerpt": "\"I look forward to working with the outstanding team at Simon & Schuster to invite readers on a journey from a small town in Indiana to Washington, D.C.\" U.S. Vice President Mike Pence presides over a joint session of Congress on January 06, 2021 in ...",
+      "path": "_news/2021-04-08-mike-pence-inks-deal-to-write-2-books.md",
+      "title": "Mike Pence inks deal to write 2 books",
+      "excerpt": "Washington — Former Vice President Mike Pence has signed a deal with Simon & Schuster to publish two books, with the first, his autobiography, tentatively set to hit shelves in 2023 as the nation gears up for the next presidential election. His ...",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-memoir-things-look-1581910",
-      "originalUrl": "https://www.newsweek.com/mike-pence-memoir-things-look-1581910",
+      "webUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
+      "originalUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1772968/vice-president-mike-pence.jpg",
-          "width": 1024,
-          "height": 676,
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/a0af4233-839a-42bc-b7ea-17a6b76762fa/thumbnail/1200x630/c35ad2142b94342d0dc5c9892e32ec28/gettyimages-1230702122.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-memoir-things-look-1581910?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-things-look-1581910?amp=1",
-      "publishedDateTime": "2021-04-08T02:58:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
+      "publishedDateTime": "2021-04-08T05:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -110,7 +110,7 @@
       "originalUrl": "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -132,58 +132,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mike-pence-joins-simon-schusters-political-roster-with-two-book-deal.md",
-      "title": "Mike Pence joins Simon & Schuster’s political roster with two-book deal",
-      "excerpt": "Mike Pence, former vice president of the United States, will write his autobiography and another book for Simon & Schuster, the publisher announced Wednesday. In doing so he joins some serious political families on the Simon & Schuster author roster ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/cdab4c8/2147483647/strip/true/crop/480x314+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8HvxbQCEsFU%2Fhqdefault.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2021-04-07/mike-pence-joins-simon-schuster-political-roster-with-two-book-deal?_amp=true",
-      "publishedDateTime": "2021-04-07T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -251,19 +199,19 @@
     {
       "path": "_news/2021-04-08-pence-launches-group-as-trump-officials-line-up-new-roles.md",
       "title": "Pence launches group as Trump officials line up new roles",
-      "excerpt": "Former Vice President Mike Pence has launched a new advocacy group as he and other Trump administration officials look to boost their post-White House plans Secretary of state nominee commits to ...",
+      "excerpt": "WASHINGTON — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence’s Advancing American Freedom, which could serve as a springboard for his own ...",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/pence-launches-group-trump-aides-line-roles-76927995",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/pence-launches-group-trump-aides-line-roles-76927995",
+      "webUrl": "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1130,
+      "heat": 960,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/WireAP_ee794f6ee81c4021b14cc4498a35eae5_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -271,16 +219,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/pence-launches-group-trump-aides-line-roles-76927995",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/pence-launches-group-trump-aides-line-roles-76927995",
-      "publishedDateTime": "2021-04-07T13:09:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-07T13:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -297,7 +245,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Mike Pence"
       ]
     },
@@ -1563,6 +1510,58 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-mike-pences-remarkable-op-ed-highlights-the-gops-choice-on-voting-rights-and-where-it-will-probably-land.md",
+      "title": "Mike Pence’s remarkable op-ed highlights the GOP’s choice on voting rights — and where it will probably land",
+      "excerpt": "Alleged voting problems in 2020. In an op-ed for the Daily Signal, Pence details his opposition to a voting rights bill spearheaded by House Democrats. He begins, “After an election marked by significant voting irregularities and numerous instances of officials setting aside state election law,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZ2TGE7SNZAB5G4LNTLM5HF5SI.jpg&w=1440",
+          "width": 1440,
+          "height": 1053,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
+      "publishedDateTime": "2021-03-03T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     }

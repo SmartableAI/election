@@ -249,6 +249,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Arizona Blocks Federal Gun Control Measures Ahead of Joe Biden Address"
+    excerpt: "The Republican has pre-empted President Joe Biden's plan to tackle gun violence with a raft of executive orders this week by signing Arizona House Bill 2111. Under the state legislation, known as the Second Amendment Firearm Freedom Act, federal gun laws ..."
+    publishedDateTime: 2021-04-08T12:23:00Z
+    webUrl: "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921"
+    ampWebUrl: "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1772989/arizona-governor-doug-ducey.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President-elect Joe Biden to name Gary Gensler as U.S. SEC chair, sources say"
     excerpt: "Gary Gensler, a top financial regulator under the Obama administration, is expected to be named chair of the U.S. Securities and Exchange Commission."
     publishedDateTime: 2021-01-12T17:47:00Z

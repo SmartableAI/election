@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/trump-endorses-mo-brooks
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/trump-endorses-mo-brooks-senate/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump ally GOP Rep. Lee Zeldin announces plan to run for New York governor in 2022"
+    excerpt: "Republican Rep. Lee Zeldin, a staunch supporter of former President Donald Trump, announced Thursday he plans to run for New York governor next year, saying that \"to save our state,\" embattled Democratic incumbent Andrew Cuomo \"has got to go.\"\n    \n"
+    publishedDateTime: 2021-04-08T13:24:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MdZmsbqyg3c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408125551-lee-zeldin-0310-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP firebrand and Trump supporter Rep. Mo Brooks enters Alabama Senate race"
     excerpt: "A conservative firebrand and staunch supporter of former President Donald Trump who came under fire for remarks preceding the attack on the U.S. Capitol has joined the Alabama GOP primary field to replace Sen."
     publishedDateTime: 2021-03-23T00:22:00Z

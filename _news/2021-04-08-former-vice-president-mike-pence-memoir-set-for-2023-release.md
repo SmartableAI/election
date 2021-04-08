@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f5
 webUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
 type: article
 quality: 105
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Former Vice President Mike Pence autobiography to arrive in 2023"
-    excerpt: "Vice President Mike Pence speaks during a memorial service for the late Air Force Brig. Gen. Chuck Yeager in Charleston, West Virginia, in 2021. AP NEW YORK — Former Vice President Mike Pence ..."
-    publishedDateTime: 2021-04-07T20:29:00Z
-    webUrl: "https://chicago.suntimes.com/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 75
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Indiana lawmakers honor Mike Pence for retirement from the vice presidency"
     excerpt: "The Indiana Senate adopted a resolution honoring Mike Pence's \"retirement\" from the vice presidency this week. Pence, of course, lost his bid for reelection in November, along with former President Donald Trump. The resolution, authored by ..."
     publishedDateTime: 2021-03-31T15:40:00Z
@@ -74,6 +58,6 @@ related:
         height: 675
         isCached: true
 
-secured: "i8AcSQlmiUBi2qTdk5BKksIuxJaAY+Zvh977KqK1E/xZAfY8HWUkGa6RiyeEENRdjDrd+44L2HwZEn5HV6OXwPMe0roV2/Pci+Q6/5w1CWQLE6obzMxYeMU0zKS5Z4QNarl9NHohiMn1kQjjTs8l2KgCKik87ymVfV/SW5F059dkJuJB0CHBzpzK6pGZxgGlTTCZS14AbVtQVP20BrcE8ussL3GFrgqKc39SAqzdyG959oeuoDadc2x8X+R8qo8+J7ONrnnSrTxYkit5gAJarg1fTIZbKszR7f+kgtNPALdNHfy8qPzvc7jgxxG9wdnUTnZawmnHIxoPDH2Ra2b4eTuvo/Y+Sg9b1pTeowdTdRs=;ta8cz1N3sM95OGNaqILaQw=="
+secured: "TCjaKpNo35tqVK9aTsCOXOrNcEeER0DrNvKQWcGSbpCuDyiY8AdvD10tG2uGt3WNywE/ULSMwpxv58Yff3+9a52vrKjPQqKdbKTV3g8IEOGjGpsCN328VFmUFDS/F0P3lxlqsN4rsTMCPwUBJuyaTN9tMT6SH8PbOQB/0xGvyd8FYB4ZbO3kpfx81oNflPJ5aRqd2i9b/6bueIdSEY4hX2iVWnDI1tnyfiIjLKUThfshEDA6/EqrHUtci9ApxoBXOxjAtCHoqNH3Y34WIxRIj/pVsqSquQMTY5dHYHLmHfwH22wZ2qE6D3r2/yW9kyuWft24w7ygpTZ3FZpcREqM+U/Tb9KbrsCngIeXVv8VIFX9MJBtNiY6PB6taErIE7yxF263ZvbutN2YxqCCNoeKptPSmqWE53rgMKW2q4qLv3uMRS/u389cgZQy+kGKO5GRxmQTC49MWPisrG2Hdu6dMQeXP0flGHaJDDu/rqOKvqJLWeaCMxobshuQk0sA3/7S5l8O9aKUblZi6jQrJq47HQ==;L0wlhD0PNyoUKcWqIbtu7Q=="
 ---
 

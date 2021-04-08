@@ -2,7 +2,7 @@
 category: news
 title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
 excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
-publishedDateTime: 2021-04-08T11:15:17Z
+publishedDateTime: 2021-04-08T12:19:24Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
@@ -80,6 +80,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "WaIKlVzKgZ76XhAc3PkI88WQhcQqHO3JduFP7pZG+whskVEZRwVnuz85F/mpXZRB7V8EgRXaRE1FQ4MfSRV9peAEQM8rZZJsqLhxVQmHvg78lvyqjnILe5xoQ1JlTHvxzNJrZ8y5M6f04pHp9RNEQC0BO4UIgIn+cm4GcenXrga7NFrI9SCThFBQVaQPvjee21/BnbwF3Au/YbcLwXBTxS0WFOS+0vRA1ZR5ngtduyovTpAW6aYOAitgkQxxZg36lips2vzSSQmL0VaC/ibPhsL4fK8mxON1mobJQX1siCG2DzGPwPnal0IVDlEfQbOlqezso0keCfytNcRk3JV5JcNc9cnrej/ApxYsS/z69xI=;Ukg5we6Z/DRgCvrrizrb/Q=="
+secured: "e57VkO5Tga4Zwcq+f7+hqpm9XZMe6Nl09Zx47IOolbT+RxJeDVvtrW91WF8KFk9pCI10BXGd/alRD44swSJXVbCf6ucFosfGNGVSWowgM3TlYSlXtrxgstJpFH7Qg+a8toEKnXYo5dTkdtY25jhv+bygBVAjSTmN+WPZSkAQXes0lHIrUZAGxk4FwiG6HY7RC3v58VBnAXGBT1ATvzw5/TWp+kcyAa6fNdPldTMgxjxY5q6/n4IT47A9dvFocrHCkk4k3O9BvhlcN+F/IvxVraqrhRTl9B21XqnCXebSXc3v2JVbrnMW4gDFUcb6RYQ9CVQCJxpbERd3ToLELlJrKMcrw7HZRZwt0IjWWAI7vxc=;KHXSDpQoORYhsdQi+HQfpg=="
 ---
 

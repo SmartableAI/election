@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-polic
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp"
 type: article
 quality: 119
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Scalise blasts Biden's border policies, calling them 'dangerous for kids'"
+    excerpt: "House Minority Whip Steve Scalise criticized President Biden’s border policies Thursday on “Fox & Friends,\" calling them “dangerous for America and for kids.”"
+    publishedDateTime: 2021-04-08T13:33:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u1IaJZTb-mg/scalise-bidens-border-policies-dangerous-kids"
+    ampWebUrl: "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "dpGqWpcwINyEfugY7qdSK3uG3d20IdBw9gHqpoQWNE/YdVTFiv2rfpmfYq4l2TuGERxdwaiQs+ShmqU1HXds3WgXVFKUbQZbidSQcQVW2hQkrrASswokjhokApq6/MuLBgCBkVo59Fv0C4Yhhc3wBlnvB3U5ZbxA4+nd2XTR3M03rlPhKh2XMIjWWwpddU6C2hcutulZoL3NAZPbA1at4uslE59qlaqit/h9iZdDAWqgKQNWWqvUgWBUXoO6Ysj3CBAe4W/gVn8LWmgFAh6oCDlbBRVhU7x+OKudvemUsqdO1nSMLyy+NyfsDWlubKop8dytwWXTlro8JZPuCmV+jaQgkqvKPYWd5m4NQtOjoJlNDuvWS0XgePrEWRaeV6XKf/Pxvd81FG57vj8t9D2DWjfOJEquRi3RtQ/arAc1mbUQj49ucMr6mTlm5p/QoiJwPgF595l4MOSnzmz0iIenrF/qOZDNBRe2u9h8cI5/+ziodbWgHlnM1wo2do86k0BxRoYhJFbQ8fO5JjlianMpXg==;w2BuQaLGTFo7cNQiHwF/WQ=="
 ---

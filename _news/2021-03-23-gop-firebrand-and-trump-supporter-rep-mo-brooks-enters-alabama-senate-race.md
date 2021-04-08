@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump ally GOP Rep. Lee Zeldin announces plan to run for New York governor in 2022"
+    excerpt: "Republican Rep. Lee Zeldin, a staunch supporter of former President Donald Trump, announced Thursday he plans to run for New York governor next year, saying that \"to save our state,\" embattled Democratic incumbent Andrew Cuomo \"has got to go.\"\n    \n"
+    publishedDateTime: 2021-04-08T13:24:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MdZmsbqyg3c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408125551-lee-zeldin-0310-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "febmF/Aruajvyl+FZXd1ZD5XRgHSA8OqnBhEZo1UACkj9vb05p7KW8UHnnDj3g6VOV2rzsmC7Wpt9CE9L7dODN1HmRJK8OrHuzHcacsncWoit1Biu0nlGI4w2CSqKUVOpGEthsiahGfT1j7FTn5glJaoOd1R6FletNybojPfYwt4vcV6MANpQzBKvhYpAX+FmJhuSrL1/45GobFoBivzddjW+L0Z7Oj3RfGQITdIONEq+FBXvTHmXXTTI0+GMQwet1RG/e4ToBPbz12EWOL4azxFBc/pcfRdcaJUF3WKSGvXjBHxP+vKe/Dt3R3yoSJejtQ+WKNZujRDnoUEyjLyPHf259VTinwgAw+K9wPgZahg8cTbKd5Bvc4sN3tmgkhTg00QcfkDcr+hXif6kSK5mR3k7BKkuwjgTedj6+UIQhtVjELfJXS0QCwLhHnzJOrkM3co9wuetCqgU9z+DtTsclGywGZho2nN/FeW+8GJ8iOdizMQGsxL+bdyzuwUvwyM9aprEe6usBmt67Tn0mlfBA==;PNrHJDxzaGRLvKDfEe41sg=="
 ---

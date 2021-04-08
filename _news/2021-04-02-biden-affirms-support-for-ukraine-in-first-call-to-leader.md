@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://i.insider.com/606724fd52f11d0019431be1?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Biden making a push for tighter gun safety laws with new executive actions"
+    excerpt: "Biden's infrastructure plan: What's inside the new $2 trillion bill?"
+    publishedDateTime: 2021-04-08T12:41:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/04/08/ghost-guns-among-items-targeted-new-presidential-executive-actions/7137513002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/99db72df-f487-4d46-9179-1bbabff8f383-VPC_BIDEN_GUN_CONTROL_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "3sdQbqB6jw3R3b4PooWtsjDJ52+2N0GdCvEqDVWDm+nJucYmyURdWCShnxGDI3QV8g+Mk3UrcStj8/pI31Ru+ZQeyrysO945ZL3d+2i8uK0cH4Y8SW+J79jyT7UIP+j/kIKIG1hCfKB0Dbn/dZj54WxDpRefQQT4pE5oxP7g3xsyJHPPDYlfPChcTyJoYoYBe15mIiBTQjKwOq9m7tenHlJkJykLwdKsu6uAMgf34SLI0NumsCfjgnsz1+LW6V6E9YK7vkBfyhc60lnHF3V/AC4wIWz+T5NKXKJ0y2+zTBsyG4Ue3fmc75Z/Mwve9acrknlCkVS2tMzoX8Vs6UUXY7qH/0kgVGT0lOCPjK2qizU=;Soavc2eDLy2E/Bfpk4oekQ=="

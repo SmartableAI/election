@@ -25,37 +25,99 @@ images:
     isCached: true
 
 related:
-  - title: "SNL's Kamala Harris hosts Ted Cruz for 'Unity Seder'"
-    excerpt: "and Kamala Harris Kamala Harris 5 immediate migration management steps for Kamala Harris White House names members of environmental justice panel Biden 'doesn't care' what Trump does at border ..."
-    publishedDateTime: 2021-03-28T13:47:00Z
-    webUrl: "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder"
-    ampWebUrl: "https://thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/545266-snls-kamala-harris-hosts-ted-cruz-for-unity-seder?amp"
+  - title: "Kamala Harris Backs Gavin Newsom As He Faces Recall Election"
+    excerpt: "Vice President Kamala Harris offered California Governor Gavin Newsom her backing on Sunday as polls indicated that the Democratic state leader was likely to survive a recall vote. In an interview with the San Francisco Chronicle, Harris said the White ..."
+    publishedDateTime: 2021-04-06T10:22:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/mayarudolph_0811.png"
-        width: 980
-        height: 551
+      - url: "https://d.newsweek.com/en/full/1771853/vice-president-kamala-harris.jpg"
+        width: 1024
+        height: 738
         isCached: true
-  - title: "SNL invites Maya Rudolph’s Kamala Harris and Martin Short’s Doug Emhoff to host a Passover Seder"
-    excerpt: "Maya Rudolph returned to host \"Saturday Night Live,\" where she was joined in sketches by fellow SNL alumni Martin Short, Tina Fey and Rachel Dratch."
-    publishedDateTime: 2021-03-28T19:09:00Z
-    webUrl: "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/"
-    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2021/03/28/snl-maya-rudolph-martin-short-kamala-harris/?outputType=amp"
+  - title: "Navy Seabees built Kamala Harris a desk with wood, copper, and nails from the US's oldest warship"
+    excerpt: "The USS Constitution is one of the country's first frigates and the oldest commissioned warship still afloat."
+    publishedDateTime: 2021-04-06T15:04:00Z
+    webUrl: "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seabees-built-kamala-harris-a-desk-from-uss-constitution-2021-4?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZIY2IYX2FZCPTOYNWPMUJZFOD4.jpeg&w=1440"
-        width: 1000
-        height: 667
+      - url: "https://i.insider.com/606c764570954f001919560c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Local Guatemalan official calls on Kamala Harris to visit region as smugglers prey on migrants' desperation"
+    excerpt: "Regional Mayor Winter Coc Ba said people in his area have heard the ads, and it \"works a lot.\" Asked what he would tell Vice President Kamala Harris, who has been tasked with addressing the immigration crisis, he answered that he would like her to come ..."
+    publishedDateTime: 2021-04-07T15:22:00Z
+    webUrl: "https://www.cbsnews.com/news/migrants-smugglers-guatemala-official-kamala-harris-visit/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/migrants-smugglers-guatemala-official-kamala-harris-visit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/migrants-smugglers-guatemala-official-kamala-harris-visit/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/07/8bd2ee43-b54a-4a40-b3c1-c8b59da09f65/thumbnail/1200x630/ff98d2618404bebc9a3872e0877ef6f0/cbsn-fusion-smugglers-seemingly-advertising-trip-to-us-for-a-price-to-migrants-in-guatemala-thumbnail-686956-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris to visit Chicago next week to discuss equitable distribution of COVID-19 vaccine"
+    excerpt: "Vice President Kamala Harris will visit Chicago on Tuesday to talk about equitable distribution of the COVID-19 vaccine, according to the White House. It’s her first official visit here since she and President Joe Biden were inaugurated. In rolling out ..."
+    publishedDateTime: 2021-04-01T03:24:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/w4JNZVIqZX0LrYozGoPmn2UnRig=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WI5A4JNE2CBALGRAM2V4LHPXRY.aspx"
+        width: 1200
+        height: 759
+        isCached: true
+  - title: "Vice President Kamala Harris visits Chicago"
+    excerpt: "Vice President Kamala Harris visits a COVID-19 vaccination site at the International Union of Operating Engineers Local 399 Union Hall on April 6, 2021 in Chicago. Harris stressed the importance of getting vaccinated to union members receiving the vaccine at the hall."
+    publishedDateTime: 2021-04-06T20:20:00Z
+    webUrl: "https://www.chicagotribune.com/news/ct-viz-kamala-harris-chicago-visit-photos-20210406-zpwx3zllvbhpdhkdcxy6ml3lim-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bKE8X5PUmNsbJto4eN8Y39v1RIY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/33N5CXL3DNBKHD7AGLPDHBVIP4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris visited beloved Brown Sugar Bakery on Chicago’s South Side on Tuesday. She couldn’t have chosen better."
+    excerpt: "On her way out of town Tuesday following a pit stop in Chicago between California and Washington, D.C., Vice President Kamala Harris grabbed dessert from Brown Sugar Bakery and Confections in the Chatham neighborhood. It was a pretty sweet call on her part."
+    publishedDateTime: 2021-04-07T03:00:00Z
+    webUrl: "https://www.chicagotribune.com/dining/ct-food-kamala-harris-brown-sugar-bakery-20210407-44g5dgeiofai7bw7v5urdp2f7m-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/dining/ct-food-kamala-harris-brown-sugar-bakery-20210407-44g5dgeiofai7bw7v5urdp2f7m-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/dining/ct-food-kamala-harris-brown-sugar-bakery-20210407-44g5dgeiofai7bw7v5urdp2f7m-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 102
+    images:
+      - url: "https://www.chicagotribune.com/resizer/BsFyYsiiXaJdUpR9E7BGyoFiKsg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2JNAWLAZUVGVXDCBJCXY5VUQNU.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Essential Politics: Kamala Harris is taking on the migrant problem, but staying away from the border"
     excerpt: "The vice president has her first solo assignment, but she's struggling to clarify exactly what she's responsible for."
@@ -71,21 +133,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "True, VP Kamala Harris did not salute military escorts; here’s why not"
-    excerpt: "The video, viewed more than 900,000 times on Twitter, was shared widely by conservative social media accounts in an attempt to paint the vice president as unpatriotic and disrespectful to service members."
-    publishedDateTime: 2021-03-28T15:02:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/03/true-vp-kamala-harris-did-not-salute-military-escorts-heres-why-not.html?outputType=amp"
+  - title: "Kamala Harris promises White House support for Gavin Newsom in recall election"
+    excerpt: "Vice President Kamala Harris promised White House backing Monday for Gov. Gavin Newsom in his likely recall election, saying she and President Biden “will be supportive as much as we possibly can.” “We are unambiguous in our support for Gov."
+    publishedDateTime: 2021-04-06T01:24:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-promises-White-House-support-for-16078969.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-promises-White-House-support-for-16078969.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-promises-White-House-support-for-16078969.php"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 86
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/35/63/20831449/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "A Black conservative takes on Kamala Harris"
+    excerpt: "A leading Black conservative is troubled by President Biden‘s decision to place Vice President Kamala Harris in charge of immigration policy. “Our greatest concern about her appointment to such a crucial task is not just the spread of the COVID-19 ..."
+    publishedDateTime: 2021-03-31T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
     quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VS6MEJTSBZERXGEPPJKOX23XAM.jpg"
-        width: 4717
-        height: 3043
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/31/3_312021_beltway-autry-pruit8202_c0-2-950-556_s1200x700.jpg?8b92e6e44f42e0bcd0a9021d97d4e96cab46d2b1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Kamala Harris launches diplomatic effort in bid to reduce border surge"
     excerpt: "Vice President Kamala Harris spoke Tuesday with Guatemala’s president as she dived into her new role as point person for trying to solve the conditions that push migrants to flee Central America."
@@ -167,6 +245,118 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris: Oakland Coliseum vaccination site will stay open"
+    excerpt: "Vice President Kamala Harris said the federal government plans to keep a mass vaccination site at the Oakland Coliseum open beyond its scheduled closure Sunday, after local officials expressed concern about the planned shutdown just as demand for ..."
+    publishedDateTime: 2021-04-06T10:52:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-Oakland-Coliseum-vaccination-site-16078305.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-Oakland-Coliseum-vaccination-site-16078305.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-Oakland-Coliseum-vaccination-site-16078305.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/35/44/20830467/5/375x250.jpg"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "Kamala Harris returns to Oakland to tout infrastructure, jobs plan"
+    excerpt: "For the first time since assuming office, Vice President Kamala Harris returned to Oakland Monday to promote the administration’s proposal to rebuild the country’s"
+    publishedDateTime: 2021-04-05T17:39:00Z
+    webUrl: "https://www.mercurynews.com/2021/04/05/kamala-harris-returns-to-oakland-to-tout-infrastructure-jobs-plan/"
+    ampWebUrl: "https://www.mercurynews.com/2021/04/05/kamala-harris-returns-to-oakland-to-tout-infrastructure-jobs-plan/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/05/kamala-harris-returns-to-oakland-to-tout-infrastructure-jobs-plan/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/AP21095651805111.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "VP Kamala Harris Officially Moves Into the Naval Observatory"
+    excerpt: "Vice President Kamala Harris will officially move into her residence at the Naval Observatory Tuesday night, according to NBC News."
+    publishedDateTime: 2021-04-07T08:11:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/media.nbcnewyork.com/2021/03/106855604-1616014100475-gettyimages-1230707928-KARENPENCE.jpeg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris lists Washington D.C. condo for $2M | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1.99 million. She no longer needs the ..."
+    publishedDateTime: 2021-04-07T21:49:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article250498814.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article250498814.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article250498814.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
+    excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
+    publishedDateTime: 2021-04-05T19:41:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-comes-to-Oakland-to-promote-2-16078305.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-comes-to-Oakland-to-promote-2-16078305.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-comes-to-Oakland-to-promote-2-16078305.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 74
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/35/40/20830223/5/375x250.jpg"
+        width: 375
+        height: 242
+        isCached: true
+  - title: "Good Luck Finding Stationary without Kamala Harris, RBG, or the ’F‘ Word"
+    excerpt: "Even stationery has to be about women who celebrate sex and abortion, apparently. Call me crazy, but I prefer flowers."
+    publishedDateTime: 2021-04-07T19:32:00Z
+    webUrl: "https://www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/"
+    ampWebUrl: "https://www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Kamala-Harris.jpg?fit=789%2C460&ssl=1"
+        width: 789
+        height: 460
+        isCached: true
+  - title: "Good Luck Finding Stationery without Kamala Harris, RBG, or the ‘F’ Word"
+    excerpt: "President Joe Biden and Vice President Kamala Harris deliver remarks at Emory University in Atlanta, Ga., March 19, 2021. (Carlos Barria/Reuters) Monday night I think I experienced what the kids call a “micro-aggression.” I was roaming after Mass on a ..."
+    publishedDateTime: 2021-04-07T19:32:00Z
+    webUrl: "https://www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/"
+    ampWebUrl: "https://www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/good-luck-finding-stationary-without-kamala-harris-rbg-or-the-f-word/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Kamala-Harris.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "VP Kamala Harris, HHS open drive to inspire Americans to take COVID-19 vaccine"
     excerpt: "RELATED Pfizer says COVID-19 vaccine 91% effective after 6 months As part of the launch, Vice President Kamala Harris and Surgeon General Vivek Murthy met with founding members on Thursday. The campaign will include public health experts such as the ..."
     publishedDateTime: 2021-04-01T17:09:00Z
@@ -182,6 +372,52 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/6031617291181/2021/1/e2f90b0ca4dc9c6fcad28b5e47f57802/v1.5/VP-Kamala-Harris-HHS-open-drive-to-inspire-Americans-to-take-COVID-19-vaccine.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Ron DeSantis blames ‘vaccine hesitancy’ on Joe Biden, Kamala Harris"
+    excerpt: "When Vice President Kamala Harris came to Jacksonville to tout the American Rescue Plan virus relief package this year, the governor was downstate at a gas station ribbon cutting."
+    publishedDateTime: 2021-04-07T01:09:00Z
+    webUrl: "https://floridapolitics.com/archives/417985-vaccine-hesitancy/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2019/03/ron-desantis.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Raleigh News & Observer"
+    excerpt: "This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine for COVID-19."
+    publishedDateTime: 2021-03-30T11:03:00Z
+    webUrl: "https://www.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
+    ampWebUrl: "https://amp.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/8e831fcf-b0fe-4821-9639-a1c1dccab51a/b8f21ad2-5b84-4548-b003-1266b304582c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Kamala Harris puts D.C. condo on market for $2 million. Look inside"
+    excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1.99 million. Exterior of Apartments at ..."
+    publishedDateTime: 2021-04-07T21:49:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article250498814.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article250498814.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article250498814.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris moving into residence at Naval Observatory next week, spokeswoman says"
     excerpt: "Vice President Kamala Harris and her husband, second gentlemen Doug Emhoff, will move next week into their new home at the U.S. Naval Observatory in Washington, D.C., her spokeswoman said Thursday. Symone D. Sanders, the vice president’s senior adviser ..."
@@ -199,93 +435,37 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Martin Short surprises on 'SNL' as Doug Emhoff for Kamala Harris' Seder: 'You got this baby!'"
-    excerpt: "Maya Rudolph's Vice President Kamala Harris wasn't alone on \"Saturday Night Live\" this weekend. \"SNL\" alum Martin Short was on hand in Studio 8H to play the role of Harris' husband and the first second gentleman of the United States, Doug Emhoff ..."
-    publishedDateTime: 2021-03-28T04:38:00Z
-    webUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2021/03/27/snl-martin-short-surprises-kamala-harriss-husband-emhoff/7035466002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7035466002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7035466002"
+  - title: "VP Kamala Harris urges Chicagoans to get vaccinated and stay safe: ‘In that way we will build back up’"
+    excerpt: "Gov. J.B. Pritzker and Mayor Lori Lightfoot greeted Harris when she landed about 1 p.m. at Midway Airport. The nation’s first ever woman and person of color to serve as vice president was in town to tout President Joe Biden’s vaccine effort on the day he directed states to open vaccine eligibility to all adults by April 19."
+    publishedDateTime: 2021-04-06T21:49:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 64
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 59
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/28/USAT/93b27ee4-d78f-4524-9dad-efc75379eb67-NUP_193635_0022.JPG?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Fact-checking false and misleading claims about Kamala Harris, online Taco Bell offers and more"
-    excerpt: "Associated Press writer Jude Joffe-Block in Phoenix contributed this report. CLAIM: Vice President Kamala Harris disrespected the military when she failed to salute the military escorts when boarding Air Force Two on March 19 in Georgia. THE FACTS ..."
-    publishedDateTime: 2021-03-26T23:30:00Z
-    webUrl: "https://www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/fact-checking-false-and-misleading-claims-about-kamala-harris-online-taco-bell-offers-and-more/article_ebc9ea55-a4dc-551c-babb-0452e553abd9.amp.html"
+  - title: "VP Kamala Harris urges Chicagoans to get the vaccine and to be safe: ‘In that way we will build back up’"
+    excerpt: "Vice President Kamala Harris speaks during visit to a COVID-19 vaccination site Tuesday, April 6, 2021, in Chicago. Listening are Chicago Mayor Lori Lightfoot, Sen. Dick Durbin, D-Ill.,"
+    publishedDateTime: 2021-04-06T21:50:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/4/6/22370710/kamala-harris-visits-chicago-vice-president-vaccine"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 63
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 58
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/07/30754044-ee64-5908-89be-bd9d8f26fa7c/605e3da0156bc.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Vice President Harris departs Jacksonville, Florida"
-    excerpt: "Vice President Kamala Harris boards Air Force Two as she departs Jacksonville, Florida on Monday, March 22, 2021. Vice President Harris toured a COVID-19 vaccination clinic and participated in a roundtable discussion on food insecurity."
-    publishedDateTime: 2021-03-22T23:28:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/a83a0a6d8749285b24cb6e433eae6004/Vice-President-Harris-departs-Jacksonville-Florida/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/a83a0a6d8749285b24cb6e433eae6004/HARRIS-JACKSONVILLE.jpg"
-        width: 650
-        height: 494
-        isCached: true
-  - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
-    excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
-    publishedDateTime: 2021-03-27T14:03:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php?src=sthpdesecp"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
-  - title: "What's for lunch, Vice President Kamala Harris? Sally's Apizza"
-    excerpt: "NEW HAVEN — What does Vice President Kamala Harris eat for lunch when she comes to New Haven? Sally’s Apizza — or at least that’s what she and/or her entourage ate Friday. Not Pepe’s. Not Modern. Not Zuppardi’s, Ernie’s, Roseland, Abate or Bar."
-    publishedDateTime: 2021-03-26T20:18:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/What-s-for-lunch-Vice-President-Kamala-Harris-16056443.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/24/30/20792890/5/rawImage.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Crowds turn out to greet VP Kamala Harris in New Haven & West Haven"
-    excerpt: "NEW HAVEN — You almost didn’t have to ask Maya Cedor, 6, and her brother Dresden, 8, what was so special about Vice President Kamala Harris flying into Tweed New Haven Regional Airport to visit New Haven and West Haven that would cause their family to ..."
-    publishedDateTime: 2021-03-28T06:36:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Crowds-turn-out-to-greet-VP-Kamala-Harris-in-New-16056206.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/24/53/20794053/3/rawImage.jpg"
-        width: 2048
-        height: 1536
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Kamala Harris has Discussion with Faith Leaders at the White House"
     excerpt: "U.S. Vice President Kamala Harris holds a roundtable discussion with faith leaders on their efforts to encourage communities to take the COVID-19 vaccine at the White House on Wednesday, March 31, 2021 in Washington,"
@@ -301,47 +481,44 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Vice President Kamala Harris got another dose of CT's famed pizza, in West Haven"
-    excerpt: "The co-owner of Zuppardi’s Apizza on Union Avenue was another local pizzeria paid a visit by Vice President Kamala Harris’ security detail during Harris’ visit to New Haven and West Haven Friday. Harris staffers also picked up 15 pies from the Elm City’s famed Sally’s Apizza,"
-    publishedDateTime: 2021-03-27T17:18:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Vice-President-Kamala-Harris-got-another-dose-of-16057956.php?src=sthpdesecp"
+  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
+    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
+    publishedDateTime: 2021-04-06T14:22:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 50
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 49
+  - title: "At Long Last, Kamala Harris Is Home: Take a Look Inside the Vice President's Residence"
+    excerpt: "At last—moving day has arrived! Vice President Kamala Harris finally resides in her official residence on the grounds of the U.S. Naval Observatory. Why the long wait, given she was sworn in three months ago? It's because her six-bedroom, 9,000-square ..."
+    publishedDateTime: 2021-04-07T21:22:00Z
+    webUrl: "https://www.chron.com/realestate/article/At-Long-Last-Kamala-Harris-Is-Home-Take-a-Look-16084432.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 47
     images:
-      - url: "https://s.hdnux.com/photos/01/16/62/33/20653798/11/rawImage.jpg"
-        width: 2048
-        height: 1374
+      - url: "https://s.hdnux.com/photos/01/17/37/65/20839795/3/rawImage.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "New Haven pastor says clergy, others should have been at Kamala Harris appearance"
-    excerpt: "The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association, said Monday it was inappropriate for him and other officials not to have been invited to Vice President Kamala Harris’ recent appearance at the Boys & Girls Club of New Haven,"
-    publishedDateTime: 2021-03-29T22:38:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/New-Haven-pastor-says-clergy-others-should-have-16062047.php"
+  - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
+    excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
+    publishedDateTime: 2021-04-02T11:19:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/attachment/air-force-two-carrying-vice-president-kamala-harris-prepares-to-land-at-mccarran-internationa/"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 50
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 43
     images:
-      - url: "https://s.hdnux.com/photos/01/12/26/15/19489630/32/rawImage.jpg"
-        width: 2048
-        height: 1585
-        isCached: true
-  - title: "WATCH: Vice President Kamala Harris Under Fire For Failing to Salute Honor Guard Before Boarding Air Force Two"
-    excerpt: "Vice President Kamala Harris is facing criticism for appearing to break with precedent and failing to salute the honor guard when boarding Air Force Two. Video reviewed by Fox News showed that her predecessors,"
-    publishedDateTime: 2021-03-24T04:00:00Z
-    webUrl: "https://spacecoastdaily.com/2021/03/watch-vice-president-kamala-harris-under-fire-for-failing-to-salute-honor-guard-before-boarding-air-force-two/"
-    type: article
-    provider:
-      name: Space Coast Daily
-      domain: spacecoastdaily.com
-    quality: 35
-    images:
-      - url: "https://spacecoastdaily.com/wp-content/uploads/2021/03/Kamala-Harris-Failure-to-Salute-Honor-Guard.jpg"
-        width: 600
-        height: 331
+      - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "95rplacJrYETeM/6/7EWBqZB9OWxml4Oa26GplEbYD0nLz6BPM4K0/6s4SaZ1GEDyKCtVh2PdGyDLDsS/l3Cb5kaoZdC7UauVTjVqrts8DwvJVpQ/vZ5+w1L/6SnCiyect+VPqP+BuNzAP1QBpwe/gVrRHPFsyuPoVjGh+FAGrDOaWjjvL9qWd+jajNn8CYN/z6Y4uHQtGvuQZU8S4mL5z3J1Xdpc3cI3/A1iUHIQ0vWQbEEBwuTOKjWoI+1OTl68mYDJskS5rbqfp6K/8+3jznHsk46eKbpVD7TxGtbH0VCh2F+p4CLyy7iUKYRqRHrqXnrC+rBpxmadqrb7TypZI0yUYAsbuXna7jCdYYNgDWlgL4iMWt9dJyVUU4lEzeZeOex6ge+GV0W3rOtannTChGpW3K7Y3qh37Cbvbka5Y/zDfuxCXY900iKgJDnIct/Va5JlHAMfrzzRnrKIg2LOj48Qnu7h66PPPjWrkctzNKYAoa9FdIbFn7S0V81miwCV80/wbkkjjyhNiik0hZRNA==;cO/tJB/4GmqEWxTtQpKY3A=="

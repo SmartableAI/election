@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vice President Kamala Harris to visit Chicago next week to discuss equitable distribution of COVID-19 vaccine"
-    excerpt: "Vice President Kamala Harris will visit Chicago on Tuesday to talk about equitable distribution of the COVID-19 vaccine, according to the White House. It’s her first official visit here since she and President Joe Biden were inaugurated. In rolling out ..."
-    publishedDateTime: 2021-04-01T03:24:00Z
-    webUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-kamala-harris-chicago-visit-20210401-7r42f7wbzne6rmv3q7vdxufbce-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 106
-    images:
-      - url: "https://www.chicagotribune.com/resizer/w4JNZVIqZX0LrYozGoPmn2UnRig=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/WI5A4JNE2CBALGRAM2V4LHPXRY.aspx"
-        width: 1200
-        height: 759
-        isCached: true
   - title: "Vice President Kamala Harris visits Chicago COVID-19 vaccination facility for union workers: ‘We are all in this together.’"
     excerpt: "Vice President Kamala Harris, joined by Illinois’ top Democrats, touted efforts to expand vaccination sites in underserved communities Tuesday as the White House announced all adults in the U.S. will be eligible for vaccines by April 19 rather than May 1."
     publishedDateTime: 2021-04-06T19:59:00Z
@@ -75,54 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kamala Harris returns to Oakland to tout infrastructure, jobs plan"
-    excerpt: "For the first time since assuming office, Vice President Kamala Harris returned to Oakland Monday to promote the administration’s proposal to rebuild the country’s"
-    publishedDateTime: 2021-04-05T17:39:00Z
-    webUrl: "https://www.mercurynews.com/2021/04/05/kamala-harris-returns-to-oakland-to-tout-infrastructure-jobs-plan/"
-    ampWebUrl: "https://www.mercurynews.com/2021/04/05/kamala-harris-returns-to-oakland-to-tout-infrastructure-jobs-plan/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/05/kamala-harris-returns-to-oakland-to-tout-infrastructure-jobs-plan/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/AP21095651805111.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "VP Kamala Harris Officially Moves Into the Naval Observatory"
-    excerpt: "Vice President Kamala Harris will officially move into her residence at the Naval Observatory Tuesday night, according to NBC News."
-    publishedDateTime: 2021-04-07T08:11:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/media.nbcnewyork.com/2021/03/106855604-1616014100475-gettyimages-1230707928-KARENPENCE.jpeg?quality=85&resize=1200%2C675&strip=all&ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
-    excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
-    publishedDateTime: 2021-04-05T19:41:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-comes-to-Oakland-to-promote-2-16078305.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-comes-to-Oakland-to-promote-2-16078305.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-comes-to-Oakland-to-promote-2-16078305.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 74
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/35/40/20830223/5/375x250.jpg"
-        width: 375
-        height: 242
-        isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to visit Omaha on Tuesday"
     excerpt: "Doug Emhoff's Omaha visit is part of the \"Help Is Here Tour\" to tout the American Rescue Plan, the $1.9 trillion economic stimulus package signed by President Joe Biden."
     publishedDateTime: 2021-03-22T17:08:00Z
@@ -138,22 +74,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ff/9fff39ec-8b26-11eb-9974-ebd1af91d058/5fa6d8b7cf982.image.jpg?crop=299%2C487%2C929%2C107"
         width: 299
         height: 487
-        isCached: true
-  - title: "Vice President Kamala Harris puts D.C. condo on market for $2 million. Look inside"
-    excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1.99 million. Exterior of Apartments at ..."
-    publishedDateTime: 2021-04-07T21:49:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article250498814.html"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article250498814.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article250498814.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 69
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "‘Saturday Night Live’: Maya Rudolph and Martin Short host Passover Seder as Kamala Harris and Doug Emhoff"
     excerpt: "When Maya Rudolph returned to Studio 8H to host “Saturday Night Live” on March 27, so too did her take on Vice President Kamala Harris make a comeback.It didn’t come until a third of the way through the episode,"
@@ -216,45 +136,6 @@ related:
       - url: "https://www.courant.com/resizer/Uq4A22_jaA7xoDm6J7BcU6sBO8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2675KIP57DE3RCW6GDNDKRK3XQ.aspx"
         width: 1200
         height: 782
-        isCached: true
-  - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
-    excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
-    publishedDateTime: 2021-04-06T14:22:00Z
-    webUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/06/nation/her-first-major-task-vp-kamala-harris-is-handed-thorny-diplomatic-mission/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 49
-  - title: "At Long Last, Kamala Harris Is Home: Take a Look Inside the Vice President's Residence"
-    excerpt: "At last—moving day has arrived! Vice President Kamala Harris finally resides in her official residence on the grounds of the U.S. Naval Observatory. Why the long wait, given she was sworn in three months ago? It's because her six-bedroom, 9,000-square ..."
-    publishedDateTime: 2021-04-07T21:22:00Z
-    webUrl: "https://www.chron.com/realestate/article/At-Long-Last-Kamala-Harris-Is-Home-Take-a-Look-16084432.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 47
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/37/65/20839795/3/rawImage.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran Internationa"
-    excerpt: "Air Force Two, carrying Vice President Kamala Harris, prepares to land at McCarran International Airport on Monday, March 15, 2021, in Las Vegas. (Evan Barber)"
-    publishedDateTime: 2021-04-02T11:19:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/attachment/air-force-two-carrying-vice-president-kamala-harris-prepares-to-land-at-mccarran-internationa/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 43
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/themes/rjth2019/images/defaultimage-1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "PnC+QlULtFN+S/TEv23J3wG+ITyI2vps/BM/AtVF32O7pjf9EkIgQ5ijhMU/O+CxKKYEpDRia9A69OKuLF1GYhnOyfm+6rjZwe85FaXDBbwh3PkndX5gh9zVeRxTb6/NeXPNeDtKxKs4Wct5FDVUEuNMRTEojtxvPGjJmDocmvKAtTs5jUroeQ5iY9qGvxhIS2FYmql65O5ytzUdxNHE14wMDCDmXlLmmupvQ4M53vl7GGKNZ3ZHxsnhXWRBfG/eF9ZiV6ZElmp6X3z/IHmUJ9BmqcMYATXvrGZTQs7ohZs6twytWqWtewBnZHU6y09Z2mXTbtJqot74xkuRGnrISIqJYQ7riPUSoJSC+GDeLJOF3iqg7/ze8gbV16olRyAdB38Fh3m0bbEnFvsClslVSZIHpEku/xG1bsCqNRrRSr8mRetCCLVC/Qe0N0U3JYxhHO2AMz+gkQvTwcgLbFhVdnzeRmzmpuQmDPRylTSeVZQR12cPd954uuJc63KXoQO0WVtuqR42lpmbG95/fbyelQ==;AZ2bmv80kOEp4KivZdcBpg=="

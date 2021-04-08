@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence inks deal to write 2 books"
+    excerpt: "Washington — Former Vice President Mike Pence has signed a deal with Simon & Schuster to publish two books, with the first, his autobiography, tentatively set to hit shelves in 2023 as the nation gears up for the next presidential election. His ..."
+    publishedDateTime: 2021-04-08T12:35:00Z
+    webUrl: "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/a0af4233-839a-42bc-b7ea-17a6b76762fa/thumbnail/1200x630/c35ad2142b94342d0dc5c9892e32ec28/gettyimages-1230702122.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Pence joins Simon & Schuster’s political roster with two-book deal"
     excerpt: "Mike Pence, former vice president of the United States, will write his autobiography and another book for Simon & Schuster, the publisher announced Wednesday. In doing so he joins some serious political families on the Simon & Schuster author roster ..."
     publishedDateTime: 2021-04-07T21:29:00Z
@@ -46,6 +62,38 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/cdab4c8/2147483647/strip/true/crop/480x314+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8HvxbQCEsFU%2Fhqdefault.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Mike Pence's Memoir Could Be Explosive—5 Things to Look Out For"
+    excerpt: "\"I look forward to working with the outstanding team at Simon & Schuster to invite readers on a journey from a small town in Indiana to Washington, D.C.\" U.S. Vice President Mike Pence presides over a joint session of Congress on January 06, 2021 in ..."
+    publishedDateTime: 2021-04-08T09:58:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-memoir-things-look-1581910"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-things-look-1581910?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-things-look-1581910?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1772968/vice-president-mike-pence.jpg"
+        width: 1024
+        height: 676
+        isCached: true
+  - title: "Former Vice President Mike Pence autobiography to arrive in 2023"
+    excerpt: "Vice President Mike Pence speaks during a memorial service for the late Air Force Brig. Gen. Chuck Yeager in Charleston, West Virginia, in 2021. AP NEW YORK — Former Vice President Mike Pence ..."
+    publishedDateTime: 2021-04-07T20:29:00Z
+    webUrl: "https://chicago.suntimes.com/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Mike Pence to publish book, covering political career from Indiana to the White House"
     excerpt: "Wednesday was a busy day for former vice president Mike Pence. Pence is publishing his first autobiography with publisher Simon & Schuster, the company announced in a news release. The book announcement comes the same day Pence announced he is launching ..."

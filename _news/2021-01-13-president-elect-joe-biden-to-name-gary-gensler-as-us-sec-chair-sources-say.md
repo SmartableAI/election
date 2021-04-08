@@ -255,6 +255,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Arizona Blocks Federal Gun Control Measures Ahead of Joe Biden Address"
+    excerpt: "The Republican has pre-empted President Joe Biden's plan to tackle gun violence with a raft of executive orders this week by signing Arizona House Bill 2111. Under the state legislation, known as the Second Amendment Firearm Freedom Act, federal gun laws ..."
+    publishedDateTime: 2021-04-08T12:23:00Z
+    webUrl: "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921"
+    ampWebUrl: "https://www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arizona-blocks-federal-gun-control-joe-biden-1581921?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1772989/arizona-governor-doug-ducey.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "What could Democratic control of Senate mean for wages, child care, unions under Biden?"
     excerpt: "With Democrats in control of the White House and Congress, President Joe Biden may reshape the workplace from raising wages to encouraging diversity"
     publishedDateTime: 2021-01-07T07:45:00Z

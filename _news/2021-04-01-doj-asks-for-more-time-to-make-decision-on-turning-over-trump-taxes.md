@@ -32,36 +32,20 @@ images:
 
 related:
   - title: "Pence launches group as Trump officials line up new roles"
-    excerpt: "Former Vice President Mike Pence has launched a new advocacy group as he and other Trump administration officials look to boost their post-White House plans Secretary of state nominee commits to ..."
-    publishedDateTime: 2021-04-07T20:09:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/pence-launches-group-trump-aides-line-roles-76927995"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/pence-launches-group-trump-aides-line-roles-76927995"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/pence-launches-group-trump-aides-line-roles-76927995"
+    excerpt: "WASHINGTON — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence’s Advancing American Freedom, which could serve as a springboard for his own ..."
+    publishedDateTime: 2021-04-07T20:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 150
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_ee794f6ee81c4021b14cc4498a35eae5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "2 U.S. Capitol Police officers sue Trump over January 6 assault"
-    excerpt: "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ..."
-    publishedDateTime: 2021-03-31T13:02:00Z
-    webUrl: "https://www.cbsnews.com/news/us-capitol-police-donald-trump-capitol-assault/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/us-capitol-police-donald-trump-capitol-assault/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/31/34ce156b-e05d-4c89-9c44-357ee445df67/thumbnail/1200x630/fc37e7ded2812eec9cbc2bb9a2a11390/gettyimages-1230457837.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "AP Interview: EPA head removes Trump-era science advisers"
     excerpt: "Michael Regan, the new head of the Environmental Protection Agency, is reversing Trump administration actions that sidelined many academic scientists as advisers in favor of industry figures ..."
@@ -94,38 +78,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
         width: 817
         height: 545
-        isCached: true
-  - title: "The Memo: The mystery of post-presidency Trump"
-    excerpt: "Former President Trump Donald Trump The Hill's Morning Report - Biden seeks expanded government, tax hikes Georgia voter limits take root amid weakened Justice Department Battle rages over vaccine ..."
-    publishedDateTime: 2021-04-01T09:59:00Z
-    webUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump"
-    ampWebUrl: "https://thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/545881-the-memo-the-mystery-of-post-presidency-trump?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "New York attorney general probes Trump Organization's CFO"
-    excerpt: "who has handled former President Trump Donald Trump The Hill's Morning Report - GOP pounces on Biden's infrastructure plan Pompeo 'regrets' not making more progress with North Korea Biden sets off ..."
-    publishedDateTime: 2021-04-02T01:12:00Z
-    webUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo"
-    ampWebUrl: "https://thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/domestic-taxes/546109-new-york-attorney-general-probes-trump-organizations-cfo?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_022621getty_trump-gop.jpeg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Trump looms large in race for South Carolina GOP chairman"
     excerpt: "COLUMBIA, S.C. — In South Carolina — where Donald Trump’s 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state’s Republican Party is ..."
@@ -191,38 +143,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Supreme Court dismisses case over Trump and Twitter critics"
-    excerpt: "The Supreme Court has dismissed a case over former President Donald Trump’s efforts to block critics from his personal Twitter account What’s next for Donald Trump? WASHINGTON -- The Supreme ..."
-    publishedDateTime: 2021-04-05T14:33:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ef0a3b52c3bb4859875d5e3de45cc78e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Supreme Court tosses dispute over Trump blocking critics on Twitter"
-    excerpt: "Washington — The Supreme Court on Monday ordered a dispute over former President Donald Trump's ability to block his critics on Twitter to be tossed out, bringing the battle over Mr. Trump's Twitter account to a close as he is no longer in office and has ..."
-    publishedDateTime: 2021-04-05T14:06:00Z
-    webUrl: "https://www.cbsnews.com/news/supreme-court-dismisses-trump-twitter-block-case/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-dismisses-trump-twitter-block-case/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-dismisses-trump-twitter-block-case/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/8f943e8b-3d89-4e51-8dde-340301a2dc97/thumbnail/1200x630/40af24c84aa08e0d7a63366f9427fe69/gettyimages-1231617290.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Donald Trump Jr. Calls on GOP to Oppose Vaccine Passports or Quit"
     excerpt: "Donald Trump Jr. urged Republicans to vehemently oppose vaccine passports, calling the measure potentially the \"greatest affront\" on American freedoms in recent history. President Joe Biden's administration is leaving implementation of health passports up ..."
     publishedDateTime: 2021-04-06T15:13:00Z
@@ -270,22 +190,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/b3f68a28-4539-4793-a916-84745e0921ca/thumbnail/1200x630/94d4e1ba00bc9fe6727a002cf99cbe91/gettyimages-1230475710.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Former Trump housing official sanctioned over campaign video"
-    excerpt: "NEW YORK — A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday."
-    publishedDateTime: 2021-04-06T18:43:00Z
-    webUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Pence launches conservative political group"
     excerpt: "Former Vice President Mike Pence Michael (Mike) Richard Pence Republican battle with MLB intensifies War over voting laws further corrodes trust in elections The Memo: Biden's bet on taxes MORE ..."
@@ -506,22 +410,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Ex-Trump Official Sery Kim Rejects Chinese Immigrants, Believes It's OK to Say as a Korean"
-    excerpt: "She also served served as assistant administrator for the Small Business Administration under former President Donald Trump. Kim also argued that the rise in violent attacks against Asian Americans have always existed but are only now being covered by the ..."
-    publishedDateTime: 2021-04-02T21:52:00Z
-    webUrl: "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802"
-    ampWebUrl: "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1771259/sery-kim.jpg"
-        width: 2048
-        height: 1704
-        isCached: true
   - title: "Former Trump HUD official fined and barred from federal employment for violating Hatch Act"
     excerpt: "A former political appointee under the Trump administration has been disciplined ... and Urban Development to support former President Donald Trump's reelection campaign, the U.S. Office of ..."
     publishedDateTime: 2021-04-06T20:38:00Z
@@ -626,22 +514,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5t076Ijl52Y/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Biden lifts Trump sanctions on international court officials"
-    excerpt: "President Joe Biden on Friday lifted sanctions that Donald Trump had imposed on two top officials of the International Criminal Court, undoing one of the past administration's more aggressive moves targeting international institutions and officials."
-    publishedDateTime: 2021-04-03T00:03:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-lifts-Trump-sanctions-on-international-16073212.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-lifts-Trump-sanctions-on-international-16073212.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-lifts-Trump-sanctions-on-international-16073212.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "AP Interview: EPA head removes Trump-era science advisers"
     excerpt: "WASHINGTON (AP) — In a move he said would help restore “scientific integrity,” the new head of the Environmental Protection Agency is removing dozens of scientists and other experts from key advisory boards named under President Donald Trump ..."

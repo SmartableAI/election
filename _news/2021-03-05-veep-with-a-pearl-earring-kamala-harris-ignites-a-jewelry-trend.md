@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-p
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
 type: article
 quality: 125
-heat: 905
+heat: 885
 published: true
 
 provider:
@@ -304,22 +304,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
         width: 570
         height: 321
-        isCached: true
-  - title: "A Black conservative takes on Kamala Harris"
-    excerpt: "A leading Black conservative is troubled by President Biden‘s decision to place Vice President Kamala Harris in charge of immigration policy. “Our greatest concern about her appointment to such a crucial task is not just the spread of the COVID-19 ..."
-    publishedDateTime: 2021-03-31T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/31/inside-the-beltway-a-black-conservative-takes-on-k/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/31/3_312021_beltway-autry-pruit8202_c0-2-950-556_s1200x700.jpg?8b92e6e44f42e0bcd0a9021d97d4e96cab46d2b1"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."

@@ -143,6 +143,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "President Biden making a push for tighter gun safety laws with new executive actions"
+    excerpt: "Biden's infrastructure plan: What's inside the new $2 trillion bill?"
+    publishedDateTime: 2021-04-08T12:41:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/04/08/ghost-guns-among-items-targeted-new-presidential-executive-actions/7137513002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/99db72df-f487-4d46-9179-1bbabff8f383-VPC_BIDEN_GUN_CONTROL_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "FEzfqWZymkWZGU03k/MH/BEy51lPWdczee6cuFtzhSOE/p8RdL9NkylXRX3Zmtm5oy4sqrheEEhpCgY24umtYFH1KJPi9c1wtkH/urx0bnSw45+X9DkGOA4Kaw7ERYtaZ8EneT64aOs+wus/9r0ZdTwlV0yUA+D/OcomTSKuM1oi/JQatCVOntMNvVyv9ckXzbDu/j5HpS2JOIRVQWWPtOzZBQuCjRutqc5ctQitXI9/xmp3SDZM7KsF+QxBmMc2v1+l5tEAMS0wVcP9SqQFFki77rq1geAc7xS7rblN/NTX7+HpPjXA4uEY2cjfIj++BPwEgNKWpXuSDD3IDvx3M57BwDjuc/A4/BDjTVdp8SA=;dKU9y5Hb7CfPRtMK5AsVYQ=="
 ---
