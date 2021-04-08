@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/pence-launches-group-trump-a
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/pence-launches-group-trump-aides-line-roles-76927995"
 type: article
 quality: 150
-heat: 1090
+heat: 1130
 published: true
 
 provider:
@@ -352,6 +352,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump tweets can't be brought back to life on Twitter"
+    excerpt: "The often colourful tweets of former president Donald Trump are being preserved for posterity but may never appear again on Twitter. The National Archives and Records Administration (Nara) is working to create an official online archive. But, according to ..."
+    publishedDateTime: 2021-04-08T11:33:00Z
+    webUrl: "https://www.bbc.com/news/technology-56675272"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-56675272"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-56675272"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/27A4/production/_116384101_mediaitem116381016.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Pence, eyeing 2024 presidential bid, launches group to defend Trump-era policies from \"liberal attacks and media distortions\""
     excerpt: "Former Vice President Mike Pence is beginning to reemerge after the end of the Trump administration with the launch of a new group to counter the policies of the Biden administration and the Democratic-controlled Congress. The former vice president has ..."
     publishedDateTime: 2021-04-07T16:45:00Z
@@ -427,6 +443,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Republicans are concerned about the debt again, even as they admit Trump grew it"
+    excerpt: "Republicans who voted to grow the national debt under former president Donald Trump are trumpeting fiscal conservatism again during a Democratic presidency. (JM Rieger/The Washington Post) Over the past month, Senate Republicans have acknowledged something ..."
+    publishedDateTime: 2021-04-08T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-07-2021/t_e2b3b27c520d4e0c82f8b4a130782d96_name_20210406_GOP_DEBT_V4.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Ex-Trump aide Stephen Miller launches legal group to fight Democrats in the courts"
     excerpt: "Washington — Stephen Miller, who was a top aide to former President Donald Trump and the driving force behind his hardline immigration policies, has launched a new legal group that aims to take the fight against President Biden and Democrats' agenda to ..."
     publishedDateTime: 2021-04-07T19:06:00Z
@@ -765,6 +797,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Y5Z1IJgv5hqe1e0As1bAT5x/FCh+/z2cMgEy7G9KaW8vU/7FaJ0uAo9eEY+F1xGeu+S4R9bUHS/cc/b/qu5wO+QNte9Yon7gkfn6AMdRYwWK3ryXovQrPG6sI+kXnj1eZwNuDRTy0kL/F4lV/R8E9Toj55l+vh6uX+4Rvi87bzFwGwUvMJUsck48C8dxHHSwZnbky6Es4+mKC3eraahtTvZNzV1l0rUho8eB9wQ2SqWLjAWl2dq0/2kiEbSCcHnUy94O78dybu9l2QUeLIqfq3QkAMIs+YUPtKaYEQ3LwPHHG3Y6fat2GxW0hHbHi2oJOo4Jr/QCItpviV/uJHFr9TDBquQjgtiPUB+9F0Adi7c=;nWR4NsV8uwgE0zSZ+F/pjw=="
+secured: "6FBU82FzNJAzmlLnZ89NzPAQYehexacE9EHEttk289DdDeJSs6e8mN+gN7+VIWKuV+4GIrlRWDvcfUBfgWSD0BPsLt2zKxNLTTGe3yCTV/0uODkdzIxAxiYKvCV6PUF2tIMPasjzElxaNdodL3qeIl6+gZPeJiymzAwV1vrT7BmvKwYMfr8wSEdeEe8k2Dar3+jD20ZJmn7mhFimH7KVBCeIlhwgVKL20cLtXqGiElq55y1LP6pzzYqoonoHP2kzzvEmp11RUPItWETDqWCjMeUlCFQn5fgGB46cVudr3mO2FAmLdL2oESc2aTZT7oGwg9inOXmZFjSKRwYEjsHZvN+XJShtYysy08MuPYiHbV8=;KTgfCPqhtxrfymfsxbmkIg=="
 ---
 

@@ -2,6 +2,174 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-01-the-point-beware-false-trump-idols.md",
+      "title": "The Point: Beware false (Trump) idols!",
+      "excerpt": "On Sunday morning, Republican Sen. Bill Cassidy of Louisiana told CNN's Dana Bash something very important about the future of his party.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MjX8YwpuUqw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MjX8YwpuUqw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226130555-01-golden-trump-statue-cpac-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/01/politics/gop-future-trump-cpac-bill-cassidy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/gop-future-trump-cpac-bill-cassidy/index.html",
+      "publishedDateTime": "2021-03-01T15:35:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-maccallum-presses-buttigieg-as-a-responsible-person-how-could-you-support-biden-covid-relief-plan.md",
+      "title": "MacCallum presses Buttigieg: 'As a responsible person,' how could you support Biden COVID relief plan?",
+      "excerpt": "Transportation Secretary Pete Buttigieg defended his support of President Biden’s $1.9 trillion COVID-19 relief plan on Monday, dismissing Republican complaints over Democratic pet projects and unrelated items included in the legislation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MneA_m61o9E/pete-buttigieg-biden-covid-relief-spending-martha-maccallum",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MneA_m61o9E/pete-buttigieg-biden-covid-relief-spending-martha-maccallum",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43a783a4-a7d3-40c4-86a3-585d95322bf7/5cf9f052-c462-428e-add5-8cb7e5b298c7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pete-buttigieg-biden-covid-relief-spending-martha-maccallum.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pete-buttigieg-biden-covid-relief-spending-martha-maccallum.amp",
+      "publishedDateTime": "2021-03-01T14:27:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-donald-and-melania-trump-received-covid-vaccine-at-the-white-house-in-january.md",
+      "title": "Donald and Melania Trump received Covid vaccine at the White House in January",
+      "excerpt": "Former President Donald Trump and former first lady Melania Trump received the Covid-19 vaccine at the White House in January, a Trump adviser told CNN on Monday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tGRfT0yCCDg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tGRfT0yCCDg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301152606-01-donald-melania-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/01/politics/trump-melania-vaccinated-white-house/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/trump-melania-vaccinated-white-house/index.html",
+      "publishedDateTime": "2021-03-01T14:04:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-mcconnell-says-the-gop-will-back-murkowskis-reelection-despite-trump-threat.md",
       "title": "McConnell says the GOP will back Murkowski's reelection despite Trump threat",
       "excerpt": "Senate Minority Leader Mitch McConnell committed on Monday that Senate Republicans will support GOP Sen. Lisa Murkowski's reelection bid in 2022 despite former President Donald Trump advocating that the GOP \"get rid of\" the 17 Republicans in Congress who voted against him during his second impeachment.\n",
@@ -549,7 +717,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 475,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1183,167 +1351,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-trump-thinks-hes-a-god-cpac-packed-with-cult-followers-michael-cohen-says.md",
-      "title": "Trump 'Thinks He's a God,' CPAC Packed With Cult Followers, Michael Cohen Says",
-      "excerpt": "Organizers installed a golden statue of Trump, whose behavior Cohen described as \"sociopathic,\" at the conservative event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576",
-      "originalUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1744731/michael-cohen-attorney-donald-trump.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576?amp=1",
-      "publishedDateTime": "2021-02-27T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-trump-supporters-who-breached-the-capitol-it-was-not-antifa.md",
-      "title": "Trump supporters who breached the Capitol: 'It was not Antifa'",
-      "excerpt": "Nearly a dozen Trump supporters charged in connection with the US Capitol insurrection have said that Antifa and other left-wing groups weren't involved in the attack, debunking a false-flag conspiracy theory that is gaining popularity in the pro-Trump orbit.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONjE18kvPbY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONjE18kvPbY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205104923-104-january-6-capitol-riots-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html",
-      "publishedDateTime": "2021-02-27T06:01:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-jake-tapper-says-joe-biden-is-like-donald-trump-on-saudi-prince-save-mbs-ass.md",
-      "title": "Jake Tapper Says Joe Biden Is Like Donald Trump on Saudi Prince: 'Save MBS' Ass'",
-      "excerpt": "CNN's Jake Tapper compared President Joe Biden to former President Donald Trump on Friday following the administration's decision not to sanction Saudi. A U.S. intelligence report published on Friday concluded that bin Salman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561",
-      "originalUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1744714/saudi-arabias-crown-prince-mohammed-bin-salman.jpg",
-          "width": 2500,
-          "height": 1658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1",
-      "publishedDateTime": "2021-02-27T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
       ]
     }
   ],

@@ -30,35 +30,83 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's planned pick for ATF director a fierce advocate for gun control"
-    excerpt: "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n"
-    publishedDateTime: 2021-04-08T01:30:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
+  - title: "Biden: High-speed internet is infrastructure "
+    excerpt: "President Joe Biden responds to critics who say his $2 trillion infrastructure plan is \"too big\" and he should instead focus on traditional forms of infrastructure.\n    \n"
+    publishedDateTime: 2021-04-07T18:50:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KU4p8CymnSk/joe-biden-infrastructure-plan-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407144138-joe-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to take first limited steps on gun control, including on 'ghost guns' and pistol braces"
-    excerpt: "President Joe Biden plans to announce new executive actions on guns on Thursday, a person familiar with the plans said, fulfilling a commitment he made in the aftermath of two deadly shootings last month.\n    \n"
-    publishedDateTime: 2021-04-08T01:13:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbuhfS5sVSo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html"
+  - title: "Biden: It's 'reassuring' to see companies speaking up about restrictive voting laws"
+    excerpt: "President Joe Biden said Tuesday that it is \"reassuring\" to see businesses \"speaking up\" about restrictive voting laws, but added that he respects whatever judgment a corporation may make as part of its response.\n    \n"
+    publishedDateTime: 2021-04-06T21:39:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3Kp__9O5G0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162103-01-biden-vaccine-remarks-0406-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406172321-joe-biden-april-6-2021-04-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan"
+    excerpt: "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,"
+    publishedDateTime: 2021-03-31T08:52:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden, in Pennsylvania, Details $2 Trillion Infrastructure Plan"
+    excerpt: "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ..."
+    publishedDateTime: 2021-04-01T18:59:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede/31dc-biden-HP-videoSixteenByNineJumbo1600-v3.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Sanders: Biden has given a serious proposal based on a serious problem"
+    excerpt: "Sen. Bernie Sanders (I-VT) discusses President Joe Biden's infrastructure plan and tells CNN's Jake Tapper that the US needs to address its \"human infrastructure\" as well."
+    publishedDateTime: 2021-04-04T14:15:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404095914-sanders-sotu-0404-vpx-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
@@ -78,37 +126,21 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden to announce executive actions on gun control, name ATF nominee"
-    excerpt: "WASHINGTON — President Joe Biden is expected to announce a series of executive actions Thursday on gun control and to nominate a prominent gun control advocate to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives, White House officials said."
-    publishedDateTime: 2021-04-07T22:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announce-executive-actions-guns-name-atf-nominee-n1263385"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263385"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263385"
+  - title: "Biden says he’s willing to compromise on his infrastructure plan, but will not tolerate ‘doing nothing.’"
+    excerpt: "like Senator Joe Manchin III of West Virginia, who have suggested they might agree to a corporate tax increase, but one not quite as big as the 28 percent Mr. Biden has proposed. The current rate is 21 percent. Asked if he was willing to compromise on the ..."
+    publishedDateTime: 2021-04-07T12:32:00Z
+    webUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2019_32/2960651/190805-gun-store-texas-2009-ac-746p_f75a3534f260768c4cd06851439901ce.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
-    excerpt: "(CNN)President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on ..."
-    publishedDateTime: 2021-04-08T04:01:00Z
-    webUrl: "https://www.cnn.com/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 128
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407164459-02-biden-jobs-plan-0407-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07new-was-biden-sub/07new-was-biden-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "isGl4NBwSx3spD96aDdFLAQtzlx+NNR2YjE4HEVwP8AvdeYmvr5nu3AaiR/XbHGtNfnpH0/9KptVbtZTmRcrur+6xpm+lweGwAafabHy/CYs9Hbd1PY/me15CTxWrvxZu3TkByxQPzOhZf4T9YgKDmxUNW8rQmofqSgZN30sd1YT0z4SfWXZMdHcHMlmP2V8gqc00+xtmqvobHPJ8JsMnQSz9ZPpYxhfYF6mDnF81/edPfvSxT5yoowDAd1LTh6dCuYD4f8L3cVgaIpvyNvnie+q/Aut8kIr02oq+FYc5bhcNzLP0iOUZEriwoPEqj5TCSJ+sV42tgw97Uf1duWBnBiwdEmpVhR5V8mIzqcIP2mjI47tSrJj1LSbSyXYevg8HC5zBhpjWVIzYICYUxJR+JmX5jD1MAzn/ANzALThb3idUUuet7u12qdhMhYXpMlap2x9hV3PJRtIkuKwO1Nwwc8kgjbaCJRBmcGHkB0JrClrWvptXxySIeZRdxWl+oWBMvripNX0cHrAI2JWDapEjg==;3SAE8uk52Xaw7CO+NHcIHQ=="

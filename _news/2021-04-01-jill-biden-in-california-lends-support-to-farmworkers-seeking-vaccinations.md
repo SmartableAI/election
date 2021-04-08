@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan"
-    excerpt: "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,"
-    publishedDateTime: 2021-03-31T08:52:00Z
-    webUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "'The Senate has discovered water': How the parliamentarian could reshape the Biden agenda"
     excerpt: "(CNN)A crucial decision this week by the Senate's parliamentarian could have sweeping ramifications for Joe Biden and future presidents to ram their agendas through the chamber along straight party-lines, putting Democrats on the cusp of pushing the rules ..."
     publishedDateTime: 2021-04-06T22:47:00Z

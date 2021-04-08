@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Collins-led group of GOPers blasts Biden after president says they ‘didn’t move an inch’ on COVID compromise"
+    excerpt: "The group of 10 Republican senators that attempted to negotiate with President Biden on coronavirus relief slammed the president in a biting statement Wednesday night accusing him of misrepresenting their meeting and its fallout. "
+    publishedDateTime: 2021-04-08T11:41:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6yEXfGqoji4/collins-gop-blasts-biden-covid-compromise"
+    ampWebUrl: "https://www.foxnews.com/politics/collins-gop-blasts-biden-covid-compromise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/collins-gop-blasts-biden-covid-compromise.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

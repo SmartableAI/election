@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Collins-led group of GOPers blasts Biden after president says they ‘didn’t move an inch’ on COVID compromise"
+    excerpt: "The group of 10 Republican senators that attempted to negotiate with President Biden on coronavirus relief slammed the president in a biting statement Wednesday night accusing him of misrepresenting their meeting and its fallout. "
+    publishedDateTime: 2021-04-08T11:41:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6yEXfGqoji4/collins-gop-blasts-biden-covid-compromise"
+    ampWebUrl: "https://www.foxnews.com/politics/collins-gop-blasts-biden-covid-compromise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/collins-gop-blasts-biden-covid-compromise.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hunter Biden admits he used to smoke parmesan cheese because it resembled crack"
     excerpt: "Not a chance,'\" Hunter said, according to the book. \"'I don't know what else to do,'\" Joe Biden, then on the verge of announcing his candidacy for president, said, according to his son. \"'I'm so scared. Tell me what to do.\" \"'Not f----- this,'\" Hunter ..."
     publishedDateTime: 2021-04-05T20:08:00Z

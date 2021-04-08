@@ -2819,9 +2819,9 @@ related:
         height: 336
         isCached: true
   - title: "Kamala Harris seeks $2M for her Washington, DC, condo"
-    excerpt: "Vice President Kamala Harris has put her Washington, DC, condo on the market for $1,995,000 this week. The move comes just a month after she sold her San Francisco condo."
+    excerpt: "Since being sworn in to the nation’s second-highest office, Vice President Kamala Harris has been selling off her real estate. Harris put her tony Washington, DC, condo on the market for $1,995,000 this week. The move comes just a month after she sold ..."
     publishedDateTime: 2021-04-08T04:05:00Z
-    webUrl: "https://www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html"
+    webUrl: "https://www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
     ampWebUrl: "https://www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
     type: article

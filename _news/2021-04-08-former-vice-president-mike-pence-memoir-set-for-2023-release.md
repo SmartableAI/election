@@ -2,28 +2,26 @@
 category: news
 title: "Former Vice President Mike Pence memoir set for 2023 release"
 excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-publishedDateTime: 2021-04-07T21:57:00Z
-originalUrl: "https://www.chron.com/news/article/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
-webUrl: "https://www.chron.com/news/article/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
-ampWebUrl: "https://www.chron.com/news/amp/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
+publishedDateTime: 2021-04-07T22:03:00Z
+originalUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
+webUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 105
+heat: 165
+published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://s.hdnux.com/photos/01/17/37/54/20839220/3/rawImage.jpg"
-    width: 2048
-    height: 1516
+  - url: "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg"
+    width: 3000
+    height: 2221
     isCached: true
 
 related:
@@ -43,6 +41,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Indiana lawmakers honor Mike Pence for retirement from the vice presidency"
+    excerpt: "The Indiana Senate adopted a resolution honoring Mike Pence's \"retirement\" from the vice presidency this week. Pence, of course, lost his bid for reelection in November, along with former President Donald Trump. The resolution, authored by ..."
+    publishedDateTime: 2021-03-31T15:40:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/03/31/indiana-general-assembly-lawmakers-honor-mike-pence-retirement/4819689001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4819689001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4819689001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9c22e27c-c451-4f11-b546-98ddb50fd19c-cent02-7e5plm5ebo91a0bn9hjs_original.jpg?auto=webp&crop=2588,1456,x0,y407&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former Vice President Mike Pence stepping up political involvement with new organization"
     excerpt: "WASHINGTON – Former Vice President Mike Pence has a new advocacy organization, the latest move in his gradual return to public and political life since leaving office in January. Pence said he will use his “Advancing American Freedom” group to ..."
     publishedDateTime: 2021-04-07T16:46:00Z
@@ -60,6 +74,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ymgTTiKCAr5f2YTPQF2Qe91o+dJazBWC85r4c2mp1kQijZxvsL3MQrlUOzI9x38kDhoIqEDOjIVdnVHggNUwEJ3J60yytAgoum2FRCdnY3wTjsoh/k3rPM8zhdIEgIiICs8wLdVT0FaamXzSy5FnZKNW4Ha5Q+mkivb58MnKq/9zNhbNa+W8EoNscbr8PKj/dSDzVMM8j/z8JjN+CUAQcVLeg3hyNUhkAStltu0VmOVC3bUlNauU7iKzArvvS3TJfff4t2HY97nciQBCTlV+Zpmk8GKH5GRi7gR81aMZ6KCQNzrDqriD79cn9MOEyAUpw2cpwMy52WIkfAKYpVf2SgcK57jljaLKMaIwLEvISmhyn8swnXz8apRi6J6uqNFaCjYLpfCbc9BKLS+SB4TYwLeRLcBTQRGjvg23/xsABs8WuevU1Wim6KzY14Mbo+M5KPvPegVvmo4kgfILsMgXw3sUoGm9alunDbxlIvUd4FD41oGwooWX9Q/9kgrt8uYRDCzMtq+PKFCbot5GmAPlgg==;3EJ4CiD7xfk83YyifL/j5w=="
+secured: "i8AcSQlmiUBi2qTdk5BKksIuxJaAY+Zvh977KqK1E/xZAfY8HWUkGa6RiyeEENRdjDrd+44L2HwZEn5HV6OXwPMe0roV2/Pci+Q6/5w1CWQLE6obzMxYeMU0zKS5Z4QNarl9NHohiMn1kQjjTs8l2KgCKik87ymVfV/SW5F059dkJuJB0CHBzpzK6pGZxgGlTTCZS14AbVtQVP20BrcE8ussL3GFrgqKc39SAqzdyG959oeuoDadc2x8X+R8qo8+J7ONrnnSrTxYkit5gAJarg1fTIZbKszR7f+kgtNPALdNHfy8qPzvc7jgxxG9wdnUTnZawmnHIxoPDH2Ra2b4eTuvo/Y+Sg9b1pTeowdTdRs=;ta8cz1N3sM95OGNaqILaQw=="
 ---
 

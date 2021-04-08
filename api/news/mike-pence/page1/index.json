@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-08-mike-pences-memoir-could-be-explosive5-things-to-look-out-for.md",
+      "title": "Mike Pence's Memoir Could Be Explosive—5 Things to Look Out For",
+      "excerpt": "\"I look forward to working with the outstanding team at Simon & Schuster to invite readers on a journey from a small town in Indiana to Washington, D.C.\" U.S. Vice President Mike Pence presides over a joint session of Congress on January 06, 2021 in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-memoir-things-look-1581910",
+      "originalUrl": "https://www.newsweek.com/mike-pence-memoir-things-look-1581910",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1772968/vice-president-mike-pence.jpg",
+          "width": 1024,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-memoir-things-look-1581910?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-things-look-1581910?amp=1",
+      "publishedDateTime": "2021-04-08T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-former-vice-president-mike-pence-to-publish-memoir.md",
       "title": "Former Vice President Mike Pence to publish memoir",
       "excerpt": "Former Vice President Mike Pence is set to chronical his experience in the Trump White House with a two-book deal he signed with Simon & Schuster Wednesday. The publisher said Pence will pen ...",
@@ -47,6 +99,49 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-former-vice-president-mike-pence-memoir-set-for-2023-release.md",
+      "title": "Former Vice President Mike Pence memoir set for 2023 release",
+      "excerpt": "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c",
+      "originalUrl": "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg",
+          "width": 3000,
+          "height": 2221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -154,49 +249,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-former-vice-president-mike-pence-autobiography-to-arrive-in-2023.md",
-      "title": "Former Vice President Mike Pence autobiography to arrive in 2023",
-      "excerpt": "Vice President Mike Pence speaks during a memorial service for the late Air Force Brig. Gen. Chuck Yeager in Charleston, West Virginia, in 2021. AP NEW YORK — Former Vice President Mike Pence ...",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.suntimes.com/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump",
-      "originalUrl": "https://chicago.suntimes.com/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump",
-      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump",
-      "publishedDateTime": "2021-04-07T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Sun-Times",
-        "domain": "suntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-pence-launches-group-as-trump-officials-line-up-new-roles.md",
       "title": "Pence launches group as Trump officials line up new roles",
       "excerpt": "Former Vice President Mike Pence has launched a new advocacy group as he and other Trump administration officials look to boost their post-White House plans Secretary of state nominee commits to ...",
@@ -205,7 +257,7 @@
       "originalUrl": "https://abcnews.go.com/US/wireStory/pence-launches-group-trump-aides-line-roles-76927995",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1090,
+      "heat": 1130,
       "tags": null,
       "images": [
         {
@@ -424,7 +476,7 @@
       "originalUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1511,58 +1563,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mike-pences-remarkable-op-ed-highlights-the-gops-choice-on-voting-rights-and-where-it-will-probably-land.md",
-      "title": "Mike Pence’s remarkable op-ed highlights the GOP’s choice on voting rights — and where it will probably land",
-      "excerpt": "Alleged voting problems in 2020. In an op-ed for the Daily Signal, Pence details his opposition to a voting rights bill spearheaded by House Democrats. He begins, “After an election marked by significant voting irregularities and numerous instances of officials setting aside state election law,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZ2TGE7SNZAB5G4LNTLM5HF5SI.jpg&w=1440",
-          "width": 1440,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "publishedDateTime": "2021-03-03T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

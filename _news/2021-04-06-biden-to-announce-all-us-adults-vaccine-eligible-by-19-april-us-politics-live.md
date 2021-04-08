@@ -47,6 +47,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "First Thing: Biden announces sweeping gun reform orders"
+    excerpt: "Plus, more than 3,600 US healthcare workers died in the first year of the Covid pandemic Joe Biden speaking in the State Dining Room of the White House after the killing of 10 people in a Colorado supermarket in late March. Photograph: Getty Images Last ..."
+    publishedDateTime: 2021-04-08T09:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/08/first-thing-biden-announces-sweeping-gun-reform-orders"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/08/first-thing-biden-announces-sweeping-gun-reform-orders"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/08/first-thing-biden-announces-sweeping-gun-reform-orders"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/52577f63b6920f5b4b643b2159c2d9e2b93ec6fc/0_260_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc0ce429f90291119ff6f21174f3fcde"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Fixing the credit Catch-22: How Biden wants to make credit scores fairer"
+    excerpt: "Reforming credit scores is one of U.S. President Joe Biden’s many priorities as he tries to repair the financial wreckage caused by the coronavirus pandemic, which disproportionately harmed minorities, women and low-income workers, according to ..."
+    publishedDateTime: 2021-04-08T10:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-consumers-credit-scores/fixing-the-credit-catch-22-how-biden-wants-to-make-credit-scores-fairer-idUSL1N2LT061"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV1DE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV1DE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557701412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH370ML"
+        width: 408
+        height: 545
+        isCached: true
   - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
     excerpt: "White House press secretary Jen Psaki was asked whether Vladimir Putin has confirmed his attendance to Joe Biden’s climate summit later this month. Bloomberg News reported today that the Russian president is making plans to attend the virtual summit."
     publishedDateTime: 2021-04-06T18:57:00Z

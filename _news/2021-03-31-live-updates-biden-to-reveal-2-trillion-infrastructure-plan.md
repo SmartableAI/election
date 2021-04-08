@@ -32,69 +32,115 @@ images:
     isCached: true
 
 related:
-  - title: "Biden ramps up vaccine diplomacy efforts as hopes rise that he'll share surplus doses"
-    excerpt: "President Joe Biden, well on his way to reaching a new goal of vaccinating 200 million Americans by the end of April, is taking initial steps toward helping other nations ramp up shots, including by boosting global manufacturing and appointing a top global health expert who previously advocated for shipping"
-    publishedDateTime: 2021-04-06T10:09:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hgN3CfmHSlE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html"
+  - title: "Biden: High-speed internet is infrastructure "
+    excerpt: "President Joe Biden responds to critics who say his $2 trillion infrastructure plan is \"too big\" and he should instead focus on traditional forms of infrastructure.\n    \n"
+    publishedDateTime: 2021-04-07T18:50:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KU4p8CymnSk/joe-biden-infrastructure-plan-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405163758-vaccine-pharmacy-us-louisville-kentucky-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407144138-joe-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to announce he's moving deadline for all US adults to be eligible for Covid vaccine to April 19"
-    excerpt: "President Joe Biden plans to announce Tuesday that he is moving up his deadline for states to make all American adults eligible for a coronavirus vaccine by almost two weeks.\n    \n"
-    publishedDateTime: 2021-04-06T11:19:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x9whOQVB82U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html"
+  - title: "Biden: It's 'reassuring' to see companies speaking up about restrictive voting laws"
+    excerpt: "President Joe Biden said Tuesday that it is \"reassuring\" to see businesses \"speaking up\" about restrictive voting laws, but added that he respects whatever judgment a corporation may make as part of its response.\n    \n"
+    publishedDateTime: 2021-04-06T21:39:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3Kp__9O5G0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404164255-01-joe-biden-0324-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406172321-joe-biden-april-6-2021-04-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Jill Biden, in California, Lends Support to Farmworkers Seeking Vaccinations"
+  - title: "Biden, in Pennsylvania, Details $2 Trillion Infrastructure Plan"
     excerpt: "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ..."
-    publishedDateTime: 2021-04-01T00:50:00Z
-    webUrl: "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html"
+    publishedDateTime: 2021-04-01T18:59:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31dc-flotus-promo/31dc-flotus-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede/31dc-biden-HP-videoSixteenByNineJumbo1600-v3.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "'The Senate has discovered water': How the parliamentarian could reshape the Biden agenda"
-    excerpt: "(CNN)A crucial decision this week by the Senate's parliamentarian could have sweeping ramifications for Joe Biden and future presidents to ram their agendas through the chamber along straight party-lines, putting Democrats on the cusp of pushing the rules ..."
-    publishedDateTime: 2021-04-06T22:47:00Z
-    webUrl: "https://www.cnn.com/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
+  - title: "Sanders: Biden has given a serious proposal based on a serious problem"
+    excerpt: "Sen. Bernie Sanders (I-VT) discusses President Joe Biden's infrastructure plan and tells CNN's Jake Tapper that the US needs to address its \"human infrastructure\" as well."
+    publishedDateTime: 2021-04-04T14:15:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 126
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404095914-sanders-sotu-0404-vpx-super-tease.jpeg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden to unveil long-awaited executive action on guns"
+    excerpt: "The announcement, expected for Thursday, comes amid a spate of high-profile shootings and as some advocates have grown frustrated in the White House's delay."
+    publishedDateTime: 2021-04-07T15:59:00Z
+    webUrl: "https://www.politico.com/news/2021/04/07/biden-executive-actions-guns-479704"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/biden-executive-actions-guns-479704"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-executive-actions-guns-479704"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5a/1b/5c7cf1894408bfba4edd5985b703/20210407-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden says he’s willing to compromise on his infrastructure plan, but will not tolerate ‘doing nothing.’"
+    excerpt: "like Senator Joe Manchin III of West Virginia, who have suggested they might agree to a corporate tax increase, but one not quite as big as the 28 percent Mr. Biden has proposed. The current rate is 21 percent. Asked if he was willing to compromise on the ..."
+    publishedDateTime: 2021-04-07T12:32:00Z
+    webUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07new-was-biden-sub/07new-was-biden-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Watch Live: Biden Speaks on Infrastructure Plan"
+    excerpt: "new video loaded: Watch Live: Biden Speaks on Infrastructure Plan President Biden delivers remarks on his $2 trillion American Jobs Plan, which aims to overhaul the nation’s infrastructure. Advertisement NOW PLAYING 1:36 1:38 Advertisement 0:57 1:33 ..."
+    publishedDateTime: 2021-04-07T17:17:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007696487/live-joe-biden-infrastructure-bill.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/07vid-Biden-Live/merlin_185831562_dc56174f-44a6-4589-bedc-b73641340bf2-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "caafGoMw0fGIs0J1ffzAQILIK2DzMswPm56XH7GEprmyzb4iQX60aU6CjDkCdrFIIVeuDTb9beI4tiV2vY8d6uAm1QNQS214Xr3C3xZHLXZ7dgz48qI+gtVFCTFJBBwpzny2xR1XCuAsnVYbFAh41Us0vAvPCKgDDZw0kRcxH9IH2AIgH0iK/tCpM0G8AcFOmr0c72jVHQ++j3aRevwdrGC2mLXwqN9+btvl+V/w7VJgfKCT2UJOYE5Lg6yNQ6UnhSKnbjT+TBMgyiB/LUArfB7NSIh09uG4L02znYrhOKqZ1UlqPNUoH3Gdyx3O4kd/872Xogrmwey1sLfhfgFAGjoEowKg5x2EPtHm+94wgOhlujpCz7SgNF9AmEk2NWdk6uEuTr+HveU/zr/8TOH9CirR1hh4f/zRhF3L9wv0SnqgE8aGekMxK63Z9PTFUZw6W9TSYIVEPJtzT16DJo8ywMtAAHBjyrT5neXzrUfiZZyGXjevanpd91hL3aTNtA0IQnJpZcBd0QiU2eaMv7ZWlQ==;MXxSaeTRCptLdiyClKQZwg=="

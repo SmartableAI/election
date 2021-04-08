@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Sanders: Biden has given a serious proposal based on a serious problem"
-    excerpt: "Sen. Bernie Sanders (I-VT) discusses President Joe Biden's infrastructure plan and tells CNN's Jake Tapper that the US needs to address its \"human infrastructure\" as well."
-    publishedDateTime: 2021-04-04T14:15:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+  - title: "Live Updates: Biden to Speak on Economy Hours After Senate Approves Relief Package"
+    excerpt: "President Biden and Vice President Harris plan to meet with House Democratic leaders Friday morning to discuss the stimulus package. The Senate approved Mr. Biden’s plan but knocked out the $15 minimum wage."
+    publishedDateTime: 2021-02-05T08:30:00Z
+    webUrl: "https://www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404095914-sanders-sotu-0404-vpx-super-tease.jpeg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/02/05/us/politics/05new-washington-stimulus-letter/05new-washington-stimulus-letter-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "J2U7H1noE9bD3mZ5RjLHWQ3NG1uHSTOSHgdQVQ2fNK1dTA8xy7pCR9shgmCGqilhaksXmQa+VJA19oKjQRdhW4IkVCRAfF7k9RBTOZygG/WcWRb6k4YXST59Jr+PK7QfOB2OtvfK8jSZtA1T/js3gVYUeqIYlYZQ17yfToVamSkFKlkT8p7hbzs9JGCxswtZAHYzE/eyQdP/3ROs1qerW10ixgzrXBYeasBE8X6C9aYVA4VKGXRsHp/kRhmAllcWtU53qc5SoUNEtamWDq3aPtP9IuLtlGF6dc+2apbi3vJnxPe/reboHsn5wb2HuqW5fGNKd1YtL07BMoTVsN4m0mXKSniQnswIH3ylfELn3io=;n9z7vihZiT8pU/xHojUMkg=="

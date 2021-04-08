@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-bi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html"
 type: article
 quality: 168
-heat: 248
+heat: 228
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404164255-01-joe-biden-0324-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan"
-    excerpt: "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,"
-    publishedDateTime: 2021-03-31T08:52:00Z
-    webUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Jill Biden, in California, Lends Support to Farmworkers Seeking Vaccinations"
     excerpt: "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ..."

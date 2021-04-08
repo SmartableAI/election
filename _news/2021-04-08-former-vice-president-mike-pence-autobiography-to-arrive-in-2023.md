@@ -9,8 +9,8 @@ ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pen
 cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/4/7/22372456/mike-pence-memoir-2023-autobiography-books-memoir-donald-trump"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Sun-Times
@@ -29,19 +29,33 @@ images:
 related:
   - title: "Former Vice President Mike Pence memoir set for 2023 release"
     excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-    publishedDateTime: 2021-04-07T21:57:00Z
-    webUrl: "https://www.chron.com/news/article/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Vice-President-Mike-Pence-memoir-set-for-16084058.php"
+    publishedDateTime: 2021-04-07T22:03:00Z
+    webUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
     images:
-      - url: "https://s.hdnux.com/photos/01/17/37/54/20839220/3/rawImage.jpg"
-        width: 2048
-        height: 1516
+      - url: "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg"
+        width: 3000
+        height: 2221
+        isCached: true
+  - title: "Indiana lawmakers honor Mike Pence for retirement from the vice presidency"
+    excerpt: "The Indiana Senate adopted a resolution honoring Mike Pence's \"retirement\" from the vice presidency this week. Pence, of course, lost his bid for reelection in November, along with former President Donald Trump. The resolution, authored by ..."
+    publishedDateTime: 2021-03-31T15:40:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/03/31/indiana-general-assembly-lawmakers-honor-mike-pence-retirement/4819689001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4819689001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4819689001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9c22e27c-c451-4f11-b546-98ddb50fd19c-cent02-7e5plm5ebo91a0bn9hjs_original.jpg?auto=webp&crop=2588,1456,x0,y407&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Former Vice President Mike Pence stepping up political involvement with new organization"
     excerpt: "WASHINGTON – Former Vice President Mike Pence has a new advocacy organization, the latest move in his gradual return to public and political life since leaving office in January. Pence said he will use his “Advancing American Freedom” group to ..."

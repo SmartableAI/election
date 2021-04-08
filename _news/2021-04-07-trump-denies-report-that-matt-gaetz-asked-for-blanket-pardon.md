@@ -60,6 +60,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Haaland Explores Restoration of Utah Monuments Trump Downsized"
+    excerpt: "Biden Interior Secretary Deb Haaland to meet with competing interests in trip on Thursday to Bears Ears and Grand Staircase-Escalante."
+    publishedDateTime: 2021-04-08T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+    ampWebUrl: "https://www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-321900/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump attacks NY Times for report on recurring donors who sought refunds"
     excerpt: "Former President Donald Trump on Monday ripped into the New York Times for running a story on refunds issued to people who claimed they unwittingly signed up to be recurring donors to his campaign."
     publishedDateTime: 2021-04-05T19:54:00Z

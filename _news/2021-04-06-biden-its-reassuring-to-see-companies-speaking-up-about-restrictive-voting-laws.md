@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html"
 type: article
 quality: 169
-heat: 169
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,118 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden: High-speed internet is infrastructure "
+    excerpt: "President Joe Biden responds to critics who say his $2 trillion infrastructure plan is \"too big\" and he should instead focus on traditional forms of infrastructure.\n    \n"
+    publishedDateTime: 2021-04-07T18:50:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KU4p8CymnSk/joe-biden-infrastructure-plan-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407144138-joe-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan"
+    excerpt: "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,"
+    publishedDateTime: 2021-03-31T08:52:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden, in Pennsylvania, Details $2 Trillion Infrastructure Plan"
+    excerpt: "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ..."
+    publishedDateTime: 2021-04-01T18:59:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede/31dc-biden-HP-videoSixteenByNineJumbo1600-v3.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Sanders: Biden has given a serious proposal based on a serious problem"
+    excerpt: "Sen. Bernie Sanders (I-VT) discusses President Joe Biden's infrastructure plan and tells CNN's Jake Tapper that the US needs to address its \"human infrastructure\" as well."
+    publishedDateTime: 2021-04-04T14:15:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404095914-sanders-sotu-0404-vpx-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to unveil long-awaited executive action on guns"
+    excerpt: "The announcement, expected for Thursday, comes amid a spate of high-profile shootings and as some advocates have grown frustrated in the White House's delay."
+    publishedDateTime: 2021-04-07T15:59:00Z
+    webUrl: "https://www.politico.com/news/2021/04/07/biden-executive-actions-guns-479704"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/biden-executive-actions-guns-479704"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-executive-actions-guns-479704"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5a/1b/5c7cf1894408bfba4edd5985b703/20210407-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden says he’s willing to compromise on his infrastructure plan, but will not tolerate ‘doing nothing.’"
+    excerpt: "like Senator Joe Manchin III of West Virginia, who have suggested they might agree to a corporate tax increase, but one not quite as big as the 28 percent Mr. Biden has proposed. The current rate is 21 percent. Asked if he was willing to compromise on the ..."
+    publishedDateTime: 2021-04-07T12:32:00Z
+    webUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/biden-infrastructure-taxes.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07new-was-biden-sub/07new-was-biden-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Watch Live: Biden Speaks on Infrastructure Plan"
+    excerpt: "new video loaded: Watch Live: Biden Speaks on Infrastructure Plan President Biden delivers remarks on his $2 trillion American Jobs Plan, which aims to overhaul the nation’s infrastructure. Advertisement NOW PLAYING 1:36 1:38 Advertisement 0:57 1:33 ..."
+    publishedDateTime: 2021-04-07T17:17:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007696487/live-joe-biden-infrastructure-bill.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/07vid-Biden-Live/merlin_185831562_dc56174f-44a6-4589-bedc-b73641340bf2-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "payDV0w5DJz7ChKZ/OYIzgRHS36UYO0uu+q7oqzr+DpRtwxP87SGoRzEvumENKciwXdYNmqUjVALaux9rgUrQI820PEEB+Yct5nXMXmu6E6cdPhS4ajbk+gBfEO5S8+RgIsJgERaGp5Je2fX/PrPdfMV+GIvLm08SW/YIziDZNWVfWUPJ4vmqs09D3ubSeFcYinbwRCPlj6xBEzSlwsV9jcrW13AmHSsW8hQ8TcUWPA+IBvMGQrTGIzpX3FEYv/JTFFz05JHdI8xsJnLLrb7YLXxPwx4sknCK2VQLqWvv9R59B8OUCFKWEtb5Ro/vS6uuTjI9tMFdxevXqvKjiniJukyaot26SWUBp8q5QDXkms=;J/hL9PTE0Kg64plkYvD9zw=="
 ---

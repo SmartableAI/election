@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Haaland Explores Restoration of Utah Monuments Trump Downsized"
+    excerpt: "Biden Interior Secretary Deb Haaland to meet with competing interests in trip on Thursday to Bears Ears and Grand Staircase-Escalante."
+    publishedDateTime: 2021-04-08T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+    ampWebUrl: "https://www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-321900/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "ICzHmET4LPLqA5TtLt6tiLjjVtPPJGJVY2uhPGy6bXYKtyLnV7VstaOjyomM6Kek2tPCXsqbpL37WiSAQWKjlrWJ7yWGOjbUiIjAZMFDSv3nb0xGN8386SARekf04CZgT2dVYX1rpfbyoPqLeInN+L0ZKB7v3/hxKSFGJO357yeAN0p6Taxs1jDWpTNDbupPdoX9bJxEj3WhVH1qoifPHIOH6aNSJya4+iyICUpKHfcjiwI+zBs7WqCGKLSccjRzFuEMyZrHcJJZrg9ZXcu69nKDAjO57oLulrdSUlGYTBUP+fleRtNtVcJCV6/Bn3oI7KTc4cc8ahVQIU43g2JN17wo4fr3COMTwJp7I5Nlk07xFoGNShCOMLFxJcR3UtOROwMBeWEEVCepKwkkcsT3cv/hzK1O5tqpvjqUi7pLZMfBmHo/juxQ7UlJeOipQyRn1pbLgRa2vXqRHR8/wNfDmHFsOdqnnwEWZZKsafC7IPIzry11Pg6oKpq3wE36uL6OlTNzKsLnmagOXp9igS/ecw==;c7wZj4DBPR0fmbGS/kyxJw=="
 ---
