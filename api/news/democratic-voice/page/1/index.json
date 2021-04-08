@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-08-manchin-warns-against-overuse-of-budget-tool-democrats-hope-to-use-to-pass-bidens-agenda.md",
-      "title": "Manchin warns against overuse of budget tool Democrats hope to use to pass Biden's agenda",
-      "excerpt": "Democratic Sen. Joe Manchin made his opposition to frequent use of the budget reconciliation process clear Wednesday evening in a Washington Post op-ed, sending a warning to Democrats who hope to use it to pass President Joe Biden's legislative priorities.\n    \n",
+      "path": "_news/2021-04-08-the-point-joe-manchin-just-crushed-liberals-dream-for-joe-bidens-first-term.md",
+      "title": "The Point: Joe Manchin just crushed liberals' dream for Joe Biden's first term",
+      "excerpt": "With just 15 words, Joe Manchin ended the possibility that Joe Biden's first term would live up to the hopes that liberals had for it on everything from gun control to voting rights to even, possibly, the size and scope of the President's $2 trillion infrastructure bill.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taThQ3EGWzw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taThQ3EGWzw/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kD73Ork1Sd4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kD73Ork1Sd4/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 166,
+      "heat": 191,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326142919-joe-and-gayle-manchin-file-2019-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-reconciliation-washington-post-op-ed/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-reconciliation-washington-post-op-ed/index.html",
-      "publishedDateTime": "2021-04-07T21:01:17-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-filibuster-gun-control-voting-rights/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-filibuster-gun-control-voting-rights/index.html",
+      "publishedDateTime": "2021-04-08T07:36:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -54,6 +54,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-facebook-adds-labels-to-feeds-how-would-it-label-trump.md",
+      "title": "Facebook adds labels to feeds. How would it label Trump?",
+      "excerpt": "The new feature comes as the company’s independent Oversight Board weighs whether former President Donald Trump should be allowed back on the platform. Asked how Trump, if reinstated, would have his Facebook page labeled, spokesperson Andy Stone declined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/morning-tech/2021/04/08/facebook-adds-labels-to-feeds-how-would-it-label-trump-794538",
+      "originalUrl": "https://www.politico.com/newsletters/morning-tech/2021/04/08/facebook-adds-labels-to-feeds-how-would-it-label-trump-794538",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -126,7 +183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1632,63 +1689,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-james-blassingame-and-sidney-hembys-lawsuit-against-donald-trump.md",
-      "title": "James Blassingame and Sidney Hemby’s Lawsuit Against Donald Trump",
-      "excerpt": "Case No.: DONALD J. TRUMP : : : Defendant. COMPLAINT 1. This is a complaint for damages by U.S. Capitol Police officers for physical and emotional injuries caused by the defendant Donald Trump's wrongful conduct inciting a riot on January 6, 2021 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.html",
-      "originalUrl": "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/31/doc-1302982-blassingame-20210330-complaint-redacted1-promo/doc-1302982-blassingame-20210330-complaint-redacted1-promo-facebookJumbo.png",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html",
-      "publishedDateTime": "2021-03-31T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

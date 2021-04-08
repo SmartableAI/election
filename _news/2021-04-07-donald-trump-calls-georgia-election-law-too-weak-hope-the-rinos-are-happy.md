@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1"
 type: article
 quality: 136
-heat: 216
+heat: 236
 published: true
 
 provider:
@@ -93,6 +93,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Georgia Lt. Gov. Unlikely to Run Again After Taking on Trump"
+    excerpt: "“This is really the fallout from the 10 weeks of misinformation that flew in from former President Donald Trump,” Duncan said. His comments have given Duncan a national platform and won plaudits from moderates and even some Democrats. But they’ve ..."
+    publishedDateTime: 2021-04-08T14:13:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "zFgzwDTk0GM4bM39V9i6w2BiHu/1PKBq3kKYY/n6noF9kUSzXGWTnoFHYgHZ8e1h8TwnNZzotw6Cwx/ZnTliBelISKzrMtr0/1HVxOcftLe+Y22pJTAnrJScisfY6cv290skXiF6RJ9iQVLsu9ssybwvqd1OUkqIpzwN3Uo54DSf1ykUtCZLSbLXDYUYq4z3j2gFD1Go3Ix8H4H6nTbizJeVHa1PhoNWBzDireSj9oRW8gGIdQNRDfvl+SJkM+pCSvHs4/qOjV1hn5VErTdec4FzWsJDv2xD0918UnfG0Rn0L2Mp5yxkythNoottnzK57o00JhPoVQdOtFNOKsbGfwd01ddYcCA/ga4LJYNR2vowzWa/MpazZ/cY0oNae2IIn6IN6tBml4e8XRYXqaUHM0qFTobKhCuOJ4XcL0wBoGZrMGR/1qTMtNU28pBUZPmeckVdFLR87tD0NmL+c4UsSM6LUCS3NJNDWTOi2ZmtPja16vSPgBk+I4V4zO4YfoBE6ms9B7hxTP//bjNTcMqocw==;9PbaLj1QahvE3ihO0gIZnQ=="
 ---

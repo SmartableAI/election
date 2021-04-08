@@ -95,6 +95,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What are ghost guns?: Biden executive action targets 'dangerous' and 'untraceable' firearms"
+    excerpt: "As President Joe Biden is set to announce Thursday a host of executive actions aimed at slowing gun violence in the wake of several recent mass shootings in the U.S., renewed focus is on so-called \"ghost guns.\" Among the actions Biden will announce is ..."
+    publishedDateTime: 2021-04-08T14:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/04/08/what-ghost-guns-joe-biden-executive-order-targets-guns/7137233002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7137233002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7137233002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/c2c4b7d7-e2d5-4428-862a-76ed58027963-AP_3D_Guns.JPG?auto=webp&crop=1022,575,x1,y2&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border"
+    excerpt: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border President Joe Biden is set to unveil a list of executive actions tackling gun violence following a series of deadly mass shootings across ..."
+    publishedDateTime: 2021-04-08T14:49:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-set-to-unveil-executive-actions-addressing-gun-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 82
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/08/8ce16aee-fe28-4b74-a2f8-5e091f99d5d6/thumbnail/1200x630/eb7537e8543836c4309b4bc04c54c1ee/cbsn-fusion-biden-set-to-unveil-executive-actions-addressing-gun-violence-thumbnail-687952-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "G66tEqjvW1IRzvXbHfLmU5+TpT6b88gv6yAkH+mLsXvwkp/6Fi5CuuVkIQI9mqa0L3frxWo/ig9CJKzPi5UJE+4gDz/qR24AL8euBzVV22c0kecZdSnanVtANvhKRHf1uVzQRCahdoNXxS34UyHS88ActzFMf3o9yPEjgN00dnfMJ3iWimco+TExZYAAt6qnIcL7vBu9lBP2NCKtJJaNNqGsqGBiYOUye6PiBXqSxt8qEVnk5DLxizL0KZjoCjvHifxvXSLVedcCQG9ceercwuzH8qlh4bzSjdBBtU0pvNQ0WWsn535dX9rGUPHgw/XO6Hz52rLIX5nBcFXc8zvjGNRkQZmb9I/I+BQFMYnIYDs=;yWNjZz9J7xrfyJ4+SIqP7g=="
 ---

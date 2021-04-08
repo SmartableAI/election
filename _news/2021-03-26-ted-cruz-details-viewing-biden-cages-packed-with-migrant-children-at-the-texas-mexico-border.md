@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Texas AG defends 'public charge' rule on immigrants, public assistance dropped by Biden"
-    excerpt: "Texas Attorney General Ken Paxton is defending a rule that limits entry for immigrants and their likely use of public benefits. "
-    publishedDateTime: 2021-04-04T20:02:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhy-9FZB3L0/texas-ag-paxton-public-charge-rule-immigrants-public-assistance"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/migrants.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "House Republicans urge Biden to allow media access to border ops amid 'out of control' crisis"
     excerpt: "EXCLUSIVE: More than 20 House Republicans on Thursday wrote to President Biden urging his administration to stop blocking media access to border facilities amid what they described as an \"out of control\" crisis at the border."
     publishedDateTime: 2021-03-25T19:09:22Z

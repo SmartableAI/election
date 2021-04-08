@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/28/politics/matt-gaetz-wyoming-visit-liz-cheney/index.html"
 type: article
 quality: 169
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Donald Trump breaks his silence on Matt Gaetz"
+    excerpt: "Former President Donald Trump released a short statement in response to reports that Rep. Matt Gaetz (R-FL), one of Trump's most vocal defenders, asked him for a pre-emptive blanket pardon. CNN's Ryan Nobles reports."
+    publishedDateTime: 2021-04-07T21:59:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407175536-donald-trump-matt-gaetz-split-for-video-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "/fWpe1YFK1cI1/ivYL9mMdGanvkzvwS/U6sOPjUrCK1JdsB0THflTzQKCpj8cJYsgnZHunz+e1aStbMzNLf2b6taorlW2oKcNXD4PwH9RVfRX2Xpl6gjEY5mM5eNbZtny/rdNLNFjucXVQTu2Src9Cu/URupPuduqSmWyu9qB5sF9vnCL+q8y/xK1rrjWvzSgyvs5pok0udL5BuIRtA8PmC1XbBhjaZiNNmdq8ZHBuNAKwXWIpe+fzOfTlcYUYgXX+aXXA1OayyVERzZ5wlFLzLVjpjkziKwcSe2qmReEIcKSTQLiNpTp3LWQ8aQeuAVzHxJZCUblwWt5FBBzBwVVPTOEZvOGosc1U1kQjN9Nzc=;aoMLvRDWnwTwr4hYUa+fhg=="
 ---

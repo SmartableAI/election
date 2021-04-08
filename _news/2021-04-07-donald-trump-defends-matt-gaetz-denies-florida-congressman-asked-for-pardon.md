@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-flor
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
 type: article
 quality: 122
-heat: 182
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Colbert mocks Gaetz after Trump denies he asked for a pardon"
+    excerpt: "30 Report - Presented by ExxonMobil - Pence sets the stage for 2024 MORE after former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar ..."
+    publishedDateTime: 2021-04-08T14:35:00Z
+    webUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon"
+    ampWebUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/colbert_stephen_gaetz_matt040821.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."
     publishedDateTime: 2021-04-03T10:16:00Z

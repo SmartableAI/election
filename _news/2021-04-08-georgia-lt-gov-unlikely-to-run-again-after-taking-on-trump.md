@@ -1,0 +1,109 @@
+---
+category: news
+title: "Georgia Lt. Gov. Unlikely to Run Again After Taking on Trump"
+excerpt: "“This is really the fallout from the 10 weeks of misinformation that flew in from former President Donald Trump,” Duncan said. His comments have given Duncan a national platform and won plaudits from moderates and even some Democrats. But they’ve ..."
+publishedDateTime: 2021-04-08T14:13:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
+type: article
+quality: 55
+heat: -1
+published: false
+
+provider:
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+related:
+  - title: "Donald Trump Calls Georgia Election Law 'Too Weak': 'Hope the RINOs Are Happy'"
+    excerpt: "Former U.S. President Donald Trump has criticized Georgia's recently passed election law as \"too weak.\" \"Hope the RINOs are happy,\" Trump wrote in a Tuesday statement criticizing the law. RINO is an initialism for Republicans in Name Only. The initialism ..."
+    publishedDateTime: 2021-04-07T00:45:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1772337/donald-trump-georgia-election-law-weak-rinos.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Trump blasts Georgia election law as 'too weak,' continuing attacks on Kemp, Raffensperger as 'RINOS'"
+    excerpt: "Former President Donald Trump continued his war of words with Georgia's top Republican elected officials while arguing the state's controversial new election law doesn't go far enough. \"Georgia’s election reform law is far too weak and soft to ensure ..."
+    publishedDateTime: 2021-04-07T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/04/07/trump-georgia-election-law-too-weak-attacks-kemp-raffensperger/7123560002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7123560002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7123560002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/USAT/cf2928f7-a7c1-40a8-8637-c9006181ee7c-AFP_AFP_8Y47Z8.jpg?auto=webp&crop=5692,3202,x0,y311&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
+    excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
+    publishedDateTime: 2021-04-04T00:39:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1771346/donald-trump.jpg"
+        width: 594
+        height: 396
+        isCached: true
+  - title: "Donald Trump has expanded his list of 'woke' companies to boycott, due to their opposition to Georgia's voting law"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump doubled down on his criticism of companies that oppose Georgia's new voting law, and widened his appeal for more boycotts. \"Never submit, never give up!\" Trump said. In a statement ..."
+    publishedDateTime: 2021-04-04T09:41:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-expands-list-companies-boycott-georgia-law-opposition-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-expands-list-companies-boycott-georgia-law-opposition-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-expands-list-companies-boycott-georgia-law-opposition-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5fba797832f2170011f70856?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 593
+        isCached: true
+  - title: "Trump and his advisors are shrugging off DOJ's Capitol riot probe. But they see danger in the Georgia and New York investigations."
+    excerpt: "Donald Trump and his advisers are dismissing the threat of any legal exposure tied to the Capitol riots. It's a different story with the Georgia and New York probes."
+    publishedDateTime: 2021-04-01T21:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-legal-jeopardy-new-york-georgia-doj-capitol-riot-investigation-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6064d49adaf0f10018f99505?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "fbpDWrYJOMALanDH3NbHPRGmiK7RuVrisMW8F3vbklLAX+VZLVnagcxO53bPgfKKi0JdPralvx16wSG4gfiZjVrmKbED/R8Gho/xkjTSKen4I8r0rpIGvd1U/o7i9OjO2o04A13cE2GbaOumW+1VOKV/BloCWu3iFyI8W5jvKIp90kRvPM6Pfsf4eQ99FMWIzE4a0efKLnQBJZVjH4MDWcJb5b00sbE48w7ikVioymxYKzyQlbrgMM8/AKLpOqXyhvhfViHfZ4NUd26h5Q9riJJL/0KfV9IOa3mqMeEx9I/B7y2Db95lBJhGWl9AKkc/NB7ffe1CLt9ohYxn7jY12QWm2cgX967TYdG8qa6vPXKNAKzztCzoYrV8i/5sgdiiaTT/wIhM0ACogjpeS758lArO5BQ0F0pmKxwoBqAYLUr5jh0HzHkdv5wCdlNYPZUdzaMEc3907vxf4xzD658nFryf4Thl2Xtn6Nku7qUYa5UV3Ktlz3YtHQ4xWeNv8TXZ5ihsIYjf/xuE1OTKnImBEQ==;c9U/uupWv2i/KOWw6ipGhA=="
+---
+

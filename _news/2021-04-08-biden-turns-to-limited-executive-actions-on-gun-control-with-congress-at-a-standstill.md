@@ -2,7 +2,7 @@
 category: news
 title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
 excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
-publishedDateTime: 2021-04-08T12:19:24Z
+publishedDateTime: 2021-04-08T14:23:34Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407164459-02-biden-jobs-plan-0407-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
+    excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
+    publishedDateTime: 2021-04-08T14:47:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yutP2X6Bk9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +96,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "e57VkO5Tga4Zwcq+f7+hqpm9XZMe6Nl09Zx47IOolbT+RxJeDVvtrW91WF8KFk9pCI10BXGd/alRD44swSJXVbCf6ucFosfGNGVSWowgM3TlYSlXtrxgstJpFH7Qg+a8toEKnXYo5dTkdtY25jhv+bygBVAjSTmN+WPZSkAQXes0lHIrUZAGxk4FwiG6HY7RC3v58VBnAXGBT1ATvzw5/TWp+kcyAa6fNdPldTMgxjxY5q6/n4IT47A9dvFocrHCkk4k3O9BvhlcN+F/IvxVraqrhRTl9B21XqnCXebSXc3v2JVbrnMW4gDFUcb6RYQ9CVQCJxpbERd3ToLELlJrKMcrw7HZRZwt0IjWWAI7vxc=;KHXSDpQoORYhsdQi+HQfpg=="
+secured: "ojD+JKPiTZCZWZhi6l9pYA6WgJYYc1aiBbrQkbubFzYwedl0WkKcWrFhJ54CRtGyNJ64tRZeCBoeCNUE/si2tO9G5ymJ706d3jWOpbwjeXjYun9QhIDdyp2pJjyWDaQUEMdlhJ4JpjFsDZT/oxoZTqrgugftRiDfEUuk+rEffeOOlszASTKn5mzVpM8NNaVTNO33QSDChPalisSG75c4sBKcrN94WQlqihbOcTxN0S0R6lPtK4osfVnUn1s1sEVVRDQzGI/j56BjVaPAN9yZxiZHa3xqSyAx7754Hz5mbdhA4gg5VQ6UPJOsRNVTbQx2GuEU8fWf2Iz+CRzpEZCZv9COGEKwua2K40I+Afb4ZaA=;d8Xyb950RubMTqEEaD5g6w=="
 ---
 

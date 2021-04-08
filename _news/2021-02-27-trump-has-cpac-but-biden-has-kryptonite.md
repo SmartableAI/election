@@ -154,6 +154,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration announces sky-high border numbers, looks to blame Trump"
+    excerpt: "Border officials encountered 172,000 migrants at the border in March, a 71% increase from February and the latest indicator of the extent of the crisis at the southern border -- but one that Biden officials are trying to blame on the Trump administration."
+    publishedDateTime: 2021-04-08T14:17:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8t2DGSkoERY/biden-sky-high-border-numbers-blame-trump-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sky-high-border-numbers-blame-trump-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sky-high-border-numbers-blame-trump-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a679449b-292e-4177-bc71-bacd46e8a9cd/0591600b-3003-42e9-8a15-7ff731a24268/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
     excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
     publishedDateTime: 2021-02-19T22:08:10Z

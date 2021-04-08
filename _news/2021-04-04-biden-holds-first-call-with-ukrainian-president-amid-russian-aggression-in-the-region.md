@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-holds-first-call-with-ukraini
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.amp"
 type: article
 quality: 167
-heat: 207
+heat: 167
 published: true
 
 provider:
@@ -29,40 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his"
-    excerpt: "Hunter Biden in an interview clip released on Friday said that the laptop first reported on last fall by the New York Post \"could\" be his, potentially casting doubt on past comments from President Biden that he thought the laptop was Russian disinformation. "
-    publishedDateTime: 2021-04-02T18:01:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QE6WfES1MXM/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his"
-    ampWebUrl: "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his"
-    excerpt: "And we also know that Putin is trying very hard to spread disinformation about Joe Biden,\" the then-candidate said. He added: \"When you put the combination of Russia, Giuliani, the president together, that's just what it is. It's a smear campaign.\""
-    publishedDateTime: 2021-04-02T18:04:00Z
-    webUrl: "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his"
-    ampWebUrl: "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 122
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Hunter-Biden-Memoir-Beautiful-Things-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "88ejZBhLil3vhXlRIwZPe043rm+GZ9h8GLcM7bto7B03Nj7LxmoQg4A0MiGncF+kTVwNgZwaSjTHxDjkN6+P/AdGFO5cBMky1bHamsK4aLYNDWN6ebx3hUVNNZVzolezmxpH8FohXdChaXl1gQaAv/NJK5Y2hWuRT2z/ymBMyadSQXsPp34jzf8ZrKUBXDlg7SqSfYq7+Be9V4rJ8xYXz62Id0G8ww6np4b/e0G4BVqBfMl+sV1Blp2rost4EK2dpam77+wbL8cFy/Oc5F6Y+TMpFDbv2r7cKBQAD2cwgygbU/y78mSPnyMokHNo0estiFG4nS4U/h7Ez29w3uNGDiwUr6ShjFWi/K3nYd1f0k8=;MnPukX1U/qLZ6iF3dcQNsQ=="
 ---

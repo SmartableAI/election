@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Zeldin slams Pelosi for praising Biden's handling of border: 'She is a dishonest hack'"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., is a \"dishonest hack\" who needs to be replaced by someone new in Congress, Rep. Lee Zeldin, R-N.Y., told \"Fox & Friends\" on Thursday."
+    publishedDateTime: 2021-04-08T13:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_mtWpY9qUas/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Buttigieg defends Biden's $2T spending plan, despite just a fraction going to roads, bridges"
     excerpt: "Transportation Secretary Pete Buttigieg on Thursday defended President Biden's sprawling economic spending measure, even though just a fraction of the $2 trillion being billed as an infrastructure package goes toward rebuilding the nation's crumbling roads and bridges."
     publishedDateTime: 2021-04-01T15:05:54Z

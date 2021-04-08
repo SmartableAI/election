@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-hu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
 type: article
 quality: 171
-heat: 231
+heat: 251
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Zeldin slams Pelosi for praising Biden's handling of border: 'She is a dishonest hack'"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., is a \"dishonest hack\" who needs to be replaced by someone new in Congress, Rep. Lee Zeldin, R-N.Y., told \"Fox & Friends\" on Thursday."
+    publishedDateTime: 2021-04-08T13:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_mtWpY9qUas/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340

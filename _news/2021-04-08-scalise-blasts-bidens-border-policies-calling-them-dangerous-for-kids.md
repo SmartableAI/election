@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Scalise blasts Biden's border policies, calling them 'dangerous for kids'"
-excerpt: "House Minority Whip Steve Scalise criticized President Biden’s border policies Thursday on “Fox & Friends,\" calling them “dangerous for America and for kids.”"
-publishedDateTime: 2021-04-08T13:33:56Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u1IaJZTb-mg/scalise-bidens-border-policies-dangerous-kids"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u1IaJZTb-mg/scalise-bidens-border-policies-dangerous-kids"
+excerpt: "What they've done not only to these border towns, the mayors, you hear them, Democrat and Republican, expressing outrage over what President Biden created. Joe Biden created this crisis, but the child abuse and neglect that's going on, it's not just the 20 ..."
+publishedDateTime: 2021-04-08T13:38:00Z
+originalUrl: "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids"
+webUrl: "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids"
 ampWebUrl: "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp"
 type: article
-quality: 174
-heat: 194
+quality: 134
+heat: 134
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,24 +31,6 @@ images:
     height: 340
     isCached: true
 
-related:
-  - title: "Rep. Jordan: Biden's immigration policies have led to 'more than a crisis' at the border, 'It is chaos'"
-    excerpt: "Thank God for these agents who are working their tail off, but they are overwhelmed right now. This has been the left's hard policy that Joe Biden announced, you know, these changes that they wanted to make. We should just forget that these were the ..."
-    publishedDateTime: 2021-04-07T03:48:00Z
-    webUrl: "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/070b1ef0-be9c-4599-893d-7fee421d4274/7aa0f9bf-0270-4ff0-ae9b-de487b429f96/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "Ie2YQCxap8ccdwoRBUarnd2JyxfbJF+FrPoir7Zi2OBDEjLJqlZBKs9te/XP+oM8PXBL//GB4RwgSHfSbqhFPyvImV9B58UOHXk+ep85d68/eR+pMqECfeZLcf6zVRTHvy31VfT/Igoe4AB2d5Ga65Lp/xsVh+Wfy3wiAxi068sO/adlaxFVQmo22NZo7wAlTaoRqYyIAKodaEgHY3Fgnw4KJDdyWoWMFifIotcCxI11Ws8uKyGjX5FV0ctOhAAizO1iiUjVw3ggXI904di5Mn+KbJzLQ0EkASl0SETsI1czFxzHwn1f1DQi+sH0MZRqEtFJYQzg/4eVGfjQJc3PIUeQVQbi8mgF/p9/wTgJVj4=;mBVAki5s2P/ymvgfiRAMkg=="
+secured: "VcHSsfUp1cGA0DSiFvhWlS+/JFh52AdohPW/6hgWdcUxUzLdcV2x+ozmi8aOQIvHSHYEQkBGdHvmClviAU8Q4434DFkFqWzPfEJHe2ybyIrPwvaB3b/NHajpo094D4eZaC6bDuRwoeM25WFv2iMACp4QyCmkYnrPNIqLrrSM6OEwXbXgjz2SWBwQ19vx7/XjDiS5XbBIZuMxa3gAUS+YwM4neq4FypiPLGp8pZv0LTZvlu1tra+L9y6fUy2PQ2fN4Sq4ZxxqG+rDGWPUkTy8qlWxPcMTViAoZpcU1EpHxuHM0aVh0TG4Xmm5KOzXOBkMg/0UP9Bm8MfxGbKfnK9/1s3l5s/wZigymcdWylmX9ug=;UjPxxT1cZq009KRaMT19rg=="
 ---
 

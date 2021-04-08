@@ -47,9 +47,25 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
+    excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
+    publishedDateTime: 2021-04-08T14:47:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yutP2X6Bk9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
     excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
-    publishedDateTime: 2021-04-08T12:19:24Z
+    publishedDateTime: 2021-04-08T14:23:34Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
@@ -59,7 +75,7 @@ related:
       domain: cnn.com
     quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407164459-02-biden-jobs-plan-0407-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

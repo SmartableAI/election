@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Christian Pastor Claims Biden Surrounded By 'Demonic Hedge of Protection'"
-    excerpt: "Pastor Mario Murillo claimed this week that President Joe Biden is surrounded by a \"demonic hedge of protection,\" urging fellow Christians to pray for a \"powerful move of God\" to bring it down. \"War has been declared on your faith,\" Murillo said during the ..."
-    publishedDateTime: 2021-04-01T15:53:00Z
-    webUrl: "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476"
-    ampWebUrl: "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1"
+  - title: "Despite Biden claim, most migrant families not being expelled to Mexico"
+    excerpt: "WASHINGTON (Reuters) - U.S. border agents expelled roughly a third of migrant parents and children traveling together and caught crossing the southwestern border in March, according to U.S. government data, undercutting a claim by President Joe Biden that ..."
+    publishedDateTime: 2021-04-08T13:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-border-idUSKBN2BV24H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV24H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV24H"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1768836/mario-murillo.png"
-        width: 1439
-        height: 799
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557732445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH370ZX"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "GE++fI8eMmJMOTctQBqyRifDo85qOBxUx3SL2cECM3ZsXkg4LpKqEfM3SYl6H9baP9uTkYN1EQ3bCqmABGnZzvcJwk6ZtnVCK0GTiWC/Gr7JmQ+vg012d0kxvwPWE1kv2W8fcGXxgX6s2ybXSCa+Rl/LBtVlqL8jXqaprs4Zy69Ge/rzbOZxMXfUjKTlwr+spYu3rNDCGiLdggyi8hGXtBwtcbEcrRa4ZGKToTBYq4VH/bhEY+fKtKZ0xAR4bgtkUWh2N7xqYIqRXMgUB/zXnyTZ6/s2KeKd5KivJr39N/Vw9+lWR7gp8TWq1AY3f8X4ZyiXyAwjmMfJi6i52q1XNK8BUrNbpUdjg6SBZlMO6+Y=;AA+g10lKnLNOURF5sWG9Fg=="

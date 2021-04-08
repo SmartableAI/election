@@ -173,6 +173,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Majority of Republicans Back Non-Infrastructure Portions of Biden's American Jobs Plan"
+    excerpt: "A substantial majority of Republican voters support portions of President Joe Biden's proposed $2 trillion infrastructure bill that GOP lawmakers have criticized for not being related to what is traditionally viewed as infrastructure, new polling shows."
+    publishedDateTime: 2021-04-08T15:37:00Z
+    webUrl: "https://www.newsweek.com/majority-republicans-back-non-infrastructure-portions-bidens-american-jobs-plan-1582042"
+    ampWebUrl: "https://www.newsweek.com/majority-republicans-back-non-infrastructure-portions-bidens-american-jobs-plan-1582042?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-republicans-back-non-infrastructure-portions-bidens-american-jobs-plan-1582042?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1773367/kamala-harris-joe-biden.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
     publishedDateTime: 2021-01-21T12:38:00Z

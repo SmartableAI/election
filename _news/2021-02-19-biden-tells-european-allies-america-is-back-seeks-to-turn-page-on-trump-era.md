@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration announces sky-high border numbers, looks to blame Trump"
+    excerpt: "Border officials encountered 172,000 migrants at the border in March, a 71% increase from February and the latest indicator of the extent of the crisis at the southern border -- but one that Biden officials are trying to blame on the Trump administration."
+    publishedDateTime: 2021-04-08T14:17:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8t2DGSkoERY/biden-sky-high-border-numbers-blame-trump-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sky-high-border-numbers-blame-trump-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sky-high-border-numbers-blame-trump-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a679449b-292e-4177-bc71-bacd46e8a9cd/0591600b-3003-42e9-8a15-7ff731a24268/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Past Biden, Psaki tweets criticizing Trump resurface after new Syria airstrikes"
     excerpt: "Past Twitter messages from President Biden and one of his top aides -- both criticizing former President Trump -- weren't appearing to age well Thursday after Biden ordered airstrikes against an Iranian-backed militia stronghold in Syria."
     publishedDateTime: 2021-02-26T05:03:56Z

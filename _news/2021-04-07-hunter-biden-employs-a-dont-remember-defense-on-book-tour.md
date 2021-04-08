@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Inside Biden White House's ties to dark money group seeking to pack Supreme Court"
+    excerpt: "Both White House press secretary Jen Psaki and President Biden's judicial nomination point person Paige Herwig previously worked for Demand Justice."
+    publishedDateTime: 2021-04-08T13:54:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rUaID-M3u9Y/biden-white-house-pack-supreme-court-sixteen-thirty-paige-herwig"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-pack-supreme-court-sixteen-thirty-paige-herwig.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-pack-supreme-court-sixteen-thirty-paige-herwig.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Border-Crisis-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hunter Biden details 2019 family drug intervention a month before father announced presidential campaign"
     excerpt: "In his forthcoming book \"Beautiful Things,\" Hunter Biden delves into his struggles with addiction, including a dramatic intervention that his family staged for him in March 2019."
     publishedDateTime: 2021-04-05T11:46:30Z

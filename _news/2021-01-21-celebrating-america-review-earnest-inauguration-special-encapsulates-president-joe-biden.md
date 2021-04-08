@@ -175,6 +175,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Majority of Republicans Back Non-Infrastructure Portions of Biden's American Jobs Plan"
+    excerpt: "A substantial majority of Republican voters support portions of President Joe Biden's proposed $2 trillion infrastructure bill that GOP lawmakers have criticized for not being related to what is traditionally viewed as infrastructure, new polling shows."
+    publishedDateTime: 2021-04-08T15:37:00Z
+    webUrl: "https://www.newsweek.com/majority-republicans-back-non-infrastructure-portions-bidens-american-jobs-plan-1582042"
+    ampWebUrl: "https://www.newsweek.com/majority-republicans-back-non-infrastructure-portions-bidens-american-jobs-plan-1582042?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-republicans-back-non-infrastructure-portions-bidens-american-jobs-plan-1582042?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1773367/kamala-harris-joe-biden.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Live politics updates: 69% of Americans approve of Biden's plan to tackle pandemic, poll finds"
     excerpt: "Fifty-seven percent of Americans believe Biden can follow-through on his promise to unite a divided America, according to a recent ABC News poll."
     publishedDateTime: 2021-01-24T17:48:00Z

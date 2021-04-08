@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Colbert mocks Gaetz after Trump denies he asked for a pardon"
+    excerpt: "30 Report - Presented by ExxonMobil - Pence sets the stage for 2024 MORE after former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar ..."
+    publishedDateTime: 2021-04-08T14:35:00Z
+    webUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon"
+    ampWebUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/colbert_stephen_gaetz_matt040821.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
     excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
     publishedDateTime: 2021-04-07T15:30:00Z

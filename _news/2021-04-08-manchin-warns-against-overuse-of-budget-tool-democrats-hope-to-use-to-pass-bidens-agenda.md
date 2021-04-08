@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-reconciliati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-reconciliation-washington-post-op-ed/index.html"
 type: article
 quality: 166
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "The Point: Joe Manchin just crushed liberals' dream for Joe Biden's first term"
+    excerpt: "With just 15 words, Joe Manchin ended the possibility that Joe Biden's first term would live up to the hopes that liberals had for it on everything from gun control to voting rights to even, possibly, the size and scope of the President's $2 trillion infrastructure bill.\n    \n"
+    publishedDateTime: 2021-04-08T14:36:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kD73Ork1Sd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-filibuster-gun-control-voting-rights/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-filibuster-gun-control-voting-rights/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326142919-joe-and-gayle-manchin-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "CgfRrrXdtZQUi2JRqIQtbfoHIqPf77+rjXVlEDvRXm3TixpY+r5Z/TA6ZGs6hGP/dw3PJrPb7BGoGLvA/Ls9g2B6JP+NRLN318mH6fjxBMubRkOKdMoqNHkCL49K0fJiXsCBb2LjmLdBthudmqkpbxQmpRv/XS+IDN+KGEkhsau0lA7Leg2bndj/FRmhoJI59RLqqSkPX+Ja/wM7Uef8rt5xH6d4gyM8Huskg2BxYqHc23e/BPPqSYuORcBarGDzI0MksQsE+sz2DYFPdi2qgG2ftAvJ/nu89ZzsP8SuyCfpWueryeqd73Qi9Ybs1bQYUTeIjw2OqutafrqK5XrD9x8O7xo10BjRPsxh92h5Yr4=;ug8y+YEoVQMn1UBH4f1XUw=="
 ---

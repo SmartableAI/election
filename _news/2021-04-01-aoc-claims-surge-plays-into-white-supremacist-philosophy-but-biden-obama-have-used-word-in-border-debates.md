@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-surge-white-supremacy-obama-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-surge-white-supremacy-obama-biden.amp"
 type: article
 quality: 155
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden's EPA chief slammed for firing science advisers in 'purge'"
+    excerpt: "Two House Republicans are demanding that the Environmental Protection Agency provide records related to a decision by the agency’s new leader to remove dozens of scientists and other experts from two key advisory boards."
+    publishedDateTime: 2021-04-08T14:10:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y5e7U93tusA/epa-chief-slammed-firing-science-advisers"
+    ampWebUrl: "https://www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Michael-Regan-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Texas AG defends 'public charge' rule on immigrants, public assistance dropped by Biden"
+    excerpt: "Texas Attorney General Ken Paxton is defending a rule that limits entry for immigrants and their likely use of public benefits. "
+    publishedDateTime: 2021-04-04T20:02:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhy-9FZB3L0/texas-ag-paxton-public-charge-rule-immigrants-public-assistance"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-paxton-public-charge-rule-immigrants-public-assistance.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/migrants.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "VgCuXbQmKi8gGi6O1LHWwInvjczMb5PQOTovQsHZvPQG02R14hOmrrtQ6U6uiMTZfhG9thIaoWaBpKt0/VehM0dptWo22WB0j9xLj9pAzfv237d1aEBHJy1GlUK8FqBHHyuduFXG05k8uzo5Usw1Hlbn9faSZwl+r/oDdHt8PE428LqT/m5mpZ3EwyOTY1dl6h7/OywfpflWLGLehnSEr2WsmgBWNstROU6N2MauXuSJXFr4ntqB5DWnpJ+4w/rj9a3eGdPvfNZ6jPRzq5SZmWY7OgzVAFPjDXtUL08DGWrzMd6pDqcY9KMCoQvnzoNw+wJLHxSckoj/ZU5M12hASQRCblsknnFmqCBpI4BDFwY=;W3YNijevgnriP3M6KM6dzQ=="
 ---
