@@ -843,6 +843,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Kamala Harris seeks $2M for her Washington, DC, condo"
+    excerpt: "Vice President Kamala Harris has put her Washington, DC, condo on the market for $1,995,000 this week. The move comes just a month after she sold her San Francisco condo."
+    publishedDateTime: 2021-04-08T01:05:00Z
+    webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/H3xoktshK4QfCp3PQVoQZjEfLaI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5JUS4O7RFGATAXXTIRECLKLCU.jpeg"
+        width: 1200
+        height: 901
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
     publishedDateTime: 2021-01-12T15:52:00Z

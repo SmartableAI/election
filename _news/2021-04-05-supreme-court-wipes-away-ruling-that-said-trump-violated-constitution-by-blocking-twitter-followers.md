@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twitter-followers/index.html"
 type: article
 quality: 161
-heat: 221
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,53 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Parents of 445 migrant children separated at border under Trump still have not been found, court filing says"
-    excerpt: "The parents of 445 migrant children separated from their families due to Trump administration policies at the US-Mexico border between 2017 and 2018 have still not been located, down from 506, according to a Wednesday court filing.\n    \n"
-    publishedDateTime: 2021-04-07T22:23:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNtJ2oFnMmI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
+  - title: "Boehner lays blame for 'that bloody insurrection' at Trump's feet"
+    excerpt: "Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book obtained by The New York Times.\n    \n"
+    publishedDateTime: 2021-04-07T23:58:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ikjj7tB7bJQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 156
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180625234239-deportaciones-sin-proceso-juridico-eunice-rendon-omar-silva-intvw-aristegui-00030023-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407094117-john-boehner-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump peeled away Latino voters nationwide in 2020, a new analysis found."
-    excerpt: "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ..."
-    publishedDateTime: 2021-04-02T14:53:00Z
-    webUrl: "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html"
+  - title: "Head of Capitol security task force says Trump fed insurrectionists 'a little BS'"
+    excerpt: "Retired Lt. Gen. Russel Honoré, who led a review of security failures around the January 6 insurrection, said Tuesday that the US Capitol attack was fueled by a \"information operation\" led by former President Donald Trump that involved feeding Americans \"a little BS\" and then allowing them to act on"
+    publishedDateTime: 2021-04-06T22:38:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PpycyPf-GhA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405114655-honore-sot-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Boehner Blasts Trump, Saying He ‘Incited That Bloody Insurrection’"
+    excerpt: "In his new book, John Boehner, the Republican former House speaker, sharply rebukes the former president for his role in the “mob violence” at the Capitol on Jan. 6."
+    publishedDateTime: 2021-04-07T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/04/02/us/politics/02new-washington-briefing-latino-voters/02new-washington-briefing-latino-voters-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07trump-boehner/07trump-boehner-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again"
-    excerpt: "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ..."
-    publishedDateTime: 2021-03-30T18:52:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262494"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262494"
+  - title: "Trump claims Gaetz 'never asked me for a pardon'"
+    excerpt: "Former President Donald Trump said Wednesday that embattled Rep. Matt Gaetz (R-Fla.) “has never asked me for a pardon,\" disputing a New York Times report that Gaetz asked the former president for a blanket pardon as Trump's term in office was coming to a ..."
+    publishedDateTime: 2021-04-07T16:01:00Z
+    webUrl: "https://www.politico.com/news/2021/04/07/trump-gaetz-pardon-479701"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/trump-gaetz-pardon-479701"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/trump-gaetz-pardon-479701"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_13/3460820/210330-summer-zervos-jm-1439_7f50bec42ce1680f710a53fe0880bf1c.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static.politico.com/69/ac/6bab09c24990918044542d2cf1ae/210407-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "New York Times: Boehner lays blame for 'that bloody insurrection' at Trump's feet"
+    excerpt: "(CNN)Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book ..."
+    publishedDateTime: 2021-04-07T14:59:00Z
+    webUrl: "https://www.cnn.com/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407094117-john-boehner-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "VpymV7TLDPxjPehlVPlQKJKDrFqtKOJB6+rduuCDCYRiJTUlQabhJQzmp/Ig2j3H47ldhEqUU3O4S55yoT+iNb/kXBgsyjVfyaYJjjjud1ZLxIdc3nBivlaNnwBBR0hC1KhWYW8xg4ly2+WwQkeeo4CAD2tAXQPAhNWP/P/86BSEQN3WxeBxNalNnZt/qzPBkgtoxks/eNT3j1KXoybDwGjBDv9pQnujsC/YogLqYq6jtYpZDZwTCv/OviVuxxKiGr9e42Imc+zpeAM00yk0ozSetWJ01SJLM9RTn7kRG6fTjYdRSsYFPZnnECYu/rLFQ63Yv6rgxuyipLsjfjWlIh/SnKdUiYtnaCfGizGPTR8=;80qh+k1hfjuQZnYT1nQxLQ=="

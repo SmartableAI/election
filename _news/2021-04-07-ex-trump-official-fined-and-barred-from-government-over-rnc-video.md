@@ -32,69 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Head of Capitol security task force says Trump fed insurrectionists 'a little BS'"
-    excerpt: "Retired Lt. Gen. Russel Honoré, who led a review of security failures around the January 6 insurrection, said Tuesday that the US Capitol attack was fueled by a \"information operation\" led by former President Donald Trump that involved feeding Americans \"a little BS\" and then allowing them to act on"
-    publishedDateTime: 2021-04-06T22:38:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PpycyPf-GhA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html"
+  - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
+    excerpt: "A former Housing and Urban Development official and Trump family associate has been fined and barred from federal work for violating the Hatch Act's prohibition of use of official authority after she blurred the lines between official business and politics by producing a video for the 2020 Republican"
+    publishedDateTime: 2021-04-06T18:42:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jX0Px_-1p1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405114655-honore-sot-vpx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "New York Times: Boehner lays blame for 'that bloody insurrection' at Trump's feet"
-    excerpt: "Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book obtained by The New York Times.\n    \n"
-    publishedDateTime: 2021-04-07T16:38:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ikjj7tB7bJQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407094117-john-boehner-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office"
-    excerpt: "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n"
-    publishedDateTime: 2021-03-30T18:13:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Boehner Blasts Trump, Saying He ‘Incited That Bloody Insurrection’"
-    excerpt: "In his new book, John Boehner, the Republican former House speaker, sharply rebukes the former president for his role in the “mob violence” at the Capitol on Jan. 6."
-    publishedDateTime: 2021-04-07T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07trump-boehner/07trump-boehner-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Capitol officers sue Trump over 'physical and emotional injuries' from Jan. 6 attack"
     excerpt: "WASHINGTON — Two Capitol Police officers are suing former President Donald Trump over “physical and emotional injuries” they suffered during the attack on the Capitol Jan. 6, which they say was incited by the former president. Officers James ..."
@@ -111,6 +63,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3460991/210331-capitol-riot-mc-1141_ac907b44d1b20b0f9a1e1fc98e3f4723.JPG"
         width: 2500
         height: 1663
+        isCached: true
+  - title: "Reopened offices leave some workers cold, Facebook groups fill the void and Trump's surprising rebrand"
+    excerpt: "For many, the next Covid-19 pandemic challenge is a return to \"normalcy.\" This morning we are looking at what going back to the office means, plus Trump ditching his iconic brand and how a Chicago teacher ignited a firestorm over one country's Nazi legacy."
+    publishedDateTime: 2021-04-05T11:55:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/reopened-offices-leave-some-workers-cold-facebook-groups-fill-void-n1263014"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263014"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263014"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 119
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_13/3462135/210404-stanfordncaatitle-kf-1025p_3ed72c869bb4625859403f739b77ead5.jpg"
+        width: 1929
+        height: 2894
         isCached: true
   - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
     excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html"
 type: article
 quality: 170
-heat: 290
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,9 +31,9 @@ images:
     isCached: true
 
 related:
-  - title: "New York Times: Boehner lays blame for 'that bloody insurrection' at Trump's feet"
+  - title: "Boehner lays blame for 'that bloody insurrection' at Trump's feet"
     excerpt: "Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book obtained by The New York Times.\n    \n"
-    publishedDateTime: 2021-04-07T16:38:25Z
+    publishedDateTime: 2021-04-07T23:58:03Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ikjj7tB7bJQ/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
@@ -41,25 +41,25 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407094117-john-boehner-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office"
-    excerpt: "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n"
-    publishedDateTime: 2021-03-30T18:13:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
+  - title: "Supreme Court wipes away ruling that said Trump violated Constitution by blocking Twitter followers"
+    excerpt: "The Supreme Court on Monday wiped away a lower court opinion holding that then-President Donald Trump violated the First Amendment when he blocked followers from his Twitter account.\n    \n"
+    publishedDateTime: 2021-04-05T14:07:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XEw7JhqA9cg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twitter-followers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/supreme-court-trump-twitter-followers/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401220308-conclu-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -79,49 +79,35 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Ex-Trump Official Fined and Barred From Government Over R.N.C. Video"
-    excerpt: "Lynne Patton recruited and interviewed public housing tenants in New York City for a pro-Trump re-election video. The residents accused her of tricking them into participating."
-    publishedDateTime: 2021-04-06T17:27:00Z
-    webUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
+  - title: "Trump claims Gaetz 'never asked me for a pardon'"
+    excerpt: "Former President Donald Trump said Wednesday that embattled Rep. Matt Gaetz (R-Fla.) “has never asked me for a pardon,\" disputing a New York Times report that Gaetz asked the former president for a blanket pardon as Trump's term in office was coming to a ..."
+    publishedDateTime: 2021-04-07T16:01:00Z
+    webUrl: "https://www.politico.com/news/2021/04/07/trump-gaetz-pardon-479701"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/trump-gaetz-pardon-479701"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/trump-gaetz-pardon-479701"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/04/06/nyregion/06nypatton1/06nypatton1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/69/ac/6bab09c24990918044542d2cf1ae/210407-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Capitol officers sue Trump over 'physical and emotional injuries' from Jan. 6 attack"
-    excerpt: "WASHINGTON — Two Capitol Police officers are suing former President Donald Trump over “physical and emotional injuries” they suffered during the attack on the Capitol Jan. 6, which they say was incited by the former president. Officers James ..."
-    publishedDateTime: 2021-03-31T11:53:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/capitol-officers-sue-trump-over-physical-emotional-injuries-jan-6-n1262581"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262581"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262581"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3460991/210331-capitol-riot-mc-1141_ac907b44d1b20b0f9a1e1fc98e3f4723.JPG"
-        width: 2500
-        height: 1663
-        isCached: true
-  - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
-    excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."
-    publishedDateTime: 2021-04-06T18:42:00Z
-    webUrl: "https://www.cnn.com/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
+  - title: "New York Times: Boehner lays blame for 'that bloody insurrection' at Trump's feet"
+    excerpt: "(CNN)Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book ..."
+    publishedDateTime: 2021-04-07T14:59:00Z
+    webUrl: "https://www.cnn.com/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 108
+    quality: 130
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407094117-john-boehner-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump Jr. Calls on GOP to Oppose Vaccine Passports or Quit"
-    excerpt: "Donald Trump Jr. urged Republicans to vehemently oppose vaccine passports, calling the measure potentially the \"greatest affront\" on American freedoms in recent history. President Joe Biden's administration is leaving implementation of health passports up ..."
-    publishedDateTime: 2021-04-06T15:13:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-jr-calls-gop-oppose-vaccine-passports-quit-1581316"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-calls-gop-oppose-vaccine-passports-quit-1581316?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-calls-gop-oppose-vaccine-passports-quit-1581316?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1772025/vaccine-passport-gop-trump-jr.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Value judgment: Donald Trump tumbles down billionaires’ rankings"
     excerpt: "Today, we learn that Donald Trump got richer, too, but was left trailing by his billionaire mates. Poor guy. According to the yearly update of Forbes’ billionaires list, Donald Trump’s standing among other billionaires has plummeted almost 300 places ..."
     publishedDateTime: 2021-04-06T16:47:00Z

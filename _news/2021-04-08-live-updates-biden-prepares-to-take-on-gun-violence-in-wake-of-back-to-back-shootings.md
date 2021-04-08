@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to unveil long-awaited executive action on guns"
-    excerpt: "The announcement, expected for Thursday, comes amid a spate of high-profile shootings and as some advocates have grown frustrated in the White House's delay."
-    publishedDateTime: 2021-04-07T15:59:00Z
-    webUrl: "https://www.politico.com/news/2021/04/07/biden-executive-actions-guns-479704"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/biden-executive-actions-guns-479704"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-executive-actions-guns-479704"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/5a/1b/5c7cf1894408bfba4edd5985b703/20210407-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "J2U7H1noE9bD3mZ5RjLHWQ3NG1uHSTOSHgdQVQ2fNK1dTA8xy7pCR9shgmCGqilhaksXmQa+VJA19oKjQRdhW4IkVCRAfF7k9RBTOZygG/WcWRb6k4YXST59Jr+PK7QfOB2OtvfK8jSZtA1T/js3gVYUeqIYlYZQ17yfToVamSkFKlkT8p7hbzs9JGCxswtZAHYzE/eyQdP/3ROs1qerW10ixgzrXBYeasBE8X6C9aYVA4VKGXRsHp/kRhmAllcWtU53qc5SoUNEtamWDq3aPtP9IuLtlGF6dc+2apbi3vJnxPe/reboHsn5wb2HuqW5fGNKd1YtL07BMoTVsN4m0mXKSniQnswIH3ylfELn3io=;n9z7vihZiT8pU/xHojUMkg=="
 ---

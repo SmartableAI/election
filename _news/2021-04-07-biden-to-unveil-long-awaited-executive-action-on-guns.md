@@ -32,35 +32,49 @@ images:
     isCached: true
 
 related:
-  - title: "Sanders: Biden has given a serious proposal based on a serious problem"
-    excerpt: "Sen. Bernie Sanders (I-VT) discusses President Joe Biden's infrastructure plan and tells CNN's Jake Tapper that the US needs to address its \"human infrastructure\" as well."
-    publishedDateTime: 2021-04-04T14:15:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
+  - title: "Biden's planned pick for ATF director a fierce advocate for gun control"
+    excerpt: "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n"
+    publishedDateTime: 2021-04-08T01:30:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404095914-sanders-sotu-0404-vpx-super-tease.jpeg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Live Updates: Biden Prepares to Take on Gun Violence in Wake of Back-to-Back Shootings"
-    excerpt: "The president is expected to unveil executive orders on Thursday that will tackle so-called ghost guns and background checks. His office also released a plan to raise $2.5 trillion by overhauling the corporate tax code."
-    publishedDateTime: 2021-04-07T17:04:00Z
-    webUrl: "https://www.nytimes.com/live/2021/04/07/us/biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/04/07/us/biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/07/us/biden-news-today.amp.html"
+  - title: "Biden to take first limited steps on gun control, including on 'ghost guns' and pistol braces"
+    excerpt: "President Joe Biden plans to announce new executive actions on guns on Thursday, a person familiar with the plans said, fulfilling a commitment he made in the aftermath of two deadly shootings last month.\n    \n"
+    publishedDateTime: 2021-04-08T01:13:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbuhfS5sVSo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162103-01-biden-vaccine-remarks-0406-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Watch Live: Biden Speaks on Infrastructure Plan"
+    excerpt: "new video loaded: Watch Live: Biden Speaks on Infrastructure Plan President Biden delivers remarks on his $2 trillion American Jobs Plan, which aims to overhaul the nation’s infrastructure. Advertisement NOW PLAYING 1:36 1:38 Advertisement 0:57 1:33 ..."
+    publishedDateTime: 2021-04-07T17:17:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007696487/live-joe-biden-infrastructure-bill.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 127
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/04/07/us/07new-washington-brief-georgia-promo/07new-washington-brief-georgia-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/07/us/07vid-Biden-Live/merlin_185831562_dc56174f-44a6-4589-bedc-b73641340bf2-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
         isCached: true

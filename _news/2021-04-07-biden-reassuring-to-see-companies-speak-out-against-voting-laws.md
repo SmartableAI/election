@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's Coming Executive Orders to Include Requiring Background Checks for 'Ghost Guns'"
+    excerpt: "President Joe Biden is expected to include a federal directive mandating background checks for individuals purchasing \"ghost guns\" this week, alongside a wider series of executive orders addressing U.S. gun violence, the Associated Press reported on Wednesday."
+    publishedDateTime: 2021-04-07T22:10:00Z
+    webUrl: "https://www.newsweek.com/bidens-coming-executive-orders-include-requiring-background-checks-ghost-guns-1581843"
+    ampWebUrl: "https://www.newsweek.com/bidens-coming-executive-orders-include-requiring-background-checks-ghost-guns-1581843?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-coming-executive-orders-include-requiring-background-checks-ghost-guns-1581843?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1772860/president-joe-biden-executive-orders.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden says over 80% of teachers, school staff received at least one shot by end of March"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that more than 80% of teachers and school staff had received at least one vaccination shot but that variants of the coronavirus are spreading and generating a rise in cases. “We aren’t at ..."
     publishedDateTime: 2021-04-06T19:54:00Z

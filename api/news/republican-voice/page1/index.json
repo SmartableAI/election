@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-08-former-vice-president-mike-pence-to-publish-memoir.md",
+      "title": "Former Vice President Mike Pence to publish memoir",
+      "excerpt": "Former Vice President Mike Pence is set to chronical his experience in the Trump White House with a two-book deal he signed with Simon & Schuster Wednesday. The publisher said Pence will pen ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/",
+      "originalUrl": "https://nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-signs-double-book-deal-331.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/former-vice-president-mike-pence-to-publish-memoir/amp/",
+      "publishedDateTime": "2021-04-07T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.md",
+      "title": "Trump’s ex-campaign manager Brad Parscale helping Caitlyn Jenner explore run for California governor",
+      "excerpt": "Former Trump campaign manager Brad Parscale is helping Caitlyn Jenner as she very seriously explores running for Governor in California, Fox News has learned. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/obM65EaV2G4/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/obM65EaV2G4/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp",
+      "publishedDateTime": "2021-04-07T17:41:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-biden-chief-of-staff-once-said-roads-and-bridges-are-what-most-americans-think-infrastructure-is.md",
       "title": "Biden chief of staff once said roads and bridges are what 'most Americans think' infrastructure is",
       "excerpt": "As Democrats continue to expand their definition of infrastructure, White House chief of staff Ron Klain reined in what qualified as infrastructure in 2017 under the Trump administration. ",
@@ -226,63 +330,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster.md",
-      "title": "Former Vice President Mike Pence to Publish Autobiography With Simon & Schuster",
-      "excerpt": "Former Vice President Mike Pence will publish an autobiography with Simon & Schuster that chronicles his life in politics and role in the Trump administration, the publisher said, adding another anticipated title to a hot market for political books.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505",
-      "originalUrl": "https://www.wsj.com/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-321973/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505",
-      "publishedDateTime": "2021-04-07T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-biden-expected-to-announce-executive-actions-on-gun-control-thursday.md",
       "title": "Biden expected to announce executive actions on gun control Thursday",
       "excerpt": "President Biden will announce new executive action on gun control on Thursday, White House press secretary Jen Psaki indicated Wednesday. ",
@@ -295,7 +342,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -625,7 +672,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1613,54 +1660,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-trump-melania-met-with-cheers-at-easter-church-service-in-florida.md",
-      "title": "Trump, Melania met with cheers at Easter church service in Florida",
-      "excerpt": "Former President Donald Trump and former First Lady Melania Trump spent their Easter in Florida, attending church before spending time with family at an Easter egg roll at their Mar-a-Lago estate.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
-      "originalUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-easter-82.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
-      "publishedDateTime": "2021-04-05T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

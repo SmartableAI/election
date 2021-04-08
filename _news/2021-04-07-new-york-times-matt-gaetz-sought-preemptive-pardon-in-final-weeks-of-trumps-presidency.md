@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
 type: article
 quality: 166
-heat: 246
+heat: 226
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/3b/45/24baa3864faf9352e262d8ef8c93/4-6-21-matt-gaetz-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump claims Gaetz 'never asked me for a pardon'"
-    excerpt: "Former President Donald Trump said Wednesday that embattled Rep. Matt Gaetz (R-Fla.) “has never asked me for a pardon,\" disputing a New York Times report that Gaetz asked the former president for a blanket pardon as Trump's term in office was coming to a ..."
-    publishedDateTime: 2021-04-07T16:01:00Z
-    webUrl: "https://www.politico.com/news/2021/04/07/trump-gaetz-pardon-479701"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/trump-gaetz-pardon-479701"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/trump-gaetz-pardon-479701"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/69/ac/6bab09c24990918044542d2cf1ae/210407-gaetz-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

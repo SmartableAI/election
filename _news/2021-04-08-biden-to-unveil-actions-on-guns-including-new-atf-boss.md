@@ -239,6 +239,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden to take a flurry of actions on gun control"
+    excerpt: "Biden plans to announce his new directives at a White House ... much less the support of 60 senators needed to pass most legislation in the Senate. Sen. Joe Manchin III (D-W.Va.) has signaled opposition to the House-passed gun measures, preferring instead ..."
+    publishedDateTime: 2021-04-07T20:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-nominate-official-from-gun-control-group-to-head-atf/2021/04/07/1f0ef6d4-97d2-11eb-962b-78c1d8228819_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-nominate-official-from-gun-control-group-to-head-atf/2021/04/07/1f0ef6d4-97d2-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-nominate-official-from-gun-control-group-to-head-atf/2021/04/07/1f0ef6d4-97d2-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MR2FZBUX44I6XJWQCPJAPKW3PA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden's stimulus plan went beyond what the Fed expected"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The American Rescue Plan passed by President Joe Biden last month was larger than Federal Reserve policymakers had anticipated, according to minutes from the Federal Open Market Committee's March meeting."
     publishedDateTime: 2021-04-07T19:21:00Z
@@ -255,21 +271,53 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Jill Biden shines fresh spotlight on military family program"
-    excerpt: "Shortly before President Joe Biden took office, the first lady named Rory Brosius as the initiative's executive director. Brosius previously served as the program's deputy director. Jill Biden's ..."
-    publishedDateTime: 2021-04-07T20:53:00Z
-    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
-    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+  - title: "Jill Biden announces next steps for military family program"
+    excerpt: "Jill Biden is bringing a new focus to the cause of supporting America's military families. The first lady on Wednesday announced the next chapter for a decade-old military family support program she and then-first lady Michelle Obama led during the Obama administration."
+    publishedDateTime: 2021-04-07T18:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-announcing-steps-military-family-program-76921329"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-announcing-steps-military-family-program-76921329"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-announcing-steps-military-family-program-76921329"
     type: article
     provider:
-      name: ABCNews
+      name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_39348932ea8c4f53bd94270691cbb3b3_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6f4860f631b04b8e8b97167ef509ef87_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Jill Biden shines fresh spotlight on military family program"
+    excerpt: "She had promised during the 2020 presidential campaign to revive Joining Forces. Shortly before President Joe Biden took office, the first lady named Rory Brosius as the initiative’s executive director. Brosius previously served as the program’s deputy ..."
+    publishedDateTime: 2021-04-08T01:47:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Moderate GOP senators and Biden clash at start of infrastructure debate"
+    excerpt: "A group of 10 Republican senators who met with President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama ..."
+    publishedDateTime: 2021-04-08T00:51:00Z
+    webUrl: "https://thehill.com/homenews/senate/547063-moderate-gop-senators-and-biden-clash-at-start-of-infrastructure-debate"
+    ampWebUrl: "https://thehill.com/homenews/senate/547063-moderate-gop-senators-and-biden-clash-at-start-of-infrastructure-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547063-moderate-gop-senators-and-biden-clash-at-start-of-infrastructure-debate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/romneymitt_collinssusan_120320bc_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
@@ -676,6 +724,6 @@ related:
         height: 433
         isCached: true
 
-secured: "4aaeCll+is6YIfthDD+9D7K6W6aUudb3lzM2N/fW+fziq0dNK1TBxXpVTu2wCAuEv5Ahsp/wY1thFat9Bgw55Tji8xWJ9/2RkfT+JqMxJT60d4WjSCh1jDcNZaF8vgFQqxTrljX0MSz2ZSIbmZz2xusVdPiS0r1MxT06j6nrJuLY72o7aD5qruZWcd35qn6cXTZK7KC69meGcIM5XLzk28ZKZJTKzwwkZorILvSQt67An4RGfdnXTEEdL8E4X6iE5ZxwtgM8S5nNhucuFWwWddepvmLIOZxT0Hp6hVWd1FrC1jX+pqZ8GUyzWIevEgGqE/xyouvHDVEOKJeJ3wT+31qdjccAO7InIx8zVonug4o=;xbzs41tvKFSnU/78qRnKvQ=="
+secured: "WdwtNah2mamKSwdWeMGV6GVNZFCYErn5cprr2o1Ew/kprUgTRZdPWC7hQ7ygeZREucLVBmcMFbGvIWBAlWpMv/34kW9F9QPfGCYlB77gxXaH+y+5ds0XVmunrclzYmm/O5ibzDVBP7EyjGnXKblKdazkoIsw7obvnoRetVov2UccsC45Zs3Ihe3IKR0KIWoPMl8PwPX7EyV3Pp57ExU1coSZ8QvfNIAAgHhUBeiGd9Felwk5hgtoxG5rhF6qqdIbwjjz5jlcO27Lo3cVYQuIUmJ3pbizBIPBrPg8o62NaDCH4wuhr/b7cZUTyfKT2qvha8oxSKDs1l682JWHTF2+etwvjDprJPRQtbOysrUuH4I6w4g+hza3gS6Nb/Zb7J6txtmqwO8cJUNZliAlEqg5ElOjncOM1yxkd+v3HYYwPwC5bj+jtU/U0GgQCwpTDLs7Jw+oIO3LA5u4XOln//LG3cFvZQUGJiTIEzGA/fLMxEgpZQ5RxG7HXOP6oB1AooIfUdcx1hAeeKZFsY7/JI2qRA==;ny8dCI6opSTuafjsVvJGuw=="
 ---
 

@@ -170,6 +170,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden: ‘Inaction’ not an option on infrastructure"
+    excerpt: "President Joe Biden on Wednesday made a fiery appeal for U.S companies to foot the bill for his $2 trillion-plus infrastructure plan, but signaled an openness to negotiate how big their tax bill should be. This report produced by Jonah Green."
+    publishedDateTime: 2021-04-08T00:12:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE7J3NJ3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210407&i=OVE7J3NJ3&r=OVE7J3NJ3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden: Inaction on infrastructure 'not an option'"
     excerpt: "President Joe Biden says he's open to compromise on how to pay for his $2.3 trillion infrastructure plan, but insists \"inaction is simply not an option.\" (April 7)"
     publishedDateTime: 2021-04-07T22:12:00Z

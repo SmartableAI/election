@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Organization Hires Criminal Defense Lawyer"
+    excerpt: "Mr. Vance’s office has said it is investigating possible bank, tax or insurance fraud. Prosecutors have subpoenaed information from former President Donald Trump’s banks, lenders, an insurance broker and other parties, The Wall Street Journal has ..."
+    publishedDateTime: 2021-04-07T23:15:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-322013/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
     excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"

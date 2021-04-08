@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden's Coming Executive Orders to Include Requiring Background Checks for 'Ghost Guns'"
+    excerpt: "President Joe Biden is expected to include a federal directive mandating background checks for individuals purchasing \"ghost guns\" this week, alongside a wider series of executive orders addressing U.S. gun violence, the Associated Press reported on Wednesday."
+    publishedDateTime: 2021-04-07T22:10:00Z
+    webUrl: "https://www.newsweek.com/bidens-coming-executive-orders-include-requiring-background-checks-ghost-guns-1581843"
+    ampWebUrl: "https://www.newsweek.com/bidens-coming-executive-orders-include-requiring-background-checks-ghost-guns-1581843?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-coming-executive-orders-include-requiring-background-checks-ghost-guns-1581843?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1772860/president-joe-biden-executive-orders.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Joe Biden Suffers School Reopening Setback as Survey Shows Fewer Students Attending Full Time"
     excerpt: "President Joe Biden has been dealt a setback with his goal to reopen more schools for in-person learning, as new data shows that a majority of students are still not returning to the classroom full time even when given the chance. According to a new survey ..."
     publishedDateTime: 2021-04-07T21:16:00Z

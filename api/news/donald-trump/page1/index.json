@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-ex-trump-aide-stephen-miller-launches-legal-group-to-fight-democrats-in-the-courts.md",
-      "title": "Ex-Trump aide Stephen Miller launches legal group to fight Democrats in the courts",
-      "excerpt": "Washington — Stephen Miller, who was a top aide to former President Donald Trump and the driving force behind his hardline immigration policies, has launched a new legal group that aims to take the fight against President Biden and Democrats' agenda to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/stephen-miller-legal-group-democratic-lawsuits/",
-      "originalUrl": "https://www.cbsnews.com/news/stephen-miller-legal-group-democratic-lawsuits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/07/d7884123-3798-45b6-beec-647627a4fcaf/thumbnail/1200x630g3/12410e2f8128157dac1ed9d9374c251e/ap21077576679504.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/stephen-miller-legal-group-democratic-lawsuits/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stephen-miller-legal-group-democratic-lawsuits/",
-      "publishedDateTime": "2021-04-07T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-nasty-notes-left-for-trump-staffers-came-from-celebs-not-obama-aides-dave-chappelle-says.md",
       "title": "Nasty notes left for Trump staffers came from celebs, not Obama aides, Dave Chappelle says",
       "excerpt": "When former President Donald Trump first moved into the White House in January 2017, his staffers said they found nasty notes stuffed into the drawers and cabinets — a claim President Barack",
@@ -186,6 +134,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-exclusive-epa-reverses-trump-stance-in-push-to-tackle-environmental-racism.md",
+      "title": "Exclusive: EPA reverses Trump stance in push to tackle environmental racism",
+      "excerpt": "Enforcement of pollution violations dropped steeply under Donald Trump’s administration, with the EPA even suspending routine inspections of facilities while the Covid-19 pandemic raged in the US last year. A lack of federal intervention further ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice",
+      "originalUrl": "https://www.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0212b15c304f6f65fe824f0e440fd35fb4df2236/0_224_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8037f13713e4177088028243fdc1df9",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice",
+      "publishedDateTime": "2021-04-07T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -531,7 +531,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1044,7 +1044,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1152,7 +1152,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 170,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1205,7 +1205,7 @@
       "originalUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1257,7 +1257,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1353,6 +1353,63 @@
       ]
     },
     {
+      "path": "_news/2021-04-02-trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.md",
+      "title": "Trump peeled away Latino voters nationwide in 2020, a new analysis found.",
+      "excerpt": "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/02/us/politics/02new-washington-briefing-latino-voters/02new-washington-briefing-latino-voters-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "publishedDateTime": "2021-04-02T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-ivanka-trumps-womens-empowerment-program-slammed-in-government-report.md",
       "title": "Ivanka Trump's women's empowerment program slammed in government report",
       "excerpt": "Former President Donald Trump's eldest daughter and adviser, Ivanka Trump, helped promote the policy program and ushered the bill through Congress. The US Agency for International Development oversaw the implementation of the initiative and was mandated to ...",
@@ -1361,7 +1418,7 @@
       "originalUrl": "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1413,7 +1470,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1489,58 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-donald-trump-jr-kimberly-guilfoyle-pay-97-million-for-admirals-cove-home-in-jupiter.md",
-      "title": "Donald Trump Jr., Kimberly Guilfoyle pay $9.7 million for Admirals Cove home in Jupiter",
-      "excerpt": "After months of house hunting, Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are Palm Beach County homeowners. On Wednesday, the high-profile couple paid $9.7 million for a waterfront home in Admirals Cove, an exclusive gated community in Jupiter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/03/31/donald-trump-jr-and-kimberly-guilfoyle-buy-9-7-million-jupiter-home/4818798001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/03/31/donald-trump-jr-and-kimberly-guilfoyle-buy-9-7-million-jupiter-home/4818798001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/22/NPPP/83afa231-2893-4dbb-a3ab-781026601a69-IMG-6435.JPG?auto=webp&crop=827,466,x0,y157&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4818798001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4818798001",
-      "publishedDateTime": "2021-04-01T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

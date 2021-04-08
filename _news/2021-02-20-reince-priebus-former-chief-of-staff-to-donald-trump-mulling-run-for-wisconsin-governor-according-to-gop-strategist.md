@@ -111,22 +111,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump looms large in race for South Carolina GOP chairman"
-    excerpt: "COLUMBIA, S.C. — In South Carolina — where Donald Trump’s 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state’s Republican Party is ..."
-    publishedDateTime: 2021-04-01T19:01:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Extent of Trump's Usefulness to GOP Questioned by WSJ Editorial Board After CPAC"
     excerpt: "\"If CPAC represented America, Mr. Trump would still reside in the White House, not Mar-a-Lago,\" the board wrote."
     publishedDateTime: 2021-03-02T16:51:00Z
@@ -204,22 +188,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/01/5b929da1-94b3-4243-8f0f-db4ef6eff32a/thumbnail/1200x630/4d676decdefcc90d580ff74ee451bd03/0301-redblue-bam-656442-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump looms large in race for South Carolina GOP chairman"
-    excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
-    publishedDateTime: 2021-04-01T14:58:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "The GOP's first 2024 cattle call is almost here. By the looks of the CPAC speaking roster, it's gearing up to be a very Trump-friendly affair."
     excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."

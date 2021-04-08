@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/bernie-sanders-intv-biden-infrastructure-plan-sotu-vpx.cnn"
 type: article
 quality: 135
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to unveil long-awaited executive action on guns"
-    excerpt: "The announcement, expected for Thursday, comes amid a spate of high-profile shootings and as some advocates have grown frustrated in the White House's delay."
-    publishedDateTime: 2021-04-07T15:59:00Z
-    webUrl: "https://www.politico.com/news/2021/04/07/biden-executive-actions-guns-479704"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/biden-executive-actions-guns-479704"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-executive-actions-guns-479704"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/5a/1b/5c7cf1894408bfba4edd5985b703/20210407-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Live Updates: Biden Prepares to Take on Gun Violence in Wake of Back-to-Back Shootings"
     excerpt: "The president is expected to unveil executive orders on Thursday that will tackle so-called ghost guns and background checks. His office also released a plan to raise $2.5 trillion by overhauling the corporate tax code."
     publishedDateTime: 2021-04-07T17:04:00Z

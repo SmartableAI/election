@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 5218
+heat: 5238
 published: true
 
 provider:
@@ -827,6 +827,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/7a666971-b86e-4b65-b05c-f6af832ac531-6599a583-0851-418d-a78d-a39a891df4d9_thumbnail.png?auto=webp&crop=479,270,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Kamala Harris seeks $2M for her Washington, DC, condo"
+    excerpt: "Vice President Kamala Harris has put her Washington, DC, condo on the market for $1,995,000 this week. The move comes just a month after she sold her San Francisco condo."
+    publishedDateTime: 2021-04-08T01:05:00Z
+    webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/H3xoktshK4QfCp3PQVoQZjEfLaI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5JUS4O7RFGATAXXTIRECLKLCU.jpeg"
+        width: 1200
+        height: 901
         isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."

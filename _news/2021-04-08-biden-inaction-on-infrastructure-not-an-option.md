@@ -184,6 +184,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden: ‘Inaction’ not an option on infrastructure"
+    excerpt: "President Joe Biden on Wednesday made a fiery appeal for U.S companies to foot the bill for his $2 trillion-plus infrastructure plan, but signaled an openness to negotiate how big their tax bill should be. This report produced by Jonah Green."
+    publishedDateTime: 2021-04-08T00:12:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE7J3NJ3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210407&i=OVE7J3NJ3&r=OVE7J3NJ3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Las Vegas, Nashville, Phoenix and more: Amtrak would expand, connect new cities under Joe Biden's infrastructure plan"
     excerpt: "Amtrak late Wednesday released a proposed map of new and expanded service if it can land the $80 billion proposed by President Joe Biden."
     publishedDateTime: 2021-04-01T18:15:00Z
@@ -217,6 +231,6 @@ related:
         height: 429
         isCached: true
 
-secured: "5cTUCp+F+s7PVfHq8nhG13uQ/wHpQ8EQdkE6REX1fwN0TUK4DSV95x9nCfubY8j+Qlmq6sQMVtPRLHun+ANwR73EC9S8LsCGCmhsWqLvbuykogNw484dC1blttuuOPeSD0xC8V5qweCrUz2/S0xZOmfttkTq36B3gtmlWv5t4s+kNzvnac6PYR5FM3Hq5S9WU+Yve0oVThG6ultnjVeCggURg/OWhqOx7zQCCZvumJa3+L5Cru5C8tgrXdqIuq8lp4Y2CH3aSAjj3dl2zDOpyVio0QlRY0DHwfgUOFwBxQ0WbpFvAFCeOt0gjdkriiVy/qX8sbUfG4AD2QX/cyRPp1yttdyK/GKDAjSZMPd6eio=;Kknup4riqsKtzAGPKgjEsQ=="
+secured: "gPBu4YVpFLNB2Jin4gdvNCRTrd/gqcTxCjGedMsomXrUBrDR6J04om/J+SBcEGDCI7cQkEjF16iRVfcBg3jsS0vDWiMclGN8siRFjxTQ96jCcqbbR88IvTTdVnUXMkxgHGKDFEKyDMIawH8HHxAHFzhtn5NKp/VuS3QoOSjYV94918GWHM7h3iQUa3t/q8eM4//S1qP+pBTthuYJXapzL8IvqFpo4xK1Q0D6Eq63h0BcvK8WEp21rjnAQCc3ek4XmvtsEjOUEoixsHV/Hnr/zwdsxWETwmJOjJyk0HBD0v4wSKwy7FEA8b9IfFqknQ9NaeODTe17lDw50YNcMVZoTxRwCy2nG37rXJ1UGKBJNwN66/9atjCDfe0r36is61bxAK/di5LJeodigB4txYKudXGp26tWauxD0jAczBVfkXgFuooZxmsCaGd4i0p3Q56e2XSChELwI43+PcqU4slGnbFDMyebLvgyWamLdSMRGm8FFrNrubQ+AH1YfEmSM73v9DYzzCWGUsULED+50sVgrw==;1rsUMWo2jT66uVX6iabadg=="
 ---
 
