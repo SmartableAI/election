@@ -126,6 +126,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden vows gun measures won't impact 2nd Amendment rights"
+    excerpt: "US President Joe Biden speaks about gun violence prevention in the Rose Garden of the White House in Washington, DC, on April 8, 2021. - Biden on Thursday called US gun violence an \"epidemic\" at a White House ceremony to unveil new attempts to get the ..."
+    publishedDateTime: 2021-04-08T16:29:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/08/joe-biden-gun-measures-2nd-amendment-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/08/joe-biden-gun-measures-2nd-amendment-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/08/joe-biden-gun-measures-2nd-amendment-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he’s willing to compromise on his infrastructure plan, but will not tolerate ‘doing nothing.’"
     excerpt: "like Senator Joe Manchin III of West Virginia, who have suggested they might agree to a corporate tax increase, but one not quite as big as the 28 percent Mr. Biden has proposed. The current rate is 21 percent. Asked if he was willing to compromise on the ..."
     publishedDateTime: 2021-04-07T12:32:00Z
@@ -141,6 +157,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07new-was-biden-sub/07new-was-biden-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden goes where Congress won’t on guns"
+    excerpt: "That’s how President JOE BIDEN started off the Rose Garden speech where he unveiled his newest moves to curb gun violence. It’s both an encapsulation of the way his administration thinks about the issue and a preemptive defense against accusations from the right that he’s undermining the Second Amendment."
+    publishedDateTime: 2021-04-08T17:48:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/08/biden-goes-where-congress-wont-on-guns-492409"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/9f/32/ed70672a45a2a5ae285458df2790/210408-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "isGl4NBwSx3spD96aDdFLAQtzlx+NNR2YjE4HEVwP8AvdeYmvr5nu3AaiR/XbHGtNfnpH0/9KptVbtZTmRcrur+6xpm+lweGwAafabHy/CYs9Hbd1PY/me15CTxWrvxZu3TkByxQPzOhZf4T9YgKDmxUNW8rQmofqSgZN30sd1YT0z4SfWXZMdHcHMlmP2V8gqc00+xtmqvobHPJ8JsMnQSz9ZPpYxhfYF6mDnF81/edPfvSxT5yoowDAd1LTh6dCuYD4f8L3cVgaIpvyNvnie+q/Aut8kIr02oq+FYc5bhcNzLP0iOUZEriwoPEqj5TCSJ+sV42tgw97Uf1duWBnBiwdEmpVhR5V8mIzqcIP2mjI47tSrJj1LSbSyXYevg8HC5zBhpjWVIzYICYUxJR+JmX5jD1MAzn/ANzALThb3idUUuet7u12qdhMhYXpMlap2x9hV3PJRtIkuKwO1Nwwc8kgjbaCJRBmcGHkB0JrClrWvptXxySIeZRdxWl+oWBMvripNX0cHrAI2JWDapEjg==;3SAE8uk52Xaw7CO+NHcIHQ=="

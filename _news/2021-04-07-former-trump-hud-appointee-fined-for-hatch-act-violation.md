@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Former Trump aide Max Miller raised 500K in one month in House race vs GOP member who voted to impeach"
-    excerpt: "Max Miller, the former Trump aide mounting a primary challenge to Ohio Republican Rep. Anthony Gonzalez, raised more than $500,000 in approximately the first month of his campaign, Fox News has learned. "
-    publishedDateTime: 2021-04-01T20:21:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AekWORwQo0/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach"
-    ampWebUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
+  - title: "Group inspired by Trump's 1776 Commission seeks to combat 'anti-American indoctrination' in education"
+    excerpt: "A new activism group is launching to counter ideas like critical race theory and pursue the type of educational vision outlined by former President Trump at the end of his term."
+    publishedDateTime: 2021-04-08T17:30:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kQrp85dPvI/1776-action-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/1776-action-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1776-action-critical-race-theory.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/School-Reopening-Massachusetts-In-Person-Learning-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "QGUBHitXlMz+AZ8JxSyx3dZudjF73wkr769p6ymUywajlZBJre1SejReEyonDdRGk3FBVET5OX14gMKc6fQobJ08kpoA0p7GUSSwO6zT+M8QnDK/WC35JSZrGPbTDB+Ew30OnMGeTehZx8/App6p0M3MW3xZUtnekA/USPQ7greYGTn05OCSUhWZWdoS9FYkSfirsjk2s6eKa6JwW55Da5OJSQONgJnXbjvs3/19FxlO8p3x20WR9Jlg32aGAedyKGjh3abCesqmd/DnK8g6Z4AckrNaVuqSFCxbxlOjftWsKTJFeM90/jWtPITQnDOIOa3ss2c+MV6XjA4MOBMGHqvsGW1iS3aU7FCbIfgJV1M=;eXhuUsGBFKSo/5mcV66b2w=="

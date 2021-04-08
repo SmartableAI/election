@@ -202,6 +202,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cruz accuses Biden of trying to hide 'egregious failures' on border after Mayorkas bars press from tour"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas will travel to two Texas towns along the southern border Thursday, as Texas Sen. Ted Cruz accused President Biden of trying to hide \"egregious failures\" by making the event closed to the press. "
+    publishedDateTime: 2021-04-08T17:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkAZeH3Ks88/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/ted-cruz.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Gov. Greg Abbott wants answers from Harris about migrant surge"
     excerpt: "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the"
     publishedDateTime: 2021-03-31T13:34:00Z

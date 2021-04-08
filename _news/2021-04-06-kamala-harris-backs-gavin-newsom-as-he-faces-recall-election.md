@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 780
+heat: 800
 published: true
 
 provider:
@@ -470,6 +470,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/b271040e4167263b2aefe673909db5c8/HARRIS-FAITH.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris asked Lamont to explore placing migrant youth in CT"
+    excerpt: "Vice President Kamala Harris walked up to Gov. Ned Lamont during her visit to New Haven March 26 and asked if there was a way for Connecticut to help the border situation, according to the governor’s Communications Director Max Reiss."
+    publishedDateTime: 2021-04-08T16:01:00Z
+    webUrl: "https://www.stamfordadvocate.com/middletown/article/Kamala-Harris-asked-Lamont-to-explore-placing-16086298.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/40/52/20843145/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Vice President Kamala Harris Touts St. Louis’ Mass COVID-19 Vaccination Site"
     excerpt: "The Vice President spoke with St. Louis Public Radio's Jason Rosenbaum about how the Biden administration is handling the COVID-19 vaccination effort in St. Louis and elsewhere."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/colion-noir-biden-gun-control-order
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp"
 type: article
 quality: 172
-heat: 212
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his"
-    excerpt: "Hunter Biden in an interview clip released on Friday said that the laptop first reported on last fall by the New York Post \"could\" be his, potentially casting doubt on past comments from President Biden that he thought the laptop was Russian disinformation. "
-    publishedDateTime: 2021-04-02T18:01:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QE6WfES1MXM/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his"
-    ampWebUrl: "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp"
+  - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
+    excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
+    publishedDateTime: 2021-04-08T00:02:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-actions-gun-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b0d7af2-178c-4bf5-84b1-9f4b1eaeeb17/66054943-8e0f-4161-9adc-ee518e15b053/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his"
-    excerpt: "And we also know that Putin is trying very hard to spread disinformation about Joe Biden,\" the then-candidate said. He added: \"When you put the combination of Russia, Giuliani, the president together, that's just what it is. It's a smear campaign.\""
-    publishedDateTime: 2021-04-02T18:04:00Z
-    webUrl: "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his"
-    ampWebUrl: "https://www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-said-hunter-laptop-was-russian-disinformation-but-son-now-says-it-could-be-his.amp"
+  - title: "Buttigieg defends Biden's $2T spending plan, despite just a fraction going to roads, bridges"
+    excerpt: "Transportation Secretary Pete Buttigieg on Thursday defended President Biden's sprawling economic spending measure, even though just a fraction of the $2 trillion being billed as an infrastructure package goes toward rebuilding the nation's crumbling roads and bridges."
+    publishedDateTime: 2021-04-01T15:05:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ji9t55U4sug/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges"
+    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 122
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Hunter-Biden-Memoir-Beautiful-Things-AP.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Biden-Spending-Plan-Infrastructure-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 type: article
 quality: 125
-heat: 245
+heat: 305
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/59e506e6d0a5bf4497576b19abf029f423a3dd89/0_23_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=132cc26e355e168c0db7a1767d86f425"
         width: 600
         height: 360
+        isCached: true
+  - title: "West Virginia attorney general threatens to sue Biden over gun measures"
+    excerpt: "on Thursday threatened to sue the Biden administration over President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of ..."
+    publishedDateTime: 2021-04-08T17:54:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
+        width: 827
+        height: 551
         isCached: true
   - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
     excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
@@ -110,6 +126,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/c2c4b7d7-e2d5-4428-862a-76ed58027963-AP_3D_Guns.JPG?auto=webp&crop=1022,575,x1,y2&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden says gun violence in the US is an 'international embarrassment' as he announces new executive actions"
+    excerpt: "The letter F. An envelope. It indicates the ability to send an email. President Joe Biden on Thursday announced his first executive actions amid renewed pressure to address gun violence in the US following a slew of mass shootings. \"We're taking steps to ..."
+    publishedDateTime: 2021-04-08T16:37:00Z
+    webUrl: "https://www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/606c5884a7d803001963eead?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden unveiled 6 executive actions to curb gun violence, including model 'red flag' laws and action on 'ghost guns'"
+    excerpt: "The actions, which do not require approval from Congress, come in the wake of recent mass shootings and homicide spikes in US cities."
+    publishedDateTime: 2021-04-08T16:27:00Z
+    webUrl: "https://www.businessinsider.com/biden-unveiled-6-executive-actions-to-curb-gun-violence-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-unveiled-6-executive-actions-to-curb-gun-violence-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-unveiled-6-executive-actions-to-curb-gun-violence-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/606e8b2930004b0019b26910?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border"
     excerpt: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border President Joe Biden is set to unveil a list of executive actions tackling gun violence following a series of deadly mass shootings across ..."

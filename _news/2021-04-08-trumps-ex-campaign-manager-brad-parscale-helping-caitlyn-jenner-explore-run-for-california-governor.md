@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-ex-campaign-manager-brad-par
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp"
 type: article
 quality: 160
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Caitlyn Jenner gets help from former Trump ally with potential run for CA governor"
+    excerpt: "Former Trump 2020 campaign manager Brad Parscale is assisting Caitlyn Jenner as she mulls a potential challenge to California Gov. Gavin Newsom in this year’s recall, a source familiar with"
+    publishedDateTime: 2021-04-08T17:07:00Z
+    webUrl: "https://nypost.com/2021/04/08/caitlyn-jenner-gets-help-from-brad-parscale-with-potential-run-for-ca-gov/"
+    ampWebUrl: "https://nypost.com/2021/04/08/caitlyn-jenner-gets-help-from-brad-parscale-with-potential-run-for-ca-gov/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/08/caitlyn-jenner-gets-help-from-brad-parscale-with-potential-run-for-ca-gov/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/brad-parscale-caitlyn-jenner-500.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "FpXhWyM1qSdSnSXP9n6S9mKrycRVbiYIJodwAaS3oJHEUHWHmnUqAgOatUYeX0vuKEFKQdctTiMpi/7dzSDV+14pC+WZJBssqM1LPPVsfAqG2R1dxR5EVG48c1lATREQxo984E/vT22o8fvl20HS52P4QXjZGIbmxOL9CrBNqkuAkMwiRJbxwMHTTxhVnCb5YF59AJRAjwgxw1PILGXpQzxMd5RmnB3WT87fP/JC6y00bRRXngJxLPMuVGumQE7MP/BHUQqS4+NZ94tfZVT+bisAv+5gEK6AQMRRCkLgihBeBGfYu/LPnbbHNtTeOY+6Bqs2bBY0cTZVad06IY/inpCUwwyTirEvw1W8EowaILc=;3wqxJjbXUYRiRmk8/bn0Aw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-actions-gun-violence.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp"
 type: article
 quality: 173
-heat: -1
-published: false
+heat: 213
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to nominate gun control backer David Chipman to head ATF: WH official"
-    excerpt: "President Biden is expected to nominate David Chipman to serve as the director of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), a White House official confirmed to Fox News on Wednesday."
-    publishedDateTime: 2021-04-07T22:10:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hltUAnLtL1Q/biden-david-chipman-atf"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-david-chipman-atf.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-david-chipman-atf.amp"
+  - title: "Colion Noir: Biden gun actions about 'control,' not about keeping people safe"
+    excerpt: "Gun rights activist stands against Biden administration's push for new gun control measures."
+    publishedDateTime: 2021-04-08T15:42:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbbICGWpIfg/colion-noir-biden-gun-control-orders"
+    ampWebUrl: "https://www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f71b38a7-f911-413d-9ce9-8360f122c0ef/b9d50c62-2ac2-4472-ad2e-e18d1d465e88/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Buttigieg defends Biden's $2T spending plan, despite just a fraction going to roads, bridges"
+    excerpt: "Transportation Secretary Pete Buttigieg on Thursday defended President Biden's sprawling economic spending measure, even though just a fraction of the $2 trillion being billed as an infrastructure package goes toward rebuilding the nation's crumbling roads and bridges."
+    publishedDateTime: 2021-04-01T15:05:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ji9t55U4sug/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges"
+    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Biden-Spending-Plan-Infrastructure-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "t3PfNcf8Jn4TNVTo3KouYtjhWy8deUJrvJBUHlAhJv8clq9CAf6pGRqbtaJHuko5tYzShjfyyO+RY0GHoVylIMte+QSV66Tskabug2EZCwhCVKg/PY/vRlnV3bKuKQnUSzjYVUl9jruriaQ9kgUSWe3XmBhqTL1ejfp0v9wm8c5joL5eDCwjUVadNGk3cOFWQknifJW0HwO1No7qQn3lqolmoACr2qAmQSd16EvDx2UlZDrGptnwipHLYlSDXnz4zTwL9Q1jTYJm4v0EtrCGjXRDCjAgWjERdRj1kHASIg2jH3ez8oK/1lUzveWyLZFTdiUr7hbslX7LahTWzoCebPYXkoCrNEomy2CFG/SKNsI=;30nZYsfyLqT7IRajpctgGQ=="

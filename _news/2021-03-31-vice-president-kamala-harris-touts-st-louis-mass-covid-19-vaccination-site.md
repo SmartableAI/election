@@ -481,6 +481,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris asked Lamont to explore placing migrant youth in CT"
+    excerpt: "Vice President Kamala Harris walked up to Gov. Ned Lamont during her visit to New Haven March 26 and asked if there was a way for Connecticut to help the border situation, according to the governor’s Communications Director Max Reiss."
+    publishedDateTime: 2021-04-08T16:01:00Z
+    webUrl: "https://www.stamfordadvocate.com/middletown/article/Kamala-Harris-asked-Lamont-to-explore-placing-16086298.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/40/52/20843145/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
     excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
     publishedDateTime: 2021-04-06T14:22:00Z

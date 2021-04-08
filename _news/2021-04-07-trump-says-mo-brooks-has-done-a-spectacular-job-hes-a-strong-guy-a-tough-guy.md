@@ -91,19 +91,21 @@ related:
         width: 309
         height: 292
         isCached: true
-  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
-    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
-    publishedDateTime: 2021-04-07T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
+  - title: "Trump-loving Alabama county faces uphill vaccination effort"
+    excerpt: "Tending a thrift store that displays a faded Trump flag in a nearly all-white Alabama county with a long history of going against the grain, Dwight Owensby is among the area's many skeptics of the COVID-19 vaccine."
+    publishedDateTime: 2021-04-08T15:15:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-loving-Alabama-county-faces-uphill-16086167.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-loving-Alabama-county-faces-uphill-16086167.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-loving-Alabama-county-faces-uphill-16086167.php"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 96
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump backs Rep. Mo Brooks in Alabama Senate race, who cheered Capitol rioters for ‘kicking ass’"
     excerpt: "Former President Donald Trump is throwing his support behind Rep. Mo Brooks in next year’s Alabama Senate race, a staunch supporter who cheered the Jan. 6 crowd at the Capitol for “taking down names and kicking ass."

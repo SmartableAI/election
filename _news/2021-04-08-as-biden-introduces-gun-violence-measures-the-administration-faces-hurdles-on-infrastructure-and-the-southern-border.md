@@ -61,6 +61,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "West Virginia attorney general threatens to sue Biden over gun measures"
+    excerpt: "on Thursday threatened to sue the Biden administration over President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of ..."
+    publishedDateTime: 2021-04-08T17:54:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
+        width: 827
+        height: 551
+        isCached: true
   - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
     excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
     publishedDateTime: 2021-04-08T00:46:00Z
@@ -125,7 +141,39 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden says gun violence in the US is an 'international embarrassment' as he announces new executive actions"
+    excerpt: "The letter F. An envelope. It indicates the ability to send an email. President Joe Biden on Thursday announced his first executive actions amid renewed pressure to address gun violence in the US following a slew of mass shootings. \"We're taking steps to ..."
+    publishedDateTime: 2021-04-08T16:37:00Z
+    webUrl: "https://www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/606c5884a7d803001963eead?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden unveiled 6 executive actions to curb gun violence, including model 'red flag' laws and action on 'ghost guns'"
+    excerpt: "The actions, which do not require approval from Congress, come in the wake of recent mass shootings and homicide spikes in US cities."
+    publishedDateTime: 2021-04-08T16:27:00Z
+    webUrl: "https://www.businessinsider.com/biden-unveiled-6-executive-actions-to-curb-gun-violence-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-unveiled-6-executive-actions-to-curb-gun-violence-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-unveiled-6-executive-actions-to-curb-gun-violence-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/606e8b2930004b0019b26910?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "mDyBbEcbHxHVg0BzOH6HtfSiXBJ4TK3ighS874SVQ5W5l6nJwASxxH4nTJBinFSdCnuzG3w76BBrzv/PGoVZC14q7gjIta7E1THNvKeTYbQ6D/Vu3+xGj2MzipPgmY3AetbBwuSFJq8H/atJsYqwRAWARRQaFmRZGPTyEg2vTPgt+3qYanqS+t6GjNL2wIoEXmupxsrz2MbM2yykuqjVWH1PRSshiAN9R6N+vXMnO4lKGmmpPxwSJ1IsAJsoC612rePSQf9yWy/FAq9GaCruWKE8g4o5g1a/Ky4GidU0SdNa8dTUm3PJqfpnMBu6fq2CQ7BejpAtOPoxerzaerN9m6Bh9uePzkzyhEzSy9AcZXs=;dUq6sg9VaC/5rXCs5LY/nw=="
+secured: "nDZasT9clrKUyUz2RzD5LeqZpBWHb1ecBH7Se7cVLJhdPy47Ju2zYzf7u7GQTpg5v+UpoP8pgQi+fvENCef9M8INXK+LbQOXKQYSQ5cOw8BJAcK3ah4mwAOpfp7njlWjnupMh8QfdudyIPk1Sd7h9YuJSDRo45yacaX89WH7f0bT3cMlV/Qyxirxc881bfcMaKUDaTcvVlqk1hPIJMicJTQKQPFTQOr9pBBupulUPbtjlIZggAQNJ98MbzzdVpZGV43CyYa2/c8QaxiXpOYa63+/NG2yuiOlzst4mA4JcZa7c19VgzsM0Ljl8R2veKANCujhcfBplzHQ3DZB3005wIkfNHx5vq+AAPaXElMDqC99hkutifdtZsXXClcvORcOefpxa8oip11FSZiQOa3ICPDJF5Yvp/44Sbs7hqurBJYdwrlGl+WFuczF0CkyV4SChk/44/RQlRwY2HvrFP2RQaNe4dVl3Fm/D7e1k1Wx2i1cLABhb81bSfX8TvjJjqdE+30W0mCy7dspZUHo/GeD4g==;jFhCzbw/TwsrRae9V9Rwtw=="
 ---
 

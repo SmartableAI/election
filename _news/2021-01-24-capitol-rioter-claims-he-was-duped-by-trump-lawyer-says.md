@@ -191,22 +191,6 @@ related:
         width: 876
         height: 545
         isCached: true
-  - title: "Trump adviser Giuliani asks judge to throw out $1.3 billion lawsuit over his 'big lie' election claims"
-    excerpt: "WASHINGTON (Reuters) - Donald Trump’s former personal lawyer Rudy Giuliani asked a judge on Wednesday to throw out a voting machine company’s $1.3 billion defamation lawsuit relating to his false claims about the November 2020 presidential election ..."
-    publishedDateTime: 2021-04-07T20:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-dominion/trump-adviser-giuliani-asks-judge-to-throw-out-1-3-billion-lawsuit-over-his-big-lie-election-claims-idUSKBN2BU2NS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2NS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2NS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557646135&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361AV"
-        width: 817
-        height: 545
-        isCached: true
   - title: "U.S. House to deliver Trump charge to Senate, triggering impeachment trial"
     excerpt: "The U.S. House of Representatives on Monday is set to formally deliver to the Senate a charge accusing former President Donald Trump with inciting insurrection in a speech to his supporters before the deadly attack on the Capitol,"
     publishedDateTime: 2021-01-26T02:36:00Z

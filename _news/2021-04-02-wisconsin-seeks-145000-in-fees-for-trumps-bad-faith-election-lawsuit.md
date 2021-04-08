@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6M8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6M8"
 type: article
 quality: 139
-heat: 259
+heat: 219
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit"
-    excerpt: "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ..."
-    publishedDateTime: 2021-04-02T16:52:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-called-pay-144000-legal-fees-meritless-wisconsin-election-lawsuit-1580714?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 128
-    images:
-      - url: "https://d.newsweek.com/en/full/1770284/donald-trump-leaving-trump-tower-3-9-2021.jpg"
-        width: 2978
-        height: 1820
-        isCached: true
   - title: "Court lets woman's defamation suit vs. Trump proceed again"
     excerpt: "Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant’s sexual assault allegations against him after a ruling from New York’s highest court Tuesday in"
     publishedDateTime: 2021-03-30T16:36:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_bced19e82367424f8f295da3bc4dc4d9_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
-    excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
-    publishedDateTime: 2021-04-05T22:36:00Z
-    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-wisconsin-presidential-election-results-20210405-yawxyt375nad3ilhnqrhetffam-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 115
-    images:
-      - url: "https://www.chicagotribune.com/resizer/h6f4G8r7M34xck89FTB6-cG1dv0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RTVEGNYFFH5DNLR3Z5C2PATFKU.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Former Trump adviser takes prominent role in voting battle"
     excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."

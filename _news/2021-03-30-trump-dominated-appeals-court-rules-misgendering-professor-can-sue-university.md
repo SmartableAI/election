@@ -79,22 +79,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
-    excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
-    publishedDateTime: 2021-04-04T02:23:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Supreme Court vacates ruling barring Trump from blocking Twitter critics, saying case is moot"
     excerpt: "The Supreme Court on Monday vacated a lower court opinion that said President Donald Trump could not block critics from his Twitter feed, which since has been suspended by the company. The U.S. Court of Appeals for the 2nd Circuit in New York had ruled ..."
     publishedDateTime: 2021-04-05T14:41:00Z
@@ -143,22 +127,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "The Trump campaign reportedly cheated donors who thought they were making a one-time contribution, collecting recurring donations"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In what seemed to be an effort to bolster political contributions in the heat of the 2020 election against now President Joe Biden, the Trump 2020 campaign reportedly duped supporters into making recurring ..."
-    publishedDateTime: 2021-04-03T20:13:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/6068bbc8856cd700198a30e4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
     excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
     publishedDateTime: 2021-03-24T10:29:00Z
@@ -174,20 +142,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
         width: 1024
         height: 681
-        isCached: true
-  - title: "US Lifts Trump Sanctions On Hague Prosecutor, Seeking Cooperation"
-    excerpt: "US President Joe Biden on Friday revoked sanctions imposed by Donald Trump on the top prosecutor of the International Criminal Court as the new administration seeks a more cooperative approach on a row that has alienated allies."
-    publishedDateTime: 2021-04-02T20:35:00Z
-    webUrl: "https://www.ibtimes.com/us-lifts-trump-sanctions-hague-prosecutor-seeking-cooperation-3174032"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/02/under-donald-trump-the-united-states-imposed-sanctions-AFP_97A34M.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "f5NiAS37pmXxHdtgSwxs9uHroB+zk9DiTYcavm9kZM2CvVTZjPAJFWhxT19Yam/miTcxF6Tl/Mod3vZK4gQ/4T9XFO4mzZqMo9IcuknexZ5g0mXXMXZGf4n3RzXbDgFOfSznoacEW6nHE2Gu2Uk7voghCJr1UE4pkSS3Rnh5F23RSq8/PcA8+QYjvAdICj1nRNoZO1ScTB5IPexzSEN4i7OyMs2CJuTkceVGQ5uOoKc6FzHZKxtzOHhpA2/HhQKdTkYrwPwutLXlx2YaqP9cipgzNEDCkJ5bwiScgurLSRPHzH//qI49UB4ivfHr4nRDBcgLi0yK1JT5wFk48YWF0BI/D1U/f5K3utqmwTMU05E=;2F945yuQDT4ozOJdRr7iYw=="
