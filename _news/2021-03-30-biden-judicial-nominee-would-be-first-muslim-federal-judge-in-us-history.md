@@ -95,22 +95,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden to hold first Cabinet meeting Thursday"
-    excerpt: "President Biden will hold his first Cabinet meeting Thursday, one week after the full group was confirmed. "
-    publishedDateTime: 2021-03-31T19:25:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NWtzQKL-j1s/biden-to-hold-first-cabinet-meeting-thursday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/a28ec76d-AP21078563714221.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
     excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
     publishedDateTime: 2021-03-08T17:50:47Z

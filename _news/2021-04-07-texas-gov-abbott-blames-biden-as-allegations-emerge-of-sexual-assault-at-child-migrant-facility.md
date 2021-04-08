@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Homan rips Biden border policies after video surfaces of young boy abandoned in Texas desert"
-    excerpt: "Thomas Homan, the former acting director of Immigration and Customs Enforcement (ICE), argued on “America’s Newsroom” on Wednesday that the Biden administration’s immigration policies are not humane."
-    publishedDateTime: 2021-04-07T17:39:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HeW8t6FIpgA/boy-abandoned-border-tom-homan-rips-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "PEvMeCx/DuUiZYZTf5hjVECTF1kY9/+rpTsSSfU5RDv9TTKSH3NoNTGChUvZ275jePHQGbp+OudTXQE2dMF1ebi9gzq1TrebQuJlyxBWcyCrspQT0ajbedhpZGPQ8MTwW80gh6LIHAtlKgGS59cOyY8sO4lNKCdnpbKVj8D2OlYiypWC1TrfCYvWGNk8Kqz1KnbdSJE4WHFUWWMNvhf8Iu8A1jC6TAb3ZO3BZjWLiyEseuSvTJshfRqVKPmhy0ZT7OqjEln46N2MWUX50k98oq7+BH9ZG0zT3QiX8Qrab2/36mj26he+eT0g6FZRFF680QKdPmOwgCpQNhtWSEN51cjOcrjKbf8O4BsKlBLvuF0=;kCz7A8swsGL1bnG1jSx89Q=="
 ---

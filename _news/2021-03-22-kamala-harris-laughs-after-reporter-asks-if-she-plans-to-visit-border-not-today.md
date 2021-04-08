@@ -80,22 +80,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Kamala Harris has gone 7 days since being tapped for border crisis role without a press conference"
-    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S."
-    publishedDateTime: 2021-03-31T19:13:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRD1nTfgEN0/kamala-harris-no-press-conference-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "VP Harris thanks Guatemalan President Giammattei after his crackdown on migrants, doesn't visit border"
     excerpt: "Vice President Kamala Harris shared a call with Guatemalan President Alejandro Giammattei Tuesday to discuss immigration amid a surging crisis and despite declining to visit the U.S.-Mexico border herself since taking office."
     publishedDateTime: 2021-03-31T01:39:17Z
@@ -109,22 +93,6 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21089772700299.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Texas Gov. Abbott writes to VP Kamala Harris, demanding answers on border crisis"
-    excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President ."
-    publishedDateTime: 2021-03-31T09:15:00Z
-    webUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/SPLIT-ABBOTT-HARRIS-452a.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -143,22 +111,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e88d0f84-283e-413a-b2d6-b3bea025b33e/d69dc25c-4233-41f0-8a90-a37da60d1669/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Media allowing Kamala Harris to ‘get away with hiding’ from questions about border crisis, experts say"
-    excerpt: "Vice President Kamala Harris hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis, but the mainstream media has been oddly silent and doesn’t appear eager to hear what she thinks about the issues."
-    publishedDateTime: 2021-03-31T14:59:00Z
-    webUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding"
-    ampWebUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Kamala-Harris.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Kamala Harris Laughs: Parents Learned The Value Of Educators When They Had To Bring Their Kids Home"
     excerpt: "Vice President Kamala Harris talked about teachers and parents at the West Haven Child Development Center on Friday: \"More people are seeing that, yeah, affordable child care is a big deal. More parents are seeing the value of educators when they (laughing) had to bring their kids [home] and say we're not paying them nearly enough (laughing)."

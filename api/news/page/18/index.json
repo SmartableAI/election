@@ -2,6 +2,334 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-11-trump-takes-credit-for-china-virus-vaccine-i-hope-everyone-remembers.md",
+      "title": "Trump takes credit for 'china virus' vaccine: 'I hope everyone remembers!'",
+      "excerpt": "Former President Trump touted his administration's efforts obtaining a COVID-19 vaccine, arguing that without him, Americans wouldn't receive a vaccine for years.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksY3yrEySWo/trump-takes-credit-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksY3yrEySWo/trump-takes-credit-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6114d9a-f847-43c3-a7ad-38b44749138c/da7bcf3d-f970-4418-948f-6904dfa22813/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-takes-credit-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-takes-credit-vaccine.amp",
+      "publishedDateTime": "2021-03-10T17:04:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-manchin-on-his-veto-power-over-biden-agenda-its-not-a-good-place-to-be.md",
+      "title": "Manchin on his veto power over Biden agenda: 'It's not a good place to be'",
+      "excerpt": "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bjE6jWbXzE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bjE6jWbXzE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html",
+      "publishedDateTime": "2021-03-10T16:49:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-gillibrand-quick-to-call-out-franken-kavanaugh-clinton-trump-but-not-cuomo.md",
+      "title": "Gillibrand quick to call out Franken, Kavanaugh, Clinton, Trump — but not Cuomo",
+      "excerpt": "Sen. Kirsten Gillibrand — who led the charge resulting in former Minnesota Sen. Al Franken’s resignation over sexual misconduct claims — still says it’s not the time to call for",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
+      "originalUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Kristen-GillibrandArticle.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
+      "publishedDateTime": "2021-03-10T16:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-trump-calls-on-former-nfl-player-herschel-walker-to-run-for-senate-in-georgia.md",
+      "title": "Trump calls on former NFL player Herschel Walker to run for Senate in Georgia",
+      "excerpt": "Former President Trump surpassed his usual endorsements Wednesday, this time instead calling on former NFL player Herschel Walker to run for Senate in Georgia. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ahryDbgJr0/trump-former-nfl-player-herschel-walker-senate-georgia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ahryDbgJr0/trump-former-nfl-player-herschel-walker-senate-georgia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a3b9981-65cb-4390-b809-4794e0a3be2d/2d52dade-2ecc-4f24-a1ff-c184491dcef7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp",
+      "publishedDateTime": "2021-03-10T15:23:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-biden-adviser-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.md",
+      "title": "Biden adviser botches her Spanish, mistakenly tells migrants border is 'not closed'",
+      "excerpt": "However, Jacobson had a slip of the tongue when she translated the message to Spanish, mistakenly saying “la frontera no está cerrada.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kb1acOOYMT0/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kb1acOOYMT0/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cb18237-90c1-4faf-aecc-6abd2f6fb9df/295238a8-7d1e-4b53-a9a2-f1b92b37795d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp",
+      "publishedDateTime": "2021-03-10T15:20:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-blinken-says-trump-era-israel-peace-deals-were-a-very-good-thing.md",
+      "title": "Blinken says Trump-era Israel peace deals were a 'very good thing'",
+      "excerpt": "Secretary of State Antony Blinken on Wednesday paid a compliment to the Trump administration for its Abraham Accords in the Middle East. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvuKjfjyVh4/blinken-trump-israel-peace-deals-very-good-thing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvuKjfjyVh4/blinken-trump-israel-peace-deals-very-good-thing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0741f843-e9f8-4028-af2f-1a250d66796e/97e579a3-5542-4c1d-965b-c6f6dcb0efac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
+      "publishedDateTime": "2021-03-10T14:54:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe.md",
       "title": "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe",
       "excerpt": "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U.",
@@ -1026,335 +1354,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-bible-teacher-beth-moore-trump-critic-and-advocate-for-sexual-abuse-victims-splits-with-southern-baptist-convention.md",
-      "title": "Bible teacher Beth Moore, Trump critic and advocate for sexual abuse victims, splits with Southern Baptist Convention",
-      "excerpt": "For nearly three decades, Beth Moore has been the very model of a modern Southern Baptist. She loves Jesus and the Bible and has dedicated her life to teaching others why they need both of them in their lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/",
-      "originalUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2WM7QCX2FBSRING2TDYMIJI7M.JPG&w=1440",
-          "width": 1260,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/?outputType=amp",
-      "publishedDateTime": "2021-03-09T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-pete-hegseth-biden-holding-press-conference-would-muddy-the-waters-on-progressive-agenda.md",
-      "title": "Pete Hegseth: Biden holding press conference would ‘muddy the waters’ on progressive agenda",
-      "excerpt": "Pete Hegseth says he believes Biden administration officials are keeping the president from holding a formal press conference because they believe he will “distract away from their highly progressive agenda.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging",
-      "originalUrl": "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30d471bd-c55f-406b-9223-5afee56e6fa6/f100c880-519f-41aa-8f1d-262776cdcd53/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp",
-      "publishedDateTime": "2021-03-09T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-biden-visits-dc-hardware-store-to-highlight-paycheck-protection-program.md",
-      "title": "Biden visits DC hardware store to highlight Paycheck Protection Program",
-      "excerpt": "President Joe Biden on Tuesday visited a hardware store in Washington, DC, to highlight the changes his administration has made to the Paycheck Protection Program to help the smallest of businesses amid the coronavirus pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0cl-sNht1l8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0cl-sNht1l8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 495,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html",
-      "publishedDateTime": "2021-03-09T10:41:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-doj-asks-supreme-court-to-dismiss-case-related-to-trump-era-public-charge-rule.md",
-      "title": "DOJ asks Supreme Court to dismiss case related to Trump era \"public charge\" rule",
-      "excerpt": "The Department of Justice asked the Supreme Court on Tuesday to dismiss a case concerning a controversial Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use public benefits, such as Medicaid, food stamps and housing vouchers.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kWBkClzYtck/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kWBkClzYtck/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210129144107-05-scotus-exterior-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/09/politics/doj-dismiss-case-public-charge-rule/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/doj-dismiss-case-public-charge-rule/index.html",
-      "publishedDateTime": "2021-03-09T09:56:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-hills-1230-report-presented-by-johns-hopkins-university-trumps-relationship-with-gop-worsens.md",
-      "title": "The Hill's 12:30 Report - Presented by Johns Hopkins University - Trump's relationship with GOP worsens",
-      "excerpt": "To receive The Hill's 12:30 Report in your inbox, please sign up here:  --> A midday take on what's happening in politics and how to have a sense of humor about it.* *Ha. Haha. Hahah. Sniff. Haha. Sniff.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
-      "originalUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
-      "publishedDateTime": "2021-03-09T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.md",
-      "title": "Daines, Lummis put hold on Haaland, Biden's nominee for Interior Department, forcing debate",
-      "excerpt": "Sens. Steve Daines and Cynthia Lummis on Tuesday announced that they will put a \"hold\" on the nomination of Rep. Deb Haaland to lead the Interior Department, a procedural tactic designed to delay the nomination by forcing debate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eyo8HZzXzpk/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eyo8HZzXzpk/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.amp",
-      "publishedDateTime": "2021-03-09T09:32:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

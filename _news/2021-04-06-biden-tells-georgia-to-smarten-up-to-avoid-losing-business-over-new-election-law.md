@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp"
 type: article
 quality: 184
-heat: 724
+heat: 704
 published: true
 
 provider:
@@ -439,15 +439,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Joe Biden's Border Crisis"
-    excerpt: "Democrats and the liberal media are policing the words we should use to describe the absolute catastrophe we're witnessing each day at the southern border. They don't like crisis or surge."
-    publishedDateTime: 2021-04-05T12:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/05/joe_bidens_border_crisis_539734.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "zWwqNH5ttPJatVMopXNxMldiR3rsHDbIG/YipLz36W1UVzSCf2G7Sq6a388o2jQYGmT93gYfBLojAAhYTYMlUzJ+XqBjh51Tn/x60VW2x98cC6IQ4drIxvzoXpSCZj+N/hA1LHkqy0lA1+W4FoxRJnEikdQ8AceiCkefxzE/IdGncyfR+zY34n3bo0EEEHGcbMWveE37btE9BiH692dX+b7B4oHC2E9FhoOPA/NwSd+4EDdl8q7SmUe+pP+tBoisKXDMeoVeTIFXbRyB4LPnFF5qgZGV9fzR4hNOhCWrqnPQiGfRE+jNFggVXQ+xmUGBf30CQQ5VhN7sY5oEdLUIbFRvgtMNG/pAaNNfeGCrfjs=;qB39xSUJROA0yie+TeovTQ=="
 ---

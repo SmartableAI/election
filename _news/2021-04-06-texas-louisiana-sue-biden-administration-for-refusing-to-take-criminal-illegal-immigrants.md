@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp"
 type: article
 quality: 164
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Homan rips Biden border policies after video surfaces of young boy abandoned in Texas desert"
-    excerpt: "Thomas Homan, the former acting director of Immigration and Customs Enforcement (ICE), argued on “America’s Newsroom” on Wednesday that the Biden administration’s immigration policies are not humane."
-    publishedDateTime: 2021-04-07T17:39:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HeW8t6FIpgA/boy-abandoned-border-tom-homan-rips-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Texas Gov. Abbott blames Biden as allegations emerge of sexual assault at child migrant facility"
     excerpt: "Texas Republican Gov. Greg Abbott demanded that the White House close a San Antonio facility housing migrant children Wednesday following allegations that children there were being sexually assaulted."
     publishedDateTime: 2021-04-07T23:42:42Z

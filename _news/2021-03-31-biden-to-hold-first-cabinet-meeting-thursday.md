@@ -31,338 +31,310 @@ images:
     isCached: true
 
 related:
-  - title: "Biden nominates Sen. Joe Manchin's wife to federal commission"
-    excerpt: "President Biden has picked the wife of an extremely influential U.S. senator for a federal commission post, the White House announced Friday. "
-    publishedDateTime: 2021-03-26T15:09:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0n5jaLnRznQ/biden-nominates-joe-manchins-wife-federal-commission"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
+  - title: "Mayorkas -- not Biden or Harris -- heading to Texas border towns Thursday"
+    excerpt: "U.S. Homeland Security Secretary Alejandro Mayorkas will travel to two Texas border towns Thursday, according to reports."
+    publishedDateTime: 2021-04-08T03:51:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvCUqkIT1Uw/mayorkas-biden-harris-texas-border"
+    ampWebUrl: "https://www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 199
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21091647660858.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Kamala Harris lists DC condo for $2M as she moves into VP residence"
+    excerpt: "Since her inauguration, Vice President Kamala Harris has been living at Blair House, across the street from the White House, while the U.S. Naval Observatory—the traditional home of the vice president—undergoes renovations. Now Ms. Harris’s former home in Washington, D.C.—a condo at the Westlight complex"
+    publishedDateTime: 2021-04-06T16:08:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Ad52T6xzNE/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f030aca-6c3c-4a44-9e4d-a4cd720a069e/e04488f9-3cb5-4496-b6a4-2ce89d78a3bb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Harris visits Chicago bakery even as border crisis escalates"
+    excerpt: "Vice President Kamala Harris on Tuesday visited a bakery in Chicago, coming away with a piece of German chocolate cake -- even as she faces scrutiny for not having visited the overwhelmed southern border."
+    publishedDateTime: 2021-04-07T14:15:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yogec93Pz4o/harris-visits-chicago-bakery-border-crisis-escalates"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Chicago-Bakery-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "White House defends Kamala Harris' travel after visiting places other than border"
+    excerpt: "The White House on Wednesday defended Vice President Kamala Harris' travel, as she faces scrutiny for not having visited the overwhelmed southern border, amid her latest assignment from President Biden to handle the \"root causes\" of the surge in migration in recent months."
+    publishedDateTime: 2021-04-07T19:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/USMfGs-g8Ss/white-house-defends-kamala-harris-travel-no-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden expected to announce executive actions on gun control Thursday"
+    excerpt: "President Biden will announce new executive action on gun control on Thursday, White House press secretary Jen Psaki indicated Wednesday. "
+    publishedDateTime: 2021-04-07T18:26:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MGloVJ9n1JI/biden-executive-actions-gun-control"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Gayle-Conelly-Manchin-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden admin asks for government volunteers at the border amid crisis"
-    excerpt: "The Office of Personnel Management (OPM) has sent a memo to various heads of government agencies seeking \"volunteer deployments\" for up to 120 days to help border officials deal with the surge of unaccompanied children crossing the border. "
-    publishedDateTime: 2021-03-28T21:02:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMPdgAY2v0U/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac0b456d-c256-4ab3-a240-0477a7b63203/89443988-d43c-4bc3-8baa-27237d0dce4a/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20302627306817-e1603909536701.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden approval numbers on immigration sink amid border crisis: poll"
-    excerpt: "A new poll indicates that Americans are giving President Biden a big thumbs up on dealing with the coronavirus pandemic. But when it comes to the divisive issue of immigration and border security, the survey suggests that the president’s approval rating plummets."
-    publishedDateTime: 2021-03-30T19:49:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7v4W1sseQnE/biden-immigration-approval-numbers-sink-border-crisis-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-approval-numbers-sink-border-crisis-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-approval-numbers-sink-border-crisis-poll.amp"
+  - title: "Kamala Harris has gone 7 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S."
+    publishedDateTime: 2021-03-31T19:13:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRD1nTfgEN0/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden should keep dog Major away from people after 2nd bite: lawyers"
-    excerpt: "President Biden has a duty to keep his German Shepherd, Major, away from people after the dog bit a second employee, a personal injury lawyer told Fox News."
-    publishedDateTime: 2021-03-31T18:28:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/2021-03-23T172225Z_739678050_RC25HM9L4A90_RTRMADP_3_USA-BIDEN.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden judicial nominee would be first Muslim federal judge in US history"
-    excerpt: "President Biden on Tuesday nominated Judge Zahid N. Quraishi to be a federal judge on the U.S. District Court for the District of New Jersey, a move that would make the Army veteran the first-ever lifetime-appointed Muslim federal judge if confirmed. "
-    publishedDateTime: 2021-03-30T18:43:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1rT6O4ZYCpc/biden-judicial-nominee-first-muslim-federal-judge-us-history"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
-    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
-    publishedDateTime: 2021-03-08T17:50:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
-    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+  - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
+    excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen."
+    publishedDateTime: 2021-04-07T19:39:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ipUIcMB2Ioc/kamala-harris-visit-border-no-trip-scheduled-vp-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Democratic border-town mayor: Biden admin handling of crisis ‘a slap in the face’"
-    excerpt: "The Democratic mayor of a southern border town says he’s incensed over the Biden administration’s handling of the immigration crisis in his backyard — and he’s \"pleading\" with Washington to do more to stem the stream of migrants pouring into his small city. "
-    publishedDateTime: 2021-03-22T00:31:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a30dfc5-144a-4b76-96c1-f6baf817c817/92e81741-299a-4f50-9d6c-b1338e279cb2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin. reassigns Interior Dept. staffer who planned 50-person indoor party"
-    excerpt: "The White House is reassigning an Interior Department official after she recently planned a 50-person indoor party during the coronavirus pandemic, according to reports. "
-    publishedDateTime: 2021-04-02T08:48:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJ3aQp610NA/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-82776258.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096752997903.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden CDC struggles to give consistent messaging on what vaccinated people can do"
-    excerpt: "The Centers for Disease Control and Prevention (CDC) is struggling to give consistent messaging on what vaccinated people should and should not do."
-    publishedDateTime: 2021-04-02T21:30:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dmepz-AKcg8/cdc-coronavirus-vaccine-travel-guidelines-messaging"
-    ampWebUrl: "https://www.foxnews.com/politics/cdc-coronavirus-vaccine-travel-guidelines-messaging.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cdc-coronavirus-vaccine-travel-guidelines-messaging.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a94115f3-c6de-43fb-a66c-8f489774beb8/a166619d-431f-4247-a45e-14bb3fe81e95/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden official asked GOP senators visiting border to delete photos from facilities"
-    excerpt: "Sen. Mike Braun, R-Ind., told Fox News that a Biden official asked Republican senators to delete photos they took at a border facility they were touring on Friday. "
-    publishedDateTime: 2021-03-28T00:21:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wQA_4lf4B4g/biden-official-asked-gop-senators-visiting-border-delete-photos"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/mike-braun2-thumb.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden marks National Vietnam War Veterans Day with impromptu visit to war memorial"
-    excerpt: "President Joe Biden made an impromptu visit to the Vietnam Veterans Memorial late Monday afternoon in Washington to pay tribute to National Vietnam War Veterans Day."
-    publishedDateTime: 2021-03-30T00:08:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6XblY-XvExg/biden-arrived-to-vietnam-veterans-memorial"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-arrived-to-vietnam-veterans-memorial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-arrived-to-vietnam-veterans-memorial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting"
-    excerpt: "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice."
-    publishedDateTime: 2021-03-25T17:03:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBRj34gvkN0/vanita-gupta-tie-senate-committee-doj"
-    ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Migrants stream through gaps in border wall following Biden's order to halt construction"
-    excerpt: "Thousands of tons of steel and heavy equipment stand idle along the border as highways of migrants exploit holes in the fence left by President Biden’s decision to halt construction."
-    publishedDateTime: 2021-03-31T22:57:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZY2QwwUj5XA/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction"
-    ampWebUrl: "https://www.foxnews.com/politics/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden announces 11 judicial nominees to federal bench, including progressive SCOTUS favorite"
-    excerpt: "President Biden on Tuesday morning announced his first slate of judicial nominees, which includes three judges to the powerful federal courts of appeals, igniting more speculation about possible future nominees to the Supreme Court. "
-    publishedDateTime: 2021-03-30T11:04:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X2COE6ZzDqQ/biden-announces-11-judicial-nominees-to-federal-bench"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-announces-11-judicial-nominees-to-federal-bench.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-announces-11-judicial-nominees-to-federal-bench.amp"
+  - title: "Arizona AG Brnovich invites VP Harris to tour border as crisis escalates"
+    excerpt: "EXCLUSIVE: Arizona Attorney General Mark Brnovich is inviting Vice President Kamala Harris, who has been tasked with tackling the root causes of the migration crisis, to tour the southwest border in the state -- saying it will give the vice president \"firsthand insight\" into what those on the ground"
+    publishedDateTime: 2021-04-05T19:30:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3x6o6sIAEMQ/arizona-ag-brnovich-harris-to-tour-border-as-crisis-escalates"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Homan rips Biden border policies after video surfaces of young boy abandoned in Texas desert"
+    excerpt: "Thomas Homan, the former acting director of Immigration and Customs Enforcement (ICE), argued on “America’s Newsroom” on Wednesday that the Biden administration’s immigration policies are not humane."
+    publishedDateTime: 2021-04-07T17:39:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HeW8t6FIpgA/boy-abandoned-border-tom-homan-rips-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden HHS nominee Rachel Levine becomes first openly transgender federal official confirmed by US Senate"
-    excerpt: "Dr. Rachel Levine, Pennsylvania's former top health official, earned confirmation Wednesday in the Senate to become the new assistant secretary at the Department of Health and Human Services (HHS)."
-    publishedDateTime: 2021-03-24T21:34:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/09ybM-BKHB4/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
+  - title: "Texas Gov. Greg Abbott wants answers from Harris about migrant surge"
+    excerpt: "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the"
+    publishedDateTime: 2021-03-31T13:34:00Z
+    webUrl: "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/"
+    ampWebUrl: "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-harris-border-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris finally moves into official VP residence"
+    excerpt: "After months of waiting for renovations, Vice President Kamala Harris is moving into her official star-studded home. The Democrat and husband Doug Emhoff moved to Number One Observatory Circle"
+    publishedDateTime: 2021-04-07T01:04:00Z
+    webUrl: "https://nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/"
+    ampWebUrl: "https://nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/harris-moving-into-naval-observatory-after-renovations-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Texas Gov. Abbott writes to VP Kamala Harris, demanding answers on border crisis"
+    excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President ."
+    publishedDateTime: 2021-03-31T09:15:00Z
+    webUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 130
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/SPLIT-ABBOTT-HARRIS-452a.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Cruz demands Biden allow media access to border facilities, after seeing 'inhumane' conditions"
-    excerpt: "EXCLUSIVE: Sen. Ted Cruz, R-Texas, on Sunday called on President Biden to open up media access to border facilities where unaccompanied migrant children are being held, after no reporters were allowed on a lawmakers' tour of a facility – and Cruz himself was challenged for taking pictures."
-    publishedDateTime: 2021-03-28T17:07:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fAC31hCDDY/cruz-urges-biden-allow-media-access-to-border-facilities"
+  - title: "White House defends Kamala Harris' travel after visiting places other than border"
+    excerpt: "KAMALA HARRIS PLEDGED TO VISIT BORDER 'AT SOME POINT,' BUT TWO WEEKS LATER WHITE HOUSE HAS NO UPDATE \"I think as, you know, working with countries to work on a collaborative approach, to working on circumstances on the ground,\" Psaki replied, adding that ..."
+    publishedDateTime: 2021-04-07T19:53:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 143
+    quality: 130
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b20f8d5-961d-4342-a583-007699099eba/f55684de-fbba-44b7-9496-35378f2cd1cd/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Border-Travel-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Where is Kamala? Two weeks since being named border czar, Harris still hasn’t visited"
+    excerpt: "Vice President Kamala Harris was tapped two weeks ago to “lead efforts” to stem the crisis on the southern border — but she still has not visited the crossing, nor has she held a press ..."
+    publishedDateTime: 2021-04-07T16:11:00Z
+    webUrl: "https://nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/"
+    ampWebUrl: "https://nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-border-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris has gone 9 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U."
+    publishedDateTime: 2021-04-02T09:26:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Kamala Harris has gone 10 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S. Her assigned efforts ..."
+    publishedDateTime: 2021-04-03T10:22:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
+    excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen. White House press secretary Jen Psaki said she didn't have \"any trips to outline or preview ..."
+    publishedDateTime: 2021-04-07T19:42:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096752997903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Media allowing Kamala Harris to ‘get away with hiding’ from questions about border crisis, experts say"
+    excerpt: "Vice President Kamala Harris hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis, but the mainstream media has been oddly silent and doesn’t appear eager to hear what she thinks about the issues."
+    publishedDateTime: 2021-03-31T14:59:00Z
+    webUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding"
+    ampWebUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Kamala-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Arizona AG Brnovich invites VP Harris to tour border as crisis escalates"
+    excerpt: "EXCLUSIVE: Arizona Attorney General Mark Brnovich is inviting Vice President Kamala Harris, who has been tasked with tackling the root causes of the migration crisis, to tour the southwest border in the state-- saying it will give the vice president ..."
+    publishedDateTime: 2021-04-05T19:34:00Z
+    webUrl: "https://www.foxnews.com/politics/arizona-ag-brnovich-harris-to-tour-border-as-crisis-escalates"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Mike Braun sends letter to Biden urging him to visit border: 'This surge makes it a moral imperative'"
-    excerpt: "EXCLUSIVE: Fresh off a visit to the southern border, Sen. Mike Braun said Saturday that President Biden has a moral imperative to immediately see the \"inhumane\" and \"dangerous\" migrant situation firsthand."
-    publishedDateTime: 2021-03-27T20:27:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2DtP_ZGvxLc/sen-mike-braun-sends-letter-to-biden-urging-him-to-visit-border"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/mike-braun2-thumb.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden judicial nominee would be first Muslim federal judge in US history"
-    excerpt: "Some Republicans, meanwhile, have broadly criticized Biden's nominees. \"It's payback time -- we know that liberal dark money organizations spent millions of dollars to put President Joe Biden in the White House in terms of contributing to his campaign."
-    publishedDateTime: 2021-03-30T18:47:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/joe-biden-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden's halt of border wall construction sends migrants streaming into US"
-    excerpt: "Biden's halt of border wall construction sends migrants streaming into US Thousands of tons of steel and heavy equipment stand idle along the U.S.-Mexico border as legions of migrants exploit holes in the fence left by President Biden’s decision to halt construction."
-    publishedDateTime: 2021-04-01T09:08:00Z
-    webUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us"
-    ampWebUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Border-Agent-Split.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Panetta's Assessment of Biden's First Days"
-    excerpt: "Joe Biden is off to an auspicious start with passage of his $1.9 trillion COVID Relief bill, has made excellent appointments, and generally has struck the right tone. Now is when trouble is likely."
-    publishedDateTime: 2021-03-30T13:16:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/30/panettas_assessment_of_bidens_first_days_539239.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539152_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden Asks Governors To Reinstate Mask Mandate: \"Please, This Is Not Politics\""
-    excerpt: "President Joe Biden called on governors that have lifted mask mandates in their states to reimpose them in remarks delivered Monday updating the public on the administration's response to the COVID-19 pandemic. Earlier in March, Biden called the decision ..."
-    publishedDateTime: 2021-03-29T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/biden_to_governors_reinstate_the_mask_mandate_this_is_not_politics.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 61
-    images:
-      - url: "https://assets.realclear.com/images/53/539127.jpg"
-        width: 1174
-        height: 880
-        isCached: true
-  - title: "President Trillion: Biden's Eye-Watering, Wasteful Spending"
-    excerpt: "So far the defining word of the Biden era is trillion. The Joe Biden who portrayed himself as a moderate deal-maker during the presidential campaign is a distant memory, replaced by the Joe Biden…"
-    publishedDateTime: 2021-04-02T10:55:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/02/president_trillion_bidens_eye-watering_wasteful_spending_539554.html"
+  - title: "Joe Biden's Border Crisis"
+    excerpt: "Democrats and the liberal media are policing the words we should use to describe the absolute catastrophe we're witnessing each day at the southern border. They don't like crisis or surge."
+    publishedDateTime: 2021-04-05T12:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/05/joe_bidens_border_crisis_539734.html"
     type: article
     provider:
       name: RealClearPolitics

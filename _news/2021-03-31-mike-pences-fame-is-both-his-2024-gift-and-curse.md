@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019?amp
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019?amp=1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Vice President Mike Pence signs double book deal; first release is his autobiography"
+    excerpt: "WASHINGTON – Former Vice President Mike Pence is putting pen to paper for what his publisher promises will be \"the definitive book on one of the most consequential presidencies in American history.” Simon & Schuster announced on Wednesday a two-book ..."
+    publishedDateTime: 2021-04-07T20:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7121718002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7121718002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/7eb90f2c-9bcb-458b-a69c-edd0157334f3-Pence_fist.jpg?auto=webp&crop=4278,2407,x0,y217&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former Vice President Mike Pence inks double book deal, with first release his autobiography"
     excerpt: "WASHINGTON – Former Vice President Mike Pence is putting pen to paper for what his publisher promises will be \"the definitive book on one of the most consequential presidencies in American history.” Simon & Schuster announced on Wednesday a two-book ..."
     publishedDateTime: 2021-04-07T19:41:00Z

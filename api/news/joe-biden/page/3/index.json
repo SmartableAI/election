@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-17-biden-brands-putin-a-killer-and-says-he-will-pay-for-russian-election-interference-live.md",
+      "title": "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live",
+      "excerpt": "Joe Biden told immigrants making the difficult journey to the US-Mexico border “don’t come over” as the administration attempts to respond to an increase of unaccompanied children seeking asylum. In a wide-ranging interview with ABC News’ George ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-605216568f085f49c1358189",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 550,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates",
+      "publishedDateTime": "2021-03-17T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-cuomo-should-resign-if-investigation-confirms-claims.md",
       "title": "Biden: Cuomo should resign if investigation confirms claims",
       "excerpt": "President Joe Biden says New York Gov. Andrew Cuomo should resign if the state attorney general’s investigation confirms the sexual harassment allegations against him",
@@ -1532,49 +1584,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-elizabeth-warrens-wealth-tax-plan-is-back-but-is-joe-biden-on-board.md",
-      "title": "Elizabeth Warren's wealth tax plan is back. But is Joe Biden on board?",
-      "excerpt": "\"He has a lot of respect for Senator Warren and is aligned on the goal of ensuring the ultra-wealthy and big corporations finally pay their fair share.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
-      "originalUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2021/03/USUQ37BEHVNAMO2EOJ7Z5COMHM-603d71faeee5a-850x478.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
-      "publishedDateTime": "2021-03-01T19:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -127,6 +127,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "House Republicans Double Down on Scammy Trump Fundraising Tactic"
+    excerpt: "Donald Trump has long demanded fealty from those who wish serve in the high ranks of his administration and golf courses, but House Republicans made that requirement explicit in a fundraising ..."
+    publishedDateTime: 2021-04-08T03:27:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/house-gop-doubles-down-on-scammy-trump-fundraising-tactic.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/house-gop-doubles-down-on-scammy-trump-fundraising-tactic.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/house-gop-doubles-down-on-scammy-trump-fundraising-tactic.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/473/1dc/31ae2e285447760fc121a82bdb66657496-GettyImages-1229151535.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "W0CSIJqeSc9lKEJKh4D01ZUMF4YFiTmgW93Nnk5SouSyLb2frlJ+ipqV+bTCLse8DLpSfdeaXxfmHCZqKpB/WkRSsqra/U8PGKKIp+eG1tVvoee7S6aHJSeulz4NOqc732NJsKnFDW8eBrMjJZXu1cFKD/3mJNj4rzk4K9P2dCZlEwNoS5L697BWVy8rgSUoT5ffEIr8Jna+Zrqg7dOcimaZ91XvAzT1vfVaYVsXGKR2YrGzALExQTJpqw4JQpRUbUokYwaX7tjBo/n+g0UAl1nidxw4MUXQv4N5DEk6hmrcg99k/B+q2CvhbzffDvxNpiRtyH3GXRugwkSgLqLarxKGSU3UjdXJF+0i+TOukNU=;uCvObTtzTvcgDYyR750rMw=="
 ---

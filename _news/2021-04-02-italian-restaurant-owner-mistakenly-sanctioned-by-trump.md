@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-o
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "House Republicans Double Down on Scammy Trump Fundraising Tactic"
+    excerpt: "Donald Trump has long demanded fealty from those who wish serve in the high ranks of his administration and golf courses, but House Republicans made that requirement explicit in a fundraising ..."
+    publishedDateTime: 2021-04-08T03:27:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/house-gop-doubles-down-on-scammy-trump-fundraising-tactic.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/house-gop-doubles-down-on-scammy-trump-fundraising-tactic.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/house-gop-doubles-down-on-scammy-trump-fundraising-tactic.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/473/1dc/31ae2e285447760fc121a82bdb66657496-GettyImages-1229151535.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "lZ8howcTyamHZVPtvG2AowOk7bZvBGV7Df77X2zh5Ty75krx08MtkJTmBnVXorUAXbhINctaw2yOIMJfyOsgu8lglWb1BT1aIw8DAbU1dDMXVJxsg8oZAc8R2YsiwuJRBZFZ4FeUYy8DKnimUpaOVtCkBGb80HInut/aQf6WwQOIHJURPBtWbUJWpMxACIc7zzWbmTlEwi87KEgrKRw4zT4dMYlkdkUfpGZJIYgXF76W5mCMaT5kKr+xo3dPOEglVfLwF249YFd8LhKgRPPkxnD3G9a01+x8ReG7lfRQSYMqGIQCmiFhi+FF79LX/Wm3RzJg3WmJn/jzkJWpcrzZ7Ef0y2fYE9TFnB3cumijviA=;J3zx3AvDjM5EyZDp5IPaOA=="

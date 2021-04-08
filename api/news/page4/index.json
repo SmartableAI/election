@@ -2,6 +2,288 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-05-the-45th-why-trump-is-abandoning-his-iconic-brand-for-a-number.md",
+      "title": "'The 45th': Why Trump is abandoning his iconic brand for a number",
+      "excerpt": "WASHINGTON — Donald Trump spent a lifetime putting his name on steaks to skyscrapers to stimulus checks, but now, the former president appears to be replacing the gold-plated surname with a number: 45. Last week, the 45th president launched his new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/45th-why-trump-abandoning-his-iconic-brand-number-n1262935",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/45th-why-trump-abandoning-his-iconic-brand-number-n1262935",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_11/3457572/210317-donald-trump-se-527p_03c9a81eb2ae8d70b4f979b6ea4c8f08.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262935",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262935",
+      "publishedDateTime": "2021-04-05T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-gop-loudly-voicing-concerns-about-debt-under-biden-eerily-quiet-under-trump.md",
+      "title": "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump",
+      "excerpt": "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "publishedDateTime": "2021-04-04T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.md",
+      "title": "Hunter Biden convinced 'reluctant' Joe to publicly support his relationship with Beau's widow Hallie",
+      "excerpt": "Hunter Biden convinced his father Joe in early 2017 to put out a statement approving of the affair he was having with his deceased brother Beau's widow, Hallie Biden, telling Joe that if he didn't, the relationship would \"seem wrong.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OdceAXBzgQ/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OdceAXBzgQ/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec65f932-ba5e-46fc-90fb-78616b81afbe/db300423-7131-4072-90c4-e18e48b5851d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp",
+      "publishedDateTime": "2021-04-04T12:15:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-trump-campaign-and-allies-refund-122m-to-winred-donors-report.md",
+      "title": "Trump campaign and allies refund $122M to WinRed donors: report",
+      "excerpt": "The Trump campaign and allies including the Republican National Committee refunded more than $120 million to online donors in 2020.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JfAUQ3Q_bUQ/trump-campaign-refund-winred-donors-2020",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JfAUQ3Q_bUQ/trump-campaign-refund-winred-donors-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288723563703.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp",
+      "publishedDateTime": "2021-04-04T11:01:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-the-bidens-encourage-americans-to-get-vaccinated-in-easter-message.md",
+      "title": "The Bidens encourage Americans to get vaccinated in Easter message",
+      "excerpt": "President Joe Biden and first lady Jill Biden shared well-wishes with Americans celebrating Easter on Sunday and encouraged them to get Covid-19 vaccinations as a moral obligation.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404113530-biden-easter-video-210404-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
+      "publishedDateTime": "2021-04-04T10:53:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-biden-economic-adviser-says-she-supports-corporate-tax-increases-because-its-the-right-thing-to-do.md",
       "title": "Biden economic adviser says she supports corporate tax increases because it's the 'right thing to do'",
       "excerpt": "President Biden's economic adviser Cecilia Rouse on Sunday said the president proposes corporate tax increases because it's the \"right thing to do.\"",
@@ -1057,275 +1339,6 @@
       "ampWebUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
       "publishedDateTime": "2021-04-02T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-actress-cirsten-weldon-says-china-paid-joe-biden-to-test-weather-warfare-on-texas.md",
-      "title": "Actress Cirsten Weldon Says China Paid Joe Biden to Test 'Weather Warfare' on Texas",
-      "excerpt": "Former actress Cirsten Weldon has claimed that China paid President Joe Biden \"billions of dollars\" to test their \"weather warfare\" weapons in the United States. The weapon allegedly caused extreme winter storms to hit Texas. Right Wing Watch posted a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823",
-      "originalUrl": "https://www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771279/cirsten-weldon-china-weather-weapons-texas-biden.jpg",
-          "width": 2500,
-          "height": 1787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823?amp=1",
-      "publishedDateTime": "2021-04-02T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-watch-trump-was-right-biden-is-a-trojan-horse-for-progressives.md",
-      "title": "WATCH: 'Trump was right, Biden is a Trojan horse for progressives'",
-      "excerpt": "During his first televised response over allegations of sex trafficking a minor, Rep. Matt Gaetz claimed his family was working with the FBI over an alleged extortion plot organized by former federal prosecutor David McGee. Gaetz attempted to change the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "originalUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a2/bd/956476cb412383a4047432f027a2/boehner-hpimage-2.jpg",
-          "width": 2320,
-          "height": 1546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "publishedDateTime": "2021-04-02T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-hunter-biden-says-in-memoir-he-wouldnt-take-burisma-job-again-but-insists-it-wasnt-unethical.md",
-      "title": "Hunter Biden says in memoir he wouldn’t take Burisma job again but insists it wasn’t ‘unethical’",
-      "excerpt": "Hunter Biden wrote in his new tell-all memoir “Beautiful Things” that he does not regret taking a seat on the board of Burisma Holdings, but he would not do it again. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmlFy4KIdSA/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmlFy4KIdSA/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/HunterBidenNEW.jpg",
-          "width": 722,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wouldnt-take-burisma-job-again-insists-it-wasnt-unethical.amp",
-      "publishedDateTime": "2021-04-02T16:25:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan.md",
-      "title": "More Raleigh-to-Richmond Amtrak runs proposed in Biden plan",
-      "excerpt": "CHARLOTTE, N.C. — More direct train service between Raleigh and Richmond and passenger service to Asheville and Wilmington are included in Amtrak’s plan for $80 billion in federal funds, proposed as part of President Joe Biden’s $2 trillion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-02T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-to-say-as-a-korean.md",
-      "title": "Ex-Trump Official Sery Kim Rejects Chinese Immigrants, Believes It's OK to Say as a Korean",
-      "excerpt": "She also served served as assistant administrator for the Small Business Administration under former President Donald Trump. Kim also argued that the rise in violent attacks against Asian Americans have always existed but are only now being covered by the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802",
-      "originalUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771259/sery-kim.jpg",
-          "width": 2048,
-          "height": 1704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1",
-      "publishedDateTime": "2021-04-02T14:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

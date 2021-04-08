@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Jill Biden shines fresh spotlight on military family program"
-excerpt: "She had promised during the 2020 presidential campaign to revive Joining Forces. Shortly before President Joe Biden took office, the first lady named Rory Brosius as the initiative’s executive director. Brosius previously served as the program’s deputy ..."
-publishedDateTime: 2021-04-08T01:47:00Z
-originalUrl: "https://www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html"
-webUrl: "https://www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html"
-ampWebUrl: "https://www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+excerpt: "Jill Biden on Wednesday delivered on her promise to prioritize the struggles of military families by reviving a decade-old initiative that challenged Americans to do something as simple as mow the lawn or drop off a meal for a family with a loved one in the armed forces."
+publishedDateTime: 2021-04-08T02:07:00Z
+originalUrl: "https://abcnews.go.com/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+webUrl: "https://abcnews.go.com/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Lifestyle/WireAP_39348932ea8c4f53bd94270691cbb3b3_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -724,6 +724,6 @@ related:
         height: 433
         isCached: true
 
-secured: "+k3++jzrIIYLkfS4Aaq9nDX3PV4bLjLnlbOQ0Sl20J2t6HLT08Ct83ayWCjz97O1LOuJSMSwyumIPcTHHnBcBpk+kqgtiNBUiApj99+r7iBWLCr+Zc3lxVgygvvu8kyq5brMUf5LRlc8Jn6bXFL4MmidF9vbw8IlOBbqGf1LxWGMAJx3R/S7PC0oPnZ3vYYLBlbunzhv+849CZk22FUdBDgOAz+ba1IqquKH0h9kmHbKBSlr2PjzT24hrR8tdPo1btyEffGJ94GE8YJBVqG1kzY7a9bf5Iqi/fBtQr5Ca66lOYW/mZ7h+06E5SBocUdayi+XX90TkNslGUXMGfSnURI470WY+fxpvKbYOGs+/nE=;hXBH+m3LTV+gy4e/8rCgeA=="
+secured: "90lsKt10tJyq/Kk+yIjpb05mkSWPAOXf2gK6uY2bLSJ6YLwMcCQi/pAXUH129Q7Jad1Aezgv5f/2nD8tJjicuycZiziOMc6nB7+wNZ4Y5zN1CHi3muyNK4N6nYBR2mdDZ2y28CmzArBHnpYxnSnzAJ3DsfELQJWtZolwKGAxfSXtnpXk3n7rBaw8mJ8qrh7vf7LH2f2lzMoUicxbmGGyx2fbKy0OZCyVep4svqens67UtMApL2HzPg307yksztDzJdYdKDkqODAFBN7jMSbLPZqKTwC7l+Fl+wWB2WsFmqD+9sXfF0VM78gJnsxD0cne4SMXtXtlYgFmX9nUkuf2segoYOxTisGl7fk/qBkf1a4=;KtTnWn+H88SEFxVd0n+eNQ=="
 ---
 

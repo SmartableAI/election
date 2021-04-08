@@ -439,15 +439,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Joe Biden's Border Crisis"
-    excerpt: "Democrats and the liberal media are policing the words we should use to describe the absolute catastrophe we're witnessing each day at the southern border. They don't like crisis or surge."
-    publishedDateTime: 2021-04-05T12:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/05/joe_bidens_border_crisis_539734.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "wP1HuWB5D4kJADESZ9yOCu7BEuksq0jfjitaudsp7IEvCOhbueYsq4xjAjAkwXxfkRLP6vHmpFX8mT0fbBF/fbf2gLukludN3R0VkR0j1TFm9xOsk8CXqGLyk0Au/XW3TQanP9VkupB8UBWXQP6s85TBTWFwYtBiryJiM4u02WuY7BeeTth1BfSgPwrJAjQBEamcYszv/ITGUMCxr5/60bKMHS9y2+WSDSLHnVO6qn4gCWH5qja1VbJ8A4XhEmcLAc7zdOHBEJWJ4ULRk/9vqr3ioY/KQEX2ADiztkA6zDJgpLfzRgcfMh2Kwodjts4Jtiq6uK0vtrRwFAPa7GTq+MPUv6QVzOkspQPliPZ4nnQ=;zRXpZ/rrwHObGHZqpOyPlA=="
 ---

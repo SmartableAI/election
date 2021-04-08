@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 615
+heat: 595
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/2021-03-23T172225Z_739678050_RC25HM9L4A90_RTRMADP_3_USA-BIDEN.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Biden to hold first Cabinet meeting Thursday"
-    excerpt: "President Biden will hold his first Cabinet meeting Thursday, one week after the full group was confirmed. "
-    publishedDateTime: 2021-03-31T19:25:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NWtzQKL-j1s/biden-to-hold-first-cabinet-meeting-thursday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/a28ec76d-AP21078563714221.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Biden judicial nominee would be first Muslim federal judge in US history"
     excerpt: "President Biden on Tuesday nominated Judge Zahid N. Quraishi to be a federal judge on the U.S. District Court for the District of New Jersey, a move that would make the Army veteran the first-ever lifetime-appointed Muslim federal judge if confirmed. "

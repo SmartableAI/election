@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden expected to announce executive actions on gun control Thursday"
-    excerpt: "President Biden will announce new executive action on gun control on Thursday, White House press secretary Jen Psaki indicated Wednesday. "
-    publishedDateTime: 2021-04-07T18:26:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MGloVJ9n1JI/biden-executive-actions-gun-control"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20302627306817-e1603909536701.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden to nominate gun control backer David Chipman to head ATF: WH official"
     excerpt: "President Biden is expected to nominate David Chipman to serve as the director of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), a White House official confirmed to Fox News on Wednesday."
     publishedDateTime: 2021-04-07T22:10:02Z

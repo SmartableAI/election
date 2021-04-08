@@ -288,20 +288,20 @@ related:
         height: 558
         isCached: true
   - title: "Jill Biden shines fresh spotlight on military family program"
-    excerpt: "She had promised during the 2020 presidential campaign to revive Joining Forces. Shortly before President Joe Biden took office, the first lady named Rory Brosius as the initiative’s executive director. Brosius previously served as the program’s deputy ..."
-    publishedDateTime: 2021-04-08T01:47:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/jill-biden-shines-fresh-spotlight-on-military-family-program/2021/04/07/5fea9f16-980c-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    excerpt: "Jill Biden on Wednesday delivered on her promise to prioritize the struggles of military families by reviving a decade-old initiative that challenged Americans to do something as simple as mow the lawn or drop off a meal for a family with a loved one in the armed forces."
+    publishedDateTime: 2021-04-08T02:07:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_39348932ea8c4f53bd94270691cbb3b3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Moderate GOP senators and Biden clash at start of infrastructure debate"
     excerpt: "A group of 10 Republican senators who met with President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama ..."

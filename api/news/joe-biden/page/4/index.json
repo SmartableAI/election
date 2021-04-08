@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-02-elizabeth-warrens-wealth-tax-plan-is-back-but-is-joe-biden-on-board.md",
+      "title": "Elizabeth Warren's wealth tax plan is back. But is Joe Biden on board?",
+      "excerpt": "\"He has a lot of respect for Senator Warren and is aligned on the goal of ensuring the ultra-wealthy and big corporations finally pay their fair share.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
+      "originalUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boston.com/wp-content/uploads/2021/03/USUQ37BEHVNAMO2EOJ7Z5COMHM-603d71faeee5a-850x478.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
+      "publishedDateTime": "2021-03-01T19:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston.com",
+        "domain": "boston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-biden-supports-an-independent-review-into-sexual-harassment-allegations-against-new-york-gov-cuomo-press-secretary-says.md",
       "title": "Biden supports an 'independent review' into sexual harassment allegations against New York Gov. Cuomo, press secretary says",
       "excerpt": "Two women have alleged that New York Gov. Andrew Cuomo acted inappropriately in the workplace and created a culture of sexual harassment.",
@@ -1530,58 +1573,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial.md",
-      "title": "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial",
-      "excerpt": "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 889,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c680f2571d7f60e33c3235b84bc24d5e5c969590/0_84_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ca49357272737d2ff54874ce241fed9",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "publishedDateTime": "2021-02-14T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-david-chipman-atf.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-david-chipman-atf.amp"
 type: article
 quality: 173
-heat: -1
-published: false
+heat: 193
+published: true
 
 provider:
   name: Fox News
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden expected to announce executive actions on gun control Thursday"
-    excerpt: "President Biden will announce new executive action on gun control on Thursday, White House press secretary Jen Psaki indicated Wednesday. "
-    publishedDateTime: 2021-04-07T18:26:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MGloVJ9n1JI/biden-executive-actions-gun-control"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20302627306817-e1603909536701.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
     excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
     publishedDateTime: 2021-04-08T00:02:07Z

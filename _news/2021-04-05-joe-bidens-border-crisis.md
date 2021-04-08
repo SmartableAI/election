@@ -20,429 +20,321 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law"
-    excerpt: "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. "
-    publishedDateTime: 2021-04-06T21:46:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp"
+  - title: "Mayorkas -- not Biden or Harris -- heading to Texas border towns Thursday"
+    excerpt: "U.S. Homeland Security Secretary Alejandro Mayorkas will travel to two Texas border towns Thursday, according to reports."
+    publishedDateTime: 2021-04-08T03:51:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvCUqkIT1Uw/mayorkas-biden-harris-texas-border"
+    ampWebUrl: "https://www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 184
+    quality: 199
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21037480732952-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden comments about Georgia election law 'incredibly irresponsible' and 'based on lies': Loeffler"
-    excerpt: "President Biden is helping to divide the country \"based on lies\" about Georgia's new election law, former GOP Sen. Kelly Loeffler told \"The Story\" Wednesday."
-    publishedDateTime: 2021-04-07T21:10:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GVC-F5no24s/biden-georgia-election-law-comments-irresponsible-loeffler"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden convenes Cabinet meeting amid border crisis, spending bill push"
-    excerpt: "President Biden held his first Cabinet meeting on Thursday from the East Room at the White House as his administration grapples with the crisis at the U.S. southern border and as officials push a $2 trillion spending bill through Congress."
-    publishedDateTime: 2021-04-01T18:15:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5IVfWQ2FvLY/biden-first-cabinet-meeting-border-crisis-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden says he'd 'strongly support' MLB moving All-Star game out of Atlanta over Georgia election law"
-    excerpt: "President Biden expressed support for the idea for the MLB All-Star game to move out of Atlanta in response to the new Georgia election law that has sparked fierce backlash among liberals. "
-    publishedDateTime: 2021-04-01T05:26:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rK41u2MQiqU/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12203dad-15f4-42e5-9f2f-cd88b2139cdf/cd09a844-6f4a-48cf-96bc-23def1df14d0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "ICE detentions plunge under Biden, leaving thousands of empty beds"
-    excerpt: "The Biden administration currently has in custody some 19,000 unaccompanied children, and it released almost 60% of migrant families encountered at the border in February."
-    publishedDateTime: 2021-04-05T19:18:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsDlDzgyvRk/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds"
-    ampWebUrl: "https://www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Progressives ramp up pressure on Biden to forgive student loan debt"
-    excerpt: "Progressives are ramping up the pressure on President Biden to forgive student debt relief as Education Secretary Miguel Cardona investigates the administration's legal authority."
-    publishedDateTime: 2021-04-05T16:38:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EW1dYAUoWyE/biden-cancel-student-debt-50000-progressive-pressure"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21091647660858.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden expected to move up deadline for adults to be eligible for vaccines"
-    excerpt: "President Biden is expected to announce Tuesday that he is moving up the date for adults to become eligible to receive a COVID-19 vaccine by April 19."
-    publishedDateTime: 2021-04-06T15:58:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bCq8B4EwCI/biden-covid-vaccine-eligibility-adults-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
+  - title: "Kamala Harris lists DC condo for $2M as she moves into VP residence"
+    excerpt: "Since her inauguration, Vice President Kamala Harris has been living at Blair House, across the street from the White House, while the U.S. Naval Observatory—the traditional home of the vice president—undergoes renovations. Now Ms. Harris’s former home in Washington, D.C.—a condo at the Westlight complex"
+    publishedDateTime: 2021-04-06T16:08:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Ad52T6xzNE/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki won't say if Biden supports MLB Georgia boycott, despite past comment"
-    excerpt: "White House press secretary Jen Psaki seemed to shy away Monday from President Biden's previous comments about Major League Baseball pulling its All-Star game from Georgia."
-    publishedDateTime: 2021-04-05T22:44:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/du-v-DkIFDE/psaki-biden-mlb-comments"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-mlb-comments.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-mlb-comments.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b6d8964-c1aa-4264-9835-9dcb0d672c39/08d5c0e5-b80a-4864-9e25-ea57e536515e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f030aca-6c3c-4a44-9e4d-a4cd720a069e/e04488f9-3cb5-4496-b6a4-2ce89d78a3bb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Psaki refuses to walk back fact-checked Biden comments on Georgia voting law"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden will continue to advocate for ways to make it \"easier\" to vote, while refusing to walk back his past comments about a new Georgia voting law that have since been fact-checked. "
-    publishedDateTime: 2021-04-05T22:06:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcMvx7lhoV8/psaki-biden-comments-georgia-voting-law-fact-check"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-comments-georgia-voting-law-fact-check.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-comments-georgia-voting-law-fact-check.amp"
+  - title: "VP Harris visits Chicago bakery even as border crisis escalates"
+    excerpt: "Vice President Kamala Harris on Tuesday visited a bakery in Chicago, coming away with a piece of German chocolate cake -- even as she faces scrutiny for not having visited the overwhelmed southern border."
+    publishedDateTime: 2021-04-07T14:15:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yogec93Pz4o/harris-visits-chicago-bakery-border-crisis-escalates"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Chicago-Bakery-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "White House defends Kamala Harris' travel after visiting places other than border"
+    excerpt: "The White House on Wednesday defended Vice President Kamala Harris' travel, as she faces scrutiny for not having visited the overwhelmed southern border, amid her latest assignment from President Biden to handle the \"root causes\" of the surge in migration in recent months."
+    publishedDateTime: 2021-04-07T19:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/USMfGs-g8Ss/white-house-defends-kamala-harris-travel-no-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Crenshaw, Rubio slam Biden, MLB over Georgia boycott, ask if China will be next"
-    excerpt: "Republican Sen. Marco Rubio, R-Fla., and Rep. Dan Crenshaw, R-Texas, hit President Biden and Major League Baseball for the league's decision to boycott Georgia over its election law -- and asking if that hard stance will be extended to the Chinese Communist regime."
-    publishedDateTime: 2021-04-03T17:16:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ALFqQhMUo8/crenshaw-rubio-biden-mlb-georgia-boycott-china"
-    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-rubio-biden-mlb-georgia-boycott-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-rubio-biden-mlb-georgia-boycott-china.amp"
+  - title: "Biden to hold first Cabinet meeting Thursday"
+    excerpt: "President Biden will hold his first Cabinet meeting Thursday, one week after the full group was confirmed. "
+    publishedDateTime: 2021-03-31T19:25:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NWtzQKL-j1s/biden-to-hold-first-cabinet-meeting-thursday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/a28ec76d-AP21078563714221.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden expected to announce executive actions on gun control Thursday"
+    excerpt: "President Biden will announce new executive action on gun control on Thursday, White House press secretary Jen Psaki indicated Wednesday. "
+    publishedDateTime: 2021-04-07T18:26:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MGloVJ9n1JI/biden-executive-actions-gun-control"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20302627306817-e1603909536701.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris has gone 7 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S."
+    publishedDateTime: 2021-03-31T19:13:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRD1nTfgEN0/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12203dad-15f4-42e5-9f2f-cd88b2139cdf/cd09a844-6f4a-48cf-96bc-23def1df14d0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden’s energy policy ‘sends a very dangerous message’ to Texas: George P. Bush"
-    excerpt: "Texas Land Commissioner George P. Bush, son of Jeb, revealed in an interview with \"Fox & Friends\" host Brian Kilmeade that he is \"taking a very serious look\" at running for attorney general and said he should be making his final decision \"fairly soon.\""
-    publishedDateTime: 2021-04-05T17:25:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/glpkzQAm5SA/bidens-energy-policies-dangerous-message-texas-george-p-bush"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp"
+  - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
+    excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen."
+    publishedDateTime: 2021-04-07T19:39:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ipUIcMB2Ioc/kamala-harris-visit-border-no-trip-scheduled-vp-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096752997903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Arizona AG Brnovich invites VP Harris to tour border as crisis escalates"
+    excerpt: "EXCLUSIVE: Arizona Attorney General Mark Brnovich is inviting Vice President Kamala Harris, who has been tasked with tackling the root causes of the migration crisis, to tour the southwest border in the state -- saying it will give the vice president \"firsthand insight\" into what those on the ground"
+    publishedDateTime: 2021-04-05T19:30:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3x6o6sIAEMQ/arizona-ag-brnovich-harris-to-tour-border-as-crisis-escalates"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Homan rips Biden border policies after video surfaces of young boy abandoned in Texas desert"
+    excerpt: "Thomas Homan, the former acting director of Immigration and Customs Enforcement (ICE), argued on “America’s Newsroom” on Wednesday that the Biden administration’s immigration policies are not humane."
+    publishedDateTime: 2021-04-07T17:39:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HeW8t6FIpgA/boy-abandoned-border-tom-homan-rips-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Georgia Gov. Kemp hits MLB, Biden after election law prompts All-Star move: Nothing more than 'political play'"
-    excerpt: "Georgia Gov. Brian Kemp on Saturday said the decision to pull the Major League Baseball All-Star Game over objections to changes to his state's voting laws was a \"political play.\" "
-    publishedDateTime: 2021-04-03T16:45:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hy2klk-B9pM/georgia-kemp-mlb-biden-election-law-all-star-move"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-kemp-mlb-biden-election-law-all-star-move.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-kemp-mlb-biden-election-law-all-star-move.amp"
+  - title: "Texas Gov. Greg Abbott wants answers from Harris about migrant surge"
+    excerpt: "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the"
+    publishedDateTime: 2021-03-31T13:34:00Z
+    webUrl: "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/"
+    ampWebUrl: "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-harris-border-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris finally moves into official VP residence"
+    excerpt: "After months of waiting for renovations, Vice President Kamala Harris is moving into her official star-studded home. The Democrat and husband Doug Emhoff moved to Number One Observatory Circle"
+    publishedDateTime: 2021-04-07T01:04:00Z
+    webUrl: "https://nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/"
+    ampWebUrl: "https://nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/harris-moving-into-naval-observatory-after-renovations-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Texas Gov. Abbott writes to VP Kamala Harris, demanding answers on border crisis"
+    excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President ."
+    publishedDateTime: 2021-03-31T09:15:00Z
+    webUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 130
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/KEMP-CROP-2.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/SPLIT-ABBOTT-HARRIS-452a.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Hunter Biden lost business after revelation of affair with brother's widow Hallie"
-    excerpt: "\"I made a lot of decisions that I probably shouldn't have made,\" Hunter Biden said in a recent interview."
-    publishedDateTime: 2021-04-04T16:24:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZyapbF7wz4/hunter-biden-hallie-business-affair-world-food-program"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
+  - title: "White House defends Kamala Harris' travel after visiting places other than border"
+    excerpt: "KAMALA HARRIS PLEDGED TO VISIT BORDER 'AT SOME POINT,' BUT TWO WEEKS LATER WHITE HOUSE HAS NO UPDATE \"I think as, you know, working with countries to work on a collaborative approach, to working on circumstances on the ground,\" Psaki replied, adding that ..."
+    publishedDateTime: 2021-04-07T19:53:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 130
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1230697183.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Border-Travel-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Former Georgia Rep. Doug Collins hits back at Biden on voter suppression claims: 'Learn to read'"
-    excerpt: "Former Georgia Congressman Doug Collins told \"America Reports\" on Thursday that the Biden administration and private companies need to \"read the election reform bill\" before spewing criticisms."
-    publishedDateTime: 2021-04-01T20:20:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gM3wkfGKY7o/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read"
-    ampWebUrl: "https://www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp"
+  - title: "Where is Kamala? Two weeks since being named border czar, Harris still hasn’t visited"
+    excerpt: "Vice President Kamala Harris was tapped two weeks ago to “lead efforts” to stem the crisis on the southern border — but she still has not visited the crossing, nor has she held a press ..."
+    publishedDateTime: 2021-04-07T16:11:00Z
+    webUrl: "https://nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/"
+    ampWebUrl: "https://nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
+      name: New York Post
+      domain: nypost.com
+    quality: 128
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-border-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Georgia Republican teases Biden and Schumer, says voting law should be more restricted like Delaware, NY"
-    excerpt: "A Georgia lawmaker is proposing that his state align its voting laws with New York and Delaware's more restrictive regulations, an admitted \"political stunt\" designed to rebuke criticism from President Biden, who has lived in Delaware and served as one of its senators, and Senate Majority Leader Chuck"
-    publishedDateTime: 2021-04-05T20:49:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jyUht3uxrT8/georgia-wes-cantrell-biden-voting-law"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+  - title: "Kamala Harris has gone 9 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U."
+    publishedDateTime: 2021-04-02T09:26:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 121
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14a5ffe4-1a84-4ae0-a7cc-e01e93474179/7ef0499b-9c47-4f44-bcbc-ea6f95267440/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Rick Scott slams Biden for backing MLB Georgia boycott, being silent on moving Olympics out of China"
-    excerpt: "Republican Sen. Rick Scott on Tuesday called on President Biden to offer to host the 2022 Olympic Games in the United States. "
-    publishedDateTime: 2021-04-06T16:39:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_56EhNRfNw/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
-    publishedDateTime: 2021-03-31T19:13:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pd3yOTcRUpQ/biden-break-up-voting-bill-manchin"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ben Carson blasts Omar's 'disgusting' Georgia-Apartheid comparison, says Biden doesn't understand 'Jim Crow'"
-    excerpt: "Former HUD Secretary Dr. Ben Carson said Tuesday on \"The Story\" that it was \"disgusting\" to hear Rep. Ilhan Omar compare Georgia's new election law to South African Apartheid of the mid-20th Century"
-    publishedDateTime: 2021-04-06T20:44:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ehRiXhhFGdU/ben-carson-blasts-omars-disgusting-georgia-apartheid-comparison-says-biden-doesnt-understand-jim-crow"
-    ampWebUrl: "https://www.foxnews.com/politics/ben-carson-blasts-omars-disgusting-georgia-apartheid-comparison-says-biden-doesnt-understand-jim-crow.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-carson-blasts-omars-disgusting-georgia-apartheid-comparison-says-biden-doesnt-understand-jim-crow.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05118be2-1034-46ca-8e0d-46032940f1f8/6f04f3e0-5eb9-45ed-bdf4-c83b4c221df5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden comments about Georgia election law 'incredibly irresponsible' and 'based on lies': Loeffler"
-    excerpt: "President Biden is helping to divide the country \"based on lies\" about Georgia's new election law, former GOP Sen. Kelly Loeffler told \"The Story\" Wednesday. LOEFFLER: His [Joe Biden’s] comments were incredibly irresponsible, because he repeated ..."
-    publishedDateTime: 2021-04-07T21:13:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 136
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03b15d77-9a73-4635-b2b0-8e1264f2f4ec/330abe5e-c471-457b-8340-e83d6de2e52b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Georgia Republican name-drops Biden, says voting law should be more restricted like Delaware"
-    excerpt: "A Georgia lawmaker is proposing that his state align its voting laws with New York and Delaware's more restrictive regulations, an admitted \"political stunt\" designed to rebuke criticism from President Biden,"
-    publishedDateTime: 2021-04-05T20:52:00Z
-    webUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14a5ffe4-1a84-4ae0-a7cc-e01e93474179/7ef0499b-9c47-4f44-bcbc-ea6f95267440/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "MSNBC host concedes Biden stance on Georgia voting law not consistent: 'Impossible to square his argument'"
-    excerpt: "\"To listen to the president speaking right there, it's impossible to square his argument,\" MSNBC's Willie Geist said \"Morning Joe\" on Wednesday. MLB eventually did move the All-Star Game out of Georgia after Biden compared the state's new voting law to ..."
-    publishedDateTime: 2021-04-07T17:32:00Z
-    webUrl: "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent"
-    ampWebUrl: "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20f3bb9f-5836-4db5-a5df-e9a3441d9a8a/22b290f0-49ff-488d-bd4f-d5e835940878/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
-    publishedDateTime: 2021-03-31T19:18:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Biden-Tax-Hike-Infrastructure-AP.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Joe Biden's Bid to Remake America"
-    excerpt: "If Joe Biden's American Jobs Program, outlined in Pittsburgh, is enacted, then the federal government will take a great leap forward toward"
-    publishedDateTime: 2021-04-02T10:46:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
+  - title: "Kamala Harris has gone 10 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S. Her assigned efforts ..."
+    publishedDateTime: 2021-04-03T10:22:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
     images:
-      - url: "https://assets.realclear.com/images/53/539501_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden's Weakness On World Stage Is Dangerous"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-03-30T18:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/30/bidens_weakness_on_world_stage_is_dangerous_539365.html#!"
+  - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
+    excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen. White House press secretary Jen Psaki said she didn't have \"any trips to outline or preview ..."
+    publishedDateTime: 2021-04-07T19:42:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
     images:
-      - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096752997903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
-    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial \"equity\" it's been hyping."
-    publishedDateTime: 2021-04-01T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html"
+  - title: "Media allowing Kamala Harris to ‘get away with hiding’ from questions about border crisis, experts say"
+    excerpt: "Vice President Kamala Harris hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis, but the mainstream media has been oddly silent and doesn’t appear eager to hear what she thinks about the issues."
+    publishedDateTime: 2021-03-31T14:59:00Z
+    webUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding"
+    ampWebUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
     images:
-      - url: "https://assets.realclear.com/images/53/539402_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Kamala-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
-    excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"
-    publishedDateTime: 2021-04-04T10:50:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html"
+  - title: "Arizona AG Brnovich invites VP Harris to tour border as crisis escalates"
+    excerpt: "EXCLUSIVE: Arizona Attorney General Mark Brnovich is inviting Vice President Kamala Harris, who has been tasked with tackling the root causes of the migration crisis, to tour the southwest border in the state-- saying it will give the vice president ..."
+    publishedDateTime: 2021-04-05T19:34:00Z
+    webUrl: "https://www.foxnews.com/politics/arizona-ag-brnovich-harris-to-tour-border-as-crisis-escalates"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
     images:
-      - url: "https://assets.realclear.com/images/53/539634_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Hunter Biden Whitewashes Almost Everything in Tell-All"
-    excerpt: "As addiction memoirs go, Hunter Biden's Beautiful Things is remarkable in one great sense: As poorly as he comes across, it's his father, President Biden, whose character takes a hit. The Joe Bid…"
-    publishedDateTime: 2021-04-04T19:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/04/hunter_biden_whitewashes_almost_everything_in_tell-all_539678.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/529429_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "HUoewsfjMB1nOLw7wMq8DCD0MshopEYgJFpF+bg1VuS7gm2Zp+BOQ9AGq+uLMmvNEhZa4CydFpZGGlrL5p1jRNFa2JsLL/UUa8bB0FfDVhab48g2RdcZ+JClux6fwn/PPuXm1HYgHWMERD+krBzq3DpSzsICulTfBvGsOs9FjPg7+dhxsT3KpWFQdegh2BnMTVZ68Ty6IeGd3BZeubHbb2C1QeFuGn6rPOsAdsh2Pymy9E2xLHxU2TXU6ArkxQEvRr0bT2VqMjWnH44kfj0Otw7c0fYiZxXrN/EcffiEKlVFNcrFCONZBMUX95poV92tbxZ2IS+0xeUXdP7nuJk/lX56bf5TKv3NuHsAGLACWG8=;ZcFsn7a73fxyGxo/FU49kw=="
