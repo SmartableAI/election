@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris Officially Moves Into the Naval Observatory"
 excerpt: "Vice President Kamala Harris will officially move into her residence at the Naval Observatory Tuesday night, according to NBC News."
 publishedDateTime: 2021-04-07T08:11:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
+originalUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
+webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
 type: article
@@ -257,6 +257,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Omgty3TBolNWQ8geqCTMFIjBc/q6a2GlzoHMelxtL+1rgV8lErtIewULaMKcNp+mtv/drPuYo533OXCW4LxtEmO2SvhXhA28Vjnc2okymw39MjCSXUr2b5TvXAx3appqbN/D4o5Axd3InOOqV/B+frWTpdOZbr61EkYT82zkTDKkb3x3NvViXqwDrPwHtbREBspCJpqxWmoTYRgJ6tjwlp1S4GRiRGOwos85/RCA5ADJYWmcYu7guNx7OEYfOBWLZkesiD64x6SIbPvNoCQ1lGXfPFfPMoSIlUELFdBk3Vfun0jMyI9BoHmU7rROrqjiGCwW7YTEy4/lsuqEt6L6J0M4xYleUvwbgD0uOBNF20fGt8WE4q3W0mkoLESNfeTmpIwIpcSEi+2k7BySvID9V9sbu7HnM+qErER6eJ6C0CWjiA1q+4hdEJz5NC9hq+CoBLtqXC1euuMX8/Bxs7rrXv43Pze9X4IgVKzFO3aDKCkhK3IjpKWuCVmI7+ZRbXkkzbwr2CR3vTJz32MkW8sonA==;kOp44myssCNvHpDg6Jmziw=="
+secured: "xtPaoEKnlL78Vv4RLUsa5TsSNvDQLTTLzv1qXNs2ycCZoXI7j6ZTowdwS3qVZHwFWO0McyZ1O4ERpSfU9LXBymbwIvW332G8Sy31FD/Ls/5YjoVhavofaZkpqd5ZzLBespMD7MZTkhCt+pwudAxaSdh1RRM7Lz58WhCGqaNTHgEsvO+bcvl/Rk6Hm1jnqm3p84z2UyrzCjgUI4JF7n7CDGac1iYouTQJo5pSMaOVoo2wPHTJkgD2TL4nm2OD0LnWZFLZcbxl/ofo2eOUbVS56dxo3CUlzNORjlP0f/y++8swaQEVs8B8tz/2epS63KO9J/WwoQr92g5HfrKaHfhBkfAaNycVTyg3s/OktidajvQ=;lr0KgQeDaE+x0BJXa8UbsA=="
 ---
 

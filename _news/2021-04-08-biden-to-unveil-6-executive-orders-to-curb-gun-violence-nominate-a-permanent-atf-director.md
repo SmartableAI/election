@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden's actions on guns, Chauvin trial, The Masters: 5 things to know Thursday"
+    excerpt: "President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act upon the president's long-held campaign promise to tackle gun control."
+    publishedDateTime: 2021-04-08T07:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/04/08/joe-bidens-actions-guns-masters-5-things-know-thursday/7062967002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7062967002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7062967002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/e9796f93c669f544119eb2a950a7bd1ee4d5f6ef/c=14-0-2787-1560/local/-/media/2021/04/03/USATODAY/usatsports/MotleyFool-TMOT-837fccfc-biden-2800x1560.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kg/CX5ukygVr4KvyKAN3tKgBtk816mCBT0e702BwPaN5YBBSJ8byvuKp70tqRAPfMcm/hpRVruxofVWNbq5Fl5VNnWrYK5B/swlQHNdwlQiQkUiq0bVRpjFGIRsxArdbOqcMpQLmOWJdyl+BRFDTD5KWzbs1VXlwtQPymY0iUpJY+a1H8yjVDWhMh/b9APPLXCDaZIvu6fspVKWkNlqsTOmtZvDYIDD01N+24H2p4sDe3l7DEB301QIX8laHnNJuRTC02MC2gqhdQJx2TulgYMhWOuzS8Iyb01/MYlKa48rTZM8/T03J5XExczkxoQVkPgqWBLAYOsvyiEOStVcOHjCesLYDEGCgc4EqeWhzSnfKRsppiqIXvads9af0Gcx98Lac7q5ecgS+5l2KVb+wDejikOsqZ1U215AUPjSgo7ADgo9vs/ENqcjMY8YIgIlJIxdlCwle7bcfu094vQrHmLW6t3P8kfE7rXPknQM1+rE4W96wnzodVzid4eFvIjmlB6gjJCTqc66CPydObwktZw==;LWMnj2qsk3jFcauYkpN7iQ=="
 ---

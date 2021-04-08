@@ -2,30 +2,26 @@
 category: news
 title: "Kamala Harris seeks $2M for her Washington, DC, condo"
 excerpt: "Vice President Kamala Harris has put her Washington, DC, condo on the market for $1,995,000 this week. The move comes just a month after she sold her San Francisco condo."
-publishedDateTime: 2021-04-08T01:05:00Z
-originalUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html"
-webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html"
-ampWebUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
+publishedDateTime: 2021-04-08T04:05:00Z
+originalUrl: "https://www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html"
+webUrl: "https://www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html"
+ampWebUrl: "https://www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/H3xoktshK4QfCp3PQVoQZjEfLaI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5JUS4O7RFGATAXXTIRECLKLCU.jpeg"
+  - url: "https://www.baltimoresun.com/resizer/H3xoktshK4QfCp3PQVoQZjEfLaI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5JUS4O7RFGATAXXTIRECLKLCU.jpeg"
     width: 1200
     height: 901
     isCached: true
@@ -3857,6 +3853,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "M4k5v3SAd0MYCEV1gU/laHytBqdXSy6+lgtB2l4S+s/5C60qQUIM5NqPa4GomXsE6JWD6BGb9MZJ2fzjwWhzhXfMlknyp4Ht/tCfSc9aQ9Kw5SDw0lCgO1ttBgL69iDuydcMYIwOEtoHKSecdgXRwd7etYwTaBdG7/5XCGrSJs446eYnuOX3Ikf1F+BCBYEGXpPPXAsum0gR+iUkBIu1hm0qKLHLJJqMb81MgyoLBp5TDn4C3c/7DodWmWkrNmWZoYMgcbiWGwd8Dvd6DnVJidbGAqpWpw1BWt5uSpvltOzrDH47JEm1ei52jsd7/xBsEKJtoCzn9B571qNqqI6fHkNPXUNfCoWpC2SuGhOf5mw=;CTkAC/BjcZBRP/fo1HCjZQ=="
+secured: "HrhNY6NZkEPh4btKwi/KEVOWq5VNL6h5hmjXw4+LCTfTrctekzAvEA6yMkGjj1RXzK/x1g2docG+n/Vftmm0LhrDj8H1n3al4vJj7rDVDY46og0zGvr/f3YFpBgrHJ1WiSSYU4LZOW606Zaw8iqDfFz7pFL69t1PvJx7EBq1t15gy0GkIKBeKPfcMDa4Tzr6M1CDIKHGZk0WBRtKVVWJGXncYPNRxn2chb35AxbDpwQNOu9R7F7/95yQYqTi8IbYKDxYg0FO39PDHuP+u+WiuWigDmbq1SH7edqv+RmjyzEb0i3kVy3NM/6ny59Ehn0uYpL0U9vRawpryhiBoQnN07fQD9tB0Lx4bPAfPZpaHOU=;rn+7RjxRmkwe8pyXfHqrWA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-14-black-immigrant-advocates-praise-biden-for-reinstating-deportation-protections-for-liberians-who-fled-civil-war.md",
+      "title": "Black immigrant advocates praise Biden for reinstating deportation protections for Liberians who fled civil war",
+      "excerpt": "More than 10,000 Liberians, who have been living in the U.S. without legal status since fleeing a civil war decades ago, will get to stay for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/immigration/2021/02/14/biden-reinstates-liberian-deportation-protections-deferred-enforced-departure/4363464001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/immigration/2021/02/14/biden-reinstates-liberian-deportation-protections-deferred-enforced-departure/4363464001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/13/PPHX/1819eeaa-f11b-4bfe-b928-b8528de1689d-cent02-7ehm9g0a3a14erj5hle_original.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4363464001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4363464001",
+      "publishedDateTime": "2021-02-14T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-it-just-symbolizes-everything-in-joe-and-jill-biden-presidential-pda-makes-a-comeback.md",
       "title": "‘It just symbolizes everything’: In Joe and Jill Biden, presidential PDA makes a comeback",
       "excerpt": "First lady Jill Biden places her hands on President Joe Biden after he is sworn in as 46th president of the United States on Jan. 20, 2021. | Kevin Dietsch/Pool Photo via AP On a mission to rebuild institutional norms and help heal a hurting nation,",
@@ -1517,58 +1569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-biden-at-prayer-breakfast-calls-out-political-extremism.md",
-      "title": "Biden, at prayer breakfast, calls out ‘political extremism’",
-      "excerpt": "President Joe Biden has called for a confrontation of the “political extremism” that inspired the U.S. Capitol riot in remarks at the National Prayer Breakfast",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-04T02:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

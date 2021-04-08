@@ -80,6 +80,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "‘A mini-Trump’: New York mayoral candidates look to take down Yang"
+    excerpt: "Everybody’s ganging up on Andrew Yang. The New York City mayor’s race has grown more vicious in recent weeks — and the favorite target is Yang, who has come under attack for everything from his basic income and tax plans to his employment history and his second home upstate."
+    publishedDateTime: 2021-04-07T23:57:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/04/07/a-mini-trump-new-york-mayoral-candidates-look-to-take-down-yang-1371914"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5e/95/d37a7ce14b17857aa856828419c8/gettyimages-1310969538-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "T/+OAmxHecdzqPow4i1S8Y66x0xHaL4UD/uyDT9cbYiCy4FOTnQe+w7oMfHA+mkWe41oUrn7nrez65gFctWXFF7Xujrl/sku2WJPmXD/Gx1DfdynVlyvvV8PEu0/Yy7/6CTNX/RarJvCysJngcXBqcqFKic0g8vm1r1OmSYbFmmrVG7ETWdfQYnOOsAgah7C7PUHKoK+9LTfyIbkDYUwN4JQhm97ljkjuqakDQHN1qZf+ix4z8A+/e1KJ9TFoEMrYPCc/fzgC4DQ7H7A3qXjNdBNII939RzN5DvIi+8nHUYjm2FK5onpdS2R3dPDkRlFjPucmNVgNdEcgoktdIkuP3UL3xRn9fhWPZPk7ylfZXqtefWQButmUuVico+tRcb8MHVTlfvjvosN+h+FSeidVoD6gm082F4tzIhML6TWZhSzRSsZGraDDwSrflyDQguSGdxJsQXPkPEhY2s9WJx+cHuy6j2agqRjEts+KUvTc6e+00oZi5mz4zQBMY4CPANqKAuEC8JQrugOK4VOPwPwRQ==;qRERmMf9NlSCVt2Z0zLpmA=="
 ---

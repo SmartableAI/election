@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden's actions on guns, Chauvin trial, The Masters: 5 things to know Thursday"
+    excerpt: "President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act upon the president's long-held campaign promise to tackle gun control."
+    publishedDateTime: 2021-04-08T07:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/04/08/joe-bidens-actions-guns-masters-5-things-know-thursday/7062967002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7062967002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7062967002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/e9796f93c669f544119eb2a950a7bd1ee4d5f6ef/c=14-0-2787-1560/local/-/media/2021/04/03/USATODAY/usatsports/MotleyFool-TMOT-837fccfc-biden-2800x1560.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to unveil 6 executive orders to curb gun violence, nominate a permanent ATF director"
     excerpt: "WASHINGTON – President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act the president's long-held campaign ..."
     publishedDateTime: 2021-04-08T00:14:00Z
@@ -64,6 +80,6 @@ related:
         height: 675
         isCached: true
 
-secured: "M6hzkFlYmAckSG5vzpm0V/yHhheAcpHxMdV+mnHfLmloIdBt45llVYzMrk670KjSIERT4jAzsKBOsQwACf+EqQUftx2VTxXnlOpUuzMkHmYnM+3ICxvA73pyyF/vpkFsenbD3/P24GLR1NWAl+lS1KIZIQPsG8oJxMybb19z08znp3YhpcmRdUldLcbAifEWQSXEO0GJQKpd91vGAxiKqsFtuR0e51jlPgHZqAd33c9s4mxgyJcaCqs1NMzoaCwAxuBAp9HqDilyVGRALC0DdyBVFsKQevIM7tnZZ8vfC+JpzQcZ/8V8IWOEh3T08pOD3vGO4XAqh9uuCOPJprNXN8jD1pLG/1+AtjeUru9NPpM=;Rk8z5eKDNFYpCBsaQwcMDw=="
+secured: "xvBfLQPocq04tjU7bFPM4wBXto83wfNL+llQNP7mD0qsAOHKbzHsiT8cd0ov+DQHdAythZcmIIZH285gGZXgE1VgvD2gmvj/iq9HZw0pBnSj8knVGf0Cmt2PGnS9f95SIR/48xBd/VOkuzXSrdsaKnh2Wd8HRsQjI9QSB2yVhrmEbuF9KgvNXOJJlZT5xzdWLyssdOWngUG5cGYAFxoNyeef8dyS/KJg84jN62we+waabyDfvbhIfo/NW0ViHOnIm++cmgNNta655Z2zoz+nxCEBBBLi7TC/jQTfcQ6/ZSahSN8jaVF7f5hiIkvkrnhFQq1VQO1xVVwAlaT4b+wbd3vQuE9Dc8amp6xet7rVwsRRaenNd3HStBiaMSJ52CM2sDo3JXZbGBH/vqa4drWDQ3piFH7NIY27rHwLsicA1qE0DvFq5u+FmVY4uEhC/QOYuDCZgwy8tbqErOJML970YEn3pqHcTfq8V9q7UDncvgE4Wwo6ICB4pP4mbcdPaMGRifouhZeh6+jbVMTm0CsdJQ==;LVXDmhUBquVYV6M9aBJBsQ=="
 ---
 

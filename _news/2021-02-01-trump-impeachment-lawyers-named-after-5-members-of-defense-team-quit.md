@@ -1445,22 +1445,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden lifts Trump sanctions on international court officials"
-    excerpt: "President Joe Biden on Friday lifted sanctions that Donald Trump had imposed on two top officials of the International Criminal Court, undoing one of the past administration's more aggressive moves targeting international institutions and officials."
-    publishedDateTime: 2021-04-03T00:03:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-lifts-Trump-sanctions-on-international-16073212.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-lifts-Trump-sanctions-on-international-16073212.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-lifts-Trump-sanctions-on-international-16073212.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
     excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
     publishedDateTime: 2021-01-30T17:38:00Z

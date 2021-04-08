@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-23-house-republicans-who-backed-trump-impeachment-warn-dems-on-iowa-election-challenge.md",
+      "title": "House Republicans who backed Trump impeachment warn Dems on Iowa election challenge",
+      "excerpt": "A group of nine House Republicans that voted to impeach former President Trump has signed a letter to Speaker Nancy Pelosi (D-Calif.) warning her against pursuing an investigation into the Iowa electi",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa",
+      "originalUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/miller-meeksmarianette_hartrita_031921gn-courtesy-rita-hart-camp_iowa.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp",
+      "publishedDateTime": "2021-03-22T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-trump-backs-gop-congressmans-bid-against-georgia-secretary-of-state-brad-raffensperger.md",
       "title": "Trump backs GOP congressman's bid against Georgia Secretary of State Brad Raffensperger",
       "excerpt": "Former President Donald Trump on Monday backed a Georgia's congressman's primary challenge against embattled Secretary of State Brad Raffensperger.",
@@ -1520,58 +1572,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the-greats.md",
-      "title": "Juan Williams is wrong — Trump will be remembered as one of the greats",
-      "excerpt": "I look forward to a day when Americans can look past their hatred and admit that Donald Trump was the most effective, impactful, and forward-thinking president we’ve ever had.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
-      "originalUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpgettyimages-1304602669.jpg",
-          "width": 980,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
-      "publishedDateTime": "2021-03-17T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

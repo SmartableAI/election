@@ -80,6 +80,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
+    excerpt: "(CNN)President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on ..."
+    publishedDateTime: 2021-04-08T04:01:00Z
+    webUrl: "https://www.cnn.com/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407164459-02-biden-jobs-plan-0407-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Watch Live: Biden Speaks on Infrastructure Plan"
     excerpt: "new video loaded: Watch Live: Biden Speaks on Infrastructure Plan President Biden delivers remarks on his $2 trillion American Jobs Plan, which aims to overhaul the nation’s infrastructure. Advertisement NOW PLAYING 1:36 1:38 Advertisement 0:57 1:33 ..."
     publishedDateTime: 2021-04-07T17:17:00Z
@@ -95,6 +111,6 @@ related:
         height: 550
         isCached: true
 
-secured: "ZWIJ1QL8BCWAXdIVfagtqQ6kuFvjcD6Rg4d48H3En9M9j4Nb/OyfNpGgrsaRcyN0Fh+GZkETZ2tfJ8fu0cwAUqANKHfKtq6/Wfiv7qmhBuScoRIWkpBHcVvOPA8FYhqggTaxlw9NrukN2RcrezbnWxGH34Q0etIzHZSMnvRNmRgIPapIVSNTw+xqSO8R/VtOTevZdmrFI7ktWZRsiz/9ak5zET6Se97q3IkfiG7JX7luy/HJ2ZryVvh0YcS6X0l0G3S6DMsqkSCyT5rHW4l2DmOuyJB3l/yae0kCfVzTZau+5S+vkwj2lT7aARu0FXYB1F+aZu/uAhzGxirVOmcAlmDEEQv5unOtVGlPUcD9cHE=;zZJKlAKoe+YQhbecKLIMNw=="
+secured: "f82eSjZco/1v6xYrs47BRBthZD9Oxk5ksahZYAXmHaM38S35OpAzAqxKVucQZxaKCrTgnEC9ktq0TnoXjCL0fTCgW2HyOcNe3uc44BDGpDZHCqZpKds7b0zsnKQhXRQTKAQHqmr0+viuPfMz8To6c1dDKU1f1L2lj+qJ6wGTsE2VlSX3Mwb0X1O2erFa2WLAN59e3i1pXGLY/agW7Q7E5m69D9MVs1vYCa2wh8hsKsXJbqI/QadIfx1IMTNBY4Xco+XKNHyVn4Q8ZNzXRnIZmFJw6ZxPEgyUvJixuydUnCe5bhp6uUQ3DOBoDEkaw4g/DTGKjdBg6p2J9IG5RZFj4o8vjg6BzpsfGX6c4MG+8rFlnXf8DT6frIaqnPlDpRDzv7oMUsk9AqPIdcLh3P0PmHYdP680Lh65WK4H8b8DbZ8RN02L4ZXPxp+i7OdHCFwgdkZzSFRbuhrVWy0r4nniK5sJyJvVcJ/vfc70vt59WYeNk87nFYn4hnJGwwDDj2It+TfNMI8mk5245Q4iiJfeCg==;Y1+FSCh0+2NuEms2EmRD4Q=="
 ---
 

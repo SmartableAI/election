@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-gro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html"
 type: article
 quality: 189
-heat: 489
+heat: 509
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
       - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Kemp Seizes on Georgia Voting Law to Try to Win Back Trump and His Base"
+    excerpt: "After resisting Donald Trump’s demands to overturn the state’s election results, Gov. Brian Kemp was an outcast in his own party. Now he’s embraced the state’s new voting bill as a way to rebuild his standing."
+    publishedDateTime: 2021-04-08T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/00kemp1/00kemp1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump relaunches his fundraising machine after months of quiet"
     excerpt: "The red \"Make America Great Again\" hats are back in stock. Former President Donald Trump is reigniting his small-dollar fundraising operation for the first time since leaving the White House, part of his political ramp-up to stake out an outsize role in ..."

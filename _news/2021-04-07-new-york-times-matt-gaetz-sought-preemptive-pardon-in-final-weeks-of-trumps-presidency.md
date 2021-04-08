@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
 type: article
 quality: 166
-heat: 226
+heat: 246
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/06/us/politics/06dc-gaetz/merlin_170263383_ddfd807b-d425-43c9-8240-3a567e3fc04f-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "‘A mini-Trump’: New York mayoral candidates look to take down Yang"
+    excerpt: "Everybody’s ganging up on Andrew Yang. The New York City mayor’s race has grown more vicious in recent weeks — and the favorite target is Yang, who has come under attack for everything from his basic income and tax plans to his employment history and his second home upstate."
+    publishedDateTime: 2021-04-07T23:57:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/04/07/a-mini-trump-new-york-mayoral-candidates-look-to-take-down-yang-1371914"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5e/95/d37a7ce14b17857aa856828419c8/gettyimages-1310969538-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "cE8FOOnvMlBp3Ac3JmGwVnCiYSEPMBQ5DvYrRwOo7jffe/dnpOedAivbWeeJQ862+r3baI1Sm0pVs1XzV0SbtaFH38HSSc2oE4LMRiMnl4KcTEGY/ZofL7LAKlqER0acI8/Yk2Y+oVLOXc/hNCI2J9Fp5wXjlGDY+Vt5EalWv/frA2WJqPnax8vqmD/r5FNUslZgos77s94kMQC0yHVtT//HxfV+eiVCkGKs0K6EMHfhbDUccOf/w5kMZf59P1u37mdJLp6ECl19gIkQ52DZQO28yj6kptCmNy1YRaKC2+4hV0C3fmAaRB6ip7XjRUJoj71T09rFKqHbI2as9i9euR2RposDJdwzVMJJ6DYNuZA=;y9yoaXJgOPXVi9a/g8O9Bg=="

@@ -98,7 +98,7 @@ related:
   - title: "VP Kamala Harris Officially Moves Into the Naval Observatory"
     excerpt: "Vice President Kamala Harris will officially move into her residence at the Naval Observatory Tuesday night, according to NBC News."
     publishedDateTime: 2021-04-07T08:11:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/"
+    webUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/vp-kamala-harris-to-officially-move-into-the-naval-observatory/2985003/?amp"
     type: article
