@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-bi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html"
 type: article
 quality: 168
-heat: 228
+heat: 208
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31dc-flotus-promo/31dc-flotus-promo-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "'The Senate has discovered water': How the parliamentarian could reshape the Biden agenda"
-    excerpt: "(CNN)A crucial decision this week by the Senate's parliamentarian could have sweeping ramifications for Joe Biden and future presidents to ram their agendas through the chamber along straight party-lines, putting Democrats on the cusp of pushing the rules ..."
-    publishedDateTime: 2021-04-06T22:47:00Z
-    webUrl: "https://www.cnn.com/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 126
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "lbVTB7ihv8UJ0n50oicM4AzaSkbWRFoNXsgEWLBtI/jwczJUgY2Bk608CGGnmqIi9t04jSMvc1U+pi9sxhvfZ6a6GXXsCOQ2GjdFen4e6mIePshrcidk5Ac24I13HH4So4x4I4y4NZt2K5iTWe5/wGyKq2SJvsKz0uUsFQHQcDHDL61QAa+uaXtXLPg4buUQaad/w48Xqn2ZOpj2ARb2jHnFjsKLVjMGAG8A6F3UDPcUeqNj9xnCgH8w6qOb7IHDoxX72UfYhsvYoSWZNwpp4PQAdX5ukfrUnxEF5YJRLUYb2fcSwgKd4l7R3aXRi/PaZ97T/SSnW+FfHbL/YnyvvlwpZE1HWDlHG+HpktcyWD0=;Avka0nUOaf3ms2ejqpDMNg=="

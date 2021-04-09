@@ -48,38 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration has yet to name point person for $178 billion Provider Relief Fund"
-    excerpt: "The Biden administration has yet to name a point person for the $178 billion Provider Relief Fund, according to a senior administration official.\n    \n"
-    publishedDateTime: 2021-04-06T23:35:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-xfF4CosuQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162835-02-biden-vaccine-remarks-0406-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Frustrated military officials want Biden to make a decision on Afghanistan"
-    excerpt: "WASHINGTON — President Joe Biden's lack of a final decision on the future status of U.S. troops in Afghanistan just three weeks before a deadline for their complete withdrawal has begun to frustrate some military officials, according to current and ..."
-    publishedDateTime: 2021-04-08T16:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/national-security/frustrated-military-officials-want-biden-make-decision-afghanistan-n1263416"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263416"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263416"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3428929/201117-troops-afghanistan-mc-1450_7c348b33731f3cc4efcbc910e3f32707.JPG"
-        width: 2500
-        height: 1513
-        isCached: true
   - title: "Congressional Democrats call on Biden administration to demand Saudi Arabia lift blockade on Yemen"
     excerpt: "(CNN)A group of more than 70 congressional Democrats has sent President Joe Biden a letter pushing the White House to encourage Saudi Arabia to end a blockade of Yemen that has led to food and fuel shortages in the country that have hampered the delivery ..."
     publishedDateTime: 2021-04-07T13:34:00Z

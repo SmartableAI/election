@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-ran
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
 type: article
 quality: 190
-heat: 330
+heat: 350
 published: true
 
 provider:
@@ -69,6 +69,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin"
     ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump, other potential 2024 GOP contenders, gathering at major retreat"
+    excerpt: "The GOP’s wealthiest contributors and biggest fundraisers will be in Palm Beach, Fla., this weekend for a Republican National Committee donor retreat that’s also attracting more than half a dozen potential 2024 presidential contenders."
+    publishedDateTime: 2021-04-09T10:51:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSmSeudvge8/trump-2024-gop-contenders-retreat"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
     type: article
     provider:
       name: Fox News

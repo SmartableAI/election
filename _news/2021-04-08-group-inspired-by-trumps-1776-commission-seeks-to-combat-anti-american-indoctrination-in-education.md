@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/1776-action-critical-race-theory.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1776-action-critical-race-theory.amp"
 type: article
 quality: 160
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-321171/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Organization Executive’s Former In-Law Hands Over Documents in Probe"
+    excerpt: "A Trump Organization executive’s former daughter-in-law turned over financial documents Thursday that Manhattan prosecutors had subpoenaed for their investigation into former President Trump and his company."
+    publishedDateTime: 2021-04-09T00:01:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-322013/social"
         width: 1280
         height: 640
         isCached: true

@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump, other potential 2024 GOP contenders, gathering at major retreat"
+    excerpt: "The GOP’s wealthiest contributors and biggest fundraisers will be in Palm Beach, Fla., this weekend for a Republican National Committee donor retreat that’s also attracting more than half a dozen potential 2024 presidential contenders."
+    publishedDateTime: 2021-04-09T10:51:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSmSeudvge8/trump-2024-gop-contenders-retreat"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump's Save America PAC has $85M on hand ahead of 2022 midterms, potential 2024 run: source"
     excerpt: "Former President Trump's super PAC has $85 million cash on hand ahead of the 2022 midterm elections and as the former president hints at a potential 2024 run, Fox News has learned."
     publishedDateTime: 2021-04-08T15:40:20Z

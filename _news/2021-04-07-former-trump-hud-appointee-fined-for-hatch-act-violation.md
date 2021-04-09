@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Organization Executive’s Former In-Law Hands Over Documents in Probe"
+    excerpt: "A Trump Organization executive’s former daughter-in-law turned over financial documents Thursday that Manhattan prosecutors had subpoenaed for their investigation into former President Trump and his company."
+    publishedDateTime: 2021-04-09T00:01:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-322013/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "QGUBHitXlMz+AZ8JxSyx3dZudjF73wkr769p6ymUywajlZBJre1SejReEyonDdRGk3FBVET5OX14gMKc6fQobJ08kpoA0p7GUSSwO6zT+M8QnDK/WC35JSZrGPbTDB+Ew30OnMGeTehZx8/App6p0M3MW3xZUtnekA/USPQ7greYGTn05OCSUhWZWdoS9FYkSfirsjk2s6eKa6JwW55Da5OJSQONgJnXbjvs3/19FxlO8p3x20WR9Jlg32aGAedyKGjh3abCesqmd/DnK8g6Z4AckrNaVuqSFCxbxlOjftWsKTJFeM90/jWtPITQnDOIOa3ss2c+MV6XjA4MOBMGHqvsGW1iS3aU7FCbIfgJV1M=;eXhuUsGBFKSo/5mcV66b2w=="
 ---

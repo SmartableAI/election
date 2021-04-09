@@ -563,6 +563,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Bowing to Trump? GOP brings leaders, donors to his backyard"
+    excerpt: "There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of donors and several future presidential prospects to the ..."
+    publishedDateTime: 2021-04-09T04:26:00Z
+    webUrl: "https://www.chron.com/news/article/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Mike Pence launches conservative advocacy group as Republicans cast eyes on 2024"
     excerpt: "Former Vice President Mike Pence launched a new policy and advocacy organization to “promote the pro-freedom policies of the last four years” in a possible sign he’s gearing up for a 2024 presidential bid. Advancing American Freedom, which plans to ..."
     publishedDateTime: 2021-04-07T16:20:00Z
@@ -667,17 +683,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard"
-    excerpt: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of ..."
-    publishedDateTime: 2021-04-09T04:23:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "kuB70WIszkidWJeAggXrXZ5/v/OpA52KQDSG2r8uwr+ZjMQjSWDLV0yqcY8he/QVH0wlwvxkBm8VhpUidcTeV3chh7aVqoWY+uhxCwD/PHV0zZglitJM+yIcnYa7tpc9vpYQM2aOTZSFOtDN6rvLv/nfIHjSOmTJVp6YvZpqbQqCq2uRrp3fF0tQLius+3LZqqMQVqDpsE6Jf49HgBrLhTNl2TCA0SOTp4kcR5c4h5ZgjYtNpKpPoC2RwxdhdF0SV7TrVOLx5hf37G6FCxSgMKK1Kh4l57OxIRVEkR6mWzM8j5qEBKLX2+s9g7qcx/dEC7hhGs0U9j0sINQBaBqPqV7xJondcYHxZgGvwOZSE6uL9/eGD8r3h3+ZScvnweKIGvn7mqnLlqgG8fY5k4LbwwuEzvV7so9MRRLh8cJeUPyMyPDMKS7yn7ECKQhA2xDkGQfRTv+Ob/JomUHFzyKFWiwQb3Cwa2a4n5+EHOOy/PsVl9/3R1CcZw2di/kP+jHmWSzUjC8RDE2DVdI0dtmiig==;Vnngbe/i9BI4R77uJouUTA=="
 ---

@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard"
-excerpt: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of ..."
-publishedDateTime: 2021-04-09T04:23:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
+title: "Bowing to Trump? GOP brings leaders, donors to his backyard"
+excerpt: "There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of donors and several future presidential prospects to the ..."
+publishedDateTime: 2021-04-09T04:26:00Z
+originalUrl: "https://www.chron.com/news/article/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
+webUrl: "https://www.chron.com/news/article/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
+ampWebUrl: "https://www.chron.com/news/amp/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Pence launches group as Trump officials line up new roles"
@@ -678,6 +680,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xEZ/WpPKw4pGPwxRhmnMAlXca+H8yyCFELFgZ6wF6ONSJ/DSta12IiNnimomfUgliztNmuJMMWu2VROsYzAO4MXalswZPrjLdYx54IvmR/Si2hAy69aMiHQMywi7T79+rYiqKZK7md96J2L9Z4s2t4Vlwm8zdDdfAdzyKjd8NrifdaUTGgNZQkZAS+zoRaNqDOcBZqJQb+V7g/R/dK0XR43nRMoCUNhfO+5YMPgxzJb92KwKD40WyPiznPUqjvthBgFNqktbwkOakrv3IbKr4NpVWbF3IqqjDEOGGKnZlMA3E6RcSMeRRTDihjQEncU6dQC07CFaRZr/r5E89zk2sw/xRVYfpw1OLlbXg6yo1YeGQkaCFr2OCDdj04Np5HYWojzpa7g0pNWOj0O9jWkTLosSznNe4HUHliS/cmgf/khZY9/pE7ksDcxILy106Gs48V9RR6UtO2PVCSRn+OapqNVjZnbQSCtVj1cLSFBB3azXgNmmdzuSxE3tRrgjofPLhXFhpHHI0pU0ff9FNLV3Pg==;4u86A/0S7bJoVoT4QPHQdw=="
+secured: "IDr2ZI/pV1Hr3G+/ig4cAB0NOgH5ptNcEh7TutgLYq7RIH+rmoZiHHWl/g3RqS3Qc/nmePEnBzhxY6YYgoMBJnU9D3j1Qzv7coLS2OxTww/3vxIsCVI3ykFDEFHNsPvQVFH7wS715mhkUf1w3h1xSVu4SB5yZjzlqVlVk4WKmXcZlVzrBIFzW9SXZBsIdwnmuoGDCoENKW0AO8WVij/h/NuM4Cn8t59Y/i6hyCT86HiTU5BArPchn/kBc27co+l6WZ4OTguFbUBpmSB7uMiohrs2BoQOUIe+s+MFlrEGLOO19gy/CshCepk3/xh2DCNR/DmpY73My7YA91X3uzWbxBkg65FjfEgQ7FaRmoSgoMk=;8Hb+C1pbM8WG0iFRnlOF3w=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump, other potential 2024 GOP contenders, gathering at major retreat"
+    excerpt: "The GOP’s wealthiest contributors and biggest fundraisers will be in Palm Beach, Fla., this weekend for a Republican National Committee donor retreat that’s also attracting more than half a dozen potential 2024 presidential contenders."
+    publishedDateTime: 2021-04-09T10:51:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSmSeudvge8/trump-2024-gop-contenders-retreat"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
     excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms. \"Rand Paul has done a fantastic job for our Country, and for the incredible people of ..."
     publishedDateTime: 2021-04-08T22:01:00Z

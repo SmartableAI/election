@@ -32,51 +32,115 @@ images:
     isCached: true
 
 related:
-  - title: "Biden ramps up vaccine diplomacy efforts as hopes rise that he'll share surplus doses"
-    excerpt: "President Joe Biden, well on his way to reaching a new goal of vaccinating 200 million Americans by the end of April, is taking initial steps toward helping other nations ramp up shots, including by boosting global manufacturing and appointing a top global health expert who previously advocated for shipping"
-    publishedDateTime: 2021-04-06T10:09:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hgN3CfmHSlE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html"
+  - title: "Joe Manchin on the fate of Joe Biden's agenda "
+    excerpt: "Joe Manchin says it's no fun being the most powerful man in Washington.\n    \n"
+    publishedDateTime: 2021-04-09T04:08:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-vVzgys3E60/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405163758-vaccine-pharmacy-us-louisville-kentucky-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408155128-joe-manchin-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to announce he's moving deadline for all US adults to be eligible for Covid vaccine to April 19"
-    excerpt: "President Joe Biden plans to announce Tuesday that he is moving up his deadline for states to make all American adults eligible for a coronavirus vaccine by almost two weeks.\n    \n"
-    publishedDateTime: 2021-04-06T11:19:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x9whOQVB82U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html"
+  - title: "Manchin on his veto power over Biden agenda: 'It's not a good place to be'"
+    excerpt: "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n"
+    publishedDateTime: 2021-03-11T00:49:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bjE6jWbXzE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404164255-01-joe-biden-0324-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Jill Biden, in California, Lends Support to Farmworkers Seeking Vaccinations"
-    excerpt: "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ..."
-    publishedDateTime: 2021-04-01T00:50:00Z
-    webUrl: "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html"
+  - title: "The Point: Joe Manchin just crushed liberals' dream for Joe Biden's first term"
+    excerpt: "With just 15 words, Joe Manchin ended the possibility that Joe Biden's first term would live up to the hopes that liberals had for it on everything from gun control to voting rights to even, possibly, the size and scope of the President's $2 trillion infrastructure bill.\n    \n"
+    publishedDateTime: 2021-04-08T14:36:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kD73Ork1Sd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-filibuster-gun-control-voting-rights/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-filibuster-gun-control-voting-rights/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326142919-joe-and-gayle-manchin-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration has yet to name point person for $178 billion Provider Relief Fund"
+    excerpt: "The Biden administration has yet to name a point person for the $178 billion Provider Relief Fund, according to a senior administration official.\n    \n"
+    publishedDateTime: 2021-04-06T23:35:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-xfF4CosuQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162835-02-biden-vaccine-remarks-0406-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Manchin warns against overuse of budget tool Democrats hope to use to pass Biden's agenda"
+    excerpt: "Democratic Sen. Joe Manchin made his opposition to frequent use of the budget reconciliation process clear Wednesday evening in a Washington Post op-ed, sending a warning to Democrats who hope to use it to pass President Joe Biden's legislative priorities.\n    \n"
+    publishedDateTime: 2021-04-08T04:01:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taThQ3EGWzw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-reconciliation-washington-post-op-ed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-manchin-reconciliation-washington-post-op-ed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Frustrated military officials want Biden to make a decision on Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden's lack of a final decision on the future status of U.S. troops in Afghanistan just three weeks before a deadline for their complete withdrawal has begun to frustrate some military officials, according to current and ..."
+    publishedDateTime: 2021-04-08T16:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/national-security/frustrated-military-officials-want-biden-make-decision-afghanistan-n1263416"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263416"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263416"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3428929/201117-troops-afghanistan-mc-1450_7c348b33731f3cc4efcbc910e3f32707.JPG"
+        width: 2500
+        height: 1513
+        isCached: true
+  - title: "Live Updates: Biden Prepares to Take on Gun Violence in Wake of Back-to-Back Shootings"
+    excerpt: "The president is expected to unveil executive orders on Thursday that will tackle so-called ghost guns and background checks. His office also released a plan to raise $2.5 trillion by overhauling the corporate tax code."
+    publishedDateTime: 2021-04-07T17:04:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/07/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/07/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/07/us/biden-news-today.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 132
+    quality: 127
     images:
-      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31dc-flotus-promo/31dc-flotus-promo-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/07/us/07new-washington-brief-georgia-promo/07new-washington-brief-georgia-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

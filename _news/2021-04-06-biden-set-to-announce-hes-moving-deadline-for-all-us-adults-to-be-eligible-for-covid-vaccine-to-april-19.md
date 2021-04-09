@@ -63,22 +63,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "'The Senate has discovered water': How the parliamentarian could reshape the Biden agenda"
-    excerpt: "(CNN)A crucial decision this week by the Senate's parliamentarian could have sweeping ramifications for Joe Biden and future presidents to ram their agendas through the chamber along straight party-lines, putting Democrats on the cusp of pushing the rules ..."
-    publishedDateTime: 2021-04-06T22:47:00Z
-    webUrl: "https://www.cnn.com/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 126
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "GZGGdp4+dAFiBYfn3EsqVFKcP9SkZlxpvfDLVZZlhBTMpTFrxH0iaamV+ASrLm3AtyACKJK0UPKiXNeTg1cKkbPqO3m4agmB6ZEiO+hrKF1qrxso7hsStiPlZDK5K53hsdtEny5jE5QZjRTE6mJCKmWp/TyCHKGYE63afs2IOv7S4v6JpSI+K5baY2ohvA9s1KNKmPDO0NPr3z7Rr/FSnsKCAn/CjqP1hUfHFPx5YpfT0S8mBwyT8rvVmseF7dBiHlYOl7yxfvNn9LPoI/Ydbpv9N8tLhmMQSIWJM+jluQQyCudkifXiaGwZEq6yXzdXcdRJHo8JbIWTaeNEfiVvPug2aGFwzULXxH3awr/CDRc=;fqjYTZWKqF/gRi3Qdbiirg=="
 ---
