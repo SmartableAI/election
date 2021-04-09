@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Lauren Boebert Rips Joe Biden Over Gun Control Measures: 'Second Amendment is Absolute'"
+    excerpt: "Republican Colorado Representative Lauren Boebert has criticized Democratic President Joe Biden's gun control efforts by stating, \"The Second Amendment is absolute. Anyone who says otherwise is a tyrant.\" Boebert published her tweet just hours after a mass ..."
+    publishedDateTime: 2021-04-09T04:02:00Z
+    webUrl: "https://www.newsweek.com/lauren-boebert-rips-joe-biden-over-gun-control-measures-second-amendment-absolute-1582214"
+    ampWebUrl: "https://www.newsweek.com/lauren-boebert-rips-joe-biden-over-gun-control-measures-second-amendment-absolute-1582214?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-rips-joe-biden-over-gun-control-measures-second-amendment-absolute-1582214?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1774167/lauren-boebert-gun-control-2nd-amendment-biden.jpg"
+        width: 3000
+        height: 2002
+        isCached: true
 
 secured: "7s2V+aVDGGkl4HBE1P0mnAX+un49/s7RELMveKlGY+zgNZzB0VTSqQb38w9BMRlpB444OHbptMOHppeTI5nJOnv4e1uk/JK3tFuUdcqtEAghD3xqp+vEwPxYPaGpQ+/DsbECjrVtZothRH5DZ/hKQeVXyqE3hPZE8MUw7wRrd/l0omzDB7vQbY9JvdgsXOtP0hnfiiBQl5U1ElHtqPWCGdj0uyB77YrDx8MNi2NU+/xuLonheUTFPMnj+FqA9epMKq7ORpdX2hBn6YwL0LFmg84+TCjTIZWP86md4SG6MpMRimrlXecPhSmwZ6S9AkwkjWLNoOuxKxFdCu9UnK36crtJuuuBwsNoj/gqdJe0642zh24k9RVDPmJXGHLci8sSWOpxTg+EcvNFPeuxur4y4gF1Pdlia3kIcGGhlscAuAq+BLbaLRptAHkReHc6uZKDm4125Jvp5r8Hhb7kgmViZZ8rkqNX8VFMJVqDEoo/yoQKFLElvpIhM+60+z04mKP9l+Q7Ikc7MBWmdbb4pZTYcA==;WvdQ8mDUg1AhKNtqJn1cew=="
 ---

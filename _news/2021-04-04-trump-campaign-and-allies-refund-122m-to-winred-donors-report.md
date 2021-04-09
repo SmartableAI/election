@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-refund-winred-donors
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "National Archives will share Trump tweets censored on Twitter"
-    excerpt: "The National Archives and Records Administration confirmed Wednesday that it is working to make publicly available tweets from former President Trump that Twitter has taken down and pledged not to allow back on its platform."
-    publishedDateTime: 2021-04-07T21:33:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OcSh2ZvfVhE/national-archives-will-share-donald-trump-tweets-censored-on-twitter"
-    ampWebUrl: "https://www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20334644546013-e1606925054815.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump denies report that Matt Gaetz asked for blanket pardon"
     excerpt: "Former President Donald Trump on Wednesday denied a report that claimed embattled Rep. Matt Gaetz sought a blanket pardon from his White House — for himself and unidentified congressional"
     publishedDateTime: 2021-04-07T15:48:00Z

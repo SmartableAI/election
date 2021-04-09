@@ -63,6 +63,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden budget seeks more for schools, health care and housing"
+    excerpt: "President Joe Biden is releasing his wish list for the federal budget WASHINGTON -- President Joe Biden released his wish list for the federal budget on Friday, asking for an 8.4% increase in ..."
+    publishedDateTime: 2021-04-09T15:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_5790d3727f5f41abb783420774691c3e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden requests large boost in domestic spending"
+    excerpt: "President Biden, saying the U.S. for years has “significantly underinvested in core public services,” will ask Congress for a 16% boost in spending on a range of domestic programs, the White House announced Friday. The first installment of Biden’s ..."
+    publishedDateTime: 2021-04-09T15:18:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/831aabd/2147483647/strip/true/crop/3000x1959+0+182/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F11%2F6a277690459db334a823fac08cbd%2Fvirus-outbreak-california-vaccine-19539.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Biden tightens some gun controls, says much more needed"
     excerpt: "In President Joe Biden’s first notable gun control measures, he has announced executive actions aimed at addressing what the White House calls a “gun violence public health epidemic"
     publishedDateTime: 2021-04-08T19:14:00Z
@@ -190,6 +222,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/joe-manchin-filibuster-01-gty-llr-210407_1617911131382_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden calls for funding to probe white supremacist beliefs at U.S. immigration agencies"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
+    publishedDateTime: 2021-04-09T14:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration-idUSKBN2BW21J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557870266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3810R"
+        width: 817
+        height: 545
         isCached: true
   - title: "President Joe Biden Continues Hard Line Against Russia, Offers Ukraine 'Unwavering Support'"
     excerpt: "President Joe Biden on Friday offered \"unwavering support\" to Ukraine and reiterated his strong stance against Russian aggression amid reports of Russian actions near the Ukrainian border. After the president's Friday call with Ukrainian President Volodymyr Zelenskiy,"

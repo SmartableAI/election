@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amt
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1484
     height: 779
     isCached: true
+
+related:
+  - title: "Biden to meet with U.S. lawmakers Monday on infrastructure plan"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden plans to meet with a bipartisan group of U.S. House and Senate lawmakers Monday on his proposed $2.3 trillion infrastructure and jobs plan, sources briefed on the matter confirmed Friday. Senator Deb Fischer ..."
+    publishedDateTime: 2021-04-09T14:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-idUSKBN2BW248"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW248"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW248"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557873321&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3811T"
+        width: 783
+        height: 545
+        isCached: true
 
 secured: "h19VQlh1JTtLV1jPdK/Uylqfj0IR/fcTwR8176bUWbqa2D5Mf8kJioBnLCtEObdvCNpo1GYQrubFQSMs/mh6ZcegOuUL2+v7RIp0XH486MD/1pKvWgad2zQ1sLfd/zHm1WqeLD6XyfRHSQ++ynNJywwIhrrE+88h1GxnxqLaPj14F+HHRWWi+o4B1Pb8IhmvI1qllNn5IbtqTfBDy5Ql6SSjxHW1rC3pU+8TGQHAgMC33k39mlK4iTig9Wwhn66qrWZSwuSfdfOK/zEbXWpTAsWHpn19+2dtaWGh8FxJxyXEEqNDr5oUQCvgHhocmrJtSCbsioXGEu7h/xQVnWb2XzzdsJVQyaK/WEVgrmmXAw4=;0SwHaapaoyBPac8NIMQwLQ=="
 ---

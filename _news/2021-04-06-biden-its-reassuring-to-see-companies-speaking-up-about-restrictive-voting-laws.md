@@ -47,6 +47,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden asks Congress for 16% increase in non-defense federal spending"
+    excerpt: "President Joe Biden asked Congress for $769 billion in federal outlays on discretionary, non-defense programs in his first formal spending request Friday -- a 16% increase from former President Donald Trump's last budget.\n    \n"
+    publishedDateTime: 2021-04-09T15:02:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uQ7PQgpyPa0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/white-house-spending-request/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/white-house-spending-request/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pitchman Pete: Buttigieg steps into the spotlight to sell Biden's infrastructure plan "
+    excerpt: "It isn't every day that Republican Rep. Sam Graves picks up his cell phone and hears from a Cabinet secretary -- let alone a Democrat.\n    \n"
+    publishedDateTime: 2021-04-09T14:33:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xe6ENl_v_vQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/pete-buttigieg-infrastructure-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/pete-buttigieg-infrastructure-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409090427-01-pete-buttigieg-0330-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan"
     excerpt: "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,"
     publishedDateTime: 2021-03-31T08:52:00Z

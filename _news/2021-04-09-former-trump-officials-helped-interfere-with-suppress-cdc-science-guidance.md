@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
+    excerpt: "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ..."
+    publishedDateTime: 2021-04-09T14:55:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 139
+    images:
+      - url: "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "AP Interview: EPA head removes Trump-era science advisers"
     excerpt: "Michael Regan, the new head of the Environmental Protection Agency, is reversing Trump administration actions that sidelined many academic scientists as advisers in favor of industry figures ..."
     publishedDateTime: 2021-03-31T15:03:00Z
@@ -695,6 +711,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "wTNeCMCo0kvTR3ZDG3stVzaEy31ag3qGfGaJg570p7QAkxIIle+0/1Y4/mXJUUKhtPqDMLs7CEHN5O7Yiw9VJBDNwNPDT88dRGu5VzXdebidcIhu2eZcyt9kNabcsGPPO+dDQ1qcBw2i9jugU5i6mSt6J77qen4WKj5uKsShcpCoGHIZU+eDZklvW8T5zoIDZSawptTl16rHkLpetIKuNSSde7nb4IXF3t11gR6WZ0W9UKANTE11SPye+b9h/l22a5mrIYUy4FEYRR5R2wrCzAVz2fN/Lj9jaXJElbnj3iAfprNWC5GfIVR61zovR9Xmw6IzqvZpdfTNbmtu3CCRT9XAts6vZWpboy00M2TRVHc=;QZjv/yoCIJ8zYgugN2qA9A=="
+secured: "EK23iTHfqV8jXXILsMSe5T7kW7Rm7nq6bRm2fFLr+2F8LRYxEhVtKmnLgZfNBUyqIE3MHoxnO7EAwQi32rAmHKousKHIIfpxtb3kXvxt+mcLCkGYtwWcw2axTw6nu4Vz6/KEBfGeoWSXyklXKTVj4mnmHQ5ktQMGxxcqzV71nzuuN0ki5ES1tEdtPgYoC1v0EqXqfGMBDeG5OUbwpvLoIfUY7hmqduNploh9NR4ibWlaeU2jRETlNEU8v2b53WqR5LqxXlx2QU0cBSfA04pI38093p9WBoRWyD8Pj6mlkHnbP9y8TEPqGykux1WZyG70HWeNsHSJLjcrX649FfLfiOuAODx8mUdp1bN7dMLu6oNOymyIEdo42wb47YMhocuVr0/NFRrJXbSFrTbtivBDbJ+O2xJW8aqfMcgQquc8XuC36GHBmBxXBtZVN+GNS7i68xrGPoNfEBlpsFBdYGSHd7nh0YkGe2zrEWsNlbGiFxONoPR1p98nbPK9IZQ2jji/0MkiQMqzCTBRxgCLTOwEkQ==;k1nhBw/RvQI4GsY+v/EafQ=="
 ---
 

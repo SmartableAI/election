@@ -77,6 +77,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump Endorses Marco Rubio, Says He'll Never Let Country Down"
+    excerpt: "Former President Donald Trump has endorsed Senator Marco Rubio (R-FL) in a post on the messaging service Telegram on Friday morning. \"It is my honor to give U.S. Senator Marco Rubio my Complete and Total Endorsement,\" Trump wrote. \"Marco has been a ..."
+    publishedDateTime: 2021-04-09T13:04:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1774461/trump-marco-rubio-other-senators.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Anti-Trump Republican Michael Wood Endorsed for House Seat by Texas' Biggest Newspaper"
     excerpt: "Michael Wood, an anti–Donald Trump Republican who is running in a special election in Texas, was just endorsed by the state's biggest newspaper. The Dallas Morning News Monday recommended Wood to represent the 6th Congressional District. The endorsement ..."
     publishedDateTime: 2021-04-05T16:06:00Z

@@ -31,69 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign and allies refund $122M to WinRed donors: report"
-    excerpt: "The Trump campaign and allies including the Republican National Committee refunded more than $120 million to online donors in 2020."
-    publishedDateTime: 2021-04-04T18:01:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JfAUQ3Q_bUQ/trump-campaign-refund-winred-donors-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp"
+  - title: "Former Trump official Hogan Gidley to launch election integrity nonprofit"
+    excerpt: "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News"
+    publishedDateTime: 2021-04-09T14:20:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neWokFLGmzQ/hogan-gidley-election-integrity-nonprofit"
+    ampWebUrl: "https://www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 189
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288723563703.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Group inspired by Trump's 1776 Commission seeks to combat 'anti-American indoctrination' in education"
+    excerpt: "A new activism group is launching to counter ideas like critical race theory and pursue the type of educational vision outlined by former President Trump at the end of his term."
+    publishedDateTime: 2021-04-08T17:30:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kQrp85dPvI/1776-action-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/1776-action-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1776-action-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/School-Reopening-Massachusetts-In-Person-Learning-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump denies report that Matt Gaetz asked for blanket pardon"
-    excerpt: "Former President Donald Trump on Wednesday denied a report that claimed embattled Rep. Matt Gaetz sought a blanket pardon from his White House — for himself and unidentified congressional"
-    publishedDateTime: 2021-04-07T15:48:00Z
-    webUrl: "https://nypost.com/2021/04/07/donald-trump-denies-matt-gaetz-sought-blanket-pardon/"
-    ampWebUrl: "https://nypost.com/2021/04/07/donald-trump-denies-matt-gaetz-sought-blanket-pardon/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/donald-trump-denies-matt-gaetz-sought-blanket-pardon/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/matt-gaetz-93.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Haaland Explores Restoration of Utah Monuments Trump Downsized"
-    excerpt: "Biden Interior Secretary Deb Haaland to meet with competing interests in trip on Thursday to Bears Ears and Grand Staircase-Escalante."
-    publishedDateTime: 2021-04-08T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
-    ampWebUrl: "https://www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+  - title: "Former Trump HUD Appointee Fined for Hatch Act Violation"
+    excerpt: "A former Trump administration appointee to the U.S. Department of Housing and Urban Development admitted she violated the Hatch Act by using her position to produce a video about conditions in New York City public housing for the Republican National ..."
+    publishedDateTime: 2021-04-06T19:21:00Z
+    webUrl: "https://www.wsj.com/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    ampWebUrl: "https://www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-321900/social"
+      - url: "https://images.wsj.net/im-321171/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump attacks NY Times for report on recurring donors who sought refunds"
-    excerpt: "Former President Donald Trump on Monday ripped into the New York Times for running a story on refunds issued to people who claimed they unwittingly signed up to be recurring donors to his campaign."
-    publishedDateTime: 2021-04-05T19:54:00Z
-    webUrl: "https://nypost.com/2021/04/05/trump-attacks-nytimes-for-report-on-donors-who-sought-refunds/"
-    ampWebUrl: "https://nypost.com/2021/04/05/trump-attacks-nytimes-for-report-on-donors-who-sought-refunds/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/trump-attacks-nytimes-for-report-on-donors-who-sought-refunds/amp/"
+  - title: "Trump Organization Hires Criminal Defense Lawyer"
+    excerpt: "Mr. Vance’s office has said it is investigating possible bank, tax or insurance fraud. Prosecutors have subpoenaed information from former President Donald Trump’s banks, lenders, an insurance broker and other parties, The Wall Street Journal has ..."
+    publishedDateTime: 2021-04-07T23:15:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-322013/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Twitter won’t let National Archives preserve Trump tweets on platform"
+    excerpt: "Twitter will not allow the National Archives and Records Administration to create preserved versions of former President Donald Trump’s tweets accessible on its platform — in the first time ..."
+    publishedDateTime: 2021-04-08T13:49:00Z
+    webUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/"
+    ampWebUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-001.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-tweets-73.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Organization Executive’s Former In-Law Hands Over Documents in Probe"
+    excerpt: "A Trump Organization executive’s former daughter-in-law turned over financial documents Thursday that Manhattan prosecutors had subpoenaed for their investigation into former President Trump and his company."
+    publishedDateTime: 2021-04-09T00:01:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-322013/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "blWxzzXEV0lCAj5i4VqThgI/t0c5bX3MvXqeOSDHkfA57rCHMpEm82UIjOOwCtZas2FiQ9VE8JDTxJnlwUVYqDloE5mSLxv4TCU7T6x2h0I0liRGIaNjeIeNCmZy6mLW609lbrzrpPC2ierk49YRTKYfLCGW9xEV+30pPUVbox7hj2lGR1ztvlq3fcSXRa8QDoSYmDZj8U1MFdYwXUSU+zu0BKIAQGFdVCN2Kbz9yEPkRH5ZBbamBCHfoLh+HuhZ5Py8E7UnNNDP6WIfNWaY0Z6TNCuSwShah8ryF0xGXRN9tjOBkcuNonhAuGF6pbysBMjEJdYv3xF92JNHtadbg49CA5pS91e6SbeT9cWx8bg=;nK9V4fnqLoGLgrnrOO6DnA=="

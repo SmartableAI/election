@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-09-former-trump-official-hogan-gidley-to-launch-election-integrity-nonprofit.md",
+      "title": "Former Trump official Hogan Gidley to launch election integrity nonprofit",
+      "excerpt": "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/neWokFLGmzQ/hogan-gidley-election-integrity-nonprofit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/neWokFLGmzQ/hogan-gidley-election-integrity-nonprofit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp",
+      "publishedDateTime": "2021-04-09T07:20:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-house-gop-wants-biden-admin-to-review-nys-2b-fund-for-illegal-immigrants-put-american-families-first.md",
       "title": "House GOP wants Biden admin to review NY's $2B fund for illegal immigrants: ‘Put American families first’",
       "excerpt": "The top Republicans on two House committees are pressing Biden coronavirus rescue plan czar Eugene Sperling to review the $2 billion fund New York created this week aimed at giving coronavirus relief money to illegal immigrants. ",
@@ -422,62 +478,6 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
-      "publishedDateTime": "2021-04-08T10:30:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-group-inspired-by-trumps-1776-commission-seeks-to-combat-anti-american-indoctrination-in-education.md",
-      "title": "Group inspired by Trump's 1776 Commission seeks to combat 'anti-American indoctrination' in education",
-      "excerpt": "A new activism group is launching to counter ideas like critical race theory and pursue the type of educational vision outlined by former President Trump at the end of his term.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kQrp85dPvI/1776-action-critical-race-theory",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kQrp85dPvI/1776-action-critical-race-theory",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/School-Reopening-Massachusetts-In-Person-Learning-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/1776-action-critical-race-theory.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1776-action-critical-race-theory.amp",
       "publishedDateTime": "2021-04-08T10:30:41-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -968,7 +968,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 659,
+      "heat": 679,
       "tags": null,
       "images": [
         {
@@ -1298,7 +1298,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {

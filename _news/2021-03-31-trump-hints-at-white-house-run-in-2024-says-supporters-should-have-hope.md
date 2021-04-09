@@ -60,38 +60,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Organization Hires Criminal Defense Lawyer"
-    excerpt: "Mr. Vance’s office has said it is investigating possible bank, tax or insurance fraud. Prosecutors have subpoenaed information from former President Donald Trump’s banks, lenders, an insurance broker and other parties, The Wall Street Journal has ..."
-    publishedDateTime: 2021-04-07T23:15:00Z
-    webUrl: "https://www.wsj.com/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-322013/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Twitter won’t let National Archives preserve Trump tweets on platform"
-    excerpt: "Twitter will not allow the National Archives and Records Administration to create preserved versions of former President Donald Trump’s tweets accessible on its platform — in the first time ..."
-    publishedDateTime: 2021-04-08T13:49:00Z
-    webUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/"
-    ampWebUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-tweets-73.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "84/jlXs/PEEH26yTcpsATANd84z6p621q4czTA2FFipwAjKWqLkqiBiREkcZsmVUMR0/m9aLgNH4JV0DHHCTVRHm5W99IO0VsN4dKfehgeAKWNvjWOac4+ww6LgGW3daxIh9t1eQP+A1UBTOf8PH3/2pUFhBcPGuy5ZuVVzlARyby1Z8Pzl4FnCzC56FiTOdz3BJNkHp5j7G6CmpPyV+d62i84PDz67RYR8+G7J4OV0kNLHFRt77tSux3quWzf+7g0Q9Tka1zG8EW5Tybtj4YcDc5a/4r2JEZatxIc6ekGvdEg7hxTICdvMvm225AJJj/tgERX/+Xjh49sHxl0o19m9GpOAaLv6adDPPQRdCaJc=;7Uw5mcSuyYbSQUQWj0dfjg=="
 ---

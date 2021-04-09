@@ -160,9 +160,9 @@ related:
         height: 675
         isCached: true
   - title: "Biden to lay out spending plans after assailing ‘epidemic’ of gun violence – US politics live"
-    excerpt: "President to preview spending priorities for his administration, while coronavirus taskforce to give fresh update – follow all the latest news"
-    publishedDateTime: 2021-04-09T12:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+    excerpt: "All is relatively quiet this morning in Washington. Joe Biden has no public events scheduled for today, but he may take a few questions at the start of his economic briefing around 2.30pm. We’ll hear from Jen Psaki, the White House press secretary ..."
+    publishedDateTime: 2021-04-09T14:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60705dc08f08c3a98ed23a14"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
     type: article
@@ -232,6 +232,20 @@ related:
     quality: 82
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/08/8ce16aee-fe28-4b74-a2f8-5e091f99d5d6/thumbnail/1200x630/eb7537e8543836c4309b4bc04c54c1ee/cbsn-fusion-biden-set-to-unveil-executive-actions-addressing-gun-violence-thumbnail-687952-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
+    excerpt: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\""
+    publishedDateTime: 2021-04-09T14:52:00Z
+    webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 81
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

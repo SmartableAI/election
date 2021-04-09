@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-09-trump-officials-gloated-about-pressuring-the-cdc-to-edit-its-covid-19-reports-yippee.md",
+      "title": "Trump officials gloated about pressuring the CDC to edit its COVID-19 reports: 'Yippee!!!'",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Health officials in former President Donald Trump's administration gloated about their efforts to edit scientific reports on COVID-19 last year to fit Trump's messaging, according to documents obtained by The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4",
+      "originalUrl": "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/607055ff30004b0019b26d65?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp",
+      "publishedDateTime": "2021-04-09T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-milwaukee-asks-to-sanction-trump-over-baseless-election-suit.md",
       "title": "Milwaukee asks to sanction Trump over ‘baseless’ election suit",
       "excerpt": "Donald Trump and his lawyers should pay more than $65,000 in legal fees to Milwaukee County and face additional sanctions for filing a “baseless” lawsuit trying to overturn the result of the presidential election, Wisconsin’s biggest metropolitan ...",
@@ -51,6 +103,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures.md",
+      "title": "GOP race against Cuomo kicks off with Trump allies — Staffers dispute book work was voluntary — New rules aim to reduce school closures",
+      "excerpt": "Not to let a news vacuum go to waste, two staunch allies of former President Donald Trump are kicking off conversations about New York’s 2022 gubernatorial race in earnest. Reactions? Well, a Republican hasn’t won a statewide race in New York since ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/04/09/gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures-492421",
+      "originalUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/04/09/gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures-492421",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -540,7 +649,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 306,
       "tags": null,
       "images": [
         {
@@ -1058,15 +1167,15 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-a-complete-rip-off-campaign-finance-experts-puzzled-and-stunned-by-trump-camps-reported-money-bomb-ploy.md",
-      "title": "'A complete rip-off': Campaign-finance experts puzzled and stunned by Trump camp's reported 'money-bomb' ploy",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Older donors who gave a few hundred dollars to former President Donald Trump's reelection campaign said they were shocked to see thousands drained from their accounts. Refund requests jumped in the final months ...",
+      "path": "_news/2021-04-07-a-complete-ripoff-campaign-finance-experts-puzzled-and-stunned-by-trump-camps-reported-money-bomb-ploy.md",
+      "title": "'A complete ripoff': Campaign finance experts puzzled and stunned by Trump camp's reported 'money bomb' ploy",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Elderly donors who gave a few hundred dollars to former President Donald Donald Trump's reelection campaign were shocked to see thousands drained from their accounts. Refund requests spiked in the final months of ...",
       "sourceUrl": null,
       "webUrl": "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4",
       "originalUrl": "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1170,7 +1279,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1477,111 +1586,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-donald-trump-sends-out-easter-wishes-and-swipes-radical-left-crazies.md",
-      "title": "Donald Trump sends out Easter wishes – and swipes ‘Radical Left CRAZIES’",
-      "excerpt": "Former President Donald Trump said “Happy Easter” in his own way on Sunday — linking his holiday wishes to his claims of election fraud. “ Happy Easter to ALL, including the Radical Left ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/",
-      "originalUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-005.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/amp/",
-      "publishedDateTime": "2021-04-04T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.md",
-      "title": "Mazie Hirono rips Kavanaugh, other Trump Supreme Court picks, as she promotes new memoir",
-      "excerpt": "\"In my view, he’s not a very good lawyer.\" She also criticized Justice Neil Gorsuch, who, like Kavanaugh, was nominated by former President Trump. She accused Gorsuch of making some \"really stupid decisions\" because he’s so \"literal\" about the law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir",
-      "originalUrl": "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/kavanaugh-hirono.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.amp",
-      "publishedDateTime": "2021-04-03T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 641
         isCached: true
+  - title: "UPDATE 1-Biden's first budget marks sharp change from Trump years"
+    excerpt: "WASHINGTON, April 9 (Reuters) - U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion budget ..."
+    publishedDateTime: 2021-04-09T14:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-budget-climate-idUSL1N2M21ES"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M21ES"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M21ES"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557841696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
+        width: 860
+        height: 545
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_04022021getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden budget seeks to flip script on Trump administration’s spending priorities"
+    excerpt: "President Biden’s first budget request to Congress includes $1.5 trillion in federal spending that turbocharges funding for education, health and environmental protections — flipping the script on the very programs the Trump administration long ..."
+    publishedDateTime: 2021-04-09T15:01:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/09/what-is-in-biden-2022-budget/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/09/what-is-in-biden-2022-budget/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/09/what-is-in-biden-2022-budget/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FZ4MASUY5MI6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'"
     excerpt: "Biden says predecessor shouldn’t have access to briefings, which are traditionally offered to presidents even after leaving office"

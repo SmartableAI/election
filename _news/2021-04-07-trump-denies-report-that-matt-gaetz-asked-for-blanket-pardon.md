@@ -44,22 +44,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "National Archives will share Trump tweets censored on Twitter"
-    excerpt: "The National Archives and Records Administration confirmed Wednesday that it is working to make publicly available tweets from former President Trump that Twitter has taken down and pledged not to allow back on its platform."
-    publishedDateTime: 2021-04-07T21:33:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OcSh2ZvfVhE/national-archives-will-share-donald-trump-tweets-censored-on-twitter"
-    ampWebUrl: "https://www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20334644546013-e1606925054815.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Haaland Explores Restoration of Utah Monuments Trump Downsized"
     excerpt: "Biden Interior Secretary Deb Haaland to meet with competing interests in trip on Thursday to Bears Ears and Grand Staircase-Escalante."
     publishedDateTime: 2021-04-08T11:00:00Z

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
+    excerpt: "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ..."
+    publishedDateTime: 2021-04-09T14:55:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 139
+    images:
+      - url: "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "AP Interview: EPA head removes Trump-era science advisers"
     excerpt: "Michael Regan, the new head of the Environmental Protection Agency, is reversing Trump administration actions that sidelined many academic scientists as advisers in favor of industry figures ..."
     publishedDateTime: 2021-03-31T15:03:00Z

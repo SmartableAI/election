@@ -188,6 +188,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Mayorkas 'knows there's a crisis' at border, but has to convince Biden: Troy Nehls"
+    excerpt: "Department of Homeland Security Secretary Alejandro Mayorkas has to convince President Biden that there is a crisis at the southern border, Rep. Troy Nehls, R-Texas, told \"Fox & Friends\" on Friday."
+    publishedDateTime: 2021-04-09T14:24:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ftJfnVDmV8/mayorkas-crisis-border-convince-biden-troy-nehls"
+    ampWebUrl: "https://www.foxnews.com/politics/mayorkas-crisis-border-convince-biden-troy-nehls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-crisis-border-convince-biden-troy-nehls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Arizona AG Brnovich invites VP Harris to tour border as crisis escalates"
     excerpt: "EXCLUSIVE: Arizona Attorney General Mark Brnovich is inviting Vice President Kamala Harris, who has been tasked with tackling the root causes of the migration crisis, to tour the southwest border in the state -- saying it will give the vice president \"firsthand insight\" into what those on the ground"
     publishedDateTime: 2021-04-05T19:30:19Z

@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 573
         isCached: true
+  - title: "Trump's quieter hold on GOP stays strong: The Note"
+    excerpt: "But they share a focal point: former President Donald Trump. The gatherings, organized by the Republican National Committee and two different Trump-friendly outside groups, will take place at and ..."
+    publishedDateTime: 2021-04-09T10:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-gty-er-210408_1617928535428_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump 'money bomb' scheme raised millions from unwitting donors – report"
     excerpt: "Practice that used pre-checked boxes and obscure design on fundraising emails condemned as ‘unethical and inappropriate’ Last modified on Sat 3 Apr 2021 15.45 EDT Donald Trump’s 2020 presidential campaign used pre-checked boxes and obscure design on ..."
     publishedDateTime: 2021-04-03T18:45:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/01/a95746b1-61b8-487b-b467-7cb8ae7444ca/thumbnail/1200x630/d299cf992ee40f5014c04fd6ddf08d9d/img-aic-2021-blythe-masters.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."
+    publishedDateTime: 2021-04-09T11:10:00Z
+    webUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
     excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."

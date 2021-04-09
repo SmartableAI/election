@@ -28,37 +28,69 @@ images:
     isCached: true
 
 related:
-  - title: "Matt Gaetz once sought preemptive pardon from Trump White House: source"
-    excerpt: "Florida Republican Rep. Matt Gaetz, who is facing a federal investigation over allegations of sexual misconduct, asked President Trump's White House for a preemptive pardon at the end of his term, Fox News has confirmed."
-    publishedDateTime: 2021-04-07T12:16:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2En4SAVf2Jk/matt-gaetz-preemptive-pardon-trump-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+  - title: "Former Trump official Hogan Gidley to launch election integrity nonprofit"
+    excerpt: "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News"
+    publishedDateTime: 2021-04-09T14:20:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neWokFLGmzQ/hogan-gidley-election-integrity-nonprofit"
+    ampWebUrl: "https://www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "National Archives will share Trump tweets censored on Twitter"
+    excerpt: "The National Archives and Records Administration confirmed Wednesday that it is working to make publicly available tweets from former President Trump that Twitter has taken down and pledged not to allow back on its platform."
+    publishedDateTime: 2021-04-07T21:33:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OcSh2ZvfVhE/national-archives-will-share-donald-trump-tweets-censored-on-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20334644546013-e1606925054815.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Gaetz, under federal investigation, scheduled to speak at conservative summit at Trump-owned resort"
-    excerpt: "Fox News has learned that embattled Rep. Matt Gaetz will speak at a conference in Florida later this week who’s organizers are strong supporter of former President Trump."
-    publishedDateTime: 2021-04-06T19:02:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ITGohoVTaxA/gaetz-fbi-investigation-conservative-summit-trump-owned-resort"
-    ampWebUrl: "https://www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
+  - title: "Group inspired by Trump's 1776 Commission seeks to combat 'anti-American indoctrination' in education"
+    excerpt: "A new activism group is launching to counter ideas like critical race theory and pursue the type of educational vision outlined by former President Trump at the end of his term."
+    publishedDateTime: 2021-04-08T17:30:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kQrp85dPvI/1776-action-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/1776-action-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1776-action-critical-race-theory.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/School-Reopening-Massachusetts-In-Person-Learning-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Former Trump HUD Appointee Fined for Hatch Act Violation"
+    excerpt: "A former Trump administration appointee to the U.S. Department of Housing and Urban Development admitted she violated the Hatch Act by using her position to produce a video about conditions in New York City public housing for the Republican National ..."
+    publishedDateTime: 2021-04-06T19:21:00Z
+    webUrl: "https://www.wsj.com/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    ampWebUrl: "https://www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-321171/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Organization Hires Criminal Defense Lawyer"
     excerpt: "Mr. Vance’s office has said it is investigating possible bank, tax or insurance fraud. Prosecutors have subpoenaed information from former President Donald Trump’s banks, lenders, an insurance broker and other parties, The Wall Street Journal has ..."
@@ -76,21 +108,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
-    excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"
-    publishedDateTime: 2021-03-31T16:18:00Z
-    webUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/"
-    ampWebUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
+  - title: "Trump Organization Executive’s Former In-Law Hands Over Documents in Probe"
+    excerpt: "A Trump Organization executive’s former daughter-in-law turned over financial documents Thursday that Manhattan prosecutors had subpoenaed for their investigation into former President Trump and his company."
+    publishedDateTime: 2021-04-09T00:01:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 133
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-322013/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "m7l8lh4jQd49oViMjQktkeGrK0BtliSx5dgFtTOgIgK0oIXK4yq5DHSwMFsbugLnlZ+uxXJ6mVJurf21IVElfHP/zhf8V8A3CeN0mMTN7Uhc5tFsiksFTyQymb4OW0+fbtBxrqrSfwLbUXDLrwciJ4Ks33iFKPhlcWlaKZE4GjiJwH5B8KNE9UruQaprLezUA1yKmBvR1keFZcXa5vZKTZ9+zDY0WtqnCBlJfoX1QtoKoaNc+80Gn4v/MgzOE9RgE+gxZVtdAqKuTRnle1Cfp/cUEvWAXGP4oniRUHP24Up53vZxLcyibxgohsKQB6Oo5naDygq+4HTj3GzdlnV8A0pVnECdEK2qc9DtefZgQeoJnLLALGDRf8aracinHQ1vYAv66FDmCEnKEt2Hp3kwAkzSjL8y0SH/LXIsJRyKYkuYrI8JXwoBdXlg8SuSo/cL1X5rOwsTvN+YDFlN0jjLr4Va6fw7nnQsIfkohaaBOG4cgF+YtgTA6kRvqpUC5ov7DjY944sHajwVTaA5An8wIQ==;rZzd/kP0I5bWXSnRUNg8qQ=="

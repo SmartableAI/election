@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden to lay out spending plans after assailing ‘epidemic’ of gun violence – US politics live"
-excerpt: "President to preview spending priorities for his administration, while coronavirus taskforce to give fresh update – follow all the latest news"
-publishedDateTime: 2021-04-09T12:37:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+excerpt: "All is relatively quiet this morning in Washington. Joe Biden has no public events scheduled for today, but he may take a few questions at the start of his economic briefing around 2.30pm. We’ll hear from Jen Psaki, the White House press secretary ..."
+publishedDateTime: 2021-04-09T14:24:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60705dc08f08c3a98ed23a14"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60705dc08f08c3a98ed23a14"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
 type: article
@@ -235,7 +235,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
+    excerpt: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\""
+    publishedDateTime: 2021-04-09T14:52:00Z
+    webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 81
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "bDkw0NZuJ2bKAIyRNra+X6Yti4GYsz/vur6pkmmMeAKipUGVpdqk8WA/UoOYkrNJW9qRY8RB//0io6gD61Nb43J961xQrUwXfmi41X7vaGWw5ixO7bihZ1NMgeuHE5KuxhfYGY9f7iDUduGPac36jT9eAJqrc+pdMcDrWfiH2hxPpW44eYiShlj7IIyWvrYfrF5AN4RDQPv9NnjLYpVaFnvKSNUsh6SZPLSARpeyqzSk/H6KF/wMbT7K9UCbKVkk+jkgsrBrICIhj1bqftQ/8UZLfeqoSkQdyus8fKL6iPAVVoMDu9OOVyrilvzkG+7c46Wm1jFueNOs1QP3Xxuo2pCGsgyFFQz5RR+LfSqu7xw=;a143wdN4ailcVoZsmR4JAw=="
+secured: "Y4nQgkdJl0vrj1k0KSoDBLQv0W6tbsi7yOtDp1TJGi+3aedzff0araPz31MMl6sxsyN8lFu4B2WzwTuxLda/x828p0A6XvK6wZ8wbhZcn2MJpSqKy/au2xVbjM2Na340qJ39awKn9woxdZt89i0KUUuOesO8j2vRSRapx23INl4s4mFONr4hdgLpvTBy5Il7EaY3Ac55eKprKDCq2sojWthkLiFg+/y76plYjQJn8B3WvV8qW9sSQxihCaWD3lwpaFL5WGsHO93UswxzydSfTDZvwsKzLzPFkcYXBVt3krZNTtDH6t7YXs8LoPQWveLC61Kp95pKa4q7UpVfI21n13eS68b/z4WdedCbFuJVlZE=;tFf3FfjVYWAcucvIwFcd3g=="
 ---
 

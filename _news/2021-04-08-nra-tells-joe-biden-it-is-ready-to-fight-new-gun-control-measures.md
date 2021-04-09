@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-158195
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/president-biden-gun-violence-prevention-01-gty-iwb-210408_1617900253327_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Lauren Boebert Rips Joe Biden Over Gun Control Measures: 'Second Amendment is Absolute'"
+    excerpt: "Republican Colorado Representative Lauren Boebert has criticized Democratic President Joe Biden's gun control efforts by stating, \"The Second Amendment is absolute. Anyone who says otherwise is a tyrant.\" Boebert published her tweet just hours after a mass ..."
+    publishedDateTime: 2021-04-09T04:02:00Z
+    webUrl: "https://www.newsweek.com/lauren-boebert-rips-joe-biden-over-gun-control-measures-second-amendment-absolute-1582214"
+    ampWebUrl: "https://www.newsweek.com/lauren-boebert-rips-joe-biden-over-gun-control-measures-second-amendment-absolute-1582214?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-rips-joe-biden-over-gun-control-measures-second-amendment-absolute-1582214?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1774167/lauren-boebert-gun-control-2nd-amendment-biden.jpg"
+        width: 3000
+        height: 2002
         isCached: true
 
 secured: "nnPuuX1x08DlF22PIkM3DMVTtDGmbL/2lr+fQuukHDfIoOh4cMVikri+CPGjI8Y5ivCsM3n3B62SuA8jPyTGg4SokwQmd+e5C+1j9scEUCfZK9BgPvQYiw0mCJf7782Uf4GRAMLg7hC+sOF7cEOKEA2rWDmG+WVLZNQFgK7jyvzmgRSKX2u+cA04rXHzbQkYOBDC03n5UYN4pSeQU8ERgI7m+sSC5xPQxZSd/0tX8faBXlfqLAbjVMPHRKnNnimpUjIlojH0bHg/n7hpbp6217CfL4GAiHzMi7xiORsBDr7zli0f8ps/RxcD6sk7Ioh/ZuMqOvtOFcQlvrb1HzmbXUxm2KlZSedkO2ZCn4xb4FE=;07xQitq3HcD46VlTmk1aZA=="
