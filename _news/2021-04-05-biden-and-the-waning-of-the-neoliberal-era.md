@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden orders gun control actions — but they show his limits"
+    excerpt: "WASHINGTON — President Joe Biden put on a modest White House ceremony Thursday to announce a half-dozen executive actions to combat what he called an “epidemic and an international embarrassment” of gun violence in America. Support our journalism."
+    publishedDateTime: 2021-04-09T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-orders-gun-control-actions--but-they-show-his-limits/2021/04/08/a80b5a5c-98d8-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-orders-gun-control-actions--but-they-show-his-limits/2021/04/08/a80b5a5c-98d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-orders-gun-control-actions--but-they-show-his-limits/2021/04/08/a80b5a5c-98d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "OnPolitics: Biden takes on gun control"
     excerpt: "President Joe Biden called for swift action on gun control legislation in the wake of the mass shootings in Colorado and Georgia in March. Today Biden took it one step farther, unveiling six executive actions on curbing gun violence. It's Mabinty ..."
     publishedDateTime: 2021-04-08T21:44:00Z

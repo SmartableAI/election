@@ -128,7 +128,23 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden targets 'ghost guns' and 'red flag' laws in new gun control measures"
+    excerpt: "WASHINGTON — President Joe Biden is trying to limit \"ghost guns\" and make it easier for people to flag family members who shouldn't be allowed to purchase firearms with a series of executive actions taken Thursday in the wake of recent mass shootings."
+    publishedDateTime: 2021-04-08T17:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-target-ghost-guns-red-flag-laws-new-gun-control-n1263438"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263438"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263438"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463010/210408-joe-biden-se-1040a_293240327619717702ae0fcd649d9d31.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
-secured: "Y1EHYxwmQj95BortlgRTBRm3tayjvEneRbbTjAU9IQxqrRlPXBEfHrUkc+h281yfwnJfHEaNabvKpj/LI+UZEv3lOlP5qbzIh+Cw5Gnh5lSzyuoQS1o5TmF3r4/W0YwvGoI0gfZvUdLYnzkvnyukM5P+3qUkc4KEo+cIV6xTTeDCc6g2E7eAPyWj9EoOPyBYbHiPmXd+EFi07c8AOivdSpbiF7D5792bYkE1JMgXGxLgBrdsCZWlJ0mI/YZR4RAIK5ssLYcNknNEeERuFc3wEC8MEK79PC57Pgt8XgRMCxIGhR15cmrIn+gatGuDLzNO2T+jTrapxeisdDu6LvrQ3RoDFkvEn5ZLcyMSLkwOIu4=;yLEjYEw0c0oorBKg6Z8wUA=="
+secured: "uUiRx2HYNCUADbpGBzWBDxdeLQWgojcMzEur/Pt/G31US5+O2XHwdyUYKfZyxnKxvjW9dawmwyOm8tcyVsV0YgCryeyNUV3dpiwUfRKaWb5354f6pGKAwhPrvjMv6EAr/N8Y7TBRItLOqJUNDpTKt+gbt4x+iVYuykRFtQvBiF/aQ1bPpQyfFgDm0D9AscJybeVb5AMeRDp79GV/iqhOc3VoyV39XRyTkobMS3YTBrM9NQzoU6hjDKIFuH2aASRtgpBCixHWL5NGRFpG+6cuWQKOpg+c81NmhPhNSoFTm78one3MaD4A3Yjpb4eMp8ywlgabrcz7cf4ApVoGtZdYAEIxuqhSgthykxEz/k9iTiht2e7uvvDZlMzDnGr9UJLgHUWMvny3xoEUndUnsJDowbAQSTe8bc8OfWZIepRoyNbq83yTjV3WxJunHqyEKBVbyryllhOUzuvb/516FusyCWqko5/gHtX48O6ancrYjILwJyTXEaJCzzb4QsOKOQoAnHh8oHSIeo0D5JDVn3KRyw==;dRCVoZkff9GbNf3VopVM/g=="
 ---
 

@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "What’s really missing from the anti-Trump GOP effort"
+    excerpt: "Brian Kemp at the Georgia Capitol last month. A number of prominent Georgia Republicans fought back against former president Donald Trump’s baseless claims of massive voter fraud in the 2020 election. But one of them subtly and gradually emerged as ..."
+    publishedDateTime: 2021-04-08T17:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PSNB3TULFII6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump Easter Message 'Very Nice,' Insists Adviser Amid Criticism It Was Angry, Resentful"
     excerpt: "Hogan Gidley, adviser to former President Donald Trump, appeared on Fox News Sunday morning to defend a series of Easter statements from Trump that his critics have accused of being political rants capped off with a friendly holiday salutation. A Friday ..."
     publishedDateTime: 2021-04-04T18:58:00Z

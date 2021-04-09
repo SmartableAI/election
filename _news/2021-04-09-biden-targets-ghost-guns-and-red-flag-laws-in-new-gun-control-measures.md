@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
-excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
-publishedDateTime: 2021-04-08T17:02:34Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+title: "Biden targets 'ghost guns' and 'red flag' laws in new gun control measures"
+excerpt: "WASHINGTON — President Joe Biden is trying to limit \"ghost guns\" and make it easier for people to flag family members who shouldn't be allowed to purchase firearms with a series of executive actions taken Thursday in the wake of recent mass shootings."
+publishedDateTime: 2021-04-08T17:37:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-target-ghost-guns-red-flag-laws-new-gun-control-n1263438"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-target-ghost-guns-red-flag-laws-new-gun-control-n1263438"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263438"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263438"
 type: article
-quality: 168
+quality: 133
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463010/210408-joe-biden-se-1040a_293240327619717702ae0fcd649d9d31.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -60,6 +61,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
+    excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-04-08T17:02:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -127,23 +144,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden targets 'ghost guns' and 'red flag' laws in new gun control measures"
-    excerpt: "WASHINGTON — President Joe Biden is trying to limit \"ghost guns\" and make it easier for people to flag family members who shouldn't be allowed to purchase firearms with a series of executive actions taken Thursday in the wake of recent mass shootings."
-    publishedDateTime: 2021-04-08T17:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-target-ghost-guns-red-flag-laws-new-gun-control-n1263438"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263438"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263438"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463010/210408-joe-biden-se-1040a_293240327619717702ae0fcd649d9d31.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
-secured: "OJFopRpeMbowF6UX6G0Zek8oq1h9/yqIohz77AyIZqhNRtMQKLNpJ6dhZGxS8jrR3iHq7//m+11uXW/6JQjbKQaoGuUdQskI1mDJ8HLtUqHQCmFi5sOIsYdciLuEQB6h5D4rTKABe+JWs6rLYcUDhhjtTTwyXUTpcc9E36INe3RZvldwIVAdPrM3Jar+iwspKy/qbfgmispxaA4i2MQ2nG6kkk7Wo2wpu4U4hRjyWM7vWRPLXIAty6BmjDruxd2Yk7V9bowEpE0oWX3a3VVM8kydAnL8hM/gsYLfxKJjrrXsicQfQsoTxmGM9YEMw68dH8accH5FQXfcFnS0CvBXlgvFtfMGVBrM01xfdlbFLz4=;j6NMZy3K3LBCv5WJFbmdYg=="
+secured: "i20192d+HQG+8Zv9PlOS8xLZk2InEEn3ZTsu1L7gz123omcQ2qPHBtl2FVeZiDLqQbSnmJLhw50LrWkJoHPfqs5NwvIT0mKOSxK+NEF1pik+qySwNUd2Uf11mLLkyGvQDG4nnT/uyOPunmKx//PlKY1HE3UAnkJKjJsarItTQX+B1sE+qirPQobUX8/STuJGFAu8nz0xAl73K/txXKo0KMy+pw+id8ANddFb5MSydQ3HPNCW13UjkgU9SNa86h0PPQdbo8THT4JdBvAs3YHzX8Er96uYeXmyfLP0yb/94byfXacImDrYsi4bvALpgZwEYHZJdksLONPRo5IwYBDRut0eQR8U5yN6C2/+sNHeVBw=;5qHLEhi7tYj/TP5wPARIlw=="
 ---
 

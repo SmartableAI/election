@@ -127,6 +127,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden targets 'ghost guns' and 'red flag' laws in new gun control measures"
+    excerpt: "WASHINGTON — President Joe Biden is trying to limit \"ghost guns\" and make it easier for people to flag family members who shouldn't be allowed to purchase firearms with a series of executive actions taken Thursday in the wake of recent mass shootings."
+    publishedDateTime: 2021-04-08T17:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-target-ghost-guns-red-flag-laws-new-gun-control-n1263438"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263438"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263438"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463010/210408-joe-biden-se-1040a_293240327619717702ae0fcd649d9d31.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "Fv4M5DIczwZ2OaL0m9zWcc6vUdI4Apyserqr7EQlyt/znGlKT2BVub/MAGDwGD0ydS8c5pbX/wqAOq6KGaeXpgkkkBL2ai62Cx1zI5evvQ8ePxvxfwMg/Egi+ct3YcirLwywkmjSLmM7vKSzW6rtQAYUPkN5wypLOUUN1oy+/AqaRRIMg8p0uf+oogY796Uvkue1kPYayuGq+PPog62n4BoesLl9VL2+36TrLp/wF5srA24TZEsZgOurEa3Pt/H9q1SWOjGF1QWcE5cBatNCCiXGKw5gpdUAfHH6Y+oMRprUbD2qaVTPP0pGzh2/bBY2kxpeYcNDSjvyCi/VUJqXoesKPAeommiCoLnr0hVsDeE=;DMLpLXGvCtsl+WOVW04+rA=="
 ---

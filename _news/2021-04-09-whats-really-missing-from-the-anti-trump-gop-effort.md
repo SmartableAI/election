@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Melania Trump Sends 'Easter Blessings To Everyone,' Attends Easter Service With Husband Donald"
-excerpt: "Melania Trump tweeted a message for her followers on Easter Sunday and attended a church service with husband Donald Trump."
-publishedDateTime: 2021-04-05T01:48:00Z
-originalUrl: "https://www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596"
-webUrl: "https://www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596"
+title: "What’s really missing from the anti-Trump GOP effort"
+excerpt: "Brian Kemp at the Georgia Capitol last month. A number of prominent Georgia Republicans fought back against former president Donald Trump’s baseless claims of massive voter fraud in the 2020 election. But one of them subtly and gradually emerged as ..."
+publishedDateTime: 2021-04-08T17:55:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/"
+webUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
 type: article
-quality: 43
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
-    width: 1024
-    height: 682
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PSNB3TULFII6XIZ63IUJIHFZVQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -125,22 +127,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "What’s really missing from the anti-Trump GOP effort"
-    excerpt: "Brian Kemp at the Georgia Capitol last month. A number of prominent Georgia Republicans fought back against former president Donald Trump’s baseless claims of massive voter fraud in the 2020 election. But one of them subtly and gradually emerged as ..."
-    publishedDateTime: 2021-04-08T17:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PSNB3TULFII6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Trump Easter Message 'Very Nice,' Insists Adviser Amid Criticism It Was Angry, Resentful"
     excerpt: "Hogan Gidley, adviser to former President Donald Trump, appeared on Fox News Sunday morning to defend a series of Easter statements from Trump that his critics have accused of being political rants capped off with a friendly holiday salutation. A Friday ..."
     publishedDateTime: 2021-04-04T18:58:00Z
@@ -189,7 +175,21 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Melania Trump Sends 'Easter Blessings To Everyone,' Attends Easter Service With Husband Donald"
+    excerpt: "Melania Trump tweeted a message for her followers on Easter Sunday and attended a church service with husband Donald Trump."
+    publishedDateTime: 2021-04-05T01:48:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-sends-easter-blessings-everyone-attends-easter-service-husband-donald-3174596"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 43
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "S+dcyuel/5hreypQUq5UiMbI+0E/eOjFWcyjRjloO63yucbdVD1NSFLHprz/sQB56Q5004g0br1CWcgbchbKLWOo2RCG6jVLapPYtImuB8M7S4E1DNc8NSqxuEaKu1m+c9Kn+/AsRQxT8ZAv5UYPLDcL88yLzauWBUjvhSocXrH59aQmzaH3rX3w5YyLHx7c9CEyBnSLUKTjJ/EOb9ZBX5ntF+Le5AaaUYcUUJFmEkP1Pn3Ot/0vaqQf6ix6i/jX05GmbefqdY+ODDUW+DrgYKieiH6oE3eFLMAuRCQGrfx7/C0ATZQ+qwKHHCTUc/vFhX+fbrXX/vdWr1rc1CeHQQqJlhRa8KLb3EYPu01uNH8=;JxQzBWhfxfm/oSpYHjmyBw=="
+secured: "p8P2366ADHFUirqRYWj2p1zmTKSscjLrnT6ZpeqAismK07C+C3gADvPJbaUBE/icFfJgcQmBQ9FHKe7ZT/gzJrEtcl24Y0ZoXmBAzg0/70o4ELkjuAhFEZ8mZQhI0oxbVPB0M6Z1zKnyIxvIJDvNBQGyBt44f81OjMQPXbSlmTcHxvCKspo/u3bpfCh8QmZlTdluGMm+jj4EWIYXgqi8ZgIEj201sxQZtDcRxtjDeO9nZb1QNZKHWmLgB1gLBkZUjfdc7SlgNCZZByWvn2WchJA36+ZNQyJ4830D39e9+c4pFsqVBWqfeMF+I2P94HIWVZBuWZa1eYcbdZxhpFfkfx36gAzeoMuPE1B04DqkPcY=;6oXymcb+LUklyF/yoxndsw=="
 ---
 

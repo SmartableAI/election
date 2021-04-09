@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 895
         isCached: true
+  - title: "Biden orders gun control actions — but they show his limits"
+    excerpt: "WASHINGTON — President Joe Biden put on a modest White House ceremony Thursday to announce a half-dozen executive actions to combat what he called an “epidemic and an international embarrassment” of gun violence in America. Support our journalism."
+    publishedDateTime: 2021-04-09T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-orders-gun-control-actions--but-they-show-his-limits/2021/04/08/a80b5a5c-98d8-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-orders-gun-control-actions--but-they-show-his-limits/2021/04/08/a80b5a5c-98d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-orders-gun-control-actions--but-they-show-his-limits/2021/04/08/a80b5a5c-98d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "A warning to Biden: The number of federal government breakdowns has been accelerating, and there are bound to be more on his watch"
     excerpt: "Research by New York University professor Paul Light found an increasing number of government failures in recent years, driven by “decades of neglect.”"
     publishedDateTime: 2021-04-01T10:04:00Z

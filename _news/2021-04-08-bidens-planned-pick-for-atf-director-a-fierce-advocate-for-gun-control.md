@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://static.politico.com/3e/cc/2008787447bc93440acf4ee1626d/4-8-21-david-chipman-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden targets 'ghost guns' and 'red flag' laws in new gun control measures"
+    excerpt: "WASHINGTON — President Joe Biden is trying to limit \"ghost guns\" and make it easier for people to flag family members who shouldn't be allowed to purchase firearms with a series of executive actions taken Thursday in the wake of recent mass shootings."
+    publishedDateTime: 2021-04-08T17:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-target-ghost-guns-red-flag-laws-new-gun-control-n1263438"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263438"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263438"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463010/210408-joe-biden-se-1040a_293240327619717702ae0fcd649d9d31.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "NTxUa6T14KTl3XYJtzvcp3GKeUZtX70arRi+MU584IggvLtMmdFHGsjNn7ZBmprYFENkuS+apFtbYoAojywvD2UMphgkJvWNTJhuUb3ONOzEYAtYNqnXhE8FBIDBUxDU9ocCrVKuiOM0M8lfl6CCcAljneVKEABd4WUaOZrGc+Syf/qfknIZ1yqSK99WNOX/ZqdhSu+S/mJq7UQRbcCddCjB+6OxZZBAbsxe8pAYvJF+V682E1THhBwaDr+II+GwGKl30U25NiIa3Q5BvGMd1Xi9Hyb7o3EnGXA/niGevEohiHB7j2C55v2k32M7OGJS/8jBDgBBxrcSk1ESaoSDEMvnIJDY9gYA5NYFfsV+J1E=;nmFV7KmF/It+dUT2PsL7sg=="
