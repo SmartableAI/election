@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden's speech announcing new executive actions on gun control "
+    excerpt: "In the wake of another series of mass shootings around the US, President Joe Biden announced several gun-control focused executive actions on Thursday.\n    \n"
+    publishedDateTime: 2021-04-09T17:57:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IyCO16kLo1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-gun-control-executive-actions-speech-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-gun-control-executive-actions-speech-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408122600-joe-biden-april-8-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Biden administration officials falsely describe infrastructure jobs estimate "
     excerpt: "Top officials in President Joe Biden's administration have made a series of television and radio appearances to promote the infrastructure proposal Biden unveiled last week, a roughly $2 trillion package the White House has named the American Jobs Plan.\n    \n"
     publishedDateTime: 2021-04-05T21:28:31Z
@@ -157,6 +173,22 @@ related:
     quality: 135
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331165045-02-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Biden's speech announcing new executive actions on gun control"
+    excerpt: "(CNN)In the wake of another series of mass shootings around the US, President Joe Biden announced several gun-control focused executive actions on Thursday. The actions include expanding background checks for certain types of guns, regulating stabilizing ..."
+    publishedDateTime: 2021-04-09T17:56:00Z
+    webUrl: "https://www.cnn.com/2021/04/09/politics/biden-gun-control-executive-actions-speech-fact-check/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-gun-control-executive-actions-speech-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-gun-control-executive-actions-speech-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 132
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408122600-joe-biden-april-8-2021-02-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

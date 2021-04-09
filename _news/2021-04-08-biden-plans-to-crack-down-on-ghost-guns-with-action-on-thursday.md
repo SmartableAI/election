@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 type: article
 quality: 125
-heat: 405
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,223 +31,538 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden to announce executive actions to address gun violence – live"
-    excerpt: "President to hold event at Rose Garden to formally announce actions in wake of mass shootings in Atlanta and Boulder"
-    publishedDateTime: 2021-04-08T13:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+  - title: "Biden's first budget fuels health, education spending in sharp change from Trump"
+    excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence and to support education in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion ..."
+    publishedDateTime: 2021-04-09T16:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idINKBN2BW190"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BW190"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BW190"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557880138&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
+        width: 860
+        height: 545
+        isCached: true
+  - title: "Biden affirms support for Ukraine in first call to leader"
+    excerpt: "President Joe Biden has underscored U.S. support for Ukraine in his first call to that country's leader President Joe Biden underscored U.S. support for Ukraine on Friday in his first call to that ..."
+    publishedDateTime: 2021-04-02T16:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/59e506e6d0a5bf4497576b19abf029f423a3dd89/0_23_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=132cc26e355e168c0db7a1767d86f425"
-        width: 600
-        height: 360
+      - url: "https://s.abcnews.com/images/Politics/WireAP_407719467cc74e3dac8c0f95498cfa84_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden acts on gun control after pressure from impatient activists"
-    excerpt: "Biden on Thursday issued a series of executive actions aimed at curbing firearm violence, and he nominated a gun-control activist to head ATF."
-    publishedDateTime: 2021-04-08T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-gun-control-actions/2021/04/08/6a4cb1d0-9869-11eb-a6d0-13d207aadb78_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gun-control-actions/2021/04/08/6a4cb1d0-9869-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gun-control-actions/2021/04/08/6a4cb1d0-9869-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
+  - title: "How Joe Biden tamed the left — at least for now"
+    excerpt: "President Biden gives remarks in the State Dining Room of the White House on Friday. (Demetrius Freeman/The Washington Post) Joe Biden launched the early months of his presidency with a one-two combination that’s gone a long way toward taming the party ..."
+    publishedDateTime: 2021-04-04T05:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KOB3HEEYSYI6XDYKGOCM6T5TTE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4R774HUT2UI6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "West Virginia attorney general threatens to sue Biden over gun measures"
-    excerpt: "on Thursday threatened to sue the Biden administration over President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of ..."
-    publishedDateTime: 2021-04-08T17:54:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+  - title: "Lawmakers say fixing border crisis is Biden's job"
+    excerpt: "Lawmakers on Capitol Hill say Congress has little role to play in fixing the border crisis, arguing the responsibility falls largely on President Biden Joe Biden Jobs report adds to Biden momentum ..."
+    publishedDateTime: 2021-04-04T11:01:00Z
+    webUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job"
+    ampWebUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
-        width: 827
+      - url: "https://thehill.com/sites/default/files/testerjon_021221gn_lead.jpg"
+        width: 980
         height: 551
         isCached: true
-  - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
-    excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
-    publishedDateTime: 2021-04-08T00:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+  - title: "Hunter Biden defends taking position on Burisma board"
+    excerpt: "And I don't ... ever want to again to hand a weapon to people that would use it in a illegitimate way that they used the weapon of me against my dad.\" Tags Ukraine Donald Trump Joe Biden Burisma"
+    publishedDateTime: 2021-04-05T15:38:00Z
+    webUrl: "https://thehill.com/homenews/administration/546464-hunter-biden-defends-taking-position-on-burisma-board"
+    ampWebUrl: "https://thehill.com/homenews/administration/546464-hunter-biden-defends-taking-position-on-burisma-board?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546464-hunter-biden-defends-taking-position-on-burisma-board?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/8cb0f1df4d97cb291848bdcec97186e30d5ec37d/0_74_3938_2364/master/3938.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=359d318f8616008e4268fcc2c6acc0f1"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden's actions on guns, Chauvin trial, The Masters: 5 things to know Thursday"
-    excerpt: "President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act upon the president's long-held campaign promise to tackle gun control."
-    publishedDateTime: 2021-04-08T07:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/04/08/joe-bidens-actions-guns-masters-5-things-know-thursday/7062967002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7062967002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7062967002"
+  - title: "Joe Biden's Approval Rating Weighed Down by Border Crisis, Gun Policy"
+    excerpt: "A majority of Americans disapprove of President Joe Biden's immigration policies and handling of the U.S.-Mexico border crisis, and people think reuniting the migrant children and parents separated at the border should be the federal government's highest ..."
+    publishedDateTime: 2021-04-05T16:00:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-immigration-border-guns-poll-1581048"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-immigration-border-guns-poll-1581048?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-immigration-border-guns-poll-1581048?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/e9796f93c669f544119eb2a950a7bd1ee4d5f6ef/c=14-0-2787-1560/local/-/media/2021/04/03/USATODAY/usatsports/MotleyFool-TMOT-837fccfc-biden-2800x1560.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://d.newsweek.com/en/full/1771621/joe-biden.jpg"
+        width: 3589
+        height: 2393
+        isCached: true
+  - title: "Biden says he has not spoken with Fed Chair Powell"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that he has not spoken to Federal Reserve Chair Jerome Powell, calling the central bank an independent agency."
+    publishedDateTime: 2021-04-06T19:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-federal-reserve-idUSKBN2BT2SK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2SK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2SK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351DY"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden set to announce executive action on guns"
+    excerpt: "White House urges Senate to pass gun laws 14:32 President Biden is poised to announce steps he plans to take using his executive authority to curb gun violence, addressing an issue he once vowed to tackle on his first day in office. Full details of the ..."
+    publishedDateTime: 2021-04-07T20:34:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-gun-control-executive-action-ghost-guns/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-gun-control-executive-action-ghost-guns/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-gun-control-executive-action-ghost-guns/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/07/d5af2013-f3b8-4f91-9fcc-172ebb4a41fe/thumbnail/1200x630g2/59a245ad7c0d9ea22f85cd542b3d6ede/gettyimages-1311330343.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
-    excerpt: "He called shootings in the U.S. an \"international embarrassment.\" Biden takes aim at gun control President Joe Biden announced limited steps, using his executive power, to address gun violence ..."
-    publishedDateTime: 2021-04-08T20:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
+  - title: "Biden to take a flurry of actions on gun control"
+    excerpt: "Biden plans to announce his new directives at a White House ... much less the support of 60 senators needed to pass most legislation in the Senate. Sen. Joe Manchin III (D-W.Va.) has signaled opposition to the House-passed gun measures, preferring instead ..."
+    publishedDateTime: 2021-04-07T20:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-nominate-official-from-gun-control-group-to-head-atf/2021/04/07/1f0ef6d4-97d2-11eb-962b-78c1d8228819_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-nominate-official-from-gun-control-group-to-head-atf/2021/04/07/1f0ef6d4-97d2-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-nominate-official-from-gun-control-group-to-head-atf/2021/04/07/1f0ef6d4-97d2-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MR2FZBUX44I6XJWQCPJAPKW3PA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden to unveil actions on guns, including new ATF boss"
+    excerpt: "President Joe Biden will unveil a series of executive actions aimed at addressing gun violence on Thursday, according to a person familiar with the plans, delivering his first major action on gun cont"
+    publishedDateTime: 2021-04-07T21:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-announce-executive-actions-combat-gun-violence-76930708"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-announce-executive-actions-combat-gun-violence-76930708"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-announce-executive-actions-combat-gun-violence-76930708"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5791376eaca24c4f8376315a08d99172_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "U.S. Senate readying legislation on semiconductors, Biden says"
+    excerpt: "WASHINGTON (Reuters) -U.S. Senate leaders are preparing to introduce legislation on semiconductors, President Joe Biden said on Wednesday as the nation wrestles with an ongoing shortage of the critical technology used in a range of devices from cars to ..."
+    publishedDateTime: 2021-04-07T20:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-chips-shortage-congress-idUSKBN2BU32M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU32M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU32M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557642265&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361P3"
+        width: 795
+        height: 545
+        isCached: true
+  - title: "Biden action on guns draws praise, skepticism"
+    excerpt: "President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of infrastructure debate Omar slams Biden admin for continuing ..."
+    publishedDateTime: 2021-04-08T20:55:00Z
+    webUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
+    ampWebUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040821getty_guns.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden budget seeks more for schools, health care and housing"
+    excerpt: "President Joe Biden is releasing a $1.5 trillion wish list for the federal budget WASHINGTON -- President Joe Biden released a $1.5 trillion wish list for the federal budget on Friday, asking for ..."
+    publishedDateTime: 2021-04-09T16:16:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
     type: article
     provider:
       name: ABCNews
       domain: abcnews.go.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/president-biden-gun-violence-prevention-01-gty-iwb-210408_1617900253327_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/WireAP_5790d3727f5f41abb783420774691c3e_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to unveil 6 executive orders to curb gun violence, nominate a permanent ATF director"
-    excerpt: "WASHINGTON – President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act the president's long-held campaign ..."
-    publishedDateTime: 2021-04-08T00:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/07/president-joe-biden-to-unveil-executive-actions-curb-gun-violence/7130332002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7130332002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7130332002"
+  - title: "Biden budget would beef up IRS tax enforcement: Yellen"
+    excerpt: "WASHINGTON (Reuters) - U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ..."
+    publishedDateTime: 2021-04-09T14:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-treasury-budget-idUSKBN2BW25C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW25C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW25C"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/f6e10fde-8cda-49db-82fd-de250bcd4016-GTY_1311330343.jpg?auto=webp&crop=8059,4533,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557886866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH38128"
+        width: 817
+        height: 545
         isCached: true
-  - title: "What are ghost guns?: Biden executive action targets 'dangerous' and 'untraceable' firearms"
-    excerpt: "As President Joe Biden is set to announce Thursday a host of executive actions aimed at slowing gun violence in the wake of several recent mass shootings in the U.S., renewed focus is on so-called \"ghost guns.\" Among the actions Biden will announce is ..."
-    publishedDateTime: 2021-04-08T14:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/04/08/what-ghost-guns-joe-biden-executive-order-targets-guns/7137233002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7137233002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7137233002"
+  - title: "Biden orders gun control actions — but they show his limits"
+    excerpt: "WASHINGTON — President Joe Biden put on a modest White House ceremony Thursday to announce a half-dozen executive actions to combat what he called an “epidemic and an international embarrassment” of gun violence in America. Support our journalism."
+    publishedDateTime: 2021-04-09T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-orders-gun-control-actions--but-they-show-his-limits/2021/04/08/a80b5a5c-98d8-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-orders-gun-control-actions--but-they-show-his-limits/2021/04/08/a80b5a5c-98d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-orders-gun-control-actions--but-they-show-his-limits/2021/04/08/a80b5a5c-98d8-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/c2c4b7d7-e2d5-4428-862a-76ed58027963-AP_3D_Guns.JPG?auto=webp&crop=1022,575,x1,y2&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Biden to lay out spending plans after assailing ‘epidemic’ of gun violence – US politics live"
-    excerpt: "All is relatively quiet this morning in Washington. Joe Biden has no public events scheduled for today, but he may take a few questions at the start of his economic briefing around 2.30pm. We’ll hear from Jen Psaki, the White House press secretary ..."
-    publishedDateTime: 2021-04-09T14:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60705dc08f08c3a98ed23a14"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+  - title: "Biden requests large boost in domestic spending"
+    excerpt: "President Biden, saying the U.S. for years has “significantly underinvested in core public services,” will ask Congress for a 16% boost in spending on a range of domestic programs, the White House announced Friday. The first installment of Biden’s ..."
+    publishedDateTime: 2021-04-09T15:18:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending?_amp=true"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 114
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f"
-        width: 600
-        height: 400
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/831aabd/2147483647/strip/true/crop/3000x1959+0+182/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F11%2F6a277690459db334a823fac08cbd%2Fvirus-outbreak-california-vaccine-19539.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Biden says gun violence in the US is an 'international embarrassment' as he announces new executive actions"
-    excerpt: "The letter F. An envelope. It indicates the ability to send an email. President Joe Biden on Thursday announced his first executive actions amid renewed pressure to address gun violence in the US following a slew of mass shootings. \"We're taking steps to ..."
-    publishedDateTime: 2021-04-08T16:37:00Z
-    webUrl: "https://www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4?amp"
+  - title: "First White House budget proposal to preview Biden's goals"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden will release his first budget proposal to Congress on Friday, offering a long-awaited glimpse into a policy agenda that will mark a sharp departure from his predecessor, Donald Trump. Nearly three months into a ..."
+    publishedDateTime: 2021-04-09T10:24:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2BU2VH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW190"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW190"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/606c5884a7d803001963eead?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557841696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
+        width: 860
+        height: 545
         isCached: true
-  - title: "Biden unveiled 6 executive actions to curb gun violence, including model 'red flag' laws and action on 'ghost guns'"
-    excerpt: "The actions, which do not require approval from Congress, come in the wake of recent mass shootings and homicide spikes in US cities."
-    publishedDateTime: 2021-04-08T16:27:00Z
-    webUrl: "https://www.businessinsider.com/biden-unveiled-6-executive-actions-to-curb-gun-violence-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-unveiled-6-executive-actions-to-curb-gun-violence-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-unveiled-6-executive-actions-to-curb-gun-violence-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/606e8b2930004b0019b26910?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\""
-    excerpt: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\" President Joe Biden announced executive action on guns today at the White House, calling gun violence in America is an \"epidemic.\""
-    publishedDateTime: 2021-04-08T19:29:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-gun-reform-executive-action-parkland-tony-montalto/"
+  - title: "Twitter says it will not archive tweets from Trump's suspended account"
+    excerpt: "Tweets from the permanently suspended account of former President Trump will not be preserved on the platform, Twitter confirmed in a statement to CBS News. But the social media company said it is working with the National Archives and Records ..."
+    publishedDateTime: 2021-04-09T00:14:00Z
+    webUrl: "https://www.cbsnews.com/news/donald-trump-twitter-will-not-archive/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 90
+    quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/22/f2d7fecb-446f-4d77-9cf4-986701e8dcb0/thumbnail/1200x630/e7bf93be5f5d9a38d338cc97d73dc0ec/gettyimages-1230498242.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border"
-    excerpt: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border President Joe Biden is set to unveil a list of executive actions tackling gun violence following a series of deadly mass shootings across ..."
-    publishedDateTime: 2021-04-08T14:49:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-set-to-unveil-executive-actions-addressing-gun-violence/"
+  - title: "Biden assigns study on delicate issue of Supreme Court"
+    excerpt: "WASHINGTON — President Joe Biden on Friday ordered a study of adding seats to the Supreme Court, creating a bipartisan commission that will spend the next six months examining the politically incendiary issues of expanding the court and instituting term ..."
+    publishedDateTime: 2021-04-09T17:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-assigns-study-on-delicate-issue-of-supreme-court/2021/04/09/b8546e60-9957-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-assigns-study-on-delicate-issue-of-supreme-court/2021/04/09/b8546e60-9957-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-assigns-study-on-delicate-issue-of-supreme-court/2021/04/09/b8546e60-9957-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden budget seeks more for schools, health care and housing"
+    excerpt: "President Joe Biden has released a $1.5 trillion wish list for inclusion in the federal budget Sen. Ben Cardin: Biden ‘right to be bold’ on infrastructure plan WASHINGTON -- President Joe ..."
+    publishedDateTime: 2021-04-09T18:42:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_5790d3727f5f41abb783420774691c3e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden orders gun control actions — but they show his limits"
+    excerpt: "President Joe Biden is ordering a half-dozen executive actions aimed at addressing what he calls an “epidemic and an international embarrassment” of gun violence in America WASHINGTON ..."
+    publishedDateTime: 2021-04-09T18:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/correction-biden-guns-story-76979533"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/correction-biden-guns-story-76979533"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/correction-biden-guns-story-76979533"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9f55b5d883f54c41bdf576184d88f74c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden wants money to probe white supremacist beliefs at immigration agencies"
+    excerpt: "WASHINGTON (Reuters) -President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
+    publishedDateTime: 2021-04-09T15:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration-idINKBN2BW21J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BW21J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BW21J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557897992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3810R"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Rep. Ilhan Omar slams Biden's 'shameful' plan to restart construction on Trump's 'xenophobic and racist' wall"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Rep. Ilhan Omar has criticized President Joe Biden for continuing the construction of Donald Trump's \"xenophobic and racist\" southern border wall. \"It's shameful and unacceptable for @POTUS to continue the ..."
+    publishedDateTime: 2021-04-08T11:00:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/606ee08430004b0019b2694b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Why green initiatives count as infrastructure, from Biden's top climate officials"
+    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. The first $2 trillion of President Joe Biden's up to $4 trillion infrastructure package includes not only funding for roads and bridges, but also for climate ..."
+    publishedDateTime: 2021-04-02T15:27:00Z
+    webUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden's Plan Has People Sharing the Craziest Things They'd Consider Infrastructure"
+    excerpt: "President Joe Biden's $2 trillion infrastructure plan and its earmarks are raising some eyebrows, and a central question: What is infrastructure? The landmark proposal goes beyond standard definitions of infrastructure, a term traditionally understood as ..."
+    publishedDateTime: 2021-04-07T20:14:00Z
+    webUrl: "https://www.newsweek.com/bidens-plan-has-people-sharing-craziest-things-theyd-consider-infrastructure-1581774"
+    ampWebUrl: "https://www.newsweek.com/bidens-plan-has-people-sharing-craziest-things-theyd-consider-infrastructure-1581774?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-plan-has-people-sharing-craziest-things-theyd-consider-infrastructure-1581774?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1772641/virginia-bridge.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden calls for funding to probe white supremacist beliefs at U.S. immigration agencies"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
+    publishedDateTime: 2021-04-09T14:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration-idUSKBN2BW21J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557870266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3810R"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden says over 80% of teachers, school staff received at least one shot by end of March"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that more than 80% of teachers and school staff had received at least one vaccination shot but that variants of the coronavirus are spreading and generating a rise in cases. “We aren’t at ..."
+    publishedDateTime: 2021-04-06T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-variants-idUSKBN2BT2T4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2T4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2T4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351E7"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden budget provides funding for DOJ to address 'national reckoning on racial inequality'"
+    excerpt: "President Biden’s first budget includes significant investments in policing reforms and civil rights, calling on the Department of Justice (DOJ) to spearhead efforts to address systemic racism along w"
+    publishedDateTime: 2021-04-09T16:07:00Z
+    webUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter"
+    ampWebUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 115
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_garlandemotionalhearing_022221getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Joe Biden Suffers School Reopening Setback as Survey Shows Fewer Students Attending Full Time"
+    excerpt: "President Joe Biden has been dealt a setback with his goal to reopen more schools for in-person learning, as new data shows that a majority of students are still not returning to the classroom full time even when given the chance. According to a new survey ..."
+    publishedDateTime: 2021-04-07T21:16:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1772802/person-learning.jpg"
+        width: 2500
+        height: 1649
+        isCached: true
+  - title: "Biden administration reveals first 2022 budget request: $1.5 trillion in discretionary funding"
+    excerpt: "The Biden administration on Friday sent Congress its first budget request for the 2022 fiscal year, outlining a set of priorities including funding for medical research, education, housing, civil rights, combating gun violence, tackling climate change and ..."
+    publishedDateTime: 2021-04-09T15:10:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-budget-request-discretionary-funding/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-budget-request-discretionary-funding/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-budget-request-discretionary-funding/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 82
+    quality: 113
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/08/8ce16aee-fe28-4b74-a2f8-5e091f99d5d6/thumbnail/1200x630/eb7537e8543836c4309b4bc04c54c1ee/cbsn-fusion-biden-set-to-unveil-executive-actions-addressing-gun-violence-thumbnail-687952-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
-    excerpt: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\""
-    publishedDateTime: 2021-04-09T14:52:00Z
-    webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence/"
+  - title: "IMF officials endorse Biden's corporate tax hike, global minimum plan"
+    excerpt: "WASHINGTON (Reuters) - International Monetary Fund officials on Wednesday endorsed U.S. President Joe Biden’s plan to raise corporate income taxes and negotiate a global minimum tax, adding that companies and wealthy individuals that have prospered ..."
+    publishedDateTime: 2021-04-07T12:31:00Z
+    webUrl: "https://www.reuters.com/article/us-imf-worldbank-tax-idUSKBN2BU1YW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU1YW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU1YW"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 81
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Gun control, gun rights reaction on Biden plan"
+    excerpt: "President Joe Biden has announced a half-dozen executive actions aimed at addressing a proliferation of gun violence across the U.S. Among the proposed reforms is a tightening of regulations related to homemade firearms known as \"ghost guns\". (April 8)"
+    publishedDateTime: 2021-04-08T22:27:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/08/gun-control-gun-rights-reaction-biden-plan/7148680002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/027f4f67-6264-49fe-935b-cdde8f50cbb2_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
+    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
+    publishedDateTime: 2021-04-07T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 96
+    images:
+      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "U.S. President Joe Biden Arrives From Camp David"
+    excerpt: "President Joe Biden and First Lady Jill Biden arrive by Marine One to the White Hous in Washington, DC, on Monday, April 5, 2021. The traditional Easter Egg Roll at the White House with thousands of visitors was not held due to the coronavirus COVID-19 ..."
+    publishedDateTime: 2021-04-05T19:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bbedb695639b7289aaa20878b9869807/US-President-Joe-Biden-Arrives-From-Camp-David/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/bbedb695639b7289aaa20878b9869807/USA-BIDEN-EASTER.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "iMDzRjodSpF7hBIm5OkLRhZWlCqYdhp8ZXWzF1OPrulQBoebF1Jp1OIP3+PtBlEtEy0aGMRTr0WprZXA8uGgo69pOU0RA8Wq4OWKUoQWdKF39+PCnQakcr1CBfNsb8TDX2QnUQqmxc19KT+g215snCpwydnFcAjc2Lzj4SI032uSy+eV4U+Fs7GZeM31ehVzQ1yizQ61mcruOy7jaE2wsPAChOvb5Lfp+fBJm5I9MIOOSrO1So/5CX/LI/XuyokqOfBnXgut+Ug3a+/JRKYkEGUscknbzN7pIKtxxvxJNLZK8N0yyPaY7FUAw8r8BeZ9Bwm4sIMHkENsFZTPfBQI1yyk2cpQZ/L6bKNtrYcm5VcbcNnaoxD7Jwpsc5xfjzdrfH8Dt5IyUurW2iaTQw8KBd5iLA19hccRtgqc+CbF43VqQHcRSmQjypigIJ3O0dB4qlpDeltKTAo7onWHrVKweTrrZi6J59xdnLyCh4CCEdfoSxDQYwX/lJfNM45o9WvR+/+CLQd6QtoexfcG9AIsrA==;Ro2SAI8uiQhP95YxdM6NYA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amt
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden tightens some gun controls, says much more needed"
+    excerpt: "In President Joe Biden’s first notable gun control measures, he has announced executive actions aimed at addressing what the White House calls a “gun violence public health epidemic"
+    publishedDateTime: 2021-04-08T19:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-to-unveil-actions-on-guns-including-new-atf-boss/2021/04/07/fdff9972-97fd-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-to-unveil-actions-on-guns-including-new-atf-boss/2021/04/07/fdff9972-97fd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-to-unveil-actions-on-guns-including-new-atf-boss/2021/04/07/fdff9972-97fd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden to meet with U.S. lawmakers Monday on infrastructure plan"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden plans to meet with a bipartisan group of U.S. House and Senate lawmakers Monday on his proposed $2.3 trillion infrastructure and jobs plan, sources briefed on the matter confirmed Friday. Senator Deb Fischer ..."
     publishedDateTime: 2021-04-09T14:35:00Z

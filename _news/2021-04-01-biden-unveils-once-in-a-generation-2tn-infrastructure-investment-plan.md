@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden's Approval Rating Weighed Down by Border Crisis, Gun Policy"
-    excerpt: "A majority of Americans disapprove of President Joe Biden's immigration policies and handling of the U.S.-Mexico border crisis, and people think reuniting the migrant children and parents separated at the border should be the federal government's highest ..."
-    publishedDateTime: 2021-04-05T16:00:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-immigration-border-guns-poll-1581048"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-immigration-border-guns-poll-1581048?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-immigration-border-guns-poll-1581048?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1771621/joe-biden.jpg"
-        width: 3589
-        height: 2393
-        isCached: true
   - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
     excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
     publishedDateTime: 2021-03-30T14:20:00Z

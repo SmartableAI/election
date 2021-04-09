@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration will not shut down Dakota Access Pipeline during environmental review, DOJ lawyer tells court"
+    excerpt: "The Biden administration will not shut down the controversial Dakota Access Pipeline while an environmental review is conducted, a blow to the environmental and tribal groups that have rallied against the project for years.\n    \n"
+    publishedDateTime: 2021-04-09T19:19:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_l4BLxl1XdU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/dakota-access-pipeline-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/dakota-access-pipeline-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170208112827-dakota-access-pipeline-protesters-remain-jpm-orig-00000000-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congressional Democrats call on Biden administration to demand Saudi Arabia lift blockade on Yemen"
     excerpt: "(CNN)A group of more than 70 congressional Democrats has sent President Joe Biden a letter pushing the White House to encourage Saudi Arabia to end a blockade of Yemen that has led to food and fuel shortages in the country that have hampered the delivery ..."
     publishedDateTime: 2021-04-07T13:34:00Z

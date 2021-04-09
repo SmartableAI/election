@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -154,6 +154,22 @@ related:
       - url: "https://assets.realclear.com/images/53/533649_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "The Filibuster and Gun Control: Can Biden Move the Senate, or Will Joe Manchin Move the President?"
+    excerpt: "RCP co-founder Tom Bevan and Washington bureau chief Carl Cannon discuss today's takeaway from the world of politics."
+    publishedDateTime: 2021-04-08T22:47:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/08/the_filibuster_and_gun_control_can_biden_move_the_senate_or_will_joe_manchin_move_the_president.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/04/08/the_filibuster_and_gun_control_can_biden_move_the_senate_or_will_joe_manchin_move_the_president.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/04/08/the_filibuster_and_gun_control_can_biden_move_the_senate_or_will_joe_manchin_move_the_president.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 71
+    images:
+      - url: "https://assets.realclear.com/images/54/540040.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "1rDr+YBw+J2+aSSeMoSz9mmhmNUYEgBaoaJgHxgV6feL1zhGPJ2LnOf4muhQnZsTD6nXGLPzZCRhHAEpm3bSeg3RJLfgpBPHxXhcsj1aI/bmxiB/ENjHFNSs/PIms7EnFNgs/6TaE2kVXTHVAnFuqrU/eJDutl+ykfF2AsJdwHXkbfSWhFGeHCThU6xAdlOblavgZUEGNraxgiBN8wInj33wj0Vrx0DSXD3cIokGQU29fhbKMfCxnnpPpLAuuq090brMdYPk767KC0n+mgc49LTTo1Em/E5SchlHVZlyHgDGZgu2WMwVdoE8SQH6Yxv+tfQj0k+LCrtblMwA3Dvi+B4KcrhmDA8xuV9gIt1jMQc=;JwsANSqCRvbNuGrY7xGgBw=="

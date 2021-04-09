@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
 type: article
 quality: 126
-heat: 306
+heat: 286
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1771634/michael-wood-texas-congressional-candidate.jpg"
         width: 309
         height: 292
-        isCached: true
-  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
-    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
-    publishedDateTime: 2021-04-07T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 96
-    images:
-      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump-loving Alabama county faces uphill vaccination effort"
     excerpt: "Tending a thrift store that displays a faded Trump flag in a nearly all-white Alabama county with a long history of going against the grain, Dwight Owensby is among the area's many skeptics of the COVID-19 vaccine."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-mourns-death-of-prince-philip
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mourns-death-of-prince-philip.amp"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Trump says Prince Philip's death is 'irreplaceable loss for Great Britain'"
+    excerpt: "Former President Donald Trump remembered the late Prince Philip on Friday as \"a man who embodied the noble soul and proud spirit\" of the United Kingdom."
+    publishedDateTime: 2021-04-09T18:33:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B066RT089tM/trump-prince-philip-irreplaceable-loss-great-britain"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/queenphilip.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "T2LzTt5n2Q8mWoH9q9bQ3n5lXif7EDIBMejJZ2nUDVPdZ+URd32Q/2aNtb8DnlN83yIjlqovt4q0XBV7uMvrx2pL15na2r9T9GdgdC0Sl+5toK9zgwSERB13ig0HSOfRGu/DfBjFQP9S8gKa57Ewm0oDW1WHmjiJZ0TGJRoGKHAeQ25SulMMt3IGPRTLHvIE0miP6+elEsOimWr7/2I0PcqnXRqFkgQAzq3nwqaypCc//yKEp7KmIb+3vFcWq+2r6Vi1CfRC0ctUA4y2Bl5mTnWbP/i086A+8BWslbnkEw2Tj/WTAdEIkIRaewDeN/IjfPbZwBothTHVhaWLs1U8lgJyNfvrosjcQsDZN36aNSM=;jDZRcfuzwk2Wks39zDsKXA=="
 ---

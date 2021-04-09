@@ -47,37 +47,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden says over 80% of teachers, school staff received at least one shot by end of March"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that more than 80% of teachers and school staff had received at least one vaccination shot but that variants of the coronavirus are spreading and generating a rise in cases. “We aren’t at ..."
-    publishedDateTime: 2021-04-06T19:54:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-variants-idUSKBN2BT2T4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2T4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2T4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351E7"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Joe Biden Suffers School Reopening Setback as Survey Shows Fewer Students Attending Full Time"
-    excerpt: "President Joe Biden has been dealt a setback with his goal to reopen more schools for in-person learning, as new data shows that a majority of students are still not returning to the classroom full time even when given the chance. According to a new survey ..."
-    publishedDateTime: 2021-04-07T21:16:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
+  - title: "President Joe Biden Continues Hard Line Against Russia, Offers Ukraine 'Unwavering Support'"
+    excerpt: "President Joe Biden on Friday offered \"unwavering support\" to Ukraine and reiterated his strong stance against Russian aggression amid reports of Russian actions near the Ukrainian border. After the president's Friday call with Ukrainian President Volodymyr Zelenskiy,"
+    publishedDateTime: 2021-04-02T19:40:00Z
+    webUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775"
+    ampWebUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 114
+    quality: 115
     images:
-      - url: "https://d.newsweek.com/en/full/1772802/person-learning.jpg"
+      - url: "https://d.newsweek.com/en/full/1771203/president-joe-biden.jpg"
         width: 2500
-        height: 1649
+        height: 1667
         isCached: true
   - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
     excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
@@ -94,6 +78,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "President Biden making a push for tighter gun safety laws with new executive actions"
+    excerpt: "Biden's infrastructure plan: What's inside the new $2 trillion bill?"
+    publishedDateTime: 2021-04-08T12:41:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/04/08/ghost-guns-among-items-targeted-new-presidential-executive-actions/7137513002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/99db72df-f487-4d46-9179-1bbabff8f383-VPC_BIDEN_GUN_CONTROL_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "fdtW0q7PWxE8zpxTpkfRYL3a7CaJnkGr3YL/UlfgPYh6F0UjUEZoIQPlhALYYdB7JCZFAu+UbJ4zx5bsenicvhwMhAy+RX9OFhhlyN7hi8JljWTDfI0YV75oSrsxkQgtLpgQ1dUS2JxtDK32AfAaTfuDcFdnPN2W7eGlDgbhAsqKNUc894pCU9hyIiGoA2NYnPgXIhrGA0b/HUF0ivmLv+6OjOrJuur67CMQn2QgvTGh95eSDndsOp368w7P6XWQGX7UE1K8h4cG+s3Fwx9p8M5tbscGxkeL42ZVnaS3lceS2pU+y0ixJqsMc3c2VdyIZKsj9cUemoYWrd76FV3OCgi7lYyNWjlp29DC+vcmcpQ=;vNjU43ipGADKcPjTBBh43w=="

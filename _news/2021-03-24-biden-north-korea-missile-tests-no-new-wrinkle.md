@@ -141,38 +141,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "How Joe Biden tamed the left — at least for now"
-    excerpt: "President Biden gives remarks in the State Dining Room of the White House on Friday. (Demetrius Freeman/The Washington Post) Joe Biden launched the early months of his presidency with a one-two combination that’s gone a long way toward taming the party ..."
-    publishedDateTime: 2021-04-04T05:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4R774HUT2UI6XKW4V54HAGRQZI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Lawmakers say fixing border crisis is Biden's job"
-    excerpt: "Lawmakers on Capitol Hill say Congress has little role to play in fixing the border crisis, arguing the responsibility falls largely on President Biden Joe Biden Jobs report adds to Biden momentum ..."
-    publishedDateTime: 2021-04-04T11:01:00Z
-    webUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job"
-    ampWebUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/testerjon_021221gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "UPDATE 1-Biden aides to host meeting on supply chain issues -White House"
     excerpt: "White House press secretary Jen Psaki said the meeting would be hosted by President Joe Biden’s national security adviser, Jake Sullivan, and a top economic aide, Brian Deese. The meeting will be held on April 12 and include chipmakers and automakers ..."
     publishedDateTime: 2021-04-01T23:49:00Z
@@ -397,20 +365,6 @@ related:
       - url: "https://i.insider.com/605e797b8e71b3001851920f?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "U.S. President Joe Biden Arrives From Camp David"
-    excerpt: "President Joe Biden and First Lady Jill Biden arrive by Marine One to the White Hous in Washington, DC, on Monday, April 5, 2021. The traditional Easter Egg Roll at the White House with thousands of visitors was not held due to the coronavirus COVID-19 ..."
-    publishedDateTime: 2021-04-05T19:02:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bbedb695639b7289aaa20878b9869807/US-President-Joe-Biden-Arrives-From-Camp-David/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/bbedb695639b7289aaa20878b9869807/USA-BIDEN-EASTER.jpg"
-        width: 650
-        height: 433
         isCached: true
 
 secured: "oRJyNvYbZ/hYBBHU+QDFkR3OmjL/wpnPe+sPkhr2R7iJDBClnyJSyfy62zMT+0QgHu5T1djrLBtg0ZIAv1fnUx676VPKeqC7eMnC2sWlT5i4lWb2TtbZs/GAcdqqSCxl7MFsrI6o+ZhaFpY7HzQXSW6ReHFsiDPm1XpkW9GdjP5MEIj0nQRU5P1xIwLM/OEeM7Z5o9vuIcso0zKzS1wHzYk7GZ10IUXOGKw6g6s4HWPvk/AX4QoqM1DJQwqSo+1cqhIg4cqM7+AOSA/A7YLA97bsvbZGgTB4fgth/at/VcA5Idnf6RErqmEi0k0QDdywjxgCzthew1WCqrzPaPvSnjBz6K8uSQyHMpheqBbZ04E=;rhFxWOndXLUblk7YHuPr4A=="

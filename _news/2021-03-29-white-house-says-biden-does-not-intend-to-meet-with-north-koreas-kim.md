@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2GU"
 type: article
 quality: 125
-heat: 625
+heat: 565
 published: true
 
 provider:
@@ -124,38 +124,6 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/hawleyjosh_cruzted_cottontom_02262021_getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "How Joe Biden tamed the left — at least for now"
-    excerpt: "President Biden gives remarks in the State Dining Room of the White House on Friday. (Demetrius Freeman/The Washington Post) Joe Biden launched the early months of his presidency with a one-two combination that’s gone a long way toward taming the party ..."
-    publishedDateTime: 2021-04-04T05:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4R774HUT2UI6XKW4V54HAGRQZI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Lawmakers say fixing border crisis is Biden's job"
-    excerpt: "Lawmakers on Capitol Hill say Congress has little role to play in fixing the border crisis, arguing the responsibility falls largely on President Biden Joe Biden Jobs report adds to Biden momentum ..."
-    publishedDateTime: 2021-04-04T11:01:00Z
-    webUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job"
-    ampWebUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/testerjon_021221gn_lead.jpg"
         width: 980
         height: 551
         isCached: true
@@ -397,20 +365,6 @@ related:
       - url: "https://i.insider.com/605e797b8e71b3001851920f?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "U.S. President Joe Biden Arrives From Camp David"
-    excerpt: "President Joe Biden and First Lady Jill Biden arrive by Marine One to the White Hous in Washington, DC, on Monday, April 5, 2021. The traditional Easter Egg Roll at the White House with thousands of visitors was not held due to the coronavirus COVID-19 ..."
-    publishedDateTime: 2021-04-05T19:02:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bbedb695639b7289aaa20878b9869807/US-President-Joe-Biden-Arrives-From-Camp-David/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/bbedb695639b7289aaa20878b9869807/USA-BIDEN-EASTER.jpg"
-        width: 650
-        height: 433
         isCached: true
 
 secured: "oAAzR0mtH8yURLrZKKNN3GQ/FFc8Pfh7IWsZ80HTAqAKQPvbpUIWSt44rCJ83r1Wzf/8bs6NjWrqLTtfMRPzYA1MqCnvdxVTp7heudcJB8u09qptKePwhOExa6SUf91DlL2FQ/tqQFs8v20ioslwlrK1KXyiXYjOrTOM4YWZvqs1OdhhzL61FqD2Aki3gmCqeDw25VDou3CvYTJdNBpun529ISctuv9wgIxeca3FL/AvqgQB64+uR94f2AwdU1q18bSN6dL8NsZudMD86amZcXCstIzJTa5WiCZWtdz+r4GqXCM69lm0G6g4qXYsL26/1Fm5cK+oRXm/81FZt9Pguh5Ab5IYMhlk/Jq8MxrQV9Q=;Xi/lBCE7CFw+4+G+kC/4KA=="

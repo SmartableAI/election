@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4754798001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754798001"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1755343/donald-trump.jpg"
         width: 3500
         height: 2333
+        isCached: true
+  - title: "The 2024 Republican presidential primary comes to Trump's doorstep this weekend in Florida"
+    excerpt: "PALM BEACH, Fla. – Republicans are throwing an early presidential campaign party this weekend in South Florida, though the featured guest remains the same: Donald Trump. At least a half-dozen Republicans said to be considering 2024 presidential bids ..."
+    publishedDateTime: 2021-04-09T18:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/09/donald-trump-weekend-gop-presidential-race-stops-florida/7109291002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7109291002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7109291002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/e4113b7b-e8ce-458f-8f3e-1e81071de20a-USP_News-_Donald_Trump_Iowa_Rally.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "CDC identifies public-health guidance from the Trump administration that downplayed pandemic severity"
     excerpt: "The analysis was done to promote public trust and ensure that CDC’s coronavirus guidance \"is evidence-based and free of politics,\" a memo says."

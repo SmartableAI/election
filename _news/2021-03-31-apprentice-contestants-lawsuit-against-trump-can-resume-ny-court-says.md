@@ -63,22 +63,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Twitter says it will not archive tweets from Trump's suspended account"
-    excerpt: "Tweets from the permanently suspended account of former President Trump will not be preserved on the platform, Twitter confirmed in a statement to CBS News. But the social media company said it is working with the National Archives and Records ..."
-    publishedDateTime: 2021-04-09T00:14:00Z
-    webUrl: "https://www.cbsnews.com/news/donald-trump-twitter-will-not-archive/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/22/f2d7fecb-446f-4d77-9cf4-986701e8dcb0/thumbnail/1200x630/e7bf93be5f5d9a38d338cc97d73dc0ec/gettyimages-1230498242.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "‘Momentous error’: Italian businessman mistakenly blacklisted by Trump to sue"
     excerpt: "Alessandro Bazzoni, who owns a graphic design company in Sardinia, has been unable to trade since 19 January, when his business was slapped with sanctions as part of the Trump administration’s crackdown on blacklisted Venezuelan crude oil. In a case of ..."
     publishedDateTime: 2021-04-06T18:43:00Z

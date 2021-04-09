@@ -155,6 +155,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The Filibuster and Gun Control: Can Biden Move the Senate, or Will Joe Manchin Move the President?"
+    excerpt: "RCP co-founder Tom Bevan and Washington bureau chief Carl Cannon discuss today's takeaway from the world of politics."
+    publishedDateTime: 2021-04-08T22:47:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/08/the_filibuster_and_gun_control_can_biden_move_the_senate_or_will_joe_manchin_move_the_president.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/04/08/the_filibuster_and_gun_control_can_biden_move_the_senate_or_will_joe_manchin_move_the_president.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/04/08/the_filibuster_and_gun_control_can_biden_move_the_senate_or_will_joe_manchin_move_the_president.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 71
+    images:
+      - url: "https://assets.realclear.com/images/54/540040.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "H0uGRMuhef4d8dEDLrARNqEk4+TgXumlLZqB/YMzhj/RWk5mBLnNed5l/c69ox6+0pOvfy8ENa4kbq2e1ZKiY2+JkCzjkxOqmUYKHcwXDZ6jS1TlN8mM+BZFoCEv6kjaKLSDr/xtR4bXMuOjIXG7xZ1K1dT5xOib1wEThzsB62Rq1OIf14I2Eu5HLokZgkiPiysK7kQi6BuLulRt8yDeAgFockqv5mFTsgbsdanmlznRYEkgVaTYQpL7uFHO17FhuaYCHdHC9HQqaowuomnDXFWMeHEc6SpFbrV8lD1DLIWWTQ2DBOyEr6qGb+uDt2ZcV7jV6Vfnn4IV7YTGwU+d/ByPhTp9Lkzs0RiT9ZguCdE=;YZAeGGQMXRmq5s7IvXzGcA=="
 ---

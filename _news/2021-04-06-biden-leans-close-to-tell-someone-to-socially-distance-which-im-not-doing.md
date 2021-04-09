@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-leans-close-social-distancing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leans-close-social-distancing.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "CDC 'doing the bidding' of the Biden administration by making health disparities a race issue: Paris Dennard"
+    excerpt: "Republican National Committee national spokesperson Paris Dennard said the Centers For Disease Control is \"doing the bidding\" of the Biden administration by making health disparities a race issue."
+    publishedDateTime: 2021-04-09T19:56:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S5PutjBxaCU/cdc-biden-administration-health-disparities-race"
+    ampWebUrl: "https://www.foxnews.com/politics/cdc-biden-administration-health-disparities-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cdc-biden-administration-health-disparities-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340

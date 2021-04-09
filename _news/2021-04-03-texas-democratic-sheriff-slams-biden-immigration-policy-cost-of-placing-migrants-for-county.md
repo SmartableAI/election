@@ -63,6 +63,52 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "West Virginia attorney general threatens to sue Biden over gun measures"
+    excerpt: "on Thursday threatened to sue the Biden administration over President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of ..."
+    publishedDateTime: 2021-04-08T17:54:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
+        width: 827
+        height: 551
+        isCached: true
+  - title: "Biden to unveil 6 executive orders to curb gun violence, nominate a permanent ATF director"
+    excerpt: "WASHINGTON – President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act the president's long-held campaign ..."
+    publishedDateTime: 2021-04-08T00:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/07/president-joe-biden-to-unveil-executive-actions-curb-gun-violence/7130332002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7130332002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7130332002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/f6e10fde-8cda-49db-82fd-de250bcd4016-GTY_1311330343.jpg?auto=webp&crop=8059,4533,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden announces steps to limit 'ghost' guns"
+    excerpt: "Reuters Now Biden announces steps to limit 'ghost' guns Posted [NFA] President Joe Biden and his Attorney General Merrick Garland announced limited measures to tackle gun violence in the United States on Thursday, in what the White House described as a ..."
+    publishedDateTime: 2021-04-08T20:23:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPol0?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/606f5fd3e4b0653eea185721-1617911763773?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GE++fI8eMmJMOTctQBqyRifDo85qOBxUx3SL2cECM3ZsXkg4LpKqEfM3SYl6H9baP9uTkYN1EQ3bCqmABGnZzvcJwk6ZtnVCK0GTiWC/Gr7JmQ+vg012d0kxvwPWE1kv2W8fcGXxgX6s2ybXSCa+Rl/LBtVlqL8jXqaprs4Zy69Ge/rzbOZxMXfUjKTlwr+spYu3rNDCGiLdggyi8hGXtBwtcbEcrRa4ZGKToTBYq4VH/bhEY+fKtKZ0xAR4bgtkUWh2N7xqYIqRXMgUB/zXnyTZ6/s2KeKd5KivJr39N/Vw9+lWR7gp8TWq1AY3f8X4ZyiXyAwjmMfJi6i52q1XNK8BUrNbpUdjg6SBZlMO6+Y=;AA+g10lKnLNOURF5sWG9Fg=="
 ---

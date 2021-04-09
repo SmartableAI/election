@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden tightens some gun controls, says much more needed"
+    excerpt: "In President Joe Biden’s first notable gun control measures, he has announced executive actions aimed at addressing what the White House calls a “gun violence public health epidemic"
+    publishedDateTime: 2021-04-08T19:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-to-unveil-actions-on-guns-including-new-atf-boss/2021/04/07/fdff9972-97fd-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-to-unveil-actions-on-guns-including-new-atf-boss/2021/04/07/fdff9972-97fd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-to-unveil-actions-on-guns-including-new-atf-boss/2021/04/07/fdff9972-97fd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "yFvWbL6THMFMv8ZXQcA/TbYpfmZioyT9g3GwR5PGAwLgm1Vw6anj1neB0Q8uukNBvbDuyMyt6zjyqwMCkD5PLxYcgJBl7cs7RqvmzZeEKNWT/n2GSNFLBzlIutOO65EcUAYf9e/cQTlhblgXiiyITsNy8IrHlYjHu7XcZhnhM6vydeXRAWdhayN3E19Q5CMhReqf+fEw+MYqtlRdfBEOJPC7av9It3RCzoFmx3hWvqy8IlVUIMJB1KZXxIVu/Q3nH7cu7EiSn5URBhnz+39djs4sRPyPVrgZBlVm6qS/MOLncR8LVGZaYloPENwwvzE81GiDcFastd1JO8rAUQhTIw+dyVg7+DT9n++L8tAUodk=;whpv5cVAORhcWDLg9UMSmA=="
 ---

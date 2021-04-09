@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Hunter Biden falsely claims US intelligence found laptop controversy was 'Russian disinformation'"
+    excerpt: "Hunter Biden claimed this week that the intelligence community had concluded the laptop saga surrounding him was the product of \"Russian disinformation,\" adding again that he has \"done nothing wrong.\""
+    publishedDateTime: 2021-04-09T19:14:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/reEtE-xBHu0/hunter-biden-laptop-russian-disinformation"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-laptop-russian-disinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-laptop-russian-disinformation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230697183.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+TykPekI6YVfF9svLR+6nupdWh5o3M9lvHt0PiLWRI5p8ROTN8eHuErU0Urbva64FKPcAAe9spmGshJLIXlC7TRoGisDisoxKQEzKsXAm1e0FbWUy8cDu/iyAH9eiwfCdTZryk1TC987q4ct7RGJyfrukoJu2fzhm6tyAKDnVGC7K6g0/xf5mtxO9ceOPgFfeVjQJOp4bI9Xy4bpoMJ7XVsudbIQlSVqav7E0Er2e7V5KknzNmHNOl486WZiknVrzbvUg2N76KHAcmR3JHkmpBr04XkxJtZu4Qslh+ugFL4cqV+5Kg8OX40SnCutpCm65otd1P6zpANV9sQfLLzXevcje7l31mv5AUDdCp96bzmDZG1JP/nIYgZyknBTND2McwK7NdEjqNVUKTKb1fpNbjKNV4OL+IOiOyxH1eg9GU3O9KEfJAEqXn0n7z37ucFa+/UbyVOwAIwVx+G9ADhPxK1+iKDahHt8lzpRfPCDF9/ZBprIxdyU9eM4Ydq4iRNhImg2YLoV6/b473Tg1BBB/w==;EKD3LJxA0K81O7G1tDa+SQ=="
 ---

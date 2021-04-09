@@ -47,6 +47,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "West Virginia attorney general threatens to sue Biden over gun measures"
+    excerpt: "on Thursday threatened to sue the Biden administration over President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of ..."
+    publishedDateTime: 2021-04-08T17:54:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
+        width: 827
+        height: 551
+        isCached: true
+  - title: "Biden to unveil 6 executive orders to curb gun violence, nominate a permanent ATF director"
+    excerpt: "WASHINGTON – President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act the president's long-held campaign ..."
+    publishedDateTime: 2021-04-08T00:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/07/president-joe-biden-to-unveil-executive-actions-curb-gun-violence/7130332002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7130332002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7130332002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/f6e10fde-8cda-49db-82fd-de250bcd4016-GTY_1311330343.jpg?auto=webp&crop=8059,4533,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Texas Democratic Sheriff Slams Biden Immigration Policy, Cost of Placing Migrants for County"
     excerpt: "Val Verde County, Texas, Sheriff Joe Frank Martinez said Friday that \"criminal aliens ... He commended Florida GOP Governor Ron DeSantis for sending a letter to the Biden administration that demanded it stop enforcing policies allowing the release of ..."
     publishedDateTime: 2021-04-03T15:47:00Z
@@ -62,6 +94,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1765531/immigration.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden announces steps to limit 'ghost' guns"
+    excerpt: "Reuters Now Biden announces steps to limit 'ghost' guns Posted [NFA] President Joe Biden and his Attorney General Merrick Garland announced limited measures to tackle gun violence in the United States on Thursday, in what the White House described as a ..."
+    publishedDateTime: 2021-04-08T20:23:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPol0?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/606f5fd3e4b0653eea185721-1617911763773?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "+Q/zTNyKT9V5oOVStyNDn/jI95CmhD1EOzRNxISTs4yP8NUNcFWBzMWzPZ8SfxnO9id2pJvkgY0Lp7E1TYUWmUF8bT6G+Xq3cipyNTQ2im8DkoCiDOw4OfYcT3LoSGcLjIoQsyyqH0CYm/9grvWqBkKFobFbFtC7JiK36kG5o02DALs/nLNvapuYQgIIQVh2AcDRpqDLbozUfjQG6EWEHfotQX9KOJE52cYj8q2xPk0XYkO23HEnai7SGJozmciAJkX4Umkuh90syxEEVDCe87lkqr4TWcLY/g+iMu0w7tU3mS32IxMs8I1mG4Niuz7yAHJQFkKGORduRzZdkHQfzsuZT56ItRG3tBoiMtFb7P0=;mQCRf1H6r6M2d7vvJPIzkQ=="

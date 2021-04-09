@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/epa-chief-slammed-firing-science-ad
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "New findings show Biden DOJ nominee organized conference championing cop-killers"
+    excerpt: "While a student at Columbia Law in April of 1999, Kristen Clarke organized the controversial Race-ing Justice Conference at the university, according to university transcripts obtained by the American Accountability Project and given to Fox News."
+    publishedDateTime: 2021-04-09T17:58:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z00JFPIqfDc/biden-doj-kristen-clarke-conference-cop-killers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-kristen-clarke-conference-cop-killers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-kristen-clarke-conference-cop-killers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef3bd7a-3ff8-42bb-a15d-85357de27bd5/24b518d0-2b2c-41f1-b6bc-b89bdd50d152/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas AG defends 'public charge' rule on immigrants, public assistance dropped by Biden"
     excerpt: "Texas Attorney General Ken Paxton is defending a rule that limits entry for immigrants and their likely use of public benefits. "
     publishedDateTime: 2021-04-04T20:02:32Z

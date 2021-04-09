@@ -731,7 +731,18 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard"
+    excerpt: "The Republican Party is bringing hundreds of donors and several presidential prospects to the former president’s doorstep in south Florida this weekend."
+    publishedDateTime: 2021-04-09T18:13:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
-secured: "xxTKJKe0xsjNS7LbQE5Fnp1hS6yYHYlIPieakoPljDO28Nh/vVZSRKz50o5z4tjAdijDsbVO/s4ZY/GHG4ym2SdqtqQXLfPYc/tLalpyf7teogcveimGWNs+vErP3ri7WD8Lw1HYt4MsaEmWCMLwp55bLms3lOVFPIItlm1zPFcBMZt/xEjOaZ0VT6W3Ih6cC7D6p8oYXmVaV/afXtYoyUECZB1fUuzCRAzAXPNmgzIS/vsmTa8MBfHzHibbO35JL4tBDo9tmLWgDY1BBbLTOjKuh24oHX4IXV5/fw2ZUOkDV3MHnyh5EPDrVyh0iGWx5wRijuTABNiseSZXJUWT32dtuJJNfcMPWs765aGWI/4=;T1PXM5QVieG66u+9g4utOA=="
+secured: "dgjjJ0Fbtl0CnhGBGKpu/v9QAMpbfvZCIh8MajOleymcEU344rQFaGfYlKpAwTH/nBuuampZfFw/Z4E3zUaorlu01xl1rzykl4bRlw2lINXyH4HhJk+h+OqY6upHhBHZJAbm7meAAb367jgxNjIl5t9DVjGgkPhStZVYjjLD/5eVl2XPIXrlexVUh0Vv3QtsdPmuhH73NinvL8xke1seB1RHPAbWTNA/J75i20DEW/AbK8GsMXwKAiL8ZNIgqlMiQAhwS9N7GPhgE/BGPXcs7PtUZCM1bwvlH75ZzZtngjpd3FQBzbXjXXu6Kar+fEDxEvqn35U0D2bF4aBQKEz9gb7fNF/j3VDRy/TrOO2IYucxlKJryYRF4804jcgiwLCkGilftOkFkS+e0tQ+WheNnhgfQWlFVypQ+cv74Hq81+cz4oIsq8I2+NgFOIR7Sr4gy6n+vOLAKeVYKfwd9/by+iu7ieCqHAGonwBWkeIOhl0x6Rz5/zhJWQKrZyv5ZmjCKNbGIj90VFIRuaCmoBxMZw==;Idz7S6cGSHgglML4jaiWlA=="
 ---
 

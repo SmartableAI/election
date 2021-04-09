@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-holds-first-call-with-ukraini
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.amp"
 type: article
 quality: 167
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Hunter Biden falsely claims US intelligence found laptop controversy was 'Russian disinformation'"
+    excerpt: "Hunter Biden claimed this week that the intelligence community had concluded the laptop saga surrounding him was the product of \"Russian disinformation,\" adding again that he has \"done nothing wrong.\""
+    publishedDateTime: 2021-04-09T19:14:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/reEtE-xBHu0/hunter-biden-laptop-russian-disinformation"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-laptop-russian-disinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-laptop-russian-disinformation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230697183.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President Biden said Hunter laptop was Russian disinformation, but son now says it 'could' be his"
     excerpt: "And we also know that Putin is trying very hard to spread disinformation about Joe Biden,\" the then-candidate said. He added: \"When you put the combination of Russia, Giuliani, the president together, that's just what it is. It's a smear campaign.\""

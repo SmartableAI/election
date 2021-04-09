@@ -63,6 +63,54 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
+    excerpt: "Biden to make announcement as White House encourages older Americans to get vaccinated as quickly as possible – follow all the day’s US politics news"
+    publishedDateTime: 2021-04-06T16:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c74338f08611d06d8d7ca"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/a77da5d15e3310643e78095fbbf0dbe303834a43/0_99_5307_3184/master/5307.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fd62229786e5cf0c86525e5fbceff2f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
+    excerpt: "White House press secretary Jen Psaki was asked whether Vladimir Putin has confirmed his attendance to Joe Biden’s climate summit later this month. Bloomberg News reported today that the Russian president is making plans to attend the virtual summit."
+    publishedDateTime: 2021-04-06T18:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c8a0b8f08098d4e05651c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/c94bc3ce8b8e6da02323a2e4df87408b1e0c4f6c/0_158_4652_2792/master/4652.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c6c7b6781ad3305d641682f77ca4ad21"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden Remains Firm On July 4 Goal Despite Moving Up Deadline For Adult COVID Vaccinations"
+    excerpt: "President Joe Biden praised the accelerated vaccination in the United States — where a record four million shots were administered in a single day on Saturday— but his administration hasn't backed off his goal of having enough people vaccinated for an ..."
+    publishedDateTime: 2021-04-06T21:01:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-remains-firm-july-4-goal-despite-moving-deadline-adult-covid-vaccinations-1581473"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-remains-firm-july-4-goal-despite-moving-deadline-adult-covid-vaccinations-1581473?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-remains-firm-july-4-goal-despite-moving-deadline-adult-covid-vaccinations-1581473?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1772280/joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "NkE/AJ9d1YjdcoG++3Eu/whPbeMaHgYadzv6knerCb6sNv4TmiQ7yi4yBhComPKa8fIMgPB5PKgeM+BDZw/Mma2w7lQ0fTf/hCeA5JKtgsNxt62L94nlQ0kLiyCmffiA+WqrPLqi9E7R96oqU11pCjq4zRg8N0w3Ud9wErvflKREtUipGmLWUja3VeOV9i2jbo80tZOGquUqYSyA4W68lzeNVTd3P7cMojMBCt0OR+IzRQgwi8cU+hIapge3CEd0bNX9wR7fdZKgL69gudu8tOuxocdneCqu8S5ncJBW1Bob/IZe1fbFyu0N0vkclq0eHhmYfQHg/umf4vWxvAYUMYevdEw+G9lIsh927iqxbAKkZKZB0vQy1jjKnAQQlJ++Du1F7SvkV3kJNGTtKveCP6R/wfWhiCX+6YaS1XksJRN9MBKv8aj0M9fbKmdV74dYviZZgnpq/CPvLNYWAdPQRbBUGhRE9RSAqoMbqPSkyOvBXkARBtjOJhKdmhQ3bbjcTN5yNaPzVlYWbyM2zBAWng==;ec5CDV1tt9xP+9kqeSAjwA=="
 ---
