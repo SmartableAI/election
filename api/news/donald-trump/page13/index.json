@@ -2,6 +2,59 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-17-joe-bidens-options-for-dealing-with-donald-trump-are-worse-than-watergate.md",
+      "title": "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate",
+      "excerpt": "When it comes to Donald Trump, the incoming president has a critical decision to make about the best way to move the country forward—and neither Democrats nor Republicans are likely to be happy about his choice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
+      "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1709816/fe-reconciliation-02.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1",
+      "publishedDateTime": "2021-01-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-trump-reps-decline-comment-on-giuliani-involvement.md",
       "title": "Trump reps decline comment on Giuliani involvement",
       "excerpt": "Rudy Giuliani claimed on ABC News Saturday that he’ll help defend the president at his upcoming second impeachment trial — but a Trump spokesman to tweeted hours later that Trump has",
@@ -1496,64 +1549,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-defends-riot-remarks-as-totally-appropriate-before-house-vote-on-25th-amendment-resolution.md",
-      "title": "Trump defends riot remarks as 'totally appropriate' before House vote on 25th Amendment resolution",
-      "excerpt": "\"Everybody to a 'T' thought it was totally appropriate,\" Trump said as lawmakers prepared a resolution calling for his removal from office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441497/210112-donald-trump-jm-1043_14f8a0fe6ee3094b4256b33575e347dd.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253873",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253873",
-      "publishedDateTime": "2021-01-12T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

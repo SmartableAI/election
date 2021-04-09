@@ -2,6 +2,163 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-01-08-the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.md",
+      "title": "The ‘treason finale’ of the Donald Trump era: Late night hosts react to U.S. Capitol riots",
+      "excerpt": "Late night television hosts often give their take the days events with humor. But Wednesday night was no laughing matter as Jimmy Fallon, Stephen Colbert and their fellow network hosts reacted to the mob of violent Trump supporters storming the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
+      "originalUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RUUVL3H7NBD4LDLRK2P52HXIQI.PNG",
+          "width": 718,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
+      "publishedDateTime": "2021-01-07T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-biden-says-capitol-was-stormed-by-riotous-mob-domestic-terrorists.md",
+      "title": "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’",
+      "excerpt": "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists",
+      "originalUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006854495058.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "publishedDateTime": "2021-01-07T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations.md",
+      "title": "Joe Biden: Black Lives Matter protesters would have been ‘treated differently’ at Capitol demonstrations",
+      "excerpt": "President-elect Joe Biden called protesters at the Capitol a “mob of thugs” and said if they were a group of Black Lives Matter demonstrators they would have been “treated very differently.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations-99068997831",
+      "originalUrl": "https://www.nbcnews.com/video/joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations-99068997831",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_brk_blm_biden_200107_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99068997831",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99068997831",
+      "publishedDateTime": "2021-01-07T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-trump-pressured-pence-to-engineer-a-coup-then-put-the-vp-in-danger-source-says.md",
       "title": "Trump pressured Pence to engineer a coup, then put the VP in danger, source says",
       "excerpt": "President Donald Trump and top White House officials did little to check in on Vice President Mike Pence while he and members of his family were inside the US Capitol when Trump-backed rioters stormed the halls of Congress on Wednesday, a source close to the vice president tells CNN.\n    \n",

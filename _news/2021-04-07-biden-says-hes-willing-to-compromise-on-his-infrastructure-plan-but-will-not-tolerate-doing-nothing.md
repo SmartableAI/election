@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Dam safety advocates feel forgotten in Biden's $2 trillion infrastructure plan"
+    excerpt: "“It’s one of those ticking time bombs that can really devastate a community,” said a Michigan woman who was rescued from a dam collapse last year. When President Joe Biden last week introduced a sweeping $2 trillion infrastructure plan, the details ..."
+    publishedDateTime: 2021-04-09T08:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/dam-safety-advocates-feel-forgotten-biden-s-2-trillion-infrastructure-n1263470"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263470"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263470"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3462742/210407-sanford-dam-al-1159_07000f5652b91bc448375e74cb695710.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Watch Live: Biden Speaks on Infrastructure Plan"
     excerpt: "new video loaded: Watch Live: Biden Speaks on Infrastructure Plan President Biden delivers remarks on his $2 trillion American Jobs Plan, which aims to overhaul the nation’s infrastructure. Advertisement NOW PLAYING 1:36 1:38 Advertisement 0:57 1:33 ..."
     publishedDateTime: 2021-04-07T17:17:00Z

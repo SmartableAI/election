@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-06-lincoln-projection-former-adviser-to-disgraced-anti-trump-pac-calls-gop-the-ultimate-grift.md",
+      "title": "Lincoln Projection: Former adviser to disgraced anti-Trump PAC calls GOP 'the ultimate grift'",
+      "excerpt": "Former Lincoln Project senior adviser Kurt Bardella appears to have no issue with throwing stones from glass houses, as he recently accused the Republican Party of becoming the \"ultimate grift.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
+      "originalUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
+      "publishedDateTime": "2021-03-05T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-fbi-finds-contact-between-proud-boys-member-and-trump-associate-before-riot.md",
       "title": "F.B.I. Finds Contact Between Proud Boys Member and Trump Associate Before Riot",
       "excerpt": "A leader of the far-right group separately said he had been in touch with Roger Stone, but an official said it was not the same contact investigators found through electronic communications records.",
@@ -1529,58 +1586,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-28-allies-of-rep-adam-kinzinger-launch-new-super-pac-to-support-republicans-who-have-bucked-trump.md",
-      "title": "Allies of Rep. Adam Kinzinger launch new super PAC to support Republicans who have bucked Trump",
-      "excerpt": "The effort will be up against significant head winds, as Trump still holds vast sway over the Republican Party, even after his supporters attacked the U.S. Capitol last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCWAUHTZN4I6XFENDFDS42BVEE.jpg&w=1440",
-          "width": 1440,
-          "height": 968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-28T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

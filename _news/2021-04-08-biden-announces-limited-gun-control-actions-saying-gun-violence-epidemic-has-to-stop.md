@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Tennessee Defies Joe Biden's Gun Control Push with No-Permit Law"
+    excerpt: "The Republican governor announced that he'd signed the legislation as President Joe Biden unveiled a raft of executive actions aimed at curbing gun violence and tightening firearm controls. \"I signed constitutional carry today because it shouldn't be hard ..."
+    publishedDateTime: 2021-04-09T08:13:00Z
+    webUrl: "https://www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235"
+    ampWebUrl: "https://www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1774224/handguns-nashville-tennessee.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "7s2V+aVDGGkl4HBE1P0mnAX+un49/s7RELMveKlGY+zgNZzB0VTSqQb38w9BMRlpB444OHbptMOHppeTI5nJOnv4e1uk/JK3tFuUdcqtEAghD3xqp+vEwPxYPaGpQ+/DsbECjrVtZothRH5DZ/hKQeVXyqE3hPZE8MUw7wRrd/l0omzDB7vQbY9JvdgsXOtP0hnfiiBQl5U1ElHtqPWCGdj0uyB77YrDx8MNi2NU+/xuLonheUTFPMnj+FqA9epMKq7ORpdX2hBn6YwL0LFmg84+TCjTIZWP86md4SG6MpMRimrlXecPhSmwZ6S9AkwkjWLNoOuxKxFdCu9UnK36crtJuuuBwsNoj/gqdJe0642zh24k9RVDPmJXGHLci8sSWOpxTg+EcvNFPeuxur4y4gF1Pdlia3kIcGGhlscAuAq+BLbaLRptAHkReHc6uZKDm4125Jvp5r8Hhb7kgmViZZ8rkqNX8VFMJVqDEoo/yoQKFLElvpIhM+60+z04mKP9l+Q7Ikc7MBWmdbb4pZTYcA==;WvdQ8mDUg1AhKNtqJn1cew=="
 ---

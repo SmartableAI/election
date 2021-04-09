@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-16-progressives-push-for-joe-bidens-1400-stimulus-checks-on-presidents-day-44-days.md",
+      "title": "Progressives Push for Joe Biden's $1,400 Stimulus Checks on President's Day: '44 Days'",
+      "excerpt": "Before taking office, Biden said that he wanted to act \"boldly and urgently\" to get the checks passed through Congress. But weeks have gone by since his inauguration and another stimulus bill has still not been passed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456",
+      "originalUrl": "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1735295/stimulus-checks-joe-biden-presidents-day-progressives.jpg",
+          "width": 3000,
+          "height": 2100,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456?amp=1",
+      "publishedDateTime": "2021-02-15T18:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-biden-order-reestablishes-faith-focused-white-house-office.md",
       "title": "Biden order reestablishes faith-focused White House office",
       "excerpt": "President Joe Biden has signed an executive order relaunching a White House office aimed at fostering cooperation between the federal government and faith-based and secular community organizations",
@@ -1533,63 +1585,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-biden-to-call-for-protecting-lgbtq-rights-globally-in-memo.md",
-      "title": "Biden to call for protecting LGBTQ rights globally in memo",
-      "excerpt": "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256792",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792",
-      "publishedDateTime": "2021-02-04T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

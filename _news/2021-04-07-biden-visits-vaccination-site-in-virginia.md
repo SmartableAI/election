@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Jill Biden urges farmworkers to get vaccinated in California"
-    excerpt: "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated"
-    publishedDateTime: 2021-04-01T04:18:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132"
+  - title: "Joe Biden's Slip Saying 'AFT' Rather Than 'ATF' Goes Viral"
+    excerpt: "President Joe Biden's verbal stumble over the abbreviation for the Bureau of Alcohol, Tobacco, Firearms and Explosives was seized on by his right-wing opponents and shared widely online on Thursday as he moved to install a gun control advocate as head of ..."
+    publishedDateTime: 2021-04-09T09:54:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_582476d4c83f4a849953260173f0be01_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1774295/president-joe-biden.jpg"
+        width: 1024
+        height: 706
         isCached: true
 
 secured: "yuyDessc6+H8jHcXs8yUsZBfhMrvX8f4ey5AAGzWxm8SGTl6TuinzFJRKYQ1uAP9tfy4VF1OstUmAi28Dj/CEOg2JN2ryYM3Abx6Nw8oOSOzP449vmhYb+tTmyghgLqwJCqa6vEuDR7apFbuOYE6U5G/uz6YBuNvvSX7jUkkpT2OBlpVMot/UWW/1lyMebtF7mhxBhsObZX9Oouro/BduroMu4i4siwM4Rx283Yorw5KP+wM7HvRKlBYnvfNnKffW+WKlQh4lEPI6P6Mp6GbIBjUTgzsv2JlLxQBdMh9IrEetueagxre6T9vXgt5/zZpNkkeHiAyHkIOfwXEz3kIKmKxFN0Hwxfho52IsHWvjMEeLbDE0iSpkE5VZaDo4mRw0p4d9lJZ28DS4yXaGsiW+A0azID3QTpR//dgBCFCxEUXdQGmFeS42Y0mDU+bNpHkaDbe//5bq9J/W4k0za7GhTzY8C+QCbVN4mpfgkAS86JOzhf7c5TIFM945FfHi6s9CdpkW2/mWVmqOAo+QCds6g==;4c1ZHj6si2KrdWOEyhjf3Q=="

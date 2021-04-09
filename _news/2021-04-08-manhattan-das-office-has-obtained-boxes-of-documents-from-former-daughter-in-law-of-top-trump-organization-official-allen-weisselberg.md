@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former In-Law of Trump Executive Gives Prosecutors Boxes of Documents"
+    excerpt: "The handover of the documents suggests prosecutors are stepping up pressure on the executive, Allen H. Weisselberg."
+    publishedDateTime: 2021-04-08T21:31:00Z
+    webUrl: "https://www.nytimes.com/2021/04/08/nyregion/trump-investigation-weisselberg.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/08/nyregion/trump-investigation-weisselberg.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/08/nyregion/trump-investigation-weisselberg.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/08/nyregion/08nyvance-trump/08nyvance-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
     excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."
     publishedDateTime: 2021-04-06T18:42:00Z

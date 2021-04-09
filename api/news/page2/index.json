@@ -2,6 +2,175 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-08-bidens-epa-chief-slammed-for-firing-science-advisers-in-purge.md",
+      "title": "Biden's EPA chief slammed for firing science advisers in 'purge'",
+      "excerpt": "Two House Republicans are demanding that the Environmental Protection Agency provide records related to a decision by the agency’s new leader to remove dozens of scientists and other experts from two key advisory boards.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y5e7U93tusA/epa-chief-slammed-firing-science-advisers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y5e7U93tusA/epa-chief-slammed-firing-science-advisers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Michael-Regan-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp",
+      "publishedDateTime": "2021-04-08T07:10:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-biden-doj-slow-to-act-on-opioid-crisis-despite-ag-garland-saying-it-should-be-high-priority.md",
+      "title": "Biden DOJ slow to act on opioid crisis despite AG Garland saying it should be 'high priority'",
+      "excerpt": "Attorney General Merrick Garland pledged to make the opioid crisis still plaguing America a \"high priority\" for the Department of Justice (DOJ), but it seems as though the Biden administration has put the situation on the backburner.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9791ea4e-28cf-44ee-8e5e-eaf4871bac13/6e5b12ba-498f-4f5a-8725-881901e745e5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
+      "publishedDateTime": "2021-04-08T07:06:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-facebook-adds-labels-to-feeds-how-would-it-label-trump.md",
+      "title": "Facebook adds labels to feeds. How would it label Trump?",
+      "excerpt": "The new feature comes as the company’s independent Oversight Board weighs whether former President Donald Trump should be allowed back on the platform. Asked how Trump, if reinstated, would have his Facebook page labeled, spokesperson Andy Stone declined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/morning-tech/2021/04/08/facebook-adds-labels-to-feeds-how-would-it-label-trump-794538",
+      "originalUrl": "https://www.politico.com/newsletters/morning-tech/2021/04/08/facebook-adds-labels-to-feeds-how-would-it-label-trump-794538",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-scalise-blasts-bidens-border-policies-calling-them-dangerous-for-kids.md",
       "title": "Scalise blasts Biden's border policies, calling them 'dangerous for kids'",
       "excerpt": "What they've done not only to these border towns, the mayors, you hear them, Democrat and Republican, expressing outrage over what President Biden created. Joe Biden created this crisis, but the child abuse and neglect that's going on, it's not just the 20 ...",
@@ -1191,162 +1360,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mike-pences-advocacy-group-to-hone-in-unaccompanied-minor-surge-at-border.md",
-      "title": "Mike Pence's Advocacy Group to Hone in Unaccompanied Minor Surge at Border",
-      "excerpt": "Former Vice President Mike Pence launched an advocacy organization on Wednesday that said its goal is to \"promote the pro-freedom policies\" in place during former President Donald Trump's administration and protect those policies from individuals on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835",
-      "originalUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1772843/mike-pence.jpg",
-          "width": 1233,
-          "height": 822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835?amp=1",
-      "publishedDateTime": "2021-04-07T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-donald-trump-is-not-too-queens-for-iowa.md",
-      "title": "Donald Trump is not “too Queens” for Iowa",
-      "excerpt": "CBS News Correspondent Julianna Goldman, Ed O'Keefe of the Washington Post, Mark Leibovich of The New York Times Magazine, and the Atlantic’s Jeffrey Goldberg discuss Trump’s newfound Iowa appeal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
-      "originalUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/07/c1a68032-f68e-4bcd-ba4a-c86f3966bce4/thumbnail/1200x630/3c6d955cdc8e82a852c383f95c1b2883/ftn-panel3-0830-438452-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
-      "publishedDateTime": "2021-04-07T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-pence-launches-group-as-trump-officials-line-up-new-roles.md",
-      "title": "Pence launches group as Trump officials line up new roles",
-      "excerpt": "WASHINGTON — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence’s Advancing American Freedom, which could serve as a springboard for his own ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 980,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-07T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

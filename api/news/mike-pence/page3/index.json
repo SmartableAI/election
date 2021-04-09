@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-06-pences-plans-post-trump-administration-take-shape.md",
+      "title": "Pence's plans post-Trump administration take shape",
+      "excerpt": "Former Vice President Mike Pence's post-Trump administration life is now starting to take shape. He's planning to host a new podcast and will be joining two conservative think tanks. Pence will be launching a podcast with Young America's Foundation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
+      "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 4910,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/2f065a4b-c323-4b75-a050-9741f82fa8c7/thumbnail/1200x630/9a39ef2588570d3035fb1e97f02eb586/gettyimages-1229222282.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/",
+      "publishedDateTime": "2021-02-05T14:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-pence-will-be-very-active-in-2022-elections-amid-new-partnerships-with-conservative-groups-ex-vps-adviser.md",
       "title": "Pence will be ‘very active’ in 2022 elections amid new partnerships with conservative groups: ex-VP's adviser",
       "excerpt": "Pence announced he is joining the Heritage Foundation as a distinguished fellow and is also entering into a partnership with the conservative Young America’s Foundation.",
@@ -1488,63 +1541,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-pence-uses-pelosis-own-words-to-justify-not-invoking-the-25th-amendment.md",
-      "title": "Pence uses Pelosi's own words to justify not invoking the 25th Amendment",
-      "excerpt": "Vice President Mike Pence told Speaker of the House Nancy Pelosi that he will not invoke the 25th Amendment, as lawmakers flooded into the House chamber for a vote Tuesday night on a resolution calling for him to do so.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZvObX8e7Wk/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZvObX8e7Wk/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp",
-      "publishedDateTime": "2021-01-12T18:24:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Mike Pence"
       ]
     }

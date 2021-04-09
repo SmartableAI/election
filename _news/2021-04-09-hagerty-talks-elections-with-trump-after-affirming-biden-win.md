@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Hagerty Talks Elections With Trump After Affirming Biden Win"
-excerpt: "Three months after he voted to certify President Joe Biden's win, Republican U.S. Sen. Bill Hagerty hasn’t lost standing with former President Donald Trump."
-publishedDateTime: 2021-04-08T22:45:00Z
-originalUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win"
-webUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win"
-ampWebUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
+title: "Hagerty talks elections with Trump after affirming Biden win"
+excerpt: "Bill Hagerty watched in horror as the Capitol riots unfolded around him and decided to back down from his plans to oppose the electoral college results that affirmed President Joe Biden's win despite then-President Donald Trump's weekslong push to block ..."
+publishedDateTime: 2021-04-08T22:47:00Z
+originalUrl: "https://www.chron.com/news/article/Hagerty-talks-elections-with-Trump-after-16087507.php"
+webUrl: "https://www.chron.com/news/article/Hagerty-talks-elections-with-Trump-after-16087507.php"
+ampWebUrl: "https://www.chron.com/news/amp/Hagerty-talks-elections-with-Trump-after-16087507.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Hagerty-talks-elections-with-Trump-after-16087507.php"
 type: article
-quality: 85
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate"
@@ -831,6 +833,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DuE3QtvsZh7VZIF2U2MGTstgehcEeomWbvSlX8Bp7wgQSHoiLZUi/dqb+Ypv4Y9InK+FOmKw6y5Bvwo9fDLRUCfko0AqYH/ClQEcoXkdUtYofCq5k8fnA2u8Yy+AWGxSLf+sC5oLbIeOM92SK7BgLInt0fQLGJbLjQKGj7kEUjHSnvrIhN9p/r7AciCym9ME97ijWY82cHuQoUCb3URGkXMVmeMd5d+IlB6E6WvwOFxXLEjjwiFVBrlFeViBqnEScjc2XBEln3Op2bZFPgMMBzYgwVipfPWF7hM1jHOFXZLAyD2Y7sNcgFWkKVBGpshmoOuzi945BWggPqDHA9E4ALW+jX9YfHSR1UkWPLwkgkuZwQb72/VQloWHjUexcR2Do+8Xj9yDH2m7SyRE7+Obf1rJflM/HrViYcXh3S895a8kUTvGgrF23gko60KYrefIRkW7OSksIIkJUAMeTzA8aAFqtf8a9owIrXu9UhkDnFDOb/7D34zgN3Pj+r0FISgMe2Y1mHw0Nha/5duJ+HBZ1Q==;jYMoA8Yh0daH61bNrh3Tkw=="
+secured: "2pR4c+6sPe4jiWpqDcj87/JNKdh78Bv/i+yV7Ag7aAdwn4ppgDEZ/ewmdlnVdfBVURTbMU2FlpmFdprefCKja5AFz98PZ4Ul0AXRZxEHo2pW+lEmkE1sqkZrUkUxxCJ12OVwUq22P2O/Xu57WHtTYwKmt4eyU5Of9iBsa4qDFQ3ffNU/PsLvuFhIz3PAL/KMB8heSKbDToMyv9KiFpMv3SOaKxZj0PiedqwCR0mjo6MJm8LVP6ySqLjFfre9X/ARadAtiqNEZoPC+65EQd4meY0CsV/eMV33cMudevP98+lvX7vzFlQjupvnDddsHZ9wPc+DPiVp83eTHE1CE1q3RC+sNahxaGo0rIe3WNwY5hg=;R3fVRGpOLGu7cfCbSIC1TA=="
 ---
 

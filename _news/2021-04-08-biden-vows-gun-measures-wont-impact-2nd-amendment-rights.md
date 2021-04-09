@@ -128,6 +128,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Dam safety advocates feel forgotten in Biden's $2 trillion infrastructure plan"
+    excerpt: "“It’s one of those ticking time bombs that can really devastate a community,” said a Michigan woman who was rescued from a dam collapse last year. When President Joe Biden last week introduced a sweeping $2 trillion infrastructure plan, the details ..."
+    publishedDateTime: 2021-04-09T08:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/dam-safety-advocates-feel-forgotten-biden-s-2-trillion-infrastructure-n1263470"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263470"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263470"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3462742/210407-sanford-dam-al-1159_07000f5652b91bc448375e74cb695710.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden says he’s willing to compromise on his infrastructure plan, but will not tolerate ‘doing nothing.’"
     excerpt: "like Senator Joe Manchin III of West Virginia, who have suggested they might agree to a corporate tax increase, but one not quite as big as the 28 percent Mr. Biden has proposed. The current rate is 21 percent. Asked if he was willing to compromise on the ..."
     publishedDateTime: 2021-04-07T12:32:00Z

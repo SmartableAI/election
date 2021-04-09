@@ -375,6 +375,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris lists Washington D.C. condo for $2M | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1."
+    publishedDateTime: 2021-04-07T21:49:00Z
+    webUrl: "https://www.newsobserver.com/news/nation-world/national/article250498814.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article250498814.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article250498814.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 73
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ron DeSantis blames ‘vaccine hesitancy’ on Joe Biden, Kamala Harris"
     excerpt: "When Vice President Kamala Harris came to Jacksonville to tout the American Rescue Plan virus relief package this year, the governor was downstate at a gas station ribbon cutting."
     publishedDateTime: 2021-04-07T01:09:00Z

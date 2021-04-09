@@ -2,6 +2,172 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-03-08-pence-to-deliver-first-post-vp-speech-in-south-carolina-as-he-eyes-political-future.md",
+      "title": "Pence to deliver first post-VP speech in South Carolina as he eyes political future",
+      "excerpt": "Former Vice President Mike Pence will head to South Carolina next month to deliver his first public address since the end of the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
+      "publishedDateTime": "2021-03-08T07:07:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-the-magic-donald-trump-brought-to-republican-politics-is-not-a-mystery.md",
+      "title": "The ‘magic’ Donald Trump brought to Republican politics is not a mystery",
+      "excerpt": "Lindsey Graham (R-S.C.) painted former president Donald Trump as a sort of magical conservative chimera. That made it trickier, he suggested, for the Republican Party to leverage Trumpism without Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5Q2IST6AYI6XDC6GLSHWQVVDM.jpg&w=1440",
+          "width": 1440,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp",
+      "publishedDateTime": "2021-03-08T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-a-ransom-demand-avlon-slams-trumps-letter-to-rnc.md",
+      "title": "'A ransom demand': Avlon slams Trump's letter to RNC",
+      "excerpt": "Former President Donald Trump sent a cease-and-desist letter to the Republican National Committee, upset about fundraising materials using his likeness. CNN's John Avlon breaks down this move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308083800-avlon-reality-check-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn",
+      "publishedDateTime": "2021-03-08T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball.md",
       "title": "MAKING THE MOST OF $13.5B — LAUF's PRO-TRUMP HIRE FOR IL-16 — STILL NO FANS FOR BASEBALL",
       "excerpt": "The state Senate is returning to Springfield for session on Tuesday. — Biden rides a ‘Keep It Simple, Stupid’ strategy to early success: “Biden kept Democrats from splintering and barreled ahead without Republican support.",
@@ -1192,172 +1358,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-rep-eric-swalwell-sues-trump-over-jan-6-riot-alleging-he-poses-risk-of-inciting-future-political-violence.md",
-      "title": "Rep. Eric Swalwell sues Trump over Jan. 6 riot, alleging he poses risk of ‘inciting future political violence’",
-      "excerpt": "California representative, a House impeachment manager and Democratic leader, files suit against Trump, Trump Jr., Giuliani and Rep. Mo Brooks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440",
-          "width": 1440,
-          "height": 1853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-05T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.md",
-      "title": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
-      "excerpt": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uevIlvGvjww/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uevIlvGvjww/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 418,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.amp",
-      "publishedDateTime": "2021-03-05T10:09:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-sen-johnson-to-harris-faulkner-bidens-open-border-policies-creating-disaster.md",
-      "title": "Sen. Johnson to Harris Faulkner: Biden's open-border policies creating 'disaster'",
-      "excerpt": "Sen. Ron Johnson, R-Wis., says he believes the migrant surge at the U.S.-Mexico border is a “disaster” created by the Biden administration’s policies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/siK_mDXG2ws/biden-immigration-policies-crisis-disaster-border-sen-johnson",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/siK_mDXG2ws/biden-immigration-policies-crisis-disaster-border-sen-johnson",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/829450ef-575e-47e0-9c15-f53da93367fa/62fb6c22-123b-4d4d-8e08-bea04dd2b512/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp",
-      "publishedDateTime": "2021-03-05T10:03:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

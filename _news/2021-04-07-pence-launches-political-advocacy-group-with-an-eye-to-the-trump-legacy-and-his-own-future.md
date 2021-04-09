@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-gro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html"
 type: article
 quality: 189
-heat: 529
+heat: 549
 published: true
 
 provider:
@@ -283,9 +283,9 @@ related:
         height: 773
         isCached: true
   - title: "Race to face Cuomo kicks off with two Trump allies"
-    excerpt: "Democrats reacted with a shrug to news of Lee Zeldin’s bid — and an eye roll for Andrew Guiliani, who was a White House aide under Trump."
+    excerpt: "The MAGA-aligned congressman’s bid comes after Andrew Guiliani, the son of the bombastic former New York City mayor, said he had discussed his own gubernatorial ambitions with former President Donald Trump, his father's former client. While those initial ..."
     publishedDateTime: 2021-04-08T23:35:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-for-cuomos-throne-kicks-off-with-2-trump-allies-1372320"
     type: article
     provider:
       name: Politico
@@ -293,6 +293,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/ff/f5/e268b95e4e468ae682fc9aa137da/ap18142588150929-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Gaetz-tied group threatens to sue reporters writing on his Trump relationship"
+    excerpt: "But Elmore’s email took umbrage with reports that the congressman had asked then-President Donald Trump for a pardon and was currently on the outs with the 45th president. “We are seeking an immediate print and on-air statement of retraction."
+    publishedDateTime: 2021-04-09T02:34:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/gaetz-reporters-trump-480534"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/dc/df/4ae0060d42db84acd39ceb55a189/210408-matt-gaetz-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

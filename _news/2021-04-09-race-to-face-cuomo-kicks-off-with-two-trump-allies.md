@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Race to face Cuomo kicks off with two Trump allies"
-excerpt: "Democrats reacted with a shrug to news of Lee Zeldin’s bid — and an eye roll for Andrew Guiliani, who was a White House aide under Trump."
+excerpt: "The MAGA-aligned congressman’s bid comes after Andrew Guiliani, the son of the bombastic former New York City mayor, said he had discussed his own gubernatorial ambitions with former President Donald Trump, his father's former client. While those initial ..."
 publishedDateTime: 2021-04-08T23:35:00Z
-originalUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
-webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
+originalUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-for-cuomos-throne-kicks-off-with-2-trump-allies-1372320"
+webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-for-cuomos-throne-kicks-off-with-2-trump-allies-1372320"
 type: article
 quality: 115
 heat: -1
@@ -296,7 +296,21 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Gaetz-tied group threatens to sue reporters writing on his Trump relationship"
+    excerpt: "But Elmore’s email took umbrage with reports that the congressman had asked then-President Donald Trump for a pardon and was currently on the outs with the 45th president. “We are seeking an immediate print and on-air statement of retraction."
+    publishedDateTime: 2021-04-09T02:34:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/gaetz-reporters-trump-480534"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/dc/df/4ae0060d42db84acd39ceb55a189/210408-matt-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "iy5Kk8Qn+xIIroxjhpY2wNyxfHwrttoEd/9ZCb2BqN97ZX+v3GPDsIT5b3wpdqHwb8AIi1UIatJ1IwyzhZPie7Ir23/m6v+ZjroFY6uKk0F3mOhmZRkhA229eSn583J7EEu4C48+Wnwj6Z4s9dKFcZ66EOTAWG1UY2+kE7A5wUT1CFvS1qPCqx+79xJ+Bo7UqnrY0bIJsvhXMAi6ZWEDkgkrWorIpPJkyCiLuR8o5lTQpg925KBIYsfGmN8k1NzKeX1iRGTnTw+wHWFmI8AlqsdO8lpIurXXMD1BPIq9M9/fddYJytA0sqqQvHK9Jn9O6/KqDhOASgjyaIQnYAJw6IoXD2+h3vQl9AMEIl8NHX8=;cWMvHPeEfWZ0kTnCk9Szxg=="
+secured: "tn0uKzYWPKFmuHrKDhes7BRAW3vmZef9wiht88Lobh6F/8CfRxmecmWumHXRdvqN+GfTKeAMuqGwCOQCGhDiReDAjtcAMEy44ly9eeaXKyg2loWBPaJ6JRQY91jMfq/chGJAOjAUfh5jr25taG5atwH+DxaYNX76g1pOlxetOKc9IPss4MPDiVD3IrEUQCTQrOLj4sq0RpybRmlWtjGx3p5pziE5/PiD6IW51QOwj7O5O4zmDDYmgGYgzbEDltvW4JQgiyiW0aMmkF+y12U6e73kBo8LlDBdv9Y4oOrWr1aUEF3fo/RcnzFcaa2hQEaamEQHh0hwc2LahPwh1tHwsNuSRtiUjLgUwf34Hk2TNZA=;X+n0OXCd83Bc51KBw1TolQ=="
 ---
 
