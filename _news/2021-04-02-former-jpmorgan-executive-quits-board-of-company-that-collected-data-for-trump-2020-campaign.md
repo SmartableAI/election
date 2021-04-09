@@ -79,6 +79,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Former Trump campaign manager advising Jenner on potential California gubernatorial run"
+    excerpt: "ADVERTISEMENT Parscale was the digital guru for former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar slams Biden admin for ..."
+    publishedDateTime: 2021-04-08T19:18:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 117
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/jennercaitlyn03112016getty.jpg"
+        width: 645
+        height: 363
+        isCached: true
   - title: "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus"
     excerpt: "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ..."
     publishedDateTime: 2021-03-31T10:54:00Z

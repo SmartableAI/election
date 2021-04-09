@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 123
     images:
       - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
+    excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
+    publishedDateTime: 2021-04-04T02:23:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
         width: 980
         height: 551
         isCached: true

@@ -2734,6 +2734,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hunter Biden, Donald Trump Jr. trade jabs in ongoing war of words"
+    excerpt: "Hunter Biden took a swipe at Donald Trump Jr. during a television appearance Thursday night — the latest shot in an ongoing war of words between the two first sons. The younger Biden made the ..."
+    publishedDateTime: 2021-04-09T12:20:00Z
+    webUrl: "https://nypost.com/2021/04/09/hunter-biden-donald-trump-jr-trade-jabs-in-ongoing-war-of-words/"
+    ampWebUrl: "https://nypost.com/2021/04/09/hunter-biden-donald-trump-jr-trade-jabs-in-ongoing-war-of-words/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/09/hunter-biden-donald-trump-jr-trade-jabs-in-ongoing-war-of-words/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/hunter-biden-don-jr.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump reportedly to leave White House the morning of Biden’s inauguration"
     excerpt: "President Trump is set to officially depart.C. Wednesday morning, reports said. That same day Joe Biden will take the oath of office and be officially sworn in as th"
     publishedDateTime: 2021-01-16T18:55:00Z

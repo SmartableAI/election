@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html"
 type: article
 quality: 185
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact-checking Texas Republicans' attacks on Harris County voting procedures"
+    excerpt: "The Texas Senate passed new voting legislation on April 1. As the bill goes through the state House, corporations like Dell Technologies and American Airlines -- both based in Texas -- have started advocating against it, arguing that it restricts voter access.\n    \n"
+    publishedDateTime: 2021-04-09T13:28:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p8NT3P7_0zI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104121638-ballot-2020-general-election-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris to move into Naval Observatory residence next week after renovations delay"
     excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff will move into the vice president's official residence next week after their move was delayed for more than two months because of \"repairs to the home,\" Harris' chief spokeswoman Symone Sanders said on Thursday.\n    \n"
     publishedDateTime: 2021-04-01T18:04:46Z

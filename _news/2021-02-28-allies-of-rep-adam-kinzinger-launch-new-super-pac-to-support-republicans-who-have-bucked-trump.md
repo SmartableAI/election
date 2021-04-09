@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-tru
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp"
 type: article
 quality: 113
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rep. Adam Kinzinger raises $1.1 million for his anti-Trump PAC in first quarter, and an equal amount for his reelection fund"
+    excerpt: "U.S. Rep. Adam Kinzinger, one of 10 House Republicans who voted to impeach Trump, raises $1.1 million in the first quarter for his anti-Trump political action committee."
+    publishedDateTime: 2021-04-01T10:30:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/OC4YOxgHLTPntlyCk-6Obhq8MW4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RUQJ3J5JPYQCBSSFXMQTABTKDM.aspx"
+        width: 1200
+        height: 807
+        isCached: true
   - title: "Trump calls out Kinzinger, others as ‘hacks’ dividing GOP, while congressman says speech ‘peppered with dishonesty’"
     excerpt: "Donald Trump calls out Adam Kinzinger, others as “hacks“ dividing GOP, congressman says speech “peppered with dishonesty.“"
     publishedDateTime: 2021-03-01T06:14:00Z

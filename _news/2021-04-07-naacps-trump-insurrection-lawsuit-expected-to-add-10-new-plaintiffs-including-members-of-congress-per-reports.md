@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'Run, Ron, Run!': Trump urges his staunch ally Sen. Ron Johnson, who downplayed the Capitol riot, to seek reelection"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump on Thursday urged Republican Sen. Ron Johnson of Wisconsin, a controversial lawmaker who downplayed the January 6 Capitol riot, to seek a third term next year. In a statement ..."
+    publishedDateTime: 2021-04-08T20:24:00Z
+    webUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/606f55de30004b0019b26baa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "rfxWlgY3cCFSIfQ2W/lA1sh6kbGQU4F8P7HPMjzr4VPw8rw7u7puU3IwQwu7ehk71v03aGpwT063gkohYkkKjrypOclxVyG05C+IsUj1CXtr2h6deOO0PTzyYJmrQKuqD0QHXgTejNG5uCIy9yUClxQhaAq8oIaZIexqZwFrLolJD90rasoLGHEQiz1k2DTMB9cHcZQfnvtQkxQRYohPVuw2DT5cwSjJ6JFwlWscVtuq1cQTLGv537iPNa046i0p8b8ojflaO0wcFB15lDidbsUQ0XG/AMDrvYjGVR1O40EnY0ytJryllh7qL5aEUsp6Io68LxT8dzAGy5ZKVAlnTJ0HSqj0cor5lKrSYqTfgtI=;ysvfu8lOBbay4jJRT/ss7w=="
 ---

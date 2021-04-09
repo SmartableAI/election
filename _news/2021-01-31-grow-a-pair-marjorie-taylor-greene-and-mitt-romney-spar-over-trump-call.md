@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romne
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1"
 type: article
 quality: 123
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1721247/marjorie-taylor-green-pictured-dc-november.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Marjorie Taylor Greene Slams Anti-Trump 'Republican' Consultants, Calls Them Poison to Party"
+    excerpt: "Representative Marjorie Taylor Greene (R-Ga.), a staunch supporter of former President Donald Trump, criticized those who think it's best to distance themselves from him as being a \"poison\" to the GOP. After Trump's exit from the White House, the ..."
+    publishedDateTime: 2021-04-09T13:55:00Z
+    webUrl: "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381"
+    ampWebUrl: "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1774623/marjorie-taylor-greene-trump.jpg"
+        width: 2500
+        height: 1653
         isCached: true
   - title: "'Around here, Trump is king': How Marjorie Taylor Greene got to Congress by running as the MAGA candidate"
     excerpt: "Constituents say Marjorie Taylor Greene embodies conservative values: Anti-taxes, pro-religion, pro-guns, pro-Trump. Conspiracy theories? Not so much."

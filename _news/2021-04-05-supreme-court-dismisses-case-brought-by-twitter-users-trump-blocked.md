@@ -303,6 +303,22 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Former Trump officials helped interfere with, suppress CDC science guidance"
+    excerpt: "... from the Centers for Disease Control and Prevention they felt was harmful to President Trump Donald Trump First GOP lawmaker calls on Gaetz to resign Katie Hill on Matt Gaetz: 'I feel ..."
+    publishedDateTime: 2021-04-09T12:49:00Z
+    webUrl: "https://thehill.com/policy/healthcare/547304-former-trump-officials-helped-interfere-with-suppress-cdc-science-guidance"
+    ampWebUrl: "https://thehill.com/policy/healthcare/547304-former-trump-officials-helped-interfere-with-suppress-cdc-science-guidance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/547304-former-trump-officials-helped-interfere-with-suppress-cdc-science-guidance?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/clyburnjames_031121gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Headhunters having hard time finding jobs for former Trump officials: report"
     excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
     publishedDateTime: 2021-04-07T18:56:00Z
@@ -563,22 +579,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Bowing to Trump? GOP brings leaders, donors to his backyard"
-    excerpt: "There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of donors and several future presidential prospects to the ..."
-    publishedDateTime: 2021-04-09T04:26:00Z
-    webUrl: "https://www.chron.com/news/article/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Mike Pence launches conservative advocacy group as Republicans cast eyes on 2024"
     excerpt: "Former Vice President Mike Pence launched a new policy and advocacy organization to “promote the pro-freedom policies of the last four years” in a possible sign he’s gearing up for a 2024 presidential bid. Advancing American Freedom, which plans to ..."
     publishedDateTime: 2021-04-07T16:20:00Z
@@ -683,6 +683,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard"
+    excerpt: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of ..."
+    publishedDateTime: 2021-04-09T04:23:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "M7UkN5y43Bd5H5URz/cKURZ4OPKTb7TABqQLRIwpjTPZBM98HY0AvHr7ArXXh2L5NQR1cH/QVdbNW+DVyWeaqlh0NGRSNaMLRspCPxQazeMVQSMtFHaouqvT2Hn3AZRtiqtVc1FKG0o0yC2J/bMj7HfssP4mmoUTrltBGcsbZUxRzPyQLKfdlRGb52KpV1sPfRx0zGrYrPat8z5WMT9vq0a/vCFnOs9Ok4tlsUWATtuUZYnC5VQ2TxmZ7+fyJaV2viLp32/TU49zSi1Cdsj92inJrIc5ylIQbtbG2E7H6JcRmRJSakTNT2CvJu1GHGWi6ioprU/AyRRvcBOiVpmQbc8APWtBTkR27T8sJmSn9f6GVd2t3CUMeBvsP/gWuemW8WhCmABxm90z39VbJMrfbOnWCGu6jycdKiP7dnE5vRGOUhwui9NsRmOUH68bQkUPgj42N/oPbbarGw9PoxbCY5Ii6b/8FGX8Pu+4TzcgK7+NvBybMC9N54NSZy+4sMNqekBLFqexMpy5Z6TTug6jsw==;T86bQPV0WBxCQj3Q6jUgaA=="
 ---

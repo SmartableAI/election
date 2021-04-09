@@ -110,19 +110,19 @@ related:
         height: 360
         isCached: true
   - title: "First White House budget proposal to preview Biden's goals"
-    excerpt: "WASHINGTON (Reuters) -President Joe Biden will release his first budget proposal to Congress on Friday, offering a long-awaited glimpse into his policy agenda that will mark a sharp departure from his predecessor, Donald Trump. Nearly three months into a ..."
-    publishedDateTime: 2021-04-09T05:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget/white-house-says-it-is-hopeful-its-skinny-budget-will-be-out-this-week-idUSKBN2BU2VH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2VH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2VH"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden will release his first budget proposal to Congress on Friday, offering a long-awaited glimpse into a policy agenda that will mark a sharp departure from his predecessor, Donald Trump. Nearly three months into a ..."
+    publishedDateTime: 2021-04-09T10:24:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2BU2VH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW190"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW190"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557635606&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361EZ"
-        width: 844
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557841696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
+        width: 860
         height: 545
         isCached: true
   - title: "Fixing the credit Catch-22: How Biden wants to make credit scores fairer"

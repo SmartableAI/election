@@ -1,12 +1,12 @@
 ---
 category: news
 title: "First White House budget proposal to preview Biden's goals"
-excerpt: "WASHINGTON (Reuters) -President Joe Biden will release his first budget proposal to Congress on Friday, offering a long-awaited glimpse into his policy agenda that will mark a sharp departure from his predecessor, Donald Trump. Nearly three months into a ..."
-publishedDateTime: 2021-04-09T05:27:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-budget/white-house-says-it-is-hopeful-its-skinny-budget-will-be-out-this-week-idUSKBN2BU2VH"
-webUrl: "https://www.reuters.com/article/us-usa-biden-budget/white-house-says-it-is-hopeful-its-skinny-budget-will-be-out-this-week-idUSKBN2BU2VH"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2VH"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2VH"
+excerpt: "WASHINGTON (Reuters) - President Joe Biden will release his first budget proposal to Congress on Friday, offering a long-awaited glimpse into a policy agenda that will mark a sharp departure from his predecessor, Donald Trump. Nearly three months into a ..."
+publishedDateTime: 2021-04-09T10:24:00Z
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2BU2VH"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2BU2VH"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW190"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW190"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557635606&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361EZ"
-    width: 844
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557841696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
+    width: 860
     height: 545
     isCached: true
 
@@ -293,6 +293,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "dX2KLSauglufyXnTfvNSf16YJNZokQijG8QVi+lZJKtsdsza5kmRwye8vGiKelalUPiX8DvShIvgCQZ3Al8HyUKnfD1l/DWc41Kid93msvZ3q17pXZpwxN6JI1alPCn2Xk990PUxjvHOnADEjFvaDnBfkSqW0Hr8vBNO7d6uTtDPSl/bGbork8x4QktJp+wvB0iBwOlKl4/z4GRqnqDpEhwq2xIzY+S7QXEzqPgmVmOUMYuVHKW3JjMSmbpycaefvUs7Nd5W4YK5HPBITDWQKWsCAs6qIj38DvwrfWWkh1Vdi+9UalUjB5jHvHCGwHEG622KNzDtXyDQ2pBOEw6FY87DW9UndXuKA0JF0AhTQ+YRgZf8pcO795zFsE6thYT/eLhI6iSIiLUvvHuSS7FTsA1vpw6I+swGeWCn3mtopCWw0C/ERnPdRJr1UDKhhJWzvpO5+3TbiXdglMU/rxEtBcCoBP1uH6VBNeSgKnuSrFwQScZ7MXmzSYc73GieClMmxdv0FoRedSDZwyDIyiivng==;1IhAJtICh6uCdkFjD4nQsg=="
+secured: "OeGWgXa1VTzszKiYui/btxBgUlNewo5UZUZ74ZorS+9OXAWo+XH62FwKZjEbq+bKMGHAmPGqFqdWIPYy0gOUzM9xbesewIdrq3nzNcEnWH52bvuDTibF1E0W8VsAVI0Ixz/lNMZPxaqeOLjHwqSuGBdjVOI4NReskjKqW6ZinsuCsMDnr6rUMmayD3SNQmVJU4HENuKWK+N1s3HKY5nQNmA52dn6/elOLDBXy0oGyoQrvATlnPbw/pYapTKPLLcOLmD6SjnUlRYuYta5/xvNxrA+6jxZQoNECn9I0XfaL9iefj0BsNgxXVyiVX5OKBxDcONpNh6WsFelLJG1EFt0Zpp5wKBVUB2tQvHJxxnTQww=;uLAT2CujsWayUPORxhpt2w=="
 ---
 

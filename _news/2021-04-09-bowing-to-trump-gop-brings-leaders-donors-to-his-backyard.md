@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Bowing to Trump? GOP brings leaders, donors to his backyard"
-excerpt: "There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of donors and several future presidential prospects to the ..."
-publishedDateTime: 2021-04-09T04:26:00Z
-originalUrl: "https://www.chron.com/news/article/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
-webUrl: "https://www.chron.com/news/article/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
-ampWebUrl: "https://www.chron.com/news/amp/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Bowing-to-Trump-GOP-brings-leaders-donors-to-16088073.php"
+title: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard"
+excerpt: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of ..."
+publishedDateTime: 2021-04-09T04:23:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Pence launches group as Trump officials line up new roles"
@@ -314,6 +312,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GQEH4QUFTII6XCULLT4CYPP74Q.jpg&w=1440"
         width: 1440
         height: 958
+        isCached: true
+  - title: "Former Trump officials helped interfere with, suppress CDC science guidance"
+    excerpt: "... from the Centers for Disease Control and Prevention they felt was harmful to President Trump Donald Trump First GOP lawmaker calls on Gaetz to resign Katie Hill on Matt Gaetz: 'I feel ..."
+    publishedDateTime: 2021-04-09T12:49:00Z
+    webUrl: "https://thehill.com/policy/healthcare/547304-former-trump-officials-helped-interfere-with-suppress-cdc-science-guidance"
+    ampWebUrl: "https://thehill.com/policy/healthcare/547304-former-trump-officials-helped-interfere-with-suppress-cdc-science-guidance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/547304-former-trump-officials-helped-interfere-with-suppress-cdc-science-guidance?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/clyburnjames_031121gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Headhunters having hard time finding jobs for former Trump officials: report"
     excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
@@ -680,6 +694,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IDr2ZI/pV1Hr3G+/ig4cAB0NOgH5ptNcEh7TutgLYq7RIH+rmoZiHHWl/g3RqS3Qc/nmePEnBzhxY6YYgoMBJnU9D3j1Qzv7coLS2OxTww/3vxIsCVI3ykFDEFHNsPvQVFH7wS715mhkUf1w3h1xSVu4SB5yZjzlqVlVk4WKmXcZlVzrBIFzW9SXZBsIdwnmuoGDCoENKW0AO8WVij/h/NuM4Cn8t59Y/i6hyCT86HiTU5BArPchn/kBc27co+l6WZ4OTguFbUBpmSB7uMiohrs2BoQOUIe+s+MFlrEGLOO19gy/CshCepk3/xh2DCNR/DmpY73My7YA91X3uzWbxBkg65FjfEgQ7FaRmoSgoMk=;8Hb+C1pbM8WG0iFRnlOF3w=="
+secured: "E2+BepakHweKkeKnc8ADRaVa6IZ3yr1vJ03zHVeQSTBgZL3DOtI1XMzRYRsiZEVvuLCS1R81L8Qyh1KoNSMISxqiUIb364JiHo7WZzcGxQLAiwEpZeoV577oWLIc8dCs9uiWNWCjk2xsy8ssLvcKyyRE5PIPzu2WyiOHmlrTUhtco5t3uKwuJiDhaXKcHhlhssojLinCUfhuMxBcvQVkto8yyJwTcP89sIYEa7hOmrEOQRNor1gVNED/JtUTZM5B2+LapAOZY8CWzTLgvZxWvmjAYjJhk4A17EkmOrVG2L1Onq5G22SY/GlAxL4Yz8Dfw6Rx4Z9MNWxisUIjIxiI0hDXvoe6twKjZRfmYOUgaecV3pFJadJAF7vYNskAsXh2q7rRISP06JPmKEFOr/hs/Bbn3d7w3+TvZxBMflPrgKSLckskXhYvoeX0W0lfqo5GIbit4HJrszlmSPIuw/OMPM1kKptBin75aWgSmp3FumMzRbTQ8FhEEtzlYOz3snFbd75oQYOOPUgsOe7r+mubng==;6R/hKuhL8jZ0KYILYWnYlQ=="
 ---
 

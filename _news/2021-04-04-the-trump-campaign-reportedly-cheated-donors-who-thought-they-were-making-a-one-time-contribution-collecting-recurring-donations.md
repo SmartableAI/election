@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Milwaukee asks to sanction Trump over ‘baseless’ election suit"
+    excerpt: "Donald Trump and his lawyers should pay more than $65,000 in legal fees to Milwaukee County and face additional sanctions for filing a “baseless” lawsuit trying to overturn the result of the presidential election, Wisconsin’s biggest metropolitan ..."
+    publishedDateTime: 2021-04-09T12:06:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/SxmmnkCuK8npJYpMweFwVOqZLOI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TP6T4HP25W24BFJK5EIPZTUMX4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump calls on Ron Johnson to run for reelection"
     excerpt: "Former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar slams Biden admin for continuing 'the construction of Trump's xenophobic and ..."
     publishedDateTime: 2021-04-08T17:43:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://thehill.com/sites/default/files/johnsonron_031621gn_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Donald Trump Urges Ron Johnson to Run for Re-Election in Wisconsin: 'Run, Ron, Run!'"
-    excerpt: "In a statement released by Save America PAC Thursday, Trump encouraged Johnson to \"Run, Ron, Run!\" Trump's public statement comes with more than a year to go until Johnson could be re-elected and even acknowledged that Johnson himself has not announced ..."
-    publishedDateTime: 2021-04-08T19:00:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-urges-ron-johnson-run-re-election-wisconsin-run-ron-run-1582136"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-urges-ron-johnson-run-re-election-wisconsin-run-ron-run-1582136?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-urges-ron-johnson-run-re-election-wisconsin-run-ron-run-1582136?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
-    images:
-      - url: "https://d.newsweek.com/en/full/1773959/senator-ron-johnson-wisconsin.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit"
     excerpt: "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ..."
@@ -79,22 +79,6 @@ related:
         width: 2978
         height: 1820
         isCached: true
-  - title: "Colbert mocks Gaetz after Trump denies he asked for a pardon"
-    excerpt: "30 Report - Presented by ExxonMobil - Pence sets the stage for 2024 MORE after former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar ..."
-    publishedDateTime: 2021-04-08T14:35:00Z
-    webUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon"
-    ampWebUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/colbert_stephen_gaetz_matt040821.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Trump adviser Giuliani asks judge to throw out $1.3 billion lawsuit over his 'big lie' election claims"
     excerpt: "WASHINGTON (Reuters) - Donald Trump’s former personal lawyer Rudy Giuliani asked a judge on Wednesday to throw out a voting machine company’s $1.3 billion defamation lawsuit relating to his false claims about the November 2020 presidential election ..."
     publishedDateTime: 2021-04-07T20:26:00Z
@@ -110,86 +94,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557646135&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361AV"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump endorses Wisconsin Sen. Ron Johnson, encourages him to run in 2022"
-    excerpt: "MADISON, WIS. — Former President Donald Trump offered his “Total Endorsement” of Wisconsin’s Republican Sen. Ron Johnson on Thursday, encouraging him to seek a third term as he mulls whether to run again or retire. Johnson’s seat in battleground ..."
-    publishedDateTime: 2021-04-08T18:39:00Z
-    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-trump-endorses-johnson-20210408-erpkdcgytvgxvpio353a2tmwvm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-trump-endorses-johnson-20210408-erpkdcgytvgxvpio353a2tmwvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-trump-endorses-johnson-20210408-erpkdcgytvgxvpio353a2tmwvm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/9rbKM6LwPE3HotSopY0UxwnLtWI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OVPGT475W2XTICONE6KTJSHUFM.aspx"
-        width: 1200
-        height: 796
-        isCached: true
-  - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
-    excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
-    publishedDateTime: 2021-04-04T02:23:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Rep. Ilhan Omar slams Biden's 'shameful' plan to restart construction on Trump's 'xenophobic and racist' wall"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Rep. Ilhan Omar has criticized President Joe Biden for continuing the construction of Donald Trump's \"xenophobic and racist\" southern border wall. \"It's shameful and unacceptable for @POTUS to continue the ..."
-    publishedDateTime: 2021-04-08T11:00:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 121
-    images:
-      - url: "https://i.insider.com/606ee08430004b0019b2694b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Former Trump campaign manager advising Jenner on potential California gubernatorial run"
-    excerpt: "ADVERTISEMENT Parscale was the digital guru for former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar slams Biden admin for ..."
-    publishedDateTime: 2021-04-08T19:18:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 117
-    images:
-      - url: "https://thehill.com/sites/default/files/blogs/jennercaitlyn03112016getty.jpg"
-        width: 645
-        height: 363
-        isCached: true
-  - title: "'Run, Ron, Run!': Trump urges his staunch ally Sen. Ron Johnson, who downplayed the Capitol riot, to seek reelection"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump on Thursday urged Republican Sen. Ron Johnson of Wisconsin, a controversial lawmaker who downplayed the January 6 Capitol riot, to seek a third term next year. In a statement ..."
-    publishedDateTime: 2021-04-08T20:24:00Z
-    webUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/606f55de30004b0019b26baa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
     excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
@@ -207,82 +111,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Rep. Adam Kinzinger raises $1.1 million for his anti-Trump PAC in first quarter, and an equal amount for his reelection fund"
-    excerpt: "U.S. Rep. Adam Kinzinger, one of 10 House Republicans who voted to impeach Trump, raises $1.1 million in the first quarter for his anti-Trump political action committee."
-    publishedDateTime: 2021-04-01T10:30:00Z
-    webUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-pac-finances-20210401-jhglluotk5hj3ezkydmxx2yzx4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/OC4YOxgHLTPntlyCk-6Obhq8MW4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RUQJ3J5JPYQCBSSFXMQTABTKDM.aspx"
-        width: 1200
-        height: 807
-        isCached: true
-  - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."
-    publishedDateTime: 2021-04-03T10:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/60681af2a7d803001963e9f8?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "9/13: Carson, Trump, Axelrod"
-    excerpt: "The latest on the 2016 presidential campaign and the newest polls in key battleground states, with Donald Trump, Ben Carson, CBS News Elections Director Anthony Salvanto, Democratic Strategist David Axelrod,"
-    publishedDateTime: 2021-04-08T11:36:00Z
-    webUrl: "https://www.cbsnews.com/video/913-carson-trump-axelrod-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2017/12/15/9334678b-ba9b-48ff-9dca-8457084b146a/thumbnail/1200x630/f248e71cc26ba21608939f758781626d/page-2-0912v3-445078-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
-    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
-    publishedDateTime: 2021-04-07T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 96
-    images:
-      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump endorses Wisconsin's Johnson, encourages him to run"
-    excerpt: "MADISON, Wis. (AP) — Former President Donald Trump offered his “Total Endorsement” of Wisconsin's Republican Sen. Ron Johnson on Thursday, encouraging him to seek a third term as he mulls whether to run again or retire. Johnson's seat in battleground ..."
-    publishedDateTime: 2021-04-08T18:31:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-endorses-Wisconsin-s-Johnson-encourages-16086827.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-endorses-Wisconsin-s-Johnson-encourages-16086827.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-endorses-Wisconsin-s-Johnson-encourages-16086827.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "US Lifts Trump Sanctions On Hague Prosecutor, Seeking Cooperation"
     excerpt: "US President Joe Biden on Friday revoked sanctions imposed by Donald Trump on the top prosecutor of the International Criminal Court as the new administration seeks a more cooperative approach on a row that has alienated allies."
     publishedDateTime: 2021-04-02T20:35:00Z
@@ -297,6 +125,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
+    excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
+    publishedDateTime: 2021-04-05T21:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-05/wisconsin-cities-trump-should-pay-legal-bills-for-challenge"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "CoL+OW6hrBP7mvFIPc2PmIHbU4q5s6CqhjEHEYk/T9uyKs9UiN35JtL5gwi7GnqlljTXHSESL2AA5vvqrMTBtSngqoyoVO2CU7Lw9YZUIKC3c5yUB0CSYcvht47TrLV7f5krPI72LcZ7aKpbkBRlA+QXFfHP+Stm+qcR8CCDepzVjyO21frV5zF2ydSOJDDornn3YWHdBsK7kat4R/czNXKKPO4tjZLXmestYLaCaXxOoywK5JleDL5yLZATcTmv5SROkTyIYiqVkBP/Tyi49f20RAjGmUJioVfRqoYIgRUcn+RH0B6HKPrIMA1P3W4ZPzsew2p8PoTOdduAjn3/VtpazfzUOOnlLNnohhuaIZNZ3clTl2T6obEYEnwXvlL3crF79djH+NkAik9/J+lp8LUDl2bg2+RTXLjVX6Iui4db6PoM0QNh6zKD0z7mx/Gy5ZsEzKqscV3N0uaWxyrYY1q6cYzRVMhe+5Aw4AJrIxOVgyNjHUsmfWs/RuWf/W0lqyClYp4fZxptESPx1jRVvQ==;cKvT3CN00i62+pmySEKhzw=="
 ---

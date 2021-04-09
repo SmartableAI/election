@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Texas Republicans' attacks on Harris County voting procedures"
+    excerpt: "The Texas Senate passed new voting legislation on April 1. As the bill goes through the state House, corporations like Dell Technologies and American Airlines -- both based in Texas -- have started advocating against it, arguing that it restricts voter access.\n    \n"
+    publishedDateTime: 2021-04-09T13:28:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p8NT3P7_0zI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104121638-ballot-2020-general-election-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "VP Harris is the latest White House official to appear with California Gov. Newsom amid recall effort"
     excerpt: "Top members of the Biden White House have appeared with California's embattled Democratic governor, Gavin Newsom, twice over the last week -- a signal of support for a politician who is likely to face a recall election.\n    \n"
     publishedDateTime: 2021-04-05T20:25:11Z

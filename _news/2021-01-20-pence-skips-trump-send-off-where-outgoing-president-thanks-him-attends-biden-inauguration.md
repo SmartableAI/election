@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4745
+heat: 4765
 published: true
 
 provider:
@@ -2717,6 +2717,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077770966304.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Hunter Biden, Donald Trump Jr. trade jabs in ongoing war of words"
+    excerpt: "Hunter Biden took a swipe at Donald Trump Jr. during a television appearance Thursday night — the latest shot in an ongoing war of words between the two first sons. The younger Biden made the ..."
+    publishedDateTime: 2021-04-09T12:20:00Z
+    webUrl: "https://nypost.com/2021/04/09/hunter-biden-donald-trump-jr-trade-jabs-in-ongoing-war-of-words/"
+    ampWebUrl: "https://nypost.com/2021/04/09/hunter-biden-donald-trump-jr-trade-jabs-in-ongoing-war-of-words/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/09/hunter-biden-donald-trump-jr-trade-jabs-in-ongoing-war-of-words/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/hunter-biden-don-jr.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "In breaking with Trump, Pence does ‘what he believes in,’ strategist says"
     excerpt: "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 860
+heat: 880
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/bKE8X5PUmNsbJto4eN8Y39v1RIY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/33N5CXL3DNBKHD7AGLPDHBVIP4.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Jonathan Bernstein on Vice President Kamala Harris (Podcast)"
+    excerpt: "Bloomberg Opinion columnist Jonathan Bernstein says that Republicans seem far more interested in demonizing Coca-Cola and Major League Baseball these days than they are in bashing the vice president Kamala Harris."
+    publishedDateTime: 2021-04-09T12:24:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2021-04-09/jonathan-bernstein-on-vice-president-kamala-harris-podcast"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris visited beloved Brown Sugar Bakery on Chicago’s South Side on Tuesday. She couldn’t have chosen better."
     excerpt: "On her way out of town Tuesday following a pit stop in Chicago between California and Washington, D.C., Vice President Kamala Harris grabbed dessert from Brown Sugar Bakery and Confections in the Chatham neighborhood. It was a pretty sweet call on her part."

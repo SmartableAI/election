@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Former Trump campaign manager advising Jenner on potential California gubernatorial run"
+    excerpt: "ADVERTISEMENT Parscale was the digital guru for former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar slams Biden admin for ..."
+    publishedDateTime: 2021-04-08T19:18:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 117
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/jennercaitlyn03112016getty.jpg"
+        width: 645
+        height: 363
         isCached: true
   - title: "Former JPMorgan executive quits board of company that collected data for Trump 2020 campaign"
     excerpt: "Blythe Masters, a former top executive at JPMorgan Chase, is quitting the board of Phunware, a company that created a controversial voter data collection app for Donald Trump's 2020 re-election campaign."
