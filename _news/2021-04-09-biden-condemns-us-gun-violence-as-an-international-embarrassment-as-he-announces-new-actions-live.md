@@ -39,6 +39,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – as it happened"
+    excerpt: "Maanvi Singh in Oakland and Joan E Greve in Washington Attorney general Merrick Garland expressed appreciation to Joe Biden for nominating David Chipman to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives. Chipman previously served as an ATF ..."
+    publishedDateTime: 2021-04-08T22:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f2dd98f087dc3964a3525"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 85
 
 secured: "6lHDl4ymUsCZwx8UF+xPR8eTy3wftorT7xz8zpP0x5CuqBk7A1ipQRMcDXLLDETkYcXLbkhME2cwicZVP29X3AGPt0sf3Zg7tIx7FEgOc0C1GYU+WtWm3GBJAO7z8jZcl7iVQk4+nFbLRGoB7Dk5d5n/nxfURPg8RT1P2Xa9C2aQDauoQ+6DijMCFgcIYvn18V9HEsrS9w/jPw9O3ooi2/Ib1ofpFWHraUQ0g1jhtW4D/U3LG8ojlhOlefVXUUciVLTEYIWkcXjYB0H2ABa6fOUJo4RBJ2lhjbnCy5EUa7IKCW4Vax4OnY/0gjccIS8OA/911tqnpcpuCIeomVJRBNO22lG2i5zdDS8a/E0czfQ8lJDtEu9ki5VZ3cvX0d+sYD8eKc1JxmKzUylaljsJXnsYQx8MjcGlAqW5h+5JbWrdxb+I6SROzY248fKmROWa8/UKojulQJqqYnAKflGdTa7hLlg9H5HkKBh8kTcyy1N+hsn4pPojP/Up1R/binC5f1Bjlx7r0QHCy/F5goqLag==;l32eGlvTF4MvInZElOocbA=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Georgia Lt. Gov. unlikely to run again after taking on Trump"
+    excerpt: "ATLANTA — Georgia’s lieutenant governor is unlikely to run for a second term, his chief of staff said Thursday, after he was among the most high-profile Republicans to openly contradict former President Donald Trump’s false claims about fraud in the ..."
+    publishedDateTime: 2021-04-08T20:26:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z

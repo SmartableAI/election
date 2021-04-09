@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden action on guns draws praise, skepticism"
-excerpt: "President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of infrastructure debate Omar slams Biden admin for continuing ..."
-publishedDateTime: 2021-04-08T20:55:00Z
-originalUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
-webUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
-ampWebUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+title: "Joe Biden announces first steps to curb ‘epidemic’ of US gun violence"
+excerpt: "President condemned gun violence as an ‘international embarrassment’ after series of recent shootings around the US Last modified on Thu 8 Apr 2021 14.18 EDT Joe Biden, under pressure to act after a slew of mass shootings, has announced his first steps ..."
+publishedDateTime: 2021-04-08T18:18:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
+webUrl: "https://www.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://thehill.com/sites/default/files/bidenjoe_040821getty_guns.jpg"
-    width: 980
-    height: 551
-    isCached: true
 
 related:
   - title: "Biden affirms support for Ukraine in first call to leader"
@@ -62,6 +56,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/52577f63b6920f5b4b643b2159c2d9e2b93ec6fc/0_260_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc0ce429f90291119ff6f21174f3fcde"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden action on guns draws praise, skepticism"
+    excerpt: "President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of infrastructure debate Omar slams Biden admin for continuing ..."
+    publishedDateTime: 2021-04-08T20:55:00Z
+    webUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
+    ampWebUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040821getty_guns.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden tightens some gun controls, says much more needed"
     excerpt: "In President Joe Biden’s first notable gun control measures, he has announced executive actions aimed at addressing what the White House calls a “gun violence public health epidemic"
@@ -237,17 +247,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Joe Biden announces first steps to curb ‘epidemic’ of US gun violence"
-    excerpt: "President condemned gun violence as an ‘international embarrassment’ after series of recent shootings around the US Last modified on Thu 8 Apr 2021 14.18 EDT Joe Biden, under pressure to act after a slew of mass shootings, has announced his first steps ..."
-    publishedDateTime: 2021-04-08T18:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
   - title: "President Biden making a push for tighter gun safety laws with new executive actions"
     excerpt: "Biden's infrastructure plan: What's inside the new $2 trillion bill?"
     publishedDateTime: 2021-04-08T12:41:00Z
@@ -263,6 +262,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Bg6rMtbYtM2la5c3Hv3b9Fs90VRXV/6/zbUPiho02iFt1xIvY0e9BMhp8lcheQj/FAWeB2+axhiuyw6yyLPoEHgAw0MvRAmZChxYam4u+xYKOAYGxuq2gb72ljNiOFDwlDDxyqXaPJbc0NPAyNsa5HSvlmPZdv/amgIM8OaWCWOyCSHAnQfGl5U2Cpq+Z0IfGREQS0FqbDGdnYC7HMr2tMSRUYVoioFoQ6h2LulYXcBZpNoJ8EQxWEN6EhyU74kRsifoMFPRPhqZ2F/ugBpcJddS1zNMJOc7mxHs9sAJtbvjcrB+H4OAAzgbUJSBqnE9FgwFyyXSRq7mkTDmMqenzed7PZ9pwZu+qp4yRMYe+Cc=;GF9inV6BxTbqh2gUR6Me7A=="
+secured: "in/BRf/U9/OtMGk6gZPdHatK+TEj91/cPngW/JL8r4CKLaTjCgIa4O93eFDq50ItmqziW7XP1Rsd42fyucelkX8+5NUv+cQBKA2mFkPzrx3iOYDvtxrLvthGVxBnuxifeGkAtG1P5289mrKoI4I0eoIb0GIhOSA5rv0V8peLMA2iC52kJeTj5v6L6zwImnf4hMmcntUjWjj7ejFQHwK2aXW87XOYjDP7chRfXSbg/kerH4IZJFj1JuOcf1bu/GxpPAdqpW+2SbClJKWN4T4l20q+XjlgFDOIPtcifxpz7TA9MWskJQfuqI7VbLmiaMr/G2DSlbTaamzH7wiJYyt9/+75IcWRjvzIed/kBgHRozsgYBYOegUhbX08rx+BVpPwrz0q/l7uD5TKQyl28QafnfpnhtCc5nUfgeGawv/d+kLRCMCJPzwDQnVVhPS6yCfZFBgrfU8UL4ojwKuSmo58m4tQvLYzcsAaG4bm0mHdrDCzgC2cwdvzBsWG012ABvId8gEAOvBky9UP/OR/NukU6g==;nIsgNSZrquOHI45KIY+kTg=="
 ---
 

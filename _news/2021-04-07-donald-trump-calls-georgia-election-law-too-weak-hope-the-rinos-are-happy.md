@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1"
 type: article
 quality: 136
-heat: 216
+heat: 236
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/04/USAT/cf2928f7-a7c1-40a8-8637-c9006181ee7c-AFP_AFP_8Y47Z8.jpg?auto=webp&crop=5692,3202,x0,y311&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Georgia Lt. Gov. unlikely to run again after taking on Trump"
+    excerpt: "ATLANTA — Georgia’s lieutenant governor is unlikely to run for a second term, his chief of staff said Thursday, after he was among the most high-profile Republicans to openly contradict former President Donald Trump’s false claims about fraud in the ..."
+    publishedDateTime: 2021-04-08T20:26:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
-excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
-publishedDateTime: 2021-04-04T00:39:00Z
-originalUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906"
-webUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906"
-ampWebUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
+title: "Georgia Lt. Gov. unlikely to run again after taking on Trump"
+excerpt: "ATLANTA — Georgia’s lieutenant governor is unlikely to run for a second term, his chief of staff said Thursday, after he was among the most high-profile Republicans to openly contradict former President Donald Trump’s false claims about fraud in the ..."
+publishedDateTime: 2021-04-08T20:26:00Z
+originalUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html"
+webUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
 type: article
-quality: 123
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1771346/donald-trump.jpg"
-    width: 594
-    height: 396
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Georgia Lt. Gov. unlikely to run again after taking on Trump"
-    excerpt: "ATLANTA — Georgia’s lieutenant governor is unlikely to run for a second term, his chief of staff said Thursday, after he was among the most high-profile Republicans to openly contradict former President Donald Trump’s false claims about fraud in the ..."
-    publishedDateTime: 2021-04-08T20:26:00Z
-    webUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+  - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
+    excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
+    publishedDateTime: 2021-04-04T00:39:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://d.newsweek.com/en/full/1771346/donald-trump.jpg"
+        width: 594
+        height: 396
         isCached: true
   - title: "Donald Trump has expanded his list of 'woke' companies to boycott, due to their opposition to Georgia's voting law"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump doubled down on his criticism of companies that oppose Georgia's new voting law, and widened his appeal for more boycotts. \"Never submit, never give up!\" Trump said. In a statement ..."
@@ -110,6 +110,6 @@ related:
         height: 600
         isCached: true
 
-secured: "43quEN1sq4vyAVGoGUwKlwO2njQtxHTX0us+fSR/vzKJRI7JeA1CuuQyRnRmcp5xfN9LS1ppRhcE+Sg8bZwZBwXaD/LreVXO6rstQOT6cugTF7hKRlgtPvFmcRz8yr/6a/DhFRaLxHN30DQvzM6nklhXyhVcldv5Sz7SLnKKqVYitkWkwwXeLgslJARNTWLL//lBz792EMBInisHWda1diKmLStO0KyjdsYdUMl/C6wB/8t1AovAb6VMFCW6Vv10UvtVwQWhzqjN62ztV1SgXftYEWmFCirENvWOm0Uz27veIKQzX38+IQ5IdEWGKZg705GUofKDyM78h7fYzj19rMXINiC9Koln0JrapAjeQh0edlmB2VlEGb2aSjJvdu/47VoJvdxjDad5WC318alseSn0HsWpza7p6VH6iR+LitvnE/JJXyZmk031FWsmNazXHYclsxX7bBSvyEBZQPHMKOOM013xIocId1OsoXuJQFGMEZ+gGNUbAmAIaMA6oVmTkwGEGG6nnOa/PGp9cUvEuw==;zJFP/Ctws6IxH6ffIhAsqg=="
+secured: "ernuBCgSqCO8qciCRJkLlQKCfbEqjPX2/PDlkRFE3L3Nr8CsiweG7jf4FK3SOn5YiybvGc3zwdSqfYNAcdugXSLW9tAHTAKMiIiUtjCZb0C61ySxe/2OsXRussiDVJaruSINgcwS4sdqKnpiVtHWFYb18+fAelt+MJVi4HxMOJTvllLlEYPjNulEfyaYT0yvE4XPg/whr1vsnBeYe5C6pqB6S5aA9iH+mOeB2E6H5dYd6m44NvzY4BY7d0wz9wpRjMzHpWfxFdTXhFVnvqYQxcM40MLafUbljmiFFxdC8zL0ynRmOpTQn5yqFCc0mfOD1yBudloDiYrd66X+Ailc2gbNfTjnX355CCFkNfzWZXE=;JdDwrYWe2A0RcXA5qbie7w=="
 ---
 
