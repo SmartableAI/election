@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Historic border numbers undercut Biden claim that surge 'happens every year'"
-    excerpt: "President Biden last month downplayed the surge in migrants coming to the southern border, saying surges happen \"every year\" -- but while that is the case, the numbers released Thursday show that the current surge is dwarfing anything in recent memory."
-    publishedDateTime: 2021-04-08T17:21:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B6uPpSAipjY/historic-border-numbers-biden-claim-surge-happens-every-year"
-    ampWebUrl: "https://www.foxnews.com/politics/historic-border-numbers-biden-claim-surge-happens-every-year.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/historic-border-numbers-biden-claim-surge-happens-every-year.amp"
+  - title: "Biden Border Coordinator Roberta Jacobson stepping down"
+    excerpt: "The Biden administration's Southern Border coordinator will step down at the end of the month as officials continue to struggle with a large influx of migrants trying to enter the United States."
+    publishedDateTime: 2021-04-09T20:50:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcKbD4dJH8Q/biden-border-roberta-jacobson-step"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54b524d2-f0cb-4954-bfa7-d2ddf0769067/e418b913-e4db-4b49-aa48-27b56863f89f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Roberta-Jacobson-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "hkAvVt8ezFOmh7XNMx8OutUwF1TSUMa7r/YjtiuXKNCwdGlD3xCfnN9XCSJ4LNT5E/bD9eEh7o8a9PFEfFc4IG8/7B+SYij6+XBqymy3SjHRbdcuJ/HqopqFoJG2+Sv5L0o203t8DU/yS4QIpXemdLndMiCsCUWiFRcjhg4e+N0z2gWlT74LhQCO+5HnS6z1Y9efdOf+e+fvExlG4mJ8bcIoTmN+XangeggNUbm/HYy+L84iLeTRD5f9D2B2vTmMiy4ac3cSvBDuo4BBEHrrx23M2lPTUdLc2MdpilssH9vL6+e7sbyyRuyXn4ckN1jTKy7m4zbtvRSSHaZxP0IcGNblZZQC5ra8ATVKe5k3g/c=;oauV7/cSyPMq4BAjYexRag=="

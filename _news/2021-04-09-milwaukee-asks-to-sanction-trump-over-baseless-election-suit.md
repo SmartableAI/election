@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trum
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp"
 type: article
 quality: 140
-heat: 280
+heat: 240
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Lawsuits pile up over endangered species decisions made by Trump administration"
+    excerpt: "The Center sued the USFWS on March 25 to challenge the Trump administration's downlisting ... delaying a rule finalized in the last weeks of Donald Trump's presidency to eliminate long-standing ..."
+    publishedDateTime: 2021-04-04T09:59:00Z
+    webUrl: "https://abcnews.go.com/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
+    ampWebUrl: "https://abcnews.go.com/amp/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/US/monarch-butterfly-gty-jt-210401_1617294269969_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Wisconsin cities Green Bay, Kenosha, Racine: Trump should pay legal bills for challenge to presidential election results"
     excerpt: "MADISON, WIS. — The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results. The request for ..."
     publishedDateTime: 2021-04-05T22:36:00Z
@@ -95,45 +111,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Trump campaign reportedly cheated donors who thought they were making a one-time contribution, collecting recurring donations"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In what seemed to be an effort to bolster political contributions in the heat of the 2020 election against now President Joe Biden, the Trump 2020 campaign reportedly duped supporters into making recurring ..."
-    publishedDateTime: 2021-04-03T20:13:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/6068bbc8856cd700198a30e4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "US Lifts Trump Sanctions On Hague Prosecutor, Seeking Cooperation"
-    excerpt: "US President Joe Biden on Friday revoked sanctions imposed by Donald Trump on the top prosecutor of the International Criminal Court as the new administration seeks a more cooperative approach on a row that has alienated allies."
-    publishedDateTime: 2021-04-02T20:35:00Z
-    webUrl: "https://www.ibtimes.com/us-lifts-trump-sanctions-hague-prosecutor-seeking-cooperation-3174032"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/02/under-donald-trump-the-united-states-imposed-sanctions-AFP_97A34M.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
-    excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
-    publishedDateTime: 2021-04-05T21:51:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-05/wisconsin-cities-trump-should-pay-legal-bills-for-challenge"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "YShpFNnwEAEISyo4BO5EayGx8HhXSWK2kZ3rhNkUX5RTsMIZpTx1ZAYKV617/jHaLMSEry00yqSyZd+s6525hRTJqDPFYFWOiFo2IOkDQ/9cnM/jM4QXf2EXaoZ3AiodfNiXUDkKdZz5pXxXPLCOqCEdx3tMMVXPagfy1gOzErgw4L+UCyjGe/ZagewSQS0U+1/wQ5G8hSeEBLph/5wEtxQqiPemcs6cm1U9pbB1e6J84Kt6G1aheCmBszXG1w8Bwq56m1NZOR9QM9OHVkGSRclUu8HoAB7vF0mIBjBUxCfbpM3A6OQTLBAjCh3r6Xu+dXTvK1W2MU+wkBvZNYy96u29ACVfg6v+ngAC0AZFqLkN73IKDX6gWilItDnk9mqElYOiripeCRN9UwrbXYFgIwiitI9p7T0dEvr9CPk3P/8AQMhMd1QRmoYErsPoyn8p94wu8ty4dUrxkhMtkWUQq9vz0wBTayxXRODz4tMUf9Aw1G4lZzzHcDELjkrL1PJQN5MENCyicbnXc2W7hrD3QQ==;SNfiOYn+X+Om25Whmtl2VA=="
 ---

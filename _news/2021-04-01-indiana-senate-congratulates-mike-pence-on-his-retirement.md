@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Indiana lawmakers honor Mike Pence for retirement from the vice presidency"
+    excerpt: "The Indiana Senate adopted a resolution honoring Mike Pence's \"retirement\" from the vice presidency this week. Pence, of course, lost his bid for reelection in November, along with former President Donald Trump. The resolution, authored by ..."
+    publishedDateTime: 2021-03-31T15:40:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/03/31/indiana-general-assembly-lawmakers-honor-mike-pence-retirement/4819689001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4819689001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4819689001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/9c22e27c-c451-4f11-b546-98ddb50fd19c-cent02-7e5plm5ebo91a0bn9hjs_original.jpg?auto=webp&crop=2588,1456,x0,y407&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3YEPT1m5UZSMNr04FHwLR7e/keOn2Ivib+FyeG6lUeChUjuXs6TADxdnHr18A7eSl4QUjHg4DIkE7KUhidQi4y2AOhcQ1FMsfHtbM/7MZLhgVEAwre+AQKXOVgeZQPpnatGXtmflGRuCEcb5eRyQgNpJSTLguLvynyPPbr4wwSuACnHFBceJoSVfCSwKaZ3PCJgQZ14HwnBEGhc+GXULgtNYMPv5yJOJVgJX0ZPReZTb9TTJupJXbX00k2/4qasvZ+y7Et1sMch3SRaGrhcmWmt5ctkTiouDp4VfnIJZEe/wYYRP68+7dPGjtTlxQNUqaKeAeqTvLDTWo7jmpFte5GS7LV/rpgnP00IsIMFtM88=;Ko9xz63HsaA6cuRMCYofMw=="
 ---

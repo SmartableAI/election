@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-officials-gloated-about-editin
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp"
 type: article
 quality: 115
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "'A complete rip-off': Campaign-finance experts puzzled and stunned by Trump camp's reported 'money-bomb' ploy"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Older donors who gave a few hundred dollars to former President Donald Trump's reelection campaign said they were shocked to see thousands drained from their accounts. Refund requests jumped in the final months ..."
-    publishedDateTime: 2021-04-06T18:57:00Z
-    webUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
+  - title: "Headhunters having hard time finding jobs for former Trump officials: report"
+    excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
+    publishedDateTime: 2021-04-07T18:56:00Z
+    webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
+    ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
+      name: The Hill
+      domain: thehill.com
+    quality: 122
     images:
-      - url: "https://i.insider.com/606c75682556c50018947897?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
-    publishedDateTime: 2021-04-09T16:55:00Z
-    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+  - title: "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme"
+    excerpt: "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ..."
+    publishedDateTime: 2021-04-04T15:23:00Z
+    webUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952"
+    ampWebUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
     images:
-      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show"
+    excerpt: "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe"
+    publishedDateTime: 2021-04-09T16:34:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 990
+        isCached: true
+  - title: "Corporate America isn’t welcoming former Trump Cabinet officials with open arms, headhunters say"
+    excerpt: "said top executives wary of backlash from associating with former Trump officials are boiling down Chao’s four-decade Washington résumé to its most recent entry: long-standing ally of Donald Trump, despite her resignation the day after the Jan. 6 ..."
+    publishedDateTime: 2021-04-07T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "S80bdcAfsGc5ydZw/jh57BI5XqVqaz/wImq0025vvohhBmZT15wonCzxUMOCNYYvaJgZt9REv2b+TYuDDhRcZ5MhbD2ZdCnDaVfWuwEPBu1HYUNyWDriyT2pPaKkof8pQ4OaUW8yxpGZVVSRRpJ3Awo4t/LFRgddc4hgn/6tuq0AYmhvY+ZeDucfOk+9sWj1Nf/sK8XwZ9PZRRM9x0CSvA9MMFWUiRxYa+RNUe9VBZ/sc9ID8CSoB82hPG3ZQ3tRngaGUOkfmleYZKRAjOpsn1LQyhlDQ7W2LqarONGrUmQv2hO+F/m+HxxWNqsxCC8r3VDASwuxreyvS7sp80i+4xEfNxerv0bTDKD3m8l0r8D7rY0784YRfoZYfedOsOe6VVS0PU+a70hnsRt7T9AUr8OHzOqZdSOGGLL20osMSkQgwQGcH+tW+SAKZZBfRiN3mdZBzsSIGf5NXarYVTq7wB1jp5qzo1+l6dxMnTD56rGxQY/NrE4WVG6LI0Af7UigNB697F1TylhSct2bs2QWEA==;W/tgLBNxTDF+IQwfNpmZOQ=="

@@ -63,22 +63,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Pfizer CEO says Trump told him vaccine 'will help me' with election"
-    excerpt: "Pfizer CEO Albert Bourla says in an interview set to run Friday that former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on ..."
-    publishedDateTime: 2021-04-06T18:37:00Z
-    webUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help"
-    ampWebUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/bourlaalbert_022619gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Hunter Biden calls Trump 'vile' in new book and denies Ukraine allegations"
     excerpt: "Last modified on Tue 30 Mar 2021 16.00 EDT In a keenly awaited memoir, Joe Biden’s son Hunter attacks Donald Trump as “a vile man with a vile mission” who plumbed “unprecedented depths” in last year’s US presidential election. Want to book ..."
     publishedDateTime: 2021-03-30T14:59:00Z
@@ -142,22 +126,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/97b31f30-03af-48da-8d0e-5c8cceaec4c0/thumbnail/1200x630/4006c1d4fe3e7086367c9816e05b392e/1617623440618.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
-    excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
-    publishedDateTime: 2021-04-06T21:30:00Z
-    webUrl: "https://www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 134
-    images:
-      - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Exclusive: Biden wants to keep Trump policy that boosted armed drone exports - sources"
     excerpt: "WASHINGTON (Reuters) - The Biden administration wants to keep a controversial Trump policy that jump-started sales of armed drones to countries whose human rights records are under scrutiny in the United States and elsewhere, according to sources familiar ..."

@@ -319,22 +319,6 @@ related:
         width: 860
         height: 545
         isCached: true
-  - title: "Twitter says it will not archive tweets from Trump's suspended account"
-    excerpt: "Tweets from the permanently suspended account of former President Trump will not be preserved on the platform, Twitter confirmed in a statement to CBS News. But the social media company said it is working with the National Archives and Records ..."
-    publishedDateTime: 2021-04-09T00:14:00Z
-    webUrl: "https://www.cbsnews.com/news/donald-trump-twitter-will-not-archive/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/22/f2d7fecb-446f-4d77-9cf4-986701e8dcb0/thumbnail/1200x630/e7bf93be5f5d9a38d338cc97d73dc0ec/gettyimages-1230498242.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden assigns study on delicate issue of Supreme Court"
     excerpt: "WASHINGTON — President Joe Biden on Friday ordered a study of adding seats to the Supreme Court, creating a bipartisan commission that will spend the next six months examining the politically incendiary issues of expanding the court and instituting term ..."
     publishedDateTime: 2021-04-09T17:19:00Z
@@ -382,6 +366,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_9f55b5d883f54c41bdf576184d88f74c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden's budget meets criticism from right and left on Pentagon spending"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply hike spending on climate change, cancer and underperforming schools, but his first budget wishlist on Friday drew howls of bipartisan concern over military spending. The $1.5 ..."
+    publishedDateTime: 2021-04-09T19:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idUKKBN2BW190"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW190"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW190"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557911942&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F5"
+        width: 812
+        height: 545
         isCached: true
   - title: "Rep. Ilhan Omar slams Biden's 'shameful' plan to restart construction on Trump's 'xenophobic and racist' wall"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Rep. Ilhan Omar has criticized President Joe Biden for continuing the construction of Donald Trump's \"xenophobic and racist\" southern border wall. \"It's shameful and unacceptable for @POTUS to continue the ..."
@@ -536,6 +536,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden pushes health initiatives in budget proposal"
+    excerpt: "President Joe Biden released a $1.5 trillion wish list for his first federal budget, asking for substantial gains for Democratic priorities. Biden says priorities include funding a health research agency and combatting the ongoing opioid crisis. (April 9)"
+    publishedDateTime: 2021-04-09T21:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/09/biden-pushes-health-initiatives-budget-proposal/7164184002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f2b62e70-03e1-478e-a2f5-4d96715a8c89_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
     excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
     publishedDateTime: 2021-04-07T01:05:00Z
@@ -565,6 +579,6 @@ related:
         height: 433
         isCached: true
 
-secured: "TESpKcH35f3Hs7VMYVsFJVHdu8otwRyvkblCQBDQP4oEJAmVJ1Ej02aQ5QTi7kRyLNm23OBqvNhfZ8OEXrLhwk/+Ay9CpCqPy8qudQ0I2oaEBZ9bPXwEfmdYS2XusiY10jGxO6usoHwBJCrQCGqxJZ+ArBYlTQUdWH1L6uLI5dePCQqmlekC/MYi/d5ESsVSkS1Vu2SOwG08F2lMHXD4x0qQrM6nCxSZPMmid0xAY0OtxjQQgCrHrTxyAqd/CN6OC/F7/b1xntrLuJFKi3u16wCp9IiIWwCU9ItyzN9VyfiC8bNZCjWBeIb4oRVhzLN96BUWhQgo5cN9tMBuHHAMCww4YjO22m9lFgjiAxF9zwY=;rAO93nqdCSgPMz+Ys8ihlw=="
+secured: "4M5ufDUatzJhkEgdtCZ+MoEfktI2U5+gMPi48CuV9haZ/FZxM1YdXe2VhEricwEj/HYFstPWcy7qvC0Cfm8DnhOciuDfgh9pLoMck8wPPHDxtueZ6w+Ye+CFUzhv6kYFnbC0oDBcENZnYLBBAoqm1/u78dFTq4V80WcYMBY6zBWBtTd4JdxBEV5xsgvbrG2Q0ZXhCGlHaztD/XFrjSo+PWpY1GEAh86NxUaGhICuYJfyfORFBhPbnCar3MqUB8Amd8diG3d7j2up8JiWM1aN4P5r1bKWy8r/dnF+0FmsA6S3Ft7UjJgqfU084rNix0cLJzYf7qEBa9SLfEGSWAIRVjXfqzurNzegcc5mCsoGVEfzAXh1Kqyr/08F6oHSOTvuTa6KJE7B4PGOxRs70JxjyjZh3tHIJfkOBk6mwqh9dv8rsj9L2/+gYRs+nE1K3NLmDafg3wTakaQiDmMqH8vV1+h8fX3FOipGh36Tp10umwe1mDAGwEKp9laZHvJpUYeq1LWWGia6Fcx8SiHIKtE0Xg==;UFvyK5PUQuhp10NdE2El0A=="
 ---
 

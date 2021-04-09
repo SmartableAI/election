@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -111,17 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Former Vice President Mike Pence memoir set for 2023 release"
-    excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-    publishedDateTime: 2021-04-08T17:37:00Z
-    webUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/"
-    ampWebUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "pvGPhDBG9qOWWxUo9oBNYQdgvdR26RUY15rKm2IiQYWn2a7RSND6DgZ07WglSE9oqeVkkLP0aeDNGhqZJyGr7ELvCurAR3Y43EllcxFUYWLi7tF5npbp5x5QiOoASadPGRU465R+pBMhu/I6NP2gks36gqZ+I9jnJHN5iqAo+P8N0NN0jD2tmbgrofHnzveKbV3iWQ2ab5wljlcVm2oFH4wSBeWRLeh1FWlttsuZTo8lG3td5NJ02XDcVYCM8zSp49Okba7Jug1W4+waCpJE+YECcueqNM7cvSPLbXkJlNJzhKCC6wtNbw4+Q9SV+53r3ZF0bUocODEv9sNj2yQ+maz1PYBEjhci5xkge9DUgg3HnhGDgGXWRYJ4PN7kgXn0rF4hIQMBlD5lQU0a+uoXKe7KfiSCOmWb2txdoPfUU1lo7R3U4vwJGKItZf9DxbFaChrAJ1Gyuwzyrn5uEqInWVI9BahcRHUiexA2ya5klSY+3pB4HwpJFGgKa87+XDYs4VYQy4WB/R0Ngm8hQ+vaHQ==;S2YVLvyx2/lxwTY6PAuNDQ=="
 ---

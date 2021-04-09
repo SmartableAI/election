@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
+    excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
+    publishedDateTime: 2021-03-31T12:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Conservative writer says Trump's Save America PAC is hurting his supporters"
     excerpt: "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ..."
     publishedDateTime: 2021-04-04T16:00:00Z
@@ -60,22 +76,6 @@ related:
     quality: 123
     images:
       - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
-    excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
-    publishedDateTime: 2021-04-04T02:23:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
         width: 980
         height: 551
         isCached: true

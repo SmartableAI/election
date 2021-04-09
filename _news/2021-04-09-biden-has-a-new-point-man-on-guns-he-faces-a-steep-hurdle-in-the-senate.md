@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's border coordinator stepping down at end of the month"
+    excerpt: "President Joe Biden's border coordinator is stepping down at the end of the month, the White House announced Friday -- an unusual time given the administration is dealing with record numbers of unaccompanied migrant children at the US southern border.\n    \n"
+    publishedDateTime: 2021-04-09T21:31:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgU9Q7t4QJE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The old guard of the judiciary moves on as Biden announces new picks for bench"
     excerpt: "As President Joe Biden launches a new era of judicial appointments, the old guard of the bench is in its twilight.\n    \n"
     publishedDateTime: 2021-04-09T11:34:32Z
@@ -159,6 +175,22 @@ related:
       - url: "https://static.politico.com/eb/41/aa0e5fcd4d8686ffb7d6af232522/20201118-power-lines-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden's border coordinator stepping down at end of the month"
+    excerpt: "(CNN)President Joe Biden's border coordinator is stepping down at the end of the month, the White House announced Friday -- an unusual time given the administration is dealing with record numbers of unaccompanied migrant children at the US southern border."
+    publishedDateTime: 2021-04-09T17:11:00Z
+    webUrl: "https://www.cnn.com/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden targets 'ghost guns' and 'red flag' laws in new gun control measures"
     excerpt: "WASHINGTON — President Joe Biden is trying to limit \"ghost guns\" and make it easier for people to flag family members who shouldn't be allowed to purchase firearms with a series of executive actions taken Thursday in the wake of recent mass shootings."

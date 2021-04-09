@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
 type: article
 quality: 106
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,40 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Trump 'money bomb' scheme raised millions from unwitting donors – report"
+    excerpt: "Practice that used pre-checked boxes and obscure design on fundraising emails condemned as ‘unethical and inappropriate’ Last modified on Sat 3 Apr 2021 15.45 EDT Donald Trump’s 2020 presidential campaign used pre-checked boxes and obscure design on ..."
+    publishedDateTime: 2021-04-03T18:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/7c3b94345e7d9c1981e5298fee284a4497087e54/0_125_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7aba3783a09ff47a21884a828bfcfa9"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'A complete rip-off': Campaign-finance experts puzzled and stunned by Trump camp's reported 'money-bomb' ploy"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Older donors who gave a few hundred dollars to former President Donald Trump's reelection campaign said they were shocked to see thousands drained from their accounts. Refund requests jumped in the final months ..."
+    publishedDateTime: 2021-04-06T18:57:00Z
+    webUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/606c75682556c50018947897?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "m7XVnR6XMnDl9sXMsMCOku8VPiU3MmGsg/kQTMQjvrEBe+VaQhuKKGewJqixjkihucZ4xw5BZxX6b2HZQiZNk3K4tiPX9wTWFG3RCR+AWUtadafB0H+7scq3MA2hVgJ2wScqYz+EzRpxXyVLiKT2/V6rIpR0QjdY81uQLJytfzpmDP+5Pm0NmEn/L+E/YMgorJ1X30WmNdOsmOdw9fGtpkt9kSCcAFLOS8vli/KJCLwnxwXu9ugRGktEi+oQTpaGiZW7HpyyfL2wvEEc8lvtDYEZEXWZS+lnL8D40MQy0nVzf2Qw/v/BRPG24/5Idl7Ajgx4xM351KB7wR2mGLaGHFG3l9nEOUfLMy+bdIwvN2m3VBQLfjeEHsHv0hdqgWeUIXVx89aFGJ4RVaR0sIyRaEFtbcIqGEI3rdJKOv6RPRtUs2s/t2lll+QQG/R3k71OOlNVuIE+Iut3nBCrSG+cf1Y+fW0+NNFXtRWjKNY++CUoztShcJGdx78fdIX1MRbkiNQsfBsX0FA7E/pi26+NsA==;zbIrJdIsZRP77qLXOXp6aw=="
 ---

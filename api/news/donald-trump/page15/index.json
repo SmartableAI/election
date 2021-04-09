@@ -2,6 +2,149 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-09-twitter-permanently-suspends-trumps-account-to-prevent-further-incitement-of-violence.md",
+      "title": "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'",
+      "excerpt": "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "publishedDateTime": "2021-01-09T00:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-donald-trump-gets-clobbered-again-by-randy-rainbow-parody.md",
+      "title": "Donald Trump gets clobbered (again) by Randy Rainbow parody",
+      "excerpt": "What happens when Donald Trump meets “Fiddler on the Roof”? Find out in the latest Randy Rainbow parody music video, “Sedition.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody",
+      "originalUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/RAINBOW_LIST.jpg?w=977&h=675",
+          "width": 977,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/",
+      "publishedDateTime": "2021-01-08T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-ashli-babbitt-rioter-fatally-shot-in-dc-was-bananas-over-trump-grandfather.md",
+      "title": "Ashli Babbitt, rioter fatally shot in DC, was ‘bananas’ over Trump: grandfather",
+      "excerpt": "The Air Force veteran who was fatally shot as she stormed the Capitol was an “excellent patriot” who was a fanatic follower of President Trump, her grandfather said. Ashli Babbitt, 35, of San",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/",
+      "originalUrl": "https://nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/ashli-babbit-trump-supporter-1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/amp/",
+      "publishedDateTime": "2021-01-08T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-dominion-sues-trump-lawyer-sidney-powell-for-defamation.md",
       "title": "Dominion sues Trump lawyer Sidney Powell for defamation",
       "excerpt": "Dominion Voting Systems has filed a defamation lawsuit against lawyer Sidney Powell, seeking at least $1.3 billion for Powell’s “wild accusations” that the company rigged the presidential election for",

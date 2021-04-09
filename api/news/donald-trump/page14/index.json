@@ -2,6 +2,153 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-14-protected-habitat-for-imperiled-spotted-owls-is-slashed-trumps-latest-parting-gift-to-the-timber-industry.md",
+      "title": "Protected habitat for imperiled spotted owls is slashed: \"Trump's latest parting gift to the timber industry\"",
+      "excerpt": "The owl is listed as threatened under the Endangered Species Act and is losing nearly 4% of its population annually.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
+      "originalUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/14/f9e871fa-d69a-4517-9302-121f220b86d3/thumbnail/1200x630/2a7a13f86794fbd234a91278c8ae4104/ap-16218741751211.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/spotted-owl-habitat-slashed-trump-administration/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/spotted-owl-habitat-slashed-trump-administration/",
+      "publishedDateTime": "2021-01-14T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-trump-made-a-mistake-in-raucous-rally-speech-tuberville-says.md",
+      "title": "Trump ‘made a mistake’ in raucous rally speech, Tuberville says",
+      "excerpt": "President Donald Trump “made a mistake” when he ignited thousands of supporters in a rally speech last week that preceded some of those supporters storming the U.S. Capitol in an effort to overturn election results,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/01/trump-made-a-mistake-in-raucous-rally-speech-tuberville-says.html",
+      "originalUrl": "https://www.al.com/news/2021/01/trump-made-a-mistake-in-raucous-rally-speech-tuberville-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/R7OUIWR7A5HN3OXXGXY6RGT6RQ.jpg",
+          "width": 3296,
+          "height": 2200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/01/trump-made-a-mistake-in-raucous-rally-speech-tuberville-says.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-made-a-mistake-in-raucous-rally-speech-tuberville-says.html?outputType=amp",
+      "publishedDateTime": "2021-01-13T22:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-live-impeachment-updates-gop-house-leader-trump-bears-responsibility-for-riot-but-impeachment-a-mistake.md",
+      "title": "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'",
+      "excerpt": "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/13/USAT/364bda46-7631-4195-8825-20cfb2fad595-AP_Trump_Impeachment_2.jpg?auto=webp&crop=4121,2319,x0,y209&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6644827002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6644827002",
+      "publishedDateTime": "2021-01-13T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-live-updates-house-moves-to-impeach-trump-for-incitement-of-insurrection-in-capitol-riot.md",
       "title": "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot",
       "excerpt": "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice.",
@@ -1426,149 +1573,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-twitter-permanently-suspends-trumps-account-to-prevent-further-incitement-of-violence.md",
-      "title": "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'",
-      "excerpt": "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
-      "publishedDateTime": "2021-01-09T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-donald-trump-gets-clobbered-again-by-randy-rainbow-parody.md",
-      "title": "Donald Trump gets clobbered (again) by Randy Rainbow parody",
-      "excerpt": "What happens when Donald Trump meets “Fiddler on the Roof”? Find out in the latest Randy Rainbow parody music video, “Sedition.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody",
-      "originalUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/RAINBOW_LIST.jpg?w=977&h=675",
-          "width": 977,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/",
-      "publishedDateTime": "2021-01-08T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-ashli-babbitt-rioter-fatally-shot-in-dc-was-bananas-over-trump-grandfather.md",
-      "title": "Ashli Babbitt, rioter fatally shot in DC, was ‘bananas’ over Trump: grandfather",
-      "excerpt": "The Air Force veteran who was fatally shot as she stormed the Capitol was an “excellent patriot” who was a fanatic follower of President Trump, her grandfather said. Ashli Babbitt, 35, of San",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/",
-      "originalUrl": "https://nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/ashli-babbit-trump-supporter-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/08/dc-protester-ashli-babbitt-was-bananas-over-trump-grandfather/amp/",
-      "publishedDateTime": "2021-01-08T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Biden unveils commission to study possible expansion of Supreme Court"
+    excerpt: "Democratic presidential nominee Joe Biden initially dodged questions in October 2020 about whether he would pack the court before saying he opposed it. (JM Rieger/The Washington Post) “The topics it will examine include the genesis of the reform debate ..."
+    publishedDateTime: 2021-04-09T21:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-unveil-commission-to-study-possible-expansion-of-supreme-court/2021/04/09/f644552c-9944-11eb-962b-78c1d8228819_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-unveil-commission-to-study-possible-expansion-of-supreme-court/2021/04/09/f644552c-9944-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-unveil-commission-to-study-possible-expansion-of-supreme-court/2021/04/09/f644552c-9944-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X22SV5EZIUI6XFRLPDA5QIUIDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
     excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
     publishedDateTime: 2021-04-08T00:46:00Z

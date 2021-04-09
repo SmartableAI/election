@@ -2,6 +2,279 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-01-12-biden-chooses-veteran-diplomat-william-burns-as-his-cia-director.md",
+      "title": "Biden chooses veteran diplomat William Burns as his CIA director",
+      "excerpt": "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
+      "publishedDateTime": "2021-01-11T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-former-white-house-spokesman-hogan-gidley-says-trump-is-the-most-masculine-president-in-us-history.md",
+      "title": "Former White House spokesman Hogan Gidley says Trump is the 'most masculine' president in US history",
+      "excerpt": "This came after Fox News host Bill Hemmer asked Gidley if Trump felt \"emasculated\" by the recent \"social media crackdown.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
+      "originalUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "publishedDateTime": "2021-01-11T14:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-does-trump-face-legal-jeopardy-for-his-incendiary-speech-before-the-riot.md",
+      "title": "Does Trump Face Legal Jeopardy for His Incendiary Speech Before the Riot?",
+      "excerpt": "The president’s actions just before his supporters’ deadly rampage at the Capitol has created new risks for him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-legal-explainer/11dc-legal-explainer-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html",
+      "publishedDateTime": "2021-01-11T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.md",
+      "title": "Gidley blasts Democrats' 'disgusting tactic' of claiming anyone pro-Trump 'agrees with lawless thugs'",
+      "excerpt": "Former Deputy White House Press Secretary Hogan Gidley ripped into Democrats and their supporters in Hollywood and the media Monday for making blanket claims that anyone who supports President Trump is also supportive of the \"lawless thugs\" who attacked the U.S. Capitol last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wX-ywZ9dzEk/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wX-ywZ9dzEk/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfc525e5-ea65-4ace-ba6a-5420692b6c52/13e91bc9-d86e-48be-a4b8-69f02fc4f689/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.amp",
+      "publishedDateTime": "2021-01-11T13:46:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-pamela-anderson-appeals-trump-to-pardon-assange-and-stand-up-for-free-speech.md",
+      "title": "Pamela Anderson appeals Trump to pardon Assange and stand up for free speech",
+      "excerpt": "EXCLUSIVE: Supporters of WikiLeaks founder Julian Assange are making a final appeal to the outgoing President Trump to show his commitment to free speech by granting a full pardon to the jailed publisher.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-TTdbTwbtY/exclusive-pamela-anderson-trump-pardon-julian-assange",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-TTdbTwbtY/exclusive-pamela-anderson-trump-pardon-julian-assange",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/exclusive-pamela-anderson-trump-pardon-julian-assange.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-pamela-anderson-trump-pardon-julian-assange.amp",
+      "publishedDateTime": "2021-01-11T11:49:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-angela-merkel-rips-twitters-problematic-trump-ban.md",
       "title": "Angela Merkel rips Twitter's 'problematic' Trump ban",
       "excerpt": "German Chancellor Angela Merkel considers President Donald Trump's eviction from Twitter by the company \"problematic,\" her spokesman said Monday.",
@@ -1059,274 +1332,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed.md",
-      "title": "Fox News Host Confronts Mick Mulvaney Over 'Trump Will Concede Gracefully' Op-Ed",
-      "excerpt": "\"I've seen the president be presidential before…but something is very different now,\" said the former acting White House chief of staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed-1560339",
-      "originalUrl": "https://www.newsweek.com/fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed-1560339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1702428/mick-mulvaney-donald-trump-white-house.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed-1560339?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed-1560339?amp=1",
-      "publishedDateTime": "2021-01-10T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-analysis-a-historic-number-of-americans-want-trump-removed-from-office.md",
-      "title": "Analysis: A historic number of Americans want Trump removed from office",
-      "excerpt": "The potential removal of President Donald Trump from office starts out more popular than any other removal process of a president in recent American history. Removing Trump from office remains quite unpopular among Republicans, however.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2_fQIK1wOdY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2_fQIK1wOdY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/10/politics/poll-impeach-trump-historic-number/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/10/politics/poll-impeach-trump-historic-number/index.html",
-      "publishedDateTime": "2021-01-10T12:39:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-trump-to-highlight-border-wall-topping-400-miles-with-texas-visit-during-last-full-week-in-office.md",
-      "title": "Trump to highlight border wall topping 400 miles with Texas visit during last full week in office",
-      "excerpt": "With just over a week remaining in his term, President Trump is expected to celebrate progress on one of his featured campaign promises: a wall along the U.S.-Mexico border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H3WE1u5DezY/trump-border-wall-texas-visit-last-full-week-in-office",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H3WE1u5DezY/trump-border-wall-texas-visit-last-full-week-in-office",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-border-wall-texas-visit-last-full-week-in-office.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-border-wall-texas-visit-last-full-week-in-office.amp",
-      "publishedDateTime": "2021-01-10T11:38:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-reps-paul-gosar-andy-biggs-credited-in-video-with-organizing-trump-crowd-in-dc-on-day-of-riot.md",
-      "title": "Reps. Paul Gosar, Andy Biggs credited in video with organizing Trump crowd in DC on day of riot",
-      "excerpt": "The man who has led the \"Stop the Steal\" protests nationally singles out Reps. Paul Gosar and Andy Biggs for helping make Washington gathering happen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/01/10/paul-gosar-andy-biggs-credited-video-organizing-trump-crowd-dc/6603721002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/01/10/paul-gosar-andy-biggs-credited-video-organizing-trump-crowd-dc/6603721002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/22/PPHX/dee8e0f3-5193-49ca-97ee-fe0d28cec7f8-Paul_Gosar_Andy_Biggs.jpg?auto=webp&crop=1749,984,x1,y5&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6603721002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6603721002",
-      "publishedDateTime": "2021-01-10T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-forbes-editor-issues-warning-to-companies-intending-to-hire-trump-officials-well-assume-everything-you-talk-about-is-a-lie.md",
-      "title": "Forbes editor issues warning to companies intending to hire Trump officials: 'We'll assume everything you talk about is a lie'",
-      "excerpt": "The editor of Forbes magazine has warned companies not to hire Kellyanne Conway, Sean Spicer, Kayleigh McEnany, Stephanie Grisham, or Sarah Sanders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1",
-      "originalUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ffb1a5dbde805001980c109?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1?amp",
-      "publishedDateTime": "2021-01-10T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

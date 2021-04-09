@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
+    excerpt: "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ..."
+    publishedDateTime: 2021-04-09T14:55:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 149
+    images:
+      - url: "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Pfizer CEO says Trump told him vaccine 'will help me' with election"
+    excerpt: "Pfizer CEO Albert Bourla says in an interview set to run Friday that former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on ..."
+    publishedDateTime: 2021-04-06T18:37:00Z
+    webUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help"
+    ampWebUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bourlaalbert_022619gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pence launches group as Trump officials line up new roles"
     excerpt: "WASHINGTON — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence’s Advancing American Freedom, which could serve as a springboard for his own ..."
     publishedDateTime: 2021-04-07T20:07:00Z
@@ -47,85 +79,53 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
-    excerpt: "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ..."
-    publishedDateTime: 2021-04-09T14:55:00Z
-    webUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227"
-    ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
-    images:
-      - url: "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "AP Interview: EPA head removes Trump-era science advisers"
-    excerpt: "Michael Regan, the new head of the Environmental Protection Agency, is reversing Trump administration actions that sidelined many academic scientists as advisers in favor of industry figures ..."
-    publishedDateTime: 2021-03-31T15:03:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_b4aefc1d57884968989a988d8a24dbb5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
-    excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
-    publishedDateTime: 2021-03-31T12:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+  - title: "Biden's first budget marks sharp change from Trump years"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion budget, reflecting an 8% ..."
+    publishedDateTime: 2021-04-09T14:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget/white-house-set-to-release-first-sketch-of-budget-proposal-on-friday-idUSKBN2BU2VH?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2VH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2VH"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557635606&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361EZ"
+        width: 844
         height: 545
         isCached: true
-  - title: "DOJ asks for more time to make decision on turning over Trump taxes"
-    excerpt: "Justice Department (DOJ) lawyers have reportedly requested additional time to determine their response to House Democrats’ request for former President Trump Donald Trump The Hill's Morning ..."
-    publishedDateTime: 2021-04-01T01:19:00Z
-    webUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes"
-    ampWebUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+  - title: "Every Endorsement Donald Trump Has Made for the 2022 Election Cycle"
+    excerpt: "In his farewell address to supporters ahead of Joe Biden's inauguration, Donald Trump hinted at a return to politics. \"I want you to know that the movement we started is only just beginning,\" the outgoing president said. \"There's never been anything like it."
+    publishedDateTime: 2021-04-09T17:19:00Z
+    webUrl: "https://www.newsweek.com/every-endorsement-donald-trump-has-made-2022-election-cycle-1582438"
+    ampWebUrl: "https://www.newsweek.com/every-endorsement-donald-trump-has-made-2022-election-cycle-1582438?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/every-endorsement-donald-trump-has-made-2022-election-cycle-1582438?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_8_1.jpg"
-        width: 980
-        height: 551
+      - url: "https://d.newsweek.com/en/full/1775022/donald-trump-2022-endorsements.jpg"
+        width: 2500
+        height: 1640
         isCached: true
-  - title: "Trump looms large in race for South Carolina GOP chairman"
-    excerpt: "COLUMBIA, S.C. — In South Carolina — where Donald Trump’s 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state’s Republican Party is ..."
-    publishedDateTime: 2021-04-01T19:01:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+  - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
+    excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
+    publishedDateTime: 2021-04-06T21:30:00Z
+    webUrl: "https://www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "MLB Boycott Calls Grow After Donald Trump Hits Out Over All-Star Game"
     excerpt: "An effort to boycott Major League Baseball (MLB) has gained some traction on social media after former President Donald Trump urged people to punish MLB for its decision to move its All-Star Game out of Georgia. The move was in response to the state's new ..."
@@ -175,6 +175,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Supreme Court dismisses case over Trump and Twitter critics"
+    excerpt: "The Supreme Court has dismissed a case over former President Donald Trump’s efforts to block critics from his personal Twitter account What’s next for Donald Trump? WASHINGTON -- The Supreme ..."
+    publishedDateTime: 2021-04-05T14:33:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/supreme-court-dismisses-case-trump-twitter-critics-76878606"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ef0a3b52c3bb4859875d5e3de45cc78e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Supreme Court tosses dispute over Trump blocking critics on Twitter"
+    excerpt: "Washington — The Supreme Court on Monday ordered a dispute over former President Donald Trump's ability to block his critics on Twitter to be tossed out, bringing the battle over Mr. Trump's Twitter account to a close as he is no longer in office and has ..."
+    publishedDateTime: 2021-04-05T14:06:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-dismisses-trump-twitter-block-case/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-dismisses-trump-twitter-block-case/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-dismisses-trump-twitter-block-case/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/8f943e8b-3d89-4e51-8dde-340301a2dc97/thumbnail/1200x630/40af24c84aa08e0d7a63366f9427fe69/gettyimages-1231617290.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump Jr. Calls on GOP to Oppose Vaccine Passports or Quit"
     excerpt: "Donald Trump Jr. urged Republicans to vehemently oppose vaccine passports, calling the measure potentially the \"greatest affront\" on American freedoms in recent history. President Joe Biden's administration is leaving implementation of health passports up ..."
     publishedDateTime: 2021-04-06T15:13:00Z
@@ -190,6 +222,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1772025/vaccine-passport-gop-trump-jr.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "The staggering scale of the Trump campaign’s opt-out fundraising scheme"
+    excerpt: "That’s what the Trump campaign did, too, except instead of a “sign me up for your hourly newsletters,” the checkboxes focused on encouraging people to demonstrate their fervent support for former president Donald Trump — by making their one-time ..."
+    publishedDateTime: 2021-04-05T20:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIPFG7OWPRCMVDX44YIPVUIDCM.png&w=1440"
+        width: 1440
+        height: 573
         isCached: true
   - title: "10 House Democrats join suit against Trump for role in Capitol attack"
     excerpt: "Washington — A growing number of Democrats are signing onto efforts to hold former President Donald Trump accountable for his role in the January 6 assault on the U.S. Capitol through the courts, with 10 House Democrats joining an earlier suit against Mr ..."
@@ -207,21 +255,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pence launches conservative political group"
-    excerpt: "Former Vice President Mike Pence Michael (Mike) Richard Pence Republican battle with MLB intensifies War over voting laws further corrodes trust in elections The Memo: Biden's bet on taxes MORE ..."
-    publishedDateTime: 2021-04-07T11:40:00Z
-    webUrl: "https://thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group"
-    ampWebUrl: "https://thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group?amp"
+  - title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
+    excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
+    publishedDateTime: 2021-04-07T12:59:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/pence_010621getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
+        width: 1024
+        height: 649
+        isCached: true
+  - title: "Former Trump housing official sanctioned over campaign video"
+    excerpt: "NEW YORK — A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday."
+    publishedDateTime: 2021-04-06T18:43:00Z
+    webUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Ten Democrats join NAACP lawsuit against Trump"
     excerpt: "Ten Democratic members of Congress have joined the NAACP’s lawsuit against former President Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship ..."
@@ -255,6 +319,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump endorses Mo Brooks for Senate in Alabama"
+    excerpt: "Former President Donald Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far ..."
+    publishedDateTime: 2021-04-07T13:05:00Z
+    webUrl: "https://thehill.com/homenews/campaign/546863-trump-endorses-brooks-in-alabama-senate-boosting-one-of-his-biggest"
+    ampWebUrl: "https://thehill.com/homenews/campaign/546863-trump-endorses-brooks-in-alabama-senate-boosting-one-of-his-biggest?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546863-trump-endorses-brooks-in-alabama-senate-boosting-one-of-his-biggest?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/brooksmo_113017gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Colbert mocks Gaetz after Trump denies he asked for a pardon"
+    excerpt: "30 Report - Presented by ExxonMobil - Pence sets the stage for 2024 MORE after former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar ..."
+    publishedDateTime: 2021-04-08T14:35:00Z
+    webUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon"
+    ampWebUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/colbert_stephen_gaetz_matt040821.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Republicans probe EPA firing of Trump-appointed science advisers"
     excerpt: "dismissing 40 appointees of former President Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship attacked at sea Biden exceeds expectations on ..."
     publishedDateTime: 2021-04-07T18:44:00Z
@@ -286,6 +382,54 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/27A4/production/_116384101_mediaitem116381016.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Twitter says it will not archive tweets from Trump's suspended account"
+    excerpt: "Tweets from the permanently suspended account of former President Trump will not be preserved on the platform, Twitter confirmed in a statement to CBS News. But the social media company said it is working with the National Archives and Records ..."
+    publishedDateTime: 2021-04-09T00:14:00Z
+    webUrl: "https://www.cbsnews.com/news/donald-trump-twitter-will-not-archive/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/22/f2d7fecb-446f-4d77-9cf4-986701e8dcb0/thumbnail/1200x630/e7bf93be5f5d9a38d338cc97d73dc0ec/gettyimages-1230498242.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What’s really missing from the anti-Trump GOP effort"
+    excerpt: "Brian Kemp at the Georgia Capitol last month. A number of prominent Georgia Republicans fought back against former president Donald Trump’s baseless claims of massive voter fraud in the 2020 election. But one of them subtly and gradually emerged as ..."
+    publishedDateTime: 2021-04-08T17:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PSNB3TULFII6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
+    excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
+    publishedDateTime: 2021-04-04T00:39:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1771346/donald-trump.jpg"
+        width: 594
+        height: 396
         isCached: true
   - title: "Pence, eyeing 2024 presidential bid, launches group to defend Trump-era policies from \"liberal attacks and media distortions\""
     excerpt: "Former Vice President Mike Pence is beginning to reemerge after the end of the Trump administration with the launch of a new group to counter the policies of the Biden administration and the Democratic-controlled Congress. The former vice president has ..."
@@ -335,37 +479,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Headhunters having hard time finding jobs for former Trump officials: report"
-    excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
-    publishedDateTime: 2021-04-07T18:56:00Z
-    webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
-    ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+  - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
+    excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
+    publishedDateTime: 2021-04-04T02:23:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 122
     images:
-      - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
+      - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Lawsuits pile up over endangered species decisions made by Trump administration"
-    excerpt: "The Center sued the USFWS on March 25 to challenge the Trump administration's downlisting ... delaying a rule finalized in the last weeks of Donald Trump's presidency to eliminate long-standing ..."
-    publishedDateTime: 2021-04-04T09:59:00Z
-    webUrl: "https://abcnews.go.com/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
-    ampWebUrl: "https://abcnews.go.com/amp/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/lawsuits-pile-endangered-species-decisions-made-trump-administration/story?id=76811758"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 121
-    images:
-      - url: "https://s.abcnews.com/images/US/monarch-butterfly-gty-jt-210401_1617294269969_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Pence launches new group as Trump aides line up new roles"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% WASHINGTON (AP) — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence's , which could serve as a ..."
@@ -426,38 +554,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show"
-    excerpt: "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe"
-    publishedDateTime: 2021-04-09T16:34:00Z
-    webUrl: "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 990
-        isCached: true
-  - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
-    excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
-    publishedDateTime: 2021-03-31T17:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/International/trump-jan6-gty-rc-210305_1614953461904_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Former Trump HUD official fined and barred from federal employment for violating Hatch Act"
     excerpt: "A former political appointee under the Trump administration has been disciplined ... and Urban Development to support former President Donald Trump's reelection campaign, the U.S. Office of ..."
     publishedDateTime: 2021-04-06T20:38:00Z
@@ -473,6 +569,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/lynne-patton-01-gty-jc-210406_1617734469618_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The 2024 Republican presidential primary comes to Trump's doorstep this weekend in Florida"
+    excerpt: "PALM BEACH, Fla. – Republicans are throwing an early presidential campaign party this weekend in South Florida, though the featured guest remains the same: Donald Trump. At least a half-dozen Republicans said to be considering 2024 presidential bids ..."
+    publishedDateTime: 2021-04-09T18:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/09/donald-trump-weekend-gop-presidential-race-stops-florida/7109291002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7109291002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7109291002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/e4113b7b-e8ce-458f-8f3e-1e81071de20a-USP_News-_Donald_Trump_Iowa_Rally.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In 2016, Trump activated low-turnout Whites. In 2020, he may have done the same with Latinos."
     excerpt: "Florida was one of the first states to report results, and the numbers in heavily Hispanic Miami-Dade County, which Hillary Clinton won by nearly 30 points in 2016, showed Joe Biden leading Donald Trump by a much narrower margin. The shift held ..."
@@ -522,85 +634,104 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Corporate America isn’t welcoming former Trump Cabinet officials with open arms, headhunters say"
-    excerpt: "said top executives wary of backlash from associating with former Trump officials are boiling down Chao’s four-decade Washington résumé to its most recent entry: long-standing ally of Donald Trump, despite her resignation the day after the Jan. 6 ..."
-    publishedDateTime: 2021-04-07T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+  - title: "Supreme Court dismisses case over Trump blocking Twitter critics because he’s banned from the site"
+    excerpt: "The court said there was nothing left to the case after Trump was permanently suspended from Twitter and ended his presidential term in January."
+    publishedDateTime: 2021-04-05T13:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-twitter-critics-supreme-court-20210405-qp2g5734nff6nd3io4rgi2vb6y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-twitter-critics-supreme-court-20210405-qp2g5734nff6nd3io4rgi2vb6y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-twitter-critics-supreme-court-20210405-qp2g5734nff6nd3io4rgi2vb6y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 111
+    images:
+      - url: "https://www.chicagotribune.com/resizer/khzi_2y-XHd1Yp1jn1t7Bfvu1bE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQHCL3XD4NHGRKDKBNGOZBAEXI.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Former Vice President Mike Pence memoir set for 2023 release"
+    excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
+    publishedDateTime: 2021-04-07T22:03:00Z
+    webUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg"
+        width: 3000
+        height: 2221
+        isCached: true
+  - title: "Power Up: Matt Gaetz is using Trump's playbook to play defense. But he's not Trump."
+    excerpt: "EITHER RIGHT NOW: “Republicans are attacking corporations over their decision to condemn the controversial Georgia voting law, part of the party’s embrace of the populism espoused by President Donald Trump,” our colleagues Marianna Sotomayor and Todd C."
+    publishedDateTime: 2021-04-06T11:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/06/power-up-matt-gaetz-is-using-trump-playbook-play-defense-he-not-trump/"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 112
+    quality: 99
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4J26YUUQUI6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Theatre project lets Trump accusers tell their stories"
-    excerpt: "The Pussy Grabber Plays – eight short pieces premiering in New York on Monday – humanise the people behind sexual misconduct allegations against the president Lucia Graves Journalist and writer Natasha Stoynoff has co-written a play about Donald Trump ..."
-    publishedDateTime: 2021-04-01T11:00:00Z
-    webUrl: "https://www.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
-    ampWebUrl: "https://amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/stage/2021/apr/01/theatre-project-lets-trump-accusers-tell-their-stories"
+  - title: "The Trump campaign reportedly cheated donors who thought they were making a one-time contribution, collecting recurring donations"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In what seemed to be an effort to bolster political contributions in the heat of the 2020 election against now President Joe Biden, the Trump 2020 campaign reportedly duped supporters into making recurring ..."
+    publishedDateTime: 2021-04-03T20:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-reportedly-duped-supporters-donors-recurring-donations-2021-4?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-  - title: "Pence Lines Up Allies, Nodding at Possible 2024 Campaign"
-    excerpt: "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ..."
-    publishedDateTime: 2021-04-07T12:39:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-advocacy-group-to-highlight-agenda-defend-record"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5t076Ijl52Y/v0/1200x800.jpg"
+      - url: "https://i.insider.com/6068bbc8856cd700198a30e4?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "AP Interview: EPA head removes Trump-era science advisers"
-    excerpt: "WASHINGTON (AP) — In a move he said would help restore “scientific integrity,” the new head of the Environmental Protection Agency is removing dozens of scientists and other experts from key advisory boards named under President Donald Trump ..."
-    publishedDateTime: 2021-03-31T20:44:00Z
-    webUrl: "https://www.chron.com/news/article/New-EPA-chief-committed-to-restoring-scientific-16066513.php"
-    ampWebUrl: "https://www.chron.com/news/amp/New-EPA-chief-committed-to-restoring-scientific-16066513.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/New-EPA-chief-committed-to-restoring-scientific-16066513.php"
+  - title: "Biden lifts Trump sanctions on international court officials"
+    excerpt: "President Joe Biden on Friday lifted sanctions that Donald Trump had imposed on two top officials of the International Criminal Court, undoing one of the past administration's more aggressive moves targeting international institutions and officials."
+    publishedDateTime: 2021-04-03T00:03:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-lifts-Trump-sanctions-on-international-16073212.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-lifts-Trump-sanctions-on-international-16073212.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-lifts-Trump-sanctions-on-international-16073212.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 75
+    quality: 90
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
         isCached: true
-  - title: "Chinese Sculptor Makes Trump Buddha Statues; Orders Pour In"
-    excerpt: "The statue by furniture maker Hong Jinshi has Trump with his legs crossed, hands folded in his laps, thumbs pointing outwards."
-    publishedDateTime: 2021-04-01T11:30:00Z
-    webUrl: "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056"
-    ampWebUrl: "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056?amp=1"
+  - title: "House Republicans Double Down on Scammy Trump Fundraising Tactic"
+    excerpt: "Donald Trump has long demanded fealty from those who wish serve in the high ranks of his administration and golf courses, but House Republicans made that requirement explicit in a fundraising ..."
+    publishedDateTime: 2021-04-08T03:27:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/house-gop-doubles-down-on-scammy-trump-fundraising-tactic.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/house-gop-doubles-down-on-scammy-trump-fundraising-tactic.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/house-gop-doubles-down-on-scammy-trump-fundraising-tactic.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: New York Magazine
+      domain: nymag.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
+      - url: "https://pyxis.nymag.com/v1/imgs/473/1dc/31ae2e285447760fc121a82bdb66657496-GettyImages-1229151535.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump looms large in race for South Carolina GOP chairman"
-    excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
-    publishedDateTime: 2021-04-01T14:58:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+  - title: "Trump-loving Alabama county faces uphill vaccination effort"
+    excerpt: "Tending a thrift store that displays a faded Trump flag in a nearly all-white Alabama county with a long history of going against the grain, Dwight Owensby is among the area's many skeptics of the COVID-19 vaccine."
+    publishedDateTime: 2021-04-08T15:15:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-loving-Alabama-county-faces-uphill-16086167.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-loving-Alabama-county-faces-uphill-16086167.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-loving-Alabama-county-faces-uphill-16086167.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -627,22 +758,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Mike Pence launches conservative advocacy group as Republicans cast eyes on 2024"
-    excerpt: "Former Vice President Mike Pence launched a new policy and advocacy organization to “promote the pro-freedom policies of the last four years” in a possible sign he’s gearing up for a 2024 presidential bid. Advancing American Freedom, which plans to ..."
-    publishedDateTime: 2021-04-07T16:20:00Z
-    webUrl: "https://www.bostonherald.com/2021/04/07/mike-pence-launches-conservative-advocacy-group-as-republicans-cast-eyes-on-2024/"
-    ampWebUrl: "https://www.bostonherald.com/2021/04/07/mike-pence-launches-conservative-advocacy-group-as-republicans-cast-eyes-on-2024/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/04/07/mike-pence-launches-conservative-advocacy-group-as-republicans-cast-eyes-on-2024/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 70
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems24-1.jpg?w=1024&h=769"
-        width: 1024
-        height: 769
-        isCached: true
   - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
     excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
     publishedDateTime: 2021-04-06T20:42:00Z
@@ -659,21 +774,21 @@ related:
         width: 2333
         height: 1646
         isCached: true
-  - title: "Mike Pence launches advocacy group to promote conservatism, believed to be eyeing 2024 run"
-    excerpt: "Former Vice President Mike Pence is launching a conservative political advocacy group, he announced Wednesday, the latest sign that he's staying involved in the political realm. Pence is widely believed to be weighing a 2024 run. His new organization ..."
-    publishedDateTime: 2021-04-07T13:58:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/04/07/mike-pence-launches-political-advocacy-group-promote-conservatism/7120809002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7120809002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7120809002"
+  - title: "Is Donald Trump Running In 2024? Ex-President Has Millions In Save America PAC War Chest"
+    excerpt: "Trump's influence could be a wildcard in the vital 2022 midterm elections, as he's vowed to primary opponents in his own party."
+    publishedDateTime: 2021-04-06T19:55:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758?amp=1"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 65
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 66
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/116d7f69-005b-4bcb-900f-1f3ae7af5bb7-cent02-7e5pjkkuzrd171k0zhjs_original.jpg?auto=webp&crop=2356,1326,x0,y200&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
         isCached: true
   - title: "Pence launches group to defend Trump record, promote agenda as he eyes presidential bid"
     excerpt: "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ..."
@@ -717,20 +832,31 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Pence lines up allies, nodding at possible 2024 White House bid"
-    excerpt: "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ..."
-    publishedDateTime: 2021-04-07T14:26:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-lines-up-allies-nodding-at-possible-2024-white-house-bid/article_e3f66a53-77ad-5ce3-adc7-67659f74910f.html"
+  - title: "US Lifts Trump Sanctions On Hague Prosecutor, Seeking Cooperation"
+    excerpt: "US President Joe Biden on Friday revoked sanctions imposed by Donald Trump on the top prosecutor of the International Criminal Court as the new administration seeks a more cooperative approach on a row that has alienated allies."
+    publishedDateTime: 2021-04-02T20:35:00Z
+    webUrl: "https://www.ibtimes.com/us-lifts-trump-sanctions-hague-prosecutor-seeking-cooperation-3174032"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/02/under-donald-trump-the-united-states-imposed-sanctions-AFP_97A34M.jpg"
+        width: 1024
+        height: 682
         isCached: true
+  - title: "Former Vice President Mike Pence memoir set for 2023 release"
+    excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
+    publishedDateTime: 2021-04-08T17:37:00Z
+    webUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/"
+    ampWebUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard"
     excerpt: "The Republican Party is bringing hundreds of donors and several presidential prospects to the former president’s doorstep in south Florida this weekend."
     publishedDateTime: 2021-04-09T18:13:00Z
@@ -742,6 +868,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
+    excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
+    publishedDateTime: 2021-04-05T21:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-05/wisconsin-cities-trump-should-pay-legal-bills-for-challenge"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "/NX42mrsoKg6vDUpgJk4Jl3M5Fe/5PttS1rYV3sPNsbEUNdDLsYpXiMTrFFOpYLaIu1O1wtBMiq5eOYVBMg+8MHLDBJZs1Ae+sCwKDQKzZbQEDtonCyUvujUS+5JKPKi03kI7rWUEXfi9m6Zz2tz56tshLqtsjd7IbFC1umxKut6y2xnr3zpW17TH1V7VI4L+5dCPMTCfZTTAihKgXOR1QKCRb/D95coZT83FLvYsGQeqCidJDqAxNO0vp/z7RgMzskmuHmigmU4Hlv1eb0aeav0IqVivWsksANkvdodgNYVFqWpGK5vVOdXOnLECgW/o7gRmRmvcxzCUPyR7dmTvesHyqnm8jjUHTsAqUaksP9LW/Lt/MzkuokkH0eFgzRDcTrNm1p0IJ/9JQcfOpKKiHo4yRJaEDOefJZMyyajYkzwueHiqZizCnOWnLdzMFQR86cBvk/RF/6kfF9fg5PIg95YVB+ab6AjYM++egCDgV1fsFT7HHelSIxvrY/2R8+KYDDlmH/nqekmHZ+SZ0DIFg==;NP5OVBhTc5+tEVnxKSwGww=="
 ---

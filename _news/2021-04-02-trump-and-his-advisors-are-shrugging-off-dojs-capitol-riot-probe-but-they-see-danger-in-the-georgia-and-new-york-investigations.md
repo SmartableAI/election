@@ -93,22 +93,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
-    excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
-    publishedDateTime: 2021-04-04T00:39:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-demands-boycott-coke-delta-ups-georgia-voter-law-fight-1580906?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1771346/donald-trump.jpg"
-        width: 594
-        height: 396
-        isCached: true
   - title: "Donald Trump has expanded his list of 'woke' companies to boycott, due to their opposition to Georgia's voting law"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump doubled down on his criticism of companies that oppose Georgia's new voting law, and widened his appeal for more boycotts. \"Never submit, never give up!\" Trump said. In a statement ..."
     publishedDateTime: 2021-04-04T09:41:00Z

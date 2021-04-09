@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/07/exclusive-epa-en
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
 type: article
 quality: 123
-heat: 143
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's judicial appointments worsened racial diversity in the federal courts"
-    excerpt: "President Donald Trump's appointments made it worse. In just four years, Trump placed 234 judges with lifetime tenure to the federal courts, making up 28% of the current federal judiciary. An overwhelming number — 192 — of Trump's active appointments ..."
-    publishedDateTime: 2021-04-08T18:06:00Z
-    webUrl: "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp"
+  - title: "AP Interview: EPA head removes Trump-era science advisers"
+    excerpt: "Michael Regan, the new head of the Environmental Protection Agency, is reversing Trump administration actions that sidelined many academic scientists as advisers in favor of industry figures ..."
+    publishedDateTime: 2021-03-31T15:03:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/6059f07b106eb50019d050fb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Technology/WireAP_b4aefc1d57884968989a988d8a24dbb5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "New EPA chief Michael Regan relishes ‘clean slate’ after chaos of Trump era"
+    excerpt: "As the head of the Environmental Protection Agency, Regan not only has to grapple with the unfolding cataclysm of the climate crisis, he must do so at the helm of a traumatized, shrunken institution still reeling from the chaos of the Donald Trump era."
+    publishedDateTime: 2021-04-08T05:00:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/f5b44bf3819ac8f85d1b8d8c20b62dad1cf25287/0_26_3573_2144/master/3573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1057de51843b32fde507bf1ac27e51d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "AP Interview: EPA head removes Trump-era science advisers"
+    excerpt: "WASHINGTON (AP) — In a move he said would help restore “scientific integrity,” the new head of the Environmental Protection Agency is removing dozens of scientists and other experts from key advisory boards named under President Donald Trump ..."
+    publishedDateTime: 2021-03-31T20:44:00Z
+    webUrl: "https://www.chron.com/news/article/New-EPA-chief-committed-to-restoring-scientific-16066513.php"
+    ampWebUrl: "https://www.chron.com/news/amp/New-EPA-chief-committed-to-restoring-scientific-16066513.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/New-EPA-chief-committed-to-restoring-scientific-16066513.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "IUK+dOKiSAV0Vjiz6aQg9znmSIoqUgarx6EE3BFE5vUTIxqLh7NtJK9m0nroHwy/w0q0e0V15BxkkXa/IrgXXNEJLNzO1h6vvn5gslPmUvh+2V6WSep8rUpuc/s9A6HrKjFgYueVrtiG2s3zVyfBDzJR6EIbqfTCnp9sAbVBEwf1OKPgAX2SjG3WuSE8ub3cP/5tVoIOuSrz80BmKoHc/irvQqTTaClGJ5sbHFHrwfHcW129pLGJPc+vnZhPfvxV1fxLkemb/XWuvSPXwaU/QK2sjOaL/muNMt47iNBbz5YOmDrwBHlDB/ONf9Zj5GofFS0injo+zmPjvttYzKMtOSEU4ZxEigzYde2n7SsKbKWJITDfD/smVS6HqaTDVQriajz2csqok50Rku1u3m8to/SEefqeJtka3QHQroORNbilwDJDhzLHTIZ6h7rJ+G1BSYvCsR6SM5XNg26FYyUqUdsulFu79ZBndrKO9snIJUeHzV9GUPLSav6jws19YQL0g8GUr2OLbYNDm6vr2Pk6ig==;oFQUQ6YTYV8F8KNhkiib7Q=="

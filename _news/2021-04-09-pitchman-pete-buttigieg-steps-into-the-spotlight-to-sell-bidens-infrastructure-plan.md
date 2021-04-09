@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pressure builds on Biden administration to lift refugee cap after months-long delay"
+    excerpt: "In his first days in office, President Joe Biden proposed expanding the number of refugees who could be admitted to the United States after years of historic lows, but more than two months later that increase remains unsigned despite Biden's pledge, perplexing even officials within his own administration"
+    publishedDateTime: 2021-04-09T20:31:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TJ7r7nP68Ww/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/refugees-us-cap-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/refugees-us-cap-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324163902-refugee-camp-fire-video-thumbnail-lon-orig-na-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: The sneaky radicalism of Joe Biden's first few months in office"
     excerpt: "Joe Biden ran for president on a very simple idea: Government (and the country) works best when people from opposing parties work together. And he cast himself as someone who was uniquely suited to re-stoke the desire for bipartisanship in Congress (and the country).\n    \n"
     publishedDateTime: 2021-04-09T16:08:27Z

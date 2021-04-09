@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump officials gloated about pressuring the CDC to edit its COVID-19 reports: 'Yippee!!!'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Health officials in former President Donald Trump's administration gloated about their efforts to edit scientific reports on COVID-19 last year to fit Trump's messaging, according to documents obtained by The ..."
-    publishedDateTime: 2021-04-09T14:27:00Z
-    webUrl: "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp"
+  - title: "Trump 'money bomb' scheme raised millions from unwitting donors – report"
+    excerpt: "Practice that used pre-checked boxes and obscure design on fundraising emails condemned as ‘unethical and inappropriate’ Last modified on Sat 3 Apr 2021 15.45 EDT Donald Trump’s 2020 presidential campaign used pre-checked boxes and obscure design on ..."
+    publishedDateTime: 2021-04-03T18:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
     images:
-      - url: "https://i.insider.com/607055ff30004b0019b26d65?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/7c3b94345e7d9c1981e5298fee284a4497087e54/0_125_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7aba3783a09ff47a21884a828bfcfa9"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
-    publishedDateTime: 2021-04-09T16:55:00Z
-    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+  - title: "'A complete ripoff': Campaign finance experts puzzled and stunned by Trump camp's reported 'money bomb' ploy"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Elderly donors who gave a few hundred dollars to former President Donald Donald Trump's reelection campaign were shocked to see thousands drained from their accounts. Refund requests spiked in the final months of ..."
+    publishedDateTime: 2021-04-06T18:57:00Z
+    webUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 106
     images:
-      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
+      - url: "https://i.insider.com/606c75682556c50018947897?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

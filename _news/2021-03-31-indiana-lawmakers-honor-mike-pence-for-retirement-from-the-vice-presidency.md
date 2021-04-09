@@ -27,35 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Former Vice President Mike Pence memoir set for 2023 release"
-    excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-    publishedDateTime: 2021-04-07T22:03:00Z
-    webUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
+  - title: "Indiana Senate congratulates Pence on his 'retirement'"
+    excerpt: "Mike Pence’s political career is over. That at least is the opinion of the Republican-controlled Indiana Senate, which unanimously adopted a resolution Tuesday congratulating the former vice president and Indiana governor on his “retirement.”"
+    publishedDateTime: 2021-03-31T03:00:00Z
+    webUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.html"
+    ampWebUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.amp.html"
+    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.amp.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
+      name: Northwest Indiana Times
+      domain: nwitimes.com
+    quality: 75
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg"
-        width: 3000
-        height: 2221
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/48/c48dcc07-9dd0-52ac-8b5a-a704f9ee5745/6063a62fa17af.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Former Vice President Mike Pence stepping up political involvement with new organization"
-    excerpt: "WASHINGTON – Former Vice President Mike Pence has a new advocacy organization, the latest move in his gradual return to public and political life since leaving office in January. Pence said he will use his “Advancing American Freedom” group to ..."
-    publishedDateTime: 2021-04-07T16:46:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/04/07/mike-pence-launches-new-advocacy-group-he-returns-political-life/7121718002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7121718002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7121718002"
+  - title: "Indiana Senate congratulates Mike Pence on his 'retirement'"
+    excerpt: "Mike Pence reportedly is considering a 2024 run for president. But the Republican-controlled Senate in Pence's home state has adopted a resolution congratulating the former vice president and Indiana"
+    publishedDateTime: 2021-03-31T17:05:00Z
+    webUrl: "https://madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.html"
+    ampWebUrl: "https://madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/indiana-senate-congratulates-mike-pence-on-his-retirement/article_967cb9d8-f5f2-5d1c-a238-ed2922317e61.amp.html"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 66
+      name: Madison.com
+      domain: madison.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/04/USAT/7eb90f2c-9bcb-458b-a69c-edd0157334f3-Pence_fist.jpg?auto=webp&crop=4278,2407,x0,y217&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/de/adef85fc-3eb9-5d23-90a3-d52cb6c0052d/6064acf687908.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "q1yav242eilgCUpLZoLb2wAYHw9SaoeNa0KJMUZH50L1mygX/lBefDJXOKZgI5tCsoabgdPevfh6fpJZ+heGynWzVXXefh+Lg5uSILDCGo7ppNIySk+L5IAT6Sbb7jsi+4JS2HCKnQtYbVMybZVB0+40/Z787ybtzfgTyMoVLe4DPbis0zANPJgAxTGirW5T263dEM68s7g9WE1epps9CNdOFBrq4fGptLcwt4GA/tvTXzWzelvWvhDevboH41vjvaO7E1vVL1sReFJGC4WEgMMky94LGlyDeVq6l9ipmLsKlJlb35vVyhHWrQjJqv6JNdE1lej3KyY0JndL2pMcgobvk7muwU/2YeGZ0HFMV9MwEf8VcbPQBJCeiKFoLBf2zvr+bNQY17kYh5jT3Jpd5yXJVnVrrbx935cCB6WiQ4FDmraKaZbTqb3wcLPNIEb8f/cbHc5cWTBFvNz6PPNptSg1GUoLLsTlyMO/mkV/6CQwOiX13njyznTmO1oT0LlGHQKIjljw0pysy4dt/+lmkw==;7SHSTrpjv/s1AXYQCZn5GQ=="

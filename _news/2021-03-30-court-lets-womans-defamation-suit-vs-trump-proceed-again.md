@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "DOJ asks for more time to make decision on turning over Trump taxes"
+    excerpt: "Justice Department (DOJ) lawyers have reportedly requested additional time to determine their response to House Democrats’ request for former President Trump Donald Trump The Hill's Morning ..."
+    publishedDateTime: 2021-04-01T01:19:00Z
+    webUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes"
+    ampWebUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_8_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump endorses Wisconsin Sen. Ron Johnson, encourages him to run in 2022"
     excerpt: "MADISON, WIS. — Former President Donald Trump offered his “Total Endorsement” of Wisconsin’s Republican Sen. Ron Johnson on Thursday, encouraging him to seek a third term as he mulls whether to run again or retire. Johnson’s seat in battleground ..."
     publishedDateTime: 2021-04-08T18:39:00Z

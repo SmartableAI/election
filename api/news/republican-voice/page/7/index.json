@@ -2,6 +2,119 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-12-biden-fills-his-primetime-remarks-on-covid-19-with-jabs-at-trump.md",
+      "title": "Biden fills his primetime remarks on COVID-19 with jabs at Trump",
+      "excerpt": "In his first primetime address to the nation Thursday night, President Biden lobbed barely-conceal criticism at Donald Trump for his handling of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8382acb7-c09b-4e8e-a27d-19150c65075b/3cfe5695-e576-41ec-bf4b-ab25d5900187/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
+      "publishedDateTime": "2021-03-11T18:49:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-white-house-increasingly-run-by-vp-harris-schumer-and-pelosi-newt-gingrich.md",
+      "title": "White House 'increasingly run' by VP Harris, Schumer and Pelosi: Newt Gingrich",
+      "excerpt": "Newt Gingrich said Thursday that Kamala Harris, Nancy Pelosi, and Chuck Schumer appear to be the ones running the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich",
+      "originalUrl": "https://www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/706511fd-0850-4b23-925f-140152735c3c/e5e419f5-4f88-46b3-81ac-8226a8591775/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich.amp",
+      "publishedDateTime": "2021-03-11T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-biden-civil-rights-pick-promoted-jussie-smollett-hoax-criticized-police-handling-of-case.md",
       "title": "Biden civil rights pick promoted Jussie Smollett hoax, criticized police handling of case",
       "excerpt": "President of the Lawyers’ Committee for Civil Rights Under Law and Biden nominee Kristen Clarke made multiple posts on Twitter pushing the alleged hate crimes Smollett claimed had occurred.",
@@ -1556,120 +1669,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-wsj-opinion-mike-pence-goes-from-hero-to-villain.md",
-      "title": "WSJ Opinion: Mike Pence Goes From Hero to Villain",
-      "excerpt": "For criticizing H.R.1 as an \"unconstitutional power grab,\" Mike Pence is accused of spreading Donald Trump’s ‘big lie.’ Images: AFP via Getty Image",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
-      "originalUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20210308/030821opvidmainstreet/030821opvidmainstreet_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-pence-to-deliver-first-post-vp-speech-in-south-carolina-as-he-eyes-political-future.md",
-      "title": "Pence to deliver first post-VP speech in South Carolina as he eyes political future",
-      "excerpt": "Former Vice President Mike Pence will head to South Carolina next month to deliver his first public address since the end of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "publishedDateTime": "2021-03-08T07:07:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

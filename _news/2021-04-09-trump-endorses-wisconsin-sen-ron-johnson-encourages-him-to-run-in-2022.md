@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "DOJ asks for more time to make decision on turning over Trump taxes"
+    excerpt: "Justice Department (DOJ) lawyers have reportedly requested additional time to determine their response to House Democrats’ request for former President Trump Donald Trump The Hill's Morning ..."
+    publishedDateTime: 2021-04-01T01:19:00Z
+    webUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes"
+    ampWebUrl: "https://thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/545895-doj-asks-for-more-time-to-make-decision-on-turning-over-trump-taxes?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_8_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Former Trump adviser takes prominent role in voting battle"
     excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
     publishedDateTime: 2021-03-27T04:26:00Z

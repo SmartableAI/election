@@ -47,6 +47,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden gun control moves spark backlash from state attorneys general"
+    excerpt: "State attorneys general are signaling that they may take legal action against President Biden's new gun-control policies."
+    publishedDateTime: 2021-04-09T21:16:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mi0XYuhbgB4/biden-gun-control-state-attorneys-general"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-control-state-attorneys-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-state-attorneys-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/025ee707-4e8b-40e1-9b3c-e3a7cac73b67/558e3a4e-a28d-4349-919d-0a2770e6fa93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden gun control moves spark backlash from state attorneys general"
+    excerpt: "State attorneys general are signaling that they may take legal action against President Biden's new gun-control policies announced Thursday. The president on Thursday announced a new set of executive actions and legislative proposals aimed at strengthening ..."
+    publishedDateTime: 2021-04-09T21:20:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-gun-control-state-attorneys-general"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-control-state-attorneys-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-state-attorneys-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/025ee707-4e8b-40e1-9b3c-e3a7cac73b67/558e3a4e-a28d-4349-919d-0a2770e6fa93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ZtaYZyAH08HC6cmIxcAoGGO27rjdQK63NF2vT69LCxatNq0XCmoq27sojeT+2qUyqV5RdpajaAZUs/T+amWxnhOJuYGYzBRGPcWtxvZUguzUTxHDoSnCYZOZ74EMofgZN/fjeYVtujN5e7wyPH4rnDvbLu9A7bhVNTyJ0NDO7inh4putYYu27H4w3fI7pauwEjjQIvgq5Qh9Pz34XBWfj21o/pPHm9oIYIi6ym1CKumdMn3c+jFZm4V0di/AQbYPudX4hto559rf21+6zf+1VZMc0kg63OyrqjApxeoj/NemlYmgNhBOBcM8PDrfljZLZJBM7TIgqcPPk0ma3VWWCOUHfMjy1fgNmIu05y9nTJg=;+gMvJqDNfDrrO/tRw6CtKw=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-09-creator-of-a-scam-pac-that-targeted-trump-supporters-has-been-charged-with-defrauding-the-paycheck-protection-program.md",
+      "title": "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4",
+      "originalUrl": "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp",
+      "publishedDateTime": "2021-04-09T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-bidens-first-budget-fuels-health-education-spending-in-sharp-change-from-trump.md",
       "title": "Biden's first budget fuels health, education spending in sharp change from Trump",
       "excerpt": "WASHINGTON (Reuters) -U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence and to support education in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-budget-idINKBN2BW190",
       "featuredContent": null,
       "highlight": null,
-      "heat": 815,
+      "heat": 835,
       "tags": null,
       "images": [
         {
@@ -54,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-trump-officials-gloated-about-pressuring-the-cdc-to-edit-its-covid-19-reports-yippee.md",
-      "title": "Trump officials gloated about pressuring the CDC to edit its COVID-19 reports: 'Yippee!!!'",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Health officials in former President Donald Trump's administration gloated about their efforts to edit scientific reports on COVID-19 last year to fit Trump's messaging, according to documents obtained by The ...",
+      "path": "_news/2021-04-09-mike-pence-memoir-could-define-him-for-2024-but-donald-trump-looms-large.md",
+      "title": "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large",
+      "excerpt": "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4",
+      "webUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
+      "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 1249,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/607055ff30004b0019b26d65?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +128,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp",
-      "publishedDateTime": "2021-04-09T07:27:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
+      "publishedDateTime": "2021-04-09T07:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -102,6 +154,7 @@
       ],
       "topics": [
         "Election",
+        "Mike Pence",
         "Donald Trump"
       ]
     },
@@ -114,7 +167,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 280,
+      "heat": 240,
       "tags": null,
       "images": [
         {
@@ -215,6 +268,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-09-trumps-quieter-hold-on-gop-stays-strong-the-note.md",
+      "title": "Trump's quieter hold on GOP stays strong: The Note",
+      "excerpt": "But they share a focal point: former President Donald Trump. The gatherings, organized by the Republican National Committee and two different Trump-friendly outside groups, will take place at and ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919",
+      "originalUrl": "https://abcnews.go.com/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-gty-er-210408_1617928535428_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919",
+      "publishedDateTime": "2021-04-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-the-earth-holds-so-much-power-deb-haaland-visits-sacred-site-trump-shrank.md",
       "title": "‘The earth holds so much power’: Deb Haaland visits sacred site Trump shrank",
       "excerpt": "Photograph: Rick Bowmer/AP The interior secretary, Deb Haaland, paid a historic visit on Thursday to Bears Ears national monument, the Utah site sacred to Native Americans that was downsized by President Donald Trump. Haaland is a member of the Laguna ...",
@@ -247,6 +352,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-former-trump-campaign-manager-advising-jenner-on-potential-california-gubernatorial-run.md",
+      "title": "Former Trump campaign manager advising Jenner on potential California gubernatorial run",
+      "excerpt": "ADVERTISEMENT Parscale was the digital guru for former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar slams Biden admin for ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california",
+      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/blogs/jennercaitlyn03112016getty.jpg",
+          "width": 645,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp",
+      "publishedDateTime": "2021-04-08T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -376,19 +533,19 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-caitlyn-jenner-is-working-with-trump-aide-brad-parscale-on-her-potential-california-gubernatorial-bid.md",
-      "title": "Caitlyn Jenner is working with Trump aide Brad Parscale on her potential California gubernatorial bid",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Caitlyn Jenner is seeking political advice from former President Donald Trump's estranged aide, Brad Parscale, on her possible California gubernatorial bid. Parscale, who served as Trump's campaign manager before ...",
+      "path": "_news/2021-04-09-trumps-judicial-appointments-worsened-racial-diversity-in-the-federal-courts.md",
+      "title": "Trump's judicial appointments worsened racial diversity in the federal courts",
+      "excerpt": "President Donald Trump's appointments made it worse. In just four years, Trump placed 234 judges with lifetime tenure to the federal courts, making up 28% of the current federal judiciary. An overwhelming number — 192 — of Trump's active appointments ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/caitlyn-jenner-getting-campaign-advice-from-trump-aide-brad-parscale-2021-4",
-      "originalUrl": "https://www.businessinsider.com/caitlyn-jenner-getting-campaign-advice-from-trump-aide-brad-parscale-2021-4",
+      "webUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4",
+      "originalUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 142,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/606f0d2a4d3e410018b6ff73?width=1200&format=jpeg",
+          "url": "https://i.insider.com/6059f07b106eb50019d050fb?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -398,9 +555,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/caitlyn-jenner-getting-campaign-advice-from-trump-aide-brad-parscale-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/caitlyn-jenner-getting-campaign-advice-from-trump-aide-brad-parscale-2021-4?amp",
-      "publishedDateTime": "2021-04-08T07:55:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp",
+      "publishedDateTime": "2021-04-08T11:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -408,58 +565,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon.md",
-      "title": "Colbert mocks Gaetz after Trump denies he asked for a pardon",
-      "excerpt": "30 Report - Presented by ExxonMobil - Pence sets the stage for 2024 MORE after former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon",
-      "originalUrl": "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/colbert_stephen_gaetz_matt040821.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp",
-      "publishedDateTime": "2021-04-08T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -589,58 +694,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-new-epa-chief-michael-regan-relishes-clean-slate-after-chaos-of-trump-era.md",
-      "title": "New EPA chief Michael Regan relishes ‘clean slate’ after chaos of Trump era",
-      "excerpt": "As the head of the Environmental Protection Agency, Regan not only has to grapple with the unfolding cataclysm of the climate crisis, he must do so at the helm of a traumatized, shrunken institution still reeling from the chaos of the Donald Trump era.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis",
-      "originalUrl": "https://www.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f5b44bf3819ac8f85d1b8d8c20b62dad1cf25287/0_26_3573_2144/master/3573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1057de51843b32fde507bf1ac27e51d",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis",
-      "publishedDateTime": "2021-04-07T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-trump-endorses-alabamas-mo-brooks-for-senate-a-promoter-of-his-false-claims-of-a-stolen-election.md",
       "title": "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election",
       "excerpt": "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House.",
@@ -649,7 +702,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -745,6 +798,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-08-headhunters-having-hard-time-finding-jobs-for-former-trump-officials-report.md",
+      "title": "Headhunters having hard time finding jobs for former Trump officials: report",
+      "excerpt": "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials",
+      "originalUrl": "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp",
+      "publishedDateTime": "2021-04-07T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-nasty-notes-left-for-trump-staffers-came-from-celebs-not-obama-aides-dave-chappelle-says.md",
       "title": "Nasty notes left for Trump staffers came from celebs, not Obama aides, Dave Chappelle says",
       "excerpt": "When former President Donald Trump first moved into the White House in January 2017, his staffers said they found nasty notes stuffed into the drawers and cabinets — a claim President Barack",
@@ -793,21 +898,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-exclusive-epa-reverses-trump-stance-in-push-to-tackle-environmental-racism.md",
-      "title": "Exclusive: EPA reverses Trump stance in push to tackle environmental racism",
-      "excerpt": "Enforcement of pollution violations dropped steeply under Donald Trump’s administration, with the EPA even suspending routine inspections of facilities while the Covid-19 pandemic raged in the US last year. A lack of federal intervention further ...",
+      "path": "_news/2021-04-07-donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-for-pardon.md",
+      "title": "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon",
+      "excerpt": "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice",
-      "originalUrl": "https://www.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice",
+      "webUrl": "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697",
+      "originalUrl": "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 202,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/0212b15c304f6f65fe824f0e440fd35fb4df2236/0_224_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8037f13713e4177088028243fdc1df9",
-          "width": 600,
-          "height": 360,
+          "url": "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -815,16 +920,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice",
-      "publishedDateTime": "2021-04-07T08:17:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1",
+      "publishedDateTime": "2021-04-07T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -962,7 +1067,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -1058,58 +1163,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-is-donald-trump-running-in-2024-ex-president-has-millions-in-save-america-pac-war-chest.md",
-      "title": "Is Donald Trump Running In 2024? Ex-President Has Millions In Save America PAC War Chest",
-      "excerpt": "Trump's influence could be a wildcard in the vital 2022 midterm elections, as he's vowed to primary opponents in his own party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758",
-      "originalUrl": "https://www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg",
-          "width": 1024,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758?amp=1",
-      "publishedDateTime": "2021-04-06T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
       "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
       "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
@@ -1167,58 +1220,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-a-complete-ripoff-campaign-finance-experts-puzzled-and-stunned-by-trump-camps-reported-money-bomb-ploy.md",
-      "title": "'A complete ripoff': Campaign finance experts puzzled and stunned by Trump camp's reported 'money bomb' ploy",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Elderly donors who gave a few hundred dollars to former President Donald Donald Trump's reelection campaign were shocked to see thousands drained from their accounts. Refund requests spiked in the final months of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4",
-      "originalUrl": "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606c75682556c50018947897?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp",
-      "publishedDateTime": "2021-04-06T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-cleveland-businessman-jumps-into-ohio-senate-race-trump-victories-need-to-be-protected.md",
       "title": "Cleveland businessman jumps into Ohio Senate race: Trump 'victories' need to be protected",
       "excerpt": "Moreno, a Cleveland businessman, rolled out his bid in an over two-minute-long video in which he cast himself as an outsider in the mold of former President Trump Donald Trump Joe Biden's ...",
@@ -1251,58 +1252,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-the-staggering-scale-of-the-trump-campaigns-opt-out-fundraising-scheme.md",
-      "title": "The staggering scale of the Trump campaign’s opt-out fundraising scheme",
-      "excerpt": "That’s what the Trump campaign did, too, except instead of a “sign me up for your hourly newsletters,” the checkboxes focused on encouraging people to demonstrate their fervent support for former president Donald Trump — by making their one-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIPFG7OWPRCMVDX44YIPVUIDCM.png&w=1440",
-          "width": 1440,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp",
-      "publishedDateTime": "2021-04-05T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1586,6 +1535,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-donald-trump-sends-out-easter-wishes-and-swipes-radical-left-crazies.md",
+      "title": "Donald Trump sends out Easter wishes – and swipes ‘Radical Left CRAZIES’",
+      "excerpt": "Former President Donald Trump said “Happy Easter” in his own way on Sunday — linking his holiday wishes to his claims of election fraud. “ Happy Easter to ALL, including the Radical Left ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/",
+      "originalUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-005.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/amp/",
+      "publishedDateTime": "2021-04-04T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

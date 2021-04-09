@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
+    excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
+    publishedDateTime: 2021-03-31T12:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Blinken reaffirms Trump-era ruling on Hong Kong autonomy"
     excerpt: "Secretary of State Antony Blinken has reaffirmed a determination made last year by the Trump administration that Hong Kong is no longer autonomous and remains undeserving of special treatment by the U"
     publishedDateTime: 2021-03-31T17:18:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_0da79fe716294ab78d70e81bd1af02f8_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
-    excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
-    publishedDateTime: 2021-04-04T02:23:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/546349-trump-calls-for-sweeping-boycott-of-companies-protesting-georgia-voting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Supreme Court vacates ruling barring Trump from blocking Twitter critics, saying case is moot"
     excerpt: "The Supreme Court on Monday vacated a lower court opinion that said President Donald Trump could not block critics from his Twitter feed, which since has been suspended by the company. The U.S. Court of Appeals for the 2nd Circuit in New York had ruled ..."

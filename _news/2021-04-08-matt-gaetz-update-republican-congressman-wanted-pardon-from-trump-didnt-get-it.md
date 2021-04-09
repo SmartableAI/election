@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Colbert mocks Gaetz after Trump denies he asked for a pardon"
-    excerpt: "30 Report - Presented by ExxonMobil - Pence sets the stage for 2024 MORE after former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar ..."
-    publishedDateTime: 2021-04-08T14:35:00Z
-    webUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon"
-    ampWebUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/colbert_stephen_gaetz_matt040821.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
     excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
     publishedDateTime: 2021-04-07T15:30:00Z
@@ -62,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."
+    publishedDateTime: 2021-04-09T11:10:00Z
+    webUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."
@@ -79,19 +79,19 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Power Up: Matt Gaetz is using Trump's playbook to play defense. But he's not Trump."
-    excerpt: "EITHER RIGHT NOW: “Republicans are attacking corporations over their decision to condemn the controversial Georgia voting law, part of the party’s embrace of the populism espoused by President Donald Trump,” our colleagues Marianna Sotomayor and Todd C."
-    publishedDateTime: 2021-04-06T11:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/06/power-up-matt-gaetz-is-using-trump-playbook-play-defense-he-not-trump/"
+  - title: "Matt Gaetz is employing Trump-style fundraising pitches — including automatic recurring contributions that could dupe donors"
+    excerpt: "An envelope. It indicates the ability to send an email. Embattled Rep. Matt Gaetz on Thursday asked his supporters for a little cash, Donald Trump style. Gaetz's re-election campaign committee is employing a controversial fundraising strategy similar to ..."
+    publishedDateTime: 2021-04-09T20:21:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-trump-fundraising-federal-investigation-2021-04"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 99
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4J26YUUQUI6XKW4V54HAGRQZI.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "28vbbJ+sd7tyBiu+yiUARDr85aUB7S6yhqAbenZ6Q4S06GHuhICR5UbAFTKI/V9YoGZfmK7K32n2fdBMrxkVX+2dCbEc1F87L8ZaHktIX7yaSnK+ajSprx1xcNJTvYwnAEK5YM1LHCzSbTOLwyS3JeVQQQCJnFbKrZKuW80hEW5dkEFjzqUGIXSx0u3Erj5Ig9dwk6N+lq9GlZDSaKDymvuvsmNSIhe1OwnuYCvp1bEOhmRBcqtNoxn/7MFwshbvpkydvUxy0JHOdZN+/zt4W9r2SL2D4Ua/OWSjH3r8FjSMPlCQaieormRArNYJLTWLRFZvP+ej4RcIwhb1t9uNnG+xibjVK4/9x9dMctGuu+p1nU+2H6Zhk8RlKkys0NISEN170Vo/3FkBp3QFEwOTjSzH4dQ5F5+ZF1kLpGjvb/xdeTtOLOdHGS1QYDmydrQVBjWoieGtU7tEA8uHTg8Y3eXJT+na2vyqO9O8eHEkrMqzRGc1qoVqOFoKtfvN7DCLL7SPiB1LgpJMLtnlN2XFbQ==;91Qh4VfdAwx1tVWzmpmhKQ=="

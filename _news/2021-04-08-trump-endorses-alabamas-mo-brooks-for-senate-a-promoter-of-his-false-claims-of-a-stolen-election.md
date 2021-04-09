@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
 type: article
 quality: 126
-heat: 286
+heat: 226
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
-    excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
-    publishedDateTime: 2021-04-07T12:59:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
-        width: 1024
-        height: 649
-        isCached: true
-  - title: "Trump endorses Mo Brooks for Senate in Alabama"
-    excerpt: "Former President Donald Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far ..."
-    publishedDateTime: 2021-04-07T13:05:00Z
-    webUrl: "https://thehill.com/homenews/campaign/546863-trump-endorses-brooks-in-alabama-senate-boosting-one-of-his-biggest"
-    ampWebUrl: "https://thehill.com/homenews/campaign/546863-trump-endorses-brooks-in-alabama-senate-boosting-one-of-his-biggest?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546863-trump-endorses-brooks-in-alabama-senate-boosting-one-of-his-biggest?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/brooksmo_113017gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Donald Trump Endorses Marco Rubio, Says He'll Never Let Country Down"
     excerpt: "Former President Donald Trump has endorsed Senator Marco Rubio (R-FL) in a post on the messaging service Telegram on Friday morning. \"It is my honor to give U.S. Senator Marco Rubio my Complete and Total Endorsement,\" Trump wrote. \"Marco has been a ..."
     publishedDateTime: 2021-04-09T13:04:00Z
@@ -94,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1771634/michael-wood-texas-congressional-candidate.jpg"
         width: 309
         height: 292
-        isCached: true
-  - title: "Trump-loving Alabama county faces uphill vaccination effort"
-    excerpt: "Tending a thrift store that displays a faded Trump flag in a nearly all-white Alabama county with a long history of going against the grain, Dwight Owensby is among the area's many skeptics of the COVID-19 vaccine."
-    publishedDateTime: 2021-04-08T15:15:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-loving-Alabama-county-faces-uphill-16086167.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-loving-Alabama-county-faces-uphill-16086167.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-loving-Alabama-county-faces-uphill-16086167.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
     excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."

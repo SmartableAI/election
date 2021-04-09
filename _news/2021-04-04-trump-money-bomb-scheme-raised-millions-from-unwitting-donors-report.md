@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-sch
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020"
 type: article
 quality: 124
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: The Guardian
@@ -31,133 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "The staggering scale of the Trump campaign’s opt-out fundraising scheme"
-    excerpt: "That’s what the Trump campaign did, too, except instead of a “sign me up for your hourly newsletters,” the checkboxes focused on encouraging people to demonstrate their fervent support for former president Donald Trump — by making their one-time ..."
-    publishedDateTime: 2021-04-05T20:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIPFG7OWPRCMVDX44YIPVUIDCM.png&w=1440"
-        width: 1440
-        height: 573
-        isCached: true
-  - title: "Trump's quieter hold on GOP stays strong: The Note"
-    excerpt: "But they share a focal point: former President Donald Trump. The gatherings, organized by the Republican National Committee and two different Trump-friendly outside groups, will take place at and ..."
-    publishedDateTime: 2021-04-09T10:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-er-210408_1617928535428_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme"
-    excerpt: "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ..."
-    publishedDateTime: 2021-04-04T15:23:00Z
-    webUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952"
-    ampWebUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Former Trump campaign manager advising Jenner on potential California gubernatorial run"
-    excerpt: "ADVERTISEMENT Parscale was the digital guru for former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar slams Biden admin for ..."
-    publishedDateTime: 2021-04-08T19:18:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 117
-    images:
-      - url: "https://thehill.com/sites/default/files/blogs/jennercaitlyn03112016getty.jpg"
-        width: 645
-        height: 363
-        isCached: true
-  - title: "Former JPMorgan executive quits board of company that collected data for Trump 2020 campaign"
-    excerpt: "Blythe Masters, a former top executive at JPMorgan Chase, is quitting the board of Phunware, a company that created a controversial voter data collection app for Donald Trump's 2020 re-election campaign."
-    publishedDateTime: 2021-04-01T21:42:00Z
-    webUrl: "https://www.cbsnews.com/news/jpmorgan-chase-blythe-masters-phunware-quit/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 114
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/01/a95746b1-61b8-487b-b467-7cb8ae7444ca/thumbnail/1200x630/d299cf992ee40f5014c04fd6ddf08d9d/img-aic-2021-blythe-masters.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."
-    publishedDateTime: 2021-04-09T11:10:00Z
-    webUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
+  - title: "'A complete rip-off': Campaign-finance experts puzzled and stunned by Trump camp's reported 'money-bomb' ploy"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Older donors who gave a few hundred dollars to former President Donald Trump's reelection campaign said they were shocked to see thousands drained from their accounts. Refund requests jumped in the final months ..."
+    publishedDateTime: 2021-04-06T18:57:00Z
+    webUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 106
     images:
-      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+      - url: "https://i.insider.com/606c75682556c50018947897?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus"
-    excerpt: "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ..."
-    publishedDateTime: 2021-03-31T10:54:00Z
-    webUrl: "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp"
+  - title: "'A complete ripoff': Campaign finance experts puzzled and stunned by Trump camp's reported 'money bomb' ploy"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Elderly donors who gave a few hundred dollars to former President Donald Donald Trump's reelection campaign were shocked to see thousands drained from their accounts. Refund requests spiked in the final months of ..."
+    publishedDateTime: 2021-04-06T18:57:00Z
+    webUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/campaign-finance-experts-stunned-by-trump-camps-reported-money-bomb-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 107
+    quality: 106
     images:
-      - url: "https://i.insider.com/6064514b6183e1001981972d?width=1200&format=jpeg"
+      - url: "https://i.insider.com/606c75682556c50018947897?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
-    excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
-    publishedDateTime: 2021-04-07T23:33:00Z
-    webUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/"
-    ampWebUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 67
-    images:
-      - url: "https://thumbnails.texastribune.org/aqe7-Li9PzIZ9QIexP_8OQM_5Q8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/6f9c74896c525bff9a658560eee0db9c/Escobar%20Impeachment%20REUTERS%20TT.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "YyPLcsVyrj/K5ZTvlTbv6uOE+IV7xEz6m14aDvSdFEMUDXGphb+sT6JyXRG4G8ckcND4ry7Yau3vJYJiNzwA5ahk4pus7bxJFrJHDECEMCGpaxCiIRu4nyiUSEnkWNWVTu9Ufm4upoHPY2RdnWelHPWyUHTy7AqWjdU3kIxQQCsSBiotcRztahEUoG9gL3yVHEosHD0d9lq1cnWUIHihHiQLOJmh/NoneHEGY/zjnYT1BKKlZ/lnL/zT/LtF+O3pW6JjhJEv2vP6nZm50y1s2rNdd2S5P9Hbg66uoo3c/lGYSHI+hMVn7JlLYc63o9/OAr0ZZQcVz7QDxqSJ8/3G4Bp/1SXSJZfAKVQ2xGJh5Ig=;bhFAnFwlaYGi6X3AWuePXg=="
