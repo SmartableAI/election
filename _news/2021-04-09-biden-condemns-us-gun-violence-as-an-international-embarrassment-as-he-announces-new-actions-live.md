@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – live"
-excerpt: "Maanvi Singh in Oakland (now) and Joan E Greve in Washington (earlier) Lisa O’Carroll, Rory Carroll and Rajeev Syal report: The White House has expressed concern over a week of riots in Northern Ireland, with Joe Biden joining Boris Johnson and the Irish ..."
-publishedDateTime: 2021-04-08T21:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f657c8f087dc3964a3882"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f657c8f087dc3964a3882"
+excerpt: "Maanvi Singh in Oakland (now) and Joan E Greve in Washington (earlier) Oliver Milman Michael Regan has perhaps the most fiendishly challenging job within Joe Biden’s administration. As the head of the Environmental Protection Agency, Regan not only has ..."
+publishedDateTime: 2021-04-08T23:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f77ea8f08098d4e058c20"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f77ea8f08098d4e058c20"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
 type: article
-quality: 110
-heat: 130
-published: true
+quality: 90
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://i.guim.co.uk/img/media/629214785e112b836dbdfadf68f73510ddde5bb0/66_0_2867_1721/master/2867.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=60475f754919853a976064d06dc36324"
-    width: 600
-    height: 360
-    isCached: true
 
 related:
   - title: "Biden says gun violence in U.S. is an 'embarrassment’"
@@ -46,6 +40,6 @@ related:
         height: 540
         isCached: true
 
-secured: "0a2FlCaaZ5PylAKDpRoofDZmFvTAI8meh3ZbFwPQmg5DjPrs4qfykLyI5iN9RqO4QfyfdRkiNhSETzc0x1JTTe5danab+Sl1NAnygFiLyk+ZtUds3bgRhwoLMLqH3EhsnT0th7RtujUiOa5fPHlgpqIrqW/XNiN88Q3JQ0f/Rcz/FkgmvOAHgJ2jflZkg7QGkAkw6enizd3Avep2mayR1Dr7As0i3UWzYXTtTBPMWPSip/gyMM8FEl9o6TWWORaY4ipMwrmWIkCGOANzn3jNilPRr1QJyu/qGCpvUXG9PTwCel7ZCFhWWuLWomhr+RYgBNgpVVTR2X6YxBwis7WekntkoC48xhMMwJGdQ+l9MSM=;LvkSr9vu/Fjo0YFxTeyKZg=="
+secured: "6lHDl4ymUsCZwx8UF+xPR8eTy3wftorT7xz8zpP0x5CuqBk7A1ipQRMcDXLLDETkYcXLbkhME2cwicZVP29X3AGPt0sf3Zg7tIx7FEgOc0C1GYU+WtWm3GBJAO7z8jZcl7iVQk4+nFbLRGoB7Dk5d5n/nxfURPg8RT1P2Xa9C2aQDauoQ+6DijMCFgcIYvn18V9HEsrS9w/jPw9O3ooi2/Ib1ofpFWHraUQ0g1jhtW4D/U3LG8ojlhOlefVXUUciVLTEYIWkcXjYB0H2ABa6fOUJo4RBJ2lhjbnCy5EUa7IKCW4Vax4OnY/0gjccIS8OA/911tqnpcpuCIeomVJRBNO22lG2i5zdDS8a/E0czfQ8lJDtEu9ki5VZ3cvX0d+sYD8eKc1JxmKzUylaljsJXnsYQx8MjcGlAqW5h+5JbWrdxb+I6SROzY248fKmROWa8/UKojulQJqqYnAKflGdTa7hLlg9H5HkKBh8kTcyy1N+hsn4pPojP/Up1R/binC5f1Bjlx7r0QHCy/F5goqLag==;l32eGlvTF4MvInZElOocbA=="
 ---
 

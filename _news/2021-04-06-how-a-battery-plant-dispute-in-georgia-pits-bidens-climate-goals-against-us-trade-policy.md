@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces new executive actions on gun control"
+    excerpt: "President Biden plans to unveil an initial set of executive actions on gun control today, fulfilling a commitment he made in the aftermath of two deadly shootings last month. Follow here for the latest."
+    publishedDateTime: 2021-04-08T17:13:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-gun-control-executive-orders-04-08-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-gun-control-executive-orders-04-08-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-gun-control-executive-orders-04-08-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/f30aea1d-e2d2-4b3d-b3e6-e8a2b6d88de3.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "'Outrageous': Biden condemns new Georgia law as a 'blatant attack' on voting rights"
     excerpt: "President Joe Biden on Friday condemned the sweeping new voting restrictions in Georgia as \"outrageous,\" \"un-American\" and \"Jim Crow in the 21st Century.\" \"This law, like so many others being pursued by Republicans in statehouses across the country is a ..."
     publishedDateTime: 2021-03-26T18:11:00Z

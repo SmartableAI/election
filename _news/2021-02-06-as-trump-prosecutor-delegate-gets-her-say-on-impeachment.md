@@ -3323,6 +3323,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fox News Hires Another Top Trump Administration Official"
+    excerpt: "The right-leaning network continues scooping up former Trump officials, the second since former press secretary Kayleigh McEnany joined to co-host \"Outnumbered.\""
+    publishedDateTime: 2021-04-08T22:12:00Z
+    webUrl: "https://www.ibtimes.com/fox-news-hires-another-top-trump-administration-official-3177410"
+    ampWebUrl: "https://www.ibtimes.com/fox-news-hires-another-top-trump-administration-official-3177410?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fox-news-hires-another-top-trump-administration-official-3177410?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/30/president-joe-bidens-administration-has-turned-the-page.jpg"
+        width: 1024
+        height: 687
+        isCached: true
   - title: "Would Trump Have Won if Not for Impeachment? A Pro-Trump Journalist Thinks So."
     excerpt: "Maybe he could have won the election if he hadn’t been impeached. This is the thesis proposed by Mark Hemingway, a right-wing commentator (and husband of Mollie). The majority of Hemingway’s piece is given over to recapitulating a familiar list of the ways Democrats and the mainstream news media treated Mr."
     publishedDateTime: 2021-02-06T01:48:00Z

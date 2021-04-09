@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-tr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "GOP Rep. Kinzinger hauls in big bucks after facing Trump's wrath"
-    excerpt: "Rep. Adam Kinzinger, one of the 10 House Republicans who voted in January to impeach President Trump, said he has brought in $2.2 million in fundraising during the first three months of this year."
-    publishedDateTime: 2021-04-01T15:13:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath"
-    ampWebUrl: "https://www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump Starts 2021 With $31 Million in Cash for New PAC"
     excerpt: "The money, which is in the coffers of a newly formed leadership PAC called Save America, will be key to the former president’s efforts to retain his grip on the Republican Party."
     publishedDateTime: 2021-02-01T05:29:00Z

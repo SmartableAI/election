@@ -3336,6 +3336,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fox News Hires Another Top Trump Administration Official"
+    excerpt: "The right-leaning network continues scooping up former Trump officials, the second since former press secretary Kayleigh McEnany joined to co-host \"Outnumbered.\""
+    publishedDateTime: 2021-04-08T22:12:00Z
+    webUrl: "https://www.ibtimes.com/fox-news-hires-another-top-trump-administration-official-3177410"
+    ampWebUrl: "https://www.ibtimes.com/fox-news-hires-another-top-trump-administration-official-3177410?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fox-news-hires-another-top-trump-administration-official-3177410?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/30/president-joe-bidens-administration-has-turned-the-page.jpg"
+        width: 1024
+        height: 687
+        isCached: true
   - title: "Rep. Castro on President Trump's Tweet Regarding Mike Pence"
     excerpt: "Rep. Castro (D-TX) shows President Trump's tweet saying Vice President Pence \"didn't have the courage to do what should have been done.\" He goes on to show how the crowd responded to the president's tweet."
     publishedDateTime: 2021-02-10T00:00:00Z

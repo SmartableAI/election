@@ -32,19 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Matt Gaetz once sought preemptive pardon from Trump White House: source"
-    excerpt: "Florida Republican Rep. Matt Gaetz, who is facing a federal investigation over allegations of sexual misconduct, asked President Trump's White House for a preemptive pardon at the end of his term, Fox News has confirmed."
-    publishedDateTime: 2021-04-07T12:16:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2En4SAVf2Jk/matt-gaetz-preemptive-pardon-trump-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+  - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
+    excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms."
+    publishedDateTime: 2021-04-08T21:59:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GOP Rep. Kinzinger hauls in big bucks after facing Trump's wrath"
+    excerpt: "Rep. Adam Kinzinger, one of the 10 House Republicans who voted in January to impeach President Trump, said he has brought in $2.2 million in fundraising during the first three months of this year."
+    publishedDateTime: 2021-04-01T15:13:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump endorses Mo Brooks in Alabama Senate race"
+    excerpt: "Former President Trump weighed in on Wednesday in the Republican Senate primary in Alabama, endorsing Rep. Mo Brooks, one of his biggest supporters in the House of Representatives."
+    publishedDateTime: 2021-04-07T13:45:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LMuSuGaYDxA/trump-endorses-mo-brooks-alabama-senate-race"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-mo-brooks-alabama-senate-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-mo-brooks-alabama-senate-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump endorses Ron Johnson early: 'Run, Ron, Run!"
+    excerpt: "Republican Sen. Ron Johnson of Wisconsin hasn't announced yet whether he'll run for reelection next year. But that's not stopping former President Donald Trump from encouraging Johnson to seek a third six-year term in the Senate."
+    publishedDateTime: 2021-04-08T18:03:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -64,69 +112,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Gaetz, under federal investigation, scheduled to speak at conservative summit at Trump-owned resort"
-    excerpt: "Fox News has learned that embattled Rep. Matt Gaetz will speak at a conference in Florida later this week who’s organizers are strong supporter of former President Trump."
-    publishedDateTime: 2021-04-06T19:02:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ITGohoVTaxA/gaetz-fbi-investigation-conservative-summit-trump-owned-resort"
-    ampWebUrl: "https://www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
+  - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
+    excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms. \"Rand Paul has done a fantastic job for our Country, and for the incredible people of ..."
+    publishedDateTime: 2021-04-08T22:01:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 150
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump Organization Hires Criminal Defense Lawyer"
-    excerpt: "Mr. Vance’s office has said it is investigating possible bank, tax or insurance fraud. Prosecutors have subpoenaed information from former President Donald Trump’s banks, lenders, an insurance broker and other parties, The Wall Street Journal has ..."
-    publishedDateTime: 2021-04-07T23:15:00Z
-    webUrl: "https://www.wsj.com/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-322013/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Twitter won’t let National Archives preserve Trump tweets on platform"
-    excerpt: "Twitter will not allow the National Archives and Records Administration to create preserved versions of former President Donald Trump’s tweets accessible on its platform — in the first time ..."
-    publishedDateTime: 2021-04-08T13:49:00Z
-    webUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/"
-    ampWebUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
+  - title: "Democrats still searching for answers on Trump's appeal to Latinos in 2020 election"
+    excerpt: "Former President Donald Trump's appeal to Latino voters may have been more widespread than originally thought, according to new research. Democrats touted their focus on increasing turnout among minority voters for the 2020 elections, but Latino voters ..."
+    publishedDateTime: 2021-04-04T12:33:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-tweets-73.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
-    excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"
-    publishedDateTime: 2021-03-31T16:18:00Z
-    webUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/"
-    ampWebUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618251253.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "92/15uByvDbmpya/a4rhXGlgxZPEzM45/jmTLUqd/42Hxc7huqAKL8Uyrhe9Piq37qm4klirSE8EHufcPRoYXVtLnu9XQc3zbOdpLP1am/wxPSVqihDdy9KBAjq9uPgd5Y6bhg2mTP1umW1FTFNPlKpHNwWDZm0it02qoPKyV2d9P3w8J3jzQiz3w2UcR6mKfEKe/934BD1DpTarHeLTbnk6RUVeWfoI7TYFYypLGt85B3kdc7MAsue7/SPgLB72/S1cEHF7/n5tSTDmtbCkgxmWF8ErFKmRh5Vj5+ws+6pMwsv4VFbkMUkQz3MxoHrBcbayWnc2FXfJkQoDciT/yp54/5Z1f868IgEMjigsg7U=;ERFFKskQWmh0ZDiIulN7cQ=="

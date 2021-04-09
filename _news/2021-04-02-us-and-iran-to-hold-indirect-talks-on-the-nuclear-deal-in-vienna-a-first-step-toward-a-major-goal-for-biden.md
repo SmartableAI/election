@@ -159,6 +159,22 @@ related:
         width: 594
         height: 395
         isCached: true
+  - title: "Manchin's firm stance on filibuster, reconciliation threatens ambitious Biden agenda"
+    excerpt: "Without his backing, Biden may have to trim, abandon some legislative efforts. 'We're gonna find a really good strong deal space' on infrastructure: Buttigieg Moderate Democrat Joe Manchin ..."
+    publishedDateTime: 2021-04-08T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-manchin-filibuster-01-gty-llr-210407_1617911131382_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Joe Biden Continues Hard Line Against Russia, Offers Ukraine 'Unwavering Support'"
     excerpt: "President Joe Biden on Friday offered \"unwavering support\" to Ukraine and reiterated his strong stance against Russian aggression amid reports of Russian actions near the Ukrainian border. After the president's Friday call with Ukrainian President Volodymyr Zelenskiy,"
     publishedDateTime: 2021-04-02T19:40:00Z
@@ -190,6 +206,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1772280/joe-biden.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Gun control, gun rights reaction on Biden plan"
+    excerpt: "President Joe Biden has announced a half-dozen executive actions aimed at addressing a proliferation of gun violence across the U.S. Among the proposed reforms is a tightening of regulations related to homemade firearms known as \"ghost guns\". (April 8)"
+    publishedDateTime: 2021-04-08T22:27:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/08/gun-control-gun-rights-reaction-biden-plan/7148680002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/027f4f67-6264-49fe-935b-cdde8f50cbb2_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "President Biden making a push for tighter gun safety laws with new executive actions"
     excerpt: "Biden's infrastructure plan: What's inside the new $2 trillion bill?"

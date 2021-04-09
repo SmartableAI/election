@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/04/05/supreme-court-dismisses-case-about-tru
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/amp/"
 type: article
 quality: 135
-heat: 195
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -28,53 +28,101 @@ images:
     isCached: true
 
 related:
-  - title: "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines"
-    excerpt: "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April."
-    publishedDateTime: 2021-04-06T19:30:00Z
-    webUrl: "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april"
-    ampWebUrl: "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp"
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e360c9be-94bc-48ba-b8f1-c0695538cccb/162fa33e-186e-4288-9a45-28a8efcaa517/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Mazie Hirono rips Kavanaugh, other Trump Supreme Court picks, as she promotes new memoir"
-    excerpt: "\"In my view, he’s not a very good lawyer.\" She also criticized Justice Neil Gorsuch, who, like Kavanaugh, was nominated by former President Trump. She accused Gorsuch of making some \"really stupid decisions\" because he’s so \"literal\" about the law."
-    publishedDateTime: 2021-04-04T05:30:00Z
-    webUrl: "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir"
-    ampWebUrl: "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.amp"
+  - title: "Yale psychiatrist says she was fired for calling Trump and supporters mentally ill"
+    excerpt: "A high-profile psychiatrist says she was fired by Yale University after repeatedly calling then-President Trump and his supporters mentally ill — and is now suing the college for unlawful termination."
+    publishedDateTime: 2021-03-25T23:16:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ssa94xvLqgI/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill"
+    ampWebUrl: "https://www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/kavanaugh-hirono.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b7693d9-a98e-450f-b0e5-2ca8da7bbbbb/ad0ab322-d7ad-46ba-9f0c-337c6a6ae7d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pentagon diversity chief 'reassigned' after comparing Trump to Hitler on social media"
+    excerpt: "The Pentagon's new diversity chief has been \"reassigned\" amid an investigation of past social media posts including comparing former President Trump to Adolph Hitler, a U.S. defense official confirmed to Fox News on Tuesday."
+    publishedDateTime: 2021-03-30T13:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhGjo-Tv3Js/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media"
+    ampWebUrl: "https://www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Supreme Court Dismisses Case on Trump Blocking Twitter Followers as Moot"
+    excerpt: "As a plaintiffs lawyer applauds precedent of lower-court ruling against ex-president, Justice Thomas criticizes Twitter’s permanent ban of Trump after Jan. 6 riot at Capitol."
+    publishedDateTime: 2021-04-05T18:46:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-320508/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ex-Trump aide Stephen Miller forms conservative law group to challenge Democratic policies in court"
+    excerpt: "Stephen Miller, the one-time senior advisor to former President Donald Trump who shaped immigration crackdown policies, has launched a new conservative group that could take on President Biden's progressive agenda in court. Miller formed America First ..."
+    publishedDateTime: 2021-04-07T14:55:00Z
+    webUrl: "https://www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/Stephen-Miller.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Supreme Court dismisses Trump Twitter case as moot, as Thomas highlights 'glaring concern' of platform's power"
-    excerpt: "The Supreme Court on Monday deemed former President Donald Trump's appeal of a ruling that said it was unconstitutional for him to block critics, deeming his page to be a protected public forum. The court called for the case to be dismissed, as Trump is no ..."
-    publishedDateTime: 2021-04-05T15:12:00Z
-    webUrl: "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "UcvQxtNN7uG2MhMsGc5rGV+jHilStwmXXArVXA5OVM6rCpIqNXJ8lQtxTQrqfw4905bMuROadzElVrpauqSWBIrWnDoHVmwkgR9Usg5qGa/GCAIfmwbL81KqIf8yS+VHjrTbIYazgZhzby+oq6SNHwqSwe8RHxqQsuBey7oLWkaeG6P0XGlN8/+Oft4Mu/yhC14ohn0hdItIBVyN+FLwiF+oyc2ScLOjoUX7gzJEzzFs5CUQEsoeO4LuVsu3OGlKSOkP1jZ0f13E4IRIkJ+uwH/bDKSlaUxOheSYLlnp0GtL4wajYrJ4DElNjUR89298fH2FjINMt5CTtazh5C+rVZw84bmCR+/N4xYuceRooic=;M9x3N3v67yaN7BEHaBmuOA=="

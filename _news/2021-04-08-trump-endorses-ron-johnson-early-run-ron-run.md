@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
+    excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms."
+    publishedDateTime: 2021-04-08T21:59:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GOP Rep. Kinzinger hauls in big bucks after facing Trump's wrath"
+    excerpt: "Rep. Adam Kinzinger, one of the 10 House Republicans who voted in January to impeach President Trump, said he has brought in $2.2 million in fundraising during the first three months of this year."
+    publishedDateTime: 2021-04-01T15:13:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump endorses Mo Brooks in Alabama Senate race"
     excerpt: "Former President Trump weighed in on Wednesday in the Republican Senate primary in Alabama, endorsing Rep. Mo Brooks, one of his biggest supporters in the House of Representatives."
     publishedDateTime: 2021-04-07T13:45:48Z
@@ -47,83 +79,69 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
-    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
-    publishedDateTime: 2021-03-31T20:45:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+  - title: "Trump's Save America PAC has $85M on hand ahead of 2022 midterms, potential 2024 run: source"
+    excerpt: "Former President Trump's super PAC has $85 million cash on hand ahead of the 2022 midterm elections and as the former president hints at a potential 2024 run, Fox News has learned."
+    publishedDateTime: 2021-04-08T15:40:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fK_9Hblb7z0/trump-save-america-pac-cash-on-hand-2022-midterms"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-save-america-pac-cash-on-hand-2022-midterms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-save-america-pac-cash-on-hand-2022-midterms.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Space Command to be headquartered in Alabama, in 'win' for Trump allies in state"
-    excerpt: "The U.S. Space Command will be headquartered in Huntsville, Ala., it was announced Wednesday, in what sources say is a \"major win\" for allies of President Trump after an intense lobbying battle between six finalists."
-    publishedDateTime: 2021-01-13T21:11:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UWG3tZDiEWQ/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies"
-    ampWebUrl: "https://www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
+    quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Missouri AG Schmitt touts 'fights' alongside Trump in Senate GOP race to replace Blunt"
-    excerpt: "Missouri Attorney General Eric Schmitt plans to occupy what is likely to be a crowded pro-Trump lane in the Republican primary for the state's open U.S. Senate seat, and is emphasizing his fights \"alongside\" the former president in the early stages of the race."
-    publishedDateTime: 2021-04-06T16:57:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mbyaqj_-yac/missouri-ag-schmitt-touts-fights-alongside-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/missouri-ag-schmitt-touts-fights-alongside-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-ag-schmitt-touts-fights-alongside-trump.amp"
+  - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
+    excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms. \"Rand Paul has done a fantastic job for our Country, and for the incredible people of ..."
+    publishedDateTime: 2021-04-08T22:01:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 150
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump’s ambassador to Slovenia launches Senate bid in Alabama"
-    excerpt: "Republican Lynda Blanchard is the first candidate to jump into the race to succeed longtime GOP Sen. Richard Shelby of Alabama."
-    publishedDateTime: 2021-02-18T18:03:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1K6gBR9X_1Q/trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/alabama.png"
-        width: 2237
-        height: 1152
-        isCached: true
-  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
-    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
-    publishedDateTime: 2021-03-31T20:50:00Z
-    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Democrats still searching for answers on Trump's appeal to Latinos in 2020 election"
+    excerpt: "Former President Donald Trump's appeal to Latino voters may have been more widespread than originally thought, according to new research. Democrats touted their focus on increasing turnout among minority voters for the 2020 elections, but Latino voters ..."
+    publishedDateTime: 2021-04-04T12:33:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618251253.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
+    excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."
+    publishedDateTime: 2021-04-07T16:12:00Z
+    webUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "fRpJTS5jmVGXr+cBZpCk3Nbb52UrRWBaabrHCfjQaPxeePz/c/WLljIC4GWQXUZZuUn4pp7XD9JO6kEGX9Vh9Cmn9EfO3CSMDQv00hosBBrSry6JcjQVkdAEOHiD3H+LzjytyCRwGsiHYbeIyGVmjbyTJBDoRb3GOaXCsMjs7TD97sryO5Cfehz3FflgBQ+dokdjSotw72LbC9IT/FPwQLnem9Bg059ep26ug8iDBYA9ZimBaBwqfGNuoocqNako9sTvj19hZ+EKgcKz4AY54OSy3vzxj20ZXZlhDZcKEou6pM8b9dhCMDqwoJPeBogDY5mkmOgrLVUxoW08JWU8gaZQOVfjiq1ZMIfuOPfyKJI=;vmyuflxZ8pp/oPrUNSuyRw=="

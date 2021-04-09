@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump's Save America PAC has $85M on hand ahead of 2022 midterms, potential 2024 run: source"
-    excerpt: "Former President Trump's super PAC has $85 million cash on hand ahead of the 2022 midterm elections and as the former president hints at a potential 2024 run, Fox News has learned."
-    publishedDateTime: 2021-04-08T15:40:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fK_9Hblb7z0/trump-save-america-pac-cash-on-hand-2022-midterms"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-save-america-pac-cash-on-hand-2022-midterms.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-save-america-pac-cash-on-hand-2022-midterms.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Gaetz, under federal investigation, scheduled to speak at conservative summit at Trump-owned resort"
     excerpt: "Fox News has learned that embattled Rep. Matt Gaetz will speak at a conference in Florida later this week who’s organizers are strong supporter of former President Trump."
     publishedDateTime: 2021-04-06T19:02:13Z
@@ -111,22 +95,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
-    excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."
-    publishedDateTime: 2021-04-07T16:12:00Z
-    webUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "JB3bfI6i5SCuBflgsnU1YeoslQQTGkWf7zA6Ypk4T+ZAVUlFP+9X9CzasHOlI15r/KRxG+f5AQFzmR1SNDG2yuAl+ZoVGvm++KnB98Q8hHqMutKTHmvQrj+XKDqniVEgfVNxLrVfjQIWCSdPNWojHirBLPE6BCKTrItu/IAKmC9Ovyr8joet3bydrKD/cIR4Ocl0vEGOJaD/2FgnpDwRGCuF6mhmVtGlA/nzt4+wGEhpl73KwQpwDQv0pzXvNuSE9wTVephnQhvzADfwZUGX4Gta737tkrXnR7qfvjzM4SlaDVf0fKGxDt0ynI/QvWV5BAmRdEdouEyXcqx9mLNrD4gYjXx+uK/xztIZIHky2G9fg4QsijvawP3+pttksee/w/JCxuA5VSTC6JGqAMFGhf2zaG7fDpLhcpu7Wyg4xo3itbOLF8QM42rBdjo/kktebtICjE3A2fqdMG2Ev7gn3TcPi1WB71hVPYmixtsFLhY1jtn7VvkqK4dPRMvsSMCBtJkZ8HCHwwaUVoB22QNQ6Q==;boorh1SvkuHHEFethMSScw=="

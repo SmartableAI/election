@@ -697,6 +697,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Hagerty Talks Elections With Trump After Affirming Biden Win"
+    excerpt: "Three months after he voted to certify President Joe Biden's win, Republican U.S. Sen. Bill Hagerty hasn’t lost standing with former President Donald Trump."
+    publishedDateTime: 2021-04-08T22:45:00Z
+    webUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win"
+    ampWebUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 85
   - title: "The Latest: Trump declassifies Crossfire Hurricane material"
     excerpt: "In his final full day in office, President Donald Trump says he has declassified information related to the FBI’s investigation into ties between Russia and his 2016 presidential campaign."
     publishedDateTime: 2021-01-21T10:20:00Z

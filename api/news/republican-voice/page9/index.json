@@ -2,6 +2,230 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-02-biden-directs-states-to-prioritize-educators-in-vaccine-rollouts-as-he-aims-to-reopen-schools.md",
+      "title": "Biden directs states to prioritize educators in vaccine rollouts as he aims to reopen schools",
+      "excerpt": "President Biden on Tuesday announced a new effort to vaccinate educators and childcare workers as a means to accelerate the safe reopening of schools.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/poye9P5jcGo/biden-states-prioritize-educators-vaccine-rollout",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/poye9P5jcGo/biden-states-prioritize-educators-vaccine-rollout",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4d2d0ea-db36-4c8c-8499-26f759f61647/db9e6911-b46b-4eff-b8d4-b7b74d465b0a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-states-prioritize-educators-vaccine-rollout.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-states-prioritize-educators-vaccine-rollout.amp",
+      "publishedDateTime": "2021-03-02T15:01:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.md",
+      "title": "Trump ally Rep. Lee Zeldin exploring NY governor bid amid Cuomo controversies",
+      "excerpt": "Republican Rep. Lee Zeldin of New York says he’s “actively exploring” a run for governor next year as embattled Democratic Gov. Andrew Cuomo faces multiple allegations of sexual harassment as well as a federal probe into the state’s handling of COVID deaths at nursing homes amid the coronavirus pandemic",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAVmxHPCx14/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAVmxHPCx14/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
+      "publishedDateTime": "2021-03-02T14:50:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-bergdahl-appeals-court-martial-over-trump-mccain-comments.md",
+      "title": "Bergdahl appeals court-martial over Trump, McCain comments",
+      "excerpt": "A former U.S. Army soldier who was court martialed after he left his post in Afghanistan and was captured by the Taliban is asking a federal judge to overturn his military conviction, saying his trial was unduly influenced when former President Donald Trump repeatedly made disparaging comments about",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1c71e0-hN9c/bergdahl-appeals-court-martial-trump-mccain-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1c71e0-hN9c/bergdahl-appeals-court-martial-trump-mccain-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Bowe-Bergdahl-Court-Martial-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bergdahl-appeals-court-martial-trump-mccain-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bergdahl-appeals-court-martial-trump-mccain-comments.amp",
+      "publishedDateTime": "2021-03-02T10:16:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-trumps-received-covid-19-vaccines-at-white-house-in-january.md",
+      "title": "Trumps received COVID-19 vaccines at White House in January",
+      "excerpt": "Former President Donald Trump and former first lady Melania Trump received their COVID-19 vaccines in January at the White House, Fox News confirmed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC60pQ9lG0o/trumps-coronavirus-vaccines-white-house-in-january",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC60pQ9lG0o/trumps-coronavirus-vaccines-white-house-in-january",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-coronavirus-vaccines-white-house-in-january.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-coronavirus-vaccines-white-house-in-january.amp",
+      "publishedDateTime": "2021-03-02T05:33:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-maccallum-presses-buttigieg-as-a-responsible-person-how-could-you-support-biden-covid-relief-plan.md",
       "title": "MacCallum presses Buttigieg: 'As a responsible person,' how could you support Biden COVID relief plan?",
       "excerpt": "Transportation Secretary Pete Buttigieg defended his support of President Biden’s $1.9 trillion COVID-19 relief plan on Monday, dismissing Republican complaints over Democratic pet projects and unrelated items included in the legislation.",
@@ -1426,230 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-us-canada-fight-climate-change.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-canada-fight-climate-change.amp",
       "publishedDateTime": "2021-02-23T16:31:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-biden-transition-received-donations-from-george-soros-hollywood-celebrities.md",
-      "title": "Biden transition received donations from George Soros, Hollywood celebrities",
-      "excerpt": "President Biden’s transition team raised more than $20 million, including contributions from renowned business moguls and staples in the Hollywood celebrity circuit.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/je7Ge0ePhFI/biden-transition-donors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/je7Ge0ePhFI/biden-transition-donors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T16:14:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-alaska-was-openly-targeted-by-biden-executive-order-murkowski-claims-in-haaland-confirmation-hearing.md",
-      "title": "Alaska was openly ‘targeted’ by Biden executive order, Murkowski claims in Haaland confirmation hearing",
-      "excerpt": "Sen. Lisa Murkowski, R-Alaska, sounded the alarm about President Biden's oil restrictions, pressing his Interior secretary nominee, Rep. Deb Haaland, D-N.M., on an executive order she said targeted her state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHheHxQaeOc/murkowski-deb-haaland-alaska",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHheHxQaeOc/murkowski-deb-haaland-alaska",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d3be80-80fd-4e32-88f8-f17582c5c87c/066e8bcf-d531-4803-95df-7e10d15e3db8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/murkowski-deb-haaland-alaska.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-deb-haaland-alaska.amp",
-      "publishedDateTime": "2021-02-23T13:07:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.md",
-      "title": "Trump wishes Tiger Woods a speedy recovery after LA crash",
-      "excerpt": "Former President Trump is wishing golfing legend Tiger Woods well after he experienced a tragic car accident on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b77fd6d9-01d7-4f05-b55c-46c5036d321e/d1927e9e-87bd-409d-b12b-a3c4ff0a798f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp",
-      "publishedDateTime": "2021-02-23T12:44:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-biden-nominee-tom-vilsack-confirmed-as-agriculture-secretary.md",
-      "title": "Biden nominee Tom Vilsack confirmed as agriculture secretary",
-      "excerpt": "President Biden’s Cabinet secured another key appointment Monday after the Senate voted to approve Tom Vilsack as the next agriculture secretary.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqsAvzMrQrg/biden-nominee-tom-vilsack-confirmed-agriculture-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqsAvzMrQrg/biden-nominee-tom-vilsack-confirmed-agriculture-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f57ab36-ea8b-456f-ab70-6835f363cab3/7f5905d3-cc41-4df7-99a6-9399aa75de21/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp",
-      "publishedDateTime": "2021-02-23T12:34:14-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

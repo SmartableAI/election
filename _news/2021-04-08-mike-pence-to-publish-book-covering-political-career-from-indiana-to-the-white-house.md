@@ -107,6 +107,17 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Former Vice President Mike Pence memoir set for 2023 release"
+    excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
+    publishedDateTime: 2021-04-08T17:37:00Z
+    webUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/"
+    ampWebUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "uTW6awpTGTzjf1NTFhB53jBL08+QSchGiMNHUUi85iCSle6EjaSCPofsonFGJOD8IKfTalkkZjrTBukxep47wlYrH0UEi6Cx9u9qXHQw4UvKwHE7nezoe30JaveqBMY1ui7dpcMb+fbjkH0zZBHGrzWYhP9vSSS6bVq/D+69Eqk5U5ZdjhXG03uA2o6/ZdPnxXGIbk4sBo1OjbDfwSEyld0rVWwMEcUKUQl6YNoBQwFtLnOfXADv6il3i3SXquCvmEhVOWZuMNNq1uLu3e4/odSjY0lKx9ppvcvBtPHQoMoaJEvjfX0Wrqxq4EoGy5mBuWxjr1ESzkNXEjhOXPb58XB2HZAZVWIfD0RVRJKVmAs=;rT1iK142VufLy9XEdMw2+Q=="
 ---

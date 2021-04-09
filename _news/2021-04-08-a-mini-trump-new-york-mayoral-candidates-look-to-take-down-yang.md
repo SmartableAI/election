@@ -94,6 +94,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "'He really jumped on the Trump train': How a brash Matt Gaetz climbed the ranks in Trump's Washington"
+    excerpt: "former President Donald Trump. Hours after news of the investigation went public, the Florida Republican went on Fox News to deny any wrongdoing and claim he was the victim of an elaborate extortion scheme. Then he wrote an op-ed declaring he \"absolutely ..."
+    publishedDateTime: 2021-04-08T22:01:00Z
+    webUrl: "https://www.cnn.com/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 120
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408162354-01-matt-gaetz-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "R29LoZy4v4BNIPwT+Wn8YwKKGlPehtN6eVtzOSgVShx5w+gNSb+nPP8fyYktgVmryxu7OwQcD8UJ4B2nVeuc2O8rfylf+1AWkELyEckJUhQJkXwslqKLr1oPDbjbXC20Kuvp1qzbMyf4wr0+zF7l9kpdsp5Xew8I6V+vOviAJN0ajqyIakOwKlVSKW4n1Rty+RiYCPJ/mvYVYFUMaMQD3vjcRZ2SfOEekBZQv6UqxePO4gf4MQ9f8kiCiRZ1e8BYg3GC0SfLUnuf7XVAvVmgxYN6n7ug4i6QE/E5TexZls1UTKQ4N9t1d50K5obisUzD6TtZhcLlQb0IIoXcQTKaNRBJ3OGF77RngbichqNGuztY9m1eEqo7kjqXp82Pe8LTRKPpgVhXuIbWOvqG1cUzybs6ZyP5O2eSw3Jro0w8Y2a7Y8JiQchczDVDpyoD1vn3T5ikr5vK1APzXqFIFfI70xt5IMgDqrmrs0apL5Id5Q/0mTOJP8pCK9pciKEdG94+++Lo6hmUESK1cRE/rO6Log==;2JeXS+xPxNAN6AbBn20v0A=="
 ---

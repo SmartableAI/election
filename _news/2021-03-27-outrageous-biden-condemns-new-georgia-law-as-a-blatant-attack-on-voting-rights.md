@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces new executive actions on gun control"
+    excerpt: "President Biden plans to unveil an initial set of executive actions on gun control today, fulfilling a commitment he made in the aftermath of two deadly shootings last month. Follow here for the latest."
+    publishedDateTime: 2021-04-08T17:13:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-gun-control-executive-orders-04-08-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-gun-control-executive-orders-04-08-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-gun-control-executive-orders-04-08-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/f30aea1d-e2d2-4b3d-b3e6-e8a2b6d88de3.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "How a battery plant dispute in Georgia pits Biden's climate goals against U.S. trade policy"
     excerpt: "President Joe Biden’s ambitious electric vehicle plan has run into a huge hurdle with U.S. trade law, forcing him to choose between swing-state jobs and American intellectual property rules that have come under intense scrutiny during the Covid-19 pandemic."
     publishedDateTime: 2021-04-05T23:30:00Z

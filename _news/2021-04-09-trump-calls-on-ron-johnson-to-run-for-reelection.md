@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/547175-trump-calls-on-ron-john
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547175-trump-calls-on-ron-johnson-to-run-for-reelection?amp"
 type: article
 quality: 140
-heat: 500
+heat: 480
 published: true
 
 provider:
@@ -297,17 +297,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Georgia Lt. Gov. Unlikely to Run Again After Taking on Trump"
-    excerpt: "“This is really the fallout from the 10 weeks of misinformation that flew in from former President Donald Trump,” Duncan said. His comments have given Duncan a national platform and won plaudits from moderates and even some Democrats. But they’ve ..."
-    publishedDateTime: 2021-04-08T14:13:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "lxECym7BszsvrIZ1NW4z94XJoSbGWWjf/9nfpszNN+UPo+2q5NPOXGUdPnsZrrQOcBI3BLMuFPOuW9wiEIeP06PWrFKrpNd168NawFXkCKkosGAXspbv2UNfKZnP54mQcS9E8gAK3q4KUw9/eq5V2MvcN2cnN61OCF7TYtcdTSV67Mkh9070C5bKYeRrR2WTgl7PoVFChQshavFn62pSDyAIdhKmPgCZaUjwounx5qcAnmJMtU4qlYT4suc3/x5ufEiPcsPYQhKWCt/EN9k6lQ7FHls9dZQGdu67ej0jhPHvuSudDoidOWweW+dkFY/45XJVeIRXDUSOoB3CHu8TEhG6dw/7vI9C49qBRAZ3+dYr24kpuQ8wwWgwb0X06YEK5hH89Kev5w22c9SZG6blV9PaIr4x3dlMXHXq/JvmwJdeoTQ+mT6yhbEtc7/OTqLhkDiQkgA8CienHsDYdcHzFJapHRrq3rK/P8y7Nc6dP59UZmb+ijirWFx/ixO7u+e6JgVPs8PfEPviaef3SbO/UA==;qDJ2FnZeZzP2PPa6e5F0Ww=="
 ---

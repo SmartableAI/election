@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'He really jumped on the Trump train': How a brash Matt Gaetz climbed the ranks in Trump's Washington"
+    excerpt: "Rep. Matt Gaetz, attempting to stare down a federal investigation into sex trafficking allegations, is reaching for a familiar, in-your-face strategy perfected over the last four years by the man who fueled his unconventional rise, former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-08T23:04:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_D8w2qRfVdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408162354-01-matt-gaetz-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
     excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."
     publishedDateTime: 2021-04-06T18:42:00Z

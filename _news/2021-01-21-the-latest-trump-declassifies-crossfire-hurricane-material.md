@@ -699,6 +699,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Hagerty Talks Elections With Trump After Affirming Biden Win"
+    excerpt: "Three months after he voted to certify President Joe Biden's win, Republican U.S. Sen. Bill Hagerty hasn’t lost standing with former President Donald Trump."
+    publishedDateTime: 2021-04-08T22:45:00Z
+    webUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win"
+    ampWebUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 85
   - title: "Biden Faces Challenge in Guiding America Past Trump Era"
     excerpt: "Joe Biden has already been preparing for months to take on a series of historic crises — a pandemic that’s killed at least 373,000 Americans and a sluggish economy that’s left millions jobless."
     publishedDateTime: 2021-01-11T14:21:00Z

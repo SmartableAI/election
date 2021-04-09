@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1"
 type: article
 quality: 136
-heat: 216
+heat: 236
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia Lt. Gov. unlikely to run again after taking on Trump"
+    excerpt: "Geoff Duncan was among the most high-profile Republicans to openly contradict Trump's false claims about fraud in the November election."
+    publishedDateTime: 2021-04-08T14:36:00Z
+    webUrl: "https://www.businessinsider.com/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/606f14ab4d3e410018b6ff9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump blasts Georgia election law as 'too weak,' continuing attacks on Kemp, Raffensperger as 'RINOS'"
     excerpt: "Former President Donald Trump continued his war of words with Georgia's top Republican elected officials while arguing the state's controversial new election law doesn't go far enough. \"Georgia’s election reform law is far too weak and soft to ensure ..."
     publishedDateTime: 2021-04-07T17:45:00Z

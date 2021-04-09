@@ -293,17 +293,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Georgia Lt. Gov. Unlikely to Run Again After Taking on Trump"
-    excerpt: "“This is really the fallout from the 10 weeks of misinformation that flew in from former President Donald Trump,” Duncan said. His comments have given Duncan a national platform and won plaudits from moderates and even some Democrats. But they’ve ..."
-    publishedDateTime: 2021-04-08T14:13:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "tc4XbZyY+4YTWT2LiUidw6yC57ZKFfzGmOS1v0keY29W1fQNf+tNbh3xoTZRZG5wkUad8jwF+1CxS9glxmwWQwMXpDFsmUohUOtVbsatVWzi6bCoiGlmT2ExQrcA5A8w1NrJ50LL7hyaXH0kMLQ2rJx+cJ8SBB/8vcToT4rdM6Z5H2dCaXl03FQrPPAteGjvS02r1z9q7TMmQ+zucr1tv2aI68LsHvdT31oSGFkB31PVDRF/1oflZi4Hg6HM0JyNCz+8xZ73paFcR9soZnqP4MG91CozTE1hqo1/v5yJ8EU/0BB5+HsOnH14/SAh6Nxzj5OR7FmnMSq9iec+soZxlgO1YClgbEv0DLemxUuHRjE=;jQL3utFrkUlb1m5+XohW6Q=="
 ---

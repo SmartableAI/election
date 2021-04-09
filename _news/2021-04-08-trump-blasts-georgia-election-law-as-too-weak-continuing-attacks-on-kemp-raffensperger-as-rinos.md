@@ -47,6 +47,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Georgia Lt. Gov. unlikely to run again after taking on Trump"
+    excerpt: "Geoff Duncan was among the most high-profile Republicans to openly contradict Trump's false claims about fraud in the November election."
+    publishedDateTime: 2021-04-08T14:36:00Z
+    webUrl: "https://www.businessinsider.com/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/606f14ab4d3e410018b6ff9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z

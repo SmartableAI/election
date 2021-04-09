@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/vance-mueller-manafort/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/vance-mueller-manafort/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'He really jumped on the Trump train': How a brash Matt Gaetz climbed the ranks in Trump's Washington"
+    excerpt: "Rep. Matt Gaetz, attempting to stare down a federal investigation into sex trafficking allegations, is reaching for a familiar, in-your-face strategy perfected over the last four years by the man who fueled his unconventional rise, former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-08T23:04:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_D8w2qRfVdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408162354-01-matt-gaetz-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Manhattan DA's office has obtained boxes of documents from former daughter-in-law of top Trump Organization official Allen Weisselberg"
     excerpt: "The Manhattan District Attorney's Office has obtained boxes of documents from the former daughter-in-law of a Trump Organization official, after issuing a subpoena for financial records including those related to two Trump Organization-run Central Park businesses, according to a subpoena issued Wednesday.\n"
     publishedDateTime: 2021-04-08T20:09:56Z

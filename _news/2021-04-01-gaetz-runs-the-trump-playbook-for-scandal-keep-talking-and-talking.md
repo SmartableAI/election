@@ -80,6 +80,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "'He really jumped on the Trump train': How a brash Matt Gaetz climbed the ranks in Trump's Washington"
+    excerpt: "former President Donald Trump. Hours after news of the investigation went public, the Florida Republican went on Fox News to deny any wrongdoing and claim he was the victim of an elaborate extortion scheme. Then he wrote an op-ed declaring he \"absolutely ..."
+    publishedDateTime: 2021-04-08T22:01:00Z
+    webUrl: "https://www.cnn.com/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 120
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408162354-01-matt-gaetz-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "‘A mini-Trump’: New York mayoral candidates look to take down Yang"
     excerpt: "Everybody’s ganging up on Andrew Yang. The New York City mayor’s race has grown more vicious in recent weeks — and the favorite target is Yang, who has come under attack for everything from his basic income and tax plans to his employment history and his second home upstate."
     publishedDateTime: 2021-04-07T23:57:00Z

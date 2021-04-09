@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-milit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
 type: article
 quality: 173
-heat: -1
-published: false
+heat: 293
+published: true
 
 provider:
   name: Fox News
@@ -31,83 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump endorses Mo Brooks in Alabama Senate race"
-    excerpt: "Former President Trump weighed in on Wednesday in the Republican Senate primary in Alabama, endorsing Rep. Mo Brooks, one of his biggest supporters in the House of Representatives."
-    publishedDateTime: 2021-04-07T13:45:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LMuSuGaYDxA/trump-endorses-mo-brooks-alabama-senate-race"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-mo-brooks-alabama-senate-race.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-mo-brooks-alabama-senate-race.amp"
+  - title: "Yale psychiatrist says she was fired for calling Trump and supporters mentally ill"
+    excerpt: "A high-profile psychiatrist says she was fired by Yale University after repeatedly calling then-President Trump and his supporters mentally ill — and is now suing the college for unlawful termination."
+    publishedDateTime: 2021-03-25T23:16:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ssa94xvLqgI/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill"
+    ampWebUrl: "https://www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/yale-psychiatrist-says-she-was-fired-for-calling-trump-and-supporters-mentally-ill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b7693d9-a98e-450f-b0e5-2ca8da7bbbbb/ad0ab322-d7ad-46ba-9f0c-337c6a6ae7d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pentagon diversity chief 'reassigned' after comparing Trump to Hitler on social media"
+    excerpt: "The Pentagon's new diversity chief has been \"reassigned\" amid an investigation of past social media posts including comparing former President Trump to Adolph Hitler, a U.S. defense official confirmed to Fox News on Tuesday."
+    publishedDateTime: 2021-03-30T13:58:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fhGjo-Tv3Js/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media"
+    ampWebUrl: "https://www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-diversity-chief-compared-trump-to-hitler-on-social-media.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump endorses Ron Johnson early: 'Run, Ron, Run!"
-    excerpt: "Republican Sen. Ron Johnson of Wisconsin hasn't announced yet whether he'll run for reelection next year. But that's not stopping former President Donald Trump from encouraging Johnson to seek a third six-year term in the Senate."
-    publishedDateTime: 2021-04-08T18:03:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
+  - title: "Supreme Court dismisses case about Trump blocking critics on Twitter"
+    excerpt: "The court threw out a decision by the Second Circuit Court of Appeals in New York that Trump’s attempts to block critics violated the First Amendment."
+    publishedDateTime: 2021-04-05T18:03:00Z
+    webUrl: "https://nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/"
+    ampWebUrl: "https://nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/justice-clarence-thomas-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Space Command to be headquartered in Alabama, in 'win' for Trump allies in state"
-    excerpt: "The U.S. Space Command will be headquartered in Huntsville, Ala., it was announced Wednesday, in what sources say is a \"major win\" for allies of President Trump after an intense lobbying battle between six finalists."
-    publishedDateTime: 2021-01-13T21:11:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UWG3tZDiEWQ/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies"
-    ampWebUrl: "https://www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp"
+  - title: "Supreme Court Dismisses Case on Trump Blocking Twitter Followers as Moot"
+    excerpt: "As a plaintiffs lawyer applauds precedent of lower-court ruling against ex-president, Justice Thomas criticizes Twitter’s permanent ban of Trump after Jan. 6 riot at Capitol."
+    publishedDateTime: 2021-04-05T18:46:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Missouri AG Schmitt touts 'fights' alongside Trump in Senate GOP race to replace Blunt"
-    excerpt: "Missouri Attorney General Eric Schmitt plans to occupy what is likely to be a crowded pro-Trump lane in the Republican primary for the state's open U.S. Senate seat, and is emphasizing his fights \"alongside\" the former president in the early stages of the race."
-    publishedDateTime: 2021-04-06T16:57:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mbyaqj_-yac/missouri-ag-schmitt-touts-fights-alongside-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/missouri-ag-schmitt-touts-fights-alongside-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-ag-schmitt-touts-fights-alongside-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump’s ambassador to Slovenia launches Senate bid in Alabama"
-    excerpt: "Republican Lynda Blanchard is the first candidate to jump into the race to succeed longtime GOP Sen. Richard Shelby of Alabama."
-    publishedDateTime: 2021-02-18T18:03:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1K6gBR9X_1Q/trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/alabama.png"
-        width: 2237
-        height: 1152
+      - url: "https://images.wsj.net/im-320508/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Pentagon to allow open transgender military service, reversing Trump policy"
     excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
@@ -124,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ex-Trump aide Stephen Miller forms conservative law group to challenge Democratic policies in court"
+    excerpt: "Stephen Miller, the one-time senior advisor to former President Donald Trump who shaped immigration crackdown policies, has launched a new conservative group that could take on President Biden's progressive agenda in court. Miller formed America First ..."
+    publishedDateTime: 2021-04-07T14:55:00Z
+    webUrl: "https://www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/Stephen-Miller.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "14c0XQ9xeBD/PXm7SQd9tCk9oTTzkqGluNqbEHvySnN9AByOoh246z5WffOCgbszfCp5UXdsOQc12jfM0C77bvypkfTdebAkpxsCOMYyQjg5Vl4Cx07MMOo0RcILNzv9GO52+L+WJkKSfc1rl5Dg21uzjPtdk1MSXyxd0A5cgQ8sFP5HOx9PEXLs4cC7V7OLy2/cct5bJ7vSACRdtietsNYrys4NRhWvZpvLAFB3vc/GCZr2Q4/TDNE73Sn3WMY9c2lIwhini61PMEofMVaJ7RpdvTc479Vn07CXyTTprWE1Xn9xLV6Bbqb6tQPNCDqzqjtlEIT8E4fq1om7TgPThEFq5mFRO2V2syJIbWKndTQ=;fOoW06bvnjNgRaEkhTI6lg=="

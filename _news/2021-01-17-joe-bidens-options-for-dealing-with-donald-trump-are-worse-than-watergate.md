@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1228
+heat: 1248
 published: true
 
 provider:
@@ -683,6 +683,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 85
+  - title: "Hagerty Talks Elections With Trump After Affirming Biden Win"
+    excerpt: "Three months after he voted to certify President Joe Biden's win, Republican U.S. Sen. Bill Hagerty hasn’t lost standing with former President Donald Trump."
+    publishedDateTime: 2021-04-08T22:45:00Z
+    webUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win"
+    ampWebUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

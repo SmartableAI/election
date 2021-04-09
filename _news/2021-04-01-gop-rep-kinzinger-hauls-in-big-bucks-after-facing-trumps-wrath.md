@@ -31,12 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "Kinzinger launches new PAC to 'take back' GOP from Trump"
-    excerpt: "Under fire by many in his own party for his vote to impeach then-President Trump, Republican Rep. Adam Kinzinger of Illinois is fighting to \"take back\" the GOP."
-    publishedDateTime: 2021-02-01T16:48:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NNGvr15TROg/kinzinger-pac-take-back-gop-from-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp"
+  - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
+    excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms."
+    publishedDateTime: 2021-04-08T21:59:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump endorses Mo Brooks in Alabama Senate race"
+    excerpt: "Former President Trump weighed in on Wednesday in the Republican Senate primary in Alabama, endorsing Rep. Mo Brooks, one of his biggest supporters in the House of Representatives."
+    publishedDateTime: 2021-04-07T13:45:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LMuSuGaYDxA/trump-endorses-mo-brooks-alabama-senate-race"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-mo-brooks-alabama-senate-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-mo-brooks-alabama-senate-race.amp"
     type: article
     provider:
       name: Fox News
@@ -47,21 +63,85 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Starts 2021 With $31 Million in Cash for New PAC"
-    excerpt: "The money, which is in the coffers of a newly formed leadership PAC called Save America, will be key to the former president’s efforts to retain his grip on the Republican Party."
-    publishedDateTime: 2021-02-01T05:29:00Z
-    webUrl: "https://www.wsj.com/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-starts-2021-with-31-million-in-cash-for-new-pac-11612157129"
+  - title: "Trump endorses Ron Johnson early: 'Run, Ron, Run!"
+    excerpt: "Republican Sen. Ron Johnson of Wisconsin hasn't announced yet whether he'll run for reelection next year. But that's not stopping former President Donald Trump from encouraging Johnson to seek a third six-year term in the Senate."
+    publishedDateTime: 2021-04-08T18:03:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://images.wsj.net/im-292983/social"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump's Save America PAC has $85M on hand ahead of 2022 midterms, potential 2024 run: source"
+    excerpt: "Former President Trump's super PAC has $85 million cash on hand ahead of the 2022 midterm elections and as the former president hints at a potential 2024 run, Fox News has learned."
+    publishedDateTime: 2021-04-08T15:40:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fK_9Hblb7z0/trump-save-america-pac-cash-on-hand-2022-midterms"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-save-america-pac-cash-on-hand-2022-midterms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-save-america-pac-cash-on-hand-2022-midterms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
+    excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms. \"Rand Paul has done a fantastic job for our Country, and for the incredible people of ..."
+    publishedDateTime: 2021-04-08T22:01:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
+        isCached: true
+  - title: "Democrats still searching for answers on Trump's appeal to Latinos in 2020 election"
+    excerpt: "Former President Donald Trump's appeal to Latino voters may have been more widespread than originally thought, according to new research. Democrats touted their focus on increasing turnout among minority voters for the 2020 elections, but Latino voters ..."
+    publishedDateTime: 2021-04-04T12:33:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618251253.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
+    excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."
+    publishedDateTime: 2021-04-07T16:12:00Z
+    webUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "Lc1VTrv9gIMKkVx6ln9clGlreplpGJohjPlEW8p11hxMA3GMoITII4oX6Is9iFlz33sc/4NgNIcihFcpCCVyqdZkc0pvjNBc3EfQW+2q+H2sWtfOb/AsX92X6N4+cMEGTebAnK55au7oQKJO/50ipflYa0swja3w1G+HNQIWdYzU15O+Cxd0Iik/CAk/q4YiDp/nVLh25qA15JkwrsegCh9/ipuNV+OSBlnMNs15fa5muJ+URnZjFmo0qGt0QXl6itlUySqdVjxP4fo+iNc1L/DRKzcuXQ7eoDFQExhOGD6BRHJdlVEHyKhVevu06pf26bKp4bvMW2WUQOoM0x2R1vXzOQ+Jxu6Y3qZTTDSfI7w=;XSAXWGPgvOR/1mTg/PodTA=="
