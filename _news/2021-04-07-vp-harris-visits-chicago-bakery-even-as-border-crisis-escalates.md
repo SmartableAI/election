@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Arizona AG says Kamala Harris hasn't responded to his invitation to tour the border"
+    excerpt: "Vice President Kamala Harris and the Biden administration haven't responded to his invitation for her to tour Arizona's border region, the state's attorney general claimed Thursday."
+    publishedDateTime: 2021-04-09T07:55:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Rg5_yYsI8w/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/20e79242-7e28-4c81-92e7-513dff51f664/31d8ef3b-1411-4c39-81f8-f951c37cac09/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to hold first Cabinet meeting Thursday"
     excerpt: "President Biden will hold his first Cabinet meeting Thursday, one week after the full group was confirmed. "
     publishedDateTime: 2021-03-31T19:25:06Z

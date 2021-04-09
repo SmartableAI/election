@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden action on guns draws praise, skepticism"
-excerpt: "President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of infrastructure debate Omar slams Biden admin for continuing ..."
-publishedDateTime: 2021-04-08T20:55:00Z
-originalUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
-webUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
-ampWebUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+title: "Biden announces steps to limit 'ghost' guns"
+excerpt: "Reuters Now Biden announces steps to limit 'ghost' guns Posted [NFA] President Joe Biden and his Attorney General Merrick Garland announced limited measures to tackle gun violence in the United States on Thursday, in what the White House described as a ..."
+publishedDateTime: 2021-04-08T20:23:00Z
+originalUrl: "https://www.reuters.com/video/watch/idPol0?now=true"
+webUrl: "https://www.reuters.com/video/watch/idPol0?now=true"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/bidenjoe_040821getty_guns.jpg"
-    width: 980
-    height: 551
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/606f5fd3e4b0653eea185721-1617911763773?location=LANDSCAPE"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -62,6 +60,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/52577f63b6920f5b4b643b2159c2d9e2b93ec6fc/0_260_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc0ce429f90291119ff6f21174f3fcde"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden action on guns draws praise, skepticism"
+    excerpt: "President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of infrastructure debate Omar slams Biden admin for continuing ..."
+    publishedDateTime: 2021-04-08T20:55:00Z
+    webUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism"
+    ampWebUrl: "https://thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547232-biden-action-on-guns-draws-praise-skepticism?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040821getty_guns.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden tightens some gun controls, says much more needed"
     excerpt: "In President Joe Biden’s first notable gun control measures, he has announced executive actions aimed at addressing what the White House calls a “gun violence public health epidemic"
@@ -223,20 +237,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden announces steps to limit 'ghost' guns"
-    excerpt: "Reuters Now Biden announces steps to limit 'ghost' guns Posted [NFA] President Joe Biden and his Attorney General Merrick Garland announced limited measures to tackle gun violence in the United States on Thursday, in what the White House described as a ..."
-    publishedDateTime: 2021-04-08T20:23:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPol0?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/606f5fd3e4b0653eea185721-1617911763773?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Gun control, gun rights reaction on Biden plan"
     excerpt: "President Joe Biden has announced a half-dozen executive actions aimed at addressing a proliferation of gun violence across the U.S. Among the proposed reforms is a tightening of regulations related to homemade firearms known as \"ghost guns\". (April 8)"
     publishedDateTime: 2021-04-08T22:27:00Z
@@ -277,6 +277,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Bg6rMtbYtM2la5c3Hv3b9Fs90VRXV/6/zbUPiho02iFt1xIvY0e9BMhp8lcheQj/FAWeB2+axhiuyw6yyLPoEHgAw0MvRAmZChxYam4u+xYKOAYGxuq2gb72ljNiOFDwlDDxyqXaPJbc0NPAyNsa5HSvlmPZdv/amgIM8OaWCWOyCSHAnQfGl5U2Cpq+Z0IfGREQS0FqbDGdnYC7HMr2tMSRUYVoioFoQ6h2LulYXcBZpNoJ8EQxWEN6EhyU74kRsifoMFPRPhqZ2F/ugBpcJddS1zNMJOc7mxHs9sAJtbvjcrB+H4OAAzgbUJSBqnE9FgwFyyXSRq7mkTDmMqenzed7PZ9pwZu+qp4yRMYe+Cc=;GF9inV6BxTbqh2gUR6Me7A=="
+secured: "09wj4fwGW+KYsIq9bV2d4gdxzwn4T1DfI6eLMDiVYwg+eGMxslABQPSO/vSlvbbk++Il6c/67pt2LuO0N5zC4vgLIZleRUC2iBYkm3FtWKwnSv3aTbE9hjdFZvS4aCqPOQr73P+wV5wjjQUi5iwfYszKl1X4AI8IkiebnDEKE27XFmxjLwqH5k+2JwP1WjCQRV8tEbUG8uZBn+/2c8iFWiAwDoijNcwTHJCd8Mb5iM5/MplL8wqvvzIgmPxV1SvX4prphhS9DHeo4lUoEJ2Y0De/VPViwBsMT3dyFmxORKtTSQX2/eBIx00SD6daohknQlPaNSAKz8tiqyFsgbrwfV3w5NiY4q4JKP+RsxaATWc=;dI0EB25J37/WQyQOx3n5zA=="
 ---
 

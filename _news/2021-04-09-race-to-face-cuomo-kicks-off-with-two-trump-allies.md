@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Race to face Cuomo kicks off with two Trump allies"
-excerpt: "The MAGA-aligned congressman’s bid comes after Andrew Guiliani, the son of the bombastic former New York City mayor, said he had discussed his own gubernatorial ambitions with former President Donald Trump, his father's former client. While those initial ..."
+excerpt: "Democrats reacted with a shrug to news of Lee Zeldin’s bid — and an eye roll for Andrew Guiliani, who was a White House aide under Trump."
 publishedDateTime: 2021-04-08T23:35:00Z
-originalUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
-webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
+originalUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
+webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
 type: article
 quality: 115
 heat: -1
@@ -297,6 +297,6 @@ related:
         height: 773
         isCached: true
 
-secured: "1Ran3Eq2W4LPaRdyf2mt+AjQ1QpJwy4Eo0LmX0CW5w3X2iw/iWTDl/JmEBHnb9By52NjCJb5KC+WG2MyeYwl8/IN1l8KjROOaAS+gnvjI+ytY+25f16NtRJkwmFbSz9mSAxrjwyXyJYvoGa+LHUtB4Ec3iwx4nTk0LgfLZr5vNhy0zVtt1HdWWQq8ixvJqIdVQ/s5CcoXzxVQeLd1OM1O0ZD/HvHEAN2LfpHyM0EZ561UXw/M+yUwfYOi8MGloYofAfmZBtbH2xnqZwSWPqsW0QCCzjW1lw7aU/Ji/473Px880seVg/nIEs6ldAhcH6SnKjRPo3qBz4HZUlehdH7JQJK9WjR1smlj+bPqvP6nIR+jMC3GcOJ0lNfxip0x3l5ZejQFHYRaakAJMExQdyFSBfgStrxy5ffqyKYmtjyN3yBAJtUpOAO8hIQkDqLrxiuHkiWW+5BoM0cHdjZIbEJ0rE3lMg83ehhUGR+ggAcYtX6+6bZiC5XXGeeX7hwQ/z7AMf7a26w57nTnIXiePHpPQ==;zKdiRb9LPkbRnXzoftYn0w=="
+secured: "iy5Kk8Qn+xIIroxjhpY2wNyxfHwrttoEd/9ZCb2BqN97ZX+v3GPDsIT5b3wpdqHwb8AIi1UIatJ1IwyzhZPie7Ir23/m6v+ZjroFY6uKk0F3mOhmZRkhA229eSn583J7EEu4C48+Wnwj6Z4s9dKFcZ66EOTAWG1UY2+kE7A5wUT1CFvS1qPCqx+79xJ+Bo7UqnrY0bIJsvhXMAi6ZWEDkgkrWorIpPJkyCiLuR8o5lTQpg925KBIYsfGmN8k1NzKeX1iRGTnTw+wHWFmI8AlqsdO8lpIurXXMD1BPIq9M9/fddYJytA0sqqQvHK9Jn9O6/KqDhOASgjyaIQnYAJw6IoXD2+h3vQl9AMEIl8NHX8=;cWMvHPeEfWZ0kTnCk9Szxg=="
 ---
 

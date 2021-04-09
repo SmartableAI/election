@@ -41,9 +41,9 @@ related:
       domain: theguardian.com
     quality: 90
   - title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – as it happened"
-    excerpt: "Maanvi Singh in Oakland and Joan E Greve in Washington Attorney general Merrick Garland expressed appreciation to Joe Biden for nominating David Chipman to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives. Chipman previously served as an ATF ..."
-    publishedDateTime: 2021-04-08T22:59:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f2dd98f087dc3964a3525"
+    excerpt: "Read more: The shooting occurred not long after Joe Biden announced new executive actions to address gun violence. Hours before the shooting, Abbott, a Republican, came out vehemently against the president’s gun control policies. “Biden is threatening ..."
+    publishedDateTime: 2021-04-08T23:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f79e38f087dc3964a397d"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
     type: article

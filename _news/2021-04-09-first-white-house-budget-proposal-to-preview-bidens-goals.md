@@ -223,6 +223,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden announces steps to limit 'ghost' guns"
+    excerpt: "Reuters Now Biden announces steps to limit 'ghost' guns Posted [NFA] President Joe Biden and his Attorney General Merrick Garland announced limited measures to tackle gun violence in the United States on Thursday, in what the White House described as a ..."
+    publishedDateTime: 2021-04-08T20:23:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPol0?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/606f5fd3e4b0653eea185721-1617911763773?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Gun control, gun rights reaction on Biden plan"
     excerpt: "President Joe Biden has announced a half-dozen executive actions aimed at addressing a proliferation of gun violence across the U.S. Among the proposed reforms is a tightening of regulations related to homemade firearms known as \"ghost guns\". (April 8)"
     publishedDateTime: 2021-04-08T22:27:00Z
@@ -263,6 +277,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "4vpA8bJAWYiXrOi3OWhX42M28Lmcq+0eR8ILCg/g31laYvaYiMki0hoeUqK63kJ+ni10gjQSui9Bk0KvKVYx3emq7cnMMIdowIAy1WMidVq1AT+jJU/ktYBqKY47jBYYsHcLHj/WXcxWK+5yCdJkrl7WKnU6tTWh+BlCwUDrwKIzzSGFqc2bFOBGQ/t61lDRQhjROP3PZH8M70fY0Mca7M5jMSqO4C4f4TTYN/mBbbolNa9HBovYTpnwrR9ff4lE/cwYN2xexC9Hj88E1J0PjdA5p+EbMGnWvYChGO0oYazTcUVj1R27ItqAlvvpBBySd6KuN4zFw40S/Ywv9BSI8sRhZBAOdRBAn/5QFGxg2no=;W2aCea05NeJnX4SNu2ZkNg=="
+secured: "dX2KLSauglufyXnTfvNSf16YJNZokQijG8QVi+lZJKtsdsza5kmRwye8vGiKelalUPiX8DvShIvgCQZ3Al8HyUKnfD1l/DWc41Kid93msvZ3q17pXZpwxN6JI1alPCn2Xk990PUxjvHOnADEjFvaDnBfkSqW0Hr8vBNO7d6uTtDPSl/bGbork8x4QktJp+wvB0iBwOlKl4/z4GRqnqDpEhwq2xIzY+S7QXEzqPgmVmOUMYuVHKW3JjMSmbpycaefvUs7Nd5W4YK5HPBITDWQKWsCAs6qIj38DvwrfWWkh1Vdi+9UalUjB5jHvHCGwHEG622KNzDtXyDQ2pBOEw6FY87DW9UndXuKA0JF0AhTQ+YRgZf8pcO795zFsE6thYT/eLhI6iSIiLUvvHuSS7FTsA1vpw6I+swGeWCn3mtopCWw0C/ERnPdRJr1UDKhhJWzvpO5+3TbiXdglMU/rxEtBcCoBP1uH6VBNeSgKnuSrFwQScZ7MXmzSYc73GieClMmxdv0FoRedSDZwyDIyiivng==;1IhAJtICh6uCdkFjD4nQsg=="
 ---
 

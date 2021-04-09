@@ -237,6 +237,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden announces steps to limit 'ghost' guns"
+    excerpt: "Reuters Now Biden announces steps to limit 'ghost' guns Posted [NFA] President Joe Biden and his Attorney General Merrick Garland announced limited measures to tackle gun violence in the United States on Thursday, in what the White House described as a ..."
+    publishedDateTime: 2021-04-08T20:23:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPol0?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/606f5fd3e4b0653eea185721-1617911763773?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden announces first steps to curb ‘epidemic’ of US gun violence"
     excerpt: "President condemned gun violence as an ‘international embarrassment’ after series of recent shootings around the US Last modified on Thu 8 Apr 2021 14.18 EDT Joe Biden, under pressure to act after a slew of mass shootings, has announced his first steps ..."
     publishedDateTime: 2021-04-08T18:18:00Z

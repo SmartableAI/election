@@ -48,6 +48,22 @@ related:
         height: 2000
         isCached: true
   - title: "Georgia Lt. Gov. unlikely to run again after taking on Trump"
+    excerpt: "Geoff Duncan was among the most high-profile Republicans to openly contradict Trump's false claims about fraud in the November election."
+    publishedDateTime: 2021-04-08T14:36:00Z
+    webUrl: "https://www.businessinsider.com/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/606f14ab4d3e410018b6ff9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Georgia Lt. Gov. unlikely to run again after taking on Trump"
     excerpt: "ATLANTA — Georgia’s lieutenant governor is unlikely to run for a second term, his chief of staff said Thursday, after he was among the most high-profile Republicans to openly contradict former President Donald Trump’s false claims about fraud in the ..."
     publishedDateTime: 2021-04-08T20:26:00Z
     webUrl: "https://www.washingtonpost.com/national/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump/2021/04/08/faff5402-9874-11eb-8f0a-3384cf4fb399_story.html"

@@ -126,6 +126,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden, blocked by Congress, resorts to minor gun measures"
+    excerpt: "Joe Biden didn’t try to sugarcoat the fact that he wasn’t doing very much. \"We have a long way to go, it seems like we always have a long way to go,\" he said yesterday. What he was doing, on a warm Washington day, was bowing to political reality."
+    publishedDateTime: 2021-04-09T07:10:00Z
+    webUrl: "https://www.foxnews.com/media/biden-blocked-by-congress-resorts-to-minor-gun-measures"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21098586391020.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "DZTQYpmD30FS96sI2YWE4WtybT5oKDIewI3+Kqy+eCEPY51Zk3HDYgF0+RLNj5ePADuWsQaSmAyyzBqpBGBtTYrpshyCxE69eWLzp8KXBKnjOLAeaVy0UxfrRqaHYJnHT3K3Oa+wGT7D1ZHYBmoPc40HFQINNVFQoAb+1DAcc9mGnRPWyEe6tXZoWzoXBhLmvxSqLz6fyOLQpqcDOIRPLMYt7FNXeg7KDXyAxdfdyjj1XmKSunEUmgtufnLYClM0eodvWnvwS2u5jSDs+oynhKsef+puGK6BWlhSMrToENp+CMezLl/4RuZ1KBZhxMQPhqiMPiZbvoWnmD3koYiZi3MHJOQBzqXov2xXhD5U7Cw=;PqpZLWLcURD7sVu0oItHPA=="
 ---

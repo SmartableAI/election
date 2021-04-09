@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Hunter Biden admits he used to smoke parmesan cheese because it resembled crack"
-excerpt: "Hunter Biden admitted that when he was addicted to crack cocaine, he smoked parmesan cheese because it resembled the drug."
-publishedDateTime: 2021-04-05T18:24:46Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tw3-7w7jiZc/hunter-biden-smoke-parmesan-cheese-resembled-crack"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tw3-7w7jiZc/hunter-biden-smoke-parmesan-cheese-resembled-crack"
-ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
+title: "Biden, blocked by Congress, resorts to minor gun measures"
+excerpt: "Joe Biden didn’t try to sugarcoat the fact that he wasn’t doing very much. \"We have a long way to go, it seems like we always have a long way to go,\" he said yesterday. What he was doing, on a warm Washington day, was bowing to political reality."
+publishedDateTime: 2021-04-09T07:10:00Z
+originalUrl: "https://www.foxnews.com/media/biden-blocked-by-congress-resorts-to-minor-gun-measures"
+webUrl: "https://www.foxnews.com/media/biden-blocked-by-congress-resorts-to-minor-gun-measures"
 type: article
-quality: 171
+quality: 115
 heat: -1
 published: false
 
@@ -22,12 +20,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21098586391020.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -79,6 +78,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter Biden admits he used to smoke parmesan cheese because it resembled crack"
+    excerpt: "Hunter Biden admitted that when he was addicted to crack cocaine, he smoked parmesan cheese because it resembled the drug."
+    publishedDateTime: 2021-04-05T18:24:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tw3-7w7jiZc/hunter-biden-smoke-parmesan-cheese-resembled-crack"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Collins-led group of GOPers blasts Biden after president says they ‘didn’t move an inch’ on COVID compromise"
     excerpt: "The group of 10 Republican senators that attempted to negotiate with President Biden on coronavirus relief slammed the president in a biting statement Wednesday night accusing him of misrepresenting their meeting and its fallout. "
     publishedDateTime: 2021-04-08T11:41:13Z
@@ -125,21 +140,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden, blocked by Congress, resorts to minor gun measures"
-    excerpt: "Joe Biden didn’t try to sugarcoat the fact that he wasn’t doing very much. \"We have a long way to go, it seems like we always have a long way to go,\" he said yesterday. What he was doing, on a warm Washington day, was bowing to political reality."
-    publishedDateTime: 2021-04-09T07:10:00Z
-    webUrl: "https://www.foxnews.com/media/biden-blocked-by-congress-resorts-to-minor-gun-measures"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21098586391020.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "qgpabcpm7WLTp6DWG6NiPsSQvGGM8ye0XTU4iGSuxuuBnRzmtLD+BhHLCdPiRRG4YDZyMcsk+AQ0T3RAkWjDSxtVAT037x5C0UxxXXVviRu20tJN77mQBMZuKHuCBmGzZg+hC7b2GcX6V/Dh9UX5ABrApuQzreZSObfIMFIQEY+xu7JLOPB2hcWWfvdv47ReiOvXoYNKBloM4GA6ATpvcMxP8fmbpi98U3XuePBV4IcajAOSPkplTg7PkNA2a5RJ9mp1DQUHsHNe9hqtFelwP6IdOXaJ7BerdQ1NoAJQJBoL8jyuDlOJvvWnF3NrF41lYvNuccjYK2Ie3o68+hsKsHawMRGm/wj3TqXe+1txN5E=;B3mIcqY6E0Avs3aVEdpRtQ=="
+secured: "fYC4m79h7r9PedjX7/7yzTrN9ZkADjj2EmRzdEcCoSYbY8F5zOaPBGp1gNcWslcCXGS5RSOiRQi5G57Urx85iSK/Mdu/c+TXOgLG1EQyKkTsJ3SjfeCEvte8wMieajK5y7GT75LujuN2v4BNL5Q2JixtSPALTkQsYLNOGUQ2kp1XyyVaffhl3mHrNcqqx4t71l6e5/QDSIXlCN/qjsjdNdyQZie30y6dMxVtUB/7osr89liD/zNFezddeuhS7qgg7KGv8q1zbjyGoJy5eo2c/JkDb2a+VOh8SWA0TRiuQ+P0N8JatrbsIqSNyUZdCvZ9YcHUDvp/fP0AAMR0ieCTP5s9wjbexVxUKqHjDtRV6GI=;oVJGX4pvV1juRMjziB67iA=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – as it happened"
-excerpt: "Maanvi Singh in Oakland and Joan E Greve in Washington Attorney general Merrick Garland expressed appreciation to Joe Biden for nominating David Chipman to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives. Chipman previously served as an ATF ..."
-publishedDateTime: 2021-04-08T22:59:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f2dd98f087dc3964a3525"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f2dd98f087dc3964a3525"
+excerpt: "Read more: The shooting occurred not long after Joe Biden announced new executive actions to address gun violence. Hours before the shooting, Abbott, a Republican, came out vehemently against the president’s gun control policies. “Biden is threatening ..."
+publishedDateTime: 2021-04-08T23:59:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f79e38f087dc3964a397d"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f79e38f087dc3964a397d"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
 type: article
@@ -51,6 +51,6 @@ related:
       domain: theguardian.com
     quality: 90
 
-secured: "ePrYiM8bK4oGRDlqnLnxuNVP9Xu+CBDAuwXXa97lUPQiLMgQ2XV1cpftf8Bvp78m8bBA5z+uN+6BgiZN6wnbQSaulwDQCyxeM/j3FnolnYJffa16T1MlLgBkGpY/qcZHEJ4Oaq548N8/xYsB8Grdl6mQ2sICiYkKkxNfKUur7rxBJ+HzcxqiQGdsTHTf2d3mJy2zF6yBBaJlkS17rxsa3Y+VhmAR8tm5FOlNKAu1osZVKXcwxxCyfxyAZUh32NLL33f1p/jT+j6zLbLgMbMQANGbRFAv0mlPJPtlWVlv3QOA4y2b2b9+7tvioZri0/+YQPeZ1wEnVRs/PtW2ICiZJaIQVeTTziSPgMpiJ8OAARc=;sDRPPVDiBZuMax2u1Stj9g=="
+secured: "R8kK/9B6WdoilnVJxTw2aOt1bmiWahOmzu/HLNnsrdJKsTwesh8po+BRM42H2kGDuxQz/divfzW8UCV0x8PcjCA8z21cBT4oEShlR1AJIfdzpxPWONfBZqW1uruW5vk4uOtWfEzKKSRcVVc+iQ4uPHo/q24WgdBTbZf3cOg1OAB0VTQUgpCG0EiM3SAg1sV4sHwxY6lPnAsHNPjMe4l8e01KpqY8cGJ2RotspIev/u+PszQnQ82b7BdEC8PE91tqQk0hsrmrvBnqVnXIkBAPvhzdFyXUPWjcBSFTspZM0d21qmobq7lCICCnyrnI6pKBJc2Xwcpvqa1VmPFAA2HRmykxePgPburX9tBfgBNrepC7cSxhVMSM+L6mWr2+Bv0jON/DCqnSUe7vpj/Q9reVpM9CzF8GEwsa8Y07vlnj95o+IMQAJV9Y6Mo0Ex/L58tHxQ/obJelXvZgVB5xa6k5kuLbXSeuCVGzBOkB2fdD6wl5bbnhBiddU4ECyC43G0mVOqiWkZh3LoBXwjW4EacZkQ==;QtW3vREGV1a0i+W8ASqkMA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump ally GOP Rep. Lee Zeldin announces plan to run for New York governor in 2022"
-excerpt: "Republican Rep. Lee Zeldin, a staunch supporter of former President Donald Trump, announced Thursday he plans to run for New York governor next year, saying that \"to save our state,\" embattled Democratic incumbent Andrew Cuomo \"has got to go.\"\n    \n"
-publishedDateTime: 2021-04-08T13:24:20Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MdZmsbqyg3c/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MdZmsbqyg3c/index.html"
+excerpt: "Washington (CNN)Republican Rep. Lee Zeldin, a staunch supporter of former President Donald Trump, announced Thursday he plans to run for New York governor next year, saying that \"to save our state,\" embattled Democratic incumbent Andrew Cuomo \"has got to go.\""
+publishedDateTime: 2021-04-08T13:24:00Z
+originalUrl: "https://www.cnn.com/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
+webUrl: "https://www.cnn.com/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
 type: article
-quality: 169
+quality: 129
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -64,6 +65,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "B42lgwZmwO7oG5CCJSwYSK+4F7DRCMYYtanjgyK2DE8zIOoYH55TO+y1CDGdsdBUvw2b4i+l60eZDRC3t2usCr/hUmUa4fvud6sVx4UWTQpzV4KnPtJrQvQaBJwwYQXDuDhu0w6KS6jdjRc5LDorelT+X2vpXqXDD9+bYIPqrGI5xwhrMDd6Q6PNW4H+Qz3MY/qmVXMcXv8vGA/WqjIsWyhrSjow4hP0wTCTaLnp3FuSkQMMtLiMgkwLj82FhFEntvUPicFX6ehXiL0xz0L9J9Hqr0jGwcMAQ0B8b5H78nn7noNbuhfXifEaEBBX7FC1Plh5YotMmh89Ph8yKnzNTnO0ayMLNF86tk07zWjJJ1I=;Z52E8XFy5c5rkDU8uzmr4g=="
+secured: "9N4cM2RTSVNEBtL3Q9aHluqDCyDMRNH9qzEtkDbT9ovevvRukHwoFel3Tk0fDv8QCfas/dhmnpoaRdwkpWA2ED4WYoaHVv/Iqe+IH1aPNhH2KyHJ398e+KXmMNNtloDm+Su6rQaozhnFUJu0anYWkmch5UK4DqM1ZOym6iC+q53vmQNrVZ2Jigv/R/aZ9wUbgWpBiKQaYvHrUH2PdC4CDY+ZVYkkqQ/wWp/k2HsKb2PrFyI/f//YZnhTsVD7bVl4vUmGzXC571cRMFTUcwc4UPWqHuxt9rTTNiDV2rmgNOxyqvuucFVXjX3P94e4WHSizAN4fVOBf+pxFDwQsgUGWHrf7mRd0TZyZolnVdmoo6g=;lTfE/+xkg8++1OF708jLTA=="
 ---
 

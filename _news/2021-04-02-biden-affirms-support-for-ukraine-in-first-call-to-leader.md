@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -222,6 +222,20 @@ related:
       - url: "https://i.insider.com/606724fd52f11d0019431be1?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden announces steps to limit 'ghost' guns"
+    excerpt: "Reuters Now Biden announces steps to limit 'ghost' guns Posted [NFA] President Joe Biden and his Attorney General Merrick Garland announced limited measures to tackle gun violence in the United States on Thursday, in what the White House described as a ..."
+    publishedDateTime: 2021-04-08T20:23:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPol0?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/606f5fd3e4b0653eea185721-1617911763773?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Gun control, gun rights reaction on Biden plan"
     excerpt: "President Joe Biden has announced a half-dozen executive actions aimed at addressing a proliferation of gun violence across the U.S. Among the proposed reforms is a tightening of regulations related to homemade firearms known as \"ghost guns\". (April 8)"

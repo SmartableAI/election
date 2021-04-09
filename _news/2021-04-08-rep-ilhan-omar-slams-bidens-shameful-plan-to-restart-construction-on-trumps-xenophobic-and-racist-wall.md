@@ -297,17 +297,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Georgia Lt. Gov. Unlikely to Run Again After Taking on Trump"
-    excerpt: "Georgia ’s lieutenant governor is unlikely to run for a second term, his chief of staff said Thursday, after he was among the most high-profile Republicans to openly contradict former President Donald Trump’s false claims about fraud in the November election."
-    publishedDateTime: 2021-04-08T16:23:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-08/georgia-lt-gov-unlikely-to-run-again-after-taking-on-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "sCZKWJXSYKBbSUzZXpPdvYOEcVIB5UHeJi+yKhBqtOeaj2aExTz45YtnsQ+O6o/HJLejwn0AQO0Z5Z2JnXYoUATl9i04rtJ+XjxWFwNo0kF3a9IuOBRMixMZyfHC2BpOInCOETc12kBLXvqt7rp32IfavzvNY2hrBNiwDKZmmPtrnesqhSIL2p/lTs66w6Nb5VVhepsxZfHQmpbiHmpRiRY4yOXJra3l6FfTqT90AqOdTQ37ORkIU0HXt050stw3GwI9UnDZg1uGf7vf9poyV0u4Ozlgs+tKp1E6ssA1dYCBv+vHpM0fkecmsLw0NrlEjHzYTML79k5KFPfjXcdsWHhEhNE438B9KurKesVRlVDcClZlj6ZuBKit7Bv7nBJXsDWNYXkmaNWRD1FW4A1jGsojV62pilNsqc+8hL9pfEkaI05AY5KdmzxxxjVvam6/FIHvXg+frzdy8mL0kuBOeZzW1pjDoXfSNwCub+NTGop4PQsWVK4PpxYOH94lKgDSNYib/ascqRmN9DeeLKVPnw==;uvX8mZa5KU0lund6XbQujw=="
 ---

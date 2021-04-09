@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/see-kamala-harris-own-resolute-desk
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp"
 type: article
 quality: 183
-heat: 203
+heat: 223
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-desk-010.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "VP Kamala Harris On Gun Control Executive Order: \"The Solutions Already Exist\""
+    excerpt: "And President Joe Biden has the will and the courage to act. — Vice President Kamala Harris (@VP) April 8, 2021 THE VICE PRESIDENT: Good morning. Over the course of my career, I have seen gun violence up close. I have looked at autopsy photographs."
+    publishedDateTime: 2021-04-08T18:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 61
+    images:
+      - url: "https://assets.realclear.com/images/54/540011.jpg"
+        width: 5673
+        height: 3782
         isCached: true
 
 secured: "CAaJ04o8rtxv7ypXv4e8NKLjfU4MyFUR1q7kOMDhKeL09jseOdGLZqBXr3N2L2MUwY4bil8KWBpmHWvinIRmPiY0R0nprxs0N+T9DHz/KwPVTiYWW0izpPDZITARxdFhqRtt5xliqsSl1VCSpcuy211ey+IomdinkjAdfM+4CqVwlF30yHV5KuwL/R13XstQfkc9+Y/hyT/bLDBfLS9WLhuq6wfOmLhLHR9e7XNyLmP51+c/jdAHFDV8rUOssHXf9nUP7sC8QhzwkdpTFjTplPXYv9xmFbRLq5x6JdMSFJ2p3tskAGTirkDMb9wy+yUyi6Nzyxpx75WrbV1fX+hPbco0TlxDsMh/f5PiYtsDT/U=;0RLrA8S/GHXdiqrT6Mr8Qg=="

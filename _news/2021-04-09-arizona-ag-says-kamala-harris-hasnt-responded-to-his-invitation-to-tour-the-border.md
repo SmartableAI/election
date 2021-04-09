@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Burgess Owens tells Biden, Harris to 'get some backbone,' visit border region"
-excerpt: "Rep. Burgess Owens, R-Utah, called on President Biden and Vice President Kamala Harris to \"get some backbone\" and visit the border amid a surge in migrant crossings, according to reports."
-publishedDateTime: 2021-04-08T06:40:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jOzpWaR_YHk/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jOzpWaR_YHk/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region"
-ampWebUrl: "https://www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
+title: "Arizona AG says Kamala Harris hasn't responded to his invitation to tour the border"
+excerpt: "Vice President Kamala Harris and the Biden administration haven't responded to his invitation for her to tour Arizona's border region, the state's attorney general claimed Thursday."
+publishedDateTime: 2021-04-09T07:55:37Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Rg5_yYsI8w/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Rg5_yYsI8w/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border"
+ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border.amp"
 type: article
-quality: 197
+quality: 179
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/20e79242-7e28-4c81-92e7-513dff51f664/31d8ef3b-1411-4c39-81f8-f951c37cac09/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -47,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21091647660858.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Burgess Owens tells Biden, Harris to 'get some backbone,' visit border region"
+    excerpt: "Rep. Burgess Owens, R-Utah, called on President Biden and Vice President Kamala Harris to \"get some backbone\" and visit the border amid a surge in migrant crossings, according to reports."
+    publishedDateTime: 2021-04-08T06:40:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jOzpWaR_YHk/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region"
+    ampWebUrl: "https://www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris lists DC condo for $2M as she moves into VP residence"
     excerpt: "Since her inauguration, Vice President Kamala Harris has been living at Blair House, across the street from the White House, while the U.S. Naval Observatory—the traditional home of the vice president—undergoes renovations. Now Ms. Harris’s former home in Washington, D.C.—a condo at the Westlight complex"
@@ -95,22 +111,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Arizona AG says Kamala Harris hasn't responded to his invitation to tour the border"
-    excerpt: "Vice President Kamala Harris and the Biden administration haven't responded to his invitation for her to tour Arizona's border region, the state's attorney general claimed Thursday."
-    publishedDateTime: 2021-04-09T07:55:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Rg5_yYsI8w/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border"
-    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/20e79242-7e28-4c81-92e7-513dff51f664/31d8ef3b-1411-4c39-81f8-f951c37cac09/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Biden to hold first Cabinet meeting Thursday"
     excerpt: "President Biden will hold his first Cabinet meeting Thursday, one week after the full group was confirmed. "
@@ -390,6 +390,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "DJCE56GDsk7+Dr//Z6Ygb9thAOStnj8/KxyEIEkbIqZDph93lI4cMGhzrSbHwVYqWoq6z2GZCue6fxdIxcgYkN5fqjOm6USZBonAZ5AtFOYEKQUJlcq7uzTGXRMw9yWavuQH0u/trt0MIdho5h9oFQ5nRGgA7Aqrb+iZTvwZEcFSpbXsjrarM3cUwYmOt5ZSJfaQicRb6MhTSTwe8ymqA3dcdFfwnmf6p1K5OTxrkwi0WXJnFOAGOg6LAczFVWVbGCC4s2pmPMeqCCPygcMec9Ep28Hxd8SQBEf+r3HDeFOWOMeHtxq0ptM+prbcErfyF2OB2nr5xedfgSzrJxa2j7REACR2TGSUrvRfcfKNIYI=;MwQbw+AoJgDd6ou1TiR91w=="
+secured: "n8pqlyje+3OwXUUmNl3DVY8+DDGxh4Zsd7R4kpLSjfMdDKSkYFjFGb7NtFfiNTiR4mbT/dEvXHFpQWc5+IpXKh9pacZwvSviw/KH0uayUMJ/chHLv8r+Fo1um+W6/s6EVXxZf/jExpaVPmqaWX+5AYxhRQJLiJo0a70Psfy4KT1aFDfwTS3eZl8jOxzLOTPfe/7fV206aJNuX4I84U2jC83OqFkSnBKCDXaTLx4tJGJwj4BiD5WEoHM4gazplTE9BPfDJg6EaJBYvYPT9oMKIKUhVxEZsWIED8B8slKkwOr1yH2YWfbxNUiXWUgSeYKr70tSnf6iJbeQn2827LKyDhiuEE6L0JAktqLbWgEOrTc=;NinYXgL8AJvw0jkHP+y2Ew=="
 ---
 
