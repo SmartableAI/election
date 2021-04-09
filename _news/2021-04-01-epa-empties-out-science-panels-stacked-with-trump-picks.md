@@ -282,6 +282,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Race to face Cuomo kicks off with two Trump allies"
+    excerpt: "The MAGA-aligned congressman’s bid comes after Andrew Guiliani, the son of the bombastic former New York City mayor, said he had discussed his own gubernatorial ambitions with former President Donald Trump, his father's former client. While those initial ..."
+    publishedDateTime: 2021-04-08T23:35:00Z
+    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-for-cuomos-throne-kicks-off-with-2-trump-allies-1372320"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ff/f5/e268b95e4e468ae682fc9aa137da/ap18142588150929-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "HYwgFKOa4v+E7+nrIImtb3YmuFbdTIFH3k6gwdFjpDtUQP6BD7qMRoVIR308aOsXjTnpNpBCLyqQVVG7EliFPD4xEMSBJG7LBFihSnNuecAezCwhKcwbm8JJbIm3VYMgGTFKqlbRv9QzH9ivGXTZfoNOzst1lo0c2hPGJOxqUl0vU4c98ZCi3b/bRyMy6liSL9TnzSgAF3HvBuwUYUVrNbl407KefS0vUtCNCrUJYtTMJ/fidAfmaWiz6LxSlybHwJDa8pm/RDOxd2R9ybaZRrUCFneeuU3fG5attdCnUQZtcVfUkvE9XuqsIROVGjkE0nN8CNmN7oqonIZkfUp6/bcCGd5XfOH9pt29rAdqLZ0=;6CTMb9czy5h+nIUgwnamow=="
 ---

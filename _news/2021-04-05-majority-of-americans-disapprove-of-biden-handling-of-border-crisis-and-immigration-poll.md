@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP congresswoman calls Biden a 'tyrant' over Second Amendment comments"
+    excerpt: "GOP Colorado Rep. Lauren Boebert suggested Thursday that President Biden was a “tyrant” after he argued the Second Amendment was not “absolute” while unveiling executive actions meant to curb gun violence."
+    publishedDateTime: 2021-04-09T00:59:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CtmX4APKdj4/gop-congresswoman-calls-biden-tyrant-over-second-amendment-comments"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-congresswoman-calls-biden-tyrant-over-second-amendment-comments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-congresswoman-calls-biden-tyrant-over-second-amendment-comments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ba5b7d9-836b-455b-95d9-f1ccbb98c475/fa6565b5-a1bd-4fa1-822b-7a85a2bf9b9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki refuses to say if Biden thinks reconciliation should replace regular order in Senate"
     excerpt: "White House press secretary Jen Psaki, asked if President Biden agrees with Sen. Joe Manchin that reconciliation should not be the “normal order” in the Senate, said the president would leave it up to the Hill to decide. "
     publishedDateTime: 2021-04-08T19:34:58Z

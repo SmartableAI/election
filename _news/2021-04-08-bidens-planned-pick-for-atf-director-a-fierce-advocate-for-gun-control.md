@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 295
 published: true
 
 provider:
@@ -94,6 +94,38 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2019_32/2960651/190805-gun-store-texas-2009-ac-746p_f75a3534f260768c4cd06851439901ce.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Down to the wire: Biden's green goals face a power grid reckoning"
+    excerpt: "President Joe Biden's dream of a climate-friendly electric grid hangs on a slender wire: his administration's ability to speed the construction of thousands of miles of power lines. But he’ll have to contend with a major obstacle: Americans who hate ..."
+    publishedDateTime: 2021-04-08T23:55:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/biden-green-goals-power-grid-480446"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/eb/41/aa0e5fcd4d8686ffb7d6af232522/20201118-power-lines-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."
+    excerpt: "Joe Biden’s choice to lead the federal agency that will play a crucial role in his firearms policy is a gun owner and longtime law enforcement official. But David Chipman, whom Biden nominated Thursday as director of the Bureau of Alcohol, Tobacco ..."
+    publishedDateTime: 2021-04-09T00:43:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/biden-guns-folo-senate-480494"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/3e/cc/2008787447bc93440acf4ee1626d/4-8-21-david-chipman-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "NTxUa6T14KTl3XYJtzvcp3GKeUZtX70arRi+MU584IggvLtMmdFHGsjNn7ZBmprYFENkuS+apFtbYoAojywvD2UMphgkJvWNTJhuUb3ONOzEYAtYNqnXhE8FBIDBUxDU9ocCrVKuiOM0M8lfl6CCcAljneVKEABd4WUaOZrGc+Syf/qfknIZ1yqSK99WNOX/ZqdhSu+S/mJq7UQRbcCddCjB+6OxZZBAbsxe8pAYvJF+V682E1THhBwaDr+II+GwGKl30U25NiIa3Q5BvGMd1Xi9Hyb7o3EnGXA/niGevEohiHB7j2C55v2k32M7OGJS/8jBDgBBxrcSk1ESaoSDEMvnIJDY9gYA5NYFfsV+J1E=;nmFV7KmF/It+dUT2PsL7sg=="

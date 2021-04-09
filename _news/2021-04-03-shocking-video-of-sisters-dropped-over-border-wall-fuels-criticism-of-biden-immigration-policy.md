@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP congresswoman calls Biden a 'tyrant' over Second Amendment comments"
+    excerpt: "GOP Colorado Rep. Lauren Boebert suggested Thursday that President Biden was a “tyrant” after he argued the Second Amendment was not “absolute” while unveiling executive actions meant to curb gun violence."
+    publishedDateTime: 2021-04-09T00:59:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CtmX4APKdj4/gop-congresswoman-calls-biden-tyrant-over-second-amendment-comments"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-congresswoman-calls-biden-tyrant-over-second-amendment-comments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-congresswoman-calls-biden-tyrant-over-second-amendment-comments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ba5b7d9-836b-455b-95d9-f1ccbb98c475/fa6565b5-a1bd-4fa1-822b-7a85a2bf9b9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Majority of Americans disapprove of Biden handling of border crisis and immigration: Poll"
     excerpt: "President Biden’s overall approval rating stands at 61% in a new national poll. But when it comes to issues of border security and immigration, the president’s underwater by double digits."
     publishedDateTime: 2021-04-05T21:59:12Z

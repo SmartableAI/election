@@ -586,6 +586,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hagerty talks elections with Trump after affirming Biden win"
+    excerpt: "Bill Hagerty watched in horror as the Capitol riots unfolded around him and decided to back down from his plans to oppose the electoral college results that affirmed President Joe Biden's win despite then-President Donald Trump's weekslong push to block ..."
+    publishedDateTime: 2021-04-08T22:47:00Z
+    webUrl: "https://www.chron.com/news/article/Hagerty-talks-elections-with-Trump-after-16087507.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Hagerty-talks-elections-with-Trump-after-16087507.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Hagerty-talks-elections-with-Trump-after-16087507.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 105
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Operation Warp Speed chief adviser resigns, Biden's transition official says"
     excerpt: "Moncef Slaoui, the chief adviser for Operation Warp Speed, has resigned but will be available to the incoming Joe Biden administration as a consultant for about four weeks, a Biden transition official told Reuters late on Tuesday."
     publishedDateTime: 2021-01-13T11:08:00Z
@@ -682,17 +698,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 85
-  - title: "Hagerty Talks Elections With Trump After Affirming Biden Win"
-    excerpt: "Three months after he voted to certify President Joe Biden's win, Republican U.S. Sen. Bill Hagerty hasn’t lost standing with former President Donald Trump."
-    publishedDateTime: 2021-04-08T22:45:00Z
-    webUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win"
-    ampWebUrl: "https://www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/tennessee/articles/2021-04-08/hagerty-talks-elections-with-trump-after-affirming-biden-win?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

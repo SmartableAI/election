@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-actions-gun-violence.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Biden-Spending-Plan-Infrastructure-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Mark Steyn pushes back on Biden's 'gun grab' by executive order"
+    excerpt: "In practical terms, the measures include: restrictions on pistol stabilizing braces, which Joe Biden claims allow hand-guns to be used as high-accuracy low-recoil rifles and yet with easy concealability of a pistol. A new rule closing yet another supposed ..."
+    publishedDateTime: 2021-04-09T00:19:00Z
+    webUrl: "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order"
+    ampWebUrl: "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a73d4e9-e32b-4f78-b01c-7836d4c075f1/1f2816d7-152b-46e5-bcfc-50912e6eb51e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "t3PfNcf8Jn4TNVTo3KouYtjhWy8deUJrvJBUHlAhJv8clq9CAf6pGRqbtaJHuko5tYzShjfyyO+RY0GHoVylIMte+QSV66Tskabug2EZCwhCVKg/PY/vRlnV3bKuKQnUSzjYVUl9jruriaQ9kgUSWe3XmBhqTL1ejfp0v9wm8c5joL5eDCwjUVadNGk3cOFWQknifJW0HwO1No7qQn3lqolmoACr2qAmQSd16EvDx2UlZDrGptnwipHLYlSDXnz4zTwL9Q1jTYJm4v0EtrCGjXRDCjAgWjERdRj1kHASIg2jH3ez8oK/1lUzveWyLZFTdiUr7hbslX7LahTWzoCebPYXkoCrNEomy2CFG/SKNsI=;30nZYsfyLqT7IRajpctgGQ=="

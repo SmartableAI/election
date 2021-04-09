@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Mark Steyn pushes back on Biden's 'gun grab' by executive order"
+    excerpt: "In practical terms, the measures include: restrictions on pistol stabilizing braces, which Joe Biden claims allow hand-guns to be used as high-accuracy low-recoil rifles and yet with easy concealability of a pistol. A new rule closing yet another supposed ..."
+    publishedDateTime: 2021-04-09T00:19:00Z
+    webUrl: "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order"
+    ampWebUrl: "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a73d4e9-e32b-4f78-b01c-7836d4c075f1/1f2816d7-152b-46e5-bcfc-50912e6eb51e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "TCu23MQONG0Kpd/JqXoB/vXgROhIuppisW8oIeqf2IQpGObttBrnEUuPE9lfPjpyc+rj8DHRCb/q+OSA5sVINTQGkF01wzJDw+UZkN3g8KNOgTvmkoCPo2QqYI+i5K+a4JGElEN4I4cqXn8YEJl+y4k8OMFbmhSvRKpJcne6Cp6hjLQJ9HtKUlFODW6DSDD0e1KluvHbBZSPT3R0iruaEZ8Cq9a+KAtr2nZ4BMECCR5f+f9qJMDsKhF3FxbKBADzQGS0fcNwCED4LUxALFKeiIkcjP5b0Lq0i5lT8ThBXqt8DM3bl0LXvLxp1BI09mWY5qXbbFDJ2c9sImpbMhTlcuM4Zpa3OvxSshlIZN0m6Sk=;SWStNGRJw7B+xJfNEJMMlQ=="
 ---

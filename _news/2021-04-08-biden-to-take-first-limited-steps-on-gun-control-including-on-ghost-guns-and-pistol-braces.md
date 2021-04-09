@@ -95,6 +95,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Down to the wire: Biden's green goals face a power grid reckoning"
+    excerpt: "President Joe Biden's dream of a climate-friendly electric grid hangs on a slender wire: his administration's ability to speed the construction of thousands of miles of power lines. But he’ll have to contend with a major obstacle: Americans who hate ..."
+    publishedDateTime: 2021-04-08T23:55:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/biden-green-goals-power-grid-480446"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/eb/41/aa0e5fcd4d8686ffb7d6af232522/20201118-power-lines-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."
+    excerpt: "Joe Biden’s choice to lead the federal agency that will play a crucial role in his firearms policy is a gun owner and longtime law enforcement official. But David Chipman, whom Biden nominated Thursday as director of the Bureau of Alcohol, Tobacco ..."
+    publishedDateTime: 2021-04-09T00:43:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/biden-guns-folo-senate-480494"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/3e/cc/2008787447bc93440acf4ee1626d/4-8-21-david-chipman-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "rnGL6U7RusY367/il09ZDmMaPedDigZzez3bZBkVTW+d0tl0NTIjZXaQyCngpFhOmzSsbA3il/dse88jmhxgm3P5BZ/AO53RYWpIDCI12IcInIKZUCi2CYYBZ81VA2Eu9NVAvE8M3oJnYGwB09rFrf7XKm0w+xwYtOI8q78Yn7PO+UNc6RkRENwLwxiuRvxY+wOtAannwn5yTdasowl16jy4ylsTV+JSPsVG5v4+NdB9sKwUOA1uPRtIzFrFheSRuX35CE/zi0WQx8bJPuy0GGFV/f7sUnVeM+Rlnfv28rlzmKk3ksTbuxTZCiOGUPmWbX2LRJJzm9yvDgFDcJeQr/h3i00K/CJPORE6gWHVxQU=;Ihp1Iu7+m+eaDg4+/tE/hw=="
 ---

@@ -311,6 +311,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ted Cruz Trolled After Trying To Slam Kamala Harris"
+    excerpt: "Ted Cruz tried to troll Kamala Harris over her visit to Chicago, but found himself being trolled for his own actions this year."
+    publishedDateTime: 2021-04-08T21:07:00Z
+    webUrl: "https://www.ibtimes.com/ted-cruz-trolled-after-trying-slam-kamala-harris-3177400"
+    ampWebUrl: "https://www.ibtimes.com/ted-cruz-trolled-after-trying-slam-kamala-harris-3177400?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ted-cruz-trolled-after-trying-slam-kamala-harris-3177400?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/06/senator-ted-cruz-of-texas-is-among-donald.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
     publishedDateTime: 2021-04-05T19:41:00Z
