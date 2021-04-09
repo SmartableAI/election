@@ -165,6 +165,20 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Inside three battles that prepared Vice President Kamala Harris to tackle immigration at the US-Mexico border"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% When President Joe Biden announced that Vice President Kamala Harris would lead the White House's diplomatic effort to address the flow of unaccompanied minors arriving at the southern border, Harris knew this ..."
+    publishedDateTime: 2021-04-09T16:29:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-border-immigration-minors-undocumented-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/60707da14943790018bb1a41?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Kamala Harris launches diplomatic effort in bid to reduce border surge"
     excerpt: "Vice President Kamala Harris spoke Tuesday with Guatemala’s president as she dived into her new role as point person for trying to solve the conditions that push migrants to flee Central America."
     publishedDateTime: 2021-03-30T23:10:00Z

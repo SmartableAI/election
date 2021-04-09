@@ -253,6 +253,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden to sign executive order on Supreme Court reform commission"
+    excerpt: "President Joe Biden will sign an executive order empaneling a commission to examine possible reforms to the Supreme Court and federal judiciary, the White House announced Friday. Biden first floated the idea of such a commission last fall on the campaign trail following the death of Justice Ruth Bader Ginsburg — whose seat on the high court was quickly filled by Amy Coney Barrett,"
+    publishedDateTime: 2021-04-09T16:22:00Z
+    webUrl: "https://www.politico.com/news/2021/04/09/biden-supreme-court-reform-commission-480582"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/32/18/07eab8e849d9865a2c770a28d4fe/210409-supreme-court-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden agrees to meeting with GOP senators on Covid relief"
     excerpt: "President Joe Biden has agreed to hear out a group of Republicans senators who made a last-ditch effort Sunday to engage him on the next coronavirus relief package. After 10 Republican senators requested a meeting with Biden to begin bipartisan negotiations on the next coronavirus relief bill,"
     publishedDateTime: 2021-02-01T23:10:00Z

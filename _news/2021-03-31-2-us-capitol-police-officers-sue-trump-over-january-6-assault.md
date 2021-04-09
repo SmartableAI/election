@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Every Endorsement Donald Trump Has Made for the 2022 Election Cycle"
+    excerpt: "In his farewell address to supporters ahead of Joe Biden's inauguration, Donald Trump hinted at a return to politics. \"I want you to know that the movement we started is only just beginning,\" the outgoing president said. \"There's never been anything like it."
+    publishedDateTime: 2021-04-09T17:19:00Z
+    webUrl: "https://www.newsweek.com/every-endorsement-donald-trump-has-made-2022-election-cycle-1582438"
+    ampWebUrl: "https://www.newsweek.com/every-endorsement-donald-trump-has-made-2022-election-cycle-1582438?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/every-endorsement-donald-trump-has-made-2022-election-cycle-1582438?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1775022/donald-trump-2022-endorsements.jpg"
+        width: 2500
+        height: 1640
+        isCached: true
   - title: "Who needs Twitter? Trump wishes happy Easter to 'radical left crazies'"
     excerpt: "Last modified on Sun 4 Apr 2021 14.34 EDT Donald Trump is reportedly working on a social media platform of his own, after being banned from Twitter and Facebook for inciting the Capitol riot. Dominion: will one Canadian company bring down Trump's empire of ..."
     publishedDateTime: 2021-04-04T13:32:00Z

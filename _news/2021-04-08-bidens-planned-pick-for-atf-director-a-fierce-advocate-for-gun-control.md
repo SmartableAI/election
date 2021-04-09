@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 135
     images:
       - url: "https://media3.s-nbcnews.com/i/newscms/2019_32/2960651/190805-gun-store-texas-2009-ac-746p_f75a3534f260768c4cd06851439901ce.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden to form commission to study Supreme Court changes"
+    excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-commission-study-overhauling-supreme-court-n1263644"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263644"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263644"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463454/210409-supreme-court-justices-building-file-se-1133a_cf6b5e577800884dae7568bb70dfe9fe.jpg"
         width: 2500
         height: 1667
         isCached: true

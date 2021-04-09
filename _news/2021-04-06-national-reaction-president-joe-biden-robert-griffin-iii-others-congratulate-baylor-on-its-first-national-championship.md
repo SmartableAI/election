@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden budget provides funding for DOJ to address 'national reckoning on racial inequality'"
+    excerpt: "President Biden’s first budget includes significant investments in policing reforms and civil rights, calling on the Department of Justice (DOJ) to spearhead efforts to address systemic racism along w"
+    publishedDateTime: 2021-04-09T16:07:00Z
+    webUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter"
+    ampWebUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 115
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_garlandemotionalhearing_022221getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Biden administration reveals first 2022 budget request: $1.5 trillion in discretionary funding"
     excerpt: "The Biden administration on Friday sent Congress its first budget request for the 2022 fiscal year, outlining a set of priorities including funding for medical research, education, housing, civil rights, combating gun violence, tackling climate change and ..."
     publishedDateTime: 2021-04-09T15:10:00Z

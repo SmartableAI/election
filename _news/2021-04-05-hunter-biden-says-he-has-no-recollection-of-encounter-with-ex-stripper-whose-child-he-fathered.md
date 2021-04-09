@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House blames 'error' after Biden campaign fundraising page linked on .gov website"
+    excerpt: "The White House said Thursday that a link to a page on the Biden campaign website in the WhiteHouse.gov fact sheet for the president's $2 trillion-plus spending plan was put there in error. "
+    publishedDateTime: 2021-04-09T16:09:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tu_TRhW1f8o/white-house-biden-campaign-fundraising-link-gov-website"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-campaign-fundraising-link-gov-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-campaign-fundraising-link-gov-website.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hunter Biden claims he doesn’t know if laptop is his, reveals father once chased him during drug intervention"
     excerpt: "Hunter Biden in a pair of interview clips released Friday claimed that he does not know whether the laptop first reported on by the New York Post during the presidential campaign was his, and revealed that his father, President Biden, once chased him down the family's driveway as he tried to escape an"
     publishedDateTime: 2021-04-02T14:30:50Z

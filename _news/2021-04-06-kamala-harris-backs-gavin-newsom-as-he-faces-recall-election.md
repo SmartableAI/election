@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 880
+heat: 900
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/35/63/20831449/5/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "Inside three battles that prepared Vice President Kamala Harris to tackle immigration at the US-Mexico border"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% When President Joe Biden announced that Vice President Kamala Harris would lead the White House's diplomatic effort to address the flow of unaccompanied minors arriving at the southern border, Harris knew this ..."
+    publishedDateTime: 2021-04-09T16:29:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-border-immigration-minors-undocumented-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/60707da14943790018bb1a41?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "A Black conservative takes on Kamala Harris"
     excerpt: "A leading Black conservative is troubled by President Biden‘s decision to place Vice President Kamala Harris in charge of immigration policy. “Our greatest concern about her appointment to such a crucial task is not just the spread of the COVID-19 ..."

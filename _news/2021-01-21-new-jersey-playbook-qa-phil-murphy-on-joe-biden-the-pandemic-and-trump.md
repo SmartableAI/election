@@ -3186,6 +3186,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "POLITICO Playbook PM: The Biden budget repudiates Trump — and Obama"
+    excerpt: "Military spending would remain relatively flat. It’s the mirror image of DONALD TRUMP’S last request. These requests rarely survive contact with Congress, even under one-party control, but they are useful as a statement of a president’s philosophy ..."
+    publishedDateTime: 2021-04-09T17:31:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/09/the-biden-budget-repudiates-trump-and-obama-492429"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/e7/9f/0eecbef1490ab25474c0fdb7c398/gettyimages-1311488628.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
     excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
     publishedDateTime: 2021-01-15T21:55:00Z

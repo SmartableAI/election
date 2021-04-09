@@ -25,69 +25,79 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Permanent resident who hoped Biden would be his 'miracle' is set to be deported"
-    excerpt: "Hiding in plain sight Kelvin Silva, 44, hoped President Joe Biden would take a different stance than his predecessor by not deporting him. \"We just need a miracle,\" Silva told ABC News in December."
-    publishedDateTime: 2021-04-06T09:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/permanent-resident-hoped-biden-miracle-set-deported/story?id=76884003"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/permanent-resident-hoped-biden-miracle-set-deported/story?id=76884003"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/permanent-resident-hoped-biden-miracle-set-deported/story?id=76884003"
+  - title: "Biden sets up commission to study expansion of supreme court – live"
+    excerpt: "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ..."
+    publishedDateTime: 2021-04-09T16:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 121
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f"
+        width: 600
+        height: 400
         isCached: true
-  - title: "A \"miracle\": Hunter Biden says a blind date with his future wife rescued him from crack addiction"
-    excerpt: "Biden's mother, Neilia Biden, and his one-year-old sister, Naomi, were killed in a car crash in 1972. He and his older brother, Beau, just two and three at the time, were critically injured, but survived. Their father, Joe, was sworn in to his first term ..."
-    publishedDateTime: 2021-04-05T13:18:00Z
-    webUrl: "https://www.cbsnews.com/news/hunter-biden-crack-addition-blind-date-future-wife/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/"
+  - title: "Biden visits vaccination site in Virginia"
+    excerpt: "President Joe Biden headed to Virginia Tuesday to visit a COVID-19 vaccination site at Immanuel Chapel at Virginia Theological Seminary in Alexandria. (April 6)"
+    publishedDateTime: 2021-04-06T20:27:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/06/biden-visits-vaccination-site-virginia/7112804002/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/05/ebb7e532-69f6-4ada-9dd2-64f6cd707bdb/thumbnail/1200x630/c65d58112a1f5beed214fd35a5924ac5/0405-ctm-hunter.jpg"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31455944-75cd-4711-a963-a35c8c90fc68_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "'Opportunity is coming': Joe Biden celebrates latest jobs report – video"
+    excerpt: "Joe Biden has encouraged Americans to ‘buckle down’ as coronavirus cases rise but he was optimistic on the state of the economy and celebrated the latest jobs report. The US economy added 916,000 jobs last month according to the report which Biden ..."
+    publishedDateTime: 2021-04-02T16:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/02/joe-biden-jobs-report-pandemic-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
+    images:
+      - url: "https://i.guim.co.uk/img/media/4bfd785c368c12de4a674263f6280200ef8c0da8/121_399_2559_1536/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4447519030830be80da08c23eb94d7c1"
         width: 1200
         height: 630
         isCached: true
-  - title: "A \"miracle\": Hunter Biden says a blind date with his future wife rescued him from crack addiction"
-    excerpt: "Biden's mother, Neilia Biden, and his one-year-old sister, Naomi, were killed in a car crash in 1972. He and his older brother, Beau, just two and three at the time, were critically injured, but survived. Their father, Joe, was sworn in to his first term ..."
-    publishedDateTime: 2021-04-05T20:22:00Z
-    webUrl: "https://www.cbsnews.com/news/hunter-biden-crack-addition-future-wife-blind-date/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-crack-addition-future-wife-blind-date/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-crack-addition-future-wife-blind-date/"
+  - title: "Biden administration to launch massive funeral assistance program for covid victims"
+    excerpt: "The Biden administration next week will launch a funeral assistance program that will provide up to $9,000 to cover the burial costs of each American who died of covid-19 — the largest program of its type ever offered by the federal government."
+    publishedDateTime: 2021-04-06T21:15:00Z
+    webUrl: "https://www.washingtonpost.com/national/covid-funerals-assistance/2021/04/06/d7d1db20-9659-11eb-b28d-bfa7bb5cb2a5_story.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/05/ebb7e532-69f6-4ada-9dd2-64f6cd707bdb/thumbnail/1200x630/c65d58112a1f5beed214fd35a5924ac5/0405-ctm-hunter.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4XIAF4EXCMI6XMUNX6T3WXFSUU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "President Joe Biden encourages Americans to get vaccinated in Easter message"
-    excerpt: "President Joe Biden and first lady Jill Biden delivered a message of hope on Easter Sunday as they encouraged Americans to get vaccinated."
-    publishedDateTime: 2021-04-04T20:30:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
+  - title: "Biden could agree to a 25% corporate tax rate as a compromise with business groups, rather than the 28% he wanted, according to a report"
+    excerpt: "President Joe Biden. Jabin Botsford/The Washington Post via Getty Images Summary List Placement President Joe Biden may not achieve his proposed corporate tax rise to 28%, but lawmakers and corporations could agree on a 25% rate as a compromise ..."
+    publishedDateTime: 2021-04-08T09:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
     images:
-      - url: "https://cdnph.upi.com/ph/st/th/1631617565004/2021/upi/b629d37fd9d2a65f3d207a002d7889b8/v1.5/President-Joe-Biden-encourages-Americans-to-get-vaccinated-in-Easter-message.jpg?lg=2"
-        width: 800
-        height: 532
+      - url: "https://i.insider.com/606ec12730004b0019b26927?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "E1d8htXzdiVxk1qvbeTq1d/JrC8hyhosPjhqejkhEmUolY9xpIDhjfA/+vHWyD4mhL+P8ngumkHcclRv5EloV1fUGGqCyh4vtrYuatfCmY2c0kGQ67FCwKdQkZMqO7t0gdSdnsPKq4OEVRmZMC535gyUFvQTCpOew1+lI16ltrdIrqoSu/Zzqb+EoTDMOOfBrjk1dbUyjT/hhEZ7s8OtHo5ZQlf47atIjFO6PA1gseKNENeuYPYkPHXR4SJJVPkoqDOySpCnvSI86EJ0ytt3x322kHq/ZFABfSZt1LVBL+zvfYFd8XePxh7mM4BIKuhqHpNhRnl7qEHUZg3Mt2OClFerHFFl3GAH/4eSI2XAKic=;4wLg0Ss+jNfwQaoJErKe6g=="

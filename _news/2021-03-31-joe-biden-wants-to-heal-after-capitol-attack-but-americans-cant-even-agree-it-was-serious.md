@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Joe Biden encourages Americans to get vaccinated in Easter message"
+    excerpt: "President Joe Biden and first lady Jill Biden delivered a message of hope on Easter Sunday as they encouraged Americans to get vaccinated."
+    publishedDateTime: 2021-04-04T20:30:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/1631617565004/2021/upi/b629d37fd9d2a65f3d207a002d7889b8/v1.5/President-Joe-Biden-encourages-Americans-to-get-vaccinated-in-Easter-message.jpg?lg=2"
+        width: 800
+        height: 532
+        isCached: true
   - title: "As migrant apprehensions soar, Texas politicians jockey for air time to criticize — or defend — President Joe Biden"
     excerpt: "Republicans are seizing on the apprehensions to blame Biden for conditions in holding facilities. But Democrats blame former President Donald Trump for dismantling the nation's immigration infrastructure."
     publishedDateTime: 2021-03-27T00:59:00Z

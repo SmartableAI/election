@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/546301-trump-rages-over-election-c
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp"
 type: article
 quality: 140
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Every Endorsement Donald Trump Has Made for the 2022 Election Cycle"
+    excerpt: "In his farewell address to supporters ahead of Joe Biden's inauguration, Donald Trump hinted at a return to politics. \"I want you to know that the movement we started is only just beginning,\" the outgoing president said. \"There's never been anything like it."
+    publishedDateTime: 2021-04-09T17:19:00Z
+    webUrl: "https://www.newsweek.com/every-endorsement-donald-trump-has-made-2022-election-cycle-1582438"
+    ampWebUrl: "https://www.newsweek.com/every-endorsement-donald-trump-has-made-2022-election-cycle-1582438?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/every-endorsement-donald-trump-has-made-2022-election-cycle-1582438?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1775022/donald-trump-2022-endorsements.jpg"
+        width: 2500
+        height: 1640
+        isCached: true
   - title: "2 U.S. Capitol Police officers sue Trump over January 6 assault"
     excerpt: "Washington — A pair of U.S. Capitol Police officers are suing former President Donald Trump over his conduct related to the January 6 deadly assault on the U.S. Capitol, arguing Mr. Trump's repeated claims of election fraud spurred the attack from the ..."
     publishedDateTime: 2021-03-31T13:02:00Z

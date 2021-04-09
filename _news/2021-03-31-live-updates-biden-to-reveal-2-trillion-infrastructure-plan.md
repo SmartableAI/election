@@ -96,6 +96,17 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: The sneaky radicalism of Joe Biden's first few months in office"
+    excerpt: "Joe Biden ran for president on a very simple idea: Government (and the country) works best when people from opposing parties work together. And he cast himself as someone who was uniquely suited to re-stoke the desire for bipartisanship in Congress (and the country).\n    \n"
+    publishedDateTime: 2021-04-09T16:08:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zs2yU2TXOfE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
   - title: "Biden, in Pennsylvania, Details $2 Trillion Infrastructure Plan"
     excerpt: "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ..."
     publishedDateTime: 2021-04-01T18:59:00Z

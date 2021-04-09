@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-budget-request-discretionary-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-budget-request-discretionary-funding/"
 type: article
 quality: 113
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden budget provides funding for DOJ to address 'national reckoning on racial inequality'"
+    excerpt: "President Biden’s first budget includes significant investments in policing reforms and civil rights, calling on the Department of Justice (DOJ) to spearhead efforts to address systemic racism along w"
+    publishedDateTime: 2021-04-09T16:07:00Z
+    webUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter"
+    ampWebUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 115
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_garlandemotionalhearing_022221getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "National Reaction: President Joe Biden, Robert Griffin III, others congratulate Baylor on its first national championship"
     excerpt: "Find more Baylor coverage from The Dallas Morning News here."
     publishedDateTime: 2021-04-06T04:54:00Z
@@ -48,6 +64,6 @@ related:
         height: 630
         isCached: true
 
-secured: "LThO37KvFVEaKNwRv4Fu58vCN8LVLrfYcoXWXo5ge8FDgP8L9jbaCfKgioZ7Uhis+RshBOJapDQlHle/ChiSAyQSFAWb3qX5/PxkCnrGfOfy8fcZrrHJaA0Gpsi9c1hiYHp4RAWHJS1yqr4VqKvB+v1UwDHEEUpRrUlOgytgPDr1c/BdpejnLgRZhIEeJlNd0N8TrHISZLLmh7c7DY9ViViqYyuCeEJ8JmVyR+5HzrwQIMYBjKmCrNTc7VVwc4tBvlXnRz6H3mx6iJCd7noiDeh3hTFbWZKCXWCuWnzDeAPLon0l10kKbh8lIDiTvC/P9V/tEJZHrNimFlKQ3r0hHZig/zk+VNbDGZTsdM8a2Hc=;xQSGZ7T6Yc3e+QPJI/Ippg=="
+secured: "2UjO4jtL9b9N3ZBClBVP5nIJfglEvQQcUBq5+HqcT9Qmn0Ro3T734sOuzvisZAgq4FxkOubGQzCZUzDSXEgT5OdBqB4mtgnHqBiuJuLN7eVvppxTVV8XJ/7VW3YFI8tHI0uO6XJ3WDIzMC+jZKJtFfvvQ7lkjuIWCSVCmdmkf1TvL++CO4aWwPmtzNdDf4WwkkRaePteddxls+7Ko0AAZiUDtI3t2xIaP35kg2XwfQwTuZdUmRwSsX1PTrV/CDS6PmSBZiBDLPG3HNzJ1sXIkjJ9fcaqXBuqOFuIdBw7cdcTKWcsXMyNibgL79AGFuzZdYy3BHg7SBFUg97+/xlYfYQ1Mn3yd6DfaiijIp/LoQI=;oNF1VsABApS50y2PL9A+nQ=="
 ---
 

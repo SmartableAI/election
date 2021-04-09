@@ -165,6 +165,20 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Inside three battles that prepared Vice President Kamala Harris to tackle immigration at the US-Mexico border"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% When President Joe Biden announced that Vice President Kamala Harris would lead the White House's diplomatic effort to address the flow of unaccompanied minors arriving at the southern border, Harris knew this ..."
+    publishedDateTime: 2021-04-09T16:29:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-border-immigration-minors-undocumented-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/60707da14943790018bb1a41?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "A Black conservative takes on Kamala Harris"
     excerpt: "A leading Black conservative is troubled by President Biden‘s decision to place Vice President Kamala Harris in charge of immigration policy. “Our greatest concern about her appointment to such a crucial task is not just the spread of the COVID-19 ..."
     publishedDateTime: 2021-03-31T00:00:00Z

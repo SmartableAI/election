@@ -3173,6 +3173,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "POLITICO Playbook PM: The Biden budget repudiates Trump — and Obama"
+    excerpt: "Military spending would remain relatively flat. It’s the mirror image of DONALD TRUMP’S last request. These requests rarely survive contact with Congress, even under one-party control, but they are useful as a statement of a president’s philosophy ..."
+    publishedDateTime: 2021-04-09T17:31:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/09/the-biden-budget-repudiates-trump-and-obama-492429"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/e7/9f/0eecbef1490ab25474c0fdb7c398/gettyimages-1311488628.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "New Jersey Playbook Q&A: Phil Murphy on Joe Biden, the pandemic and Trump"
     excerpt: "New Jersey Playbook writer Matt Friedman spoke to Murphy briefly over the phone about his relationship with the new administration, former President Donald Trump and how vaccine distribution is going in New Jersey."
     publishedDateTime: 2021-01-21T12:01:00Z

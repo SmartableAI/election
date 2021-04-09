@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to form commission to study Supreme Court changes"
+    excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-commission-study-overhauling-supreme-court-n1263644"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263644"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263644"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463454/210409-supreme-court-justices-building-file-se-1133a_cf6b5e577800884dae7568bb70dfe9fe.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Down to the wire: Biden's green goals face a power grid reckoning"
     excerpt: "President Joe Biden's dream of a climate-friendly electric grid hangs on a slender wire: his administration's ability to speed the construction of thousands of miles of power lines. But he’ll have to contend with a major obstacle: Americans who hate ..."
     publishedDateTime: 2021-04-08T23:55:00Z

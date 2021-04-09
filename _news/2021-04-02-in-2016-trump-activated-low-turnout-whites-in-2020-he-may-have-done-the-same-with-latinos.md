@@ -442,6 +442,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show"
+    excerpt: "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe"
+    publishedDateTime: 2021-04-09T16:34:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 990
+        isCached: true
   - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
     excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
     publishedDateTime: 2021-03-31T17:59:00Z
@@ -595,6 +611,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Bowing to Trump? GOP brings leaders, donors to his backyard"
+    excerpt: "There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of donors and several future presidential prospects to the ..."
+    publishedDateTime: 2021-04-09T13:55:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-republican-leaders-donors-20210409-gokjbj4s4rddrjx4oywvxmm7em-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-republican-leaders-donors-20210409-gokjbj4s4rddrjx4oywvxmm7em-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-us-trump-republican-leaders-donors-20210409-gokjbj4s4rddrjx4oywvxmm7em-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/DF0w7aGKTo7vFJijwlKkJsiLJ4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CFLRBCXRCRGEJG2J3WXLS2KIGU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mike Pence launches conservative advocacy group as Republicans cast eyes on 2024"
     excerpt: "Former Vice President Mike Pence launched a new policy and advocacy organization to “promote the pro-freedom policies of the last four years” in a possible sign he’s gearing up for a 2024 presidential bid. Advancing American Freedom, which plans to ..."
     publishedDateTime: 2021-04-07T16:20:00Z
@@ -699,17 +731,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard"
-    excerpt: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of ..."
-    publishedDateTime: 2021-04-09T04:23:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "IJJ8jEBd9yTJ8haEhCcnC/gN1MQvaTfLwcN3FcKwVfPH6ZJs5TnWvsVDBeodLnkV85S+SfaZTliGhyKgTAFp2WtMgU8+RKpWIG9KT/IQuIApYOGCI1qc5w7lu3dYyrd7Bfeyc5j1NAoXiiplmJnUyQVzoEi156eLUEcq87i4h1gt5mTkzAZcNnBAqtjPZ961l6DFoXJfjUT97U2FKL7Ac3kVO8TpoBqXZZue4xFREHPybWxq9VsLeGiDMGPa5m9oYIAN+Q33xCtReSDCWBcjFAf0aGKXhju9vPFsTzs/ScFgA5qRxV9cqbUnYqbOoExfKyXLyszzEihtHQe18FF+TNyyJoac9UJ/KI09WVf1qU4=;xp6jLrRYWgXSPUejqeo4ag=="
 ---

@@ -128,6 +128,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden to form commission to study Supreme Court changes"
+    excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-commission-study-overhauling-supreme-court-n1263644"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263644"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263644"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463454/210409-supreme-court-justices-building-file-se-1133a_cf6b5e577800884dae7568bb70dfe9fe.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."
     excerpt: "Joe Biden’s choice to lead the federal agency that will play a crucial role in his firearms policy is a gun owner and longtime law enforcement official. But David Chipman, whom Biden nominated Thursday as director of the Bureau of Alcohol, Tobacco ..."
     publishedDateTime: 2021-04-09T00:43:00Z

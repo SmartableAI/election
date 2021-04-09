@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayorkas-biden-harris-texas-border.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp"
 type: article
 quality: 199
-heat: 679
+heat: 699
 published: true
 
 provider:
@@ -267,6 +267,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/harris-moving-into-naval-observatory-after-renovations-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris still hasn’t responded to Arizona AG’s border invite"
+    excerpt: "Arizona’s Attorney General Mark Brnovich spoke about the “disappointing” lack of communication from Vice President Kamala Harris and the Biden administration. Ross D. Franklin/AP In a ..."
+    publishedDateTime: 2021-04-09T17:19:00Z
+    webUrl: "https://nypost.com/2021/04/09/kamala-harris-hasnt-responded-to-arizona-ags-border-invite/"
+    ampWebUrl: "https://nypost.com/2021/04/09/kamala-harris-hasnt-responded-to-arizona-ags-border-invite/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/09/kamala-harris-hasnt-responded-to-arizona-ags-border-invite/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-mark-brnovich-001.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

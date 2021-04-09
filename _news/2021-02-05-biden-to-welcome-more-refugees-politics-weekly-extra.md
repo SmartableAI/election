@@ -125,6 +125,22 @@ related:
         width: 1024
         height: 641
         isCached: true
+  - title: "Biden's first budget marks sharp change from Trump years"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion budget, reflecting an 8% ..."
+    publishedDateTime: 2021-04-09T14:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget/white-house-set-to-release-first-sketch-of-budget-proposal-on-friday-idUSKBN2BU2VH?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2VH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2VH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557635606&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361EZ"
+        width: 844
+        height: 545
+        isCached: true
   - title: "UPDATE 1-Biden's first budget marks sharp change from Trump years"
     excerpt: "WASHINGTON, April 9 (Reuters) - U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion budget ..."
     publishedDateTime: 2021-04-09T14:00:00Z

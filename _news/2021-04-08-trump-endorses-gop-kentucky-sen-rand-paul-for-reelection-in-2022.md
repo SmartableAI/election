@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-ran
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
 type: article
 quality: 190
-heat: 350
+heat: 370
 published: true
 
 provider:
@@ -79,12 +79,12 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump, other potential 2024 GOP contenders, gathering at major retreat"
-    excerpt: "The GOP’s wealthiest contributors and biggest fundraisers will be in Palm Beach, Fla., this weekend for a Republican National Committee donor retreat that’s also attracting more than half a dozen potential 2024 presidential contenders."
-    publishedDateTime: 2021-04-09T10:51:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSmSeudvge8/trump-2024-gop-contenders-retreat"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
+  - title: "Ex-GOP primary rivals Rubio, Paul, land Trump endorsements"
+    excerpt: "They traded barbs with Donald Trump during the 2016 Republican primaries before becoming major supporters during his four years in the White House — and now Sens. Marco Rubio of Florida and Rand Paul of Kentucky are the latest GOP senators running for reelection in 2022 to land the former president’s"
+    publishedDateTime: 2021-04-09T16:51:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqRLTi-Uv4I/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements.amp"
     type: article
     provider:
       name: Fox News
@@ -140,6 +140,22 @@ related:
     quality: 144
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618251253.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump, other potential 2024 GOP contenders, gathering at major retreat"
+    excerpt: "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ..."
+    publishedDateTime: 2021-04-09T10:57:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

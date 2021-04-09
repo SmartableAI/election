@@ -286,6 +286,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris still hasn’t responded to Arizona AG’s border invite"
+    excerpt: "Arizona’s Attorney General Mark Brnovich spoke about the “disappointing” lack of communication from Vice President Kamala Harris and the Biden administration. Ross D. Franklin/AP In a ..."
+    publishedDateTime: 2021-04-09T17:19:00Z
+    webUrl: "https://nypost.com/2021/04/09/kamala-harris-hasnt-responded-to-arizona-ags-border-invite/"
+    ampWebUrl: "https://nypost.com/2021/04/09/kamala-harris-hasnt-responded-to-arizona-ags-border-invite/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/09/kamala-harris-hasnt-responded-to-arizona-ags-border-invite/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-mark-brnovich-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "White House defends Kamala Harris' travel after visiting places other than border"
     excerpt: "KAMALA HARRIS PLEDGED TO VISIT BORDER 'AT SOME POINT,' BUT TWO WEEKS LATER WHITE HOUSE HAS NO UPDATE \"I think as, you know, working with countries to work on a collaborative approach, to working on circumstances on the ground,\" Psaki replied, adding that ..."
     publishedDateTime: 2021-04-07T19:53:00Z

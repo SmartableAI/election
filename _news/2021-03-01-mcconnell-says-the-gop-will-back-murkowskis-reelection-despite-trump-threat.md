@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-mur
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
 type: article
 quality: 187
-heat: 307
+heat: 327
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208095505-lisa-murkowski-0204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell-aligned super PAC backs Murkowski, setting up clash with pro-Trump candidate"
+    excerpt: "The Senate Leadership Fund will support Alaska Sen. Lisa Murkowski in her reelection campaign, setting up a clash between the Mitch McConnell-aligned group and GOP candidate Kelly Tshibaka, who has hired some advisers to former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-09T16:44:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I-7th-kDfbQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/mitch-mcconnell-pac-backs-murkowski/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/mitch-mcconnell-pac-backs-murkowski/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213164215-04-gop-vote-murkowski-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

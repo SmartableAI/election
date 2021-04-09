@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-officials-gloated-about-editin
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp"
 type: article
 quality: 115
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "Zj0yBFO+tM1rVlY+8jAumcktrbctJnrIdUh8OxEtFf+1b7xiBeYE0kEjiJP44vyE9iK7P4Eoosqhz2nq7Q7o3ymXgmd2+OwsS1MqcylOZf7w3DztfUZ4MbgRYG+CU51JFCfTTG0utXW0XXpbGWuMPJCcfRDdWmqfx9KHecHFegpuOljuFz5coj8fkJToRtPb/3fd+LB8Pph0jrCTp1OzAQhle/p+eWUSkRZpSorpgILbIzUC1jtNX++bYb1QUL+t7U+WShSwhEuhArZt76Uqb43orrJuLkNYHh4lPVEUlltCSosb/k9VyPS6mO2FLjEu+/yZQk9gFP6fHiaVNS0dcw3g/Gon/nMMYy1QGQkMA9s=;9pKvYamKuAX7kXxWbjPhxw=="
+secured: "S80bdcAfsGc5ydZw/jh57BI5XqVqaz/wImq0025vvohhBmZT15wonCzxUMOCNYYvaJgZt9REv2b+TYuDDhRcZ5MhbD2ZdCnDaVfWuwEPBu1HYUNyWDriyT2pPaKkof8pQ4OaUW8yxpGZVVSRRpJ3Awo4t/LFRgddc4hgn/6tuq0AYmhvY+ZeDucfOk+9sWj1Nf/sK8XwZ9PZRRM9x0CSvA9MMFWUiRxYa+RNUe9VBZ/sc9ID8CSoB82hPG3ZQ3tRngaGUOkfmleYZKRAjOpsn1LQyhlDQ7W2LqarONGrUmQv2hO+F/m+HxxWNqsxCC8r3VDASwuxreyvS7sp80i+4xEfNxerv0bTDKD3m8l0r8D7rY0784YRfoZYfedOsOe6VVS0PU+a70hnsRt7T9AUr8OHzOqZdSOGGLL20osMSkQgwQGcH+tW+SAKZZBfRiN3mdZBzsSIGf5NXarYVTq7wB1jp5qzo1+l6dxMnTD56rGxQY/NrE4WVG6LI0Af7UigNB697F1TylhSct2bs2QWEA==;W/tgLBNxTDF+IQwfNpmZOQ=="
 ---
 

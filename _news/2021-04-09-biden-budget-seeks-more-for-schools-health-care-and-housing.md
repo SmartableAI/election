@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden budget seeks more for schools, health care and housing"
-excerpt: "President Joe Biden is releasing his wish list for the federal budget WASHINGTON -- President Joe Biden released his wish list for the federal budget on Friday, asking for an 8.4% increase in ..."
-publishedDateTime: 2021-04-09T15:01:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-webUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+excerpt: "President Joe Biden is releasing a $1.5 trillion wish list for the federal budget WASHINGTON -- President Joe Biden released a $1.5 trillion wish list for the federal budget on Friday, asking for ..."
+publishedDateTime: 2021-04-09T16:16:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
 type: article
 quality: 125
 heat: -1
@@ -142,6 +142,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557841696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
         width: 860
         height: 545
+        isCached: true
+  - title: "Biden assigns study on delicate issue of Supreme Court"
+    excerpt: "WASHINGTON — President Joe Biden on Friday ordered a study of adding seats to the Supreme Court, creating a bipartisan commission that will spend the next six months examining the politically incendiary issues of expanding the court and instituting term ..."
+    publishedDateTime: 2021-04-09T17:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-assigns-study-on-delicate-issue-of-supreme-court/2021/04/09/b8546e60-9957-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-assigns-study-on-delicate-issue-of-supreme-court/2021/04/09/b8546e60-9957-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-assigns-study-on-delicate-issue-of-supreme-court/2021/04/09/b8546e60-9957-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Fixing the credit Catch-22: How Biden wants to make credit scores fairer"
     excerpt: "Reforming credit scores is one of U.S. President Joe Biden’s many priorities as he tries to repair the financial wreckage caused by the coronavirus pandemic, which disproportionately harmed minorities, women and low-income workers, according to ..."
@@ -341,6 +357,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "5IyXfQP//aeUeBG6DELeNJez+WEB/c86oyKTlySS+VDRnfOq3W3lQgyazH5qwfaGBa/grINr2y0iE5wg1eCvTuwuvgHu2g5AsxeG9uMehdcVaHCS6T7KLY9owSlLemeUvEJAtSE0qlfb7+Yg5XNiheX2KRhes1r5J4b1QkvSRygLdR+1WHCclKiv7M2HNarb9Go7k3hAkgL8kiyd6Y0hc9DLcvNtL16EMCYCgs+n0lfGiRM/IZftI0i9uy/2V2Ar/mRONgA542xTs8YxlfaS8OA0ghkhFz0r15AM+ivAt0Fuj3vi7YL2Ak3tUX580u0NiffVBUhSmYMHQeTwHYSG67v86rzcCTukEAhiIWZHDIo=;GUbkYYjePltsbf6wkStI7g=="
+secured: "Uwg0M7xCazU5xYITzO4F3HrgVpZ60y91K19N8fILvfZA176xDz4vj9pMd29zYfCAB+Fnak9caI3g7AHbs1LFhdyXUew9w3mf8o74hm7Jy1x2WUAvaVDqkNpUZ6eY4vxfdaDqThB60WNaA+CaiejZCdZLjPLtCIw8jnDuzzJ46Md7Iz51//TRCOBea8MIV8O2MNfjBEZB1hEp6hciTDboEaOdnwc4kS4wJwe5RTPnI/r1phGYdufdAHwsUwVG4fSxoZx5ZNXcyTDZnETPuhh28ktxeppfC/b9VVqAigVKgTRvPbzSbTYIKwudGrAG4agvlIf9oe+NaKXD5pcxQNadv1QHyztleNW+ady3hny19EY=;vSDu86owvbcRnotwWP8++g=="
 ---
 

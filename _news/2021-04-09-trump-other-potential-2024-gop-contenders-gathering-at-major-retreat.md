@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump, other potential 2024 GOP contenders, gathering at major retreat"
-excerpt: "The GOP’s wealthiest contributors and biggest fundraisers will be in Palm Beach, Fla., this weekend for a Republican National Committee donor retreat that’s also attracting more than half a dozen potential 2024 presidential contenders."
-publishedDateTime: 2021-04-09T10:51:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSmSeudvge8/trump-2024-gop-contenders-retreat"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSmSeudvge8/trump-2024-gop-contenders-retreat"
+excerpt: "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ..."
+publishedDateTime: 2021-04-09T10:57:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat"
+webUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat"
 ampWebUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -85,6 +86,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin"
     ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Ex-GOP primary rivals Rubio, Paul, land Trump endorsements"
+    excerpt: "They traded barbs with Donald Trump during the 2016 Republican primaries before becoming major supporters during his four years in the White House — and now Sens. Marco Rubio of Florida and Rand Paul of Kentucky are the latest GOP senators running for reelection in 2022 to land the former president’s"
+    publishedDateTime: 2021-04-09T16:51:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqRLTi-Uv4I/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements.amp"
     type: article
     provider:
       name: Fox News
@@ -160,6 +177,6 @@ related:
         height: 340
         isCached: true
 
-secured: "Ta8XRzJG2Uc4U8emCtJg5ozAhzvuDKxVg9mAoN/Z425g5EEjOl7O46zX+T1F78/TM9mvIPXmyZKP+Gq98S/k9j7tvBc0GKJXK0oJMkSCxZEHM/a9uxXvG0WcV/wLXUhQfyCrDe+oZQvXvlZSkQB+U86neSQ3GwwJ6bAfLxEk0Wu7Jib+Xwvd1uPBu9cCbZCV7+H+KUQIT1N2tu8gpwBXszFwl/ZXIWxKoIseM9yh0LD0NkGUA7O1haZqfpL01wenAX5kcy6kOxDh25KKRMrCHaUW0rRq9WMyaNnq50G+hUc28GGfAU945hRyJKzcQ/cQXYePdXlrSvmO2o5ZLMfhGk/06TbJfm663alEmUFCWr4=;IIDRHUdpr253avfWLMlMhA=="
+secured: "gK5YkKeSwW95y0/q076FytAw0y5Cs3REn/kYqrn8hNVnPkSE1yN0YV/4uGOtY8kIzvKAjaMJX3WuSbj9PYdnC23nMG1aVbGC3XQHQfmRhfHQAGhJPgm1zqLV133ikw4IdaHIRye4pL4Xz+AHD6jf0g514WK++W75kzc3ZJmPonXjlAzYMlk9U/OlnUoMRzZ6Ue2tnEX1bOD1eUUwdFxZBt3U5rSCJzCc88LpkXYL0EvHZhqUeYR/ZVvBWhITZag6EFXFF04iLe88GJymua7/bG9Md3kKw8LIPxMbZeutBTSJ9Djgw8VSJfSDicbEau89PVq+zKLeQdt+hx7WqlBW2cHgBTbIWfWtcSAOJJoKycQ=;otRWRPO+ZllBB7bFk/tdwg=="
 ---
 
