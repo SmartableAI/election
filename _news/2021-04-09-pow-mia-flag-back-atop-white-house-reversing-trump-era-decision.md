@@ -931,6 +931,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Trump Addresses GOP as Power to Shape National Debate Wanes"
+    excerpt: "Trump Addresses GOP as Power to Shape National Debate Wanes WASHINGTON (AP) — Former President Donald Trump insists he's enjoying his life off Twitter. The press releases his aides fire off on an increasingly frequent basis are more “elegant,” he says."
+    publishedDateTime: 2021-04-10T04:26:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z

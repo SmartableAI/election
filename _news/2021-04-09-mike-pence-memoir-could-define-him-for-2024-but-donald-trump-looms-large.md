@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 1329
+heat: 1349
 published: true
 
 provider:
@@ -928,6 +928,17 @@ related:
     webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision"
     ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Addresses GOP as Power to Shape National Debate Wanes"
+    excerpt: "Trump Addresses GOP as Power to Shape National Debate Wanes WASHINGTON (AP) — Former President Donald Trump insists he's enjoying his life off Twitter. The press releases his aides fire off on an increasingly frequent basis are more “elegant,” he says."
+    publishedDateTime: 2021-04-10T04:26:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

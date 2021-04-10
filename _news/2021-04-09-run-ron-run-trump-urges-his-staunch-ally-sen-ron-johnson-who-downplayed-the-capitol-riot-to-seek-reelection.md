@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-john
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
 type: article
 quality: 117
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Business Insider
@@ -29,40 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
-    publishedDateTime: 2021-04-07T14:18:00Z
-    webUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/606dbe1a30004b0019b26624?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "NAACP's Trump insurrection lawsuit expected to add 10 new plaintiffs, including members of Congress, per reports"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% A federal lawsuit targeting former President Donald Trump, his lawyer, and far-right extremists in the aftermath of the July 6 Capital attack is reportedly scoring some new, heavyweight plaintiffs. The NAACP's ..."
-    publishedDateTime: 2021-04-07T02:10:00Z
-    webUrl: "https://www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/604b7d4ab197370019694a23?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "J7CO9/1zNHMDAhFBm5Hb3h+XcDv2YROxoGrnyIpV9kXFVc1eY4NfujD6KwXleNEx9t9IUy98+G0VESRQgjoOYwUQ3N1EI/hptJ81NGhrXOELI5UH5CFZVZZnvXKeCN0uCz7MzjjJFBx/HYM+hikEuJt2VCnnLHhTWEqCh1Zz64qekH1RhJ5/X93aBD6t+B2GJls4/bWUcFIh2SyhLfrXllSsMIbETdF4TUSazIM8ovoVF9unRACeWUdDGAM7sMapPKM4TpvOW+4qPRZMgbVN7zFmi02IGTF7CkHIa7Kd7KLHDLlIXTr1E2hA0Wos90cnQ8wtpHnKymXIsq1lrKiqCTS17A+Jq236OOwkEvo3n78=;2bRfcCC8v0QfS6cYp/5B6Q=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/naacps-trump-riot-suit-will-reported
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4?amp"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: Business Insider
@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
-    publishedDateTime: 2021-04-07T14:18:00Z
-    webUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
+  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 120
+    quality: 102
     images:
-      - url: "https://i.insider.com/606dbe1a30004b0019b26624?width=1200&format=jpeg"
+      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "'Run, Ron, Run!': Trump urges his staunch ally Sen. Ron Johnson, who downplayed the Capitol riot, to seek reelection"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump on Thursday urged Republican Sen. Ron Johnson of Wisconsin, a controversial lawmaker who downplayed the January 6 Capitol riot, to seek a third term next year. In a statement ..."
-    publishedDateTime: 2021-04-08T20:24:00Z
-    webUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/run-ron-run-trump-urges-sen-ron-johnson-to-seek-reelection-2021-4?amp"
+  - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
+    excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
+    publishedDateTime: 2021-04-07T23:33:00Z
+    webUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 67
     images:
-      - url: "https://i.insider.com/606f55de30004b0019b26baa?width=1200&format=jpeg"
+      - url: "https://thumbnails.texastribune.org/aqe7-Li9PzIZ9QIexP_8OQM_5Q8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/6f9c74896c525bff9a658560eee0db9c/Escobar%20Impeachment%20REUTERS%20TT.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "rfxWlgY3cCFSIfQ2W/lA1sh6kbGQU4F8P7HPMjzr4VPw8rw7u7puU3IwQwu7ehk71v03aGpwT063gkohYkkKjrypOclxVyG05C+IsUj1CXtr2h6deOO0PTzyYJmrQKuqD0QHXgTejNG5uCIy9yUClxQhaAq8oIaZIexqZwFrLolJD90rasoLGHEQiz1k2DTMB9cHcZQfnvtQkxQRYohPVuw2DT5cwSjJ6JFwlWscVtuq1cQTLGv537iPNa046i0p8b8ojflaO0wcFB15lDidbsUQ0XG/AMDrvYjGVR1O40EnY0ytJryllh7qL5aEUsp6Io68LxT8dzAGy5ZKVAlnTJ0HSqj0cor5lKrSYqTfgtI=;ysvfu8lOBbay4jJRT/ss7w=="

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden budget seeks more for schools, health care and housing"
-excerpt: "President Joe Biden has released a $1.5 trillion wish list for inclusion in the federal budget Sen. Ben Cardin: Biden ‘right to be bold’ on infrastructure plan WASHINGTON -- President Joe ..."
-publishedDateTime: 2021-04-09T18:42:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-webUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+excerpt: "President Joe Biden has released a $1.5 trillion wish list for his first federal budget WASHINGTON -- President Joe Biden released a $1.5 trillion wish list for his first federal budget ..."
+publishedDateTime: 2021-04-10T04:32:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76990023"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76990023"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76990023"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76990023"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/US/WireAP_5790d3727f5f41abb783420774691c3e_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/US/WireAP_a79d7070615c4db4864eb84ee8d5d2d9_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -611,6 +611,6 @@ related:
         height: 433
         isCached: true
 
-secured: "8Unl6watb5e3Cpw03IYU21YgkKfAYH5eqmOPaEBjNnmdOs5FGPdZEjLGrkRLflcVpJfXc7WttZD79bIPOLtPMdXbl1JUaBHMJNvdO2Akxh81L8hA/x1KLBV9HmPJdyb4n83yVE1GzvEM3ohqA56lX1mLiFufj6cPZYlJjRh+WRa7NqWwhYC+Z5VvG9t2zvuLvxKAUGDYlzCm2A/C8RVT096PYJvnqOEKkBsgb7Z2Ew8F/4DPrJOBOpttbIXh2CKNhqT50I1HTtc3EixlIbfkyVmZYAA1IuC/boc2fTHLImsgGMPwzTUhFIwgq6KbrQbnxW9DMvjtP457U3Pf/iAV9QEq1i18nkZaXGaHwgbNFLCHQDbDV/xVqy42fIvgxWN2HWVzHEs+SBohI95shIMyDByJ2m1YZmQzvUY9Zse7rRs6a6bTb4pXNaSg/fl+TW7ra//nRqKdis70nQR/I5gLc8h5z4nDvSYkyHSJX7u1+VVR6LldkN5o4DXiM7FYcNGvoktfIaTaFwh9KmlPuL4Fyg==;adO/+BYXHK5MDcb3Hp93bg=="
+secured: "pp+vNGb0Lp9SbvbLQ8bLoavUlh6HZYLiTDKpL0SCizdqbLZUA5rdSvtl9Ipp33zQifflJe9AqDO08XKO3BWez1mUuHosiJ0VJz8uG/QhAJvHlQ0wt5/mv4vSoeG2uLnWhCTatY5gIrBivi7hGhBSbdDZAMrNvB98XI5/UIw8igWE8kmksSrFMGxj15b0plGvaTFV3QWAoVrHyw4OQf2NFGHI/xk70uP+HkKWLRxELsfLv5NvZ5g3hJ34BBJB6uKkIUEinyZATHBKMDNG8z30Jz9F+6fYpt/qTFOhBBvAxXlJWFtGHJlZ18weOH73sjqEj6ICXt3HLoEkH6uMeq4xyEBbknq5p3erU6t4NrinGlQ=;bw/cflwPkxuYLXRx0nC+GQ=="
 ---
 

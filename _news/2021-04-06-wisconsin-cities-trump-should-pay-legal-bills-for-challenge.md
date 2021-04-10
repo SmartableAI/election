@@ -940,6 +940,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Addresses GOP as Power to Shape National Debate Wanes"
+    excerpt: "Trump Addresses GOP as Power to Shape National Debate Wanes WASHINGTON (AP) — Former President Donald Trump insists he's enjoying his life off Twitter. The press releases his aides fire off on an increasingly frequent basis are more “elegant,” he says."
+    publishedDateTime: 2021-04-10T04:26:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "U39kaydWW/I50SWd6RRMmTdwR4ZzmMEvKTQ+vnkIquzkjTLo2jckudSM/BBKoENxGY+W6pOXlVXI/Vb/KVXjdqTMWsCpVKdo3fXuV8lzCY6QRMCHzIGhw8vlrf1hkhEh3TpRKMN28y5Yu/0I2oc3OGRtt5DIU7fmeJGAO4TzvclxhBKiwZTiKC6a+wSxmSr2eHQWd5euJlYr5qB4iHZkqNIgPmcXZrG27ufybPLpYO9IAsbroBxzSjTdJ/Q8/Kx1PB1TeDcL8JiofMUALALDaeOqrtz1wEVwtPgwmzhyda/jslnG94Y6dhgnIOKSKF9xa/Zh+LgBHxoAumlBi1eZg+cWVpLj8Q6jOArrahgY53nUYEL92JypzCXSOTtyXwD8odzO5VPcMmOQQiNYyeDGOpQm+yu0WjoDJW8DgEq/oVerNVS35SNh07SgssI1KEWZyxM4OfSezfNAnPYliuPzJ/aZOeacvFGklwUK2lPNBdxB3Ug6VCh6OB3eaMDRqRRCRwjoZk5lmeaJesp0Uh4okw==;iBatfiNbunRcpogFKXTVbQ=="
 ---

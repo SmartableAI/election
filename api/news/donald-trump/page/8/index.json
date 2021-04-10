@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-23-trump-to-tell-cpac-he-is-republican-presumptive-2024-nominee-report.md",
+      "title": "Trump to tell CPAC he is Republican 'presumptive 2024 nominee' – report",
+      "excerpt": "Unnamed source tells news site Axios Trump’s speech to the rightwing event will have the message ‘I’m still in charge’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3a7275f576d965598d662bf1eb376ff03480bacd/0_364_5456_3273/master/5456.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d6b3d50884a968f7fdefd6c0f54fdb0",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "publishedDateTime": "2021-02-22T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-the-hills-1230-report-presented-by-facebook-supreme-courts-blow-to-trump.md",
       "title": "The Hill's 12:30 Report - Presented by Facebook - Supreme Court's blow to Trump",
       "excerpt": "Donald Trump Donald Trump Former Florida officer arrested after live streaming from inside US Capitol during breach, FBI says Schumer says he's working to find votes to confirm Biden's OMB pick Pence declined invitation to attend CPAC: reports MORE\" height=\"326\" width=\"580\" class=\"media-element file-original-image\" data-delta=\"2\" typeof=\"foaf:Image\" src=\" /> To view past editions of The Hill's 12:30 Report,",
@@ -1558,59 +1610,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-kamala-harris-said-parts-of-the-trump-administrations-pandemic-response-left-biden-starting-from-scratch.md",
-      "title": "Kamala Harris said parts of the Trump administration's pandemic response left Biden 'starting from scratch'",
-      "excerpt": "Harris told \"Axios on HBO\" that the Trump administration left the country with no vaccine stockpile and no national strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
-      "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1067,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602a48982edd0f001a8d5c4c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
-      "publishedDateTime": "2021-02-15T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Donald Trump"
       ]
     }
