@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Addresses GOP as Power to Shape National Debate Wanes"
-excerpt: "Trump Addresses GOP as Power to Shape National Debate Wanes WASHINGTON (AP) — Former President Donald Trump insists he's enjoying his life off Twitter. The press releases his aides fire off on an increasingly frequent basis are more “elegant,” he says."
-publishedDateTime: 2021-04-10T04:26:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
+title: "Trump addresses GOP as power to shape national debate wanes"
+excerpt: "The press releases his aides fire off on an increasingly frequent basis are more “elegant,” he says. Plus there's no risk of backlash for retweeting unsavory accounts. But since Trump. Trump transformed from a reality television star to a politician and president by bending the tools of communication and the media to his will."
+publishedDateTime: 2021-04-10T04:27:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-addresses-gop-power-shape-national-debate-wanes-76990020"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-addresses-gop-power-shape-national-debate-wanes-76990020"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-addresses-gop-power-shape-national-debate-wanes-76990020"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-addresses-gop-power-shape-national-debate-wanes-76990020"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_7f2da1c669864ab3a5bebaba9de6eb2b_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
@@ -952,6 +958,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "GaRNrSEYPyt+cniMTYFb10+TTKwlI6xkffLGQeO1eMzhsZk/AJOR8q2jiZTn0lyeD9mpKuDpeQXs96MUa8/rxYwqDH8YXH+8hgbMZ6+rHCec72D5Sx3A08OsL3atP4DvB7sWx6QX2kpMZpjww/hmb+jlgC2JCmAi60G9tZ82J1E9IklNEIUOXIqN5pKy2UXruKncu1J7yBFXialjcfmcrc0KpmjhMiNlE/T1f9IuMG7LqowUrq/5ZFEA3dKry8v2ChlMkShIIBvlA1oF4pCfn58mQVHnfS2FT7tEMyM3StdMi1WuJE/cQufr/3xBCCF7Pkgc5hM0iSMp+eONa6x9ZVrkCm1GHStQ9frUIPPw115/jJ49FgfJH8bq+C98G1kIireze65sByXxv+GVMGKkhcDpvOcMLLfDx39hLzyzIUyje6Nxalgc3d5YXJDFg7sgHH+Mgfg3XTgr4+4WkwD+fkFMu+kzCdAi0jra0/AAl38/8CsQW0azgyzKmJktpmYGbRMM7rJU5f7cvNcqsn3h0Q==;KrwEiWz85n4GC8ygZcShNg=="
+secured: "7z8T2/NRX1WfnEYKV5dw8WpuVC4yPpASGm148WuUYcZc2CLCAjZtttYKPyDLOw7LYZgLgIc1gj9YYI4eYN27jnVkVav0LMu2CiRLGntzRKKcJ2uOjce4ulZ5UbzNG9U/Wg44WWnD2HKcbUp7nkgs/4WrmtnpeONK48T/Cb2JA/GCSfWV+1ADl3+1JdrpKsso+lps5+HV23kl2C6ruq7m69IOsGnzrQxXDjnfl4N3M0TRTietYhiE1ASAwooalVxccbRXGuPCLNvqlHtUCYnIrbx79w8yMPkBh3yHLXKRombFsXjt3zBeL8qVdxQrBzSjA24AvkLyA0S7zjla7GVMgef3vqhoHfHaH8m9qbTQeVY=;6blrfXZbcEbJiHND1Sb/xA=="
 ---
 

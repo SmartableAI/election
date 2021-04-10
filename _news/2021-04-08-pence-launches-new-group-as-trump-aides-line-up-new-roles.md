@@ -473,6 +473,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump addresses GOP as power to shape national debate wanes"
+    excerpt: "The press releases his aides fire off on an increasingly frequent basis are more “elegant,” he says. Plus there's no risk of backlash for retweeting unsavory accounts. But since Trump. Trump transformed from a reality television star to a politician and president by bending the tools of communication and the media to his will."
+    publishedDateTime: 2021-04-10T04:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-addresses-gop-power-shape-national-debate-wanes-76990020"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-addresses-gop-power-shape-national-debate-wanes-76990020"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-addresses-gop-power-shape-national-debate-wanes-76990020"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7f2da1c669864ab3a5bebaba9de6eb2b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z
@@ -926,17 +942,6 @@ related:
     webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision"
     ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Addresses GOP as Power to Shape National Debate Wanes"
-    excerpt: "Trump Addresses GOP as Power to Shape National Debate Wanes WASHINGTON (AP) — Former President Donald Trump insists he's enjoying his life off Twitter. The press releases his aides fire off on an increasingly frequent basis are more “elegant,” he says."
-    publishedDateTime: 2021-04-10T04:26:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-10/trump-addresses-gop-as-power-to-shape-national-debate-wanes?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
