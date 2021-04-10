@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Ex-GOP primary rivals Rubio, Paul, land Trump endorsements"
-excerpt: "They traded barbs with Donald Trump during the 2016 Republican primaries before becoming major supporters during his four years in the White House — and now Sens. Marco Rubio of Florida and Rand Paul of Kentucky are the latest GOP senators running for reelection in 2022 to land the former president’s"
-publishedDateTime: 2021-04-09T16:51:04Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqRLTi-Uv4I/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqRLTi-Uv4I/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements"
+excerpt: "They traded barbs with Donald Trump during the 2016 Republican primaries before becoming major supporters during his four years in the White House — and now Sens. Marco Rubio of Florida and Rand Paul of Kentucky are the latest GOP senators running for reelection in 2022 to land the former president’s endorsement."
+publishedDateTime: 2021-04-09T16:55:00Z
+originalUrl: "https://www.foxnews.com/politics/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements"
+webUrl: "https://www.foxnews.com/politics/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements"
 ampWebUrl: "https://www.foxnews.com/politics/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-gop-primary-rivals-rubio-paul-land-trump-endorsements.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -176,6 +177,6 @@ related:
         height: 340
         isCached: true
 
-secured: "H9/Qt9Sc/4Ti6vA/Q35ANYpf7gQ+KcbfprsZ3C0YZub/b7thl+2vmkVY5w9VTko+rZEFSmDLpvnGVSu318CON1TboT9s948UoZV73MOPIRc0W2fAlmSP7MW3tpSujAK6tL934AgAO6a8kUBFnLoOAvGVMyZSjAiasEHCez0+hu5K3nb1yapHDgR3kRxvCQoGN/f9oTfX1w2Oc/NZNjZEBOE1U6oYmhKIeHJhWCpPiCyFG6u3k2IhUZ9dCYQK1w37oGPwT8mEBZ60n3cgRK5I51ytteh/u6a9usxT62KCX+GAbq2SOvFOVvMEZHuQ8kB2c+gNO9khs/DOVaB76d2O1uhjr4x0FL/VKnXXDlLsXdo=;5u6wlTGyweHvPfSD4KRE4w=="
+secured: "U/na7fqbDNUIxwms5YTyDBa0CG3w8uNN6XbsK3DFyslSfXxgpPWHOCImw0cfGNhh3glpk13i3s+zpM/fyPScqkqV7HQUqLMvAHzyHtzCvgO+BAxrbXaPrytc/bidQ4ziyaD8Okw8XXNky5vj9LeP4LGsWzb88wn+9MZ5vu5JBRmbRtll0lZtJZRvat/TKnfBkLmQhh3eTmhXPBodRdJBTGGyp6O4mkFSiCD+H0Fl9/4LH41xayPYJlIVWBjBB6bZaYpQxx0jvErlqYke6BGDOMzrPY1mT9aP9UyaFLzd/6mxm8lbFgN0txA61l+yYU+9XMQPWsvTKn9de89ADsOeHeJSU2ImNxOk7uspPBnF1zo=;rp33BVT2wGm1wmGaELkRnw=="
 ---
 

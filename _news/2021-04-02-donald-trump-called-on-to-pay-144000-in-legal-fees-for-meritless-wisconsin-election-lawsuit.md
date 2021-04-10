@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Pelosi planned on retiring until Trump won election: report"
+    excerpt: "was planning on retiring from public life until former President Trump Donald Trump First GOP lawmaker calls on Gaetz to resign Katie Hill on Matt Gaetz: 'I feel betrayed by him' Anne Frank's ..."
+    publishedDateTime: 2021-04-09T18:32:00Z
+    webUrl: "https://thehill.com/homenews/house/547404-pelosi-planned-on-retiring-until-trump-won-election-report"
+    ampWebUrl: "https://thehill.com/homenews/house/547404-pelosi-planned-on-retiring-until-trump-won-election-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547404-pelosi-planned-on-retiring-until-trump-won-election-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosinancy_031821gn8_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump adviser Giuliani asks judge to throw out $1.3 billion lawsuit over his 'big lie' election claims"
     excerpt: "WASHINGTON (Reuters) - Donald Trump’s former personal lawyer Rudy Giuliani asked a judge on Wednesday to throw out a voting machine company’s $1.3 billion defamation lawsuit relating to his false claims about the November 2020 presidential election ..."
     publishedDateTime: 2021-04-07T20:26:00Z

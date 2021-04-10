@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Mayor pardoned by Trump wins another term in Illinois town"
-excerpt: "Voters in a small Illinois town reelected a mayor who ran a write-in campaign after President Donald Trump pardoned him in a gambling investigation. Casey Urlacher, the brother of former Chicago Bears star Brian Urlacher,"
-publishedDateTime: 2021-04-09T23:45:00Z
-originalUrl: "https://www.chron.com/sports/article/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
-webUrl: "https://www.chron.com/sports/article/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
-ampWebUrl: "https://www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
+excerpt: "Voters in a small Illinois town have reelected a mayor who ran a write-in campaign after President Donald Trump pardoned him in a gambling investigation METTAWA, Ill. -- Voters in a small Illinois ..."
+publishedDateTime: 2021-04-10T02:29:00Z
+originalUrl: "https://abcnews.go.com/Sports/wireStory/mayor-pardoned-trump-wins-term-illinois-town-76988187"
+webUrl: "https://abcnews.go.com/Sports/wireStory/mayor-pardoned-trump-wins-term-illinois-town-76988187"
+ampWebUrl: "https://abcnews.go.com/amp/Sports/wireStory/mayor-pardoned-trump-wins-term-illinois-town-76988187"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/mayor-pardoned-trump-wins-term-illinois-town-76988187"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABCNews
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -938,6 +942,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Yw4EBJyGi/4y7PQhLzj1tBumQ3LSYc/KOcE+5mMK7cqVqlVdmNB4OdSCr34jcEPaH4oJ5vkBtCjC81TMuD3Eem2jVsy2LrSyrWoUrpOl15SSlmSH4OgY8bisdVz1+s4QpNAzjKvklhzkj7ajeNmblJf7wTOaxW2OK5QZ3TDtyFtO7+s1bVW8+jDWH+mT0KDW0ScZ8A7dSoTfJprxyV8Q+hhkoYJ675zVDjVDZrrI32N0CVdP/PbS2CjA9DQaUZwNB2hKy9o6Da7V/wZN72yUlX16oezuGte/VbnCPgvU4G8scNtILPicWIebuvwaDmLQkpdriK/jN7HvU6pzD3y3BaQAgovXVjQvL9h6Xung4z0=;zok8pWWFtj92UpHK/bybLA=="
+secured: "w0T5n/CuNlj2oqXXV0cWRg+R1GOJhMs6LwoYb2D79+EwmBMYhIbN0Pya/Mb6w6Q5NYgVtR3oUXrk097P0Fk812Gkw6e9aRrBQqD8UN5OnF9K92FNgiT8nUecWtEpbUMTqlceLNEmhSWUtX6yU1YmL4mORYHdrGFBSO1c/hFi2kKgHrW5h9AmcLmdNsytlZOD8+6RnhsDhi2xv7Ht3eu3vRdIM2gztjgN+HdLcLa14zbImkWJc46A/22QfRRUZuIgy2V7RjXIrz85UDWuRfGhwaFpk/g3mewJQYwWAh2b5QWOCWwG0JIK2CEDkI6FwXBw5zBh20oQuGnPKfJu0gDVIZ5oJCh5zgrb832t7Kuq41s=;VVors8N1qtUIoDFxAehiBA=="
 ---
 

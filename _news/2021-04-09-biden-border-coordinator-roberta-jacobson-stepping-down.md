@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-roberta-jacobson-step.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5144237a-7755-428b-9b86-49aff786be96/d14cf159-b8c6-433d-8a09-e62e3d6c4905/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Stephen Miller: 'Joe Biden has shut down ICE,' leading to a 'travesty' at the southern border"
+    excerpt: "Stephen Miller and Mark Brnovich sounded off on \"Hannity\" Friday, criticizing the Biden administration for \"[shutting] down ICE,\" and creating a \"disaster\" at the southern border. "
+    publishedDateTime: 2021-04-10T02:50:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jno2u046oqk/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "ZG89FtuCk2CnzynIqymBFYSZKAguc/4/ahwIJ/BvHtIMUFRLThB/lIHIxuXx0A5Jg6D2papQ80wy2o53obPy0fRowBKADAtWIFlHpfHFfJ89WXYdICcEica/whrm4swuTaiOwC/MshMtIQIPIZsqhJD3OlISAK0J7HbzPiZr6rfNeFaj+J18YCuLzeGnFWt8BCQiZHkbWsEWP5Tg7ww0meDlRyKG8SykObZe6WmWaEZ4lVy4ktPGaLmvTKBHe8uJE6UqWRxCjx7bEjFgyXl/x49dq4qCGCU3xa+2Bd0DFjulvJQU7twwctdTNEt/kV/80MxG7f6Wm+qw0Oqz4ZP0GSmD34lZvfYHl1t4YsKtr8g=;cqX2iRA3Pz9GdpGHwmrcaw=="

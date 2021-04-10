@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Stephen Miller: 'Joe Biden has shut down ICE,' leading to a 'travesty' at the southern border"
+    excerpt: "Stephen Miller and Mark Brnovich sounded off on \"Hannity\" Friday, criticizing the Biden administration for \"[shutting] down ICE,\" and creating a \"disaster\" at the southern border. "
+    publishedDateTime: 2021-04-10T02:50:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jno2u046oqk/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "hkAvVt8ezFOmh7XNMx8OutUwF1TSUMa7r/YjtiuXKNCwdGlD3xCfnN9XCSJ4LNT5E/bD9eEh7o8a9PFEfFc4IG8/7B+SYij6+XBqymy3SjHRbdcuJ/HqopqFoJG2+Sv5L0o203t8DU/yS4QIpXemdLndMiCsCUWiFRcjhg4e+N0z2gWlT74LhQCO+5HnS6z1Y9efdOf+e+fvExlG4mJ8bcIoTmN+XangeggNUbm/HYy+L84iLeTRD5f9D2B2vTmMiy4ac3cSvBDuo4BBEHrrx23M2lPTUdLc2MdpilssH9vL6+e7sbyyRuyXn4ckN1jTKy7m4zbtvRSSHaZxP0IcGNblZZQC5ra8ATVKe5k3g/c=;oauV7/cSyPMq4BAjYexRag=="
 ---

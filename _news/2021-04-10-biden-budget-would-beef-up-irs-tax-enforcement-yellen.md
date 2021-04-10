@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden's budget meets criticism from right and left on Pentagon spending"
-excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply hike spending on climate change, cancer and underperforming schools, but his first budget wishlist on Friday drew howls of bipartisan concern over military spending. The $1.5 ..."
-publishedDateTime: 2021-04-09T23:20:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-biden-budget-idUKKBN2BW2BL"
-webUrl: "https://www.reuters.com/article/uk-usa-biden-budget-idUKKBN2BW2BL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW2BL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW2BL"
+title: "Biden budget would beef up IRS tax enforcement -Yellen"
+excerpt: "WASHINGTON (Reuters) -U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ..."
+publishedDateTime: 2021-04-09T21:47:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-treasury-budget-idUKKBN2BW25C"
+webUrl: "https://www.reuters.com/article/us-usa-treasury-budget-idUKKBN2BW25C"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW25C"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW25C"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557911942&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F5"
-    width: 812
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557939079&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F8"
+    width: 866
     height: 545
     isCached: true
 
@@ -351,22 +351,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden budget would beef up IRS tax enforcement -Yellen"
-    excerpt: "WASHINGTON (Reuters) -U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ..."
-    publishedDateTime: 2021-04-09T21:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-treasury-budget-idUKKBN2BW25C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW25C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW25C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557939079&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F8"
-        width: 866
-        height: 545
-        isCached: true
   - title: "Biden orders gun control actions — but they show his limits"
     excerpt: "President Joe Biden is ordering a half-dozen executive actions aimed at addressing what he calls an “epidemic and an international embarrassment” of gun violence in America WASHINGTON ..."
     publishedDateTime: 2021-04-09T18:42:00Z
@@ -382,6 +366,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_9f55b5d883f54c41bdf576184d88f74c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden's budget meets criticism from right and left on Pentagon spending"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply hike spending on climate change, cancer and underperforming schools, but his first budget wishlist on Friday drew howls of bipartisan concern over military spending. The $1.5 ..."
+    publishedDateTime: 2021-04-09T23:20:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-budget-idUKKBN2BW2BL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW2BL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW2BL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557911942&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F5"
+        width: 812
+        height: 545
         isCached: true
   - title: "Five takeaways from Biden's first budget proposal"
     excerpt: "President Biden Joe Biden Anne Frank's stepsister: Trump 'obviously admired Hitler' Biden-GOP infrastructure talks off to rocky start We must stop cutting China slack on climate MORE’s budget ..."
@@ -611,6 +611,6 @@ related:
         height: 433
         isCached: true
 
-secured: "B9m9o0aliL5cK+Sbm8+6ApxIIrHvVUFp/qqUxZYGSTORqbUsT7X5kXRP92lxql5TQ+rPIgwm8XZlJC2F6rbcgcXO4SZQh9vv192bI1BOuNpwvDQiW644tuwSIMEKzT9Jr0jGFBEuFyVRtmp5nima8yBgZ6R+xs7LRN3+jWh2xZPrBR82x+LfwtNlmu4nFd7SXLVWsfUIIXG14PrqB5hMmR9Vsvo2vcRzJGd6Ei/d5hRT1K24ZM6ViZXX9RTCOv8wsK+ojmxPjAZPBeDigJ6yRr1S21b+ZiZjePnbX5WxhkmUPVwBLZ4MX9yrTGNTfTuMTrlatV6ITOhEKOmxOW23OToh9//ZPLCalwaA6YIXpBI=;e0xL9a1q9a+CHnyx4jylNQ=="
+secured: "3CWCiT4H5OFX1J05YqtPfYxkFfbB2gL0o0kd8TkiNf1KazaxSukzE+YUSUB9BOVDSwu0RqNiRnWcJuPrRuLXVoVxzBjwg6apDq4hL1llnGVsrczyLvLTBhca/PYJLvnJjBZJpsRjuWVWzANq+depGes64kNdbf3WaN146616ujDqPWDM2CuGInHDvp/hmPIfFD9c18ipttKz+vut+hpc6TKuL/DPpf8eNKVBU77xko3m0F1OfDQ5bZfz9Ap/ZEeCNBHryWVOPeo2Q95oWZM+ymRXx4HHJey3vdjb1BfCpW7hNEJsb4NqQe0TQSj1vhmQl2g4Jk02TGWj4reSCkXbqS82x8lgm7qHKIUmU3K+EoE=;nMYP9tyhrx+DbsM6FlTusA=="
 ---
 

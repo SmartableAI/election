@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Pelosi planned on retiring until Trump won election: report"
+    excerpt: "was planning on retiring from public life until former President Trump Donald Trump First GOP lawmaker calls on Gaetz to resign Katie Hill on Matt Gaetz: 'I feel betrayed by him' Anne Frank's ..."
+    publishedDateTime: 2021-04-09T18:32:00Z
+    webUrl: "https://thehill.com/homenews/house/547404-pelosi-planned-on-retiring-until-trump-won-election-report"
+    ampWebUrl: "https://thehill.com/homenews/house/547404-pelosi-planned-on-retiring-until-trump-won-election-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547404-pelosi-planned-on-retiring-until-trump-won-election-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosinancy_031821gn8_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit"
     excerpt: "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ..."
     publishedDateTime: 2021-04-02T16:52:00Z

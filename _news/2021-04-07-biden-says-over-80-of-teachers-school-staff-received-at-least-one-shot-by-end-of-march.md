@@ -351,6 +351,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden budget would beef up IRS tax enforcement -Yellen"
+    excerpt: "WASHINGTON (Reuters) -U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ..."
+    publishedDateTime: 2021-04-09T21:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-treasury-budget-idUKKBN2BW25C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW25C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW25C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557939079&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F8"
+        width: 866
+        height: 545
+        isCached: true
   - title: "Biden orders gun control actions — but they show his limits"
     excerpt: "President Joe Biden is ordering a half-dozen executive actions aimed at addressing what he calls an “epidemic and an international embarrassment” of gun violence in America WASHINGTON ..."
     publishedDateTime: 2021-04-09T18:42:00Z
@@ -369,10 +385,10 @@ related:
         isCached: true
   - title: "Biden's budget meets criticism from right and left on Pentagon spending"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply hike spending on climate change, cancer and underperforming schools, but his first budget wishlist on Friday drew howls of bipartisan concern over military spending. The $1.5 ..."
-    publishedDateTime: 2021-04-09T19:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idUKKBN2BW190"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW190"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW190"
+    publishedDateTime: 2021-04-09T23:20:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-budget-idUKKBN2BW2BL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW2BL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW2BL"
     type: article
     provider:
       name: Reuters

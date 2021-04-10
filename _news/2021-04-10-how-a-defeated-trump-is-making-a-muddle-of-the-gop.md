@@ -447,6 +447,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Mayor pardoned by Trump wins another term in Illinois town"
+    excerpt: "Voters in a small Illinois town have reelected a mayor who ran a write-in campaign after President Donald Trump pardoned him in a gambling investigation METTAWA, Ill. -- Voters in a small Illinois ..."
+    publishedDateTime: 2021-04-10T02:29:00Z
+    webUrl: "https://abcnews.go.com/Sports/wireStory/mayor-pardoned-trump-wins-term-illinois-town-76988187"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/wireStory/mayor-pardoned-trump-wins-term-illinois-town-76988187"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/mayor-pardoned-trump-wins-term-illinois-town-76988187"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z
@@ -806,22 +822,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Mayor pardoned by Trump wins another term in Illinois town"
-    excerpt: "Voters in a small Illinois town reelected a mayor who ran a write-in campaign after President Donald Trump pardoned him in a gambling investigation. Casey Urlacher, the brother of former Chicago Bears star Brian Urlacher,"
-    publishedDateTime: 2021-04-09T23:45:00Z
-    webUrl: "https://www.chron.com/sports/article/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
-    ampWebUrl: "https://www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
     excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
     publishedDateTime: 2021-04-06T20:42:00Z
@@ -942,6 +942,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JM1YS0uwvlrF5Deaq1L2KJRAXiC2TVLbhmKNq5NkiY58QbDgZLtIpNJcCoqPGHVwH4c9x4JpySQ97pVPoHe5cLH1XO4JM4+5NJXE11UyZrU3nFt0FXjf08yEI5E6vV3QS5Dc+HjAfZEd7Nkot8A2wbIvJqJx1/YJZdlg/gwOEmzaviMTfnjvHYAu1aNrOHJ0tPRK9hRx5LJzVCftiqUZMEc947lrgmFD9eZVZrMxdU49ocndRk+fXcFUqRPDo09FnUYnRNsfvZMZ7RYbntv6PLs0LOANsn5bYQsHIqF7Dmk983PQs5JGxTQdtZaf/NsqQhXEDEvDmMLZH3tqbSXRkOl+Ju+sS7tIWnJVEOnJqOc=;rwoD31P/akAhmQ16xxIr9g=="
+secured: "QY7YGDyRCBi1fiiAfLmqdA4WkIOuDixaW7JcgLcI64RheIJpH3zdXmPQrXPutQb/XKyx8NYUqYBO+CRJ7iBYC1c1ZG7jYxsoQLq02nznv0NOBIMmH1+W83BPci12sL42+H3cznD7txdrio1bx2Q8S2bhDMzzxllQWyBxv0B8uc/EtFgPlBmXiloPoZxkxNebCQo2vo9JkgPowWR3T71NBsQLieWeFbiQKeplC5njeN5ABDKIF9ZYRczZVggP4ZG2KPnmKWu/Ykd8Izo8aNXC87X3Ju5/xuZzyneOtbDZQtl11UV/CFZaQ4nNcuNpSZhiwMZrZIT+yBA0i+KycBS/g1wZs8y70jb3zr3Kxox0wnxEr+/PAUMk+m4uIhwf1QcJLCpfNthIcA18mA7xMcL4AzVazRSYMCobbXHOxarFheL3se99u1m38PJ5FaNakrzSefdh0tui5Exqf6QNlPwpSxyrJO2GmT1IAg3lmNZnZXl+Jd1O4TYhazvm4yDOxgLYbmkjp9qO/+K5MAfn7J/QVQ==;VyKKQtjyrkiyBYEbge8WKA=="
 ---
 
