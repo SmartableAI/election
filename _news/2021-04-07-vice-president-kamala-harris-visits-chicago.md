@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 738
         isCached: true
+  - title: "Rally Held Outside Kamala Harris' Home Demands She Fight for Immigrants"
+    excerpt: "A coalition of immigrants' rights groups gathered in front of Vice President Kamala Harris' residence in Washington, D.C., Wednesday to argue that she is uniquely suited to advocate for immigrants due to her powerful role and portfolio in the Biden ..."
+    publishedDateTime: 2021-04-07T16:45:00Z
+    webUrl: "https://www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705"
+    ampWebUrl: "https://www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1762973/kamala-harris.jpg"
+        width: 1024
+        height: 744
+        isCached: true
   - title: "Navy Seabees built Kamala Harris a desk with wood, copper, and nails from the US's oldest warship"
     excerpt: "The USS Constitution is one of the country's first frigates and the oldest commissioned warship still afloat."
     publishedDateTime: 2021-04-06T15:04:00Z

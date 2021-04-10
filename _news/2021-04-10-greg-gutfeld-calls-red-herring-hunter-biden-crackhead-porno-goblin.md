@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
-excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
-publishedDateTime: 2021-03-31T10:00:00Z
-originalUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
-webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
-ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+title: "Greg Gutfeld Calls 'Red Herring' Hunter Biden 'Crackhead Porno Goblin'"
+excerpt: "Fox News' Greg Gutfeld described Hunter Biden as a distraction from what he sees as President Joe Biden's alleged wrongdoings on Friday following an interview the president's son had with Jimmy Kimmel. Hunter Biden discussed his struggles with drug ..."
+publishedDateTime: 2021-04-10T08:01:00Z
+originalUrl: "https://www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581"
+webUrl: "https://www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581"
+ampWebUrl: "https://www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581?amp=1"
 type: article
-quality: 109
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://d.newsweek.com/en/full/1775414/hunter-biden-2016.jpg"
+    width: 3000
+    height: 1987
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe3_04062021getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Greg Gutfeld Calls 'Red Herring' Hunter Biden 'Crackhead Porno Goblin'"
-    excerpt: "Fox News' Greg Gutfeld described Hunter Biden as a distraction from what he sees as President Joe Biden's alleged wrongdoings on Friday following an interview the president's son had with Jimmy Kimmel. Hunter Biden discussed his struggles with drug ..."
-    publishedDateTime: 2021-04-10T08:01:00Z
-    webUrl: "https://www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581"
-    ampWebUrl: "https://www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1775414/hunter-biden-2016.jpg"
-        width: 3000
-        height: 1987
         isCached: true
   - title: "Biden's Coming Executive Orders to Include Requiring Background Checks for 'Ghost Guns'"
     excerpt: "President Joe Biden is expected to include a federal directive mandating background checks for individuals purchasing \"ghost guns\" this week, alongside a wider series of executive orders addressing U.S. gun violence, the Associated Press reported on Wednesday."
@@ -95,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
+    excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "President Biden making a push for tighter gun safety laws with new executive actions"
     excerpt: "Biden's infrastructure plan: What's inside the new $2 trillion bill?"
     publishedDateTime: 2021-04-08T12:41:00Z
@@ -110,6 +110,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "/KsXSk+yIBQetwFh8+sdc/y4fboF54sZY1ML0QHgQql89A1pvVr1vjiJ56tcQro0cIGQukOGKJrk8mH88bCCaw6gUKd1LkBvxqsblaHkqnvKYaaXMurN8obteHdbcUIr7Kcj9NpBZmUCy/NP9R01wQgkP6cLzx1GdId/o7NmcroEF21r/2VDDZGuc57XI2H3ln0D/3MoBH5vIamRVTSiWMGDwzXzb9DxGB71D24w5MNR2DbwPSBPInook0ahwGpnoajXPtBHKdhDMSwSoFvsCHUSY2HU1AIoTH2OwDbyvJVq39h89X1AUUcSbEU+4Dzwc81ryIvaMKXVidQ8M4InU4ef0ROH/C2dM/Wr/Mw6AdgHsolLAJpYlyI8gddNVeM646KrYqElcMlnHzsMTD5JtN94pY63ElIVrbwXn6UIG7tfGgnED6Xo9/0pyPkAF0BOV0X6lOJVOY20/mm0AQhzw4uNjDUPPhn/2yd24I/WZqZEofDJaI2L3FoHnFCBdJk3hndmkb5MXwLGX9OV9UmyLA==;LiViJ/KUeMsMhX2z2dSs+Q=="
+secured: "2s7ffzBPEXvvFh/aUY0Pn9bkSiZ2RyQtPYJK5U5KIGBj3kGvYSeRVqqvOGmUHvedhLYklzeql4nSXWH2fYc2tIbqbmgPZEwt4uE1fDNnVSa1+c14PpBOY5wetOulOL3vxu2cVjhwm/q8y60RQvlv9ZEwOtIWGWepTKUz+36pK5nQ2CZD2KUcXu4qtEPo7waoeluutIGQiidsGTxYQXZOSLKzvLZWQQs/m9OzbPtfc5OKlFL17sWETmyp0QhCJYqleWFae4CcgntzyPfeA/Lx9e45RmCcbv4BH0/rvvCAISF5NNcUHvjz8ThfB7WZfxi4K+FpPluIDXhMin96EPBZn+UePa5+q3jDtWmO2JbeD3g=;Ec4WOU5P3lcKS1X+cOhBIA=="
 ---
 

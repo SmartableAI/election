@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
+    excerpt: "DNC general counsel. In the 2020 election, he helped Biden vet his vice presidential running mates, and then in the debate prep played Donald Trump in the debate prep for Joe Biden. So here we have a very touchy issue, should we or should we not expand the ..."
+    publishedDateTime: 2021-04-09T22:35:00Z
+    webUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3898acf2-fc08-4a0d-b912-eff0dfbf077d/d3876187-a51c-4d18-96e6-b7d37a330fda/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "PabzPqNGjYNggMpHPf81XT4FkVMQh0zeYcR1g5FuwUU48TBFjN0/G8/n2UK3hASwtkaWJpmbhEgcpvkIb/jJUMlF06Xnt5A+ZP5QteFbL2KJMWXNN4tTZpaq7DcNvC5/mE4qpmkeRP7bzjT/jbVyvvvwg6s+YUZbDozH+p08mvbgZB5A6XT2PGoqECsooYmhic8mp1L1GvC60hDZ7pBLVEPbMU1iDpqppLYWGG20CD8VjxbL6UcgBK9YQcRl4tRCUnU18SCJbMWHZ5uXp92AZxMSWxNsJrxJzBRqGVI7kzjrb/b65E7VW4kTOojm1MvOBrZoCEo7OvquNzCGnxW/TXSVGEVse1WfH5TSnDYS8RQ=;wpoITT2cJRlRPUwdSjJCCg=="
 ---

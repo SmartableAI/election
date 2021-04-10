@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Ron DeSantis blames ‘vaccine hesitancy’ on Joe Biden, Kamala Harris"
-excerpt: "When Vice President Kamala Harris came to Jacksonville to tout the American Rescue Plan virus relief package this year, the governor was downstate at a gas station ribbon cutting."
-publishedDateTime: 2021-04-07T01:09:00Z
-originalUrl: "https://floridapolitics.com/archives/417985-vaccine-hesitancy/"
-webUrl: "https://floridapolitics.com/archives/417985-vaccine-hesitancy/"
+title: "Rally Held Outside Kamala Harris' Home Demands She Fight for Immigrants"
+excerpt: "A coalition of immigrants' rights groups gathered in front of Vice President Kamala Harris' residence in Washington, D.C., Wednesday to argue that she is uniquely suited to advocate for immigrants due to her powerful role and portfolio in the Biden ..."
+publishedDateTime: 2021-04-07T16:45:00Z
+originalUrl: "https://www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705"
+webUrl: "https://www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705"
+ampWebUrl: "https://www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705?amp=1"
 type: article
-quality: 70
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Florida Politics
-  domain: floridapolitics.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://floridapolitics.com/wp-content/uploads/2019/03/ron-desantis.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://d.newsweek.com/en/full/1762973/kamala-harris.jpg"
+    width: 1024
+    height: 744
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1771853/vice-president-kamala-harris.jpg"
         width: 1024
         height: 738
-        isCached: true
-  - title: "Rally Held Outside Kamala Harris' Home Demands She Fight for Immigrants"
-    excerpt: "A coalition of immigrants' rights groups gathered in front of Vice President Kamala Harris' residence in Washington, D.C., Wednesday to argue that she is uniquely suited to advocate for immigrants due to her powerful role and portfolio in the Biden ..."
-    publishedDateTime: 2021-04-07T16:45:00Z
-    webUrl: "https://www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705"
-    ampWebUrl: "https://www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rally-held-outside-kamala-harris-home-demands-she-fight-immigrants-1581705?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1762973/kamala-harris.jpg"
-        width: 1024
-        height: 744
         isCached: true
   - title: "Navy Seabees built Kamala Harris a desk with wood, copper, and nails from the US's oldest warship"
     excerpt: "The USS Constitution is one of the country's first frigates and the oldest commissioned warship still afloat."
@@ -449,6 +439,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Ron DeSantis blames ‘vaccine hesitancy’ on Joe Biden, Kamala Harris"
+    excerpt: "When Vice President Kamala Harris came to Jacksonville to tout the American Rescue Plan virus relief package this year, the governor was downstate at a gas station ribbon cutting."
+    publishedDateTime: 2021-04-07T01:09:00Z
+    webUrl: "https://floridapolitics.com/archives/417985-vaccine-hesitancy/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2019/03/ron-desantis.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Raleigh News & Observer"
     excerpt: "This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine for COVID-19."
     publishedDateTime: 2021-03-30T11:03:00Z
@@ -625,6 +629,6 @@ related:
         height: 800
         isCached: true
 
-secured: "2YH+frFLToVFfxarQHTYip0i+IcpmJZRBfF3pOjBDoSKu6jKQQlFZ+hCcgazwowWXTEdOQQhLLtCRF61ABwNtcyNCl5Sm/5rJtMYgHZbKyeh9jdgyogbwFUd39EBpWgTdpvE1RRdiG8f0ok8/mK/UejROeEUmwyOZ/eQaBspjsYgr3fdb9lK9pUQdbQDF5wb2bCV+zwSI4HI9Z3GdQSgAdoZcEpupOXHcDhocxgWHLw5VxFy5rCR8vMrxvMFRsKAo0OgHLmY5FAhKsIh4Pn0ogM3DBTBntqpmsKhqKd1U0vQCC+Pi+K7G7m6QzwYPd1nn4AAN1hAjZSRcRbWjOWU/TvA93Y/9LEQnfh3RHXGc3+5W/cozBsJUCCh8VFwLLwd7BDkGqp/cC8T7UWRREmLz+Rh+5WdfwaAJibHbxMH8foAd6as6CkBc0oudtsilDdcux4TRptoRzJhl3+coZ39ESHWg9mcMRfcu49QmUgHWKSZeWNC5Kf/PfbduT0e5EAfpJnE8BjRXZeFJxQuV2vFTQ==;71bYRpEOJr8oCQ6iadN30A=="
+secured: "6Kk9kESXWs/TLSEIUc/imRDaFDv9cbWjJN8hTLM/gXS1VKA4ZpK0pNcsGKbXfteVhxORN3/8GWn4nlBuxTCp0kB4tOlJsjLjE3ye0L84WT0PVms6sImXuoev4Dpc+6+ARHgKrBo0QGTtwVW+EHaJD4DCvzezO/EomT3NTbscxhGT+TtZs6hK8O+jnEOktp3ybgJlnRKGxeu5xfoV8/DZk588ocFzV6Uzaw4o6qF3+wuanu0pAyeQMUzD9ylhf4mdXKqRHdI/Hv4ayJJZgATP59ZicTzvpaHPPzj0fM3dVLjxjnE2Gm5ZjapHoPQCqbazBaUsbvBqT0wM9TyV+OTGBhscuGrdQEk5XlnGoxuO2ZU=;ELjdzSxpRuJaPoXY+xRCCg=="
 ---
 

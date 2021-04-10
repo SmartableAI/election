@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
+    excerpt: "DNC general counsel. In the 2020 election, he helped Biden vet his vice presidential running mates, and then in the debate prep played Donald Trump in the debate prep for Joe Biden. So here we have a very touchy issue, should we or should we not expand the ..."
+    publishedDateTime: 2021-04-09T22:35:00Z
+    webUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3898acf2-fc08-4a0d-b912-eff0dfbf077d/d3876187-a51c-4d18-96e6-b7d37a330fda/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "MK2NZ4banwdVGb5+vO42MihwRUrXXFmER9eeNX7UBe3B56/X2/4fkZ1q0W648o/2hpGHpeflizXF2W5gFRLDXUaepkrdRS+LVNYfb8px9wGvzcv/ntOd+vN6oNt3izgZJymgvDueQOY3GLSSOgDt/zTvbkjAnZ7RjU/CD+cpbnbxzFdckXGNM+3D0eo3WJz2aajSchJwFHgOFPUV8jqHIilgtc6GFTKPGp75WnDySSBVwNnzagLx561Oat7W9t/x6+jgsHoIMkH85p+H1KnSxpsQLOyYzBsFXtlVeHECw4mnVwkEAVhysHWa5EK7lScTTzcFt7Ubkk5eOCUEaw/+9OvupTJQr+PmBqJzkJlsjRk=;RAkymXK5beIYj9pKi5d9QA=="

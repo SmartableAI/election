@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Greg Gutfeld Calls 'Red Herring' Hunter Biden 'Crackhead Porno Goblin'"
+    excerpt: "Fox News' Greg Gutfeld described Hunter Biden as a distraction from what he sees as President Joe Biden's alleged wrongdoings on Friday following an interview the president's son had with Jimmy Kimmel. Hunter Biden discussed his struggles with drug ..."
+    publishedDateTime: 2021-04-10T08:01:00Z
+    webUrl: "https://www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581"
+    ampWebUrl: "https://www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1775414/hunter-biden-2016.jpg"
+        width: 3000
+        height: 1987
+        isCached: true
   - title: "Biden's Coming Executive Orders to Include Requiring Background Checks for 'Ghost Guns'"
     excerpt: "President Joe Biden is expected to include a federal directive mandating background checks for individuals purchasing \"ghost guns\" this week, alongside a wider series of executive orders addressing U.S. gun violence, the Associated Press reported on Wednesday."
     publishedDateTime: 2021-04-07T22:10:00Z

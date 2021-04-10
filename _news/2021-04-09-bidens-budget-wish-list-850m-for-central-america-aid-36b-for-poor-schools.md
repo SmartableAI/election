@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden budget seeks more for schools, health care and housing"
-excerpt: "President Joe Biden has released a $1.5 trillion wish list for inclusion in the federal budget Sen. Ben Cardin: Biden ‘right to be bold’ on infrastructure plan WASHINGTON -- President Joe ..."
-publishedDateTime: 2021-04-09T20:51:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-webUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+title: "Biden's Budget Wish List: $850M for Central America Aid, $36B for Poor Schools"
+excerpt: "President Joe Biden is set to release his first budget wish list before members of Congress return next week, giving insight into his policy agenda and marking his stark departure from former President Donald Trump's priorities. Included in the proposal ..."
+publishedDateTime: 2021-04-09T16:52:00Z
+originalUrl: "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466"
+webUrl: "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466"
+ampWebUrl: "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1"
 type: article
-quality: 125
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Lifestyle/WireAP_ba707f0fb64341fba4267afc24383d3c_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d.newsweek.com/en/full/1775021/joe-biden.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -335,6 +335,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden budget seeks more for schools, health care and housing"
+    excerpt: "President Joe Biden has released a $1.5 trillion wish list for inclusion in the federal budget Sen. Ben Cardin: Biden ‘right to be bold’ on infrastructure plan WASHINGTON -- President Joe ..."
+    publishedDateTime: 2021-04-09T20:51:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_ba707f0fb64341fba4267afc24383d3c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden budget would beef up IRS tax enforcement -Yellen"
     excerpt: "WASHINGTON (Reuters) -U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ..."
     publishedDateTime: 2021-04-09T21:47:00Z
@@ -430,22 +446,6 @@ related:
       - url: "https://i.insider.com/606ee08430004b0019b2694b?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Biden's Budget Wish List: $850M for Central America Aid, $36B for Poor Schools"
-    excerpt: "President Joe Biden is set to release his first budget wish list before members of Congress return next week, giving insight into his policy agenda and marking his stark departure from former President Donald Trump's priorities. Included in the proposal ..."
-    publishedDateTime: 2021-04-09T16:52:00Z
-    webUrl: "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466"
-    ampWebUrl: "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1775021/joe-biden.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Why green initiatives count as infrastructure, from Biden's top climate officials"
     excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. The first $2 trillion of President Joe Biden's up to $4 trillion infrastructure package includes not only funding for roads and bridges, but also for climate ..."
@@ -627,6 +627,6 @@ related:
         height: 433
         isCached: true
 
-secured: "CWhrsQfkDlLr2s/BHsLMk4Lzvtysn8kJWQVOWJHIP3KBus8HbCTObkEca2PcWDSutTyr75Q8Cwv30mWutjRn8OlPM6VqOyt8kiy/TE75ZBOs14C6lefh8EMRbSsiu5srGBLyPj1bIf43WghLTRtHsSyK04rgeGjkxNPGiH8y8sJBm4Mtl0t6zwX2Lyr8bFgTg+nnwAXQQw+9hKeEL+W2nEbvxDBzKVnkIR1QgkA2l3oIMqjaDmTNCFV5HND6E6KVTA9fTkcyxdVSMcWKnNovjKD2HCB37U9+qKPX5ycqEh2p3ZyA6Gh++F+HPsw2/F2pKv1+cHagnLPwbc4XiXJLhKOKc8a8c26tacbIy8WcnSQ=;4sqh2+d5zC57N5HJw2Bo8A=="
+secured: "jwAFO5X3O0vYV1lOZyFUZN+i47Ib7DeUTN/Ujjo8r6Bgnr0i9Ey3cJFL6om9qSAIHNKpnz0Jq0Q558Wr08U1jLbpem0ydRb6W0Jg8SrAX30JZostUxPMq9+ZQfBYawjaT9W0GyHDRFFs17jnu7E7nmiSLdR+qLUe7UqHXStJlHRNPRtviQHrRBnE1FyJd8xx4t7gYl0l8R0PCJ6PkUavWNh+nkcXKIu2AS6uTAr3NyXQ8b8p8CQEB45I8jo/mnzlpe9fiZcJiuo9t7d1Lw8LljkuBZUZiIiuI07inivs5auiNZZlhfe3qqZ0mj1aHZRwW41Sdu9wAbyq4tK+RIPX7LiR9Hih3h7kjf6MCTq3lMU=;JqmSWxMgzTCmt3YrCXc3+w=="
 ---
 

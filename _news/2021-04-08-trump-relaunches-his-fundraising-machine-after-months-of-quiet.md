@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "High number of Trump political appointees sought permanent jobs in final year"
+    excerpt: "The number of political appointees who sought permanent positions in the final year of former President Donald Trump’s term outpaced the number who did so under his predecessor during the same time frame, according to documents obtained by NBC News."
+    publishedDateTime: 2021-04-10T09:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/high-number-trump-political-appointees-sought-permanent-jobs-final-year-n1262234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262234"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3424219/201029-donald-trump-maga-rally-ac-828p_c93e3f4d695a7d9de6357a085cc195ee.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump's own statements in old lawsuit could haunt him in a future criminal case"
     excerpt: "New York (CNN)Donald Trump once said he calculated his net worth, to a degree, on his \"feelings,\" and that he put the \"best spin\" on some of the assets. \"I think everybody\" exaggerates about the value of their properties. \"Who wouldn't?\" Did he inflate values?"
     publishedDateTime: 2021-04-01T06:47:00Z

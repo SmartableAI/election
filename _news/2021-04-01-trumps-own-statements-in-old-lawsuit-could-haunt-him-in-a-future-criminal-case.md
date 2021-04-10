@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "High number of Trump political appointees sought permanent jobs in final year"
+    excerpt: "The number of political appointees who sought permanent positions in the final year of former President Donald Trump’s term outpaced the number who did so under his predecessor during the same time frame, according to documents obtained by NBC News."
+    publishedDateTime: 2021-04-10T09:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/high-number-trump-political-appointees-sought-permanent-jobs-final-year-n1262234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262234"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3424219/201029-donald-trump-maga-rally-ac-828p_c93e3f4d695a7d9de6357a085cc195ee.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Donald Trump's weird post-presidency shouldn't surprise you"
     excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
     publishedDateTime: 2021-04-01T15:17:00Z
