@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-03-03-boehner-book-jacket-teases-slams-against-cruz-trump.md",
-      "title": "Boehner book jacket teases slams against Cruz, Trump",
-      "excerpt": "The dust jacket of former Speaker John Boehner’s (R-Ohio) upcoming memoir reveals some of the shots he takes at several prominent Republicans, including former President Trump and Sens. Ted Cruz (Texas) and Mitch McConnell (K.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/541263-boehner-book-jacket-teases-slams-against-cruz-trump",
-      "originalUrl": "https://thehill.com/homenews/media/541263-boehner-book-jacket-teases-slams-against-cruz-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/boehnerjohn_102715gn2_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/541263-boehner-book-jacket-teases-slams-against-cruz-trump?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541263-boehner-book-jacket-teases-slams-against-cruz-trump?amp",
-      "publishedDateTime": "2021-03-02T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump.md",
       "title": "Alex Jones seen on leaked video saying he's 'sick' of Donald Trump",
       "excerpt": "Prominent conspiracy theorist and far-right media personality Alex Jones is seen in a newly-revealed video complaining about former President Trump and exclaiming that he wished he had never met him.",
@@ -1571,6 +1519,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-trump-to-tell-cpac-he-is-republican-presumptive-2024-nominee-report.md",
+      "title": "Trump to tell CPAC he is Republican 'presumptive 2024 nominee' – report",
+      "excerpt": "Unnamed source tells news site Axios Trump’s speech to the rightwing event will have the message ‘I’m still in charge’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3a7275f576d965598d662bf1eb376ff03480bacd/0_364_5456_3273/master/5456.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d6b3d50884a968f7fdefd6c0f54fdb0",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
+      "publishedDateTime": "2021-02-22T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

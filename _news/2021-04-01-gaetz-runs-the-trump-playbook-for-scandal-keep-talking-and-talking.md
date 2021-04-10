@@ -32,67 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "New York Times: Matt Gaetz sought preemptive pardon in final weeks of Trump's presidency"
-    excerpt: "Rep. Matt Gaetz privately sought blanket preemptive pardons for himself and his congressional allies during the final weeks of Donald Trump's presidency, two people familiar with the discussions told The New York Times.\n    \n"
-    publishedDateTime: 2021-04-07T01:47:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iK_MngRY5vo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/matt-gaetz-pardon-donald-trump/index.html"
+  - title: "Andrew Giuliani, former Trump aide and son of Rudy Giuliani, says he plans for to run for governor of New York"
+    excerpt: "Andrew Giuliani, the son of former New York Mayor Rudy Giuliani, says he's planning to run for governor of the heavily Democratic state next year.\n    \n"
+    publishedDateTime: 2021-04-07T16:16:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBJsVK-1j-w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406213400-matt-gaetz-file-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407105332-andrew-giuliania-file-2020-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Gaetz reported to have sought a ‘blanket’ pardon from Trump"
-    excerpt: "Rep. Matt Gaetz allegedly sought a “blanket” presidential pardon from Donald Trump in the closing weeks of his administration — a request which was ultimately not fulfilled, according to news reports. The request for a blanket preemptive pardon for ..."
-    publishedDateTime: 2021-04-07T02:27:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/3b/45/24baa3864faf9352e262d8ef8c93/4-6-21-matt-gaetz-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Matt Gaetz, Loyal for Years to Trump, Is Said to Have Sought a Blanket Pardon"
-    excerpt: "The congressman was at the time under investigation over whether he violated sex trafficking laws, though it was unclear what he knew of the inquiry."
-    publishedDateTime: 2021-04-06T23:44:00Z
-    webUrl: "https://www.nytimes.com/2021/04/06/us/politics/matt-gaetz-trump-pardon.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/06/us/politics/matt-gaetz-trump-pardon.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/06/us/politics/matt-gaetz-trump-pardon.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/06/us/politics/06dc-gaetz/merlin_170263383_ddfd807b-d425-43c9-8240-3a567e3fc04f-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "'He really jumped on the Trump train': How a brash Matt Gaetz climbed the ranks in Trump's Washington"
-    excerpt: "former President Donald Trump. Hours after news of the investigation went public, the Florida Republican went on Fox News to deny any wrongdoing and claim he was the victim of an elaborate extortion scheme. Then he wrote an op-ed declaring he \"absolutely ..."
-    publishedDateTime: 2021-04-08T22:01:00Z
-    webUrl: "https://www.cnn.com/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/matt-gaetz-florida-republican/index.html"
+  - title: "Ten more members of Congress join NAACP lawsuit against Trump and Giuliani for conspiring to incite US Capitol riot"
+    excerpt: "Ten members of Congress who were in the House gallery as rioters breached the Capitol on January 6 are adding their names to the lawsuit first filed in February against former President Donald Trump and his former personal attorney Rudy Giuliani.\n    \n"
+    publishedDateTime: 2021-04-07T13:46:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rnQJP9Yji0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 120
+    quality: 153
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408162354-01-matt-gaetz-file-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407122614-nadler-waters-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

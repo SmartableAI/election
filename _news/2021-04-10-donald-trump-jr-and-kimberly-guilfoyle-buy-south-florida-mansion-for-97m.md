@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html?outputType=amp"
 type: article
 quality: 123
-heat: 163
+heat: 183
 published: true
 
 provider:
@@ -63,7 +63,23 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "The Great GOP Migration: How South Florida became a shadow capital for Trump conservatives"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Brittney Reed needed to get in front of Donald Trump and it had to happen fast. It was the eve of two special elections in Louisiana, and Reed--the head of the Louisiana GOP--knew an endorsement from Trump could ..."
+    publishedDateTime: 2021-04-10T13:28:00Z
+    webUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/6071a7c54943790018bb1c96?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "ApQOw+fNIMqn5ukI7JWvGE9010XEAtQmXMryhDVKhz0P3Da7cPS8jnfmnkIPtkbyNqCcptSf9yb957zh/zh526EQB0dUwChUMV6hrU/ZihTFjfUVDsUXrVf5RxuEiLqVlo+Y0FRrpgL76NrnF75wOjLOOxp985Jvh8QfOPY/ShTlubzzEgX0dyPt7yocY9Or4BQN4Wd3ne3HLaVU5AwiobzUOvsZrB8L2vL2yQrZeVdQPcUMCFquQGI/c8upwg99Ie8KUtk61jhAmUf9u9/I4Z7mV3Yzzg+reBbW0niNAI1KSsXnN7lmUwORlvk8wlHgywSIsHTzvf4bNb77sxKmR0lQTqlTmQErnmBcQGL6SRk=;oWyO5pSfOkLSBHglhEIMxQ=="
+secured: "yYQJD4Ky/lPD2lifIaAC2VO9tRLhSHH4tLKDfdBSEOx3ECCECatbJHPnhmFpSABymcbZzjvHJSZCxe5chDhmV5qWozUqIrQqG4C9wZRLFqt7gwd74nILexhQRZuqKVzZTkxZyd2r1RkYMORdL4mPfTI3BupK6lRR3CqVqYVAQvdtD+LSlNhYFQRwpDNwJLsfAPT4UaB59mrB6yPW4ESSA9PwnMtvc3o6pzBY0bkpGv7jaGfPLvWspHAEUnKE/D+Euh+jFQnxlUMQ52+xWP/bjOif0d8swewwkxfwXaQj3ZnCVpT4UGh8PebXbzVzC6mOkBk1ynJwZyNKrwXj3Vr3nxONHJ6AtKuoarigpO+2hmWvCOoMKNur+FmHkcjki7u3EYTgmL2FpJ9T2SEeX+z3nnOd/eFZRsrkLYQKanvmzDiI7iuBvltP9ZpNnXuAyUavc//0OWVTNUA8pLUyxhiuNPLk21dvcaLckDa/S8XZ4vZ9qSvVAbsxp34U80e/krI4zHJqjZ6t4gbEE7pGUUNpTw==;eVxmpOKtbNtGImpDelBSWQ=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 57,
   "value": [
     {
-      "path": "_news/2021-01-11-explainer-can-social-media-companies-really-kick-off-donald-trump-yes.md",
-      "title": "Explainer: Can social media companies really kick off Donald Trump? Yes",
-      "excerpt": "Conservatives are crying foul over the suspension of Donald Trump from social media, but the 1st Amendment doesn't apply to private platforms",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/",
-      "originalUrl": "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/10/PDTN/a7c8b4d1-1eae-4861-aebb-e20a957f6eb0-AP21009043612110.jpg?auto=webp&crop=2037,1146,x1349,y1095&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/6617801002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6617801002",
-      "publishedDateTime": "2021-01-10T14:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-10-secret-service-investigating-death-threats-against-pence.md",
       "title": "Secret Service investigating death threats against Pence",
       "excerpt": "The U.S. Secret Service is investigating death threats against Vice President Mike Pence made by pro-Trump lawyer Lin Wood, Fox News has learned.",
@@ -1350,6 +1307,62 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-brit-hume-twitters-reasons-for-banning-trump-are-pure-editorial-judgments.md",
+      "title": "Brit Hume: Twitter's reasons for banning Trump are 'pure editorial judgments'",
+      "excerpt": "Fox News Senior Political Analyst Brit Hume is calling out big social media companies for making the decision to ban President Trump's accounts based on what he says are \"pure editorial judgments.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C6BrRpfJm2I/brit-hume-twitters-reasons-for-banning-trump-are-pure-editorial-judgments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C6BrRpfJm2I/brit-hume-twitters-reasons-for-banning-trump-are-pure-editorial-judgments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/05/21/931/524/694940094001_6039386401001_6039384532001-vs.jpg?ve=1&tl=1",
+          "width": 931,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/brit-hume-twitters-reasons-for-banning-trump-are-pure-editorial-judgments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brit-hume-twitters-reasons-for-banning-trump-are-pure-editorial-judgments.amp",
+      "publishedDateTime": "2021-01-09T10:34:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "The Great GOP Migration: How South Florida became a shadow capital for Trump conservatives"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Brittney Reed needed to get in front of Donald Trump and it had to happen fast. It was the eve of two special elections in Louisiana, and Reed--the head of the Louisiana GOP--knew an endorsement from Trump could ..."
+    publishedDateTime: 2021-04-10T13:28:00Z
+    webUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/6071a7c54943790018bb1c96?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ytoKEyfuuvLPdbqWNqZOP6Xit4afeYrfDnSrmwGfR91phfa3iwqAjufpwLfvBaBEk9C67TGhck/EiGghaXpn79+bPwJ0+GG1CzmBKCBMN+t9yURz0sxmvuOc+R33HPrTi4l5jS70FY7j7Cw9vOljisCLrJpkKoyMJG5157JLcLDuFdSbg3jSK/qTKQm5i2PP1rvAR6KXclkSpJRGCG0EZsWO56w1M7Xu6n7yH1tGJv2mkTEsO1q9VPM6uhcPDkvm/sKGFhnxmlNaZpiOPOKjJ/tesbPNfdXz4FE2x4PdAYLcd7g5ef2PUOndt/1mo9OXGC3UtEC/e6gM6mS7C43Av1tOnJLaJvB5YAWSYB++SYmyz0/FOwlxVIJ7ZZ0lDzcFkylmjgSMxoXiMXEqBFJ59lPisAlBR/ci/etY0hh2FDgDBG6p95WvKhcz6vweLvxHQ6ZuVplTUX9815E5CjsP8cMYE4OTynkYu895on+Oov0YpWzM8XNpU8ySD+rbNIFSxfzwTFqlsRRPQacbwn5cqQ==;GtR6hn31pFClyXd8cRa+JA=="
 ---

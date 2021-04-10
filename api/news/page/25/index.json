@@ -2,58 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2021-03-03-trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid.md",
-      "title": "Trump endorses SC’s Tim Scott in 2022 Senate reelection bid",
-      "excerpt": "Former President Donald Trump endorsed U.S. Sen. Tim Scott’s 2022 reelection bid Tuesday, continuing to make clear his intent to remain a dominant force in Republican Party politics. Trump issued a statement through his Save America PAC,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 360,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-02T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-biden-administration-argues-migrant-surge-is-a-challenge-not-a-crisis.md",
       "title": "Biden administration argues migrant surge is a 'challenge,' not a 'crisis'",
       "excerpt": "President Biden is declining to call the situation at the southern border a crisis – even amid reports that his administration needs another 20,000 beds at migrant facilities to deal with a surge of unaccompanied minors.",
@@ -1346,6 +1294,58 @@
       "topics": [
         "Election",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-mike-pence-lags-well-behind-key-gop-contenders-for-a-2024-presidential-run-in-cpac-poll.md",
+      "title": "Mike Pence Lags Well Behind Key GOP Contenders for a 2024 Presidential Run in CPAC Poll",
+      "excerpt": "Only 1 percent of CPAC attendees surveyed said they would vote for Pence if the GOP primary for president were held today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-lags-well-behind-key-gop-contenders-2024-presidential-run-cpac-poll-1572842",
+      "originalUrl": "https://www.newsweek.com/mike-pence-lags-well-behind-key-gop-contenders-2024-presidential-run-cpac-poll-1572842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1745217/mike-pence-joe-bidens-inauguration-2021.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-lags-well-behind-key-gop-contenders-2024-presidential-run-cpac-poll-1572842?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-lags-well-behind-key-gop-contenders-2024-presidential-run-cpac-poll-1572842?amp=1",
+      "publishedDateTime": "2021-03-01T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     }
   ],

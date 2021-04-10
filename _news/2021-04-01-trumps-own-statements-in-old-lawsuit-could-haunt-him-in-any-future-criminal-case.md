@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence signs a seven-figure book deal, but Trump and other administration alums face a tough market in publishing"
-    excerpt: "Mike Pence has signed a multimillion-dollar, two-book deal with publisher Simon & Schuster, making him one of the first alums of former President Donald Trump's inner circle to ink such a lucrative contract.\n    \n"
-    publishedDateTime: 2021-04-07T20:51:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F-yC99mym3c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 179
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120162607-mike-pence-joe-biden-inauguration-01202021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Pentagon announces new policies to abolish Trump administration's transgender military ban"
     excerpt: "The Pentagon has announced new policies to abolish the Trump administration's ban on transgender troops serving in the US military following a 60-day review initiated after President Joe Biden signed an executive order repealing the ban shortly after he took office in January.\n    \n"
     publishedDateTime: 2021-03-31T20:34:10Z
@@ -252,6 +236,22 @@ related:
     quality: 131
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence signs a seven-figure book deal, but Trump and other administration alums face a tough market in publishing"
+    excerpt: "Washington (CNN)Mike Pence has signed a multimillion-dollar, two-book deal with publisher Simon & Schuster, making him one of the first alums of former President Donald Trump's inner circle to ink such a lucrative contract. Two people in the publishing ..."
+    publishedDateTime: 2021-04-07T16:51:00Z
+    webUrl: "https://www.cnn.com/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120162607-mike-pence-joe-biden-inauguration-01202021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

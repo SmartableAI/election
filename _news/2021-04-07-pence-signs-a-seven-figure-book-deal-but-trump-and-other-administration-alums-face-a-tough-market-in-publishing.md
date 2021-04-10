@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Pence signs a seven-figure book deal, but Trump and other administration alums face a tough market in publishing"
-excerpt: "Mike Pence has signed a multimillion-dollar, two-book deal with publisher Simon & Schuster, making him one of the first alums of former President Donald Trump's inner circle to ink such a lucrative contract.\n    \n"
-publishedDateTime: 2021-04-07T20:51:44Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F-yC99mym3c/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F-yC99mym3c/index.html"
+excerpt: "Washington (CNN)Mike Pence has signed a multimillion-dollar, two-book deal with publisher Simon & Schuster, making him one of the first alums of former President Donald Trump's inner circle to ink such a lucrative contract. Two people in the publishing ..."
+publishedDateTime: 2021-04-07T16:51:00Z
+originalUrl: "https://www.cnn.com/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
+webUrl: "https://www.cnn.com/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
 type: article
-quality: 179
+quality: 129
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Democratic Voice
   - Mike Pence
+  - Democratic Voice
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120162607-mike-pence-joe-biden-inauguration-01202021-super-tease.jpg"
@@ -327,6 +327,6 @@ related:
         height: 773
         isCached: true
 
-secured: "nujUZYv/aGnv6JRLLILbVwNH/4rBNXQE2mbn2i0upxq4PGVEOlX0rLxtZWfb2Zp0Rz3j7vhGqMOmAzz539ucPTqVybnKIhzzSyx+IJqxo0k7dshAki9LJed+3Yp06bisCdxDacFruXN5XBi4EuVg/ZpGgB/32/TzbE2NvURvbc2ldcLE9kru5YzCvwJ5HSCAbn9+r9ktHTO0YUFWLPRcnhVBV/qFthgPJjBcXzEaUeEtTknwY4Xpyu51+Hoy8/hv+T8J6z1VFR9qkgCLA1sbnTaZ/P4u6JHJf0mk0YcrSAFXPR/SiZaUWM56T9AlMu+G85eY2kTVGp2JW5uyz/g82n2ZLV90QexBDrtuPZzBF3U=;1eKehimgjocbxRXsaeXMZw=="
+secured: "2UEvKNusgXw853sSj7b7M0nH9mFij/oUozXolNOV2bDGD6PHakL0bJeUx2ENv2Dd4wppVaY5mERuCTdMRNJL57g2RWUeTex1FplbRsveAJ3YCF145mntLpMbS6W43d0ITS1C6unZcn3hxD2fZ9M0AIgp/j3QenstOPO74JmqZINZM/SKneI8FhCREEkUi0qONh9YpY/qzZbRqGoBBmGCrwJPFYPekd+LNI2z2UrUah321Yd3N03xjB6awm940nR2x9SPtGpXt878cFWWTyacAVwyzBDmVLZr47YFs2oVww4TkkBs4fCxaZVipZ9L6BrGVph5YJTFCGFCTUTqoP37/20RVvacy/kpDk7Q/JCs/gg=;IEOc3agsuoo9jgVNi6kE4w=="
 ---
 

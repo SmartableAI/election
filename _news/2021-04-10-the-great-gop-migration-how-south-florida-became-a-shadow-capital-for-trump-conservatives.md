@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Donald Trump Jr., Kimberly Guilfoyle pay $9.7 million for Admirals Cove home in Jupiter"
-excerpt: "After months of house hunting, Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are Palm Beach County homeowners. On Wednesday, the high-profile couple paid $9.7 million for a waterfront home in Admirals Cove, an exclusive gated community in Jupiter."
-publishedDateTime: 2021-04-01T21:03:00Z
-originalUrl: "https://www.usatoday.com/story/news/2021/03/31/donald-trump-jr-and-kimberly-guilfoyle-buy-9-7-million-jupiter-home/4818798001/"
-webUrl: "https://www.usatoday.com/story/news/2021/03/31/donald-trump-jr-and-kimberly-guilfoyle-buy-9-7-million-jupiter-home/4818798001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4818798001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4818798001"
+title: "The Great GOP Migration: How South Florida became a shadow capital for Trump conservatives"
+excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Brittney Reed needed to get in front of Donald Trump and it had to happen fast. It was the eve of two special elections in Louisiana, and Reed--the head of the Louisiana GOP--knew an endorsement from Trump could ..."
+publishedDateTime: 2021-04-10T13:28:00Z
+originalUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4"
+webUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4"
+ampWebUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
 type: article
-quality: 117
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/10/22/NPPP/83afa231-2893-4dbb-a3ab-781026601a69-IMG-6435.JPG?auto=webp&crop=827,466,x0,y157&format=pjpg&width=1200"
+  - url: "https://i.insider.com/6071a7c54943790018bb1c96?width=1200&format=jpeg"
     width: 1200
-    height: 676
+    height: 600
     isCached: true
 
 related:
@@ -63,23 +63,23 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "The Great GOP Migration: How South Florida became a shadow capital for Trump conservatives"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Brittney Reed needed to get in front of Donald Trump and it had to happen fast. It was the eve of two special elections in Louisiana, and Reed--the head of the Louisiana GOP--knew an endorsement from Trump could ..."
-    publishedDateTime: 2021-04-10T13:28:00Z
-    webUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-south-florida-became-the-conservative-shadow-capital-2021-4?amp"
+  - title: "Donald Trump Jr., Kimberly Guilfoyle pay $9.7 million for Admirals Cove home in Jupiter"
+    excerpt: "After months of house hunting, Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are Palm Beach County homeowners. On Wednesday, the high-profile couple paid $9.7 million for a waterfront home in Admirals Cove, an exclusive gated community in Jupiter."
+    publishedDateTime: 2021-04-01T21:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/03/31/donald-trump-jr-and-kimberly-guilfoyle-buy-9-7-million-jupiter-home/4818798001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4818798001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4818798001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/6071a7c54943790018bb1c96?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NPPP/83afa231-2893-4dbb-a3ab-781026601a69-IMG-6435.JPG?auto=webp&crop=827,466,x0,y157&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 676
         isCached: true
 
-secured: "CHQqwk7s3m6A8nqEkD+dSpBgOhYxh80GQ5j7j+z+DzCT3o+QCwut4zFSw4S2ATKMuQLqLGTRQEEX5fOnhKuuojSU95C+ZGRZTqul3MMYiFyjGYt16O0mEU6HYUpGp5iI+hz5WTFP2ObPUg4Jp1o435DpQjpQ2c+JyOLszByYdopLj6toDQrtfnU0Mji7OzT9fkTSt/DjMbn0STCAM8pHBnCZyi4rG4jeDwpfes6qgYFknhsYlRZZL90Hx23W9VSiQQjj4w18YUmvlwhNcup6q2NgU/wELdBrt0hCBIkfj1GXcgEFHmJQiTA1UQdQLWSAJIm6iq+FbsFaPDoyPc4Kq1BzCp11mETj440unaByYok=;FHC7AW0/lamUJpiGq2hlvQ=="
+secured: "9ZxO+w92+06+sqR2j+59z3AFuN9LaIzwygXPoWv/koIR5/yqCKFkY+GLniioJ06Jtc+iudF1xauU+oMXeywbcCN2qq5lhPWql2PuzLeFCXHKh5UjPk54hDFsCSFjm52cbp6D0SwjuRhHmHAl2Nz+dlrAT+vtcCQ/iHBqm3Q/v7gjCHXwcnLGxO78zdcDQPe9RWPmAcVhGritIVm0q6BOwFPKusNleBM47PtGLUFPPleh5l6N78K8RtQKqQQCTOYabWQFuwbVl1XqA+/N6yhO4D4IojNmmjhw6rSDlF4sACdHu0SrmAHiYCmaVNoWuW9FrBXJgiQmreh+kv3d2tWG9V5F9A/MW8Ey4BOYzB4XrZU=;7mGdRpaoN3gSmtVdkptUwQ=="
 ---
 

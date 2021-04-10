@@ -2,62 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2021-03-12-manhattan-district-attorney-cy-vance-who-sought-trumps-tax-returns-to-retire.md",
-      "title": "Manhattan District Attorney Cy Vance, who sought Trump's tax returns, to retire",
-      "excerpt": "Manhattan District Attorney Cyrus Vance Jr., a longtime foe of former President Donald Trump, will not run for re-election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/DAVance1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
-      "publishedDateTime": "2021-03-12T05:17:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-12-cyrus-vance-prosecutor-investigating-trump-wont-seek-reelection.md",
       "title": "Cyrus Vance, prosecutor investigating Trump, won't seek reelection",
       "excerpt": "Vance's most high-profile current case is a wide-ranging criminal investigation of former President Donald Trump. The investigation initially targeted alleged hush-money payments made during the 2016 campaign to adult film star Stormy Daniels by Mr. Trump ...",
@@ -1342,6 +1286,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp",
       "publishedDateTime": "2021-03-10T15:23:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-biden-adviser-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.md",
+      "title": "Biden adviser botches her Spanish, mistakenly tells migrants border is 'not closed'",
+      "excerpt": "However, Jacobson had a slip of the tongue when she translated the message to Spanish, mistakenly saying “la frontera no está cerrada.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kb1acOOYMT0/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kb1acOOYMT0/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cb18237-90c1-4faf-aecc-6abd2f6fb9df/295238a8-7d1e-4b53-a9a2-f1b92b37795d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp",
+      "publishedDateTime": "2021-03-10T15:20:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

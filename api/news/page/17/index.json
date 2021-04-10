@@ -2,58 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-03-17-trump-to-be-interviewed-by-foxs-bartiromo.md",
-      "title": "Trump to be interviewed by Fox's Bartiromo",
-      "excerpt": "Former President Trump will appear on “Fox News Primetime” with host Maria Bartiromo on Wednesday night at 7 p.m., the former president’s office announced in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
-      "originalUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpcpac2_030121getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
-      "publishedDateTime": "2021-03-16T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-16-biden-tells-americans-to-keep-wearing-masks-until-everyone-is-in-fact-vaccinated.md",
       "title": "Biden tells Americans to keep wearing masks 'until everyone is, in fact, vaccinated'",
       "excerpt": "President Biden wants Americans to wear face masks to prevent the spread of coronavirus \"until everyone is, in fact, vaccinated.\"",
@@ -1333,6 +1281,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-the-political-history-of-mike-lindell-mypillow-ceo-and-trump-ally-timeline.md",
+      "title": "The political history of Mike Lindell, MyPillow CEO and Trump ally: timeline",
+      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3",
+      "originalUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/604ccf5f10c8760018b93165?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3?amp",
+      "publishedDateTime": "2021-03-14T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,62 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2021-03-17-biden-border-wall-freeze-unlawful-40-gop-senators-tell-gao-in-letter.md",
-      "title": "Biden border wall freeze unlawful, 40 GOP senators tell GAO in letter",
-      "excerpt": "A group of 40 GOP senators on Wednesday asked the Government Accountability Office to decide whether President Biden's decision to freeze more than $1 billion in congressionally approved border wall funding violates federal law.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021726310142-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp",
-      "publishedDateTime": "2021-03-17T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-17-biden-may-not-be-tough-enough-to-stand-up-to-aoc-bernie-sanders-on-filibuster-tom-cotton.md",
       "title": "Biden 'may not be tough enough' to stand up to AOC, Bernie Sanders on filibuster: Tom Cotton",
       "excerpt": "On Wednesday, Sen. Tom Cotton R-Ark., warned against ending the filibuster and said that President Biden may not be tough enough to stand up against far-left Democrats like Alexandria Ocasio-Cortez and Bernie Sanders.",
@@ -1365,6 +1309,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-trump-to-be-interviewed-by-foxs-bartiromo.md",
+      "title": "Trump to be interviewed by Fox's Bartiromo",
+      "excerpt": "Former President Trump will appear on “Fox News Primetime” with host Maria Bartiromo on Wednesday night at 7 p.m., the former president’s office announced in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
+      "originalUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpcpac2_030121getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
+      "publishedDateTime": "2021-03-16T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],
