@@ -2,11 +2,11 @@
 category: news
 title: "Biden's budget meets criticism from right and left on Pentagon spending"
 excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply hike spending on climate change, cancer and underperforming schools, but his first budget wishlist on Friday drew howls of bipartisan concern over military spending. The $1.5 ..."
-publishedDateTime: 2021-04-09T23:20:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-biden-budget-idUKKBN2BW2BL"
-webUrl: "https://www.reuters.com/article/uk-usa-biden-budget-idUKKBN2BW2BL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW2BL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW2BL"
+publishedDateTime: 2021-04-10T08:51:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-budget-idUSKBN2BW190"
+webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idUSKBN2BW190"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW190"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW190"
 type: article
 quality: 125
 heat: -1
@@ -627,6 +627,6 @@ related:
         height: 433
         isCached: true
 
-secured: "B9m9o0aliL5cK+Sbm8+6ApxIIrHvVUFp/qqUxZYGSTORqbUsT7X5kXRP92lxql5TQ+rPIgwm8XZlJC2F6rbcgcXO4SZQh9vv192bI1BOuNpwvDQiW644tuwSIMEKzT9Jr0jGFBEuFyVRtmp5nima8yBgZ6R+xs7LRN3+jWh2xZPrBR82x+LfwtNlmu4nFd7SXLVWsfUIIXG14PrqB5hMmR9Vsvo2vcRzJGd6Ei/d5hRT1K24ZM6ViZXX9RTCOv8wsK+ojmxPjAZPBeDigJ6yRr1S21b+ZiZjePnbX5WxhkmUPVwBLZ4MX9yrTGNTfTuMTrlatV6ITOhEKOmxOW23OToh9//ZPLCalwaA6YIXpBI=;e0xL9a1q9a+CHnyx4jylNQ=="
+secured: "hocvpqsnn1EE96JA0uySkOLZ8Ew4lb1eN7/hhPcTEPVSLD8+9i8IeGv5SXZbh1e/BPMHe7aZrIRy/nA1J5q1Gqs7dZ2GlttZoL9nAAn9xW/ftL3oLXPG6PGyY3YZxsXNxKIFwRqFyUF4087aAUWhcQQfjHFfxnpmL57ddlh+xzCqM9pdFKJG/JlX7X0+Su4MWwNc5AQhBk66hMNk4LyLNoIELupVOvWsoP06yDuUd6AHUQdrxysVU7nsrIpNms0RHuPRusTcCuVJdO1+weideDC566rcfMHHBHPCsS59P54Fr2j7UPCdLrXDgHOHtteFCJiYg7+I6Hnic342hyk6yAsxgXTJFdkRg+YXvXnyEA8=;6W0eM5LWHEXyZMJ0dDLcKA=="
 ---
 

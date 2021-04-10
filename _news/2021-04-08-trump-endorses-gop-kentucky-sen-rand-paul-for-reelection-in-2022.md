@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-ran
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
 type: article
 quality: 190
-heat: 370
+heat: 390
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump, GOP hosting big-money Mar-a-Lago blowout"
+    excerpt: "Former President Trump will address a Republican National Committee soiree at Mar-a-Lago for hundreds of top donors Saturday night, sources said. “These are all donors in the hundreds of"
+    publishedDateTime: 2021-04-10T16:48:00Z
+    webUrl: "https://nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/"
+    ampWebUrl: "https://nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/Mar-a-Lago-003.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
     excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."

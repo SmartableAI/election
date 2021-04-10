@@ -385,10 +385,10 @@ related:
         isCached: true
   - title: "Biden's budget meets criticism from right and left on Pentagon spending"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply hike spending on climate change, cancer and underperforming schools, but his first budget wishlist on Friday drew howls of bipartisan concern over military spending. The $1.5 ..."
-    publishedDateTime: 2021-04-09T23:20:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-budget-idUKKBN2BW2BL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW2BL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW2BL"
+    publishedDateTime: 2021-04-10T08:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idUSKBN2BW190"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW190"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW190"
     type: article
     provider:
       name: Reuters

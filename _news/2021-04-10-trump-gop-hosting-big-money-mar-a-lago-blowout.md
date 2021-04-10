@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Trump endorses Ron Johnson early: 'Run, Ron, Run!"
-excerpt: "Republican Sen. Ron Johnson of Wisconsin hasn't announced yet whether he'll run for reelection next year. But that's not stopping former President Donald Trump from encouraging Johnson to seek a third six-year term in the Senate."
-publishedDateTime: 2021-04-08T18:03:48Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin"
-ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
+title: "Trump, GOP hosting big-money Mar-a-Lago blowout"
+excerpt: "Former President Trump will address a Republican National Committee soiree at Mar-a-Lago for hundreds of top donors Saturday night, sources said. “These are all donors in the hundreds of"
+publishedDateTime: 2021-04-10T16:48:00Z
+originalUrl: "https://nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/"
+webUrl: "https://nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/"
+ampWebUrl: "https://nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/amp/"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/Mar-a-Lago-003.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -69,6 +66,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LMuSuGaYDxA/trump-endorses-mo-brooks-alabama-senate-race"
     ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-mo-brooks-alabama-senate-race.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-mo-brooks-alabama-senate-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump endorses Ron Johnson early: 'Run, Ron, Run!"
+    excerpt: "Republican Sen. Ron Johnson of Wisconsin hasn't announced yet whether he'll run for reelection next year. But that's not stopping former President Donald Trump from encouraging Johnson to seek a third six-year term in the Senate."
+    publishedDateTime: 2021-04-08T18:03:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp"
     type: article
     provider:
       name: Fox News
@@ -159,22 +172,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump, GOP hosting big-money Mar-a-Lago blowout"
-    excerpt: "Former President Trump will address a Republican National Committee soiree at Mar-a-Lago for hundreds of top donors Saturday night, sources said. “These are all donors in the hundreds of"
-    publishedDateTime: 2021-04-10T16:48:00Z
-    webUrl: "https://nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/"
-    ampWebUrl: "https://nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/10/trump-gop-hosting-big-money-mar-a-lago-blowout/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/Mar-a-Lago-003.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
     excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."
     publishedDateTime: 2021-04-07T16:12:00Z
@@ -192,6 +189,6 @@ related:
         height: 340
         isCached: true
 
-secured: "fRpJTS5jmVGXr+cBZpCk3Nbb52UrRWBaabrHCfjQaPxeePz/c/WLljIC4GWQXUZZuUn4pp7XD9JO6kEGX9Vh9Cmn9EfO3CSMDQv00hosBBrSry6JcjQVkdAEOHiD3H+LzjytyCRwGsiHYbeIyGVmjbyTJBDoRb3GOaXCsMjs7TD97sryO5Cfehz3FflgBQ+dokdjSotw72LbC9IT/FPwQLnem9Bg059ep26ug8iDBYA9ZimBaBwqfGNuoocqNako9sTvj19hZ+EKgcKz4AY54OSy3vzxj20ZXZlhDZcKEou6pM8b9dhCMDqwoJPeBogDY5mkmOgrLVUxoW08JWU8gaZQOVfjiq1ZMIfuOPfyKJI=;vmyuflxZ8pp/oPrUNSuyRw=="
+secured: "i2vpEtu20g6d/Ft/S8Yt2ENhoYU7SytjRsPg9WOSOmu0Rjzgb8RgmkYn70Xxe7w9BZQZD8B2jHa5nBcXnjBOunbh0JxE9JhSVzdKk8gRW32iuEzHqb+OqdKDp6JZXGz5TG72AAY7cZ/nxWybd+16hISwqgz2p0D5uJsnSxJp5dDVo9eLOgovE7eL+b/9YVrBeRAVatlowg1mDiOgUrkcU367fwqxxmuZn/Iw9Q7LOCvXy9zu6UC1LWzcErnXLMwHJRiXQVvwrU6EDQIkUxWg99NIhCJWtpgRwZvZWZemnjua7pMqqM7Ruh5HzB8NQpVjX5+fHpOeZOcTeVrIz5sARaBQAdncHBeAg+GRk4b0GBE=;qF6fzVB6T/3hnv2mAwqPpA=="
 ---
 
