@@ -92,6 +92,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump to rally GOP at Mar-a-lago and preview pathway for Republican victories"
+    excerpt: "Former President Trump will address a major Republican National Committee gathering Saturday night where he's expected to say that if Republicans stick to an \"America First\" agenda the GOP will win back Congress in 2022 and take back the White House in 2024."
+    publishedDateTime: 2021-04-10T21:27:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4LN8tpNf9SA/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump's Save America PAC has $85M on hand ahead of 2022 midterms, potential 2024 run: source"
     excerpt: "Former President Trump's super PAC has $85 million cash on hand ahead of the 2022 midterm elections and as the former president hints at a potential 2024 run, Fox News has learned."
     publishedDateTime: 2021-04-08T15:40:20Z
@@ -171,6 +187,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump to rally GOP at Mar-a-lago and preview pathway for Republican victories"
+    excerpt: "Former President Trump will address a major Republican National Committee gathering Saturday night where he's expected to say that if Republicans stick to an \"America First\" agenda the GOP will win back Congress in 2022 and take back the White House in 2024."
+    publishedDateTime: 2021-04-10T21:31:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
     excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."

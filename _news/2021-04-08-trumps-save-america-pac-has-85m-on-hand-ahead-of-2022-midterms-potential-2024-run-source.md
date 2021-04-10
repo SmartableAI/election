@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump to rally GOP at Mar-a-lago and preview pathway for Republican victories"
+    excerpt: "Former President Trump will address a major Republican National Committee gathering Saturday night where he's expected to say that if Republicans stick to an \"America First\" agenda the GOP will win back Congress in 2022 and take back the White House in 2024."
+    publishedDateTime: 2021-04-10T21:27:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4LN8tpNf9SA/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
     excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms. \"Rand Paul has done a fantastic job for our Country, and for the incredible people of ..."
     publishedDateTime: 2021-04-08T22:01:00Z
@@ -174,6 +190,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/Mar-a-Lago-003.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump to rally GOP at Mar-a-lago and preview pathway for Republican victories"
+    excerpt: "Former President Trump will address a major Republican National Committee gathering Saturday night where he's expected to say that if Republicans stick to an \"America First\" agenda the GOP will win back Congress in 2022 and take back the White House in 2024."
+    publishedDateTime: 2021-04-10T21:31:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
     excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."

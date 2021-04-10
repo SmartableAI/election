@@ -1417,6 +1417,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris Has a New Desk-and It May Be Better Than Joe Biden's"
+    excerpt: "But the second-in-command has never had such a lofty tradition—until now. Kamala Harris, our nation's first female and woman of color vice president, is finally getting a historic piece worthy of her status. As we know, Joe Biden ultimately selected the ..."
+    publishedDateTime: 2021-04-09T19:40:00Z
+    webUrl: "https://www.chron.com/realestate/article/Kamala-Harris-Has-a-New-Desk-and-It-May-Be-16089723.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 80
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/42/11/20849248/3/rawImage.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
     excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
     publishedDateTime: 2021-02-03T00:00:00Z
@@ -1687,20 +1701,6 @@ related:
       name: The Fresno Bee
       domain: fresnobee.com
     quality: 70
-  - title: "Kamala Harris Has a New Desk-and It May Be Better Than Joe Biden's"
-    excerpt: "But the second-in-command has never had such a lofty tradition—until now. Kamala Harris, our nation's first female and woman of color vice president, is finally getting a historic piece worthy of her status. As we know, Joe Biden ultimately selected the ..."
-    publishedDateTime: 2021-04-09T19:40:00Z
-    webUrl: "https://www.chron.com/realestate/article/Kamala-Harris-Has-a-New-Desk-and-It-May-Be-16089723.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 70
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/42/11/20849248/3/rawImage.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Biden, Harris, Blinken meet with members of the Quad from the White House"
     excerpt: "Vice President Kamala Harris and President Joe Biden (not shown) meet virtually with the 'Quad,' Prime Minister Narendra Modi of India, Prime Minister Scott Morrison of Australia, and Prime Minister Yoshihide Suga of Japan,"
     publishedDateTime: 2021-03-12T14:44:00Z

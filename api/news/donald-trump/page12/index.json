@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-26-deborah-birx-said-trump-was-being-given-parallel-data-on-covid-19.md",
+      "title": "Deborah Birx said Trump was being given ‘parallel data’ on covid-19",
+      "excerpt": "Deborax Birx saw Trump presenting graphs that she never made, the former White House coronavirus response coordinator said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/600dddea4cedfd000169c37a/2021-01-24T204202Z_1_OVDWKJOWV_RTRMADC_0_HEALTH-CORONAVIRUS-USA.jpg&w=1440",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/?outputType=amp",
+      "publishedDateTime": "2021-01-25T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims.md",
       "title": "Trump lawyer Giuliani faces Dominion lawsuit for 'big lie' election fraud claims",
       "excerpt": "A U.S. voting machine company sued former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,",
@@ -1522,58 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26.md",
-      "title": "White House confirms Trump lifting EU, Brazil travel restrictions Jan. 26",
-      "excerpt": "U.S. President Donald Trump on Monday rescinded entry bans imposed because of the coronavirus on most non-U.S. citizens arriving from Brazil and much of Europe effective Jan. 26, the White House said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250189&r=LYNXMPEH0I00B&w=800",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

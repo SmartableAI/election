@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-second-amendment-no-amendment
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-second-amendment-no-amendment-is-absolute.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republicans slam Biden plan to send cash payments to Central America: 'This is madness'"
+    excerpt: "Republicans are reacting with anger and disbelief to a proposal by the Biden administration to send cash payments to Central America as a way to combat the migrant crisis -- describing the plan as “madness.”"
+    publishedDateTime: 2021-04-10T21:09:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P1CleKJM9vA/republicans-biden-plan-cash-payments-central-america-madness"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-plan-cash-payments-central-america-madness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-plan-cash-payments-central-america-madness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bff95976-64f2-4ff9-9897-8f76dc796397/b14a08f7-779d-4b67-8f00-f7fceb88531b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Hawley: Biden ultimately seeks civilian gun confiscation, while permitting rioters and crime"
     excerpt: "Sen. Josh Hawley, R-Mo., said Thursday that President Biden sent the message earlier in the day that he has no regard for the Second Amendment despite words to the contrary, while it is evident gun confiscation is the true endgame for him."
     publishedDateTime: 2021-04-09T03:31:14Z

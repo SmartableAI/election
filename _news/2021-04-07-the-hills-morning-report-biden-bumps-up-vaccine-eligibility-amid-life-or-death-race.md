@@ -127,6 +127,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Nearly 40% of Marines decline COVID vaccine, prompting some Democrats to urge Biden to set mandate for military"
+    excerpt: "Nearly 40% of United States Marines who have been offered the COVID-19 vaccine have declined it, according to the Pentagon. Of the 123,500 Marines that have had access to the vaccine, 75,500 Marines are either fully vaccinated or have only received one ..."
+    publishedDateTime: 2021-04-10T21:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/10/covid-vaccine-nearly-forty-percent-us-marines-decline/7173918002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7173918002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7173918002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/a5dbf9d3-615a-4fab-8350-33f576afc6f9-AP_Virus_Outbreak_Ramadan_Vaccine.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NkE/AJ9d1YjdcoG++3Eu/whPbeMaHgYadzv6knerCb6sNv4TmiQ7yi4yBhComPKa8fIMgPB5PKgeM+BDZw/Mma2w7lQ0fTf/hCeA5JKtgsNxt62L94nlQ0kLiyCmffiA+WqrPLqi9E7R96oqU11pCjq4zRg8N0w3Ud9wErvflKREtUipGmLWUja3VeOV9i2jbo80tZOGquUqYSyA4W68lzeNVTd3P7cMojMBCt0OR+IzRQgwi8cU+hIapge3CEd0bNX9wR7fdZKgL69gudu8tOuxocdneCqu8S5ncJBW1Bob/IZe1fbFyu0N0vkclq0eHhmYfQHg/umf4vWxvAYUMYevdEw+G9lIsh927iqxbAKkZKZB0vQy1jjKnAQQlJ++Du1F7SvkV3kJNGTtKveCP6R/wfWhiCX+6YaS1XksJRN9MBKv8aj0M9fbKmdV74dYviZZgnpq/CPvLNYWAdPQRbBUGhRE9RSAqoMbqPSkyOvBXkARBtjOJhKdmhQ3bbjcTN5yNaPzVlYWbyM2zBAWng==;ec5CDV1tt9xP+9kqeSAjwA=="
 ---

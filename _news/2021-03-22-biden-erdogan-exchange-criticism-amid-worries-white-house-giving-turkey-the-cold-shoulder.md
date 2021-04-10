@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration denies Whitmer's request for extra vaccines as COVID cases surge in Michigan"
+    excerpt: "The Biden administration denied a request from Michigan Gov. Gretchen Whitmer to bump up the state’s allocation of coronavirus vaccines amid a surge in new Covid-19 cases."
+    publishedDateTime: 2021-04-10T21:25:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JSPSdVpovgg/biden-administration-denies-whitmers-request-extra-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-denies-whitmers-request-extra-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-denies-whitmers-request-extra-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21090700647116-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gFbqxk8ZOpCCBVcTOTW6ks3L7nTOGGgVHnuToZ/CuGI/j2VB/YsKdT6b3SVW/mntN9b5PaS+hZA57JiI9605IkU0KdnOnaKqu9UD1KId4XMIyAwTVjUaG8ylYZKMim4GkgAi9GuQ4R1lZ1k5EDDj88cO9j6xDUx1s+78sAcx+Zp0qIaJuhBNfzzHEpmYY3W2jBXFeVOQPLbw6/XyPwHLLvh6xa5sEWrh0ntK0lkzE7iPpAd3WwdZveNd/76kwNT0AUQ4ovJHs31ISaMcQoylxTnFNYexq87VHeQtvs1/0g5ekez8YhGSRpcFgkEdjvCxrR1CMO87iNxxfBSelFHvKqQNFZLCv61gQHXKGse3cnI=;t2nXU0ztNf6Z2K811mhmJQ=="
 ---

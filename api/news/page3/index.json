@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-08-joe-biden-to-announce-executive-actions-to-address-gun-violence-live.md",
+      "title": "Joe Biden to announce executive actions to address gun violence – live",
+      "excerpt": "President to hold event at Rose Garden to formally announce actions in wake of mass shootings in Atlanta and Boulder",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 685,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/59e506e6d0a5bf4497576b19abf029f423a3dd89/0_23_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=132cc26e355e168c0db7a1767d86f425",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates",
+      "publishedDateTime": "2021-04-08T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-scalise-blasts-bidens-border-policies-calling-them-dangerous-for-kids.md",
       "title": "Scalise blasts Biden's border policies, calling them 'dangerous for kids'",
       "excerpt": "What they've done not only to these border towns, the mayors, you hear them, Democrat and Republican, expressing outrage over what President Biden created. Joe Biden created this crisis, but the child abuse and neglect that's going on, it's not just the 20 ...",
@@ -67,7 +119,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-immigration-border-idUSKBN2BV24H",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1307,63 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
-      "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
-      "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "originalUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c3/24/49791ee84b6a94e296633797d05f/210407-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "publishedDateTime": "2021-04-07T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

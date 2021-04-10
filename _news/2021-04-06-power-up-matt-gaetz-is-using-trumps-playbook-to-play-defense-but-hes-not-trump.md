@@ -774,6 +774,22 @@ related:
         width: 3000
         height: 2221
         isCached: true
+  - title: "Trump expected to affirm commitment to GOP, raise possibility of other Republican nominee in 2024 at closed-door speech"
+    excerpt: "PALM BEACH, FLA. — Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee — in a closed-door speech to donors Saturday night."
+    publishedDateTime: 2021-04-10T21:31:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Xexi3r3dhHtKuB8GAyUqHGiM5uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEKHRJJYY27CJC2Z7CIIF7FIE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Trump campaign reportedly cheated donors who thought they were making a one-time contribution, collecting recurring donations"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In what seemed to be an effort to bolster political contributions in the heat of the 2020 election against now President Joe Biden, the Trump 2020 campaign reportedly duped supporters into making recurring ..."
     publishedDateTime: 2021-04-03T20:13:00Z

@@ -766,6 +766,22 @@ related:
         width: 3000
         height: 2221
         isCached: true
+  - title: "Trump expected to affirm commitment to GOP, raise possibility of other Republican nominee in 2024 at closed-door speech"
+    excerpt: "PALM BEACH, FLA. — Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee — in a closed-door speech to donors Saturday night."
+    publishedDateTime: 2021-04-10T21:31:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Xexi3r3dhHtKuB8GAyUqHGiM5uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEKHRJJYY27CJC2Z7CIIF7FIE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Power Up: Matt Gaetz is using Trump's playbook to play defense. But he's not Trump."
     excerpt: "EITHER RIGHT NOW: “Republicans are attacking corporations over their decision to condemn the controversial Georgia voting law, part of the party’s embrace of the populism espoused by President Donald Trump,” our colleagues Marianna Sotomayor and Todd C."
     publishedDateTime: 2021-04-06T11:04:00Z

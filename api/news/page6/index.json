@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-05-gop-loudly-voicing-concerns-about-debt-under-biden-eerily-quiet-under-trump.md",
+      "title": "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump",
+      "excerpt": "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "publishedDateTime": "2021-04-04T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.md",
       "title": "Hunter Biden convinced 'reluctant' Joe to publicly support his relationship with Beau's widow Hallie",
       "excerpt": "Hunter Biden convinced his father Joe in early 2017 to put out a statement approving of the affair he was having with his deceased brother Beau's widow, Hallie Biden, telling Joe that if he didn't, the relationship would \"seem wrong.\"",
@@ -1301,58 +1358,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-actress-cirsten-weldon-says-china-paid-joe-biden-to-test-weather-warfare-on-texas.md",
-      "title": "Actress Cirsten Weldon Says China Paid Joe Biden to Test 'Weather Warfare' on Texas",
-      "excerpt": "Former actress Cirsten Weldon has claimed that China paid President Joe Biden \"billions of dollars\" to test their \"weather warfare\" weapons in the United States. The weapon allegedly caused extreme winter storms to hit Texas. Right Wing Watch posted a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823",
-      "originalUrl": "https://www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771279/cirsten-weldon-china-weather-weapons-texas-biden.jpg",
-          "width": 2500,
-          "height": 1787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/actress-cirsten-weldon-says-china-paid-joe-biden-test-weather-warfare-texas-1580823?amp=1",
-      "publishedDateTime": "2021-04-02T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

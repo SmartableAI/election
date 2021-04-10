@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-09T19:40:00Z
 originalUrl: "https://www.chron.com/realestate/article/Kamala-Harris-Has-a-New-Desk-and-It-May-Be-16089723.php"
 webUrl: "https://www.chron.com/realestate/article/Kamala-Harris-Has-a-New-Desk-and-It-May-Be-16089723.php"
 type: article
-quality: 70
+quality: 80
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://s.hdnux.com/photos/01/17/42/11/20849248/3/rawImage.jpg"

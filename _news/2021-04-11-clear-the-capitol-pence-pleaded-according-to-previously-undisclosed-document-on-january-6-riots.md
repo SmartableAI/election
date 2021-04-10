@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "‘Clear the Capitol,’ Pence pleaded, timeline of riot shows"
-    excerpt: "WASHINGTON (AP) — From a secure room in the Capitol on Jan. 6, , Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand. “Clear the Capitol,” Pence said. Elsewhere in ..."
-    publishedDateTime: 2021-04-10T19:00:00Z
-    webUrl: "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows"
-    ampWebUrl: "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows/amp"
+  - title: "'Clear the Capitol,' Pence pleaded, timeline of riot shows"
+    excerpt: "Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand. “Clear the Capitol,” Pence said. Elsewhere in the building, Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi were making a similarly dire appeal to military leaders,"
+    publishedDateTime: 2021-04-10T21:23:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
     type: article
     provider:
-      name: The Times Leader
-      domain: timesleader.com
+      name: Our Midland MI
+      domain: ourmidland.com
     quality: 75
     images:
-      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "‘Clear the Capitol,’ Mike Pence pleaded, timeline of riot shows"
     excerpt: "At 4:08 p.m. on Jan. 6, as the rioters roamed the Capitol and after they had menacingly called out for Pelosi and yelled for Pence to be hanged, the vice president was in a secure location ..."

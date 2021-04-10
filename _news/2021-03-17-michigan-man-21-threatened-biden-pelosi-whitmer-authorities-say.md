@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-man-21-threatened-biden-pe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden administration denies Whitmer's request for extra vaccines as COVID cases surge in Michigan"
+    excerpt: "The Biden administration denied a request from Michigan Gov. Gretchen Whitmer to bump up the state’s allocation of coronavirus vaccines amid a surge in new Covid-19 cases."
+    publishedDateTime: 2021-04-10T21:25:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JSPSdVpovgg/biden-administration-denies-whitmers-request-extra-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-denies-whitmers-request-extra-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-denies-whitmers-request-extra-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21090700647116-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "FZPuaUpiIKkyyyDM9kHJj50rOmbwkL2OfiQu0+ePhRzqTJ882MO9FGoMDVGjZJJHiOwZ/rV0Wv+NH3WX94m7vNhhsnRR7jSsV5kseoyZTr99J3L0WRaJw88yD4i+SOlNWqgCPdgDIF2RtW+Ncm8KsfsUpXXrD/hoEqQQvjnyjp5Eav3dB55bqMTsrOWAvgOY75dKZEiG7wY73ickH/N32TlgCOGzRv7Dm1RUKSxNC3Ozx1Y4qMhpg78oRMtvzLa8PuIMcxtvBMLt0wxqogmko9Q3dgFY1/gMvi8us3WqKrlWg3PqEH6ftI2ws+X6iRrthnVmClE0yW/MnXZslHvOp9yaaEOme7NSQQyMBDC7iCA=;2+I2RtNDFXwFcZCAsyvBbw=="

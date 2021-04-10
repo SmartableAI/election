@@ -109,16 +109,30 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
-    excerpt: "Think of it as a competition for states to show why their bridge deserves rebuilt based on size, condition, traffic volume or economic significance."
-    publishedDateTime: 2021-04-10T12:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7142869002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7142869002"
+  - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
+    excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
+    publishedDateTime: 2021-04-10T15:01:00Z
+    webUrl: "https://www.businessinsider.com/amtrak-joe-brief-history-of-bidens-history-americas-railroad-2021-4"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60648df3daf0f10018f99339?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
+    excerpt: "WASHINGTON — In his new $2.25 trillion infrastructure and jobs proposal, President Joe Biden promises to fix the 10 most \"economically significant\" bridges in need of reconstruction and repair 10,000 additional smaller bridges. But the American Jobs ..."
+    publishedDateTime: 2021-04-10T12:00:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7142869002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7142869002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/74546629-b6e6-4245-9335-f0bcc8799474-Miami_bridge.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"

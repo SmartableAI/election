@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-gro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html"
 type: article
 quality: 189
-heat: 569
+heat: 589
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "RNC donors gather to hear Trump and others in Palm Beach, the GOP's 'new political power center'"
+    excerpt: "Donors to the Republican National Committee gathered this weekend for the first time since Donald Trump's defeat just down the road from his Mar-a-Lago home -- a sign that the institutions of the party remain centered around the former President.\n    \n"
+    publishedDateTime: 2021-04-10T21:51:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vANdLjsN-6g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200103144837-trump-sobre-ataque-qasem-suleimani-hoy-el-mundo-es-mejor-sot-00010015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

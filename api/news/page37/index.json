@@ -2,6 +2,62 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-02-10-laid-off-keystone-pipeline-workers-slam-job-killing-biden-decision-future-completely-taken-away.md",
+      "title": "Laid-off Keystone pipeline workers slam job-killing Biden decision: Future 'completely taken away'",
+      "excerpt": "Laid-off Keystone XL pipeline workers in Fouke, Ark., blasted President Biden's order canceling the project.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0606VR9cvBM/laid-off-keystone-pipeline-workers-biden-order-jobs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0606VR9cvBM/laid-off-keystone-pipeline-workers-biden-order-jobs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21029731365092.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/laid-off-keystone-pipeline-workers-biden-order-jobs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laid-off-keystone-pipeline-workers-biden-order-jobs.amp",
+      "publishedDateTime": "2021-02-10T06:58:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-tom-homan-biden-has-declared-the-entire-country-a-sanctuary-jurisdiction.md",
       "title": "Tom Homan: 'Biden has declared the entire country a sanctuary jurisdiction'",
       "excerpt": "Former Immigration and Customs Enforcement (ICE) Acting Director Tom Homan argued on Wednesday that “President Biden has declared the entire country a sanctuary jurisdiction,” which he said means “more tragedies are going to come.”",
@@ -1283,58 +1339,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-house-managers-reject-trump-impeachment-brief-he-betrayed-the-american-people-live.md",
-      "title": "House managers reject Trump impeachment brief: 'He betrayed the American people' – live",
-      "excerpt": "Polling shows slim majority of Americans want Trump convicted and barred from office",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates",
-      "publishedDateTime": "2021-02-08T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

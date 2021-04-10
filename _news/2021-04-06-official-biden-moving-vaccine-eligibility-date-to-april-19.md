@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-va
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1772280/joe-biden.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Nearly 40% of Marines decline COVID vaccine, prompting some Democrats to urge Biden to set mandate for military"
+    excerpt: "Nearly 40% of United States Marines who have been offered the COVID-19 vaccine have declined it, according to the Pentagon. Of the 123,500 Marines that have had access to the vaccine, 75,500 Marines are either fully vaccinated or have only received one ..."
+    publishedDateTime: 2021-04-10T21:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/10/covid-vaccine-nearly-forty-percent-us-marines-decline/7173918002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7173918002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7173918002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/a5dbf9d3-615a-4fab-8350-33f576afc6f9-AP_Virus_Outbreak_Ramadan_Vaccine.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9wI0I7+WzLuvAvPYwnVSBdy8Lsqrk3w/ByMkcsvV5WPzD9K6RgGgQJVVzPUlANh/ulR0krpyEj1SfLOfRSOqfO08+wwORnQZ7lG6iwWdihlOsOpPvqPBzU2xH4BU4oEpBJYLWkNMycNL+MgQw7Aqd19MPsz5q/ayZYtr+UjaYQIs8jnRwFzGC96QOuRfjAdyhF3rXb7nLJ0K00YwLyduU40Vow4JbMvJyXjx3HQSy9jKvrLwFnd9bLouwgwxYH1FBtGS+b6GB6zRaq/0eWrXi0AFLknHSDXjmUBTLq3znhOmqTDvlzuV5Mg+SV5ty1bV92GGIjzZa11OE5sLzfcP03Uz62TP0U+JCXS+BOaaGbumcAs6oyEQ21T8dFPtfMFGG5HtJRmG4PLzZ7chAmgrrqoSBFoGZFmD6iepwlbULvFxmpTvT4HaxS4qZY+MjALkOWIQRFUZ7N2jp/wvLe66yQqLHF/aohfm0N7ENHDE5XE4iC3ZBS7h3ml1dJR8tA+3JbvlxhaedSRgfJkgG1cFdQ==;rrYpikCvlDDe7MQcH23wcQ=="

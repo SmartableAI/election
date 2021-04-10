@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden budget seeks more for schools, health care and housing"
-excerpt: "President Joe Biden has released a $1.5 trillion wish list for inclusion in the federal budget Sen. Ben Cardin: Biden ‘right to be bold’ on infrastructure plan WASHINGTON -- President Joe ..."
-publishedDateTime: 2021-04-09T20:51:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-webUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76973328"
+excerpt: "President Joe Biden has released a $1.5 trillion wish list for his first federal budget WASHINGTON -- President Joe Biden released a $1.5 trillion wish list for his first federal budget ..."
+publishedDateTime: 2021-04-10T04:32:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76990022"
+webUrl: "https://abcnews.go.com/US/wireStory/biden-budget-seeks-schools-health-care-housing-76990022"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76990022"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/biden-budget-seeks-schools-health-care-housing-76990022"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Lifestyle/WireAP_ba707f0fb64341fba4267afc24383d3c_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/US/WireAP_a79d7070615c4db4864eb84ee8d5d2d9_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -415,6 +415,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Pelosi aims to have Biden infrastructure passed before August"
+    excerpt: "The road ahead for Biden's budget proposal 03:13 Speaker Nancy Pelosi expressed hope that Congress would pass President Biden's $2 trillion infrastructure proposal ahead of the August recess. During her weekly press conference on Thursday, Pelosi said that ..."
+    publishedDateTime: 2021-04-10T16:31:00Z
+    webUrl: "https://www.cbsnews.com/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/10/0d824d7c-80ac-4f27-bbe4-32660aa5c4f8/thumbnail/1200x630/01e1020ae337458e1bd4eebb79968e0f/2021-03-10t180559z-460159132-rc2i8m9de0ib-rtrmadp-3-health-coronavirus-usa-congress.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden wants money to probe white supremacist beliefs at immigration agencies"
     excerpt: "WASHINGTON (Reuters) -President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
     publishedDateTime: 2021-04-09T15:26:00Z
@@ -462,6 +478,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1775021/joe-biden.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden seeks funding to probe white supremacist beliefs at immigration agencies"
+    excerpt: "WASHINGTON (Reuters) -President Joe Biden called for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies in his first budget request to Congress on Friday, but officials offered no explanation for what ..."
+    publishedDateTime: 2021-04-10T02:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration/biden-calls-for-funding-to-probe-white-supremacist-beliefs-at-u-s-immigration-agencies-idUSKBN2BW21J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557939081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381FB"
+        width: 817
+        height: 545
         isCached: true
   - title: "Why green initiatives count as infrastructure, from Biden's top climate officials"
     excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. The first $2 trillion of President Joe Biden's up to $4 trillion infrastructure package includes not only funding for roads and bridges, but also for climate ..."
@@ -659,6 +691,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Tre/QrJn6xgSJFleAlnm5lW2ueYMdDXCwis2AzBt09XMmKcPyLdrGo1Up7/kk412wXQqlQacxGU6MosvMvzcdFW9h/TcXzz9VhUyddH6u/ZIxGY1ooZq8dG99YqtfvwfoJkEnOAss0ka6lHZpzt/zLI1GLL1qVDTN7DHK35GPa4OlnG+17goJQIaVc3QqyJcPcRHsonMnxGlet2FTYnaDmuF5KPJTXO4v3pTA7j8iRGvcNN9DYS4cyzm/6EXp9E+UBZVCyhG7R6M28HmOjT1IbaEKZa1yvKNrXou5jsEVDJInoh946EprEYaEU+HCeZjY99X95J/U9MCXpQPZUf8tOZrdD6CZQBISfIpGgQjp0n0wWh4srs+ycs5JBERIShqDqOLZHjqqaQHmljJHIR/yreZYZArfkJu85uOG9/n1zrvzk72SbEJrPr/uaekpSEfuDJMIdgzF0RylkaKoeH+ZPzHHQHPpiOyK6c+hMYDaQjtGJyjVDdYrB8U233s2KmLPX2Qocuqn4i8PPgp2/jz6g==;tb789q4Hs4wEV3t+9LX7Gg=="
+secured: "kKVX8kSn683MP32Qn025LS/kX/CrJeYcafh92dgMrp689RONGBlD2AJb2HotiOygUO+C4uSISNbT+KG2lzSDpF607uIZMOd3thmxqLeDlrReEwrTDJdSRJlUOw7xt5EpxcdbO5/Qu9BAQ8KJnL31LXwGySZnObGnlFHfBTxJHappeZU/UuZBspZPF+BV6M/a0ySsshcrXfhPnggC76lntw0aXEco/2LcO/3p0Yu2dtva1mQ1a5ud+8p8uYnZW1WztaNu70dNehypiw5cAYwFTJYtRIyvhmrr5U9GCsN+boiJFf2mr3vGJn57vRIyH3VDnmQ/qRv0K77LgU2km1z9TeajAm7ZSzFl5DuNjUvzcw8=;g3PnYKi/o2M4Ip7Noe6A7g=="
 ---
 

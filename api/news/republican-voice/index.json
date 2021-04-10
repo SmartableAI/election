@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-10-sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better.md",
+      "title": "Sean Spicer bashes CBS reporter calling revival of Trump press custom 'new tradition': 'Try to fake it better'",
+      "excerpt": "Former White House Press Secretary Sean Spicer took to Twitter Friday after a CBS News reporter pointed to the return of a Trump-era White House briefing room feature as a \"new tradition.\" During Friday's briefing, White House Press Secretary Jennifer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better",
+      "originalUrl": "https://www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45631ae7-72bf-428d-a7b5-1667c7e27db5/91b96f6d-24dd-4164-901d-e775e4998bc7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better.amp",
+      "publishedDateTime": "2021-04-09T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-rick-perry-biden-sending-message-to-cartels-that-its-ok-to-sexually-traffic-children-across-border.md",
       "title": "Rick Perry: Biden sending message to cartels that 'it's OK to sexually traffic children' across border",
       "excerpt": "The Biden White House has sent a permissive message to human traffickers with its response to the southern border crisis, former Texas Gov. Rick Perry told \"Your World\" Friday.",
@@ -462,7 +519,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 390,
+      "heat": 430,
       "tags": null,
       "images": [
         {
@@ -854,7 +911,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1619,62 +1676,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-mcconnell-again-slams-biden-as-a-leftist-bernie-sanders-is-really-happy.md",
-      "title": "McConnell again slams Biden as a leftist: 'Bernie Sanders is really happy'",
-      "excerpt": "Sen. Mitch McConnell doubled down on calling President Biden “far-left,” after the administration shot back, saying Wednesday there is “nothing at all moderate about the administration so far.” ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38a79d73-0f3e-4976-86c1-df8b65cc7425/1a5adb29-437a-423f-b1a7-862019efd686/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
-      "publishedDateTime": "2021-04-07T12:50:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

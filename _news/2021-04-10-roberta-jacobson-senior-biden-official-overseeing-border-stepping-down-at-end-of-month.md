@@ -127,7 +127,23 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Nearly 40% of Marines decline COVID vaccine, prompting some Democrats to urge Biden to set mandate for military"
+    excerpt: "Nearly 40% of United States Marines who have been offered the COVID-19 vaccine have declined it, according to the Pentagon. Of the 123,500 Marines that have had access to the vaccine, 75,500 Marines are either fully vaccinated or have only received one ..."
+    publishedDateTime: 2021-04-10T21:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/10/covid-vaccine-nearly-forty-percent-us-marines-decline/7173918002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7173918002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7173918002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/a5dbf9d3-615a-4fab-8350-33f576afc6f9-AP_Virus_Outbreak_Ramadan_Vaccine.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "JYo63e9tioUlbWfLmIynXgADapJEi1Zw0L2CZvs7oIzAvTi/PPdaW8azUKZsyY2EqApZeJ6G2/wrJusKjXsnUAx7DtD6aJHRwHpduMKW4rdO1l8koAOVUJQ3eqfQkq/GsrrLgw9V1GMan297o2whPMNiged+cq8H9k/6yMeIN783+zuwnT0XY7APZ85g1Jixs4YSJgzzO8dlxpGNi3JePrA0qZWoH71GK1kXhNcTP13cwbNiJvQLW+6y9DOwj+gzx9gY+Wd2ufWk1EUrwwJh/OjgIiuP3iG8sgHIf+oE4KHsLPyB/XW/+tqroT5dpkfB14ObX1XFwqcLu627cipJYDbbW4d9ezzNQrS6t0fZdCg=;CeONhAVh8Cq5iLiyYT1X/g=="
+secured: "PMOQxbZodzXG4ewNRZrVcQuJ6d91RIeBuflhZB8RQsOvDyJCMfjwaejc4f40xIpH2udNIUOklnVzVKUAaUH8WKH98v76UsyxXgeG3Wc0+0xqW69X/09/65C7y4/UNjEiUkCB08sKoJv/IQZ4pjtTd+XVbN15Hs85fg7Qw4kzaoWUg8ul6dHdmCeHHXie4ibG5WoHsP2EINGff4bGrB0Yri18r6JGcNpfWbBrYzQeYtHcN9hTRodmVWRH9bZPVy9Atom/L4aG1qD//2oKEbrYuvQUvGXnBWkwaPplFcmBPSlMrrKGGJ6tds3Xku9XPu2jy2CBSNbkpZLA2iA4b7ZGoMSzP2758FN4wtPNs9POU7URTal7eN0vFrojElTYUT1GSLAs/YwsuztI1URd9FYi3imPJ2e9scqubEbHm2bsD9kqeuvtkWBXk8pURkpoW+tnQV0d65aFemP/2L7YraWsuHlH4BHbqNfDWFOs4Rcam1Zjwb3i5+IkYyMMmnRRiDQrgaHKiRkEowcAbVaD4MsVxA==;sDJT111DvIDWJaQDI0xfjQ=="
 ---
 

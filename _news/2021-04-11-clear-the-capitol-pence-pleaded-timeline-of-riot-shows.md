@@ -1,29 +1,29 @@
 ---
 category: news
-title: "‘Clear the Capitol,’ Pence pleaded, timeline of riot shows"
-excerpt: "WASHINGTON (AP) — From a secure room in the Capitol on Jan. 6, , Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand. “Clear the Capitol,” Pence said. Elsewhere in ..."
-publishedDateTime: 2021-04-10T19:00:00Z
-originalUrl: "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows"
-webUrl: "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows"
-ampWebUrl: "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows/amp"
-cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows/amp"
+title: "'Clear the Capitol,' Pence pleaded, timeline of riot shows"
+excerpt: "Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand. “Clear the Capitol,” Pence said. Elsewhere in the building, Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi were making a similarly dire appeal to military leaders,"
+publishedDateTime: 2021-04-10T21:23:00Z
+originalUrl: "https://www.ourmidland.com/news/article/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+webUrl: "https://www.ourmidland.com/news/article/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+ampWebUrl: "https://www.ourmidland.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
 type: article
 quality: 75
 heat: 115
 published: true
 
 provider:
-  name: The Times Leader
-  domain: timesleader.com
+  name: Our Midland MI
+  domain: ourmidland.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 687
         isCached: true
 
-secured: "StO2ezH9AF9vyhl5NQ4ZupL/Dc7fMGil25WppihMuh3gG4sEG9qKOOE6FwfkUoA10woF5m+kzdxq6wfMeFTQ08FIj+YZEZEFp6UJbYKlQgMH5HIfgrIm4U2B6uvsg5/yv+eXUW4CCehOXRa58VSOV8gN4YI4UenjOGRTr/YRsIrEcpm/fhPlH9I7ZUZyYGJgSM6l8eVBHEiOj54wY7f0q7MWWKAkstLJ2Wy2DXT2zLePXV0nciUltd6EmxgOUp6tVnu6XkVKBXcG+MYZW2XW7FcwyxXri5n3a5DkAnGACwHb8d4H5JMv/nA333EXGuLo1HPFK4MZkoelFF4CmV9ycq06KcSY+q838KtQtAurzPE=;d/Q9NZzX1wU1knoWjvK+Uw=="
+secured: "6iGk5VSDn33n/hlkfFs8e4hrslCiAMECFnBV45hxQwwFwbjGFciS7yVMOGW21cq8pkj95Jcc5r19tjHj3EBXfSY56p4LMYZQH5T5FxCqNWWmWTO3zOwJJPe5I+UCu7WbAOV41Vwdyj2QZI5iVISsVgS7cXejYAsd+4KgSxK9gyiBRVdOesHZ+ar0O1xMyT1lI4TcuoN//AEAUblNVhdyrUoZdttNuBnfahqufeZ1DetMwHTv9nKNmuWV2WlVQO4LrsGstM4iCQEgDTOV2/ZBhh4m+FJAx3s8kPKRpbSeSEGtxxjpFMxxXiU0tfBUxvOSKnOo7XIvNk05ZibewvtNM4amy7lenBXuXnW8wBvh5Ys=;YmkmjFa52R48D1+5SPRcYA=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-04-barrasso-slams-biden-over-kids-in-captivity-says-he-was-told-to-delete-photos-of-border-facilities.md",
+      "title": "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities",
+      "excerpt": "\"The irony here is that we're hearing a lot about Joe Biden wanting vaccine passports to prove that people have vaccines,\" Barrasso said. \"Meanwhile, the border crossers, they don't even require I.D. We don't know who they are, where they're coming from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "originalUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "publishedDateTime": "2021-04-04T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-hunter-biden-100-certain-hell-be-cleared-of-wrongdoing-in-doj-investigation.md",
       "title": "Hunter Biden ‘100% certain’ he’ll be cleared of wrongdoing in DOJ investigation",
       "excerpt": "Hunter Biden said he is \"100% certain\" he will be cleared of any wrongdoing in a Department of Justice investigation into his finances.",
@@ -1611,63 +1668,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-hillary-clinton-john-kerry-repeatedly-attacked-trump-administration-after-leaving-state-department.md",
-      "title": "Hillary Clinton, John Kerry repeatedly attacked Trump administration after leaving State Department",
-      "excerpt": "The New York Times came under fierce criticism Monday for claiming Mike Pompeo stood out as a former secretary of state for his open partisanship, given the outspoken criticisms of the Trump administration by Hillary Clinton and John Kerry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93d6d9ec-ae27-481e-84f7-422080f3e2eb/d669044e-5520-48e2-9a64-2e55a44b5141/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "publishedDateTime": "2021-03-30T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }
