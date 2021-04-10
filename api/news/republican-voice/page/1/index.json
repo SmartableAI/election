@@ -1179,63 +1179,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
-      "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
-      "excerpt": "Vice President Kamala Harris now has her own “Resolute” desk, crafted from materials from the historic USS Constitution warship.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4I-_9uGXoy4/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4I-_9uGXoy4/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-desk.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp",
-      "publishedDateTime": "2021-04-08T01:38:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-mayorkas-not-biden-or-harris-heading-to-texas-border-towns-thursday.md",
       "title": "Mayorkas -- not Biden or Harris -- heading to Texas border towns Thursday",
       "excerpt": "U.S. Homeland Security Secretary Alejandro Mayorkas will travel to two Texas border towns Thursday, according to reports.",
@@ -1248,7 +1191,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 739,
+      "heat": 759,
       "tags": null,
       "images": [
         {
@@ -1634,7 +1577,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1676,6 +1619,62 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-mcconnell-again-slams-biden-as-a-leftist-bernie-sanders-is-really-happy.md",
+      "title": "McConnell again slams Biden as a leftist: 'Bernie Sanders is really happy'",
+      "excerpt": "Sen. Mitch McConnell doubled down on calling President Biden “far-left,” after the administration shot back, saying Wednesday there is “nothing at all moderate about the administration so far.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38a79d73-0f3e-4976-86c1-df8b65cc7425/1a5adb29-437a-423f-b1a7-862019efd686/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
+      "publishedDateTime": "2021-04-07T12:50:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

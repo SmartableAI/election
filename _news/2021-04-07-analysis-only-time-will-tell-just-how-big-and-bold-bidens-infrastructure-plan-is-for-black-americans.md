@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Unlike Biden, Americans don't see new infrastructure as a priority"
+    excerpt: "President Joe Biden is pushing his infrastructure bill, the American Jobs Plan. This bill strays from what has helped him maintain an approval rating above 50% so far during his presidency because, even though the plan polls fairly well, it's not clear that Americans actually think it's all that important.\n"
+    publishedDateTime: 2021-04-10T18:02:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7g2XTfYjNY4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/infrastructure-plan-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/infrastructure-plan-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408123830-joe-biden-0407-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Corporate America tears down Biden's infrastructure plan"
     excerpt: "Executives at some of America’s largest companies complain much more bitterly in private about the White House approach."
     publishedDateTime: 2021-04-07T01:02:00Z

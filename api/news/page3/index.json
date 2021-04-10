@@ -2,6 +2,171 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-08-scalise-blasts-bidens-border-policies-calling-them-dangerous-for-kids.md",
+      "title": "Scalise blasts Biden's border policies, calling them 'dangerous for kids'",
+      "excerpt": "What they've done not only to these border towns, the mayors, you hear them, Democrat and Republican, expressing outrage over what President Biden created. Joe Biden created this crisis, but the child abuse and neglect that's going on, it's not just the 20 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
+      "originalUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
+      "publishedDateTime": "2021-04-08T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-despite-biden-claim-most-migrant-families-not-being-expelled-to-mexico.md",
+      "title": "Despite Biden claim, most migrant families not being expelled to Mexico",
+      "excerpt": "WASHINGTON (Reuters) - U.S. border agents expelled roughly a third of migrant parents and children traveling together and caught crossing the southwestern border in March, according to U.S. government data, undercutting a claim by President Joe Biden that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-immigration-border-idUSKBN2BV24H",
+      "originalUrl": "https://www.reuters.com/article/us-usa-immigration-border-idUSKBN2BV24H",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557732445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH370ZX",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BV24H",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV24H",
+      "publishedDateTime": "2021-04-08T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-275-sheriffs-sign-letter-to-biden-on-border-crisis-reckless-effort-to-put-politics-before-safety.md",
+      "title": "275 sheriffs sign letter to Biden on border crisis: 'Reckless effort' to put politics before safety",
+      "excerpt": "Bristol County, Mass. Sheriff Thomas Hodgson discussed the letter 275 sheriffs signed urging President Biden to get the border crisis under control, during a Thursday segment of 'Fox & Friends.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NPuUBvLJ3Rw/275-sheriffs-sign-letter-biden-border-crisis-immigration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NPuUBvLJ3Rw/275-sheriffs-sign-letter-biden-border-crisis-immigration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a4800cc-2cbe-4ee2-8264-b821ee0e4244/c40a06fc-3d7a-4ad9-8d39-7bf23e41b7b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/275-sheriffs-sign-letter-biden-border-crisis-immigration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/275-sheriffs-sign-letter-biden-border-crisis-immigration.amp",
+      "publishedDateTime": "2021-04-08T05:49:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-mike-pence-inks-deal-to-write-2-books.md",
       "title": "Mike Pence inks deal to write 2 books",
       "excerpt": "Washington — Former Vice President Mike Pence has signed a deal with Simon & Schuster to publish two books, with the first, his autobiography, tentatively set to hit shelves in 2023 as the nation gears up for the next presidential election. His ...",
@@ -158,63 +323,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
-      "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
-      "excerpt": "Vice President Kamala Harris now has her own “Resolute” desk, crafted from materials from the historic USS Constitution warship.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4I-_9uGXoy4/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4I-_9uGXoy4/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-desk.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp",
-      "publishedDateTime": "2021-04-08T01:38:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-mayorkas-not-biden-or-harris-heading-to-texas-border-towns-thursday.md",
       "title": "Mayorkas -- not Biden or Harris -- heading to Texas border towns Thursday",
       "excerpt": "U.S. Homeland Security Secretary Alejandro Mayorkas will travel to two Texas border towns Thursday, according to reports.",
@@ -227,7 +335,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 739,
+      "heat": 759,
       "tags": null,
       "images": [
         {
@@ -889,7 +997,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1255,114 +1363,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-headhunters-having-hard-time-finding-jobs-for-former-trump-officials-report.md",
-      "title": "Headhunters having hard time finding jobs for former Trump officials: report",
-      "excerpt": "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials",
-      "originalUrl": "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp",
-      "publishedDateTime": "2021-04-07T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-biden-high-speed-internet-is-infrastructure.md",
-      "title": "Biden: High-speed internet is infrastructure ",
-      "excerpt": "President Joe Biden responds to critics who say his $2 trillion infrastructure plan is \"too big\" and he should instead focus on traditional forms of infrastructure.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KU4p8CymnSk/joe-biden-infrastructure-plan-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KU4p8CymnSk/joe-biden-infrastructure-plan-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407144138-joe-biden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn",
-      "publishedDateTime": "2021-04-07T11:50:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

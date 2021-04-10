@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump to give keynote speech at RNC donor retreat Saturday — right near his Mar-a-Lago club"
+    excerpt: "Former President Donald Trump will be delivering the keynote speech at the Republican National Committee donor retreat on Saturday — and he won’t have to go far. The private donor event is being held at a hotel just a few miles from Trump’s Mar-a ..."
+    publishedDateTime: 2021-04-10T19:36:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
+    images:
+      - url: "https://www.nydailynews.com/resizer/gyLJndg9ffS2yZFaaoS3SBaDE60=/1200x0/left/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CFLRBCXRCRGEJG2J3WXLS2KIGU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "kQAN8ie8jYXVFiRWfb0pfFgWgd76Iuxl0W0JCGZU1TZRxPYO+YlRK75Z/+oB9Yt++T07Fnj/QAW82TtFQtPH2A+VS4AQwl3rou9PsJhFmIDEpre+SG3PpO3tpjR2r4P22+9wHA1leuLccUu3CYp4AmaBTDc2dZNEQMMUX7kTzLi783K5w9cTGKw9vPkZ7916RpWD8S+5IXBdYjGlpoJ1FNwhjo/7WKpS+dnkat35lWpXtU/j8fW6/kHaf0OcbqfjoAJhHcMe/VXVkxjQZONgXdnwSbcYItVJEpnWVhzBvlxgtT/XgZU/Bt4O3RkxUSFv+SaEpwb3LVqa+PAln9mYCQWPnBcSGJp8Rw+Z/XleARk1o5D4qOcCTcG1fiVlAEUDLFcw7pQKV0iEmiLnVIGnezxhCw/gpqPnAprz8eUsNhz96/dG4Sis4vr6bmTfHOwnrAosI28tKPrCVluhytM9PjectEl8mgSQb/ofYVFwX8KQ8W4cF3OYyH4IAFuKHhw4DIyl0SeOUbK5c/6tKV5+8w==;zYFfcum5dJCtkJc00eyg0g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://floridapolitics.com/archives/419088-clear-the-capitol-mike
 webUrl: "https://floridapolitics.com/archives/419088-clear-the-capitol-mike-pence-pleaded-timeline-of-riot-shows/"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,40 @@ images:
     height: 687
     isCached: true
 
-secured: "KBIn9MwU4g3kyAqz+/Rz5SS5J9yHOYwSj7k69fpcNifFomFZw/8a0RRz32tqw9zCseCGtH7Uwz3q9N/HMYm/5fX5sX1sQARbgAJ0E3aWLXNeoOhrz5snV5RbSf3ZpTgQXc7WedISFSqacud5dJiYHIU2RTXCP+DiqIrMes3SM+zcAIPEwiPN2jafUoLfoKPL3zrKeATdfataXAQwt5CENeip2vErlnKwDLD5Z94UmEicXwMYDyVJuBtgV4mwr6Z4IW0fCMTDcyTRqGj7AlrPhCxPbMGpPUuvgbS/tpdkECpe9V2HcjKgkEQnb/f0mxRUhCDsSEVo+HX5cG9W/l7cltWyOp7ptsT+68SAvJ+9OvQ=;ZA44SSSt3qITpsrh+ObOKw=="
+related:
+  - title: "‘Clear the Capitol,’ Pence pleaded, timeline of riot shows"
+    excerpt: "WASHINGTON (AP) — From a secure room in the Capitol on Jan. 6, , Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand. “Clear the Capitol,” Pence said. Elsewhere in ..."
+    publishedDateTime: 2021-04-10T19:00:00Z
+    webUrl: "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows"
+    ampWebUrl: "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows/amp"
+    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows/amp"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 75
+    images:
+      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "‘Clear the Capitol,’ Pence pleaded, according to previously undisclosed document on January 6 riots"
+    excerpt: "WASHINGTON — From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
+    publishedDateTime: 2021-04-10T19:50:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-aud-nw-captiol-riots-timeline-20210410-c3cz7rqgdrdwpir55xypxo5eui-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-aud-nw-captiol-riots-timeline-20210410-c3cz7rqgdrdwpir55xypxo5eui-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-aud-nw-captiol-riots-timeline-20210410-c3cz7rqgdrdwpir55xypxo5eui-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 61
+    images:
+      - url: "https://www.courant.com/resizer/DtDKUzIef9VOuEVmSUM7PsXCa84=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TGP6LWCBZRVB6VSQ3Z2HIFVETI.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "hBnLXQVqKF0dR3ElTwmVyT4D9U3Gj98W5wrh/PpKX0hlDxkqu+RFFYYFUY/wAL/IKNftYQi9cnGhnWAmL8sgq2XkEbIF+7NIeNcyFJcaesppUs1/KHeeaZ/EgcQvpDD4w1xY5sJLeWJE7Ke7vlANtk6bn0AgMxq5FQpQt1hsZOOK31VK24bgpJCrXGR7fitrIO5BEFnPAv3SwTFsGW6c5kGa5vo9I1uU2EQaFpqgDTK7Fwy7WziUl20JvmF2qk2xglFPRPf3q55YCdPx0eHviT13k4fnyc3y9/Xrgk7+7EiEKLleP0JcX2gqzJsWPZXY/7FbX+BBRRbleXUrpP1wGf3dIrF5/BbegHbUivFjGZDsTTXPGlwireJbeFmaig0J4FFPUwxxtF9vJ+W3WtPlJ3HzpQdpFmxCIqXENgpWwIpFfHP+GKBabcetQJEPf5VXK8etTNzvo0GIHQ524VlCgyZ42oLw1IhiV/m+YtZ6nTchD0TNxJVfCLoKt5wU0lTDroVPYTB/ZWrqBOWQ9ui7FQ==;FeV81aTWGL4MnfGLoIJS9g=="
 ---
 

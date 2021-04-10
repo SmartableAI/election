@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Roberta Jacobson, senior Biden official overseeing border, stepping down at end of month"
+    excerpt: "In his statement, Sullivan suggested that Vice President Kamala Harris, who President Joe Biden chose to deal with migration from Central America, will pick up some of Jacobson's portfolio."
+    publishedDateTime: 2021-04-09T22:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/roberta-jacobson-gty-jc-210409_1618009006290_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden Remains Firm On July 4 Goal Despite Moving Up Deadline For Adult COVID Vaccinations"
     excerpt: "President Joe Biden praised the accelerated vaccination in the United States — where a record four million shots were administered in a single day on Saturday— but his administration hasn't backed off his goal of having enough people vaccinated for an ..."
     publishedDateTime: 2021-04-06T21:01:00Z

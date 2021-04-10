@@ -2,6 +2,64 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-27-ex-drug-kingpin-and-death-row-records-founder-michael-harry-o-harris-weeps-thanks-trump-for-pardon.md",
+      "title": "Ex-drug kingpin and 'Death Row Records' founder Michael ‘Harry-O’ Harris weeps, thanks Trump for pardon",
+      "excerpt": "His was one of 73 pardons and 70 sentence commutations issued by Trump during his finals days in office last week. \"I appreciate Donald Trump, his children, his son-in-law. Whyever he did it, he did it, when so many others wouldn't do it,\" Harris said of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon",
+      "originalUrl": "https://www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Michael-Harry-O-Harris.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/drug-kingpin-death-row-records-michael-harry-o-harris-trump-pardon.amp",
+      "publishedDateTime": "2021-01-26T19:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-harris-reflects-on-full-circle-moment-after-receiving-vaccine-dose-at-nih-building-her-late-mother-frequented.md",
       "title": "Harris reflects on 'full circle' moment after receiving vaccine dose at NIH building her late mother frequented",
       "excerpt": "Vice President Kamala Harris on Tuesday spoke in personal terms about a \"full circle\" moment after receiving the second dose of the Moderna Covid-19 vaccine at the same National Institutes of Health building her late mother had frequented for work.\n    \n",

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Unlike Biden, Americans don't see new infrastructure as a priority"
+    excerpt: "President Joe Biden is pushing his infrastructure bill, the American Jobs Plan. This bill strays from what has helped him maintain an approval rating above 50% so far during his presidency because, even though the plan polls fairly well, it's not clear that Americans actually think it's all that important.\n"
+    publishedDateTime: 2021-04-10T18:02:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7g2XTfYjNY4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/infrastructure-plan-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/infrastructure-plan-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408123830-joe-biden-0407-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Only time will tell just how 'big and bold' Biden's infrastructure plan is for Black Americans"
     excerpt: "President Joe Biden's newly unveiled $2 trillion American Jobs Plan, which is designed to revive the US's infrastructure and tackle the climate crisis over the next eight years, offers some Black Americans hope -- balanced with caution.\n    \n"
     publishedDateTime: 2021-04-07T19:43:52Z

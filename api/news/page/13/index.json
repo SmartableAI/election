@@ -2,6 +2,166 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-23-trump-says-china-laughs-at-the-us-for-woke-politics.md",
+      "title": "Trump Says China Laughs At The US For 'Woke' Politics",
+      "excerpt": "The former president shared his thoughts and opinions on the Biden administration, as well as what he believes other countries think of the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
+      "originalUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg",
+          "width": 1024,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
+      "publishedDateTime": "2021-03-22T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-aoc-endorses-controversial-democrat-who-compared-voting-for-biden-to-eating-s.md",
+      "title": "AOC endorses controversial Democrat who compared voting for Biden to eating 's***'",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., endorsed controversial Democrat Nina Turner running for a vacant Ohio congressional seat who compared voting for President Joe Biden to eating feces. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e9a35a-cdd7-493d-b0e0-8535c57de3fb/071070e4-ce62-44fe-9a99-32dadfc7bf59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp",
+      "publishedDateTime": "2021-03-22T13:35:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-trump-predicted-news-ratings-would-tank-if-im-not-there-he-wasnt-wrong.md",
+      "title": "Trump predicted news ratings would ‘tank if I’m not there.’ He wasn’t wrong.",
+      "excerpt": "Newspapers, television, all forms of media will tank if I’m not there,” he augured in 2017, “because without me, their ratings are going down the tubes.” Barely two months into the post-Trump era, news outlets are indeed losing much of the audience and readership they gained during his chaotic presidency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3HBE7SU54I6XLGFSLJIDGQ4ZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-22T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-biden-looks-beyond-border-dispatching-officials-to-mexico-and-guatemala.md",
       "title": "Biden looks beyond border, dispatching officials to Mexico and Guatemala",
       "excerpt": "Facing criticism over a growing presence of migrant children at the U.S. southern border, President Biden on Monday dispatched a high-level team to Mexico and Central America to find what the administration is calling a “humane” solution to the ...",
@@ -1152,166 +1312,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-trump-boosts-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.md",
-      "title": "Trump boosts Julia Letlow in Louisiana House race to succeed her late husband",
-      "excerpt": "Former President Trump urged his supporters to back Julia Letlow Saturday in the special election House race in Louisana to succeed her late husband, Luke, who died after contracting coronavirus. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9EPRWC7E-wk/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9EPRWC7E-wk/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/dww.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.amp",
-      "publishedDateTime": "2021-03-20T14:10:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-donald-trump-jr-says-military-politicized-knocks-stunt-against-marjorie-taylor-greene.md",
-      "title": "Donald Trump Jr. Says Military 'Politicized,' Knocks Stunt Against Marjorie Taylor Greene",
-      "excerpt": "\"It's been politicized like we've never seen before,\" he said in a video released Friday. \"They're literally attacking American civilians.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-marjorie-taylor-greene-guam-national-guard-cookies-politicized-military-1577580",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-marjorie-taylor-greene-guam-national-guard-cookies-politicized-military-1577580",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1760160/donald-trump-jr-cpac-military.jpg",
-          "width": 3000,
-          "height": 2105,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-marjorie-taylor-greene-guam-national-guard-cookies-politicized-military-1577580?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-marjorie-taylor-greene-guam-national-guard-cookies-politicized-military-1577580?amp=1",
-      "publishedDateTime": "2021-03-20T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-unfair-and-out-of-touch-democrats-slam-bidens-white-house-staff-marijuana-policy.md",
-      "title": "'Unfair and out-of-touch': Democrats slam Biden's White House staff marijuana policy",
-      "excerpt": "Sources told The Daily Beast that dozens of young staffers under were suspended, asked to resign, or told to work remotely after informing the White House that they had smoked marijuana recreationally — a marked reversal from President Joe Biden ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3",
-      "originalUrl": "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60560d061fcb5700186ee8e0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-white-house-staff-marijuana-policy-criticism-democrats-2021-3?amp",
-      "publishedDateTime": "2021-03-20T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

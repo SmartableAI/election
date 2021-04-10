@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-08-mike-pence-to-launch-video-podcast-with-conservative-group.md",
+      "title": "Mike Pence to launch 'video podcast' with conservative group",
+      "excerpt": "While the Mike Pence Show, which included Pence railing against adultery and “talking about the global warming ‘myth’”, was not the most prominent or gripping of rightwing talk radio ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/06/mike-pence-video-podcast-young-americas-foundation",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/06/mike-pence-video-podcast-young-americas-foundation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e66b6e0a3890405f280a280d692f950eee5e4196/0_82_1233_740/master/1233.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1fe03e7dd81840f23d891972d4e57bdb",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/06/mike-pence-video-podcast-young-americas-foundation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/mike-pence-video-podcast-young-americas-foundation",
+      "publishedDateTime": "2021-02-07T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-the-martyrdom-of-mike-pence.md",
       "title": "The martyrdom of Mike Pence",
       "excerpt": "Trump asked. “We’ll start with Mike and then we’ll just go around, your name, your position.” “This is just the greatest privilege of my life,” Pence said, setting the tone for the others.",
@@ -1467,63 +1519,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-allies-scorn-pence-and-pompeo-as-sandbergs-qanon-problem-grows.md",
-      "title": "Allies scorn Pence and Pompeo, as Sandberg’s QAnon problem grows",
-      "excerpt": "When CNN’s Jim Acosta reported a “source close to VP” saying Pence’s plan for the next week is to “telegraph to our allies and adversaries that we have a fully functioning government,\" Global Translations decided it was time to find out what European ambassadors in D.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/global-translations/2021/01/13/allies-scorn-pence-and-pompeo-as-sandbergs-qanon-problem-grows-491388",
-      "originalUrl": "https://www.politico.com/newsletters/global-translations/2021/01/13/allies-scorn-pence-and-pompeo-as-sandbergs-qanon-problem-grows-491388",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/bc/89ed482f4862b339c70a33cc0fb0/politico-global-translations-shared-graphic.jpg",
-          "width": 1201,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

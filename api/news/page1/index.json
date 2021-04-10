@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-11-clear-the-capitol-pence-pleaded-timeline-of-riot-shows.md",
+      "title": "‘Clear the Capitol,’ Pence pleaded, timeline of riot shows",
+      "excerpt": "WASHINGTON (AP) — From a secure room in the Capitol on Jan. 6, , Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand. “Clear the Capitol,” Pence said. Elsewhere in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows",
+      "originalUrl": "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnmedia.sendtonews.com/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows/amp",
+      "cdnAmpWebUrl": "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/nation-world/1242076/clear-the-capitol-pence-pleaded-timeline-of-riot-shows/amp",
+      "publishedDateTime": "2021-04-10T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times Leader",
+        "domain": "timesleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-donald-trump-tumbles-down-forbes-billionaires-while-kim-kardashian-lands-on-list.md",
+      "title": "Donald Trump tumbles down Forbes' billionaires while Kim Kardashian lands on list",
+      "excerpt": "Forbes magazine estimated former President Trump's wealth fell from $3.5 billion to $2.4 billion. moving him from 1,001st place to 1,299th.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/04/10/donald-trump-kim-kardashian-billionaire-forbes-list/7172191002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/04/10/donald-trump-kim-kardashian-billionaire-forbes-list/7172191002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/10/USAT/e567a5ff-2c30-4f38-ac5e-11d4de85964c-Donald_Trump_tumbles_down_Forbes_billion-6071983f4f499f10a8881ce2_1_Apr_10_2021_15_01_26_poster.jpeg?quality=10",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-10T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-truth-will-prevail-matt-gaetz-takes-break-from-scandal-to-speak-at-trump-club.md",
       "title": "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club",
       "excerpt": "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer.",
@@ -606,7 +701,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-budget-idINKBN2BW190",
       "featuredContent": null,
       "highlight": null,
-      "heat": 895,
+      "heat": 935,
       "tags": null,
       "images": [
         {
@@ -1192,21 +1287,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-the-earth-holds-so-much-power-deb-haaland-visits-sacred-site-trump-shrank.md",
-      "title": "‘The earth holds so much power’: Deb Haaland visits sacred site Trump shrank",
-      "excerpt": "Photograph: Rick Bowmer/AP The interior secretary, Deb Haaland, paid a historic visit on Thursday to Bears Ears national monument, the Utah site sacred to Native Americans that was downsized by President Donald Trump. Haaland is a member of the Laguna ...",
+      "path": "_news/2021-04-09-chris-wallace-kamala-harris-seems-to-want-zero-fingerprints-on-bidens-migrant-mess-at-border.md",
+      "title": "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border",
+      "excerpt": "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
+      "webUrl": "https://www.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/c081fe5915e7b5f4b9590e9b737d83b3a89b07f3/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7154eb957ef61d7f99d2d9cbb511f48",
-          "width": 600,
-          "height": 360,
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69",
+          "width": 1200,
+          "height": 700,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1214,23 +1309,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "publishedDateTime": "2021-04-08T16:00:00-07:00",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
+      "publishedDateTime": "2021-04-08T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1240,115 +1326,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-trump-cfos-former-daughter-in-law-subpoenaed-and-turns-over-documents-to-manhattan-da.md",
-      "title": "Trump CFO's former daughter-in-law subpoenaed and turns over documents to Manhattan DA",
-      "excerpt": "The Manhattan DA’s office has subpoenaed and now seized documents from the apartment of Jennifer Weisselberg, the former daughter-in-law of  Trump Organization CFO Allen Weisselberg.   ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXGIlhqUjbk/trumps-cfo-former-daughter-in-law-subpoenaed-and-turns-over-documents-to-manhattan-da",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXGIlhqUjbk/trumps-cfo-former-daughter-in-law-subpoenaed-and-turns-over-documents-to-manhattan-da",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/ContentBroker_contentid-465ce569746c4d99b19d6aafab45f8eb.png",
-          "width": 1920,
-          "height": 1279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T15:56:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-haaland-meets-with-utah-politicians-tribes-as-biden-weighs-monument-changes.md",
-      "title": "Haaland meets with Utah politicians, tribes as Biden weighs monument changes",
-      "excerpt": "tribal leaders and other stakeholders Wednesday and Thursday as President Biden Joe Biden Anne Frank's stepsister: Trump 'obviously admired Hitler' Biden-GOP infrastructure talks off to rocky ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
-      "originalUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bearsearsmonument.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
-      "publishedDateTime": "2021-04-08T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
+        "Kamala Harris"
       ]
     }
   ],

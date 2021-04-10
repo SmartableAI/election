@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-15-kamala-harris-said-parts-of-the-trump-administrations-pandemic-response-left-biden-starting-from-scratch.md",
+      "title": "Kamala Harris said parts of the Trump administration's pandemic response left Biden 'starting from scratch'",
+      "excerpt": "Harris told \"Axios on HBO\" that the Trump administration left the country with no vaccine stockpile and no national strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1067,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602a48982edd0f001a8d5c4c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
+      "publishedDateTime": "2021-02-15T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-boris-johnson-calls-trump-impeachment-over-capitol-attack-kerfuffle.md",
       "title": "Boris Johnson calls Trump impeachment over Capitol attack 'kerfuffle'",
       "excerpt": "Prime minister touts Covid co-operation with Biden, who once called him a ‘clone of Donald Trump’",
@@ -1533,63 +1586,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr.md",
-      "title": "Tampa Bay Bucs are Super Bowl champs — Major turnover for DeSantis administration — Parscale urges Trump to run again as 'martyr'",
-      "excerpt": "The Tampa Bay Buccaneers won their second Super Bowl in franchise history, following a dominating performance on both sides of the ball. In the quarterback battle of the aging yet savvy veteran vs. the rising superstar,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

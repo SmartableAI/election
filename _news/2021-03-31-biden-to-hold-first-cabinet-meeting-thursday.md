@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Malliotakis: 'Biden has turned over our border to the cartels'"
+    excerpt: "New York Rep. Nicole Malliotakis blasted President Biden for causing a \"inhumane and horrible\" border crisis after she traveled to Texas for a first-hand look."
+    publishedDateTime: 2021-04-10T18:12:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ot309uZF2R0/nicole-malliotakis-biden-border-cartels"
+    ampWebUrl: "https://www.foxnews.com/politics/nicole-malliotakis-biden-border-cartels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nicole-malliotakis-biden-border-cartels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/migrants.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris has gone 7 days since being tapped for border crisis role without a press conference"
     excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S."
     publishedDateTime: 2021-03-31T19:13:21Z

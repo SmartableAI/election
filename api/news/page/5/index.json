@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-06-biden-hasnt-talked-to-chinese-president-about-coronavirus-origins.md",
+      "title": "Biden hasn't talked to Chinese president about coronavirus origins",
+      "excerpt": "President Biden on Tuesday said he has not spoken to Chinese President Xi Jinping about the origins of COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
+      "publishedDateTime": "2021-04-06T13:58:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-biden-reassuring-to-see-companies-speak-out-against-voting-laws.md",
+      "title": "Biden: 'Reassuring' to see companies speak out against voting laws",
+      "excerpt": "President Biden Joe Biden Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE on Tuesday credited private companies with speaking up in opposition to new voting laws being passed in Georgia and elsewhere while warning about the impact on workers when businesses leave,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws",
+      "originalUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe3_04062021getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp",
+      "publishedDateTime": "2021-04-06T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
       "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
       "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
@@ -279,6 +387,54 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
+      "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
+      "excerpt": "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/",
+      "originalUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-desk-010.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/",
+      "publishedDateTime": "2021-04-06T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-official-biden-moving-vaccine-eligibility-date-to-april-19.md",
       "title": "Official: Biden moving vaccine eligibility date to April 19",
       "excerpt": "President Joe Biden is set to announce that he's shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines WASHINGTON -- President Joe Biden ...",
@@ -287,7 +443,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -667,7 +823,7 @@
       "originalUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1202,174 +1358,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.md",
-      "title": "Hunter Biden convinced 'reluctant' Joe to publicly support his relationship with Beau's widow Hallie",
-      "excerpt": "Hunter Biden convinced his father Joe in early 2017 to put out a statement approving of the affair he was having with his deceased brother Beau's widow, Hallie Biden, telling Joe that if he didn't, the relationship would \"seem wrong.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OdceAXBzgQ/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OdceAXBzgQ/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec65f932-ba5e-46fc-90fb-78616b81afbe/db300423-7131-4072-90c4-e18e48b5851d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-convinced-reluctant-joe-to-publicly-support-his-relationship-with-beaus-widow-hallie.amp",
-      "publishedDateTime": "2021-04-04T12:15:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-trump-campaign-and-allies-refund-122m-to-winred-donors-report.md",
-      "title": "Trump campaign and allies refund $122M to WinRed donors: report",
-      "excerpt": "The Trump campaign and allies including the Republican National Committee refunded more than $120 million to online donors in 2020.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JfAUQ3Q_bUQ/trump-campaign-refund-winred-donors-2020",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JfAUQ3Q_bUQ/trump-campaign-refund-winred-donors-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288723563703.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp",
-      "publishedDateTime": "2021-04-04T11:01:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-the-bidens-encourage-americans-to-get-vaccinated-in-easter-message.md",
-      "title": "The Bidens encourage Americans to get vaccinated in Easter message",
-      "excerpt": "President Joe Biden and first lady Jill Biden shared well-wishes with Americans celebrating Easter on Sunday and encouraged them to get Covid-19 vaccinations as a moral obligation.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404113530-biden-easter-video-210404-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
-      "publishedDateTime": "2021-04-04T10:53:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

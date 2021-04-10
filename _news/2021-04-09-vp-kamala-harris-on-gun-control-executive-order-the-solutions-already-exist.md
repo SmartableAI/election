@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution"
-    excerpt: "Vice President Kamala Harris now has her own “Resolute” desk, crafted from materials from the historic USS Constitution warship."
-    publishedDateTime: 2021-04-08T08:38:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4I-_9uGXoy4/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution"
-    ampWebUrl: "https://www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp"
+  - title: "Nikki Haley blasts Harris as 'missing in action' on border: 'God help us if she ever becomes president'"
+    excerpt: "President Biden's \"obsession\" with reversing former President Donald Trump's policies is \"unacceptable,\" former U.S. Ambassador to the United Nations Nikki Haley told \"America Reports\" Wednesday."
+    publishedDateTime: 2021-04-07T21:33:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 183
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-desk.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution"
-    excerpt: "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com."
-    publishedDateTime: 2021-04-06T16:18:00Z
-    webUrl: "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/"
-    ampWebUrl: "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-desk-010.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "5mV8n5Ei/0qk5fEnxXoVP0m5Bbg54I9S5Of8oAoIEk3RE8/lkDdjhr2Oq/eNdnV3uf5+1UNQC7fLysqa9Bocz/ku0OUtQ7fX+764sJ1SVnlDH3Q9VxO+t37AfJPbpzjRZzWbhY56gPIYpgAFHBaBg4RxiJttCv9OyF2my9vB1CQ6dUJMOcif4v9jeGP8caZfROOcc/KQFmghzGQRdFWrky9rvjckNvTpMQjRyBGf0UJjGS2qZ8m/v6XSoIEZOKhznqfzXB+ZYT7mcITI4fIi8SOBeJXR/iVaYsG6eX/Epgc6RIhsI5BuzaVqSSd0qgJmq6AlW4bo5p9EJ/oGMNZTmT+FX1lQfx4uAfCZV2CSkvTuQZq4sjDMV1ewm+VOVzp1UscV6hO42yxDejFtdmvGYYERQ+W9K33i/4JbrHwq/YqNXALD9kM727SiG7FR5Dtu03AcOnxnmJEztSD/3f2wTD2NyacHm9qcoKwYbKDneCzzc/8o7QCXMUl5jpaUQH1mpepHHETy2nHueGiqLGnOig==;MiUugHmEyqUCl+bO4Y5v1Q=="

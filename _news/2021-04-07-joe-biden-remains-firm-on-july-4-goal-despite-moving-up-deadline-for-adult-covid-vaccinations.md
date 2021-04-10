@@ -111,6 +111,22 @@ related:
         width: 580
         height: 387
         isCached: true
+  - title: "Roberta Jacobson, senior Biden official overseeing border, stepping down at end of month"
+    excerpt: "In his statement, Sullivan suggested that Vice President Kamala Harris, who President Joe Biden chose to deal with migration from Central America, will pick up some of Jacobson's portfolio."
+    publishedDateTime: 2021-04-09T22:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/roberta-jacobson-gty-jc-210409_1618009006290_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "RlPwF9C5gJv5aPSZrVx8OFMVDoD0lNElGXsD4sMNiiTSo8nPpDAqBNIj4p4w4YYyikf8Ss54HJElZkfJXk8P9/v3hXBNcX9PHbOmxSFSAPGO08czqLMQu8qnuI6d+4oaPqXdstt2xizmF7oA5szaK1bA1VG74TbktFBJfvvhLlnPUDpz1oSrPHZtfr/1pe+81MBN6iUwQdWZWE+ov/VI4SFnSFZ2n3/BkJOQJlZm6m026oltXieRved51P10R8SV1thJMVRfSPkw1kHgEligt1PItycUWbGTX7gKYhAhiHMls0bWijBN2h9vfon0ur74ridsD92LXf9Dq9eRksZxybI1Iz14IpVR7KtcTFrNKCHF1n0xyee/6WflR8dS31HgT9XkeVJ/S83h2zI2wzAHstvSg1R31bQEubxtBdk0D25n66nm8qLxrgRgKB73V/OkWkXx2X01YpXNaGn2M/qQMFg4oP7qI6nhCprsx+UAhQwnOSUYKbTe2L849sbJl1PsgJoeHE7Fir0VjPM3aunj2Q==;E2T6vGVh/IzyNP59EL7jLA=="
 ---

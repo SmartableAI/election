@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Malliotakis: 'Biden has turned over our border to the cartels'"
+    excerpt: "New York Rep. Nicole Malliotakis blasted President Biden for causing a \"inhumane and horrible\" border crisis after she traveled to Texas for a first-hand look."
+    publishedDateTime: 2021-04-10T18:12:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ot309uZF2R0/nicole-malliotakis-biden-border-cartels"
+    ampWebUrl: "https://www.foxnews.com/politics/nicole-malliotakis-biden-border-cartels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nicole-malliotakis-biden-border-cartels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/migrants.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
     excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen."
     publishedDateTime: 2021-04-07T19:39:40Z

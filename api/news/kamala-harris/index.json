@@ -54,25 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
-      "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
-      "excerpt": "Vice President Kamala Harris now has her own “Resolute” desk, crafted from materials from the historic USS Constitution warship.",
+      "path": "_news/2021-04-09-chris-wallace-kamala-harris-seems-to-want-zero-fingerprints-on-bidens-migrant-mess-at-border.md",
+      "title": "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border",
+      "excerpt": "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4I-_9uGXoy4/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4I-_9uGXoy4/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution",
+      "webUrl": "https://www.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 223,
+      "highlight": null,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-desk.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69",
+          "width": 1200,
+          "height": 700,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -80,23 +76,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp",
-      "publishedDateTime": "2021-04-08T01:38:26-07:00",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
+      "publishedDateTime": "2021-04-08T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -106,7 +93,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     },
@@ -123,7 +109,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 739,
+      "heat": 759,
       "tags": null,
       "images": [
         {
@@ -237,7 +223,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -379,6 +365,54 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
+      "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
+      "excerpt": "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/",
+      "originalUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-desk-010.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/",
+      "publishedDateTime": "2021-04-06T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -1570,58 +1604,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-kamala-harris-tells-un-democracy-depends-on-empowerment-of-women-live.md",
-      "title": "Kamala Harris tells UN: 'Democracy depends on empowerment of women' – live",
-      "excerpt": "Vice-President gives pointed address to the UN on gender equality and women’s rights Joanna Walters (now) and Martin Belam (earlier) Martin Pengelly Meghan Markle’s comments about the royal family in her bombshell interview with Oprah Winfrey ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050b3a78f08b617ed42799b",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050b3a78f08b617ed42799b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0d5527ef8965a1f7abaaf21c99ddb64feb58858a/0_100_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d66423618d9e5709bb8cc359a6d6bb32",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates",
-      "publishedDateTime": "2021-03-16T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }
