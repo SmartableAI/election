@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 1249
+heat: 1269
 published: true
 
 provider:
@@ -495,6 +495,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump executive’s son was given sizable salary, generous perks, documents show"
+    excerpt: "NEW YORK — Former president Donald Trump's company paid a skating rink manager more than $200,000 in annual salary, $40,000 yearly bonuses and provided free company-owned apartments for his family, according to testimony of the employee, Barry ..."
+    publishedDateTime: 2021-04-09T23:44:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROYWOTEYPII6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Pence launches new group as Trump aides line up new roles"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% WASHINGTON (AP) — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence's , which could serve as a ..."

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-03-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump.md",
+      "title": "Alex Jones seen on leaked video saying he's 'sick' of Donald Trump",
+      "excerpt": "Prominent conspiracy theorist and far-right media personality Alex Jones is seen in a newly-revealed video complaining about former President Trump and exclaiming that he wished he had never met him.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump",
+      "originalUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/jones_alex_trump_donald030221.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp",
+      "publishedDateTime": "2021-03-02T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-stephen-colbert-on-trump-he-isnt-going-to-start-a-new-party-he-already-owns-one.md",
       "title": "Stephen Colbert on Trump: 'He isn’t going to start a new party – he already owns one'",
       "excerpt": "Late-night hosts recap the rightwing CPAC summit, which featured Ted Cruz Cancun jokes and a peculiar gold statue",
@@ -1502,58 +1554,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-the-hills-1230-report-presented-by-facebook-supreme-courts-blow-to-trump.md",
-      "title": "The Hill's 12:30 Report - Presented by Facebook - Supreme Court's blow to Trump",
-      "excerpt": "Donald Trump Donald Trump Former Florida officer arrested after live streaming from inside US Capitol during breach, FBI says Schumer says he's working to find votes to confirm Biden's OMB pick Pence declined invitation to attend CPAC: reports MORE\" height=\"326\" width=\"580\" class=\"media-element file-original-image\" data-delta=\"2\" typeof=\"foaf:Image\" src=\" /> To view past editions of The Hill's 12:30 Report,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals",
-      "originalUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_7_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp",
-      "publishedDateTime": "2021-02-22T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration spending $62 million a week to care for unaccompanied migrant children"
+    excerpt: "The Biden administration is spending at least $62 million a week to care for unaccompanied migrant children in the custody of the Department of Health and Human Services, according to government data.\n    \n"
+    publishedDateTime: 2021-04-09T21:56:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xygwhumWImc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-unaccompanied-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-unaccompanied-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324190144-07-hhs-children-facility-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Prepares to Take on Gun Violence in Wake of Back-to-Back Shootings"
     excerpt: "The president is expected to unveil executive orders on Thursday that will tackle so-called ghost guns and background checks. His office also released a plan to raise $2.5 trillion by overhauling the corporate tax code."
     publishedDateTime: 2021-04-07T17:04:00Z

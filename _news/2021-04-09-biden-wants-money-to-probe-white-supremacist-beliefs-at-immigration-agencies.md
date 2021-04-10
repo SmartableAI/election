@@ -383,6 +383,22 @@ related:
         width: 812
         height: 545
         isCached: true
+  - title: "Five takeaways from Biden's first budget proposal"
+    excerpt: "President Biden Joe Biden Anne Frank's stepsister: Trump 'obviously admired Hitler' Biden-GOP infrastructure talks off to rocky start We must stop cutting China slack on climate MORE’s budget ..."
+    publishedDateTime: 2021-04-09T21:56:00Z
+    webUrl: "https://thehill.com/policy/finance/budget/547462-five-takeaways-from-bidens-first-budget-proposal"
+    ampWebUrl: "https://thehill.com/policy/finance/budget/547462-five-takeaways-from-bidens-first-budget-proposal?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/budget/547462-five-takeaways-from-bidens-first-budget-proposal?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040721getty_takeaways.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Rep. Ilhan Omar slams Biden's 'shameful' plan to restart construction on Trump's 'xenophobic and racist' wall"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Rep. Ilhan Omar has criticized President Joe Biden for continuing the construction of Donald Trump's \"xenophobic and racist\" southern border wall. \"It's shameful and unacceptable for @POTUS to continue the ..."
     publishedDateTime: 2021-04-08T11:00:00Z

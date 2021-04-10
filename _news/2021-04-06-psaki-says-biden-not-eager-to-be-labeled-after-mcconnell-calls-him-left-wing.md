@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell: Biden Supreme Court commission 'direct assault on our nation's independent judiciary'"
+    excerpt: "McConnell unloaded on the idea of packing the court and the White House’s plan to form a commission to study the idea of adding justices in a Friday press release, calling the idea a “direct assault on our nation’s independent judiciary.”"
+    publishedDateTime: 2021-04-09T22:48:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v3YcuBJEoqE/biden-supreme-court-commission-mcconnell-ginsburg-nine"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-mcconnell-ginsburg-nine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-mcconnell-ginsburg-nine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7a0f7e6-faf1-4500-93c2-37eb42e606dc/b7ac2f32-0a4f-4190-9364-f3c0ebd79280/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell says Biden's infrastructure package won't get GOP support, will oppose it 'every step of the way'"
     excerpt: "Senate Minority Leader Mitch McConnell on Thursday told reporters President Biden’s proposed $2.3 trillion infrastructure package \"is not going to get support\" from Republicans and said he plans to oppose it \"every step of the way.\""
     publishedDateTime: 2021-04-02T05:54:48Z

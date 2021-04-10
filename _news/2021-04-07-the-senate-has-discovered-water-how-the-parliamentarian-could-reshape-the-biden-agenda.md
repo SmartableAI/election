@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration spending $62 million a week to care for unaccompanied migrant children"
+    excerpt: "The Biden administration is spending at least $62 million a week to care for unaccompanied migrant children in the custody of the Department of Health and Human Services, according to government data.\n    \n"
+    publishedDateTime: 2021-04-09T21:56:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xygwhumWImc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-unaccompanied-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-unaccompanied-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324190144-07-hhs-children-facility-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Frustrated military officials want Biden to make a decision on Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden's lack of a final decision on the future status of U.S. troops in Afghanistan just three weeks before a deadline for their complete withdrawal has begun to frustrate some military officials, according to current and ..."
     publishedDateTime: 2021-04-08T16:33:00Z

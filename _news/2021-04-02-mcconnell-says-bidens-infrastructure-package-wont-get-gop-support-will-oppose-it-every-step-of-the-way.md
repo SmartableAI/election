@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell: Biden Supreme Court commission 'direct assault on our nation's independent judiciary'"
+    excerpt: "McConnell unloaded on the idea of packing the court and the White House’s plan to form a commission to study the idea of adding justices in a Friday press release, calling the idea a “direct assault on our nation’s independent judiciary.”"
+    publishedDateTime: 2021-04-09T22:48:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v3YcuBJEoqE/biden-supreme-court-commission-mcconnell-ginsburg-nine"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-mcconnell-ginsburg-nine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-mcconnell-ginsburg-nine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7a0f7e6-faf1-4500-93c2-37eb42e606dc/b7ac2f32-0a4f-4190-9364-f3c0ebd79280/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "xoxh9NJKEKknaFW2sueQmDq+Yn5dIRxmCbVoALJRc9Xf+iz1WqXR7FhjlUoKy7s+LWlwwco2HNWIFutSPdXenXA9ZRMwLQiE6efDQGXe8aA2An2W9rGir929t7ZoDKudSF1czYxt5Hi8Ez2wdye+fx/W440c+hQ0MsKHXPPx1hB4IOYrdE2betK6wukOV2UTy5v0HrPi6EGw2PuYJCQ2hnlDq6QCl6txwHbqKrjyayeEOlFO/B2a5A9l/KjyFtzPmY1F2jbx3oREyXLfwc3R3JqKhoDgwORAfy6UgsqGAAo5sjAD9r0X4VznXH6lck1jxd4ZTndJ35/+4Fr4bIYGpMDcdKt7oGB7kTVQBT4e1y8=;UiPFZS2Ajj0Kpjph6yOxSA=="
 ---

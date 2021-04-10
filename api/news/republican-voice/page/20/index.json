@@ -2,6 +2,62 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-01-08-biden-coronavirus-vaccine-plan-wont-fix-bottleneck-on-administering-shots-saphier.md",
+      "title": "Biden coronavirus vaccine plan won't fix 'bottleneck' on administering shots: Saphier",
+      "excerpt": "Fox News contributor Dr. Nicole Saphier said the incoming Biden administration's plan to release nearly all coronavirus vaccines was wrongheaded when the focus should be on administering the ones already sent out.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6-VuSRFLYcQ/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6-VuSRFLYcQ/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b02dd24-c059-4e8d-9f7d-a3c2832cf816/dbdb6cfd-324f-468d-98e0-38171c3cb2a5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-vaccine-plan-fix-bottleneck-administering-shots-saphier.amp",
+      "publishedDateTime": "2021-01-08T11:43:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-kurtz-no-president-has-been-able-to-dominate-the-media-social-media-culture-more-than-trump.md",
       "title": "Kurtz: 'No president has been able to dominate the media, social media, culture more than Trump'",
       "excerpt": "President Trump is one of the most influential presidents in United States history,” \"Media Buzz\" host Howard Kurtz said Friday.",
