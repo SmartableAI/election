@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan"
-excerpt: "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,"
-publishedDateTime: 2021-03-31T08:52:00Z
-originalUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
-webUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
-ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+title: "'We've been here before': Ohio bridge serves as a reminder of political hurdle Biden faces as infrastructure negotiations begin "
+excerpt: "The Brent Spence Bridge, which spans the Ohio River, has long been a political football and a symbol of government dysfunction.\n    \n"
+publishedDateTime: 2021-04-10T15:02:43Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ta3HV3HEFu4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ta3HV3HEFu4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html"
 type: article
-quality: 135
+quality: 146
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409160911-02-brent-spence-bridge-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -123,21 +122,21 @@ related:
       name: CNN
       domain: cnn.com
     quality: 153
-  - title: "'We've been here before': Ohio bridge serves as a reminder of political hurdle Biden faces as infrastructure negotiations begin "
-    excerpt: "The Brent Spence Bridge, which spans the Ohio River, has long been a political football and a symbol of government dysfunction.\n    \n"
-    publishedDateTime: 2021-04-10T15:02:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ta3HV3HEFu4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html"
+  - title: "Live Updates: Biden to Reveal $2 Trillion Infrastructure Plan"
+    excerpt: "President Biden is speaking near Pittsburgh in the afternoon, and will detail his proposal to fix aging bridges, roads, rail lines and utilities. He wants to pay for it by raising the corporate tax rate to 28 percent,"
+    publishedDateTime: 2021-03-31T08:52:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/31/us/biden-news-today.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 146
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409160911-02-brent-spence-bridge-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31new-washington-briefing-morninglede-1/31new-washington-briefing-morninglede-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden, in Pennsylvania, Details $2 Trillion Infrastructure Plan"
     excerpt: "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ..."
@@ -264,6 +263,6 @@ related:
         height: 773
         isCached: true
 
-secured: "caafGoMw0fGIs0J1ffzAQILIK2DzMswPm56XH7GEprmyzb4iQX60aU6CjDkCdrFIIVeuDTb9beI4tiV2vY8d6uAm1QNQS214Xr3C3xZHLXZ7dgz48qI+gtVFCTFJBBwpzny2xR1XCuAsnVYbFAh41Us0vAvPCKgDDZw0kRcxH9IH2AIgH0iK/tCpM0G8AcFOmr0c72jVHQ++j3aRevwdrGC2mLXwqN9+btvl+V/w7VJgfKCT2UJOYE5Lg6yNQ6UnhSKnbjT+TBMgyiB/LUArfB7NSIh09uG4L02znYrhOKqZ1UlqPNUoH3Gdyx3O4kd/872Xogrmwey1sLfhfgFAGjoEowKg5x2EPtHm+94wgOhlujpCz7SgNF9AmEk2NWdk6uEuTr+HveU/zr/8TOH9CirR1hh4f/zRhF3L9wv0SnqgE8aGekMxK63Z9PTFUZw6W9TSYIVEPJtzT16DJo8ywMtAAHBjyrT5neXzrUfiZZyGXjevanpd91hL3aTNtA0IQnJpZcBd0QiU2eaMv7ZWlQ==;MXxSaeTRCptLdiyClKQZwg=="
+secured: "pFDrSL87K2K6lNQtCdLG3UrvkdW4c2oJc4kk9r5tCOrQ93rNIDLfIeuL3s+V0LPmWPxnj8lfQTl0nWEWjXJPosJ/ZvU8BBc94VFgaR9wKRCFe6rpYEYlqMWVo/d6wmvjweJCQHPo6GEkzn8NlfPjkWo8T+JVuLxbLrRboqbZqGPSLngvM9hRWu1YcF0I3o3arqzqELL3ztMgMA5gVxf3u8zAte4PZU4DiDgT6d5ohwSEvHKbPZGTyt2DXKda9owBsoP4jMQ1qz9UYM9fQxAFnp1xc0A7b2Fy55ru+E7kiMKgaOBT8h7osbYlPkhLI+DfoyDVDugvwGcmPjU2nc4c45IR4eYb20lbd7S+MICICI4=;6QCy2+9lKK4AKVR9CtHFCg=="
 ---
 

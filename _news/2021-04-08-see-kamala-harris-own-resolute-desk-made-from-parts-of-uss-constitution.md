@@ -49,9 +49,9 @@ related:
         height: 800
         isCached: true
   - title: "VP Kamala Harris On Gun Control Executive Order: \"The Solutions Already Exist\""
-    excerpt: "And President Joe Biden has the will and the courage to act. — Vice President Kamala Harris (@VP) April 8, 2021 THE VICE PRESIDENT: Good morning. Over the course of my career, I have seen gun violence up close. I have looked at autopsy photographs."
+    excerpt: "Vice President Harris introduced President Biden at an event Thursday outlining Biden's new executive order targeting the gun show loophole and so-called \"ghost guns.\" The solutions to curb gun violence already exist."
     publishedDateTime: 2021-04-08T18:08:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html"
     type: article
     provider:
       name: RealClearPolitics

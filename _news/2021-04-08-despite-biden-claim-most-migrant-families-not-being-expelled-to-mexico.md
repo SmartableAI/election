@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV24H"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV24H"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
     quality: 105
     images:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/606f5fd3e4b0653eea185721-1617911763773?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
+    excerpt: "WASHINGTON — In his new $2.25 trillion infrastructure and jobs proposal, President Joe Biden promises to fix the 10 most \"economically significant\" bridges in need of reconstruction and repair 10,000 additional smaller bridges. But the American Jobs ..."
+    publishedDateTime: 2021-04-10T12:00:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7142869002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7142869002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/74546629-b6e6-4245-9335-f0bcc8799474-Miami_bridge.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

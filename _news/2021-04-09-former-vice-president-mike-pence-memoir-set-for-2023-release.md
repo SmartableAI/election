@@ -469,6 +469,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Republicans flock to Florida for donor retreat headlined by Trump"
+    excerpt: "Republican leaders and donors are descending on Palm Beach this weekend for a private donor retreat headlined by former President Trump. Despite Mr. Trump's electoral loss, and his role in inspiring a deadly attack on the U.S. Capitol just three months ago ..."
+    publishedDateTime: 2021-04-10T12:26:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-republican-donor-retreat-florida/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-republican-donor-retreat-florida/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-republican-donor-retreat-florida/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/09/efea7474-db30-41d6-9573-5543ab23572c/thumbnail/1200x630/7b83abf266ebd83c924f9cd0b2743b91/ctm-1008-trump-452699-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump addresses GOP as power to shape national debate wanes"
     excerpt: "The press releases his aides fire off on an increasingly frequent basis are more “elegant,” he says. Plus there's no risk of backlash for retweeting unsavory accounts. But since Trump. Trump transformed from a reality television star to a politician and president by bending the tools of communication and the media to his will."
     publishedDateTime: 2021-04-10T04:27:00Z

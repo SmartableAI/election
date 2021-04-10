@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump executive’s son was given sizable salary, generous perks, documents show"
-excerpt: "NEW YORK — Former president Donald Trump's company paid a skating rink manager more than $200,000 in annual salary, $40,000 yearly bonuses and provided free company-owned apartments for his family, according to testimony of the employee, Barry ..."
-publishedDateTime: 2021-04-09T23:44:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html?outputType=amp"
+title: "Republicans flock to Florida for donor retreat headlined by Trump"
+excerpt: "Republican leaders and donors are descending on Palm Beach this weekend for a private donor retreat headlined by former President Trump. Despite Mr. Trump's electoral loss, and his role in inspiring a deadly attack on the U.S. Capitol just three months ago ..."
+publishedDateTime: 2021-04-10T12:26:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-republican-donor-retreat-florida/"
+webUrl: "https://www.cbsnews.com/news/trump-republican-donor-retreat-florida/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-republican-donor-retreat-florida/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-republican-donor-retreat-florida/"
 type: article
-quality: 121
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROYWOTEYPII6XDYKGOCM6T5TTE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/09/efea7474-db30-41d6-9573-5543ab23572c/thumbnail/1200x630/7b83abf266ebd83c924f9cd0b2743b91/ctm-1008-trump-452699-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -479,22 +479,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Republicans flock to Florida for donor retreat headlined by Trump"
-    excerpt: "Republican leaders and donors are descending on Palm Beach this weekend for a private donor retreat headlined by former President Trump. Despite Mr. Trump's electoral loss, and his role in inspiring a deadly attack on the U.S. Capitol just three months ago ..."
-    publishedDateTime: 2021-04-10T12:26:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-republican-donor-retreat-florida/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-republican-donor-retreat-florida/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-republican-donor-retreat-florida/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/09/efea7474-db30-41d6-9573-5543ab23572c/thumbnail/1200x630/7b83abf266ebd83c924f9cd0b2743b91/ctm-1008-trump-452699-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump addresses GOP as power to shape national debate wanes"
     excerpt: "The press releases his aides fire off on an increasingly frequent basis are more “elegant,” he says. Plus there's no risk of backlash for retweeting unsavory accounts. But since Trump. Trump transformed from a reality television star to a politician and president by bending the tools of communication and the media to his will."
     publishedDateTime: 2021-04-10T04:27:00Z
@@ -590,6 +574,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump executive’s son was given sizable salary, generous perks, documents show"
+    excerpt: "NEW YORK — Former president Donald Trump's company paid a skating rink manager more than $200,000 in annual salary, $40,000 yearly bonuses and provided free company-owned apartments for his family, according to testimony of the employee, Barry ..."
+    publishedDateTime: 2021-04-09T23:44:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/allen-weisselberg-barry-weisselberg-trump-investigation/2021/04/09/476c1510-98bf-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROYWOTEYPII6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Pence launches new group as Trump aides line up new roles"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% WASHINGTON (AP) — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence's , which could serve as a ..."
@@ -974,6 +974,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Af1l9ecu4FONAghMlyCpE7mU9QG/JIHyZCnIeX0PTL2I+bLBbnsD90fTtGO/Q42tAKhVeFsqTX92x6jBID3OsYufLR/7bUNfamjbojYXlLM7jtreQzgIVw8nrZvdh1HP3d3YVpQMZNsqgUfXduwmOyjr+wMxU5MH7gqy2W+9hFzc5Xhn1RnGI5mc3AsjydKHzi5dSWtCqY8yHz8SOz9HoY0afRVHifQ3tc+2bEjdK1nt3WfgwNx8dpFfIgx6VccdZjPHBq+6q7FbSl/cfsTHBhVHjXUVPkm7hALvLSSonmNN1CXN6V9PXs4pEClAfBodXt9RuJ5VHsXNGJhwSCfvfN/En7anm1oMDyfhSq4kUuczhSJcxZFYeW1Uur/T9pfLaZemsm3gXF9YgNvFDZvBSea147Rf7NzWz1tYRZKWyfLUd9qHeX0xBDHmcpD4gXPWKRYzgYC0Umzyeh+bSWvfKmQmOLeZixcZVLdkcPO4E6o06OKnJWLjAF1/JgY1jmcGpcCbibM0rYPOUUpP9vbTxQ==;LAbEmhbkqqKNXYkCM3dyZA=="
+secured: "2hmQJR/gi1u4FLQ3eNPA2fgRB/jdGHQGaHo8d/0NZ0MjXYI5fFtB2pONsI8yNiYucv6Vrepiliy6sV8TzC098z6/HipJAhC+avSX65dDuBCwG7KGPIQlzaaLzRV55xvdbzsDLv2UPOD2FdX3P6jaT/yybpleiv2sqcjl7K9g49aQoQGBraUY6cRHhXP0Y8mCCqJl2nsOI9InncgAPtshxmss/M5q2Ji6JgV8/m83huigec6ZeSOsFjz9vIpxglxN0Qo9uSYY+s5jqvAi61TUIsPYpcw1gr4CyOB9k3fMwaqYu+KI2j4cM6U2Gn5Fz+suTT4MT44a5ARGsG4hisk+RjCE/vSWdhnyM4lVz0/rlZs=;iZAGgdFE8SI6KTzDz4bkLg=="
 ---
 

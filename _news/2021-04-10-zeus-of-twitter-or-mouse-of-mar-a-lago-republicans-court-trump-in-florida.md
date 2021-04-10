@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Home free: Florida town lets Donald Trump keep living at Mar-a-Lago"
-excerpt: "Palm Beach town council gave short shrift to a request from neighbors to ban the former president from residing at his resort"
-publishedDateTime: 2021-02-10T15:16:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
+title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
+excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
+publishedDateTime: 2021-04-10T14:15:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
+webUrl: "https://www.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
 type: article
-quality: 125
-heat: 185
-published: true
+quality: 123
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -25,25 +25,25 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/0bad9c40196a60bad835a1878eb3d7704de96815/0_185_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91d203e3dfa16a0deb5b6cff894308d6"
+  - url: "https://i.guim.co.uk/img/media/bdb78118b4ab8163719f4c193ae98a167d3bf9c9/0_340_4500_2701/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea6d65fd64ab15a53a9512aea1fe6b36"
     width: 600
     height: 360
     isCached: true
 
 related:
-  - title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
-    excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
-    publishedDateTime: 2021-04-10T14:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
+  - title: "Home free: Florida town lets Donald Trump keep living at Mar-a-Lago"
+    excerpt: "Palm Beach town council gave short shrift to a request from neighbors to ban the former president from residing at his resort"
+    publishedDateTime: 2021-02-10T15:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/bdb78118b4ab8163719f4c193ae98a167d3bf9c9/0_340_4500_2701/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea6d65fd64ab15a53a9512aea1fe6b36"
+      - url: "https://i.guim.co.uk/img/media/0bad9c40196a60bad835a1878eb3d7704de96815/0_185_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91d203e3dfa16a0deb5b6cff894308d6"
         width: 600
         height: 360
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 1647
         isCached: true
 
-secured: "L3AAlEZTOQMCAGYbOzBbZ7teGChA5WC2P0y57XOKXjJl883jWHRlBADKP3+6ZXOsUv9lQmPmFIhrot/TffN0SRV9vRNI1txhpTfRPtqM8WJXCpaz+70unnqrWtf7d/2ztbPwrypT1TWqjxEg7Z4b5Z33a7hVHDrYjM6ybaCMp/cit6S7LSyS/43VQe4ScLMlYuygZ1hnaxPh4Pu6OGCpl6Fl/IsJ1WFw9srfdstXiH5g8C6g30tGoIUMmAYZOer2/GrYhE2Q1UplV2PpRTeWrWqeZvdYBF26mEQGsLeGXw9IEFQ9lmk3hZoyF5/tEfZKq1wKq/ADxTM1zjYbBbxK3wgvJt4PnoRyEzy5Yq5U8FAuq6equtQ6MRQaJs98qdGz/bX/hK80/Sp2wD+bc7jizXrrNZfX80HJ6eypLN5rvflkjDeO3Nut09H3sLpIhJZW19oMhSxEWOooZK3I09JN3UicFd18U/ildmh0ob0gQYdHC5W3w23AfHYoCXdlwkd+XJvqW2pob6WFe4OGZU8KtA==;XubMRYAINs7sC7bo/2ElkQ=="
+secured: "jfHsig8sainkp6Hv3m4bzE/qpLD2RI5If3s0WTJocuwM3Y3bXHZJK6kgI+pCYHvVAsHlgp0ZGoYZ6Y5sSm2dpQXL5MoEF+uNW7BH3Ce4JQqDSM8u90RNvu9sTOBxqRK+huoVOdh/2L2WE2+y1I6EoOKmBfcO9MTPMGYO82z2QmcaK1tmr4inU5Ee4YazMJP5YEzbeC2qBUOzZSB8oDhOZvvVXSHkwHPHrBpRQC+RvhL0XLhPU0mYxLWEB41Eym+sC1OTyF/qqPoiuwNXuph1MCJ/VyvUuzb0gaJat1VFFWYIHbsIoswHy+HvLCQf4aOhfTmngnVpcNrRvuZceA03mX2EaLlOHWili8/5qemAFLE=;X2kCubw3BoeCvDD1qBWe+Q=="
 ---
 

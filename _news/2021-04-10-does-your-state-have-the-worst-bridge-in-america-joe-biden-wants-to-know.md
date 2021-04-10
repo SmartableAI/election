@@ -1,33 +1,29 @@
 ---
 category: news
-title: "West Virginia attorney general threatens to sue Biden over gun measures"
-excerpt: "on Thursday threatened to sue the Biden administration over President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of ..."
-publishedDateTime: 2021-04-08T17:54:00Z
-originalUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures"
-webUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures"
-ampWebUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+title: "Does your state have the worst bridge in America? Joe Biden wants to know"
+excerpt: "WASHINGTON — In his new $2.25 trillion infrastructure and jobs proposal, President Joe Biden promises to fix the 10 most \"economically significant\" bridges in need of reconstruction and repair 10,000 additional smaller bridges. But the American Jobs ..."
+publishedDateTime: 2021-04-10T12:00:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+ampWebUrl: "https://amp.azcentral.com/amp/7142869002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7142869002"
 type: article
-quality: 125
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
-    width: 827
-    height: 551
+  - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/74546629-b6e6-4245-9335-f0bcc8799474-Miami_bridge.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -62,6 +58,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557732445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH370ZX"
         width: 817
         height: 545
+        isCached: true
+  - title: "West Virginia attorney general threatens to sue Biden over gun measures"
+    excerpt: "on Thursday threatened to sue the Biden administration over President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of ..."
+    publishedDateTime: 2021-04-08T17:54:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
+        width: 827
+        height: 551
         isCached: true
   - title: "Biden to unveil 6 executive orders to curb gun violence, nominate a permanent ATF director"
     excerpt: "WASHINGTON – President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act the president's long-held campaign ..."
@@ -109,23 +121,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
-    excerpt: "WASHINGTON — In his new $2.25 trillion infrastructure and jobs proposal, President Joe Biden promises to fix the 10 most \"economically significant\" bridges in need of reconstruction and repair 10,000 additional smaller bridges. But the American Jobs ..."
-    publishedDateTime: 2021-04-10T12:00:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/7142869002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7142869002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/74546629-b6e6-4245-9335-f0bcc8799474-Miami_bridge.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "nvv/ep7k+7uTiFUA+fRJ/Nhsxq2llebyV2uK7mZwsqCPjJu183FRCRqZVLAlj9WB5yno/otlrjVj3dffOxICM6Jx8aYNXiqYXR17/83AmnHvYvDUm/g7XB5FPwAmP2BBD6r51ofPx8i6B8H/VMzqbBxQxU0XcGWHDYIp6Kw47bwXjkxu6dv8XMtxEa30SOfrfx6++2/A1GA6VujJ3VWD+gi7GY4P736jhhm6tRvP89BgwA2terXT89+0sho1iF5TJzVdH4lAT0XZ7HjZyQASdBMn9zNomGcjjrji8VGa0nY1yQBu5XzmzqsPNBEJQ0C6HzEjiAEQPJZ3gYLde2kO7H+3pBaYkq/nVKGyVn8Ntig=;jttdlrCR7udWh23LpWvFnQ=="
+secured: "s2ll8v9yoBTAys8ueLzwp9Dd75nqJWHnyta/4u83QZYQ6cmc8yCRHwc+DtD3VeC2ttZqeuKSmGPhlztP9ES3Jm2B1jIdP1uJQIJjitvuaqgwAfRP1ekyUAZi9qlJCDScPkbl+TI/rnT/N8om2oTlcO7pV8N+TbNRZhoq0gF4cXr44ojIyZGvIsQ5nDsyPRtViChYwVjy332cT5OFsVx7higu2QZ7HAgO0NUjb1tfH0Sfoot1BKe59xmCgJ6gsl37MQDmbaBDHuypuEjcD3M5FD6QpYF4Tzaa3LT+hlJZXTeS5eaQ5YrI6Uif4zRbWp11cdWVM3DW3k9zfwpsEsBANR3FHcqgiTMPafesJNKHxhw=;kgdFUnEeZjlaBoy6lzabqQ=="
 ---
 

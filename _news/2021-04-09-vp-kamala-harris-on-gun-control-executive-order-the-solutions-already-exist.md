@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris On Gun Control Executive Order: \"The Solutions Already Exist\""
-excerpt: "And President Joe Biden has the will and the courage to act. — Vice President Kamala Harris (@VP) April 8, 2021 THE VICE PRESIDENT: Good morning. Over the course of my career, I have seen gun violence up close. I have looked at autopsy photographs."
+excerpt: "Vice President Harris introduced President Biden at an event Thursday outlining Biden's new executive order targeting the gun show loophole and so-called \"ghost guns.\" The solutions to curb gun violence already exist."
 publishedDateTime: 2021-04-08T18:08:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html"
 type: article
 quality: 61
 heat: -1
@@ -59,6 +59,6 @@ related:
         height: 800
         isCached: true
 
-secured: "cHnYil0Au/WujjpMWJbK/2LUzYAfCmZno6OqwhKLTdKKvHv0FB2A0GeGgRgsPM1H8dSMXg3wqR63FpH5mrKC6k4E5asc6wbv6xarWmypNUiTq+UPIKxCgMNVSxbkZm/q9xNrS2rt7MQYNTCPmao0HTIHEIIqAEUkWq+LYQcRqZMdvlUqXetMu9KJ/hvt2akRuauC1vvIRpwFiGXvw4WllrkqKHNXC5k3CQSSA/dTkzF9OfzP7ciP063cZJACIzSNr5kePF9/SFMwk9Oc9HJ7NPreKifGHMBW1MzHoO7EhaQpv1+HhYlwFmEqWSeVFZy3ZqScR5FlohRBtK4NNXJ8jsu+xVWGpG94OL/GbmAh8x4=;Rk0MrTirWcJDpRbpL2bi4w=="
+secured: "VVBnRA7DEQFbaS6bc8j7+9w2B+Qja4Us7M1r4liDcvnY9ow2BUXnfafDwvQVn2MRN3wj6s8OxcWK7lmZB3L19yFnvEHpcIl5pxxEkR8hiSI7YhQPxdytYw70lW9aLc6hRCgL7IFlUZa+w9y+DN8FGBwGv0SenKrEKTw9LTxsHObA/kKncsi0UEhDDxih9qNKdyj3e6aOxdDpFCDDg5DnQs7PrH5ZsRjjD6+9x7vHRblJOHyTtdMS9nL1z7LIl+jLlE5ailLDMme9UmheB3fVCUCQSLYIOnj1vMB/JBCTEwfCTQ4pEVY05TIvveaG+tApOSCMU6CB3920nxxRQ5nmMynzSbu+uEtMyXee0Fx9cq4=;jxKOsakbqrXfSM+tRBqZ5g=="
 ---
 

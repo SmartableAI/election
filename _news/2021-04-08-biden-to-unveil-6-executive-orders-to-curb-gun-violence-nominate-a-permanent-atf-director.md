@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
+    excerpt: "WASHINGTON — In his new $2.25 trillion infrastructure and jobs proposal, President Joe Biden promises to fix the 10 most \"economically significant\" bridges in need of reconstruction and repair 10,000 additional smaller bridges. But the American Jobs ..."
+    publishedDateTime: 2021-04-10T12:00:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7142869002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7142869002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/74546629-b6e6-4245-9335-f0bcc8799474-Miami_bridge.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kg/CX5ukygVr4KvyKAN3tKgBtk816mCBT0e702BwPaN5YBBSJ8byvuKp70tqRAPfMcm/hpRVruxofVWNbq5Fl5VNnWrYK5B/swlQHNdwlQiQkUiq0bVRpjFGIRsxArdbOqcMpQLmOWJdyl+BRFDTD5KWzbs1VXlwtQPymY0iUpJY+a1H8yjVDWhMh/b9APPLXCDaZIvu6fspVKWkNlqsTOmtZvDYIDD01N+24H2p4sDe3l7DEB301QIX8laHnNJuRTC02MC2gqhdQJx2TulgYMhWOuzS8Iyb01/MYlKa48rTZM8/T03J5XExczkxoQVkPgqWBLAYOsvyiEOStVcOHjCesLYDEGCgc4EqeWhzSnfKRsppiqIXvads9af0Gcx98Lac7q5ecgS+5l2KVb+wDejikOsqZ1U215AUPjSgo7ADgo9vs/ENqcjMY8YIgIlJIxdlCwle7bcfu094vQrHmLW6t3P8kfE7rXPknQM1+rE4W96wnzodVzid4eFvIjmlB6gjJCTqc66CPydObwktZw==;LWMnj2qsk3jFcauYkpN7iQ=="
 ---
