@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Cruz accuses Biden of trying to hide 'egregious failures' on border after Mayorkas bars press from tour"
-excerpt: "Homeland Security Secretary Alejandro Mayorkas will travel to two Texas towns along the southern border Thursday, as Texas Sen. Ted Cruz accused President Biden of trying to hide \"egregious failures\" by making the event closed to the press. "
-publishedDateTime: 2021-04-08T17:42:44Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkAZeH3Ks88/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkAZeH3Ks88/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press"
-ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press.amp"
+title: "Putting Biden's Gun Control Claims to the Truth Test"
+excerpt: "There were so many lies in Vice President Kamala Harris and President Joe Bidens presentations on guns Thursday that it is hard to know where to"
+publishedDateTime: 2021-04-10T10:41:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
 type: article
-quality: 159
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/ted-cruz.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/54/540112_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -253,6 +250,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cruz accuses Biden of trying to hide 'egregious failures' on border after Mayorkas bars press from tour"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas will travel to two Texas towns along the southern border Thursday, as Texas Sen. Ted Cruz accused President Biden of trying to hide \"egregious failures\" by making the event closed to the press. "
+    publishedDateTime: 2021-04-08T17:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkAZeH3Ks88/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/ted-cruz.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Gov. Greg Abbott wants answers from Harris about migrant surge"
     excerpt: "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the"
     publishedDateTime: 2021-03-31T13:34:00Z
@@ -427,22 +440,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Putting Biden's Gun Control Claims to the Truth Test"
-    excerpt: "There were so many lies in Vice President Kamala Harris and President Joe Bidens presentations on guns Thursday that it is hard to know where to"
-    publishedDateTime: 2021-04-10T10:41:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/540112_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Joe Biden's Border Crisis"
     excerpt: "Democrats and the liberal media are policing the words we should use to describe the absolute catastrophe we're witnessing each day at the southern border. They don't like crisis or surge."
     publishedDateTime: 2021-04-05T12:06:00Z
@@ -453,6 +450,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "sswSZ7wcrju3sIcbSyqq8v5B3WvMzMCVh2kp5wEl6w5vGI2s9nqOVFpP+gCDgldUfpyWbc4jeUJAzLHXxfDqzktwh2JWgfAAzdwikpShNvM8TSV9NcZZs0tUEkpKdrVlvBBb465U7ohfbIt3t4abyOHYokLDvWU5OysGAfGjncLWUj9+PBGSAjctX5Q6oIw9tMobaaYqkjaX0UGONAXyhBFKOMBkqdrJc71CQMQ63FpdhrpX2dFBW1v0p61v195vTppIYQfiY2KHzat8XMJMNX2C2Cv0XqSgJCNIlnGgTlTv0tn0DS/rtVddsBsSol/LEGm24uJ3az5cX7KoEvU5ryo7WEBZGga/bHKnVHbEVwM=;bGlh7KP3v2oRv9ZvG7BWXA=="
+secured: "8F3sDZawJ8m7EpsAiYwjq/BaF6kHhmdwAvk6qKT5IdUevAibMUGkftokmTwR5kAGME4SOyfeAf1Vn9wUu6L/toy8iPLOu3yosEzE90bw8kZpAMQ6Lvj/SIoeK6H5jvkuDRNoUVUO1HyalYcyDD4X0nwwZC2Xad3Yfb5qctD/LV9Nd+nEqoGu2tQkzVtxnt4jKKJ5WBSPq81oaVT0hOG2v7f1kQDGR6PgtuWDVXkt7OsXqytF9Tq7E/9oB9RpPv392s+HJMAYLBn9c2IzkQXnzh13upHU6xX6+FrXmZCMTniLPAqx2uex2HCAcY7jbQ71DxYLDEJLs4x8JnBHW2yWu0Bkp4QjrE8C3Pr5LH38Pa4=;5MmY2/Mb9gPspbn2DDhNMw=="
 ---
 

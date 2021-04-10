@@ -427,6 +427,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Putting Biden's Gun Control Claims to the Truth Test"
+    excerpt: "There were so many lies in Vice President Kamala Harris and President Joe Bidens presentations on guns Thursday that it is hard to know where to"
+    publishedDateTime: 2021-04-10T10:41:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540112_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Joe Biden's Border Crisis"
     excerpt: "Democrats and the liberal media are policing the words we should use to describe the absolute catastrophe we're witnessing each day at the southern border. They don't like crisis or surge."
     publishedDateTime: 2021-04-05T12:06:00Z

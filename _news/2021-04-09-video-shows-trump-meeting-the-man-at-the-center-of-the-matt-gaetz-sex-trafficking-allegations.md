@@ -31,67 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
-    excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
-    publishedDateTime: 2021-04-07T15:30:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
+  - title: "'Radical Left CRAZIES:' Trump issues Easter greetings by attacking political rivals, griping about election loss"
+    excerpt: "WASHINGTON – Former President Donald Trump marked Easter weekend by attacking his political enemies, repeating false claims about the election, and calling for a boycott of Major League Baseball and other corporations that oppose Georgia's new election law."
+    publishedDateTime: 2021-04-04T15:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/04/crazies-donald-trump-issues-easter-greetings-attacking-rivals/7082849002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7082849002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7082849002"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."
-    publishedDateTime: 2021-04-03T10:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/60681af2a7d803001963e9f8?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Matt Gaetz is employing Trump-style fundraising pitches — including automatic recurring contributions that could dupe donors"
-    excerpt: "An envelope. It indicates the ability to send an email. Embattled Rep. Matt Gaetz on Thursday asked his supporters for a little cash, Donald Trump style. Gaetz's re-election campaign committee is employing a controversial fundraising strategy similar to ..."
-    publishedDateTime: 2021-04-09T20:21:00Z
-    webUrl: "https://www.businessinsider.com/matt-gaetz-trump-fundraising-federal-investigation-2021-04"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
-    excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."
-    publishedDateTime: 2021-04-07T19:35:00Z
-    webUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534"
-    ampWebUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
-        width: 1024
-        height: 534
+      - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/02bf48df-af87-473d-bca5-45a58a3be411-AP_Trump.1.jpg?auto=webp&crop=4239,2385,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "wDcLT8OdSbRM2vFT9euDygfm3P1UbPAtWHykfDWSPSthOXEZozCRFaCOsmpJTlkfCVBWEPdTsjVeH9znuj64RgitIBhQ3ANTlVEymozQCe/tt9F9yThPYhV9Jd9ZLNM/7NHAfWK4YD2Yw3MVHWWXXkSgOuQ1Hb4srT/A6dE29gaCHAYa8VhW4dtCXZSDdc+nbNkpBID4uYvNty979J3hOzf/zJmCUvaInq2y45vTt3WrBfJPzz7IHTHNU/EFPZ+a31wuJi+UZS2v54YNDLPf5Wq6rMgfFv1eegm2CdDp1fZTJJ7mefhkjcL8bpfvs2SeVTgGB3sbJ0RyqWPUbAIZKQ0KsvkkRYxYeM3HO371Xq8=;DvHkubIWUUpFFXL3MavYvQ=="

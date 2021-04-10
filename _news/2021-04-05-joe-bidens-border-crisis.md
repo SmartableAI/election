@@ -432,6 +432,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Putting Biden's Gun Control Claims to the Truth Test"
+    excerpt: "There were so many lies in Vice President Kamala Harris and President Joe Bidens presentations on guns Thursday that it is hard to know where to"
+    publishedDateTime: 2021-04-10T10:41:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540112_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "HUoewsfjMB1nOLw7wMq8DCD0MshopEYgJFpF+bg1VuS7gm2Zp+BOQ9AGq+uLMmvNEhZa4CydFpZGGlrL5p1jRNFa2JsLL/UUa8bB0FfDVhab48g2RdcZ+JClux6fwn/PPuXm1HYgHWMERD+krBzq3DpSzsICulTfBvGsOs9FjPg7+dhxsT3KpWFQdegh2BnMTVZ68Ty6IeGd3BZeubHbb2C1QeFuGn6rPOsAdsh2Pymy9E2xLHxU2TXU6ArkxQEvRr0bT2VqMjWnH44kfj0Otw7c0fYiZxXrN/EcffiEKlVFNcrFCONZBMUX95poV92tbxZ2IS+0xeUXdP7nuJk/lX56bf5TKv3NuHsAGLACWG8=;ZcFsn7a73fxyGxo/FU49kw=="
 ---
