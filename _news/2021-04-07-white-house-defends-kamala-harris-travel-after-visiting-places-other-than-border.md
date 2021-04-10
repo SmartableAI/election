@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
+    excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
+    publishedDateTime: 2021-04-10T01:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBb_fS1xvXQ/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45631ae7-72bf-428d-a7b5-1667c7e27db5/91b96f6d-24dd-4164-901d-e775e4998bc7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Arizona AG says Kamala Harris hasn't responded to his invitation to tour the border"
     excerpt: "Vice President Kamala Harris and the Biden administration haven't responded to his invitation for her to tour Arizona's border region, the state's attorney general claimed Thursday."
     publishedDateTime: 2021-04-09T07:55:37Z

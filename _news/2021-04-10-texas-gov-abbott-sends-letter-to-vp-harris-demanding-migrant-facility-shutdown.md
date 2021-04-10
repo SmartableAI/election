@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Mayorkas 'knows there's a crisis' at border, but has to convince Biden: Troy Nehls"
-excerpt: "Department of Homeland Security Secretary Alejandro Mayorkas has to convince President Biden that there is a crisis at the southern border, Rep. Troy Nehls, R-Texas, told \"Fox & Friends\" on Friday."
-publishedDateTime: 2021-04-09T14:24:37Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ftJfnVDmV8/mayorkas-crisis-border-convince-biden-troy-nehls"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ftJfnVDmV8/mayorkas-crisis-border-convince-biden-troy-nehls"
-ampWebUrl: "https://www.foxnews.com/politics/mayorkas-crisis-border-convince-biden-troy-nehls.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-crisis-border-convince-biden-troy-nehls.amp"
+title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
+excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
+publishedDateTime: 2021-04-10T01:35:39Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBb_fS1xvXQ/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBb_fS1xvXQ/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown"
+ampWebUrl: "https://www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
 type: article
-quality: 169
+quality: 181
 heat: -1
 published: false
 
@@ -23,11 +23,12 @@ provider:
 topics:
   - Election
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45631ae7-72bf-428d-a7b5-1667c7e27db5/91b96f6d-24dd-4164-901d-e775e4998bc7/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -94,22 +95,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Chicago-Bakery-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
-    excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
-    publishedDateTime: 2021-04-10T01:35:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBb_fS1xvXQ/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45631ae7-72bf-428d-a7b5-1667c7e27db5/91b96f6d-24dd-4164-901d-e775e4998bc7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "White House defends Kamala Harris' travel after visiting places other than border"
     excerpt: "The White House on Wednesday defended Vice President Kamala Harris' travel, as she faces scrutiny for not having visited the overwhelmed southern border, amid her latest assignment from President Biden to handle the \"root causes\" of the surge in migration in recent months."
@@ -206,6 +191,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096752997903.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Mayorkas 'knows there's a crisis' at border, but has to convince Biden: Troy Nehls"
+    excerpt: "Department of Homeland Security Secretary Alejandro Mayorkas has to convince President Biden that there is a crisis at the southern border, Rep. Troy Nehls, R-Texas, told \"Fox & Friends\" on Friday."
+    publishedDateTime: 2021-04-09T14:24:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ftJfnVDmV8/mayorkas-crisis-border-convince-biden-troy-nehls"
+    ampWebUrl: "https://www.foxnews.com/politics/mayorkas-crisis-border-convince-biden-troy-nehls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-crisis-border-convince-biden-troy-nehls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Arizona AG Brnovich invites VP Harris to tour border as crisis escalates"
     excerpt: "EXCLUSIVE: Arizona Attorney General Mark Brnovich is inviting Vice President Kamala Harris, who has been tasked with tackling the root causes of the migration crisis, to tour the southwest border in the state -- saying it will give the vice president \"firsthand insight\" into what those on the ground"
@@ -437,6 +438,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "zLShIp2SnrHG8sx1weL3Lfz+hO89ivJvFkh8lcO36ONdd6tXa9T3C7MWOJGnw/Sar2HmRrj0DJozP7bczEfO5Id/EOxISwC+OPUVsLOWCIBLFxhBw0qzTsiHQE+i5s7/pQLkZJ0xYuk0gYFkQmL+wqR2DbaEols2OQxtqsWwyWaGG5aqs7MuWDKJxcBoV+4rNOF4nDQREuO9jeWx6Em2UcHLqgBUvDSTB8yhMUFlsw6148XAHm7T8YhKDH60aoLlMb+PjCBPhy5uTDkdFnbQ8kxTkypAckdY0+pMjvJ7fbdY7wsiY7RvMjMUwBvo6yuVvLx8398pOqFiLwyyaXaNhAPE5cBnFpHW1bMU9+RTICg=;hQaD03nBgAATAq5/0PGEcw=="
+secured: "FI8PJpM9VQ9HiLWQfae53i0pqt28t9pVnISYGjMlvUuAO6SUx9qCCgsTho6r4ehGIE7DWRAgkn1tT3G3NHoJdE36I4vMhkKk8ccw0BhNkezFBV2SzGWxNvC11AgtEAx5AMKpmdGI+vpPMXujDvL9Z1WmrxG7XnQPaCigEB4a9R4zvXSOHhLZbCCwZPpUtv0SONPWuhlyn9A5/2WmIXpgs6/J5e833cXYd2gMXwpdZQ6AewvZrrhw9SmsEa0ohjZ6C6Yr5N+rb4hQD0S5yXK3bW/Uh4hRT0qyvAvLVotFdUVg3dYlNAMyMZSUwbKHlTyfarNYiMmQJzXQXsjZ9jMbur07vijgM5fG+QR15YgIPc4=;YyEL2xFNSGzhhlgodFuleg=="
 ---
 

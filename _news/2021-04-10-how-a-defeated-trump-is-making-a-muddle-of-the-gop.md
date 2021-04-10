@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
-excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
-publishedDateTime: 2021-04-07T12:59:00Z
-originalUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
-webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
-ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+title: "How a defeated Trump is making a muddle of the GOP"
+excerpt: "The former president’s instincts for red-meat political fights over governing and policymaking have left party leaders in a state of confusion over what they stand for."
+publishedDateTime: 2021-04-09T21:01:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
-    width: 1024
-    height: 649
+  - url: "https://www.chicagotribune.com/resizer/V2Kbc7pYq295Qkr6PXksY4e2z2k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L6ZGMXO2O254OOQPJXGEZXYNII.jpg"
+    width: 1200
+    height: 703
     isCached: true
 
 related:
@@ -271,6 +271,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
+    excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
+    publishedDateTime: 2021-04-07T12:59:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
+        width: 1024
+        height: 649
+        isCached: true
   - title: "Former Trump housing official sanctioned over campaign video"
     excerpt: "NEW YORK — A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday."
     publishedDateTime: 2021-04-06T18:43:00Z
@@ -430,22 +446,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "How a defeated Trump is making a muddle of the GOP"
-    excerpt: "The former president’s instincts for red-meat political fights over governing and policymaking have left party leaders in a state of confusion over what they stand for."
-    publishedDateTime: 2021-04-09T21:01:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/V2Kbc7pYq295Qkr6PXksY4e2z2k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L6ZGMXO2O254OOQPJXGEZXYNII.jpg"
-        width: 1200
-        height: 703
         isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
@@ -942,6 +942,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UvxhtxhhDBIRqymirWrzFvlX0wbsEjuVzxNPNbDNAuz70LWyL3ORe7EApk9f6Zuw8lENhtq47iIdLDh8wVXGPMrC4SqnwQvrRmm0upISOHFsYc+XDu9sNzwbVyURmA5jCTNWr5Bxmft4C8KE9h4h8SJppjNjfYYuwmntF2zbyw97TzYkdiupkiEwZrxN9n5H1Y5akZtUEOG5DHi0yQ2P0e0YpxJfy52YLwbaO6qGSODQQ3eYTElLFrPtlP6TB8UDKarAlX5Sodjza0qW95neAlVbf5eSNYmH2/5wXHWmF+eitUWPQq+K3oNA6nT9FR+8Y9jqudt9WKHiBNGon+1eTDaGdbkApdlaJghHIbsHJ8BB3xxEOZBsehC08iC7OuX+QW0zhrdlyzGVv1YNdvccAPhKv31V8IStQwAj5RSQQZBAAuEUIjoe6moB2wMSScJFY9B2BkaRs8nrGcjpc8P+AJ+slsTIxG1UHVwn2L4FbYSeqeUXEOyZfElC6C6FZBNCEZrbISwXyRDeEo1KkIOXJw==;va5pt20+W3vHeZ8yDth5xA=="
+secured: "JM1YS0uwvlrF5Deaq1L2KJRAXiC2TVLbhmKNq5NkiY58QbDgZLtIpNJcCoqPGHVwH4c9x4JpySQ97pVPoHe5cLH1XO4JM4+5NJXE11UyZrU3nFt0FXjf08yEI5E6vV3QS5Dc+HjAfZEd7Nkot8A2wbIvJqJx1/YJZdlg/gwOEmzaviMTfnjvHYAu1aNrOHJ0tPRK9hRx5LJzVCftiqUZMEc947lrgmFD9eZVZrMxdU49ocndRk+fXcFUqRPDo09FnUYnRNsfvZMZ7RYbntv6PLs0LOANsn5bYQsHIqF7Dmk983PQs5JGxTQdtZaf/NsqQhXEDEvDmMLZH3tqbSXRkOl+Ju+sS7tIWnJVEOnJqOc=;rwoD31P/akAhmQ16xxIr9g=="
 ---
 

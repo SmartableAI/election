@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Bowing to Trump? GOP Brings Leaders, Donors to His Backyard"
-excerpt: "The Republican Party is bringing hundreds of donors and several presidential prospects to the former president’s doorstep in south Florida this weekend."
-publishedDateTime: 2021-04-09T18:13:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-09/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard?context=amp"
+title: "Bowing to Trump? GOP brings leaders, donors to his backyard"
+excerpt: "PALM BEACH, Fla. — There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of donors and several future presidential ..."
+publishedDateTime: 2021-04-10T00:44:00Z
+originalUrl: "https://www.washingtonpost.com/politics/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard/2021/04/09/e15fe9ae-9995-11eb-8f0a-3384cf4fb399_story.html"
+webUrl: "https://www.washingtonpost.com/politics/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard/2021/04/09/e15fe9ae-9995-11eb-8f0a-3384cf4fb399_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard/2021/04/09/e15fe9ae-9995-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bowing-to-trump-gop-brings-leaders-donors-to-his-backyard/2021/04/09/e15fe9ae-9995-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
@@ -425,6 +431,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "How a defeated Trump is making a muddle of the GOP"
+    excerpt: "The former president’s instincts for red-meat political fights over governing and policymaking have left party leaders in a state of confusion over what they stand for."
+    publishedDateTime: 2021-04-09T21:01:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-trump-gop-20210409-x4abz3zjqrejli43c7wc4wzjx4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/V2Kbc7pYq295Qkr6PXksY4e2z2k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L6ZGMXO2O254OOQPJXGEZXYNII.jpg"
+        width: 1200
+        height: 703
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z
@@ -784,6 +806,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mayor pardoned by Trump wins another term in Illinois town"
+    excerpt: "Voters in a small Illinois town reelected a mayor who ran a write-in campaign after President Donald Trump pardoned him in a gambling investigation. Casey Urlacher, the brother of former Chicago Bears star Brian Urlacher,"
+    publishedDateTime: 2021-04-09T23:45:00Z
+    webUrl: "https://www.chron.com/sports/article/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
+    ampWebUrl: "https://www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
     excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
     publishedDateTime: 2021-04-06T20:42:00Z
@@ -883,6 +921,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "POW-MIA Flag Back Atop White House, Reversing Trump Era Decision"
+    excerpt: "POW-MIA Flag Back Atop White House, Reversing Trump Era Decision The POW-MIA flag, dedicated to prisoners of war and service members missing in action, was relocated by former President Donald Trump in 2020 from a prominent position atop the White House to ..."
+    publishedDateTime: 2021-04-09T16:13:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z
@@ -893,6 +942,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "L8vjL06rqU4ubHnHLIgivVqV6/q2MKI7AshyYSdb2FSGpj0jcdPkDc+t6nz21prK1JA2uhmSiLVO42Hfn5YEcJC52RVw55p3JTgZfSx2xVJXHUKNVQAUG1Be2t/Zg1ndQbLjYGxmy17KBmE6EfiIOSX6U+X9GimvznuIChK986fRsecysuqQyz7K1ZQ4cpqwiECI3ZKu82ZVaBbNtZzvAXHXCop63XV6DDfYYj4t8ctQC24UeOnjyAtEneOJhxOQqr/KFgwkQF7/8KvHhX7OIpe9+RnC64+T+s5VB6mapjI6ffVtRaKjlXLivbPA45gzvyEUJq0Sx9OPe8SmUkdtjyoX8UYVNwCw6q8zfGkVh/b9pZfE4hOznmInlp3jjonn2d4aJiOk1O0rXTYzW2dE112nU/tjr4wENOdJpFHHKUM4O+aRYZpyVy6wgt/sv1BH7om6SZDZr6nP4GjDnb8Yka7nlyMYNVeX5gQ+MlZGh8SpN7LBQXGW4UPsw1Xf/NUUsb4nMA4rg/DnA0Aw4Hl+UQ==;tayb1zANbUIaFqo78zKlOg=="
+secured: "oQrUZUBHh3MZy3aAl3+NOQMvnU6DdKBRXQmYFyWFnK3AZ3GqFXtQOnI5zbiN3GtGHAkTukM6Fy1RG2EKaeLX5Fy0wXCxEN8x5BZOaItp2Lo3/PF161Dqi7gLH0OSbV0Cncp9KvKeDo97B1IF5TkMbnT8PvcIVVAgotHfYABnMo6iaoVjWII+Te+Zr6M+jPDv55DmrOjcjdlIoUmj8FzTg0OQAuHOPqj1+Bb1NCEFLOVyw45Ccx0/3rUjLt7Ct9C+gjGNkfPwmI9Mf6EjaO+w3WYPtWBWqWkDBEQaTHRsPsNhQxiKPlvgmq2qNWNMfAYz7TxMd3t+Ks93nvXggFHcjG7lIbxKOcCxmszJg8nQ0RY=;RDCxhtF6qbss2/9fpzDbyQ=="
 ---
 

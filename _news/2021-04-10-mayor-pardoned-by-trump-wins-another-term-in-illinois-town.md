@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
-excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
-publishedDateTime: 2021-04-07T12:59:00Z
-originalUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
-webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
-ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+title: "Mayor pardoned by Trump wins another term in Illinois town"
+excerpt: "Voters in a small Illinois town reelected a mayor who ran a write-in campaign after President Donald Trump pardoned him in a gambling investigation. Casey Urlacher, the brother of former Chicago Bears star Brian Urlacher,"
+publishedDateTime: 2021-04-09T23:45:00Z
+originalUrl: "https://www.chron.com/sports/article/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
+webUrl: "https://www.chron.com/sports/article/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
+ampWebUrl: "https://www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
-    width: 1024
-    height: 649
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -270,6 +266,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/b3f68a28-4539-4793-a916-84745e0921ca/thumbnail/1200x630/94d4e1ba00bc9fe6727a002cf99cbe91/gettyimages-1230475710.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
+    excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
+    publishedDateTime: 2021-04-07T12:59:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
+        width: 1024
+        height: 649
         isCached: true
   - title: "Former Trump housing official sanctioned over campaign video"
     excerpt: "NEW YORK — A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday."
@@ -806,22 +818,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Mayor pardoned by Trump wins another term in Illinois town"
-    excerpt: "Voters in a small Illinois town reelected a mayor who ran a write-in campaign after President Donald Trump pardoned him in a gambling investigation. Casey Urlacher, the brother of former Chicago Bears star Brian Urlacher,"
-    publishedDateTime: 2021-04-09T23:45:00Z
-    webUrl: "https://www.chron.com/sports/article/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
-    ampWebUrl: "https://www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/sports/amp/Mayor-pardoned-by-Trump-wins-another-term-in-16090349.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
     excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
     publishedDateTime: 2021-04-06T20:42:00Z
@@ -942,6 +938,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UvxhtxhhDBIRqymirWrzFvlX0wbsEjuVzxNPNbDNAuz70LWyL3ORe7EApk9f6Zuw8lENhtq47iIdLDh8wVXGPMrC4SqnwQvrRmm0upISOHFsYc+XDu9sNzwbVyURmA5jCTNWr5Bxmft4C8KE9h4h8SJppjNjfYYuwmntF2zbyw97TzYkdiupkiEwZrxN9n5H1Y5akZtUEOG5DHi0yQ2P0e0YpxJfy52YLwbaO6qGSODQQ3eYTElLFrPtlP6TB8UDKarAlX5Sodjza0qW95neAlVbf5eSNYmH2/5wXHWmF+eitUWPQq+K3oNA6nT9FR+8Y9jqudt9WKHiBNGon+1eTDaGdbkApdlaJghHIbsHJ8BB3xxEOZBsehC08iC7OuX+QW0zhrdlyzGVv1YNdvccAPhKv31V8IStQwAj5RSQQZBAAuEUIjoe6moB2wMSScJFY9B2BkaRs8nrGcjpc8P+AJ+slsTIxG1UHVwn2L4FbYSeqeUXEOyZfElC6C6FZBNCEZrbISwXyRDeEo1KkIOXJw==;va5pt20+W3vHeZ8yDth5xA=="
+secured: "Yw4EBJyGi/4y7PQhLzj1tBumQ3LSYc/KOcE+5mMK7cqVqlVdmNB4OdSCr34jcEPaH4oJ5vkBtCjC81TMuD3Eem2jVsy2LrSyrWoUrpOl15SSlmSH4OgY8bisdVz1+s4QpNAzjKvklhzkj7ajeNmblJf7wTOaxW2OK5QZ3TDtyFtO7+s1bVW8+jDWH+mT0KDW0ScZ8A7dSoTfJprxyV8Q+hhkoYJ675zVDjVDZrrI32N0CVdP/PbS2CjA9DQaUZwNB2hKy9o6Da7V/wZN72yUlX16oezuGte/VbnCPgvU4G8scNtILPicWIebuvwaDmLQkpdriK/jN7HvU6pzD3y3BaQAgovXVjQvL9h6Xung4z0=;zok8pWWFtj92UpHK/bybLA=="
 ---
 

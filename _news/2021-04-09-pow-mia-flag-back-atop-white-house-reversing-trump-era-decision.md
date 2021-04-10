@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
-excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
-publishedDateTime: 2021-04-07T12:59:00Z
-originalUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
-webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
-ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+title: "POW-MIA Flag Back Atop White House, Reversing Trump Era Decision"
+excerpt: "POW-MIA Flag Back Atop White House, Reversing Trump Era Decision The POW-MIA flag, dedicated to prisoners of war and service members missing in action, was relocated by former President Donald Trump in 2020 from a prominent position atop the White House to ..."
+publishedDateTime: 2021-04-09T16:13:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
-    width: 1024
-    height: 649
-    isCached: true
 
 related:
   - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
@@ -270,6 +264,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/05/b3f68a28-4539-4793-a916-84745e0921ca/thumbnail/1200x630/94d4e1ba00bc9fe6727a002cf99cbe91/gettyimages-1230475710.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump Endorses Alabama's Mo Brooks for Senate"
+    excerpt: "Former President Donald Trump announced his endorsement of Representative Mo Brooks, an Alabama Republican, in his bid for a U.S. Senate seat on Wednesday morning. \"Few Republicans have as much COURAGE and FIGHT as Alabama Congressman Mo Brooks,\" Trump ..."
+    publishedDateTime: 2021-04-07T12:59:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-alabamas-mo-brooks-senate-1581614?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1772580/mo-brooks.jpg"
+        width: 1024
+        height: 649
         isCached: true
   - title: "Former Trump housing official sanctioned over campaign video"
     excerpt: "NEW YORK — A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday."
@@ -921,17 +931,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
-  - title: "POW-MIA Flag Back Atop White House, Reversing Trump Era Decision"
-    excerpt: "POW-MIA Flag Back Atop White House, Reversing Trump Era Decision The POW-MIA flag, dedicated to prisoners of war and service members missing in action, was relocated by former President Donald Trump in 2020 from a prominent position atop the White House to ..."
-    publishedDateTime: 2021-04-09T16:13:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-09/pow-mia-flag-back-atop-white-house-reversing-trump-era-decision?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z
@@ -942,6 +941,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UvxhtxhhDBIRqymirWrzFvlX0wbsEjuVzxNPNbDNAuz70LWyL3ORe7EApk9f6Zuw8lENhtq47iIdLDh8wVXGPMrC4SqnwQvrRmm0upISOHFsYc+XDu9sNzwbVyURmA5jCTNWr5Bxmft4C8KE9h4h8SJppjNjfYYuwmntF2zbyw97TzYkdiupkiEwZrxN9n5H1Y5akZtUEOG5DHi0yQ2P0e0YpxJfy52YLwbaO6qGSODQQ3eYTElLFrPtlP6TB8UDKarAlX5Sodjza0qW95neAlVbf5eSNYmH2/5wXHWmF+eitUWPQq+K3oNA6nT9FR+8Y9jqudt9WKHiBNGon+1eTDaGdbkApdlaJghHIbsHJ8BB3xxEOZBsehC08iC7OuX+QW0zhrdlyzGVv1YNdvccAPhKv31V8IStQwAj5RSQQZBAAuEUIjoe6moB2wMSScJFY9B2BkaRs8nrGcjpc8P+AJ+slsTIxG1UHVwn2L4FbYSeqeUXEOyZfElC6C6FZBNCEZrbISwXyRDeEo1KkIOXJw==;va5pt20+W3vHeZ8yDth5xA=="
+secured: "GFzquLoL2YCrjiwhoUfhtjieUXyB+Ev80PyK7odjJxXzh2Axsh6qzvWjofv7LHhHKvhuaQspgxepFKJ94TUwZ/ytUoO6r2zxj7xdjxvoeR1GrzLLW4JprAx9Xs/HJXl2dof9ihbq+K0fPYO2aMhv671s50sPeddfJzxr1ArKvYCayIg8BxCvH7W6yXY+L17Il3FJZ8Zc2auI24lLfS7lmLsUPMrRxR2PqSlS5N3Fn0Eot2TWNhHY0CeJIthF0UMTycNut68KApSunDLgfTjeHN7ms6EyE5LOWdcNJqeYIpyiiH98yaoJChYinhcyKWK8GVvAeBNc7H4NEOJgpVFSWNIBDE49CCu6kq5+4Ck83Rtz7StVexnJzwGqgUcGg47ooqzcHjxJaStL7RoTUFG1Tj0UFdlyc8ALA2+/kd03frhKzf9CAxyfGfl/avBio2gfVqBprHXQ0LFV4IR8WLO5sbm93FQpnxMByl7fkI//m1QLZAiUER7ed+V+xf4zXudI8rFen2qPbTSifPgHRFEshQ==;nokkYI84b5OAQRSOzLKxmg=="
 ---
 

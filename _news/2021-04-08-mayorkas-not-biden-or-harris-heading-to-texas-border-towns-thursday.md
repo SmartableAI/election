@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayorkas-biden-harris-texas-border.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp"
 type: article
 quality: 199
-heat: 699
+heat: 719
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Chicago-Bakery-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
+    excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
+    publishedDateTime: 2021-04-10T01:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBb_fS1xvXQ/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45631ae7-72bf-428d-a7b5-1667c7e27db5/91b96f6d-24dd-4164-901d-e775e4998bc7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "White House defends Kamala Harris' travel after visiting places other than border"
     excerpt: "The White House on Wednesday defended Vice President Kamala Harris' travel, as she faces scrutiny for not having visited the overwhelmed southern border, amid her latest assignment from President Biden to handle the \"root causes\" of the surge in migration in recent months."
