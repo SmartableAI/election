@@ -2,6 +2,107 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-11-trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report.md",
+      "title": "Trump blasts Sen. Mitch McConnell at Mar-a-Lago dinner: report",
+      "excerpt": "Former President Donald Trump called Senate Minority Leader Mitch McConnell a “son of a bitch” during a donor soiree at Mar-a-Lago on Saturday, according to a report. Trump veered from his ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/",
+      "originalUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/574B6A7F-43F5-45A9-906F-1534BA25472F.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/amp/",
+      "publishedDateTime": "2021-04-10T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-vice-president-mike-pence-pleaded-with-the-acting-defense-secretary-to-clear-the-capitol-as-pro-trump-rioters-overran-the-building-report.md",
+      "title": "Vice President Mike Pence pleaded with the acting defense secretary to 'clear the Capitol' as pro-Trump rioters overran the building, report says",
+      "excerpt": "Vice President Mike Pence, who was in the building when the Capitol riot began, made an urgent call amid the chaos. \"Clear the Capitol,\" Pence told Acting Defense Secretary Christopher Miller, the Associated Press reported. Pence was in a \"secure location ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60726ada4943790018bb1ce1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp",
+      "publishedDateTime": "2021-04-10T20:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-donald-trump-tumbles-down-forbes-billionaires-while-kim-kardashian-lands-on-list.md",
       "title": "Donald Trump tumbles down Forbes' billionaires while Kim Kardashian lands on list",
       "excerpt": "Forbes magazine estimated former President Trump's wealth fell from $3.5 billion to $2.4 billion. moving him from 1,001st place to 1,299th.",
@@ -379,7 +480,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1489,
+      "heat": 1509,
       "tags": null,
       "images": [
         {
@@ -793,63 +894,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-run-ron-run-trump-prods-undecided-johnson-to-seek-reelection.md",
-      "title": "'Run, Ron, Run': Trump prods undecided Johnson to seek reelection",
-      "excerpt": "Sen. Ron Johnson hasn't decided whether he will run for reelection next year, but he already has the most powerful endorsement in Republican politics: former President Donald Trump's. Johnson, who was first elected in the 2010 Republican wave and won a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/08/trump-endorses-ron-johnson-reelection-480354",
-      "originalUrl": "https://www.politico.com/news/2021/04/08/trump-endorses-ron-johnson-reelection-480354",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/50/36/5f94a2584e2ebdc318940894dca5/20210408-ron-johnson-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/08/trump-endorses-ron-johnson-reelection-480354",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/trump-endorses-ron-johnson-reelection-480354",
-      "publishedDateTime": "2021-04-08T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-trumps-judicial-appointments-worsened-racial-diversity-in-the-federal-courts.md",
       "title": "Trump's judicial appointments worsened racial diversity in the federal courts",
       "excerpt": "President Donald Trump's appointments made it worse. In just four years, Trump placed 234 judges with lifetime tenure to the federal courts, making up 28% of the current federal judiciary. An overwhelming number — 192 — of Trump's active appointments ...",
@@ -1223,7 +1267,7 @@
       "originalUrl": "https://www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1529,63 +1573,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-supreme-court-dismisses-trump-twitter-case-as-moot-as-thomas-highlights-glaring-concern-of-platforms-power.md",
-      "title": "Supreme Court dismisses Trump Twitter case as moot, as Thomas highlights 'glaring concern' of platform's power",
-      "excerpt": "The Supreme Court on Monday deemed former President Donald Trump's appeal of a ruling that said it was unconstitutional for him to block critics, deeming his page to be a protected public forum. The court called for the case to be dismissed, as Trump is no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
-      "originalUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
-      "publishedDateTime": "2021-04-05T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

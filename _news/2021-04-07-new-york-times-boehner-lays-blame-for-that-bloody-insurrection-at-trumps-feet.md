@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Head of Capitol security task force says Trump fed insurrectionists 'a little BS'"
-    excerpt: "Retired Lt. Gen. Russel Honoré, who led a review of security failures around the January 6 insurrection, said Tuesday that the US Capitol attack was fueled by a \"information operation\" led by former President Donald Trump that involved feeding Americans \"a little BS\" and then allowing them to act on"
-    publishedDateTime: 2021-04-06T22:38:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PpycyPf-GhA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/honore-trump-propoganda-us-capitol-attack/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405114655-honore-sot-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Supreme Court wipes away ruling that said Trump violated Constitution by blocking Twitter followers"
     excerpt: "The Supreme Court on Monday wiped away a lower court opinion holding that then-President Donald Trump violated the First Amendment when he blocked followers from his Twitter account.\n    \n"
     publishedDateTime: 2021-04-05T14:07:54Z
@@ -79,22 +63,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401220308-conclu-trump-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Boehner Blasts Trump, Saying He ‘Incited That Bloody Insurrection’"
-    excerpt: "In his new book, John Boehner, the Republican former House speaker, sharply rebukes the former president for his role in the “mob violence” at the Capitol on Jan. 6."
-    publishedDateTime: 2021-04-07T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/us/politics/john-boehner-trump-capitol-riot.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/07trump-boehner/07trump-boehner-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Trump claims Gaetz 'never asked me for a pardon'"
     excerpt: "Former President Donald Trump said Wednesday that embattled Rep. Matt Gaetz (R-Fla.) “has never asked me for a pardon,\" disputing a New York Times report that Gaetz asked the former president for a blanket pardon as Trump's term in office was coming to a ..."

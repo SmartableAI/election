@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-20-biden-harris-travel-to-atlanta-to-comfort-asian-americans.md",
+      "title": "Biden, Harris travel to Atlanta to comfort Asian Americans",
+      "excerpt": "President Joe Biden and Vice President Kamala Harris are offering solace to Asian Americans and a reeling nation as they visit Atlanta just days after a white gunman killed eight people, most of them",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-harris-offer-solace-denounce-racism-in-atlanta-visit/2021/03/19/d3942976-8918-11eb-be4a-24b89f616f2c_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-19T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-biden-meets-with-un-security-council-members-to-talk-climate.md",
       "title": "Biden meets with UN Security Council members to talk climate",
       "excerpt": "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ...",
@@ -1510,58 +1563,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-biden-in-vaccine-rollout-push-as-states-rush-to-reopen-live-updates.md",
-      "title": "Biden in vaccine rollout push as states rush to reopen – live updates",
-      "excerpt": "Promised increase in vaccine supply comes as Republican Governors drop Covid restrictions",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates?page=with:block-603f372d8f08be9d080d97cd",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates?page=with:block-603f372d8f08be9d080d97cd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0d374997ea15d3d82e0e9cc669c176a17b2f06bd/0_99_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1231205c6cf2cf6d1ad5813d6d260444",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates",
-      "publishedDateTime": "2021-03-03T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

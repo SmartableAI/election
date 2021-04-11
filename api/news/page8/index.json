@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-01-christian-pastor-claims-biden-surrounded-by-demonic-hedge-of-protection.md",
+      "title": "Christian Pastor Claims Biden Surrounded By 'Demonic Hedge of Protection'",
+      "excerpt": "Pastor Mario Murillo claimed this week that President Joe Biden is surrounded by a \"demonic hedge of protection,\" urging fellow Christians to pray for a \"powerful move of God\" to bring it down. \"War has been declared on your faith,\" Murillo said during the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476",
+      "originalUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1768836/mario-murillo.png",
+          "width": 1439,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1",
+      "publishedDateTime": "2021-04-01T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-jill-biden-urges-farmworkers-to-get-vaccinated-in-california.md",
       "title": "Jill Biden urges farmworkers to get vaccinated in California",
       "excerpt": "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated",
@@ -1273,62 +1325,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
-      "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
-      "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIjfA_StU2M/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIjfA_StU2M/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Lin-Wood-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "publishedDateTime": "2021-03-30T16:14:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

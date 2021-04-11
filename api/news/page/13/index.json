@@ -2,6 +2,63 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-23-msnbcs-brian-williams-touts-ad-from-disgraced-lincoln-project-linking-trump-to-atlanta-spa-shootings.md",
+      "title": "MSNBC's Brian Williams touts ad from disgraced Lincoln Project linking Trump to Atlanta spa shootings",
+      "excerpt": "MSNBC anchor Brian Williams touted a new ad released by the disgraced Lincoln Project last week that tried to tie former President Donald Trump's rhetoric about the coronavirus to the March 16 Atlanta spa shootings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
+      "originalUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
+      "publishedDateTime": "2021-03-22T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.md",
       "title": "Biden HHS to turn San Diego Convention Center into migrant shelter",
       "excerpt": "The Biden Administration is turning the San Diego Convention Center into a temporary shelter to support unaccompanied children seeking asylum in the United States.",
@@ -1276,63 +1333,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-biden-dhs-chief-says-border-is-closed-but-us-wont-expel-children.md",
-      "title": "Biden DHS chief says 'border is closed' but U.S. won't expel children",
-      "excerpt": "In brief comments Sunday, President Joe Biden said he would visit the border \"at some point,\" adding that \"a lot more\" can be done to ensure migrants don't travel to the border. \"We’re in the process of doing it now, including making sure that we ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "originalUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/00/1e/27b010b6460faf698bb791ed8d3c/210321-mayorkas-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "publishedDateTime": "2021-03-21T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

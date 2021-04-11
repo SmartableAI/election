@@ -208,22 +208,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "McConnell remains undecided on convicting Trump in Senate trial"
-    excerpt: "McConnell said last week that the earliest the Senate could take up the articles would be Jan. 19, unless all 100 senators agree to come back early."
-    publishedDateTime: 2021-01-14T11:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/mcconnell-remains-undecided-convicting-trump-senate-trial-n1254168"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254168"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254168"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438574/201229-mitch-mcconnell-jm-1456_9251998545a2096bbf31d2253f4de884.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "House Moves Forward With New Impeachment Charge Against Trump"
     excerpt: "House Democrats introduced an article of impeachment against President Trump for inciting a mob that attacked the Capitol last week. Republicans blocked a move to formally call on Vice President Mike Pence to strip him of power under the 25th Amendment."
     publishedDateTime: 2021-01-11T17:38:00Z

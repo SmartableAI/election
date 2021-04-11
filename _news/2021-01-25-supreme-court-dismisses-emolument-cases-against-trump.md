@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
 type: article
 quality: 175
-heat: 995
+heat: 975
 published: true
 
 provider:
@@ -394,22 +394,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/04/30/us/onpolitics-capitol/onpolitics-capitol-facebookJumbo-v3.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "McConnell Was Done With Trump. His Party Said Not So Fast."
-    excerpt: "After four years, the minority leader had finally had enough. But with most Republicans rallying around Donald J. Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T01:29:00Z
-    webUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-mcconnell/27dc-mcconnell-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

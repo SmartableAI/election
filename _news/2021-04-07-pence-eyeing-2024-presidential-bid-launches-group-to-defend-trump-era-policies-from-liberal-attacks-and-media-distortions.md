@@ -528,6 +528,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump Says COVID-19 Vaccine Should Be Called 'Trumpcine'"
+    excerpt: "Former President Donald Trump addressed a crowd Saturday night in south Florida, telling folks that vaccinations for the COVID-19 pandemic should be called \"Trumpcine\" instead of the regular vaccination monikers. The crowd listening to the former president ..."
+    publishedDateTime: 2021-04-11T03:56:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-says-covid-19-vaccine-should-called-trumpcine-1582676"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-says-covid-19-vaccine-should-called-trumpcine-1582676?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-covid-19-vaccine-should-called-trumpcine-1582676?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1775566/donald-trump.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Trump in 2024? He says only that 'a Republican' will win"
     excerpt: "Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee"
     publishedDateTime: 2021-04-10T21:41:00Z

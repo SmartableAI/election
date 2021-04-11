@@ -414,22 +414,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "McConnell Was Done With Trump. His Party Said Not So Fast."
-    excerpt: "After four years, the minority leader had finally had enough. But with most Republicans rallying around Donald J. Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T01:29:00Z
-    webUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-mcconnell/27dc-mcconnell-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "After Trump, Democrats set out on a mission to 'repair the courts'"
     excerpt: "The White House and senators are coordinating on an ambitious judicial project. Some Democrats want to fill every vacancy by the end of 2022."
     publishedDateTime: 2021-01-30T10:01:00Z

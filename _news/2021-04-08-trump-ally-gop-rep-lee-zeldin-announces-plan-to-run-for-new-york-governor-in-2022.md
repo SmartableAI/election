@@ -32,37 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump endorses Republican ally Mo Brooks for Alabama Senate "
-    excerpt: "Former President Donald Trump on Wednesday endorsed Rep. Mo Brooks' campaign for US Senate in Alabama, supporting the controversial GOP congressman who stood by him during two impeachments and led the House effort to object to the 2020 election results.\n    \n"
-    publishedDateTime: 2021-04-07T15:46:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AleWIwgGNT4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/trump-endorses-mo-brooks-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/trump-endorses-mo-brooks-senate/index.html"
+  - title: "Andrew Giuliani, former Trump aide and son of Rudy Giuliani, says he plans for to run for governor of New York"
+    excerpt: "Andrew Giuliani, the son of former New York Mayor Rudy Giuliani, says he's planning to run for governor of the heavily Democratic state next year.\n    \n"
+    publishedDateTime: 2021-04-07T16:16:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBJsVK-1j-w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407134450-trump-mo-brooks-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407105332-andrew-giuliania-file-2020-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP firebrand and Trump supporter Rep. Mo Brooks enters Alabama Senate race"
-    excerpt: "A conservative firebrand and staunch supporter of former President Donald Trump who came under fire for remarks preceding the attack on the U.S. Capitol has joined the Alabama GOP primary field to replace Sen."
-    publishedDateTime: 2021-03-23T00:22:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/gop-firebrand-trump-supporter-rep-mo-brooks-enters-alabama-senate-n1261783"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261783"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261783"
+  - title: "Ten more members of Congress join NAACP lawsuit against Trump and Giuliani for conspiring to incite US Capitol riot"
+    excerpt: "Ten members of Congress who were in the House gallery as rioters breached the Capitol on January 6 are adding their names to the lawsuit first filed in February against former President Donald Trump and his former personal attorney Rudy Giuliani.\n    \n"
+    publishedDateTime: 2021-04-07T13:46:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rnQJP9Yji0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
+      name: CNN
+      domain: cnn.com
+    quality: 153
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433234/201204-mo-brooks-ew-1007a_ec81ffa32885c503eda5df6b732a7b2b.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407122614-nadler-waters-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Gaetz runs the Trump playbook for scandal: Keep talking, and talking"
+    excerpt: "One thing the former president proved is that unless you're Donald Trump and sit in the White House, his strategy doesn't work as well."
+    publishedDateTime: 2021-03-31T21:32:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/0f/fa/d04271264dcea2393f58d534ba8d/210331-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "‘A mini-Trump’: New York mayoral candidates look to take down Yang"
+    excerpt: "Everybody’s ganging up on Andrew Yang. The New York City mayor’s race has grown more vicious in recent weeks — and the favorite target is Yang, who has come under attack for everything from his basic income and tax plans to his employment history and his second home upstate."
+    publishedDateTime: 2021-04-07T23:57:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/04/07/a-mini-trump-new-york-mayoral-candidates-look-to-take-down-yang-1371914"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5e/95/d37a7ce14b17857aa856828419c8/gettyimages-1310969538-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "9N4cM2RTSVNEBtL3Q9aHluqDCyDMRNH9qzEtkDbT9ovevvRukHwoFel3Tk0fDv8QCfas/dhmnpoaRdwkpWA2ED4WYoaHVv/Iqe+IH1aPNhH2KyHJ398e+KXmMNNtloDm+Su6rQaozhnFUJu0anYWkmch5UK4DqM1ZOym6iC+q53vmQNrVZ2Jigv/R/aZ9wUbgWpBiKQaYvHrUH2PdC4CDY+ZVYkkqQ/wWp/k2HsKb2PrFyI/f//YZnhTsVD7bVl4vUmGzXC571cRMFTUcwc4UPWqHuxt9rTTNiDV2rmgNOxyqvuucFVXjX3P94e4WHSizAN4fVOBf+pxFDwQsgUGWHrf7mRd0TZyZolnVdmoo6g=;lTfE/+xkg8++1OF708jLTA=="

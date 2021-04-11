@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP firebrand and Trump supporter Rep. Mo Brooks enters Alabama Senate race"
+    excerpt: "A conservative firebrand and staunch supporter of former President Donald Trump who came under fire for remarks preceding the attack on the U.S. Capitol has joined the Alabama GOP primary field to replace Sen."
+    publishedDateTime: 2021-03-23T00:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/gop-firebrand-trump-supporter-rep-mo-brooks-enters-alabama-senate-n1261783"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261783"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261783"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_49/3433234/201204-mo-brooks-ew-1007a_ec81ffa32885c503eda5df6b732a7b2b.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "VRxbPixaJe/0fAaZwpc1Z86cbpx3F3+H4uaJDt5lqo2/Te5218o80zXCk+842hpDXPMcPX6+TU01cKtIRdi8BuW1ROfQQDqDbhW4z02eIo5z1eFJOG2NiFBJtV8QsNk2TGdYHoMdGJ+QG0mIyb+jRUwRgTK2Zepzc0aSTbg8QdlofaoQs44XCx54esMU37CYLoN/1LzEORQjygoE2nFZL0c4/3Nfwq3n7PCPGFOlofHRfE1GUNGrBUip8eWv2dw3xxWZvBV5qGJ/4C/F9Od62vpym5kR+gj5GKhe7prJgT1TNv4+e69TNYJkLFhSYqY+d3JdOXp+qmPjNE27YTIXgyepIugUefmi9ziBlf3t9s5NuFtnMvHGcKEq9x6g9MWxD61B1T+/AjsH8/yjIxeAXXbXlh4X/jLy90ZfrwZNJgIarjDJ2V1d3X0eR8nYg9B4+EybHPBEK2QpemuMsBfUtkx+//b+lOo0KhkZqrORlQzSggM7iVFLIV5bRnLtqD9+talxh3kQBt35JgSrKiAPlA==;ap8HoeYn/z1zqT/Oi8fhXQ=="
 ---

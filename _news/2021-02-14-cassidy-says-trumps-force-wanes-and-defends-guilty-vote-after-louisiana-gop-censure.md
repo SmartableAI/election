@@ -159,22 +159,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell will vote to acquit Trump in second impeachment trial"
-    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
-    publishedDateTime: 2021-02-13T14:47:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Republicans acquitted Trump again, but this time is different"
     excerpt: "Former President Donald Trump's second acquittal by the US Senate proved the enduring power he holds over the Republican Party, with the results Saturday setting the dangerous precedent that even an autocratic leader who violates his oath of office can escape punishment if he bullies enough senators"
     publishedDateTime: 2021-02-14T05:21:57Z
@@ -284,22 +268,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump rips McConnell in lengthy statement after being acquitted in impeachment trial"
-    excerpt: "Former President Donald Trump went after Senate Minority Leader Mitch McConnell on Tuesday, calling him \"a dour, sullen, and unsmiling political hack\" in a broadside attack just days after the Kentucky Republican voted to acquit Trump in his second impeachment trial.\n    \n"
-    publishedDateTime: 2021-02-16T22:55:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/96Kw5LyuNZk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/trump-mcconnell/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/trump-mcconnell/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

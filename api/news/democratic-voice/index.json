@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-11-trump-repeats-election-lies-and-insults-mcconnell-in-front-of-rnc-donors-in-palm-beach.md",
+      "title": "Trump repeats election lies and insults McConnell in front of RNC donors in Palm Beach",
+      "excerpt": "Former President Donald Trump repeated familiar lies about the 2020 election and insulted Senate Minority Leader Mitch McConnell Saturday when speaking to Republican National Committee donors gathered for the first time since Trump's defeat, a person in the room told CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vANdLjsN-6g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vANdLjsN-6g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 442,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200103144837-trump-sobre-ataque-qasem-suleimani-hoy-el-mundo-es-mejor-sot-00010015-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html",
+      "publishedDateTime": "2021-04-10T20:28:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-matt-gaetz-shows-donald-trumps-defiant-style-is-here-to-stay.md",
       "title": "Matt Gaetz shows Donald Trump's defiant style is here to stay ",
       "excerpt": "In a fiery defense of his reputation Friday night, embattled Florida Rep. Matt Gaetz showed how former President Donald Trump's brash, defiant politics now serve as the template for survival for the most unwelcome figures in a Republican Party that's out of power in Washington and desperately trying",
@@ -239,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 234,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -335,63 +391,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-run-ron-run-trump-prods-undecided-johnson-to-seek-reelection.md",
-      "title": "'Run, Ron, Run': Trump prods undecided Johnson to seek reelection",
-      "excerpt": "Sen. Ron Johnson hasn't decided whether he will run for reelection next year, but he already has the most powerful endorsement in Republican politics: former President Donald Trump's. Johnson, who was first elected in the 2010 Republican wave and won a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/08/trump-endorses-ron-johnson-reelection-480354",
-      "originalUrl": "https://www.politico.com/news/2021/04/08/trump-endorses-ron-johnson-reelection-480354",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/50/36/5f94a2584e2ebdc318940894dca5/20210408-ron-johnson-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/08/trump-endorses-ron-johnson-reelection-480354",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/trump-endorses-ron-johnson-reelection-480354",
-      "publishedDateTime": "2021-04-08T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -576,7 +575,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -801,7 +800,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -818,62 +817,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html",
       "publishedDateTime": "2021-04-07T09:16:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-trump-endorses-republican-ally-mo-brooks-for-alabama-senate.md",
-      "title": "Trump endorses Republican ally Mo Brooks for Alabama Senate ",
-      "excerpt": "Former President Donald Trump on Wednesday endorsed Rep. Mo Brooks' campaign for US Senate in Alabama, supporting the controversial GOP congressman who stood by him during two impeachments and led the House effort to object to the 2020 election results.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AleWIwgGNT4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AleWIwgGNT4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407134450-trump-mo-brooks-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/trump-endorses-mo-brooks-senate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/trump-endorses-mo-brooks-senate/index.html",
-      "publishedDateTime": "2021-04-07T08:46:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1140,7 +1083,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 228,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -1671,6 +1614,63 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.md",
+      "title": "Trump peeled away Latino voters nationwide in 2020, a new analysis found.",
+      "excerpt": "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/02/us/politics/02new-washington-briefing-latino-voters/02new-washington-briefing-latino-voters-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "publishedDateTime": "2021-04-02T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-09-will-joe-bidens-jim-crow-big-lie-boomerang.md",
+      "title": "Will Joe Biden's Jim Crow Big Lie Boomerang?",
+      "excerpt": "The big lie works -- until it doesn't. The big lie in this case is Joe Biden's charge that the changes in Georgia election law passed by",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.html",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/540038_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.amp.html",
+      "publishedDateTime": "2021-04-09T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-joe-bidens-slip-saying-aft-rather-than-atf-goes-viral.md",
       "title": "Joe Biden's Slip Saying 'AFT' Rather Than 'ATF' Goes Viral",
       "excerpt": "President Joe Biden's verbal stumble over the abbreviation for the Bureau of Alcohol, Tobacco, Firearms and Explosives was seized on by his right-wing opponents and shared widely online on Thursday as he moved to install a gun control advocate as head of ...",
@@ -1522,63 +1570,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
       "publishedDateTime": "2021-03-31T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-brit-hume-calls-out-dishonest-politifact-for-grading-his-description-of-biden-as-senile-false.md",
-      "title": "Brit Hume calls out 'dishonest' PolitiFact for grading his description of Biden as 'senile' false",
-      "excerpt": "Fox News senior political analyst Brit Hume fired back Wednesday at the liberal-leaning PolitiFact for an October \"fact check\" attempting to debunk his description of then-Democratic presidential nominee Joe Biden as \"senile.\" \"Elderly people experiencing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false",
-      "originalUrl": "https://www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/defd4564-7d3d-4be3-b577-46d0755716d1/0b2bd964-8a09-40cd-93c3-1e50f70bc81c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false.amp",
-      "publishedDateTime": "2021-03-31T17:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

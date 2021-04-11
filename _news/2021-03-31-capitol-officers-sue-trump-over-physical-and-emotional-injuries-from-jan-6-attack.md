@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Ex-Trump Official Fined and Barred From Government Over R.N.C. Video"
-    excerpt: "Lynne Patton recruited and interviewed public housing tenants in New York City for a pro-Trump re-election video. The residents accused her of tricking them into participating."
-    publishedDateTime: 2021-04-06T17:27:00Z
-    webUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/06/nyregion/06nypatton1/06nypatton1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Reopened offices leave some workers cold, Facebook groups fill the void and Trump's surprising rebrand"
     excerpt: "For many, the next Covid-19 pandemic challenge is a return to \"normalcy.\" This morning we are looking at what going back to the office means, plus Trump ditching his iconic brand and how a Chicago teacher ignited a firestorm over one country's Nazi legacy."
     publishedDateTime: 2021-04-05T11:55:00Z

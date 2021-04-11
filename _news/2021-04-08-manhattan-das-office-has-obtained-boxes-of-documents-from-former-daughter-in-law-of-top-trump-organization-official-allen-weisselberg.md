@@ -47,36 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Former In-Law of Trump Executive Gives Prosecutors Boxes of Documents"
-    excerpt: "The handover of the documents suggests prosecutors are stepping up pressure on the executive, Allen H. Weisselberg."
-    publishedDateTime: 2021-04-08T21:31:00Z
-    webUrl: "https://www.nytimes.com/2021/04/08/nyregion/trump-investigation-weisselberg.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/08/nyregion/trump-investigation-weisselberg.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/08/nyregion/trump-investigation-weisselberg.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/08/nyregion/08nyvance-trump/08nyvance-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
-    excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."
-    publishedDateTime: 2021-04-06T18:42:00Z
-    webUrl: "https://www.cnn.com/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 108
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "j5htUzHFKaPB2znmscP3tLn3/2afBSjz9n9wooXw4LvZuY8qQRBWmPq/mCJ1Fyho+Ig8/Dw3m2xgD/mgPUHAzLNidCmQcUd+LTVA+QluXT5UL9Jy7jljZH4eGkokwH5v0cnjnqVxz/BHufxLqqT7TDvNekDTQs+jdz7ZTXiMZtF5vLW0ZnPo4m9H/9Cldm5PR06HPtxwEwsWX5eVDlEJ2f2r5nDe44fCH7uUqndEoSkylBZbD9STIjinsFFwiaovj4hap+TqS2aiUsYiQYp4Afg561vjvf01Yo+okRGDjH6luz63wgjKlH5Q75ORVuVPnrx7Dviw0XT1v+tz2Z+IDLDmpQziyLByQDV9x7dyFlY=;hReJA6gS8rK8s+ICcsj/JA=="
 ---

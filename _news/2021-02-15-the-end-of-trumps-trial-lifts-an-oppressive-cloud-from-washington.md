@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell blames Trump but voted not guilty anyway"
-    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
-    publishedDateTime: 2021-02-14T00:42:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Federal judge blocks last-minute Trump rule limiting asylum claims"
     excerpt: "A federal judge in California blocked a Trump-era rule that went into effect just a day before Joe Biden took office and sought to dramatically limit the ability of Central American migrants to claim asylum in the United States\n    \n"
     publishedDateTime: 2021-02-16T18:38:14Z

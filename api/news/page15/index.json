@@ -2,6 +2,62 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-18-biden-dispatches-democratic-senator-to-ethiopia-amid-tigray-crisis.md",
+      "title": "Biden dispatches Democratic senator to Ethiopia amid Tigray crisis",
+      "excerpt": "President Joe Biden is dispatching one of his top congressional allies to Ethiopia to meet with Prime Minister Abiy Ahmed amid the humanitarian crisis in that country's Tigray region.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bLqnfmgmz8k/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bLqnfmgmz8k/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210225095126-sen-chris-coons-0222-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/chris-coons-tigray/index.html",
+      "publishedDateTime": "2021-03-18T15:00:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-biden-calls-his-second-in-command-president-harris.md",
       "title": "Biden calls his second-in-command 'President Harris'",
       "excerpt": "President Biden appeared to misspeak in a speech Thursday offering updates on an update on vaccination progress in the U.S., referring to his vice president as “President Harris.” ",
@@ -1289,63 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions.md",
-      "title": "Texas governor: Biden must answer for ‘enticing unaccompanied minors into inhumane conditions’",
-      "excerpt": "Texas Gov. Greg Abbott called out President Joe Biden’s border policies. The governor said, “reckless” policies are causing a surge in border crossing and the president must answer for “enticing unaccompanied minors into inhumane conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
-      "originalUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/abbott-00_01_00_23-Still001.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo108709957557",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo108709957557",
-      "publishedDateTime": "2021-03-17T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

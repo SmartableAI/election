@@ -527,6 +527,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump Says COVID-19 Vaccine Should Be Called 'Trumpcine'"
+    excerpt: "Former President Donald Trump addressed a crowd Saturday night in south Florida, telling folks that vaccinations for the COVID-19 pandemic should be called \"Trumpcine\" instead of the regular vaccination monikers. The crowd listening to the former president ..."
+    publishedDateTime: 2021-04-11T03:56:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-says-covid-19-vaccine-should-called-trumpcine-1582676"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-says-covid-19-vaccine-should-called-trumpcine-1582676?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-covid-19-vaccine-should-called-trumpcine-1582676?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1775566/donald-trump.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Trump in 2024? He says only that 'a Republican' will win"
     excerpt: "Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee"
     publishedDateTime: 2021-04-10T21:41:00Z
@@ -1068,6 +1084,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "lcM6hL5ckWOfPrR27zcHkqLjtkmc7bSxEx7lb2ZbCePZIjJC+S61ovY3w4E8Iz3H+B4x7UQ/hClmYYCmJAMFGkAfoiyEFnD81tXXX3w3kJ9g4qIUonBTKmeqNMHsfSDJFdtuok6rKp+6WGgtGNUPXB1Ry89szBaOIbhZVngvT/GaC5qApnpKdB7d2Op5G1bbE0YUVT/I/+l1gP82A0Vd+tlYhQsLE2OhYCMuKqrqsJKCtUhwuaKFnrMk3qwNvsrEcTaHm4IuOgVqeUoCx2QCQF66YS3OCC9pnXFlOOw9LYATVLTG5QIxeTJwdRTH/y/UMC6p+cjkBA/E2YtzLRmlhkkbd+xITlLgg00SlpGgSIk=;5lf7xvtO2Y8S3sJdXD9u/A=="
+secured: "jAN50d0O5cA7Sv3oOExB1OLNQTcdMgkxfRsMlrc+hCJGvVr797LpRbyEipQSBIfHwumy7i4G+re522qOlzRoXT/j00rSseX+Cb2tHMiiCW1aGn/jlY3CvxwlYE/Rf9Zx3ZPege36xzU1bA9NDTThPbab93n8nvq3r9+d6zR3WJI6uG3R0PkJx3b3kZTHrXSvrwpPVaSJMYS0mNv9DTDffHi6AAEj2Ll9F6seUJmO0LFXdUWRSIdLELAjS9BQp8xVX0UJUJaZxJ1+eiO4o7J40iXSriAGm4DulCJs4obZr8kf+BN1MGZhCPNAqtG4G+mwmPYE5MPhfjc6NaFB/zwxBbKb4xyFxiIGE0xUhmnNKT+FfIqaNPICyOO7wqyKGfyxhN9o/czuxFZzE0lwbyyq4yqHImG2vzlfhFSbVs44adVEKgxAXW+NdxFXnpVgZHha952yeR+mPWUIBVWz9aNmvruYNZLX2HM6qdDrA+u/mrJrjKvQxZvWmKTMr7K3LbUTumxIJ2Ypn+MmvkUGuwUpiA==;e8/eqeqmLbErQ1JElsYm7A=="
 ---
 

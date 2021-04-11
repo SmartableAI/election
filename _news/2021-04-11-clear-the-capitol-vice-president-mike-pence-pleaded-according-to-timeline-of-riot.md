@@ -3,18 +3,18 @@ category: news
 title: "‘Clear the Capitol,’ Vice President Mike Pence pleaded, according to timeline of riot"
 excerpt: "WASHINGTON – From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
 publishedDateTime: 2021-04-10T22:22:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
-ampWebUrl: "https://amp.indystar.com/amp/7177010002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7177010002"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7177010002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7177010002"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Vice President Mike Pence pleaded with the acting defense secretary to 'clear the Capitol' as pro-Trump rioters overran the building, report says"
+    excerpt: "Vice President Mike Pence, who was in the building when the Capitol riot began, made an urgent call amid the chaos. \"Clear the Capitol,\" Pence told Acting Defense Secretary Christopher Miller, the Associated Press reported. Pence was in a \"secure location ..."
+    publishedDateTime: 2021-04-11T03:40:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/60726ada4943790018bb1ce1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'Clear the Capitol,' Pence pleaded, timeline of riot shows"
     excerpt: "WASHINGTON (AP) — From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
     publishedDateTime: 2021-04-10T23:23:00Z
@@ -42,6 +74,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
+    excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
+    publishedDateTime: 2021-04-07T23:33:00Z
+    webUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 67
+    images:
+      - url: "https://thumbnails.texastribune.org/aqe7-Li9PzIZ9QIexP_8OQM_5Q8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/6f9c74896c525bff9a658560eee0db9c/Escobar%20Impeachment%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "‘Clear the Capitol,’ Pence pleaded, according to previously undisclosed document on January 6 riots"
     excerpt: "WASHINGTON — From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
@@ -74,6 +122,6 @@ related:
         height: 687
         isCached: true
 
-secured: "D0JnCG174GHK76IFpT/CKbUrluXlVFt8v32CWiC7UqAZBHMulxGj/ctjMbO/dgOTwdJUhH20TejOVPd8a4Eg4dKoHFKeHatupdvH+zEr0UEQRQy4yW10BRL3bkk2hftMbS/HlFR3kX9TacmU0PS5LAGuLhl7+6x0rbUI7JPZodSb7iy9UbSaZoLCJLUt1OqjSaDIChedUlbIZczv72x5CvTHmrCF9J0OmVIz7faoxoXGXCmp5PJlVt9DStw6/szlhER7luCMexECFKyWlGY6CV9DPXacigD9TEG1W9lwiI0AmrPEVTFwXwERbJwZh2iUuaFK+gWHkiFnPL1StqOhj0FB5jIhG3Fp9q4xSXKJxtM=;X3P4VxHH3wxDAnfg+9OYiw=="
+secured: "IYimvscC43vKwpkdfq1XVEido5vfg1ltdvV2ygqyLHs+tSGZehUldH+n6C12Ufk8G6Ttjkg4iBdflp3HxvkQj3yx2aTAxeJjOVQ5+D6kh6ME77Z0kSpvhWgN0Qx8pChFmPk8Y6ZDVyKM2mhh7jyZKHxAqT10tjN7Qo3Te3jOiRgaY41bcvtthIQcIymmKxziPKaSNXe+tKAgu84RNxzDVvrVDveM3dhl0nVVPr/MhBfpD0ehuewMKJyvfyLPlWkM19Gswfs40oXccXLUrnHxwsiGAhDa5AUPAqMhyIZPz3AUZIccW0EuO1+jEZvCB9z/FKKblU0oiOr71cWuFxRuBcAjfL3o2Myue0+Cb5z1Wc8=;9z85+SBVbObmjy2fmHcFBw=="
 ---
 

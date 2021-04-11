@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell blames Trump but voted not guilty anyway"
-    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
-    publishedDateTime: 2021-02-14T00:42:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The end of Trump's trial lifts an oppressive cloud from Washington"
     excerpt: "The conclusion of Donald Trump's impeachment trial finally ends the ex-President's stranglehold on Washington's every waking moment and offers President Joe Biden a first chance to fully exercise his influence and power.\n    \n"
     publishedDateTime: 2021-02-15T09:32:11Z

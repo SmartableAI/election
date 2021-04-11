@@ -2,6 +2,63 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-02-16-fauci-defends-harris-starting-from-scratch-claim-now-knocks-trump-vaccine-rollout.md",
+      "title": "Fauci defends Harris 'starting from scratch' claim, now knocks Trump vaccine rollout",
+      "excerpt": "White House chief medical adviser Dr. Anthony Fauci reversed his previous rejection Tuesday of claims that the Biden administration was \"starting from scratch\" with the rollout of the coronavirus vaccine.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/57KtG5YlgyA/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/57KtG5YlgyA/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad71656b-2875-49eb-84fa-d680c5cbc2f2/3169cfb5-6a85-407b-9d32-61d055c27ff9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp",
+      "publishedDateTime": "2021-02-16T14:03:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.md",
       "title": "Biden, Cuomo didn’t discuss COVID nursing home scandal, Psaki says",
       "excerpt": "It was the elephant in the Oval Office, but somehow, President Biden and Gov. Andrew Cuomo didn’t discuss his COVID-19 nursing home scandal when they met last week.",
@@ -1277,58 +1334,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of-parkland-shooting.md",
-      "title": "Biden calls for 'commonsense gun law reforms' on anniversary of Parkland shooting",
-      "excerpt": "President Biden called on Congress to pass \"commonsense gun law reforms\" on Sunday in a message marking the third anniversary of the shooting at Marjory Stoneman Douglas High School in Parkland, Fla.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
-      "originalUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_020521getty_stocks.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/538825-biden-calls-for-commonsense-gun-law-reforms-on-anniversary-of?amp",
-      "publishedDateTime": "2021-02-14T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

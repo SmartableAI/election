@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-vio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html"
 type: article
 quality: 168
-heat: 228
+heat: 208
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Trump Official Fined and Barred From Government Over R.N.C. Video"
-    excerpt: "Lynne Patton recruited and interviewed public housing tenants in New York City for a pro-Trump re-election video. The residents accused her of tricking them into participating."
-    publishedDateTime: 2021-04-06T17:27:00Z
-    webUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/06/nyregion/lynne-patton-rnc-video-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/06/nyregion/06nypatton1/06nypatton1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Capitol officers sue Trump over 'physical and emotional injuries' from Jan. 6 attack"
     excerpt: "WASHINGTON — Two Capitol Police officers are suing former President Donald Trump over “physical and emotional injuries” they suffered during the attack on the Capitol Jan. 6, which they say was incited by the former president. Officers James ..."
     publishedDateTime: 2021-03-31T11:53:00Z
