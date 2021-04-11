@@ -463,6 +463,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Memo: Biden's five biggest foreign policy challenges"
+    excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
+    publishedDateTime: 2021-04-11T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/547480-the-memo-bidens-five-biggest-foreign-policy-challenges"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/547480-the-memo-bidens-five-biggest-foreign-policy-challenges?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/547480-the-memo-bidens-five-biggest-foreign-policy-challenges?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040921getty-istock-mm_illustration_memo-foreign-policy_web.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Rep. Ilhan Omar slams Biden's 'shameful' plan to restart construction on Trump's 'xenophobic and racist' wall"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Rep. Ilhan Omar has criticized President Joe Biden for continuing the construction of Donald Trump's \"xenophobic and racist\" southern border wall. \"It's shameful and unacceptable for @POTUS to continue the ..."
     publishedDateTime: 2021-04-08T11:00:00Z

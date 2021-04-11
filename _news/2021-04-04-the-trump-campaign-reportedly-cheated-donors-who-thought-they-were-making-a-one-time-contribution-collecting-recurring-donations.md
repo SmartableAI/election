@@ -559,6 +559,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump : The key to Republican success is more Trumpism"
+    excerpt: "Former President Donald Trump has used a closed-door speech at his resort in Palm Beach, Florida, to reinforce his commitment to the Republican Party PALM BEACH, Fla. -- Staking his claim to the ..."
+    publishedDateTime: 2021-04-11T11:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b6d49faf981243478c6e3448b9a3e707_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What’s Donald Trump up to these days? I tried to find out via Instagram"
     excerpt: "Jimmy Carter returned to his peanut farm and found that it was $1m in debt. George W Bush got into painting. It’s early days, but Donald Trump’s post-presidential life has been just like his presidency: non-traditional. Aside from setting up an eyebrow ..."
     publishedDateTime: 2021-04-11T05:01:00Z
@@ -762,6 +778,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump's plan to start his own social media platform is doomed to failure, say experts"
+    excerpt: "Donald Trump is very unlikely to launch a successful new social media network, experts told Insider."
+    publishedDateTime: 2021-04-11T08:03:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/607075044943790018bb19fd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Former Trump HUD official fined and barred from federal employment for violating Hatch Act"
     excerpt: "A former political appointee under the Trump administration has been disciplined ... and Urban Development to support former President Donald Trump's reelection campaign, the U.S. Office of ..."
     publishedDateTime: 2021-04-06T20:38:00Z
@@ -842,6 +874,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump predicts GOP will retake Congress in 2022 and White House in 2024 in speech to party donors"
+    excerpt: "Former President Trump on Saturday night told the Republican Party's top donors that he's optimistic about the GOP's chances for success in the 2022 midterms and to recapture the White House in 2024, according to prepared remarks obtained by CBS News."
+    publishedDateTime: 2021-04-11T11:08:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-speech-republican-prediction-mcconnell/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-speech-republican-prediction-mcconnell/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-speech-republican-prediction-mcconnell/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/10/9fdbd163-ce60-44f7-89f0-1464dcfa335b/thumbnail/1200x630/55fd884a5fa00c86c738e6c0e07307c3/gettyimages-1231446747.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump wants you to start calling it the 'Trumpcine' instead of the COVID-19 vaccine, report says"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump wants you to start calling the COVID-19 vaccine by a different name. \"Trumpcine\" is the former president's desired moniker for the life-saving jab, CNN reporter Kevin Liptak said on ..."
     publishedDateTime: 2021-04-11T11:25:00Z
@@ -887,6 +935,20 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg"
         width: 3000
         height: 2221
+        isCached: true
+  - title: "Business faces tricky path navigating post-Trump politics"
+    excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to ..."
+    publishedDateTime: 2021-04-11T12:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003949"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_37370ceddace4329b0f0bf646b592260_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump expected to affirm commitment to GOP, raise possibility of other Republican nominee in 2024 at closed-door speech"
     excerpt: "PALM BEACH, FLA. — Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee — in a closed-door speech to donors Saturday night."
@@ -995,22 +1057,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/03/members-of-the-national-guard-remain-in-washington.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Trump : The key to Republican success is more Trumpism"
-    excerpt: "PALM BEACH, Fla. (AP) — Staking his claim to the Republican Party, former President Donald Trump is casting his populist policies and attack-dog politics as the key to future GOP success. In a closed-door speech Saturday night to donors at his Mar-a-Lago ..."
-    publishedDateTime: 2021-04-11T11:54:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-The-key-to-Republican-success-is-more-16092436.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Trump to give keynote speech to GOP donor meeting at his Mar-a-Lago home and club"
     excerpt: "Former President Donald Trump will be delivering the keynote speech at a Republican National Committee donor event on Saturday — and he won’t have to go far. Trump was to speak Saturday night at his Mar-a-Lago club in Palm Beach, Fla., where he has ..."

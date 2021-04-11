@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden strengthens Obama's legacy while seeking his own"
+    excerpt: "With sweeping economic recovery plans, President Joe Biden seeks his own legacy like the New Deal or Great Society. But he's also bolstering Barack Obama's.\n    \n"
+    publishedDateTime: 2021-04-11T13:44:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ScIMC1hWZ1A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/11/politics/joe-biden-obamacare-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/joe-biden-obamacare-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212124553-biden-health-care-eo-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Joe Manchin just crushed liberals' dream for Joe Biden's first term"
     excerpt: "With just 15 words, Joe Manchin ended the possibility that Joe Biden's first term would live up to the hopes that liberals had for it on everything from gun control to voting rights to even, possibly, the size and scope of the President's $2 trillion infrastructure bill.\n    \n"
     publishedDateTime: 2021-04-08T14:36:02Z

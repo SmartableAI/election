@@ -222,6 +222,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "New voter restrictions are based on a lie told to appease Trump voters"
+    excerpt: "Additionally, 60% of Republicans incorrectly agree that the election was stolen from Republican Donald Trump. These polls are the latest to indicate that Republicans mistakenly think that the 2020 election wasn't legitimate, when it clearly was."
+    publishedDateTime: 2021-04-11T12:07:00Z
+    webUrl: "https://www.cnn.com/2021/04/11/politics/voting-restrictions-analysis/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/11/politics/voting-restrictions-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/voting-restrictions-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322174406-01-georgia-voting-lines-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
     excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
     publishedDateTime: 2021-01-14T08:22:00Z

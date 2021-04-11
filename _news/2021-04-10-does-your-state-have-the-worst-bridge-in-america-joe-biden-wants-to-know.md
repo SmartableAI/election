@@ -75,6 +75,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "Biden praises settlement in dispute between electric vehicle battery makers"
+    excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
+    publishedDateTime: 2021-04-11T13:06:00Z
+    webUrl: "https://thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers"
+    ampWebUrl: "https://thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_032421getty_biden.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "South Korean battery makers agree last-minute deal in boost to Biden's EV policy"
     excerpt: "An announcement of the battery makers’ settlement is expected by Sunday, the sources said. The agreement is a win for President Joe Biden who has made boosting electric vehicles and U.S. battery production a top priority. The global auto industry is ..."
     publishedDateTime: 2021-04-11T02:36:00Z
@@ -161,6 +177,6 @@ related:
       domain: time.com
     quality: 85
 
-secured: "C9huhWDUipM0P9URypTDHhKwXfO6x1KUSiY+WwjI5woZ95ILF5YDXraRy/fIg8nf0HCHpmAaok61T6wDZpLUQSJy6iyCpI6VjcgLvIgJ2B7wup19XDvYLXxzET1HPCJul0JzBAlXfIgfC1H82K4P74wNlaZaBRP0k25PJw25spJJM5ARRNFJR4be2FECrzp/G6RCMJQOoSwHdIP7TFHhQr0eRJFpELNHIkkX6gK5kRQQPjSxulG2pZ+f6Lfq1nkC47aAFymPRls1OsGITXEyEdPceA+QjLtCTjd07vKe7Xd+iE/cTqebrx7nNBkJKvI7CQXeVI+8H6qvS7n7V1L2c0wXuRxhtXixB7mo4BnTJv0=;AfZ5f7gdbL+sBIjeDK6rJQ=="
+secured: "RTC8xLW7/YMd4ddZodC8iGp/TFso7IqZ1XEc9GiuotnHM8/0pxdRb+Nr3GSHGMyY8Bv1/Q62AiGwpg/TCk7kdhHlliNaNCtfPX4gyyhrmfQtVxk/ICsFhRA5Ne2OiP8dFPWIpRUNaGt+Bs1wUfX4LzB3EsNijGi+yLn1WoNP2XPRKKdNzN4E4D0p7vvESMkhzj+rh8i0wfqAZSsL4lkuQHRy8QnshuvyRShH3oXnkbgzz2zNjkI21GAzYBt8nPvP7nUY0Z0oJGfOZPZ3BfGQBOyuMl8mTLFgQPXQpbcKLUjqXZHX/DGjPyCG9hgyRC2WP8QtOyWzdOIuk6H7ruvy12ymZ+c6A7SIcEKYFxCyhV2H8BRK7JhE5zLR99aMRGihvIXqPx+jlCRLn6uQH/gMToijjtPK1WCIrG9gpeMBj8GzvgGJffJtj7w1F1O5kfarlx/IIAqvf+uaIN812tWNGoCm0JiIqivnav8eRgh+HMNtiuv5a/pyhIQePyyh/1JqNVIV/P299RU6YmQe2zhg2A==;SwRIe/0a8KsICNkCUiUt5A=="
 ---
 

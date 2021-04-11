@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV24H"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV24H"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     images:
       - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
         width: 827
+        height: 551
+        isCached: true
+  - title: "Biden praises settlement in dispute between electric vehicle battery makers"
+    excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
+    publishedDateTime: 2021-04-11T13:06:00Z
+    webUrl: "https://thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers"
+    ampWebUrl: "https://thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_032421getty_biden.jpg"
+        width: 980
         height: 551
         isCached: true
   - title: "South Korean battery makers agree last-minute deal in boost to Biden's EV policy"

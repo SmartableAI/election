@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden strengthens Obama's legacy while seeking his own"
+    excerpt: "With sweeping economic recovery plans, President Joe Biden seeks his own legacy like the New Deal or Great Society. But he's also bolstering Barack Obama's.\n    \n"
+    publishedDateTime: 2021-04-11T13:44:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ScIMC1hWZ1A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/11/politics/joe-biden-obamacare-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/joe-biden-obamacare-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212124553-biden-health-care-eo-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Manchin on his veto power over Biden agenda: 'It's not a good place to be'"
     excerpt: "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n"
     publishedDateTime: 2021-03-11T00:49:42Z

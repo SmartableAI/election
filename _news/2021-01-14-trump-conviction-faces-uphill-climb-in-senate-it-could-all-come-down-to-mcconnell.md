@@ -224,6 +224,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "New voter restrictions are based on a lie told to appease Trump voters"
+    excerpt: "Additionally, 60% of Republicans incorrectly agree that the election was stolen from Republican Donald Trump. These polls are the latest to indicate that Republicans mistakenly think that the 2020 election wasn't legitimate, when it clearly was."
+    publishedDateTime: 2021-04-11T12:07:00Z
+    webUrl: "https://www.cnn.com/2021/04/11/politics/voting-restrictions-analysis/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/11/politics/voting-restrictions-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/voting-restrictions-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322174406-01-georgia-voting-lines-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Dumb son of a bitch': Trump rips McConnell at Mar-a-Lago"
     excerpt: "Former President Donald Trump ripped into Senate Minority Leader Mitch McConnell before a Republican National Committee donor retreat Saturday evening, deriding him as a “dumb son of a bitch.” Trump veered off his prepared during a roughly 50-minute speech before several hundred well-heeled GOP donors at his Mar-a-Lago resort in South Florida,"
     publishedDateTime: 2021-04-11T04:07:00Z
