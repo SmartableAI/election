@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump tweets can't be brought back to life on Twitter"
-excerpt: "The often colourful tweets of former president Donald Trump are being preserved for posterity but may never appear again on Twitter. The National Archives and Records Administration (Nara) is working to create an official online archive. But, according to ..."
-publishedDateTime: 2021-04-08T11:33:00Z
-originalUrl: "https://www.bbc.com/news/technology-56675272"
-webUrl: "https://www.bbc.com/news/technology-56675272"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-56675272"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-56675272"
+title: "What’s Donald Trump up to these days? I tried to find out via Instagram"
+excerpt: "Jimmy Carter returned to his peanut farm and found that it was $1m in debt. George W Bush got into painting. It’s early days, but Donald Trump’s post-presidential life has been just like his presidency: non-traditional. Aside from setting up an eyebrow ..."
+publishedDateTime: 2021-04-11T05:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/apr/11/donald-trump-mar-a-lago-instagram"
+webUrl: "https://www.theguardian.com/us-news/2021/apr/11/donald-trump-mar-a-lago-instagram"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/11/donald-trump-mar-a-lago-instagram"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/donald-trump-mar-a-lago-instagram"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/27A4/production/_116384101_mediaitem116381016.jpg"
-    width: 1024
-    height: 576
+  - url: "https://i.guim.co.uk/img/media/32be4a8b752f71e718f8113f9a63e12ad4651f63/0_133_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a7d7343ad182408151b6331b53681ae"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -383,6 +383,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump tweets can't be brought back to life on Twitter"
+    excerpt: "The often colourful tweets of former president Donald Trump are being preserved for posterity but may never appear again on Twitter. The National Archives and Records Administration (Nara) is working to create an official online archive. But, according to ..."
+    publishedDateTime: 2021-04-08T11:33:00Z
+    webUrl: "https://www.bbc.com/news/technology-56675272"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-56675272"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-56675272"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/27A4/production/_116384101_mediaitem116381016.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Twitter says it will not archive tweets from Trump's suspended account"
     excerpt: "Tweets from the permanently suspended account of former President Trump will not be preserved on the platform, Twitter confirmed in a statement to CBS News. But the social media company said it is working with the National Archives and Records ..."
     publishedDateTime: 2021-04-09T00:14:00Z
@@ -542,22 +558,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b6d49faf981243478c6e3448b9a3e707_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "What’s Donald Trump up to these days? I tried to find out via Instagram"
-    excerpt: "Jimmy Carter returned to his peanut farm and found that it was $1m in debt. George W Bush got into painting. It’s early days, but Donald Trump’s post-presidential life has been just like his presidency: non-traditional. Aside from setting up an eyebrow ..."
-    publishedDateTime: 2021-04-11T05:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/11/donald-trump-mar-a-lago-instagram"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/11/donald-trump-mar-a-lago-instagram"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/donald-trump-mar-a-lago-instagram"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/32be4a8b752f71e718f8113f9a63e12ad4651f63/0_133_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a7d7343ad182408151b6331b53681ae"
-        width: 600
-        height: 360
         isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
@@ -1116,6 +1116,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "OTeiY0bRTeHdGzKP00hRC2UKaf/XDYYuKLxGURQSXVTm1jcV9BEintcV660yN03GvWARYPb+6Mn+GKczncispWCxPA2dJ7qezCUqyj0AH05WKSH6kF4zsrX8BwcWyn1j+OFdfxv6f+r294tY7RpJScbVTPT7uI55pIM/XMPD1d3yfzqnA41VsB0GVvDAbHqPz/7Uft9pJMUP7Dyo0BXI0UUgTzouDRyPvh5nYEccDkhQdAYXPVnWqlt1buKzznOB6KZiA23Kx4Gytd6dCpqtH23uDhPkNq4IRVdT09DCdSBfLlAUs+1cgX70wvpdThIpjlSJEBznc4io6qJ7ugyNqB/NI9iwIrQC3+HJAf1aLH534O/QC6NMrhNTm7I9xJhksim8I52dOHourTTWUsCZZ2EmZ0y1nDeMASg7Y7Oq2HWMgzGVEiVf5MjyEavF/c8AXTBlmrQ5mpJ2UqM0UxgNDxJOQNPCTgcD45ywmSF+b+BB0GT/5BG7kc7xtmpUhVC8e4OG7A+qdy+AjxwBQqiI+A==;VhzARSuN1uTRuCWVoy3pyA=="
+secured: "eD66B9Fn2CjXH8gv1sp3UqyJzW1LldM9IAtcl5lYhckudMZAfkIcF47tVz73iXfD+8aFxug5qDFKiikDn21xnvLcSI/oA7rJTIToLD9FAtKf6f9KTebHhpDeSt1XXrt78ZGBmNXkSCvZplU9aE7Uf/FHIYvQBNu2y6XQTFDqlJfI572p//jPtsz9Dn/Lj7jObkrutnhl4v6Rd9NOaqjKdKZNUIEngqhNPSON0gEgbuVeZQULtyIO7nAqlKf3ZkYjKB9SNiYAo4bciZpcWse9b1qGBgaijngu8hR65n+R8i02GM7fBqMezxexYxQdIWWD/5VcuMLcKLAVnp5DKWsER8Hl1GSAI5pqXEMRDDtYgj4=;oWQ7hOBjwoNLWen5Pv3XjQ=="
 ---
 

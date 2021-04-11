@@ -31,51 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump on the ballot again? Daughter-in-law Lara ponders Senate run"
-    excerpt: "Photograph: Chip Somodevilla/Getty Images The Trump flags and yard signs are still up. Flags that shout “Impeach Biden” fly on the back of pickup trucks. “Most people here believe Donald Trump is still the president,” says Nancy Allen of her ..."
-    publishedDateTime: 2021-04-03T05:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans"
+  - title: "Nancy Pelosi Was Set To Retire From Politics Before Trump Election Win in 2016: New Book"
+    excerpt: "House Speaker Nancy Pelosi said the victory of Donald Trump in the 2016 election felt like \"a mule kicking you in the back\" and convinced her to remain in politics, according to an upcoming biography. Assured that the Democratic contender Hillary Clinton ..."
+    publishedDateTime: 2021-04-10T14:03:00Z
+    webUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612"
+    ampWebUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
     images:
-      - url: "https://i.guim.co.uk/img/media/dbb525dc690d09b3956ee913a02d71a72e7d5adb/0_63_4269_2561/master/4269.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00ef5a90d76b2b847e7b97239dee1c5b"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump is facing legal jeopardy on multiple fronts. Here are the lawyers in his corner."
-    excerpt: "Former President Donald Trump has numerous lawyers defending him amid endless legal peril. But some familiar names have drifted from Trump's orbit."
-    publishedDateTime: 2021-04-07T08:01:00Z
-    webUrl: "https://www.businessinsider.com/trump-is-facing-legal-risk-on-many-fronts-meet-the-lawyers-in-his-corner-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/606cba1e70954f00191957d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Lara Trump On Fox News? What Eric Trump’s Wife Will Do Amid Fallout From 2020 Election"
-    excerpt: "Lara Trump has found a new job following her father-in-law Donald Trump’s exit from the White House. On Monday, Fox News announced Lara Trump, the wife of Eric Trump, has been hired as a contributor."
-    publishedDateTime: 2021-03-29T21:27:00Z
-    webUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306"
-    ampWebUrl: "https://www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-fox-news-what-eric-trumps-wife-will-do-amid-fallout-2020-election-3171306?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 82
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
-        width: 1024
-        height: 683
+      - url: "https://d.newsweek.com/en/full/1775435/speaker-house-nancy-pelosi.jpg"
+        width: 3600
+        height: 2401
         isCached: true
 
 secured: "xAWty5PIqZz13EfH8ISye2McQYTgR/ONY2qhxsBzbgDpvFoRZZOwK0KPZxZl0nOyP4lqn2EVS29zFfKAyb+Y5vxumuS0K8iw+MPRysDgMp2wJ91bwOY8ovtfq+ytATEplAviM7eeEcO8bYj/ApXnG5+F6aegcA1+Pu0vdYmkMLBm8I0/hap6sjcRlM4KdvGwec6g1hmCwiI7AKk/cMKSvEoubexqgDpTm1+ZccBHrdDAoXfeVhPxBHQUQCac0npFJVmRi5JUloA8qbDGtVNmzavKodrWEu1QXF8wgQPup1vppUaKHnzFQVT7lkg99s2IRHzWoAZcuxF3aSjKeDwBpcDWdeZ+5LU3HbzmEjxyq7GBcnulyxGStN2TPB8PmPnXSk5n4GH0e3DKuNzaYThmo0n/xXtgmokDFFfUUd8qi+N3prfVlFfsUOku1ZRAt4HppCz2URALyMf8iLHHG8pyoPVeW5UJbxouM6Ok5y2fp5DKvCiaFxI+MbJNOpHkaUJqztVeC/GwvD7bY9wnWdTH9A==;4eRbe3L64iQbM/WRdZqfZQ=="

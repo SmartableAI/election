@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-31-james-blassingame-and-sidney-hembys-lawsuit-against-donald-trump.md",
+      "title": "James Blassingame and Sidney Hemby’s Lawsuit Against Donald Trump",
+      "excerpt": "Case No.: DONALD J. TRUMP : : : Defendant. COMPLAINT 1. This is a complaint for damages by U.S. Capitol Police officers for physical and emotional injuries caused by the defendant Donald Trump's wrongful conduct inciting a riot on January 6, 2021 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/31/doc-1302982-blassingame-20210330-complaint-redacted1-promo/doc-1302982-blassingame-20210330-complaint-redacted1-promo-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/interactive/2021/03/31/us/politics/blassingame-hemby-20210330-complaint-redacted.amp.html",
+      "publishedDateTime": "2021-03-31T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-trump-advisor-peter-navarro-went-on-a-wild-rant-on-fox-news-calling-fauci-the-father-of-the-coronavirus.md",
       "title": "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus",
       "excerpt": "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ...",
@@ -1486,58 +1543,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-cpac-2014-trump-compares-obamas-disapproval-rating-to-carters.md",
-      "title": "CPAC 2014: Trump compares Obama's disapproval rating to Carter's",
-      "excerpt": "Addressing CPAC in Oxon Hill, Maryland, real estate magnate-turned-reality TV star Donald Trump claimed that President Obama is turning out to be worse than former President Jimmy Carter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/cpac-2014-trump-compares-obamas-disapproval-rating-to-carters/",
-      "originalUrl": "https://www.cbsnews.com/video/cpac-2014-trump-compares-obamas-disapproval-rating-to-carters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/18/4e23eae5-a7fb-4320-80a7-d9b4d25ca390/thumbnail/1200x630/5246c015c4d1c805406987e92c06bee6/politics-trump-306-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

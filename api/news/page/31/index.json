@@ -2,6 +2,62 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-02-20-biden-remarks-on-chinas-uighurs-is-bigotry-masquerading-as-cultural-sensitivity-hr-mcmaster-says.md",
+      "title": "Biden remarks on China's Uighurs is 'bigotry masquerading as cultural sensitivity',' H.R. McMaster says",
+      "excerpt": "Former national security adviser H.R. McMaster accused President Biden of \"bigotry masquerading as cultural sensitivity,\" following a town hall event where the president addressed China’s human rights abuses.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Gga4AZwEWM/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Gga4AZwEWM/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a618703-1039-4099-a473-0bf7dd823a8f/546f7729-7ab8-4909-98ae-031711b53461/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says.amp",
+      "publishedDateTime": "2021-02-19T17:55:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-biden-open-to-lowering-the-19-trillion-coronavirus-package-price-tag.md",
       "title": "Biden 'open' to lowering the $1.9 trillion coronavirus package price tag",
       "excerpt": "President Biden Friday defended the size of his $1.9 trillion coronavirus relief package even as he signaled to critics he'd be willing to make some trims to win their support. ",
@@ -1313,58 +1369,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-joe-biden-north-korea-review-will-consider-malicious-cyber-activity-as-hackers-charged.md",
-      "title": "Joe Biden North Korea Review Will Consider 'Malicious' Cyber Activity As Hackers Charged",
-      "excerpt": "Three North Korean hackers were charged Wednesday over a plot to steal $1.3 billion in crypto and traditional currencies from banks and individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
-      "originalUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1738417/kim-il-sung-kim-jong-il.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
-      "publishedDateTime": "2021-02-18T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

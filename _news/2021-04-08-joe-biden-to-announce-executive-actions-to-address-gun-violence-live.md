@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X22SV5EZIUI6XFRLPDA5QIUIDE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "The Agenda review: why Biden must expand the supreme court – fast"
+    excerpt: "Ian Millhiser offers a perfect short read for a key moment in US constitutional history, after Republicans hijacked the court Last modified on Sun 11 Apr 2021 02.01 EDT If Congress follows Joe Biden’s $1.9tn Covid relief bill with an even more ambitious ..."
+    publishedDateTime: 2021-04-11T05:01:00Z
+    webUrl: "https://www.theguardian.com/books/2021/apr/10/the-agenda-review-biden-expand-supreme-court-trump-republicans"
+    ampWebUrl: "https://amp.theguardian.com/books/2021/apr/10/the-agenda-review-biden-expand-supreme-court-trump-republicans"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/apr/10/the-agenda-review-biden-expand-supreme-court-trump-republicans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/b01f971dc8a8a609447df2793851052ce167a215/0_542_7276_4365/master/7276.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9b12b5fd7a73147358d01deaf6dac539"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
     excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."

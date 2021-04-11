@@ -264,6 +264,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-10-nancy-pelosi-was-set-to-retire-from-politics-before-trump-election-win-in-2016-new-book.md",
+      "title": "Nancy Pelosi Was Set To Retire From Politics Before Trump Election Win in 2016: New Book",
+      "excerpt": "House Speaker Nancy Pelosi said the victory of Donald Trump in the 2016 election felt like \"a mule kicking you in the back\" and convinced her to remain in politics, according to an upcoming biography. Assured that the Democratic contender Hillary Clinton ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612",
+      "originalUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1775435/speaker-house-nancy-pelosi.jpg",
+          "width": 3600,
+          "height": 2401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1",
+      "publishedDateTime": "2021-04-10T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-truth-will-prevail-matt-gaetz-takes-break-from-scandal-to-speak-at-trump-club.md",
       "title": "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club",
       "excerpt": "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer.",
@@ -589,7 +641,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1529,
+      "heat": 1549,
       "tags": null,
       "images": [
         {
@@ -1521,63 +1573,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
-      "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
-      "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
-      "originalUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e360c9be-94bc-48ba-b8f1-c0695538cccb/162fa33e-186e-4288-9a45-28a8efcaa517/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
-      "publishedDateTime": "2021-04-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],
