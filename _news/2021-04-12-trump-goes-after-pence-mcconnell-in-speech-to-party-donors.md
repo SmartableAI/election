@@ -2,28 +2,28 @@
 category: news
 title: "Trump goes after Pence, McConnell in speech to party donors"
 excerpt: "Trump also said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance who were not authorized to publicly discuss what was said in a private session. He said ..."
-publishedDateTime: 2021-04-11T17:24:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/Trump-The-key-to-Republican-success-is-more-16092436.php"
-webUrl: "https://www.mysanantonio.com/news/article/Trump-The-key-to-Republican-success-is-more-16092436.php"
-ampWebUrl: "https://www.mysanantonio.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
-cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
+publishedDateTime: 2021-04-11T21:24:00Z
+originalUrl: "https://www.firstcoastnews.com/article/news/nation-world/trump-republican-donor-speech-2024/507-940e6159-4f04-4f6c-9419-070b4b982f0c"
+webUrl: "https://www.firstcoastnews.com/article/news/nation-world/trump-republican-donor-speech-2024/507-940e6159-4f04-4f6c-9419-070b4b982f0c"
+ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/trump-republican-donor-speech-2024/507-940e6159-4f04-4f6c-9419-070b4b982f0c"
+cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/trump-republican-donor-speech-2024/507-940e6159-4f04-4f6c-9419-070b4b982f0c"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: First Coast News
+  domain: firstcoastnews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://media.firstcoastnews.com/assets/CCT/images/14dea5cd-9ee2-4f1a-8703-0d7bab7ba3e8/14dea5cd-9ee2-4f1a-8703-0d7bab7ba3e8_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -1072,6 +1072,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "In speech to party donors, Trump goes after Pence, McConnell"
+    excerpt: "It was supposed to be a unifying weekend for a Republican Party at war with itself over former President Donald Trump’s divisive leadership. But Trump himself"
+    publishedDateTime: 2021-04-11T21:38:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 90
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/04/15022022_web1_15022022-b6d49faf981243478c6e3448b9a3e707.jpg?w=1200"
+        width: 1200
+        height: 796
+        isCached: true
   - title: "Trump goes after Pence, McConnell in Palm Beach speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance who were not authorized to publicly discuss what was said in ..."
     publishedDateTime: 2021-04-11T17:13:00Z
@@ -1300,6 +1316,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "S5quAMIB7GNWQiOgADbiAH74wxRwkqPVbNOIk8I9p5aQhhJnaHaWDKBdUQk2tPs/cu/ntjpTUT+5M8NWL1qSET8bGUUe8eqL3NjFv9Zc2LifL1879GAPqVuZPmVtxbV23HNpgpQeEQouGrUHaLOyZv2fKsHpZNdJfsIzxSeT++iDzkiaRdnaZwDbcXnjPRu5TQDL6TtMQ6+NlpK1FYjrJZ41FeAw4BA6YsDlV3MXw12AVbb+5o+vLRse71jrX9eoap3RVz+W3YhDvPFgsYcRr/TbVgh/FKp7CKVOSycGAtF6n1pUYaKXXbHstA7BldnY/8FmL3YRTLzyXmnnO76S285kSLG93jHxcCXl6dlHzXI=;p4GQcMuS5ZOccKZFOxwZWg=="
+secured: "8WFGwjy5r/cuOJTO4aSnUBmRi/+Q/NQDwMNvQlUeJnmzlSqa8vHLUV//S0vBiFMdypKadEMUTUt76j/qOJQJlLbBw8qnC7a07Hrp78I+6gCEitI1szs2SUSf3g4tVl1n9JTfOIu3TkZEepdclQDkVXg+odvC1XK6W0w/nMgIWb+ph4Sh77Voo3g9WU1nYjTP+BYF3tOeNCfCb/JXHRsEDRyDvijCmHcOZX0TI4VNVQXYYNCBmq5dx/r5rea8DkMprvNMqNeJZKGK/Ty0UoVqy45hXpnrKNea+Kqk9mMiRbcxV8MTou4179km9lvEVocRhzB8tlgh1DBIWQtR5b4z03/ZcX70jh8SUBhN8duG2mY=;MpL+S7Jql0jJ3SRgr8BYnw=="
 ---
 

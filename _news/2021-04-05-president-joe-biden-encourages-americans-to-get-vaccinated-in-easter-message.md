@@ -461,6 +461,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2 deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
+    excerpt: "President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\" Just a few hours later, one person was killed and five others were hurt in a mass shooting in Texas,"
+    publishedDateTime: 2021-04-11T20:40:00Z
+    webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-hours-after-biden-introduces-plan-to-combat-gun-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 82
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
     excerpt: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\""
     publishedDateTime: 2021-04-09T14:52:00Z

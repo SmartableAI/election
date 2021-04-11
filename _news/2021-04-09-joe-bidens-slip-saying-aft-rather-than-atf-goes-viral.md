@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-15822
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 706
     isCached: true
+
+related:
+  - title: "What David Chipman, Joe Biden's ATF Nominee, Allegedly Said About Waco"
+    excerpt: "President Joe Biden's nominee to lead the Bureau of Alcohol, Tobacco and Firearms (ATF) may have falsely claimed that cult members at Waco shot down helicopters. Newsweek has contacted the White House for comment on this article. Newsweek has attempted to ..."
+    publishedDateTime: 2021-04-09T12:12:00Z
+    webUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231"
+    ampWebUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1774249/former-atf-special-agent-david-chipman.jpg"
+        width: 3000
+        height: 1982
+        isCached: true
 
 secured: "qsMDsdnbHZFVyDovY2oTIxfQHRqQ91u02CJTiMJ+UA1RM8/qa/AoDyhhldngDyx8GcnYZYw1tAqtEfxIWPH5UFbfqRJfH9sNgg/UQ1Cixc3WRtDrIFSPA10buK9KtciVsc1yCBveNpm+g94RocQZ35Naswce+wj/TSE3iRsU8gD6eAXS5ELtxcPyZHPUZDymqV41b09BJAtMYmws/XT8m3R45HiC8zXoX616lq+dWOx6JkqpEUaDzls+V705O9ziK9ijfGvPVH4Ju7uDCTm5KrKhUyqBEkldwHxg4WZ/AJ/G8uv8GmO6i6sjq9OBQ9F0uxPCezvDmC18C2gQJVIxABJW/R/RJCKp+KWxRZgu5ajaCN4a/wxrqQWB5d2BX52iCQktzBSgAXmhLXcodF5z6CVo8Fsnv/jArYrgY8RgT/Wi4uqleCEDAGKWqyZGWyaKDnzfpZH+vaIp6i+TrCi1q/ZAxR3jPdDMT0NkxGIewDfZztpMp4g370RCqvNzhUdGeVBVZIinOqfLM2rt5IGA7A==;ILd43evgdNGj2PF40cbSVg=="
 ---

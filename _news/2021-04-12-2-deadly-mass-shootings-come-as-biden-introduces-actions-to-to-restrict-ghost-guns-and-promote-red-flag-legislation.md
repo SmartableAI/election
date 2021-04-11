@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden to lay out spending plans after assailing ‘epidemic’ of gun violence – US politics live"
-excerpt: "All is relatively quiet this morning in Washington. Joe Biden has no public events scheduled for today, but he may take a few questions at the start of his economic briefing around 2.30pm. We’ll hear from Jen Psaki, the White House press secretary ..."
-publishedDateTime: 2021-04-09T14:24:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60705dc08f08c3a98ed23a14"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60705dc08f08c3a98ed23a14"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+title: "2 deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
+excerpt: "President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\" Just a few hours later, one person was killed and five others were hurt in a mass shooting in Texas,"
+publishedDateTime: 2021-04-11T20:40:00Z
+originalUrl: "https://www.cbsnews.com/video/texas-mass-shooting-hours-after-biden-introduces-plan-to-combat-gun-violence/"
+webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-hours-after-biden-introduces-plan-to-combat-gun-violence/"
 type: article
-quality: 114
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f"
-    width: 600
-    height: 400
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -287,6 +285,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to lay out spending plans after assailing ‘epidemic’ of gun violence – US politics live"
+    excerpt: "All is relatively quiet this morning in Washington. Joe Biden has no public events scheduled for today, but he may take a few questions at the start of his economic briefing around 2.30pm. We’ll hear from Jen Psaki, the White House press secretary ..."
+    publishedDateTime: 2021-04-09T14:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60705dc08f08c3a98ed23a14"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Biden \"doesn't have all the time in the world\" to act on gun violence, gun control advocate says"
     excerpt: "A prominent gun control advocacy group is urging President Joe Biden to act quickly on his proposed firearms legislation, after a week that saw 345 people killed by gun violence in the United States. \"He doesn't have all the time in the world. He needs to ..."
     publishedDateTime: 2021-04-09T18:26:00Z
@@ -449,20 +463,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2 deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
-    excerpt: "President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\" Just a few hours later, one person was killed and five others were hurt in a mass shooting in Texas,"
-    publishedDateTime: 2021-04-11T20:40:00Z
-    webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-hours-after-biden-introduces-plan-to-combat-gun-violence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 82
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
     excerpt: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\""
     publishedDateTime: 2021-04-09T14:52:00Z
@@ -494,6 +494,6 @@ related:
         height: 532
         isCached: true
 
-secured: "Y4nQgkdJl0vrj1k0KSoDBLQv0W6tbsi7yOtDp1TJGi+3aedzff0araPz31MMl6sxsyN8lFu4B2WzwTuxLda/x828p0A6XvK6wZ8wbhZcn2MJpSqKy/au2xVbjM2Na340qJ39awKn9woxdZt89i0KUUuOesO8j2vRSRapx23INl4s4mFONr4hdgLpvTBy5Il7EaY3Ac55eKprKDCq2sojWthkLiFg+/y76plYjQJn8B3WvV8qW9sSQxihCaWD3lwpaFL5WGsHO93UswxzydSfTDZvwsKzLzPFkcYXBVt3krZNTtDH6t7YXs8LoPQWveLC61Kp95pKa4q7UpVfI21n13eS68b/z4WdedCbFuJVlZE=;tFf3FfjVYWAcucvIwFcd3g=="
+secured: "R+v/MwKkmA24nLzwP5B6iLVf755Iujz5ZTZ/d6eiY3evbU8Dvw5NFcB2crQmnPx5rvan7NJmElVAngMooYf9jNR1zYogb8ev4DOQ6SBtE5n5iWlYNmw7+GLYM/tklhbOCp9OUjOef+eu9ZEOzt6e22KVLfj+n/AvqCdGhz/pxvE4eJT6BR4NqNgzo9WEVjiDBizwI/yj95Xp1I3BuW5GPBkEQcopadclI5V/v6J7VQHSnWCDxvmJ3sXuSQIO5zAjyzjGg3MlhB+AYUmNOt7SSi6EkccFnzcgYc4SEx9/SSgu41ii8QnHzf+MUSvFHg6BVk8YyFHLUDTRMKSxIDtE3o1Qo3UG4TFoVyHJE2kp02c=;4hAUYk6RPjElJUlY3bmCYA=="
 ---
 

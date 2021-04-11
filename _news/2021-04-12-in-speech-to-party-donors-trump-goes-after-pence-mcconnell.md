@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Pfizer CEO says Trump told him vaccine 'will help me' with election"
-excerpt: "Pfizer CEO Albert Bourla says in an interview set to run Friday that former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on ..."
-publishedDateTime: 2021-04-06T18:37:00Z
-originalUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help"
-webUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help"
-ampWebUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+title: "In speech to party donors, Trump goes after Pence, McConnell"
+excerpt: "It was supposed to be a unifying weekend for a Republican Party at war with itself over former President Donald Trump’s divisive leadership. But Trump himself"
+publishedDateTime: 2021-04-11T21:38:00Z
+originalUrl: "https://www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/"
+webUrl: "https://www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/"
+ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/amp/"
+cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/amp/"
 type: article
-quality: 140
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Las Vegas Review-Journal
+  domain: reviewjournal.com
 
 topics:
   - Election
-  - Donald Trump
+  - Mike Pence
 
 images:
-  - url: "https://thehill.com/sites/default/files/bourlaalbert_022619gn_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.reviewjournal.com/wp-content/uploads/2021/04/15022022_web1_15022022-b6d49faf981243478c6e3448b9a3e707.jpg?w=1200"
+    width: 1200
+    height: 796
     isCached: true
 
 related:
@@ -46,6 +42,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Pfizer CEO says Trump told him vaccine 'will help me' with election"
+    excerpt: "Pfizer CEO Albert Bourla says in an interview set to run Friday that former President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on ..."
+    publishedDateTime: 2021-04-06T18:37:00Z
+    webUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help"
+    ampWebUrl: "https://thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/546719-pfizer-ceo-says-trump-told-him-vaccine-would-help?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bourlaalbert_022619gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Pence launches group as Trump officials line up new roles"
     excerpt: "WASHINGTON — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence’s Advancing American Freedom, which could serve as a springboard for his own ..."
@@ -1060,22 +1072,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "In speech to party donors, Trump goes after Pence, McConnell"
-    excerpt: "It was supposed to be a unifying weekend for a Republican Party at war with itself over former President Donald Trump’s divisive leadership. But Trump himself"
-    publishedDateTime: 2021-04-11T21:38:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/"
-    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/in-speech-to-party-donors-trump-goes-after-pence-mcconnell-2326889/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 90
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/04/15022022_web1_15022022-b6d49faf981243478c6e3448b9a3e707.jpg?w=1200"
-        width: 1200
-        height: 796
-        isCached: true
   - title: "Trump goes after Pence, McConnell in Palm Beach speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance who were not authorized to publicly discuss what was said in ..."
     publishedDateTime: 2021-04-11T17:13:00Z
@@ -1320,6 +1316,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "duWYEt/Wt7CHVpJZa01YnNENyitJrLaEB7YG6cP+Frkos4HNnE5/4r59fn7RWBYsgU5H2dvn4G+Lynx7asbEC4J/rB8yuyZbiVt5CZojS+8gb2HEC+6FQ7ToES4zJeSxBL2E37hDiRQlA4m+ytJrW7UCez/qVQWYUbfgBGtE6rKx7RGYPUQ12uTzuhHWhN5RJMy5JZJT9+b/lQmNGkDVj3fMZ5WQI7LvmtxT6HkPEolPhb55vEvxzRCK+zHSvJXtPix6sGYtUeusKvm0pLIaptRqytajAMZhjSv5NLssMgIF/je7mEFNdBXfA8dvM2SADqMvYiKFs44E3ISG8nBCkyLLEnV06KgIOrEb5z5NMA+wdNzBNWuzCqkaznowXw5QNrAolIshjZyNRyikFcB9pymarFIgz9+S+vjzjwQMuQTPsPAdPqwESA0D438tz82yB2OicMIYKqLnmC+tkZ3GYmCQkBg2w/hQWbEplrwDxot6luyKetZMWpt/B8gP5DTyoKP9AC3PkbfCh6uvtWyE8g==;DGacFKXWxRXM0W70eDXxXw=="
+secured: "1M0EY2QuQgKpPSuLcD/70em3Ib17QOgxv3pS5T9RZBy2RqOZ09OtTHd9pGwMrZV20VmSEmcsiImjLhFIm2vWhbCL44TBINUXFwPwcEp4qVHizu+ED6Ltd+m9RYcaDSkNcT6gnyHT9wZrayb77Xw8154TcmbPIurTaUtxPtI9YReaMJFB+cxjnPk/KA5YDkOfafqT50YWALmaVSZGYOMfc20nER7ziqxN0m/t7v/dMbVJjJJOCKvGszPkzmZ/OZr7nAyZVS0J6fetEmQyz2DT1sM1ak48qEgeb+up3P812sOwvcbhnSTq16LAil50CwPj1hPIYGrj2v3qMPX6HNaPQr0iFOJXNoMGJbTkkB+2H+k=;iui3+y2YF4QRrgAQAVq8SA=="
 ---
 
