@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Texas Democratic Sheriff Slams Biden Immigration Policy, Cost of Placing Migrants for County"
-excerpt: "Val Verde County, Texas, Sheriff Joe Frank Martinez said Friday that \"criminal aliens ... He commended Florida GOP Governor Ron DeSantis for sending a letter to the Biden administration that demanded it stop enforcing policies allowing the release of ..."
-publishedDateTime: 2021-04-03T15:47:00Z
-originalUrl: "https://www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880"
-webUrl: "https://www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880"
-ampWebUrl: "https://www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880?amp=1"
+title: "Why a Weakened NRA May Still Block Joe Biden’s Moves on Guns"
+excerpt: "Yesterday we connected by phone to talk about President Joe Biden’s latest efforts to curb mass shootings in this country. He’s not optimistic about what Biden is introducing by way of new gun ..."
+publishedDateTime: 2021-04-09T18:36:00Z
+originalUrl: "https://time.com/5953801/weakened-nra-biden-gun-control/"
+webUrl: "https://time.com/5953801/weakened-nra-biden-gun-control/"
 type: article
-quality: 114
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: Time
+  domain: time.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://d.newsweek.com/en/full/1765531/immigration.jpg"
-    width: 2500
-    height: 1667
-    isCached: true
 
 related:
   - title: "Despite Biden claim, most migrant families not being expelled to Mexico"
@@ -111,6 +103,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Texas Democratic Sheriff Slams Biden Immigration Policy, Cost of Placing Migrants for County"
+    excerpt: "Val Verde County, Texas, Sheriff Joe Frank Martinez said Friday that \"criminal aliens ... He commended Florida GOP Governor Ron DeSantis for sending a letter to the Biden administration that demanded it stop enforcing policies allowing the release of ..."
+    publishedDateTime: 2021-04-03T15:47:00Z
+    webUrl: "https://www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880"
+    ampWebUrl: "https://www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1765531/immigration.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden announces steps to limit 'ghost' guns"
     excerpt: "Reuters Now Biden announces steps to limit 'ghost' guns Posted [NFA] President Joe Biden and his Attorney General Merrick Garland announced limited measures to tackle gun violence in the United States on Thursday, in what the White House described as a ..."
     publishedDateTime: 2021-04-08T20:23:00Z
@@ -139,15 +147,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Why a Weakened NRA May Still Block Joe Biden’s Moves on Guns"
-    excerpt: "Yesterday we connected by phone to talk about President Joe Biden’s latest efforts to curb mass shootings in this country. He’s not optimistic about what Biden is introducing by way of new gun ..."
-    publishedDateTime: 2021-04-09T18:36:00Z
-    webUrl: "https://time.com/5953801/weakened-nra-biden-gun-control/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 85
   - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
     excerpt: "Think of it as a competition for states to show why their bridge deserves rebuilt based on size, condition, traffic volume or economic significance."
     publishedDateTime: 2021-04-10T12:00:00Z
@@ -165,6 +164,6 @@ related:
         height: 675
         isCached: true
 
-secured: "GE++fI8eMmJMOTctQBqyRifDo85qOBxUx3SL2cECM3ZsXkg4LpKqEfM3SYl6H9baP9uTkYN1EQ3bCqmABGnZzvcJwk6ZtnVCK0GTiWC/Gr7JmQ+vg012d0kxvwPWE1kv2W8fcGXxgX6s2ybXSCa+Rl/LBtVlqL8jXqaprs4Zy69Ge/rzbOZxMXfUjKTlwr+spYu3rNDCGiLdggyi8hGXtBwtcbEcrRa4ZGKToTBYq4VH/bhEY+fKtKZ0xAR4bgtkUWh2N7xqYIqRXMgUB/zXnyTZ6/s2KeKd5KivJr39N/Vw9+lWR7gp8TWq1AY3f8X4ZyiXyAwjmMfJi6i52q1XNK8BUrNbpUdjg6SBZlMO6+Y=;AA+g10lKnLNOURF5sWG9Fg=="
+secured: "B1oVQIB4BB0UWL/QWfFW4Hbnq/ndNRQmybHfD3GhgA6dMTulafuYA/pnFD33hoUFS17F+PbddzT1XVLkrrT+vATodE2Z1knXcli8I65NBFJTnjoHYDn36Ra3yM2nfHYnG/tsW/DSV6OA7zUy70WusI8LrtmdlVmnrgwR7kfJGCHKCJYkODIQ2syP7ObUj1rghcWs6UT2ZVpVW4VvNJ/nfaNNHjpR8EyXwu7tEki5YvEKwmyup27iILg78NoL7qd6X7u+xXKKPhtg16DP+nlp6I5a7WuJ/8awHrfoGmOMGQUHtHfvQpQCo19yPVyH8xfI9ZruVB5PS330rriCw11b/irI2bE9iXYFvV5m69+Ym1ik/lXVwU/n6HbOwZ9PWMALwDz7sgO1hV25VfMr04AS05/tLOW+z3lhJLJxFKONeuDoEmQnRcDTOe1oaDDy2AHkOhHxRVWr5MhzuI+O0uxISJt5FhJxKDf7d36O6DXqPSMfSG4H9iwuUSxMrO6erxu62/OAlEazswed+K2q4PFwfw==;yYcLw2ymjPRhAFl4v8Tx/g=="
 ---
 

@@ -591,6 +591,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump stakes claim to the Republican Party in closed-door speech to donors"
+    excerpt: "PALM BEACH, FLA. — Former President Donald Trump staked his claim to the Republican Party in a closed-door speech to donors Saturday night, casting his populist policies and attack-dog politics as the key to future Republican success. Trump also ..."
+    publishedDateTime: 2021-04-10T23:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Xexi3r3dhHtKuB8GAyUqHGiM5uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEKHRJJYY27CJC2Z7CIIF7FIE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
     excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
     publishedDateTime: 2021-04-04T02:23:00Z
@@ -1052,6 +1068,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "jSZev98X2E9c9+7IiXVG5/PKAGGrWAeoIrzqs7tCrJCDtbq56PFpLdFveEmtjybXmvspMuvwL2rlcMgSNUxMHi4HTGtJ1KI9bsQjpuec2uTrCEmyIs2id6/eQxUUhcxRAwzveOx+fNrlmS3KZw7423AR0cj2VP8h+Y3fNtlzwkWlabDo3i8G9BVM9OawEfKxqqt1D1BIxFEDcdAZ5KiFvC3n1gzHkIEnS8j+3js40/uzuMx0a6kOlHFWZ/x73xydviJqYPLKaiLm8Bo+DtqhI99t7BnczOzZyM8jcS/UwnPudDHHwcIBKcHM9XGGbK/gBtYKHjaa8RUv3BqMbeGMQnBMgVzyax1wPTHJPXHG+MY=;e4ZaGsDOsustUkz5Lngd5w=="
+secured: "B0AMTaKHBFOhSLE+aHCVWUr2BwSdAdgINTlBx7BKxAHOt/4RzZTAmYq7iBNQNcD5ecJHiq/FtMwAwGtydnrnFqmyiwSdoStfp3xE1SlEwD5zG9M/N1lLOIa8PXwoE97AtiKjYmuZFruq0baa0fgLLSWSqjv8Swb1hUA2hG2V7g/vq+a3LIW/i3UtX7uJhuTZekS5irdr+u8TKFz46lCVU/GPUvUe+wBxkRkvOtukw6why2AUmFaoLjmDTPiV6yHsU6a1eNEhbYiI64YvbgvK60UzJuCiZJUq+QSFcsiRll7IichFvZLVgBd5vt8FWZJM8mMXS/tVEjqIQn7PrTZpebDu2xXqbm/BqBtY4NECcI/EmsjFeLFIQdy01pi+BEdETz+ER9R8nNhJ70Ey18UG2CM55DygGHoPPQBWODQC6kLeXP+1FddV+sgWynPhhsx4ICNhtzlfgbwaL6DDBs0xjTh70Hjhl+uYdbVyEfOupjxLeC/PcV486j0H7Vjc9DZkxncHWDPEGtqDYPW3S7Zg5Q==;RYo0J/K7jUSPkS+XMO/lSQ=="
 ---
 

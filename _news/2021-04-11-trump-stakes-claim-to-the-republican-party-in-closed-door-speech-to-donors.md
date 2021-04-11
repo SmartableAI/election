@@ -1,24 +1,34 @@
 ---
 category: news
-title: "Former Vice President Mike Pence memoir set for 2023 release"
-excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-publishedDateTime: 2021-04-08T17:37:00Z
-originalUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/"
-webUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/"
-ampWebUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
+title: "Trump stakes claim to the Republican Party in closed-door speech to donors"
+excerpt: "PALM BEACH, FLA. — Former President Donald Trump staked his claim to the Republican Party in a closed-door speech to donors Saturday night, casting his populist policies and attack-dog politics as the key to future Republican success. Trump also ..."
+publishedDateTime: 2021-04-10T23:53:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
 type: article
-quality: 55
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
+
+images:
+  - url: "https://www.chicagotribune.com/resizer/Xexi3r3dhHtKuB8GAyUqHGiM5uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEKHRJJYY27CJC2Z7CIIF7FIE.aspx"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
@@ -597,22 +607,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump stakes claim to the Republican Party in closed-door speech to donors"
-    excerpt: "PALM BEACH, FLA. — Former President Donald Trump staked his claim to the Republican Party in a closed-door speech to donors Saturday night, casting his populist policies and attack-dog politics as the key to future Republican success. Trump also ..."
-    publishedDateTime: 2021-04-10T23:53:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 123
-    images:
-      - url: "https://www.chicagotribune.com/resizer/Xexi3r3dhHtKuB8GAyUqHGiM5uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEKHRJJYY27CJC2Z7CIIF7FIE.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
     excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
     publishedDateTime: 2021-04-04T02:23:00Z
@@ -1042,6 +1036,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Former Vice President Mike Pence memoir set for 2023 release"
+    excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
+    publishedDateTime: 2021-04-08T17:37:00Z
+    webUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/"
+    ampWebUrl: "https://www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/former-vice-president-mike-pence-memoir-set-for-2023-release/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "POW-MIA Flag Back Atop White House, Reversing Trump Era Decision"
     excerpt: "POW-MIA Flag Back Atop White House, Reversing Trump Era Decision The POW-MIA flag, dedicated to prisoners of war and service members missing in action, was relocated by former President Donald Trump in 2020 from a prominent position atop the White House to ..."
     publishedDateTime: 2021-04-09T16:13:00Z
@@ -1063,6 +1068,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "/xyTlfgobGmsTVuPe7tBMN9Gm5rYov+Ki5hYwBC3v78McgZpQ9JeVttKPxOm/PlDCXxlhG877fMb2jko4gFxYh0yyZnatoaqsWLHTwnvnLHdZmcW+To1r1dZAlSh40c/jY+cZhpYzC9UIkUT0SQ7USxh0dNHWq1Xge88UdlY9RAGWgqVqJ6UIqyVD1qIxZYu/mBvEfFJJNCe3OKLXCon7fmUUiUOek/TU9Nh1sAg9h17ZJ+oNEefOxT9Ap/PM8kEn2kiytEiKv4YztIm2cm44Fz5OznMwgOg2Y3gLastfnMBuuyilMc8cVpsp5AmTKPHKN3/cscSLYI94p63WtseFRiCUIDZhO1EmQWn0d4bVpAzU5OdxGW5xLHhk8V3kvVek6/xbFyQMvSszXTPiT3q+SHiBguoBRD9fBTmTHB+bsINBYcRvSDYvwF9c0E/VZUdlA+zcxI1VbZ9MmZ8ZVZBINzPMZOwq7gIubxIdOwM6WZBj6dMAy4i5nIoAAXQDbKK7YT7Ye1cF1gqJFMz55kvXg==;ZL1AFGcviOYxMF/oOJh0SA=="
+secured: "lcM6hL5ckWOfPrR27zcHkqLjtkmc7bSxEx7lb2ZbCePZIjJC+S61ovY3w4E8Iz3H+B4x7UQ/hClmYYCmJAMFGkAfoiyEFnD81tXXX3w3kJ9g4qIUonBTKmeqNMHsfSDJFdtuok6rKp+6WGgtGNUPXB1Ry89szBaOIbhZVngvT/GaC5qApnpKdB7d2Op5G1bbE0YUVT/I/+l1gP82A0Vd+tlYhQsLE2OhYCMuKqrqsJKCtUhwuaKFnrMk3qwNvsrEcTaHm4IuOgVqeUoCx2QCQF66YS3OCC9pnXFlOOw9LYATVLTG5QIxeTJwdRTH/y/UMC6p+cjkBA/E2YtzLRmlhkkbd+xITlLgg00SlpGgSIk=;5lf7xvtO2Y8S3sJdXD9u/A=="
 ---
 

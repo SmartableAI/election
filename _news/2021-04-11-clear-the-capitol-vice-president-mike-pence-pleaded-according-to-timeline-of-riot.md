@@ -3,18 +3,18 @@ category: news
 title: "‘Clear the Capitol,’ Vice President Mike Pence pleaded, according to timeline of riot"
 excerpt: "WASHINGTON – From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
 publishedDateTime: 2021-04-10T22:22:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/7177010002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7177010002"
+originalUrl: "https://www.indystar.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+ampWebUrl: "https://amp.indystar.com/amp/7177010002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7177010002"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -74,6 +74,6 @@ related:
         height: 687
         isCached: true
 
-secured: "fDJ6CguZHQA24C28OSrjc6v8oTHWJsjnqd1Iw2f0Ad9VaWZWT9tcJyE95a5uWDvD3kzrhE5O3rlyK9wZFpkVrP/MgN/M+GKO8t129MxK4twRrvG8oJXswjKlt3m5Pd15QVVjynFlo+YT/OvT/De46o5ZegMeVktXGgrJ8Vp/5bPnXxBvTYjKN9D0f+aNrQ6sZJPQmGkmE1ToYEbn0lA8iembHH3808gRQt3vLr2YYSSWvIMkJtMki4HueQalJ7Rn1b6vXFUxbd2LMol2ulosWY8oww/EKqcAJ8net/f36wwpGaToa/KgHcysxPfmSp4cLqpb4PhD0qfYvT/ey2FtUPHn7a80puNGzJPac1HmY0g=;NQedCmXiO+IlPl/qHrZT6Q=="
+secured: "D0JnCG174GHK76IFpT/CKbUrluXlVFt8v32CWiC7UqAZBHMulxGj/ctjMbO/dgOTwdJUhH20TejOVPd8a4Eg4dKoHFKeHatupdvH+zEr0UEQRQy4yW10BRL3bkk2hftMbS/HlFR3kX9TacmU0PS5LAGuLhl7+6x0rbUI7JPZodSb7iy9UbSaZoLCJLUt1OqjSaDIChedUlbIZczv72x5CvTHmrCF9J0OmVIz7faoxoXGXCmp5PJlVt9DStw6/szlhER7luCMexECFKyWlGY6CV9DPXacigD9TEG1W9lwiI0AmrPEVTFwXwERbJwZh2iUuaFK+gWHkiFnPL1StqOhj0FB5jIhG3Fp9q4xSXKJxtM=;X3P4VxHH3wxDAnfg+9OYiw=="
 ---
 

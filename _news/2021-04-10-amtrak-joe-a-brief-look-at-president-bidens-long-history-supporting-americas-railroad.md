@@ -139,6 +139,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why a Weakened NRA May Still Block Joe Biden’s Moves on Guns"
+    excerpt: "Yesterday we connected by phone to talk about President Joe Biden’s latest efforts to curb mass shootings in this country. He’s not optimistic about what Biden is introducing by way of new gun ..."
+    publishedDateTime: 2021-04-09T18:36:00Z
+    webUrl: "https://time.com/5953801/weakened-nra-biden-gun-control/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
     excerpt: "Think of it as a competition for states to show why their bridge deserves rebuilt based on size, condition, traffic volume or economic significance."
     publishedDateTime: 2021-04-10T12:00:00Z
@@ -156,6 +165,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ixr7Ppbhz0sjbx57WX1iak0Zi+GBnGk+lWxcElQfv6AYCLYIYJjt+tA7fhQkzYHi6ZciTfMiWoVfLeuou6IUse6h/cQY5O7W4aXLH0MtI7u9lnAeic0hkNtYRLKJkYWfeITUAdVQE7DQCgJqsci45tsrUQ6FV0MjmERIaw5I8xBsRQQY9+vq07+OLMviGDuLJ12tWasBklOo9XQ7vkAzBp2aofIxU4vhHS08od11gjUaUn61bJ3DPtSNQHwBIbB6uFibvnjnu30JZvj57ZNn5pmOIEh/BGcbEzXBfI1BW22iJBFYEqTGH/3uScVMdFojwMzoi26eapQNFSLk84eGJ6E+olUWBhNlo/edfAFeMHQ=;jMPJvFZTX8Xvi+YKn1UJOg=="
+secured: "fdjIDXM8XaQc5ZNzVxvbkZBB7KnZZGoIUoyLAGx+TxiBwma2uHfD57C+oPuwhK5coljdfCngKRtp5AhlYjoZv78npGkJ95thP7wvZJ4LTFTptb1nlYhWrZH6DrA9hr0sM+pevu6nfUcSllGfPLHLRxDn49ti0JQYrmUzV8Jw8UFvXBU5J4n4QxTKFNCnT5ssKpOxzky33GNVFFLskujWjzG+JRl4WCEagc6/riUbNveC3NqkoobJMmEScHRUuKtW14/hmoBeCxe1QzALZKd8dy4cjnUVbI438fc3VkKglqTqLtunx+Fcfn/5ucirqEUZnAaGyVpACwXSrMTghVey/bZz/hrBC9tBGFS77sUTaGC287Se+7JPVzPFIvcSxRftYb79FUJnmZuPpfFBXPg0/FAdw5eXrODfp/k+Me1fTJ1kTutZuAQAMWKKs2p8JMVvxy/orzcwS3O6dg1a17IAGVaMrBJQ4QAsCfimNOm42nTBAzAYXgOyc499IIUxbqmb+VaHBXcECaFglGndbH+xIQ==;86HtV8XsUGLMoo+Jm+o8ng=="
 ---
 

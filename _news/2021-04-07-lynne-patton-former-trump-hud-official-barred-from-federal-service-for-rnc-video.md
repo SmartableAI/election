@@ -603,6 +603,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump stakes claim to the Republican Party in closed-door speech to donors"
+    excerpt: "PALM BEACH, FLA. — Former President Donald Trump staked his claim to the Republican Party in a closed-door speech to donors Saturday night, casting his populist policies and attack-dog politics as the key to future Republican success. Trump also ..."
+    publishedDateTime: 2021-04-10T23:53:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-donor-speech-20210410-opxwaosxsvaj3csk3n4wlmac5q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Xexi3r3dhHtKuB8GAyUqHGiM5uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEKHRJJYY27CJC2Z7CIIF7FIE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump calls for Republicans to boycott companies amid voting law controversy"
     excerpt: "Former President Trump Donald Trump White House says bills are bipartisan even if GOP doesn't vote for them Gaetz bragged about 'access' to women through Florida tax collector charged in federal ..."
     publishedDateTime: 2021-04-04T02:23:00Z

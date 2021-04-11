@@ -151,7 +151,16 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Why a Weakened NRA May Still Block Joe Biden’s Moves on Guns"
+    excerpt: "Yesterday we connected by phone to talk about President Joe Biden’s latest efforts to curb mass shootings in this country. He’s not optimistic about what Biden is introducing by way of new gun ..."
+    publishedDateTime: 2021-04-09T18:36:00Z
+    webUrl: "https://time.com/5953801/weakened-nra-biden-gun-control/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
 
-secured: "/iq5IvA1cD9BYLtYOngt0Wqc3lT+jt3B7XRapufeVwFIqZrRKLTTutJApSDBeMjV+B0Isbe7Y0xoRKpmoavXQD1rbKJnQ1K3+y3gTmawPUzUpNIMNUpaCI6IqgN6K4AcAzGnphnZLnIb3TfWK6mqaI/kEmqVOdPOL7UvvEXmMQiy0iUTXLNoUw2u1eW2bgXHCVTbDaKQLPbJyCY+XjruaRWxQWRZoIkIytDeJ5QhPiSWClp5WkNzvHTEVz9PVcheyzied/UBveDA77k8xSS00JbaGLc1ZGq+4c2aM3zOxWv0aBaHu1+4ag4802pL92rq2Bo7NX7giv5eqvUCXE8nsc24C67xsumhRUyiSQ8qTIA=;VWCn/pvYXfJFUWKnUMh/kA=="
+secured: "K12UGIgNkLpYrsy3pLfwlm0QLnaPcrO+HjKcc6UidIdXC8hG4VNinQsYRHLTxqQvvNSeoYQBrui5oiFvkiwkH2zW5zpfNSZbQursk2xX9LXEka/fwZtkAXHjZJbX3alYmyCCct/kXzvbhuYEiqPtQBa36ZGBr2DOHnFSLhvv1cVLqIZw6eaxVg4RnskTMmv+dOSohkc1/55epmb0H0gTQ546nPIPpcr4ZAzlTucd5DIeqE4MPdW/6z/3GANmM7dJqdrYPSXkCIlrhUCzO+tDN7p4jodl3jYizFfZhQMJJinBe44fA6psauIU0asPuDMxhuFMVqGP4tRoUoXmJl6MEWFAM2J7qbKgxfBJ9m8eqNcagQTFABLbPdZ4DQCLpS5Ks8ZZo7gn+58Z+7vDuGTCDXCfISQF+Ov5oA6mWLXHUIl3kGu21slxzsskEc/ZtKjFmgeJe+vYQBJj64FMrtFREbJMfBJ+xuzDfdFsBK19Cu08PDNnsNG9Tkjfysl/O0yH0BMmyRLpgZkU2xJz5ZSvrA==;OX49vXpUQtcVptlSgQKfUw=="
 ---
 

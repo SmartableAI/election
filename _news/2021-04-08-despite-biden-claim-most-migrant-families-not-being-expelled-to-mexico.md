@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV24H"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV24H"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -139,6 +139,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Why a Weakened NRA May Still Block Joe Biden’s Moves on Guns"
+    excerpt: "Yesterday we connected by phone to talk about President Joe Biden’s latest efforts to curb mass shootings in this country. He’s not optimistic about what Biden is introducing by way of new gun ..."
+    publishedDateTime: 2021-04-09T18:36:00Z
+    webUrl: "https://time.com/5953801/weakened-nra-biden-gun-control/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
     excerpt: "Think of it as a competition for states to show why their bridge deserves rebuilt based on size, condition, traffic volume or economic significance."
     publishedDateTime: 2021-04-10T12:00:00Z
