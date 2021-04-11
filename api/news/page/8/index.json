@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-01-former-trump-aide-max-miller-raised-500k-in-one-month-in-house-race-vs-gop-member-who-voted-to-impeach.md",
+      "title": "Former Trump aide Max Miller raised 500K in one month in House race vs GOP member who voted to impeach",
+      "excerpt": "Max Miller, the former Trump aide mounting a primary challenge to Ohio Republican Rep. Anthony Gonzalez, raised more than $500,000 in approximately the first month of his campaign, Fox News has learned. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AekWORwQo0/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AekWORwQo0/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp",
+      "publishedDateTime": "2021-04-01T13:21:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-biden-supports-vaccines-for-undocumented-immigrants-psaki.md",
       "title": "Biden supports vaccines for undocumented immigrants: Psaki",
       "excerpt": "White House press secretary Jen Psaki said during Thursday's press briefing that President Biden supports coronavirus vaccines for undocumented immigrants.",
@@ -1269,58 +1325,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-two-capitol-police-officers-sue-trump-for-physical-and-emotional-injuries-suffered-in-riots.md",
-      "title": "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots",
-      "excerpt": "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
-      "publishedDateTime": "2021-03-30T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

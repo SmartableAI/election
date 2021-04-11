@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-31-two-capitol-police-officers-sue-trump-for-physical-and-emotional-injuries-suffered-in-riots.md",
+      "title": "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots",
+      "excerpt": "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp",
+      "publishedDateTime": "2021-03-30T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-indiana-senate-congratulates-pence-on-his-retirement.md",
       "title": "Indiana Senate congratulates Pence on his 'retirement'",
       "excerpt": "Mike Pence’s political career is over. That at least is the opinion of the Republican-controlled Indiana Senate, which unanimously adopted a resolution Tuesday congratulating the former vice president and Indiana governor on his “retirement.”",
@@ -1293,49 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-tv-kamala-harris-kizzmekia-corbett-in-lifetime-special-charlotte-observer.md",
-      "title": "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Charlotte Observer",
-      "excerpt": "Women Making History (9 p.m., Lifetime) - This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/entertainment/tv/article250289770.html",
-      "originalUrl": "https://www.charlotteobserver.com/entertainment/tv/article250289770.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/8e831fcf-b0fe-4821-9639-a1c1dccab51a/b8f21ad2-5b84-4548-b003-1266b304582c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/entertainment/tv/article250289770.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/entertainment/tv/article250289770.html",
-      "publishedDateTime": "2021-03-30T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

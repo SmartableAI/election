@@ -64,18 +64,18 @@ related:
         height: 545
         isCached: true
   - title: "South Korean battery makers agree last-minute deal in boost to Biden's EV policy"
-    excerpt: "South Korean battery makers LG Chem and rival SK Innovation Co have agreed to settle a trade secrets dispute that has threatened a key Georgia plant and the electric vehicle plans of Ford Motor Co and Volkswagen AG,"
-    publishedDateTime: 2021-04-10T20:36:00Z
-    webUrl: "https://www.reuters.com/article/us-autos-electric-politics-idINKBN2BX0HI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BX0HI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BX0HI"
+    excerpt: "An announcement of the battery makers’ settlement is expected by Sunday, the sources said. The agreement is a win for President Joe Biden who has made boosting electric vehicles and U.S. battery production a top priority. The global auto industry is ..."
+    publishedDateTime: 2021-04-11T02:36:00Z
+    webUrl: "https://www.reuters.com/article/autos-electric-politics-idINKBN2BX0H6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BX0H6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BX0H6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 120
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557989961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH390CK"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210411&t=2&i=1558006216&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3A01I"
         width: 817
         height: 545
         isCached: true
@@ -149,15 +149,15 @@ related:
       domain: time.com
     quality: 85
   - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
-    excerpt: "Think of it as a competition for states to show why their bridge deserves rebuilt based on size, condition, traffic volume or economic significance."
+    excerpt: "WASHINGTON — In his new $2.25 trillion infrastructure and jobs proposal, President Joe Biden promises to fix the 10 most \"economically significant\" bridges in need of reconstruction and repair 10,000 additional smaller bridges. But the American Jobs ..."
     publishedDateTime: 2021-04-10T12:00:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7142869002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7142869002"
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7142869002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7142869002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/74546629-b6e6-4245-9335-f0bcc8799474-Miami_bridge.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"

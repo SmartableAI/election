@@ -2,6 +2,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-27-trump-may-visit-us-mexico-border-region-soon-former-aide-says.md",
+      "title": "Trump may visit US-Mexico border region ‘soon,’ former aide says",
+      "excerpt": "Former President Donald Trump is \"really concerned\" about the migrant situation along the U.S.-Mexico border and may schedule a visit to the region, a former Trump aide said this week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pyVnr2lPIBY/trump-may-visit-us-mexico-border-region-soon-former-aide-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pyVnr2lPIBY/trump-may-visit-us-mexico-border-region-soon-former-aide-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/4a1cf299-Trump-border.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-may-visit-us-mexico-border-region-soon-former-aide-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-may-visit-us-mexico-border-region-soon-former-aide-says.amp",
+      "publishedDateTime": "2021-03-27T02:07:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-marine-corps-reservist-warns-that-biden-pentagons-woke-rules-and-priorities-endangering-us-security.md",
       "title": "Marine Corps reservist warns that Biden Pentagon's 'woke' rules and priorities endangering US security",
       "excerpt": "Marine Corps Reservist Aaron Reitz warned Friday that the increasingly woke dictates coming from the Biden Defense Department are a sign the Pentagon leadership has its priorities backward.",
@@ -1323,58 +1379,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-biden-to-host-first-press-conference-under-pressure-on-immigration-and-guns-us-politics-live.md",
-      "title": "Biden to host first press conference under pressure on immigration and guns – US politics live",
-      "excerpt": "But Joe Biden still hasn’t had a formal news conference since his inauguration on 20 January. The stretch is the longest a new president has gone without meeting the press in the past 100 years, dating back to when Calvin Coolidge, a man known as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates?page=with:block-605c37b78f08a9515e8370b5",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates?page=with:block-605c37b78f08a9515e8370b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7d267c42fe0ca5906d541d0f55a58fc671e63bfa/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9bc03ce464544f0e6f608fe824ad872",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates",
-      "publishedDateTime": "2021-03-25T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

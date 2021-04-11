@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump-McConnell feud threatens Republicans' path to power"
-excerpt: "Former President Donald Trump is stepping up a political war within the Republican Party that could undermine the GOP’s ability to fight President Joe Biden’s agenda and ultimately return the party to"
-publishedDateTime: 2021-02-18T07:25:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
+title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
+excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."
+publishedDateTime: 2021-04-11T09:04:00Z
+originalUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4"
+webUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4"
+ampWebUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
 type: article
-quality: 125
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_6116e03690dd4b53a93d6e2b3dfc7239_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.insider.com/6072b6f0a451820019b3a71a?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -143,6 +143,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump-McConnell feud threatens Republicans' path to power"
+    excerpt: "Former President Donald Trump is stepping up a political war within the Republican Party that could undermine the GOP’s ability to fight President Joe Biden’s agenda and ultimately return the party to"
+    publishedDateTime: 2021-02-18T07:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6116e03690dd4b53a93d6e2b3dfc7239_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "McConnell says he'd support Trump if he wins 2024 nomination"
     excerpt: "Less than a month after excoriating Donald Trump in a blistering floor speech, Senate Minority Leader Mitch McConnell now says he would “absolutely” support the former president again if he secured th"
     publishedDateTime: 2021-02-26T04:06:00Z
@@ -223,22 +239,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."
-    publishedDateTime: 2021-04-11T09:04:00Z
-    webUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/6072b6f0a451820019b3a71a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "A McConnell-Backed Trump Conviction Is Just Fantasy"
     excerpt: "Conviction in Trump’s impeachment trial was always a long shot. Now momentum is waning, as GOP senators aren’t onboard and McConnell won’t herd them."
     publishedDateTime: 2021-01-21T18:57:00Z
@@ -288,6 +288,6 @@ related:
         height: 800
         isCached: true
 
-secured: "8A93iLm2L7n0PpoVOzDekZJsimnYbgrEuGacgS1YUdHBmBsnfEb0lfPvl9Yey60ey7zPvu5SN2oySdqFKMwb5Ue3N1eo7C6f7c68doYoAZDXJm7HBT7HFlJPNW7UhP6hnYtEnnJd75hhilB1DKoZicgn+rUel18jhVSm8e9t+51OVeeVpA1I+E2/nDGuwgfP6Ovnpe2UwmO9RE0xltcCavMQ/gZqPEZ8UTYjKoiiXF7N34FkxTJjynqhwUTjmN/9N50bAeocJrDrz6jG/FBZKlzDP07VWfvsxWk61fku3zk3D5ErUkmcLPNhPu9WpF8H4KYrNY8whk+IESOG6NiRWk7quGmakjmYwDNvAHdGqNE=;I/xy6HDKxMVwt3g9rGFYxA=="
+secured: "xX5R2VBqkfBDnq7xoKal45ic++S6t7LJH99OAFEbivXUwPk4iH2tHTLoxTQn/u876zaubuZMi87bUHRbmEw3Sp2anMax2OC3xmHG84hWgKCYxCxh2/dwmGtlvnrPZ1lizkWvgyiblO5yXXflsU9Frx5giUg5N1MHHfrPo8BdwPMMuw43kz7FzPSUxq445KY5SypU6fZYUJoHl2GPL8kDJmJ0+C+t2/RLyuNYPwLuwiNLcIIhjnEABY/fbfOaSuqneymCYCJ4aEqGgBgtFDsi7QecqjWveiagfW0rtFbPlLSXRkVbYaDgo0bq0DOITDHILFTkLKGodUqH8Ws3zAjjDv3XnE4fHWyprAyBPGjxXZo=;chwL+K86Jcffw+QhuDXNJQ=="
 ---
 

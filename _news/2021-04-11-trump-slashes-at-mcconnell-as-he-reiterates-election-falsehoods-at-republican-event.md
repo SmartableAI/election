@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/202
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
 type: article
 quality: 134
-heat: 434
+heat: 454
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548643474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1RD"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."
+    publishedDateTime: 2021-04-11T09:04:00Z
+    webUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/6072b6f0a451820019b3a71a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "A McConnell-Backed Trump Conviction Is Just Fantasy"
     excerpt: "Conviction in Trump’s impeachment trial was always a long shot. Now momentum is waning, as GOP senators aren’t onboard and McConnell won’t herd them."

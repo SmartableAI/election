@@ -2,6 +2,63 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-03-05-sen-johnson-to-harris-faulkner-bidens-open-border-policies-creating-disaster.md",
+      "title": "Sen. Johnson to Harris Faulkner: Biden's open-border policies creating 'disaster'",
+      "excerpt": "Sen. Ron Johnson, R-Wis., says he believes the migrant surge at the U.S.-Mexico border is a “disaster” created by the Biden administration’s policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/siK_mDXG2ws/biden-immigration-policies-crisis-disaster-border-sen-johnson",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/siK_mDXG2ws/biden-immigration-policies-crisis-disaster-border-sen-johnson",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/829450ef-575e-47e0-9c15-f53da93367fa/62fb6c22-123b-4d4d-8e08-bea04dd2b512/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp",
+      "publishedDateTime": "2021-03-05T10:03:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return.md",
       "title": "NEWSOM RECALL: Timing is everything — CALEG passes SCHOOLS bill — HIGH SCHOOL SPORTS can resume — YOUTUBE eyes TRUMP return",
       "excerpt": "Nearly a year after California schools closed their doors to in-person instruction, lawmakers moved on Thursday to get kids back to class by March. However lawmakers chose to vote on the school reopening bill,",
@@ -1292,62 +1349,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-rep-waltz-hits-back-at-biden-keeping-schools-closed-is-neanderthal-thinking.md",
-      "title": "Rep. Waltz hits back at Biden: Keeping schools closed is 'Neanderthal thinking'",
-      "excerpt": "Rep. Michael Waltz, R-Fla., pushed back on President Biden for calling out red states for lifting mask mandates.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UpQFz1a8sKU/biden-neanderthal-thinking-schools-closed-masks-waltz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UpQFz1a8sKU/biden-neanderthal-thinking-schools-closed-masks-waltz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 331,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbfea3cb-0931-4be8-87d5-88bf60102a68/2339f089-d6fc-4338-9f43-5613ef08b741/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp",
-      "publishedDateTime": "2021-03-04T05:18:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }
