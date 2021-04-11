@@ -2,6 +2,171 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-09-trump-critic-rep-kinzinger-hopes-to-be-good-part-of-history.md",
+      "title": "Trump critic Rep. Kinzinger hopes to be 'good part of history'",
+      "excerpt": "CNN's Jeff Zeleny speaks to Rep. Adam Kinzinger (R-IL), an outspoken critic of former President Donald Trump, about some of the backlash he has received since voting to impeach Trump and his political future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308193714-adam-kinzinger-zeleny-dnt-03082021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "publishedDateTime": "2021-03-08T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-donald-trump-greeted-by-lone-supporter-and-angry-protesters-as-he-returns-to-new-york.md",
+      "title": "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York",
+      "excerpt": "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618",
+      "originalUrl": "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1751781/donald-trump-suv.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1",
+      "publishedDateTime": "2021-03-08T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-trump-a-likely-factor-in-flurry-of-senate-gop-retirements.md",
+      "title": "Trump a likely factor in flurry of Senate GOP retirements",
+      "excerpt": "Donald Trump may be gone from the White House, but he still casts a very large shadow over the Republican Party, which he reshaped and ruled over with an iron fist during his four years as president.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bGnvFkDGL5U/trump-senate-republican-retirements",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bGnvFkDGL5U/trump-senate-republican-retirements",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-senate-republican-retirements.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp",
+      "publishedDateTime": "2021-03-08T11:56:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-biden-backs-house-gun-background-check-bills-that-would-tighten-restrictions.md",
       "title": "Biden backs House gun background check bills that would tighten restrictions",
       "excerpt": "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system.",
@@ -1193,176 +1358,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-lincoln-projection-former-adviser-to-disgraced-anti-trump-pac-calls-gop-the-ultimate-grift.md",
-      "title": "Lincoln Projection: Former adviser to disgraced anti-Trump PAC calls GOP 'the ultimate grift'",
-      "excerpt": "Former Lincoln Project senior adviser Kurt Bardella appears to have no issue with throwing stones from glass houses, as he recently accused the Republican Party of becoming the \"ultimate grift.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
-      "originalUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
-      "publishedDateTime": "2021-03-05T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-fbi-finds-contact-between-proud-boys-member-and-trump-associate-before-riot.md",
-      "title": "F.B.I. Finds Contact Between Proud Boys Member and Trump Associate Before Riot",
-      "excerpt": "A leader of the far-right group separately said he had been in touch with Roger Stone, but an official said it was not the same contact investigators found through electronic communications records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/05/us/politics/05dc-investigate1/05dc-investigate1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
-      "publishedDateTime": "2021-03-05T16:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-capitol-hill-has-picked-shalanda-young-to-lead-omb-but-biden-hasnt-yet.md",
-      "title": "Capitol Hill has picked Shalanda Young to lead OMB -- but Biden hasn't yet",
-      "excerpt": "Congressional Democrats are pushing President Joe Biden to nominate Shalanda Young to lead the Office of Management and Budget after Neera Tanden withdrew her nomination amid opposition in the Senate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YqiqCQePBI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YqiqCQePBI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303081850-restricted-01-shalanda-young-0302-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html",
-      "publishedDateTime": "2021-03-05T14:14:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

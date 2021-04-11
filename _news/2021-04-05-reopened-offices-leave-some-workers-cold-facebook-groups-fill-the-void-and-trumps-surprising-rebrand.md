@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Clyburn on possible criminal liability for Trump covid officials"
+    excerpt: "House Democratic Whip Rep. James Clyburn tells CNN's Jake Tapper that one Trump official boasted about political interference in CDC guidance. \"If he was doing things that may be criminal in nature, then we ought to bring that to light,\" he said."
+    publishedDateTime: 2021-04-11T16:44:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/11/sotu-clyburn-possible.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/11/sotu-clyburn-possible.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/11/sotu-clyburn-possible.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411124044-sotu-clyburn-possible-00003013-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Capitol officers sue Trump over 'physical and emotional injuries' from Jan. 6 attack"
     excerpt: "WASHINGTON — Two Capitol Police officers are suing former President Donald Trump over “physical and emotional injuries” they suffered during the attack on the Capitol Jan. 6, which they say was incited by the former president. Officers James ..."
     publishedDateTime: 2021-03-31T11:53:00Z

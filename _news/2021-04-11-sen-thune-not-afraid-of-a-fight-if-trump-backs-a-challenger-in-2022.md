@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Sen. Thune not 'afraid of a fight' if Trump backs a challenger in 2022"
-excerpt: "Sen. John Thune, R-S.D., said that he is not \"afraid of a fight\" if former President Donald Trump campaigns against him in 2022."
-publishedDateTime: 2021-04-11T15:05:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aao4Ax1CNjU/john-thune-donald-trump-2022-senate"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aao4Ax1CNjU/john-thune-donald-trump-2022-senate"
+title: "Sen Thune not 'afraid of a fight' if Trump backs a challenger in 2022"
+excerpt: "Sen. John Thune, R-S.D., said that he is not \"afraid of a fight\" if former President Donald Trump campaigns against him in 2022 after being labeled a \"weak and inneffective RINO\" by him earlier in the year. \"I've been through wars in South Dakota ..."
+publishedDateTime: 2021-04-11T15:14:00Z
+originalUrl: "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate"
+webUrl: "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate"
 ampWebUrl: "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp"
 type: article
-quality: 175
-heat: 175
+quality: 135
+heat: 135
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "iSzsWMI22gYWdNO87i+6CPybfwyFBQMLqQ8ml+rC2+vYMPhXSrdF4x1gCzbSlQ45LmGSF5AT+ACwPgslxyWSRhYbm0C8Byl2bPUqpnT2rpW1ZUYoUWdJpoIcE1jm11SrBEc5S5ldlAdFykZ7Non1JEz2aIYh5Z/vW9CLdu23iCniU3y9fZ+9SsZrR1Od2I8956l76Fqd+E5/wMuf93R57R7qnPMmNUgrC3yLobtCQ/5Uvoyf77ql2moi8LmW6zyl+AvYRuSDe0xaKiUtJJ8aHivjXaueZhEj4Cdo3E+XdAbxhOHDhpol/RJoR/NZOkjQR4FlMuNQ5qMjX+xyYRsHvqFhm+G3mdemgE3w3v9BKqA=;EvpcGeQjUa/Hoz+89RmiCw=="
+secured: "J71VmW+1KCd/+bD4Op3Rq5lZQn2P7TqqPPLL2xQrUWZlr5xy1cyT1tW/q4Prar/QzUwPFLpJefnKxZ+I3cI0uFVn9eEoHPH5mvmK5T6RKcyLn2wLO91FxhMzZfHkb320SP3VFholkXiV8l0AoxyB1vHEToOfnM1s5lBmkyT7YuUkFPNiSpkEYhnqaVvtlOdN9/vHNuuAaSgf0HyyTLjJrs9bq2E26ynp9Y/FlWeUMnumf316NGe6pGMokW9VRDEX1I9n5WJtxzXFreqXKfOpl/yAA+LiPViHcIk+bp7JTioQErTwsUHNeY4vJUV2cj9PTyziziQUda5VgM31PtPFcZWvSmwJrlq45O0N7j/r2I8=;7Xv4fTH8STNSP9QqHnWTAQ=="
 ---
 

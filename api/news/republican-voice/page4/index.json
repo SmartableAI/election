@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-30-bidens-border-response-blasted-as-half-a-ed-gig-by-texas-congressman.md",
+      "title": "Biden's border response blasted as 'half-a--ed gig' by Texas congressman",
+      "excerpt": "The Texas Republican then unloaded on the president for his border response, saying the country must “stand firm” on border policies and deportations “or we have no borders in this country.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ea87a8c-9e36-48dc-964c-90e65df5002c/f59f4da5-1c73-4ecf-9d66-81afd1c94004/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp",
+      "publishedDateTime": "2021-03-30T12:55:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-pavlich-calls-out-vp-harris-stop-laughing-when-youre-asked-serious-questions.md",
       "title": "Pavlich calls out VP Harris: 'Stop laughing when you're asked serious questions'",
       "excerpt": "The Biden administration's border policies are creating a catastrophe for everyone, Fox News contributor Katie Pavlich said Tuesday on 'Outnumbered,' in reaction to migrants receiving in-person schooling in San Diego while American students are continuing to learn from home.",
@@ -1597,62 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-gop-state-voting-legislation-jim-crow-jim-eagle.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gop-state-voting-legislation-jim-crow-jim-eagle.amp",
       "publishedDateTime": "2021-03-25T11:55:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-biden-says-its-his-expectation-to-run-for-reelection-in-2024-makes-trump-quip.md",
-      "title": "Biden says it's his 'expectation' to run for reelection in 2024, makes Trump quip",
-      "excerpt": "President Biden says it's his \"expectation\" that he'll run for reelection in 2024.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp",
-      "publishedDateTime": "2021-03-25T11:41:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

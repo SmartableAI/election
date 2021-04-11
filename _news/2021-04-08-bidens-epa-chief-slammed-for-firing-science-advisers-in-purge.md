@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/epa-chief-slammed-firing-science-ad
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/migrants.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Rep. Jordan slams Biden admin for limiting media's access to migrant facilities amid surge at border"
+    excerpt: "Ohio Republican Congressman Jim Jordan argued on Sunday that the reason the press is not allowed to visit migrant facilities is because the Biden administration does not “want the American people to know what's going on.”"
+    publishedDateTime: 2021-04-11T18:46:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCpA_tpx8jU/rep-jordan-biden-admin-limiting-media-access-border-facilities"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-jordan-biden-admin-limiting-media-access-border-facilities.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-biden-admin-limiting-media-access-border-facilities.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "AOC claims 'surge' plays into White supremacist philosophy – but Biden, Obama have used word in border debates"
     excerpt: "The two most recent Democratic presidents have used militaristic language regarding the border crisis that plays into a White supremacist philosophy, according to a standard laid out by Rep. Alexandria Ocasio-Cortez, D-N.Y."

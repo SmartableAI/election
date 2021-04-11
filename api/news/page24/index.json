@@ -2,6 +2,175 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-04-schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-19t-coronavirus-bill-this-week.md",
+      "title": "Schumer prepared to outlast GOP delays tactics to pass Biden's $1.9T coronavirus bill this week",
+      "excerpt": "Senate Democrats are prepared to work long nights and through the weekend to push through President Biden's $1.9 trillion coronavirus relief legislation, determined to outlast an onslaught of expected GOP delay tactics.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d3342b12-c01b-47c2-8873-0b049df6cfd6/606ea425-b5de-4601-8e55-e4bb1312cc7d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
+      "publishedDateTime": "2021-03-04T12:31:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-alcee-hastings-once-impeached-from-bench-leads-screening-of-judicial-appointments-to-biden.md",
+      "title": "Alcee Hastings, once impeached from bench, leads screening of judicial appointments to Biden",
+      "excerpt": "Rep. Alcee Hastings, D-Fla., announced Thursday that he and Rep. Debbie Wasserman Schultz, D-Fla., formed three screening conferences that will recommend candidates to fill federal judicial openings as well as vacant U.S. Attorney and U.S. Marshal positions in their state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQirE7bFJgM/alcee-hastings-impeached-from-bench-biden-judicial-appointments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQirE7bFJgM/alcee-hastings-impeached-from-bench-biden-judicial-appointments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp",
+      "publishedDateTime": "2021-03-04T11:16:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-de-blasio-compares-cuomo-to-trump-after-governors-apology.md",
+      "title": "De Blasio compares Cuomo to Trump after governor's apology",
+      "excerpt": "Mayor Bill de Blasio compared Gov. Andrew Cuomo to Donald Trump Thursday, panning his attempt to fend off calls for his resignation by criticizing conditions in New York City. “To paint an apocalyptic picture [of the city] — that’s what Donald Trump would have done.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/new-york/albany/story/2021/03/04/de-blasio-compares-cuomo-to-trump-after-governors-apology-1366867",
+      "originalUrl": "https://www.politico.com/states/new-york/albany/story/2021/03/04/de-blasio-compares-cuomo-to-trump-after-governors-apology-1366867",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/dc/c0/a8f7784b41aebcd07dfd92d4f058/20210128-bill-de-blasio-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-another-trump-on-the-ballot-lara-trump-eyes-north-carolina-senate-seat.md",
       "title": "Another Trump on the ballot? Lara Trump eyes North Carolina Senate seat",
       "excerpt": "A Trump may be on the ballot next year — but not Donald Trump. The former president’ Lara Trump, is eyeing the North Carolina Senate seat being vacated by Republican Richard Burr. While many in the state are skeptical she will move forward,",
@@ -1186,167 +1355,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-tim-allen-says-he-kind-of-liked-when-president-trump-made-people-angry.md",
-      "title": "Tim Allen says he 'kind of liked' when President Trump made people angry",
-      "excerpt": "Tim Allen got political on a podcast, saying he \"realized\" he \"kind of liked\" when President Trump pissed people off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/03/tim-allen-on-donald-trump-marc-maron-podcast/6905330002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/03/tim-allen-on-donald-trump-marc-maron-podcast/6905330002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/11/29/USAT/f5a8c383-6718-4f2d-90c6-eb06d8a86085-USP_NFL-_Chicago_Bears_at_Detroit_Lions.jpg?auto=webp&crop=7036,3958,x1,y733&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6905330002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6905330002",
-      "publishedDateTime": "2021-03-03T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pence-rails-against-hr-1-laments-capitol-riot-prevented-substantive-discussion-on-election-integrity.md",
-      "title": "Pence rails against HR 1, laments Capitol riot prevented 'substantive discussion' on election integrity",
-      "excerpt": "Former Vice President Mike Pence offered harsh criticism for a Democrat-proposed voting reform legislation while condemning the Capitol protest on Jan. 6 that, he said, interrupted what would have been a worthwhile discussion of election integrity.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
-      "publishedDateTime": "2021-03-03T09:19:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mike-pences-remarkable-op-ed-highlights-the-gops-choice-on-voting-rights-and-where-it-will-probably-land.md",
-      "title": "Mike Pence’s remarkable op-ed highlights the GOP’s choice on voting rights — and where it will probably land",
-      "excerpt": "Alleged voting problems in 2020. In an op-ed for the Daily Signal, Pence details his opposition to a voting rights bill spearheaded by House Democrats. He begins, “After an election marked by significant voting irregularities and numerous instances of officials setting aside state election law,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZ2TGE7SNZAB5G4LNTLM5HF5SI.jpg&w=1440",
-          "width": 1440,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "publishedDateTime": "2021-03-03T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

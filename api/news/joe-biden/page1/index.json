@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-11-greg-abbott-mocks-biden-on-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment.md",
+      "title": "Greg Abbott Mocks Biden on Guns, Says Shooting Victim's Family Demanded He Uphold 2nd Amendment",
+      "excerpt": "President Joe Biden on Thursday condemned the country's \"gun violence epidemic\" and laid out a proposal for firearm restrictions—a move which prompted Texas Republicans to promote their own \"2nd Amendment sanctuary state\" rebuke. Abbott recently joined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715",
+      "originalUrl": "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1751974/greg-abbott-speaking.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715?amp=1",
+      "publishedDateTime": "2021-04-11T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-no-joe-biden-did-not-have-a-medical-emergency-easter-sunday.md",
       "title": "No, Joe Biden did not have a medical emergency Easter Sunday",
       "excerpt": "This one is bogus, even though it was shared widely on social media. Here are the facts: CLAIM: President Joe Biden needed a special medical team at the White House and was taken to the hospital late Sunday. THE FACTS: Biden was not at the White House on ...",
@@ -32,6 +84,58 @@
         "name": "al.com",
         "domain": "al.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-clyburn-offers-manchin-history-lesson-to-clear-senate-path-for-biden-reforms.md",
+      "title": "Clyburn offers Manchin history lesson to clear Senate path for Biden reforms",
+      "excerpt": "said on Sunday he intends to give Joe Manchin a lesson in US history as he attempts to clear a path for Joe Biden on voting rights and infrastructure. Pelosi and Cheney critical of Gaetz but stop short of calling for resignation Manchin, a moderate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b9f072380b00e5cd707546e93628bd39d3af75d4/208_481_3048_1828/master/3048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe43afa6d72afd4bc9d30670810e50a4",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "publishedDateTime": "2021-04-11T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1460,110 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-in-new-memoir-hunter-biden-seeks-to-reframe-some-political-scandals-but-omits-others.md",
-      "title": "In new memoir, Hunter Biden seeks to reframe some political scandals, but omits others",
-      "excerpt": "In \"Beautiful Things,\" out next week, Hunter Biden charts a life defined by tragedy, addiction and scandal -- all in the shadow of a doting and concerned father, Joe Biden, whose ascent to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/memoir-hunter-biden-seeks-reframe-political-scandals-omits/story?id=76813811",
-      "originalUrl": "https://abcnews.go.com/Politics/memoir-hunter-biden-seeks-reframe-political-scandals-omits/story?id=76813811",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/hunter-biden-memoir-president-joe-biden-04-ap-llr-2100401_1617302578198_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/memoir-hunter-biden-seeks-reframe-political-scandals-omits/story?id=76813811",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/memoir-hunter-biden-seeks-reframe-political-scandals-omits/story?id=76813811",
-      "publishedDateTime": "2021-04-02T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-on-full-stadium.md",
-      "title": "Texas Rangers GM Jon Daniels Shrugs Off Joe Biden's 'Not Responsible' Remark on Full Stadium",
-      "excerpt": "The general manager of the Texas Rangers used baseball's opening day Thursday to comment on President Joe Biden's remarks about his team hoping for a stadium full of fans. The Rangers have expressed a willingness to have their brand new stadium full of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610",
-      "originalUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1769583/texas-rangers-fans.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610?amp=1",
-      "publishedDateTime": "2021-04-01T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

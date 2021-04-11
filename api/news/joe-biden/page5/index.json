@@ -2,6 +2,115 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-18-irans-khamenei-demands-action-from-biden-to-revive-nuclear-deal.md",
+      "title": "Iran's Khamenei demands 'action' from Biden to revive nuclear deal",
+      "excerpt": "Supreme Leader Ayatollah Ali Khamenei demanded \"action, not words\" from the United States if it wants to revive Iran's 2015 nuclear deal with world powers, challenging new President Joe Biden to take the first step toward a thaw.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-iran-nuclear-usa/irans-khamenei-demands-action-from-biden-to-revive-nuclear-deal-idUSKBN2AH0UQ",
+      "originalUrl": "https://www.reuters.com/article/us-iran-nuclear-usa/irans-khamenei-demands-action-from-biden-to-revive-nuclear-deal-idUSKBN2AH0UQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551842006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G0MB",
+          "width": 858,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AH0UQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0UQ",
+      "publishedDateTime": "2021-02-17T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-i-will-not-make-that-happen-biden-declines-democrats-call-to-cancel-50k-in-student-debt.md",
+      "title": "'I will not make that happen': Biden declines Democrats' call to cancel $50K in student debt",
+      "excerpt": "WASHINGTON — President Joe Biden said Tuesday that he would not eliminate $50,000 in student debt, shooting down a proposal that prominent Democrats introduced this month, but that he is open to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/i-will-not-make-happen-biden-declines-democrats-call-cancel-n1258069",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/i-will-not-make-happen-biden-declines-democrats-call-cancel-n1258069",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_07/3450546/210216-joe-biden-cnn-town-hall-ac-1026p_a3bbf6d5fe12321c1a27ed7d23419eec.jpg",
+          "width": 2500,
+          "height": 1680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1258069",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258069",
+      "publishedDateTime": "2021-02-17T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-biden-dismisses-a-democratic-plan-to-wipe-out-50000-in-federal-student-loan-debt.md",
       "title": "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt",
       "excerpt": "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year.",
@@ -1460,110 +1569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-biden-rescue-plan-answer-to-crisis-we-are-in.md",
-      "title": "Biden: Rescue plan, 'answer to crisis we are in'",
-      "excerpt": "President Joe Biden says the rescue plan he is pushing forward in Congress is the \"answer to the crisis we are in.\" (Feb. 5)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/02/05/biden-rescue-plan-answer-crisis-we-in/4409846001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/02/05/biden-rescue-plan-answer-crisis-we-in/4409846001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/e9108b67-4d19-4f26-8904-014d5a3ed01e_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-why-joe-bidens-faith-based-equity-agenda-is-getting-pushback-from-religious-conservatives.md",
-      "title": "Why Joe Biden's faith-based 'equity' agenda is getting pushback from religious conservatives",
-      "excerpt": "Joe Biden, only the second Catholic president, has brought to the White House a different approach to faith, personally and politically, than Trump's.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/04/bidens-faith-based-equity-agenda-counters-trumps-religious-freedom-protections/4376093001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/04/bidens-faith-based-equity-agenda-counters-trumps-religious-freedom-protections/4376093001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/04/NLED/0b61225d-b199-4f5b-adbd-ff335123872b-AP20247737178499.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4376093001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4376093001",
-      "publishedDateTime": "2021-02-05T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

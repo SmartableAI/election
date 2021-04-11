@@ -2,6 +2,170 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-02-01-kinzinger-launches-new-pac-to-take-back-gop-from-trump.md",
+      "title": "Kinzinger launches new PAC to 'take back' GOP from Trump",
+      "excerpt": "Under fire by many in his own party for his vote to impeach then-President Trump, Republican Rep. Adam Kinzinger of Illinois is fighting to \"take back\" the GOP.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NNGvr15TROg/kinzinger-pac-take-back-gop-from-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NNGvr15TROg/kinzinger-pac-take-back-gop-from-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp",
+      "publishedDateTime": "2021-02-01T08:48:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-democratic-party-tweet-accused-of-contradicting-bidens-original-promise-for-third-2000-stimulus-check.md",
+      "title": "Democratic Party tweet accused of contradicting Biden's original promise for third, $2000 stimulus check",
+      "excerpt": "Biden promised a separate, $2,000 stimulus check would 'go out the door immediately' if Georgia voters cast their ballots for newly-elected Democratic Sens. Jon Ossoff and Raphael Warnock during the state runoff elections earlier this month.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-Q-1Y5Xh88/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-Q-1Y5Xh88/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf5bd722-821b-4c34-9c86-b346316d5a2e/9948cd85-6696-4601-bb71-505ea8ec7441/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks.amp",
+      "publishedDateTime": "2021-01-31T18:54:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-melania-trump-may-be-advised-to-move-fast-and-divorce-husband-donald-for-this-reason-report.md",
+      "title": "Melania Trump May Be Advised To 'Move Fast' And Divorce Husband Donald For This Reason: Report",
+      "excerpt": "A brand and reputation management expert suggested that Melania Trump will be told by her advisers to divorce her husband, Donald Trump, soon while he still has millions to pay out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-may-be-advised-move-fast-divorce-husband-donald-reason-report-3134439",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-may-be-advised-move-fast-divorce-husband-donald-reason-report-3134439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg",
+          "width": 1024,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/melania-trump-may-be-advised-move-fast-divorce-husband-donald-reason-report-3134439?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-may-be-advised-move-fast-divorce-husband-donald-reason-report-3134439?amp=1",
+      "publishedDateTime": "2021-01-31T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-two-years-later-vp-kamala-harris-once-called-jussie-smollett-the-victim-of-a-modern-day-lynching.md",
       "title": "Two years later: VP Kamala Harris once called Jussie Smollett the victim of a 'modern day lynching'",
       "excerpt": "Friday marked two years since now-vice president Kamala Harris publically expressed support for actor Jussie Smollett after he claimed to be a victim of a hate crime.",
@@ -1194,171 +1358,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-politico-reporter-trump-base-is-getting-stronger-since-he-left-office-impeachment-would-only-empower-him.md",
-      "title": "Politico reporter: Trump base is 'getting stronger' since he left office, impeachment would only empower him",
-      "excerpt": "Politico reporter Tara Palmeri suggested on Friday that President Trump may have more political clout among his supporters than the D.C. establishment and the mainstream media assumed he had since he left office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger",
-      "originalUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Tara-Palmeri-GETTY-2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp",
-      "publishedDateTime": "2021-01-29T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biden-visits-wounded-soldiers-at-walter-reed-where-son-died.md",
-      "title": "Biden visits wounded soldiers at Walter Reed, where son died",
-      "excerpt": "President Joe Biden has made his first major foray outside the White House with a visit to Walter Reed National Military Medical Center to meet with wounded soldiers",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_1fb006fe7b104c96a50132cb5ffdcdcf_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "publishedDateTime": "2021-01-29T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-facebooks-sandberg-praises-biden-abortion-policy-criticizes-south-carolina-partial-ban.md",
-      "title": "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban",
-      "excerpt": "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
-      "publishedDateTime": "2021-01-29T16:13:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

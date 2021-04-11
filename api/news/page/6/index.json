@@ -2,6 +2,170 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-06-biden-ramps-up-vaccine-diplomacy-efforts-as-hopes-rise-that-hell-share-surplus-doses.md",
+      "title": "Biden ramps up vaccine diplomacy efforts as hopes rise that he'll share surplus doses",
+      "excerpt": "President Joe Biden, well on his way to reaching a new goal of vaccinating 200 million Americans by the end of April, is taking initial steps toward helping other nations ramp up shots, including by boosting global manufacturing and appointing a top global health expert who previously advocated for shipping",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hgN3CfmHSlE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hgN3CfmHSlE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210405163758-vaccine-pharmacy-us-louisville-kentucky-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html",
+      "publishedDateTime": "2021-04-06T03:09:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-permanent-resident-who-hoped-biden-would-be-his-miracle-is-set-to-be-deported.md",
+      "title": "Permanent resident who hoped Biden would be his 'miracle' is set to be deported",
+      "excerpt": "Hiding in plain sight Kelvin Silva, 44, hoped President Joe Biden would take a different stance than his predecessor by not deporting him. \"We just need a miracle,\" Silva told ABC News in December.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/permanent-resident-hoped-biden-miracle-set-deported/story?id=76884003",
+      "originalUrl": "https://abcnews.go.com/Politics/permanent-resident-hoped-biden-miracle-set-deported/story?id=76884003",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/permanent-resident-hoped-biden-miracle-set-deported/story?id=76884003",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/permanent-resident-hoped-biden-miracle-set-deported/story?id=76884003",
+      "publishedDateTime": "2021-04-06T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.md",
+      "title": "Biden WH 'tension' to blame for Major getting agitated, dog expert says",
+      "excerpt": "High-profile dog experts are speaking out about what they believe is really causing Biden's dog Major to act out after he bit two people at the White House in recent weeks, according to a report. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zL3ppeTplHo/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zL3ppeTplHo/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1232008114.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp",
+      "publishedDateTime": "2021-04-05T23:49:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-stephen-miller-if-cartels-had-a-vote-they-would-back-biden-border-policies-unanimously.md",
       "title": "Stephen Miller: 'If cartels had a vote,' they would back Biden border policies 'unanimously'",
       "excerpt": "It is \"deeply insulting\" to describe the Trump administration's border and immigration policies as inhumane, former White House senior adviser Stephen Miller told \"Special Report\" Monday.",
@@ -1206,170 +1370,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-biden-adviser-brian-deese-tells-fox-news-sunday-economy-still-has-long-way-to-go-needs-new-spending-plan.md",
-      "title": "Biden adviser Brian Deese tells 'Fox News Sunday' economy still has 'long way to go,' needs new spending plan",
-      "excerpt": "National Economic Council Director Brian Deese said Sunday that President Biden's new spending plan is still sorely needed despite a strong March jobs report and a variety of other positive economic signs in recent months. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ERHj-FNN0FY/fox-news-sunday-brian-deese-interview-biden-spending-infrastructure-plan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ERHj-FNN0FY/fox-news-sunday-brian-deese-interview-biden-spending-infrastructure-plan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fox-news-sunday-brian-deese-interview-biden-spending-infrastructure-plan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-sunday-brian-deese-interview-biden-spending-infrastructure-plan.amp",
-      "publishedDateTime": "2021-04-04T06:27:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-progressives-calls-growing-for-biden-to-cancel-50k-of-student-loan-debt-do-it.md",
-      "title": "Progressives' Calls Growing for Biden to Cancel $50K of Student Loan Debt: 'Do It!'",
-      "excerpt": "Calls from progressive Democratic lawmakers for President Joe Biden to cancel $50,000 of student loan debt continue to mount in recent days. Although Biden has previously pushed back against the idea publicly, White House Chief of Staff Ron Klain told ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937",
-      "originalUrl": "https://www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771446/democrats-cancelstudentdebt.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/progressives-calls-growing-biden-cancel-50k-student-loan-debt-do-it-1580937?amp=1",
-      "publishedDateTime": "2021-04-04T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.md",
-      "title": "Biden holds first call with Ukrainian president amid Russian 'aggression' in the region",
-      "excerpt": "President Biden spoke with Ukrainian President Volodymyr Zelensky on Friday in their first conversation since Biden took office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sj5MIv4Zgwo/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sj5MIv4Zgwo/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa3f8eb2-5375-45fe-bfdf-5366d85fca76/52aa9f2c-4ae7-4169-91f0-e1e4ea9892ae/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.amp",
-      "publishedDateTime": "2021-04-04T02:55:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

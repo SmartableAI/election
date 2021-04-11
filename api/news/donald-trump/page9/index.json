@@ -2,6 +2,63 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-17-on-trump-michigan-republicans-lean-one-way-fealty-at-all-costs.md",
+      "title": "On Trump, Michigan Republicans Lean One Way: ‘Fealty at All Costs’",
+      "excerpt": "Even after his defeat, Donald Trump is causing fierce infighting among Republicans in a crucial battleground state. Loyalists are rewarded. Dissenters face punishment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/12/us/politics/00michigan-gop1/00michigan-gop1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.amp.html",
+      "publishedDateTime": "2021-02-16T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-trump-and-giuliani-sued-by-democratic-congressman-over-deadly-capitol-riot-live.md",
       "title": "Trump and Giuliani sued by Democratic congressman over deadly Capitol riot – live",
       "excerpt": "Bennie Thompson accuses Trump and allies of violating 1871 act that prohibits violence that disrupts work of Congress – follow all the latest",
@@ -1525,63 +1582,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-trey-gowdy-democrats-chose-the-dumbest-possible-impeachment-article-to-bring-against-trump.md",
-      "title": "Trey Gowdy: Democrats chose the 'dumbest' possible impeachment article to bring against Trump",
-      "excerpt": "House Democrats chose the \"dumbest of all impeachment articles\" to bring against former President Donald Trump last month, Fox News contributor Trey Gowdy told \"America Reports\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial",
-      "originalUrl": "https://www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f04fe4c-245c-482f-9a29-aa24e52d20d3/d66ec36a-35ee-4102-aef1-973fe7727cd3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trey-gowdy-democrats-dumbest-impeachment-article-trump-senate-trial.amp",
-      "publishedDateTime": "2021-02-08T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

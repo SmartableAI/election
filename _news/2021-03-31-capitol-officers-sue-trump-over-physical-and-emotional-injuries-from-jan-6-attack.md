@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Clyburn on possible criminal liability for Trump covid officials"
+    excerpt: "House Democratic Whip Rep. James Clyburn tells CNN's Jake Tapper that one Trump official boasted about political interference in CDC guidance. \"If he was doing things that may be criminal in nature, then we ought to bring that to light,\" he said."
+    publishedDateTime: 2021-04-11T16:44:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/11/sotu-clyburn-possible.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/11/sotu-clyburn-possible.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/11/sotu-clyburn-possible.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411124044-sotu-clyburn-possible-00003013-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Reopened offices leave some workers cold, Facebook groups fill the void and Trump's surprising rebrand"
     excerpt: "For many, the next Covid-19 pandemic challenge is a return to \"normalcy.\" This morning we are looking at what going back to the office means, plus Trump ditching his iconic brand and how a Chicago teacher ignited a firestorm over one country's Nazi legacy."
     publishedDateTime: 2021-04-05T11:55:00Z
