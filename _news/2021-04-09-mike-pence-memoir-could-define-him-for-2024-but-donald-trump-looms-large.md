@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 1509
+heat: 1529
 published: true
 
 provider:
@@ -964,6 +964,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/03/members-of-the-national-guard-remain-in-washington.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump to give keynote speech to GOP donor meeting at his Mar-a-Lago home and club"
+    excerpt: "Former President Donald Trump will be delivering the keynote speech at a Republican National Committee donor event on Saturday — and he won’t have to go far. Trump was to speak Saturday night at his Mar-a-Lago club in Palm Beach, Fla., where he has ..."
+    publishedDateTime: 2021-04-10T19:36:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 70
+    images:
+      - url: "https://www.nydailynews.com/resizer/gyLJndg9ffS2yZFaaoS3SBaDE60=/1200x0/left/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CFLRBCXRCRGEJG2J3WXLS2KIGU.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
     excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."

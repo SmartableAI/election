@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-do
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
 type: article
 quality: 182
-heat: 442
+heat: 462
 published: true
 
 provider:
@@ -222,6 +222,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441896/210113-donald-trump-ac-434p_0a113ac772841e55bfd302f2f9225047.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "'Dumb son of a bitch': Trump rips McConnell at Mar-a-Lago"
+    excerpt: "Former President Donald Trump ripped into Senate Minority Leader Mitch McConnell before a Republican National Committee donor retreat Saturday evening, deriding him as a “dumb son of a bitch.” Trump veered off his prepared during a roughly 50-minute speech before several hundred well-heeled GOP donors at his Mar-a-Lago resort in South Florida,"
+    publishedDateTime: 2021-04-11T04:07:00Z
+    webUrl: "https://www.politico.com/news/2021/04/11/trump-mcconnell-dumb-son-of-a-bitch-rnc-480748"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/69/e7/a62f72da45c9b97fce96fb7b6fbc/210329-donald-trump-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
     excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-l
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
-    excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
-    publishedDateTime: 2021-04-10T14:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/bdb78118b4ab8163719f4c193ae98a167d3bf9c9/0_340_4500_2701/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea6d65fd64ab15a53a9512aea1fe6b36"
-        width: 600
-        height: 360
-        isCached: true
   - title: "'Mayor of Mar-a-Lago': Donald Trump Likely to Win Legal Fight to Live at Palm Beach Resort"
     excerpt: "On the same day as the start of his Senate impeachment trial, a lawyer argued that former President Donald Trump should be allowed to live in his Florida resort as an employee of sorts."
     publishedDateTime: 2021-02-10T02:44:00Z

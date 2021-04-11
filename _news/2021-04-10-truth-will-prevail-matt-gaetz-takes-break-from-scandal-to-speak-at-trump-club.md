@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
 type: article
 quality: 120
-heat: 200
+heat: 180
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
-    excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."
-    publishedDateTime: 2021-04-07T19:35:00Z
-    webUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534"
-    ampWebUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
-        width: 1024
-        height: 534
         isCached: true
 
 secured: "rfzsa0VAFtzMhsgdsW8ce6u7ckmEmANK6H2ScfO5We6cOvE7BvwFGef9PHct90sH1uDerp2PHOKmlowvNHZpbkLdQRwZhZySTXb6bPAVmWedHlLY8QDROOA0Aw1kmZe3PJqkViMepkC5FdC/UuURaIVrFE+AkWqBQPgWr4IkjiwXbtIaxBHxaDzcHM87GRcdO6Kw7bR//Wa1w++xkjNWWUbEA0E2ey1i74GH40zfQJyc5JzKxFM1Y4YYUdbLqseuMXPP37cfb3qfmopgupxfUdeJoBy0TIHBqwZcsQJCdb8JBDcqaB9gRfl1c6BhNzobcRY7z71CGSzUlIFpJUbeDEZe83W7UqK3pP2glnsX+kNcFOHyH0b2RrNRoePpiYYZP4l08jhn8pz/+Ovj/a1wpAkCN8TTCT6ArgzyHwL2CtQe939r+zQH9ZE2asxggq1aMQFCSqVkqjNzGhoTuFfp9uIAdB0rONLoHFkNwjEyagJUmaM0kymVOyb8Tu+jDayU0+H6B8R3vQHKjGS5K6z9sQ==;sO6ewD5gFP4sz2AbMXXJZw=="

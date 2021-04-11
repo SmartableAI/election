@@ -77,22 +77,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
-    excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."
-    publishedDateTime: 2021-04-07T19:35:00Z
-    webUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534"
-    ampWebUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
-        width: 1024
-        height: 534
-        isCached: true
 
 secured: "wDcLT8OdSbRM2vFT9euDygfm3P1UbPAtWHykfDWSPSthOXEZozCRFaCOsmpJTlkfCVBWEPdTsjVeH9znuj64RgitIBhQ3ANTlVEymozQCe/tt9F9yThPYhV9Jd9ZLNM/7NHAfWK4YD2Yw3MVHWWXXkSgOuQ1Hb4srT/A6dE29gaCHAYa8VhW4dtCXZSDdc+nbNkpBID4uYvNty979J3hOzf/zJmCUvaInq2y45vTt3WrBfJPzz7IHTHNU/EFPZ+a31wuJi+UZS2v54YNDLPf5Wq6rMgfFv1eegm2CdDp1fZTJJ7mefhkjcL8bpfvs2SeVTgGB3sbJ0RyqWPUbAIZKQ0KsvkkRYxYeM3HO371Xq8=;DvHkubIWUUpFFXL3MavYvQ=="
 ---

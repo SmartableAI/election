@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-st
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/2dbb7d85-9ece-4fbf-88c2-c7acdd6a1bd1-AP_Trump.jpg?auto=webp&crop=2702,1520,x0,y1460&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
+    excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."
+    publishedDateTime: 2021-04-07T11:01:00Z
+    webUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
+        width: 4032
+        height: 3024
         isCached: true
 
 secured: "Wzw5+kGG8t+rQFuxekGFamWqgAEPR6yYeLfduYV/N7G+fbWEzAp5f+BdPBX+/8HaIHXbP0SVs6e34k0+NOZcXeXbwgJB0Ydd++MrmONbVPQivsm24ofDJqn5/DP4ZgPQPvk38n/a6bAM/oPEtDDZ2rYsMJAojF4vwS0oakssry23waQA+PIkC3GOcG67K7mL3+WjTyU8QRk5o17M3f+0uWr/cO1hQcBmk8HdaXiCCq4Hl58aUCxRzGdrULI/520MDxkZVCyf0ZwkFBi0LoL+s8SQK5ZnkmcJEnk+mgjLtmzA7GsCAU1iT70G5JorL8tM9W4Als/0lvv3sevrsqKRl4eOqpwKSP7xYAXSfxr6BeS/5bCFjbM7EQOjmgD0qyimKfWy3sxCx0cnD5LFfFA1OnssAbU8w9/qabv/Xk1Cvz+Dt+m7ZntBIiHpwfcfm69fWrNObAhE2dHGT0PSFx66A1mYEWCYOZIRxtgX7qX0Xw3MlszmPE5IKgVbfmT+XAu1+E4T57WSkECsOge92ee+jQ==;rEuamx29TEwyV/XDEo8N8Q=="

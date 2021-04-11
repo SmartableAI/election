@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-04-highly-misleading-at-best-dale-reacts-to-pences-op-ed.md",
+      "title": "'Highly misleading at best': Dale reacts to Pence's op-ed",
+      "excerpt": "CNN's Daniel Dale fact-checks claims former Vice President Mike Pence made in an op-ed, where he alleges that there were \"voting irregularities\" that took place during the 2020 US election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/03/03/mike-pence-voter-fraud-election-claims-fact-check-dale-nr-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/03/03/mike-pence-voter-fraud-election-claims-fact-check-dale-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303144137-pence-dale-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/03/03/mike-pence-voter-fraud-election-claims-fact-check-dale-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/03/mike-pence-voter-fraud-election-claims-fact-check-dale-nr-vpx.cnn",
+      "publishedDateTime": "2021-03-03T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-hear-why-qanon-supporters-believe-trump-will-be-president-on-march-4th.md",
       "title": "Hear why QAnon supporters believe Trump will be president on March 4th",
       "excerpt": "Some believers of the QAnon conspiracy theory think that former President Trump will become president again on March 4th. CNN's Sara Sidner explains the origin of that belief.\n    \n",
@@ -1606,62 +1663,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn",
       "publishedDateTime": "2021-02-23T07:24:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-fact-check-breaking-down-bidens-first-month-of-claims.md",
-      "title": "Fact check: Breaking down Biden's first month of claims ",
-      "excerpt": "President Joe Biden was more consistently factual in his first month in office than his predecessor ever was in office. But Biden was not perfect himself.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JbRiqEClkxc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JbRiqEClkxc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210219122934-01-biden-munich-security-conference-0219-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-month-2021/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-month-2021/index.html",
-      "publishedDateTime": "2021-02-23T07:02:38-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

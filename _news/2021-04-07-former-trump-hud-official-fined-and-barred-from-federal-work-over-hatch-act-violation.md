@@ -238,6 +238,20 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "'Dumb son of a bitch': Trump rips McConnell at Mar-a-Lago"
+    excerpt: "Former President Donald Trump ripped into Senate Minority Leader Mitch McConnell before a Republican National Committee donor retreat Saturday evening, deriding him as a “dumb son of a bitch.” Trump veered off his prepared during a roughly 50-minute speech before several hundred well-heeled GOP donors at his Mar-a-Lago resort in South Florida,"
+    publishedDateTime: 2021-04-11T04:07:00Z
+    webUrl: "https://www.politico.com/news/2021/04/11/trump-mcconnell-dumb-son-of-a-bitch-rnc-480748"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/69/e7/a62f72da45c9b97fce96fb7b6fbc/210329-donald-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "JlpNJHwObsyAryeeBWGKSSj6EgFS491cCiEF9o0A1hDm+aNkRQnyswXQVjcKnzBuuC6io3JmzchrPMW51jQU4a38ldpu/h7BXfJn7rL2vJR7vjsy0l91isqRHqqiBCFBcnRKVHNVmOXx6dInKxCTvNj3D0lugqAIqZgEGbfeqiFn9c8WRy9gRJAO0SC20DHhKXr98t/zGlhQt3fq6vNkY2cV6b21loTthclV4Cj17a39WIYJvU17oHlAM0A2kFj5ioilOstlAW1Q2ul5ktsyX2vmIy0OdO63rCfTCxkVIiIgtrHCWbJGHECYdCktYsKNsjhWuVEzfDX6kBM2cvyRtetkKJD4WGYpNW8rUQD9Tmpuf2ZAKL+SxxsjL/1t210PXOnWUPxoRmEpX3Dt5u855rKntD+KfeMOc35KAhhf53TVUpwuJEdEqZeNxp1CoXOvNbOnCRZklTGEKsKbXbtov6NAjPLH+iQh4453RAdD0AOWVOVStLtSueokZRXO2oVeMhK9AE/nxyva6uCiXqEQww==;HViKNspRCfa9F5Luy3IBIg=="
 ---

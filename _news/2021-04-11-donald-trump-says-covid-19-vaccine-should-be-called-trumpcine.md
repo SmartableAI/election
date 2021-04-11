@@ -964,6 +964,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump to give keynote speech to GOP donor meeting at his Mar-a-Lago home and club"
+    excerpt: "Former President Donald Trump will be delivering the keynote speech at a Republican National Committee donor event on Saturday — and he won’t have to go far. Trump was to speak Saturday night at his Mar-a-Lago club in Palm Beach, Fla., where he has ..."
+    publishedDateTime: 2021-04-10T19:36:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 70
+    images:
+      - url: "https://www.nydailynews.com/resizer/gyLJndg9ffS2yZFaaoS3SBaDE60=/1200x0/left/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CFLRBCXRCRGEJG2J3WXLS2KIGU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
     excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
     publishedDateTime: 2021-04-06T20:42:00Z
@@ -1084,6 +1100,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "W/f1Q+8hapKeRXQPGWbJemw2Br8T5etZjSf4+dckCtoggTmj8xKlS6Fa1geqAOXltIrnZCmPthHrRn8Q/C5C/VNJRJMvJ7k2uTwVlTHgHwQ3dqb9KjDOUccrmT2AsLFCl9vscGoLg9jpemJL+cvNoWV89zu4DcNXnWwPrcdI0j6xmXLaPxlxqGs14v2I6oqxu9zRNGCUgwqfw+E4EG/J5aVsonbfzZAowIN2IGEHmc5p9KZdNAYAHeVx9+BnoR+wIAShmxaHSXgVUhj6rC9KzdI82qI8BpW9rhKZ3S3TrIKEwFsJwWxP8PdQ/mDEWkGyXhTRhoI8wni9nWdk4E9PHJwqU6eSfUfJUle7S5y4in8=;SyUCw7leS4vlfvkM/9EQvg=="
+secured: "eJ/yNyde4AtoDMftz5YrF1web1bBytS+xV2Bbcv+85QRvyGdVfsQABSp7x1GaI62XWidM0JkPCPoLlaZ2nVM5uAoXaOtDoFzMGFq6XR/pN5mdKGbl+fNf+0y11sthM/NP+vQatRzKDszn5I0/49g9FhKoI+oWfUYDyzDyMzuWl2Z2P046yYxuhPMjL9rcLwcnErac4lYha8Gj7eJN3GP+f2TfD/kicxop7I+G/YW8owgXasBLyA1hj8M3RyqKVtnPSwJkVz1BYxxzvZ4s1klIz/ZnSiZu6GZFPdWbbP5estH1O9WQGy0IPDFJg4vCKWgqg1DBCQm8kS3ckmqob+CXaDrJeE5ho7LA+/UqwwbDZzEkKsTiI2u8Uef9lVRby520Be/UQYLdzQrAPNk7+8HV7LXvR9McHzwHI28NDXshZCtNK00uvRlzv8dl6PbxufkJsoSCWfwec6XUEMBaHQiGnVsdAuwAWzGTOd0u/fStPSuV38rbfuKCawr8LIEcUnzLMGbVXe+E5PfdD0dvihh5Q==;XGjKW45BBX57sP3FFJiiyA=="
 ---
 

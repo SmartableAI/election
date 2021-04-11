@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
-    excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
-    publishedDateTime: 2021-04-10T14:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/bdb78118b4ab8163719f4c193ae98a167d3bf9c9/0_340_4500_2701/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea6d65fd64ab15a53a9512aea1fe6b36"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Florida Man Angry He Didn't Receive Stimulus Check Threw Smoke Bomb Outside Trump's Mar-A-Lago"
     excerpt: "A Florida man upset with former President Donald Trump's administration was arrested on Sunday for throwing a smoke bomb at Mar-a-Lago, the former president's residence. Stimulus checks started going out over the weekend as part of President Joe Biden's $1 ..."
     publishedDateTime: 2021-03-16T19:12:00Z

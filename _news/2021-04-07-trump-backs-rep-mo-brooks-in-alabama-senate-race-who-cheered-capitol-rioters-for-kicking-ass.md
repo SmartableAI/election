@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -25,83 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election"
-    excerpt: "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House."
-    publishedDateTime: 2021-04-07T23:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 126
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Donald Trump Endorses Marco Rubio, Says He'll Never Let Country Down"
-    excerpt: "Former President Donald Trump has endorsed Senator Marco Rubio (R-FL) in a post on the messaging service Telegram on Friday morning. \"It is my honor to give U.S. Senator Marco Rubio my Complete and Total Endorsement,\" Trump wrote. \"Marco has been a ..."
-    publishedDateTime: 2021-04-09T13:04:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1774461/trump-marco-rubio-other-senators.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Anti-Trump Republican Michael Wood Endorsed for House Seat by Texas' Biggest Newspaper"
-    excerpt: "Michael Wood, an anti–Donald Trump Republican who is running in a special election in Texas, was just endorsed by the state's biggest newspaper. The Dallas Morning News Monday recommended Wood to represent the 6th Congressional District. The endorsement ..."
-    publishedDateTime: 2021-04-05T16:06:00Z
-    webUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026"
-    ampWebUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1771634/michael-wood-texas-congressional-candidate.jpg"
-        width: 309
-        height: 292
-        isCached: true
-  - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
-    excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."
-    publishedDateTime: 2021-04-07T11:01:00Z
-    webUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html"
-    ampWebUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
-  - title: "Trump Endorses Mo Brooks Among Alabama GOP Senate Contenders"
-    excerpt: "Former President Donald Trump has endorsed Rep. Mo Brooks in Alabama’s 2022 Senate race, siding with the conservative firebrand who riled up the crowd before the Capitol riot over other contenders in the state’s all-important Republican primary."
-    publishedDateTime: 2021-04-07T15:18:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "Kpp1+JJnH1LE31sURMzZ01an7NhPtYOrPUkP5E45Va1f7TrKWvL40Wngtt9NLkjSGw3kmrzwn3kGXvte40BpNUMVSk/rdZOl3dhAbT60ECkuIlLF5T22VIrzlgI6u43O7kEWRF+xFC5HyKb3SMORcyYSuGepzpUFdJ/Mdqh/BSfZ6ISyOYZ++Ju3Htr0cjfAmN33CFiEj7fYGCaO5es1HdVFKafiTjizsB50xDVUMPdSJKhV5Y6ZnkOYbB2YJVlzYDIPDmWuLiKdlcISvKcj3lMlDq9xVvPp6wAgRRYqvDfv8qMppA/56FNr/lG5REFdff4ChfV/sO3ZMMFLcDKtP7njvCv5YJ3JGfMMO+DLWLE=;wiJwglm0O6d/B3Mzd7LzFg=="
 ---
