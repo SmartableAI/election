@@ -271,6 +271,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Adam Kinzinger Blasts Trump for Insulting McConnell at GOP Donor Retreat: 'Classy as Always'"
+    excerpt: "Illinois Republican Congressman Adam Kinzinger criticized former President Donald Trump for insulting Senate Minority Leader Mitch McConnell at a GOP retreat over the weekend. \"Classy as always. I remember when my fellow Republicans would have condemned ..."
+    publishedDateTime: 2021-04-11T14:10:00Z
+    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705"
+    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1775595/adam-kinzinger.jpg"
+        width: 2500
+        height: 1799
+        isCached: true
   - title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."
     publishedDateTime: 2021-04-11T09:04:00Z
@@ -302,6 +318,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/dde/038/bd4c60c0dce402fd6be1a0dac9e2e8e396-Mitch-McConnell.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Trump blasts McConnell as ‘dumb son of a b---h’: report"
+    excerpt: "Former President Donald Trump called Senate Minority Leader Mitch McConnell a “dumb son of a b---h” in front of Republican donors gathered at Trump’s Florida resort on Saturday night, according to Politico. The vulgar comment came in response to the ..."
+    publishedDateTime: 2021-04-11T15:27:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/E7UE7f5xsHRVKrkom1-nCuO7GnU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YKFGTYK6BJGDBJP7VBHYYWF3UU.JPG"
+        width: 1200
+        height: 744
         isCached: true
   - title: "Trump to give keynote speech at RNC donor retreat Saturday — right near his Mar-a-Lago club"
     excerpt: "Former President Donald Trump will be delivering the keynote speech at the Republican National Committee donor retreat on Saturday — and he won’t have to go far. The private donor event is being held at a hotel just a few miles from Trump’s Mar-a ..."

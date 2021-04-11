@@ -3,10 +3,12 @@ category: news
 title: "Business faces tricky path navigating post-Trump politics"
 excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to ..."
 publishedDateTime: 2021-04-11T12:23:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003949"
-webUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003949"
+originalUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
+webUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -541,6 +543,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "GOP senator dismisses Trump-McConnell feud"
+    excerpt: "refused to directly respond to former President Trump Donald Trump Harry Reid reacts to Boehner book excerpt: 'We didn't mince words' Man arrested for allegedly threatening to stab undercover ..."
+    publishedDateTime: 2021-04-11T14:24:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/547569-gop-senator-dismisses-trump-mcconnell-feud"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/547569-gop-senator-dismisses-trump-mcconnell-feud?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/547569-gop-senator-dismisses-trump-mcconnell-feud?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/thunejohn_032321gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump in 2024? He says only that 'a Republican' will win"
     excerpt: "Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee"
     publishedDateTime: 2021-04-10T21:41:00Z
@@ -996,6 +1014,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump goes after Pence, McConnell in speech to party donors"
+    excerpt: "Palm Beach, Fla. – Staking his claim to the Republican Party, former President Donald Trump is casting his populist policies and attack-dog politics as the key to future GOP success. In a closed-door speech Saturday night to donors at his Mar-a-Lago ..."
+    publishedDateTime: 2021-04-11T15:06:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/04/11/trump-mcconnell-pence-donors/115691786/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/115691786"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115691786"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/22/PDTN/6588e96b-fa44-4b91-bff6-27ab924934a2-AP21050795914916.jpg?auto=webp&crop=816,459,x0,y23&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "House Republicans Double Down on Scammy Trump Fundraising Tactic"
     excerpt: "Donald Trump has long demanded fealty from those who wish serve in the high ranks of his administration and golf courses, but House Republicans made that requirement explicit in a fundraising ..."
     publishedDateTime: 2021-04-08T03:27:00Z
@@ -1194,6 +1228,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "0/DCXVT1aF/+/Jbsygv9/MH2BFrQGhW3FPKi3SC7QJUBaFA1fEtZwPUbpHlU2N7ag7zbY7AYI6fVL0P2Rip13WoiV0IfKliIvJyv9lcL0yEll2PFX5gEQEPKVIX8KnFIFfdehAcx1P4gKjJZqwj8O2cbX9cRAGC9zK7iQro6CzEHDBkSH98gRBZ+HqqAdnW+s/yLRjOOpN+b5OWGJh2SwTmQHFpUJOcwjuu2SyXOQibV4uzFBLOEvxXtOKXyOi0Wspb3loYnBrg9x1rQP8HmNB9HM71JgiprrYuwOWNKIo7tJTlnMI6kNViWuKdOlG3zYW1ojyYFi9cdYxRQoaHimJDeOt7B30/glaWitlanc7A=;+4ZI8lAGBA5ymx0Ax3pk8A=="
+secured: "hbwdxuTr1tjTCSE/cH+EwXa0EmlS37AQ36n9a4+tJp6ORslDSkn8ywyhEBV1mVoPAxQT/65fRlcpAsS/36tqKWgY4UApMLU++zex/Cweq5tpAbDeBvvYqCrI43MpFqxmsR8gx+tAQndIiC1mkiZowhQ8G/nto02e3v1ZZwkodyMpTsyoyNtN2iEzx2xJcIfBJJYuZu58eDI4pC39Dtj/n4A1+itpn21QQQ5/nBWxcnyzQFK7LChviplpNTeCfKBPe0udX0xuRh0Uzk+8NuD+nSkBS3SHEwEh7hA8hWn3OpNeMgsduWacaTqnnermWXoIcMqJAEOeam1r+ReEJnbUa/0ik/lUTWwtuccj3mPetFI=;wB60LUvf21JBU0Lir4/PtA=="
 ---
 

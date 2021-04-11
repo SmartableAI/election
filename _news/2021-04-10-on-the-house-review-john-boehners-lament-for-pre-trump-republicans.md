@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2021/apr/10/on-the-house-review-jo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/606dbe1a30004b0019b26624?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Exclusive: John Boehner says Donald Trump 'abused' his loyalists by lying to them"
+    excerpt: "And the election of the even more disruptive Donald Trump as president. Boehner's new book, being published Tuesday by St. Martin's Press, is titled \"On the House: A Washington Memoir.\" But it is unlike the classic Washington memoir, those soft-focus ..."
+    publishedDateTime: 2021-04-11T14:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/11/john-boehner-says-trump-abused-his-loyalists-lying-them/7074030002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7074030002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7074030002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/bd333c30-2b30-4e72-8ea0-d705680ef3ae-XXX_20210405_Boehner_JK001.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "zRVOtCha+A3iLsRBR1F29BiX+78d2YbY71rnmyMV6xi7UfTyNqjgfBLNOlLRJDi6NlmwaBHPO1udnQEw7EXqVpewJCwK427i/DDtZQ6Bmo/G8EbyGIQjdQwqwviTHtn3VfFxPyXWcLehBSNaPktr09BATmgIoAxKSXaFY6E9Cmj1cI+rMMDbCZ0w7sqGKMhEmOgl46fJrl4DZ+yi3WfTq0D065mbL9IJzkrSpkyCzazQp4nWajauitt0FC7V/6/I0M3SlBHM1bn1y1hr0J8VMb8FFFbOflsjaCzkS5WV3KSCT6t/NTpwNfOQVLo9aS5rI7BIROnqSXzMqL4lv1jFjn9GJctu3wWv21MIS97cNfouq1zyUt9UfXCzmNIX4GqNK3O9wfZeKW2M7o67rTtjzPlcURD+GiOAjEcC2/BJJHPX29bsJr4Gr69juLuHMp05/EPz9Dv40bVsvIkoN77ajUlXfFliFwbApJmOOeDcVvd9wjFWEzJMoltmJd7HQDxF4TzcXN8ors0Aa4/JPXQzlg==;SfqEdlSUVryOGb8I5T9Ujw=="

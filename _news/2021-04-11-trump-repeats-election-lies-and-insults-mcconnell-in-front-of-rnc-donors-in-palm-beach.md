@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-do
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
 type: article
 quality: 182
-heat: 482
+heat: 502
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322174406-01-georgia-voting-lines-2020-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump curses McConnell's name during rant at Republican donor event"
+    excerpt: "Former President Donald Trump again lashed out at Senate Minority Leader Mitch McConnell, R-Ky., calling the top Republican a \"dumb son of a b----\" and a \"stone cold loser\" amid a lengthy rant at a Republican donor event Saturday night in which he also ..."
+    publishedDateTime: 2021-04-11T14:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-curses-mcconnell-s-name-during-rant-republican-donor-event-n1263750"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263750"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263750"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_14/2197521/171021-trump-mcconnell-145p-rs_f8f4f4a59e42e75e6e59845ac45b354b.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
     excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
