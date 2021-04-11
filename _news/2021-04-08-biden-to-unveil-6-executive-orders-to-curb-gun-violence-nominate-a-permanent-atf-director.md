@@ -79,6 +79,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "South Korean battery makers agree last-minute deal in boost to Biden's EV policy"
+    excerpt: "South Korean battery makers LG Chem and rival SK Innovation Co have agreed to settle a trade secrets dispute that has threatened a key Georgia plant and the electric vehicle plans of Ford Motor Co and Volkswagen AG,"
+    publishedDateTime: 2021-04-10T20:36:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-electric-politics-idINKBN2BX0HI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BX0HI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BX0HI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557989961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH390CK"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Texas Democratic Sheriff Slams Biden Immigration Policy, Cost of Placing Migrants for County"
     excerpt: "Val Verde County, Texas, Sheriff Joe Frank Martinez said Friday that \"criminal aliens ... He commended Florida GOP Governor Ron DeSantis for sending a letter to the Biden administration that demanded it stop enforcing policies allowing the release of ..."
     publishedDateTime: 2021-04-03T15:47:00Z
@@ -124,15 +140,15 @@ related:
         height: 600
         isCached: true
   - title: "Does your state have the worst bridge in America? Joe Biden wants to know"
-    excerpt: "WASHINGTON — In his new $2.25 trillion infrastructure and jobs proposal, President Joe Biden promises to fix the 10 most \"economically significant\" bridges in need of reconstruction and repair 10,000 additional smaller bridges. But the American Jobs ..."
+    excerpt: "Think of it as a competition for states to show why their bridge deserves rebuilt based on size, condition, traffic volume or economic significance."
     publishedDateTime: 2021-04-10T12:00:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/7142869002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7142869002"
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7142869002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7142869002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/74546629-b6e6-4245-9335-f0bcc8799474-Miami_bridge.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"

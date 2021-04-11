@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Does your state have the worst bridge in America? Joe Biden wants to know"
-excerpt: "WASHINGTON — In his new $2.25 trillion infrastructure and jobs proposal, President Joe Biden promises to fix the 10 most \"economically significant\" bridges in need of reconstruction and repair 10,000 additional smaller bridges. But the American Jobs ..."
+excerpt: "Think of it as a competition for states to show why their bridge deserves rebuilt based on size, condition, traffic volume or economic significance."
 publishedDateTime: 2021-04-10T12:00:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
-ampWebUrl: "https://amp.azcentral.com/amp/7142869002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7142869002"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7142869002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7142869002"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -74,6 +74,22 @@ related:
       - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
         width: 827
         height: 551
+        isCached: true
+  - title: "South Korean battery makers agree last-minute deal in boost to Biden's EV policy"
+    excerpt: "South Korean battery makers LG Chem and rival SK Innovation Co have agreed to settle a trade secrets dispute that has threatened a key Georgia plant and the electric vehicle plans of Ford Motor Co and Volkswagen AG,"
+    publishedDateTime: 2021-04-10T20:36:00Z
+    webUrl: "https://www.reuters.com/article/us-autos-electric-politics-idINKBN2BX0HI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BX0HI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BX0HI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557989961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH390CK"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden to unveil 6 executive orders to curb gun violence, nominate a permanent ATF director"
     excerpt: "WASHINGTON – President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act the president's long-held campaign ..."
@@ -136,6 +152,6 @@ related:
         height: 600
         isCached: true
 
-secured: "z1hZiYGFGAi8ClslA+oPDfTlgXcQatSt+oph+/Am0078k7/6+RLyBq1lPzPrsFFLSFSy7OjggO523RyNoqS4N8SUSBa0Apx5nSzPkVbXGNSXZFVkMC/Qm3yagq9iycHPrC0128JitHMBr3LZaAyX4EAoyuHuEpHG2/j+0bQIlz+a0CxvEm2SHKfy7wvWwrRBDQopNRcXHnHh9ifJx+on8SjhwCVYXzh+AyQQ+lJJh18OlBijZTJKtnD9hFWWbyeMcmj6HtmZnQMabBLz+YOQLUvnS0MvYLqDgub9iR/lE0VTej1zrKxWx8QQ6OOBZXwj7+nI+n3k9meN2/ZpGYeobyLoGTloX4cl0ycnWaZ8Htc=;4qPynOj8ViO/dY7Ci4yG4Q=="
+secured: "/iq5IvA1cD9BYLtYOngt0Wqc3lT+jt3B7XRapufeVwFIqZrRKLTTutJApSDBeMjV+B0Isbe7Y0xoRKpmoavXQD1rbKJnQ1K3+y3gTmawPUzUpNIMNUpaCI6IqgN6K4AcAzGnphnZLnIb3TfWK6mqaI/kEmqVOdPOL7UvvEXmMQiy0iUTXLNoUw2u1eW2bgXHCVTbDaKQLPbJyCY+XjruaRWxQWRZoIkIytDeJ5QhPiSWClp5WkNzvHTEVz9PVcheyzied/UBveDA77k8xSS00JbaGLc1ZGq+4c2aM3zOxWv0aBaHu1+4ag4802pL92rq2Bo7NX7giv5eqvUCXE8nsc24C67xsumhRUyiSQ8qTIA=;VWCn/pvYXfJFUWKnUMh/kA=="
 ---
 

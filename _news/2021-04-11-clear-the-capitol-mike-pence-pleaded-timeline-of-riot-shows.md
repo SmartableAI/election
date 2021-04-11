@@ -26,20 +26,36 @@ images:
 
 related:
   - title: "'Clear the Capitol,' Pence pleaded, timeline of riot shows"
-    excerpt: "Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand. “Clear the Capitol,” Pence said. Elsewhere in the building, Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi were making a similarly dire appeal to military leaders,"
-    publishedDateTime: 2021-04-10T21:23:00Z
-    webUrl: "https://www.ourmidland.com/news/article/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
-    ampWebUrl: "https://www.ourmidland.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
-    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    excerpt: "WASHINGTON (AP) — From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
+    publishedDateTime: 2021-04-10T23:23:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
     type: article
     provider:
-      name: Our Midland MI
-      domain: ourmidland.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "‘Clear the Capitol,’ Vice President Mike Pence pleaded, according to timeline of riot"
+    excerpt: "WASHINGTON – From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
+    publishedDateTime: 2021-04-10T22:22:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7177010002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7177010002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/499ef827-d18d-4c96-8c0a-130a4f771a96-AP_Capitol_Breach_The_Road_to_Riot.jpg?auto=webp&crop=4886,2748,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "‘Clear the Capitol,’ Pence pleaded, according to previously undisclosed document on January 6 riots"
     excerpt: "WASHINGTON — From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."

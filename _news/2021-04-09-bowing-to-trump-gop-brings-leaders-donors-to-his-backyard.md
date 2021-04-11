@@ -507,6 +507,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump looms large over GOP donor retreat in Florida"
+    excerpt: "Former President Trump Donald Trump Romney blasts end of filibuster, expansion of SCOTUS McConnell, GOP slam Biden's executive order on SCOTUS US raises concerns about Iran's seriousness in ..."
+    publishedDateTime: 2021-04-10T10:01:00Z
+    webUrl: "https://thehill.com/homenews/campaign/547433-trump-looms-large-over-gop-donor-retreat-in-florida"
+    ampWebUrl: "https://thehill.com/homenews/campaign/547433-trump-looms-large-over-gop-donor-retreat-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547433-trump-looms-large-over-gop-donor-retreat-in-florida?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_trump-donor.jpeg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump in 2024? He says only that 'a Republican' will win"
+    excerpt: "Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee"
+    publishedDateTime: 2021-04-10T21:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-2024-republican-win-76997379"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-2024-republican-win-76997379"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-2024-republican-win-76997379"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b6d49faf981243478c6e3448b9a3e707_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z
@@ -661,6 +693,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/02bf48df-af87-473d-bca5-45a58a3be411-AP_Trump.1.jpg?auto=webp&crop=4239,2385,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump says GOP will take legislature in 2022, White House in 2024 in prepared speech"
+    excerpt: "Former President Trump Donald Trump Romney blasts end of filibuster, expansion of SCOTUS McConnell, GOP slam Biden's executive order on SCOTUS US raises concerns about Iran's seriousness in ..."
+    publishedDateTime: 2021-04-10T23:50:00Z
+    webUrl: "https://thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024"
+    ampWebUrl: "https://thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Former Trump HUD official fined and barred from federal employment for violating Hatch Act"
     excerpt: "A former political appointee under the Trump administration has been disciplined ... and Urban Development to support former President Donald Trump's reelection campaign, the U.S. Office of ..."
@@ -865,6 +913,20 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Mike Pence Wanted To 'Clear The Capitol' During Riots, But Trump Didn't Allow It"
+    excerpt: "An update about the Jan 6. Capitol riot has been released by the Associated Press which proves that former Vice President Mike Pence called for help shortly after the attacks began. The Pentagon prepared an undisclosed document about specific details of ..."
+    publishedDateTime: 2021-04-10T21:49:00Z
+    webUrl: "https://www.ibtimes.com/mike-pence-wanted-clear-capitol-during-riots-trump-didnt-allow-it-3178568"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/03/members-of-the-national-guard-remain-in-washington.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
     excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
