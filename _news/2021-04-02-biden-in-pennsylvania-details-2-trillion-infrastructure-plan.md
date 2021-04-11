@@ -279,6 +279,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "'Moment of trial balloons': Democrats debate what to cut from Biden bill"
+    excerpt: "President Joe Biden says he views his $2 trillion-plus infrastructure plan as simply a starting point for negotiations with Congress, a draft document of ideals where “compromise is inevitable.” But even as the White House maintains it is looking for ..."
+    publishedDateTime: 2021-04-11T11:05:00Z
+    webUrl: "https://www.politico.com/news/2021/04/11/democrats-biden-infrastructure-bill-cut-480684"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/63/b1/d2de7cf54d3392cd9ac200123c1e/ap21098606253044-1.png"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "uj3nsIr7U/Mf+J2GbZPZOYgKDh8ENX5Kh3uq3XZRl//hQgShDbLvP2G6rF7wn50nZ2lzz4LTDWIfn2VjGvznDisTJVYUOOdyCY64wg00bf6f4ock0r1De8DDcl8isjknGuj907+cueNGfRMR0yOoL7guM35dFD8WUHKV7Kt6hBCVRXCA/PgDyOgVCQKknuHgE7TdWGnsunELMX6lJUHA5x9WaRdojgiUAAvwqNeDsxvCFEwaU2zJwL9QlCZspx/ki8h8aKAninYY7xeQOrqUFEOju7vs35A9XmwdPobC+67re3nnF7PxlZxBq52Q1KgSL9851fuBw2u2smz1vSD4mTbKdrqS46kT8Yzfk4yvkLkKjwMQn0CFDnZtGNdW5oLVs8bi0aS4XTrfrCImjVU7egAaYMpwpkgnOKT+mKRv9/vMDF3xOjka/ZRDMl7thOqOV08CEqcoBDqjGX2QzBl4lmH/BOiD61wS+YbXJXRhvFKh/eW73ruCOLe/vam6tu51WYDa9BXpSGZHdWVjjWx+Wg==;ED+Oxhx+TscjdO9BwoXKUQ=="
 ---

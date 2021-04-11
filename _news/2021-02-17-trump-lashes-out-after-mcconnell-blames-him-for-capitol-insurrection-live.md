@@ -175,6 +175,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump rips McConnell in speech to Republicans"
+    excerpt: "Former President Trump reportedly tore into Senate Minority Leader Mitch McConnell during a gathering Saturday evening, condemning the Kentucky Republican for not doing more to overturn the results of the 2020 election."
+    publishedDateTime: 2021-04-11T11:31:00Z
+    webUrl: "https://thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans"
+    ampWebUrl: "https://thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpmcconnell_midterms_051818getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
     excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
     publishedDateTime: 2021-04-10T14:15:00Z
@@ -188,6 +204,22 @@ related:
     quality: 123
     images:
       - url: "https://i.guim.co.uk/img/media/bdb78118b4ab8163719f4c193ae98a167d3bf9c9/0_340_4500_2701/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea6d65fd64ab15a53a9512aea1fe6b36"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "‘Dumb son of a bitch’: Trump attacks McConnell in Republican donors speech"
+    excerpt: "At Mar-a-Lago, former president also goes after Fauci and Chao … and claims party ‘can’t have these guys that like publicity’ Donald Trump devoted part of a speech to Republican donors on Saturday night to insulting the Senate minority leader ..."
+    publishedDateTime: 2021-04-11T10:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/f561b65003ec96a6f3bf29a6ae90a67ceb0def63/0_83_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a3eaeb88a65a663793b4c9801aca369"
         width: 600
         height: 360
         isCached: true

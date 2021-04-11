@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Does your state have the worst bridge in America? Joe Biden wants to know"
-excerpt: "WASHINGTON — In his new $2.25 trillion infrastructure and jobs proposal, President Joe Biden promises to fix the 10 most \"economically significant\" bridges in need of reconstruction and repair 10,000 additional smaller bridges. But the American Jobs ..."
+excerpt: "Think of it as a competition for states to show why their bridge deserves rebuilt based on size, condition, traffic volume or economic significance."
 publishedDateTime: 2021-04-10T12:00:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
-ampWebUrl: "https://amp.azcentral.com/amp/7142869002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7142869002"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/joe-biden-plan-would-unleash-competition-10-biggest-bridge-fixes/7142869002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7142869002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7142869002"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -161,6 +161,6 @@ related:
       domain: time.com
     quality: 85
 
-secured: "0tp5ZSLAkAkFBcb/euxCvf1eexfkyPFy62GU4KWkmVsgXa0Splw4tJv908wQKiSyMklcuxlVHOXImCtO9jHPsjcZGXcq2oO0/L4SwvRmoffLeGzY35dFPhk1JVo51lAocXzAIWhFXiqw5+b+nx3sLLPN3CMa+Y7UTbIsaBiYNUoGZxoEwy+ONYR5mwwoWY70+VDJEB7P9u7dacZgdkeXDTL6rBVaYw28fBqgL5U+8JI2GTlWebHJKWh9DuqxGO/3CgjomRg8ZBftJa4Rqv+6lKeyCVu+srPlBHonaXQeBrqAbw/J8BpTmjgv7cKg34h6gEj61cRb5yWb1Z+9s1PdvD4NflO1ItvzIlHTRDm40vk=;fbXse3LgAR7MFAUSj9VCMA=="
+secured: "C9huhWDUipM0P9URypTDHhKwXfO6x1KUSiY+WwjI5woZ95ILF5YDXraRy/fIg8nf0HCHpmAaok61T6wDZpLUQSJy6iyCpI6VjcgLvIgJ2B7wup19XDvYLXxzET1HPCJul0JzBAlXfIgfC1H82K4P74wNlaZaBRP0k25PJw25spJJM5ARRNFJR4be2FECrzp/G6RCMJQOoSwHdIP7TFHhQr0eRJFpELNHIkkX6gK5kRQQPjSxulG2pZ+f6Lfq1nkC47aAFymPRls1OsGITXEyEdPceA+QjLtCTjd07vKe7Xd+iE/cTqebrx7nNBkJKvI7CQXeVI+8H6qvS7n7V1L2c0wXuRxhtXixB7mo4BnTJv0=;AfZ5f7gdbL+sBIjeDK6rJQ=="
 ---
 

@@ -67,7 +67,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 454,
+      "heat": 494,
       "tags": null,
       "images": [
         {
@@ -108,54 +108,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report.md",
-      "title": "Trump blasts Sen. Mitch McConnell at Mar-a-Lago dinner: report",
-      "excerpt": "Former President Donald Trump called Senate Minority Leader Mitch McConnell a “son of a bitch” during a donor soiree at Mar-a-Lago on Saturday, according to a report. Trump veered from his ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/",
-      "originalUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/574B6A7F-43F5-45A9-906F-1534BA25472F.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/amp/",
-      "publishedDateTime": "2021-04-10T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -641,7 +593,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1549,
+      "heat": 1589,
       "tags": null,
       "images": [
         {
@@ -1573,6 +1525,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
+      "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
+      "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
+      "originalUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e360c9be-94bc-48ba-b8f1-c0695538cccb/162fa33e-186e-4288-9a45-28a8efcaa517/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
+      "publishedDateTime": "2021-04-06T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

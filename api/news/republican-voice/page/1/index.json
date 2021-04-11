@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-11-trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report.md",
-      "title": "Trump blasts Sen. Mitch McConnell at Mar-a-Lago dinner: report",
-      "excerpt": "Former President Donald Trump called Senate Minority Leader Mitch McConnell a “son of a bitch” during a donor soiree at Mar-a-Lago on Saturday, according to a report. Trump veered from his ...",
+      "path": "_news/2021-04-11-trump-goes-after-mcconnell-fauci-in-off-script-mar-a-lago-speech.md",
+      "title": "Trump goes after McConnell, Fauci in off-script Mar-a-Lago speech",
+      "excerpt": "Former President Trump blasted Senate GOP Leader Mitch McConnell, calling him a \"dumb son of a b----,\" in decidely off-script remarks at a major Republican National Committee donor gathering Saturday night.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/",
-      "originalUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mext-fM1ChA/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mext-fM1ChA/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/574B6A7F-43F5-45A9-906F-1534BA25472F.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21100770302113.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,14 +28,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/amp/",
-      "publishedDateTime": "2021-04-10T20:47:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
+      "publishedDateTime": "2021-04-11T03:22:49-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,7 +54,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },

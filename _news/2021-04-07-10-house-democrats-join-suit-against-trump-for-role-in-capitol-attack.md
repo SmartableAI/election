@@ -826,6 +826,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump wants you to start calling it the 'Trumpcine' instead of the COVID-19 vaccine, report says"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump wants you to start calling the COVID-19 vaccine by a different name. \"Trumpcine\" is the former president's desired moniker for the life-saving jab, CNN reporter Kevin Liptak said on ..."
+    publishedDateTime: 2021-04-11T11:25:00Z
+    webUrl: "https://www.businessinsider.com/covid-19-vaccine-call-it-the-trumpcine-trump-tells-donors-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/covid-19-vaccine-call-it-the-trumpcine-trump-tells-donors-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/covid-19-vaccine-call-it-the-trumpcine-trump-tells-donors-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/6072c5cda451820019b3a71f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Supreme Court dismisses case over Trump blocking Twitter critics because he’s banned from the site"
     excerpt: "The court said there was nothing left to the case after Trump was permanently suspended from Twitter and ended his presidential term in January."
     publishedDateTime: 2021-04-05T13:53:00Z
@@ -979,6 +995,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/03/members-of-the-national-guard-remain-in-washington.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump : The key to Republican success is more Trumpism"
+    excerpt: "PALM BEACH, Fla. (AP) — Staking his claim to the Republican Party, former President Donald Trump is casting his populist policies and attack-dog politics as the key to future GOP success. In a closed-door speech Saturday night to donors at his Mar-a-Lago ..."
+    publishedDateTime: 2021-04-11T11:54:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-The-key-to-Republican-success-is-more-16092436.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump to give keynote speech to GOP donor meeting at his Mar-a-Lago home and club"
     excerpt: "Former President Donald Trump will be delivering the keynote speech at a Republican National Committee donor event on Saturday — and he won’t have to go far. Trump was to speak Saturday night at his Mar-a-Lago club in Palm Beach, Fla., where he has ..."

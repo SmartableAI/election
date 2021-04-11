@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-11-trump-goes-after-mcconnell-fauci-in-off-script-mar-a-lago-speech.md",
+      "title": "Trump goes after McConnell, Fauci in off-script Mar-a-Lago speech",
+      "excerpt": "Former President Trump blasted Senate GOP Leader Mitch McConnell, calling him a \"dumb son of a b----,\" in decidely off-script remarks at a major Republican National Committee donor gathering Saturday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mext-fM1ChA/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mext-fM1ChA/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21100770302113.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
+      "publishedDateTime": "2021-04-11T03:22:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-joe-biden-could-his-tax-plan-affect-us-investment-in-ireland.md",
       "title": "Joe Biden: Could his tax plan affect US investment in Ireland?",
       "excerpt": "But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules. In among those tech company HQs in Dublin's docklands, you will also find the offices of the lawyers and ...",
@@ -119,7 +175,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 454,
+      "heat": 494,
       "tags": null,
       "images": [
         {
@@ -160,54 +216,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report.md",
-      "title": "Trump blasts Sen. Mitch McConnell at Mar-a-Lago dinner: report",
-      "excerpt": "Former President Donald Trump called Senate Minority Leader Mitch McConnell a “son of a bitch” during a donor soiree at Mar-a-Lago on Saturday, according to a report. Trump veered from his ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/",
-      "originalUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/574B6A7F-43F5-45A9-906F-1534BA25472F.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/10/trump-blasts-sen-mitch-mcconnell-at-mar-a-lago-dinner-report/amp/",
-      "publishedDateTime": "2021-04-10T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -1137,7 +1145,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1549,
+      "heat": 1589,
       "tags": null,
       "images": [
         {

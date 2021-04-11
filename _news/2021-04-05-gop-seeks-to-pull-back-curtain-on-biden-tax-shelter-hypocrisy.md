@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-seeks-to-pull-back-curtain-on-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-seeks-to-pull-back-curtain-on-biden-tax-shelter-hypocrisy.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden's Trojan Horse Presidency"
+    excerpt: "Joe Biden was elected president after a campaign rooted in rhetoric emphasizing unity, moderation, and compromise. But with every day that passes, the veneer of centrism that got him elected over rivals such as Sen. Bernie Sanders becomes more distant of a ..."
+    publishedDateTime: 2021-04-11T11:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/joe_bidens_trojan_horse_presidency_540242.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "TUZLIJNZLJbk52P9GmI1V443AwmQxoXepi3iv44/lGnnlrfmojYWHTnkNoCYEC4MiURmDqIn7BeFEJ+YLj4wRboYG46D8vSU0T+yE/+0j2BfvtUrrOodqAJEL3e+cwnBed3IVjtR7i4VRK2Ity0hn1HGN1aaykuf0w9O+rAcSbLgjySDJR8Wcz2TcoqW9sW07VVlOk3FHiAJCykkiOIMgAW8PiPxySQG4lUKiXMG1XD2xZp6HW76/rWrM7T7aNSsVK145WGPNgbGTv0WW4Oy3X3W6LyI9XeSVwo7bkQZp6yXGHsBUiCbLXip7BF9V6cV5I1T/I1hefxokIzgZTR9t7B5N1oYhwZQcG8+Fm9lG8M=;/wr3O4uliRTT3u13Qu0LXA=="
 ---

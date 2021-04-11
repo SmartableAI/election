@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp"
 type: article
 quality: 184
-heat: 724
+heat: 744
 published: true
 
 provider:
@@ -455,6 +455,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "If It Ain't Broke, Joe Biden Will Break It"
+    excerpt: "The sage advice that If it ain't broke, don't fix it is older than Joe Biden, but apparently he never heard of it. Or doesn't think much of it. The president is on a tear, as in tearing up"
+    publishedDateTime: 2021-04-11T11:26:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "zWwqNH5ttPJatVMopXNxMldiR3rsHDbIG/YipLz36W1UVzSCf2G7Sq6a388o2jQYGmT93gYfBLojAAhYTYMlUzJ+XqBjh51Tn/x60VW2x98cC6IQ4drIxvzoXpSCZj+N/hA1LHkqy0lA1+W4FoxRJnEikdQ8AceiCkefxzE/IdGncyfR+zY34n3bo0EEEHGcbMWveE37btE9BiH692dX+b7B4oHC2E9FhoOPA/NwSd+4EDdl8q7SmUe+pP+tBoisKXDMeoVeTIFXbRyB4LPnFF5qgZGV9fzR4hNOhCWrqnPQiGfRE+jNFggVXQ+xmUGBf30CQQ5VhN7sY5oEdLUIbFRvgtMNG/pAaNNfeGCrfjs=;qB39xSUJROA0yie+TeovTQ=="
 ---

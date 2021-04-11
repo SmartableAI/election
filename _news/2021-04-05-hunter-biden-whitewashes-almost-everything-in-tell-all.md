@@ -452,6 +452,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "If It Ain't Broke, Joe Biden Will Break It"
+    excerpt: "The sage advice that If it ain't broke, don't fix it is older than Joe Biden, but apparently he never heard of it. Or doesn't think much of it. The president is on a tear, as in tearing up"
+    publishedDateTime: 2021-04-11T11:26:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "8wcrUlkd7xD00cpuZUpwlRjEg5tjOgaY/U7Xq1YjaRmUQzqlvUJvWoq5DdotGP7gUT1h9wqb1cyJdK2aHCzPGNIhfJzQJMA0BRT5u/25fwofMJrL6z5D5ysoSg3+Cq1HMRPCRGKjFM01LwfsRwXujglJCoVyXqIq6bG7VJY/lzscCynmyUHFuJEhTFiecTIq7fuzmRgf7HtIq+qDl27+4AOrLtcgBWntNNyGuVj27qgL7z0a9TJhcs4Wey6SxsLRVh5aFZJDu/F39N9rXNAdWLuQQqcBDeZAQ/p6ow95jrf8863NexAS5fgVpv+WTRBTd/wzkxP7VYsS4qIwZX0+ZYtSm6jLPjHv7o4HPQ+UDeQ=;xgUdHcdxARxr64VMhPMkhA=="
 ---
