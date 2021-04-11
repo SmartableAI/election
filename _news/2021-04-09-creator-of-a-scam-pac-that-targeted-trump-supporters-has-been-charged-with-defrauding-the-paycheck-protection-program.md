@@ -63,6 +63,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "'Clear the Capitol,' Pence pleaded, timeline of riot shows"
+    excerpt: "Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand. “Clear the Capitol,” Pence said. Elsewhere in the building, Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi were making a similarly dire appeal to military leaders,"
+    publishedDateTime: 2021-04-11T17:37:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "‘Clear the Capitol,’ Vice President Mike Pence pleaded, according to timeline of riot"
     excerpt: "WASHINGTON – From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
     publishedDateTime: 2021-04-10T22:22:00Z

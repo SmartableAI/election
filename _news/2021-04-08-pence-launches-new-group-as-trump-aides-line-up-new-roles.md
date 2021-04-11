@@ -521,22 +521,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Business faces tricky path navigating post-Trump politics"
-    excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to ..."
-    publishedDateTime: 2021-04-11T12:23:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_37370ceddace4329b0f0bf646b592260_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Donald Trump Says COVID-19 Vaccine Should Be Called 'Trumpcine'"
     excerpt: "Former President Donald Trump addressed a crowd Saturday night in south Florida, telling folks that vaccinations for the COVID-19 pandemic should be called \"Trumpcine\" instead of the regular vaccination monikers. The crowd listening to the former president ..."
     publishedDateTime: 2021-04-11T03:56:00Z
@@ -809,6 +793,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump predicts that the GOP will retake Congress in 2022 and the White House in 2024"
+    excerpt: "An envelope. It indicates the ability to send an email. Former President Donald Trump on Saturday expressed optimism that Republicans would regain control of the House and Senate in the 2022 midterm elections and win back the White House in 2024 ..."
+    publishedDateTime: 2021-04-11T17:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-republican-party-2024-white-house-congress-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-republican-party-2024-white-house-congress-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-republican-party-2024-white-house-congress-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/605b40a9106eb50019d054ab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Former Trump HUD official fined and barred from federal employment for violating Hatch Act"
     excerpt: "A former political appointee under the Trump administration has been disciplined ... and Urban Development to support former President Donald Trump's reelection campaign, the U.S. Office of ..."
     publishedDateTime: 2021-04-06T20:38:00Z
@@ -951,6 +951,20 @@ related:
         width: 3000
         height: 2221
         isCached: true
+  - title: "Business faces tricky path navigating post-Trump politics"
+    excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to ..."
+    publishedDateTime: 2021-04-11T12:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003949"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_37370ceddace4329b0f0bf646b592260_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump expected to affirm commitment to GOP, raise possibility of other Republican nominee in 2024 at closed-door speech"
     excerpt: "PALM BEACH, FLA. — Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee — in a closed-door speech to donors Saturday night."
     publishedDateTime: 2021-04-10T21:31:00Z
@@ -966,6 +980,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Xexi3r3dhHtKuB8GAyUqHGiM5uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEKHRJJYY27CJC2Z7CIIF7FIE.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump goes after Pence, McConnell in speech to party donors"
+    excerpt: "PALM BEACH, Fla. (AP) — It was supposed to be a unifying weekend for a Republican Party at war with itself over former President Donald Trump’s divisive leadership. But Trump himself shattered two days of relative peace in his closing remarks to the ..."
+    publishedDateTime: 2021-04-11T16:45:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-The-key-to-Republican-success-is-more-16092436.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 100
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Power Up: Matt Gaetz is using Trump's playbook to play defense. But he's not Trump."
     excerpt: "EITHER RIGHT NOW: “Republicans are attacking corporations over their decision to condemn the controversial Georgia voting law, part of the party’s embrace of the populism espoused by President Donald Trump,” our colleagues Marianna Sotomayor and Todd C."
@@ -1013,21 +1043,37 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump goes after Pence, McConnell in speech to party donors"
-    excerpt: "Palm Beach, Fla. – Staking his claim to the Republican Party, former President Donald Trump is casting his populist policies and attack-dog politics as the key to future GOP success. In a closed-door speech Saturday night to donors at his Mar-a-Lago ..."
-    publishedDateTime: 2021-04-11T15:06:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/04/11/trump-mcconnell-pence-donors/115691786/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/115691786"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/115691786"
+  - title: "Trump goes after Pence, McConnell in Palm Beach speech to party donors"
+    excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance who were not authorized to publicly discuss what was said in ..."
+    publishedDateTime: 2021-04-11T17:13:00Z
+    webUrl: "https://www.tampabay.com/news/nation-world/2021/04/11/trump-goes-after-pence-mcconnell-in-palm-beach-speech-to-party-donors/"
+    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/04/11/trump-goes-after-pence-mcconnell-in-palm-beach-speech-to-party-donors/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/04/11/trump-goes-after-pence-mcconnell-in-palm-beach-speech-to-party-donors/?outputType=amp"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: Tampa Bay Times
+      domain: tampabay.com
     quality: 90
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/22/PDTN/6588e96b-fa44-4b91-bff6-27ab924934a2-AP21050795914916.jpg?auto=webp&crop=816,459,x0,y23&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.tampabay.com/resizer/L0pVJVN_aQ85FoSczxFmZK_AlLM=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/3474HOS4AH7Z7JL72W46HEHHXA.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Trump goes after Pence, McConnell in speech to party donors"
+    excerpt: "Trump also said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance who were not authorized to publicly discuss what was said in a private session. He said ..."
+    publishedDateTime: 2021-04-11T17:24:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Trump-The-key-to-Republican-success-is-more-16092436.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Trump-The-key-to-Republican-success-is-more-16092436.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "House Republicans Double Down on Scammy Trump Fundraising Tactic"
     excerpt: "Donald Trump has long demanded fealty from those who wish serve in the high ranks of his administration and golf courses, but House Republicans made that requirement explicit in a fundraising ..."
@@ -1090,6 +1136,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/03/members-of-the-national-guard-remain-in-washington.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
+    excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."
+    publishedDateTime: 2021-04-11T16:04:00Z
+    webUrl: "https://bangordailynews.com/2021/04/11/national-politics/trump-goes-after-mike-pence-mitch-mcconnell-in-speech-to-party-donors/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 70
+    images:
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/04/Trump-Republicans-1.jpg?fit=1024%2C679&#038;ssl=1"
+        width: 1024
+        height: 679
         isCached: true
   - title: "Trump to give keynote speech to GOP donor meeting at his Mar-a-Lago home and club"
     excerpt: "Former President Donald Trump will be delivering the keynote speech at a Republican National Committee donor event on Saturday — and he won’t have to go far. Trump was to speak Saturday night at his Mar-a-Lago club in Palm Beach, Fla., where he has ..."

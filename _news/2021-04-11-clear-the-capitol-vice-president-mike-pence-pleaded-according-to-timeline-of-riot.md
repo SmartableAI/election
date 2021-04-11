@@ -75,6 +75,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "'Clear the Capitol,' Pence pleaded, timeline of riot shows"
+    excerpt: "Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand. “Clear the Capitol,” Pence said. Elsewhere in the building, Senate Majority Leader Chuck Schumer and House Speaker Nancy Pelosi were making a similarly dire appeal to military leaders,"
+    publishedDateTime: 2021-04-11T17:37:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
     excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
     publishedDateTime: 2021-04-07T23:33:00Z
@@ -122,6 +138,6 @@ related:
         height: 687
         isCached: true
 
-secured: "2QM9OGKiutSxDGS6BGaDx2sE4qeB7i/s4AAUizMH/VcdSNtkfCaL0NanoV14qghLlAgVQENUET46I7sJ0ckYmHy4BHVsNXULhng1npIqNxo6pQzx8MSfPxMEYZk0hBVLsnwRwxyN9+iJPtjpyq9UNJp9vzZpyZEGAdjlaWyDCIzr1rtuTDOZGXn3746aHNtvWX8HDJbrS5m2VxdTTtAEfSv4NTKrm3Uyuzs2GY5HOdal2L7LKK8/+N30QncxEpIjVgEqXvHJ2cxFray5f8kWUKKsUBbz3jG5iZ6cTKYaKVArZeedmnL6V3cMtHyYyjtelJIT0Vaef+l6e03Vr8p+hTbQbN3CC7vXx4XQ5BlpUa4=;f1RwMsd0LTcit9c4xTYA6A=="
+secured: "6ZXeN+tof5zENJGLLIBodKdVMV3PXnzeJlVwKKoVVh0/akRKNARehgUkWvD/6MevuSoJInbHmjM5tto9KCeGT1yxA8CZagzP7mY2C/slBUqS4oLXjlrswu3yRRxfxzT18wvsaFjb0nYC0kyQXyy33FXwqfUuoLIgg36iRSe1bwG+Eb0qN1J6bwA/cudvjf50KeAQrVFpF5UeB4UkY4CeQtFsG5g5X/iY07qvTyDaTC2gN0LwRhtB+b4sj+O++NTAxqqLlJDZnuUmmMHIoB7pJdTM0o9VMbToq8e3aDnSF2H0AanfNbAaSBumDzS3abdPmutNfgS8IvmeVu6svfXL4F+m4uAa/SIKZvKAP7g9ZsjU8dtp7x91m931fjL6UTY/ddXCgnjJqbRlc5HtPEfUf4dDg6ksDm5dx5FnvHi+Xl6fYESCE9khk5VlhIzViw8WXQKturLwcsUnkxwMCSVYdhJr1yKLqG5RjuFtx62H9QAav7f5SLhpaDzcO8Upc1ohjRkPTbSA031r4tZaHOsJ2Q==;clHZYQooTw5wYR4ToZa2PA=="
 ---
 

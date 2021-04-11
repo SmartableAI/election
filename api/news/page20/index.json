@@ -2,6 +2,62 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-03-11-frustration-in-our-future-democrats-prepare-for-internal-clashes-that-could-slow-bidens-agenda.md",
+      "title": "'Frustration in our future': Democrats prepare for internal clashes that could slow Biden's agenda",
+      "excerpt": "House and Senate Democrats are bracing for a clash over the next phase of President Joe Biden's agenda, preparing for a long slog and intense debate over competing priorities and legislative tactics after quickly coming together on the massive relief plan signed into law Thursday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html",
+      "publishedDateTime": "2021-03-11T15:05:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trumps-acting-defense-secretary-says-his-january-6-speech-incited-capitol-rioters.md",
       "title": "Trump's acting defense secretary says his January 6 speech incited Capitol rioters",
       "excerpt": "Former acting Secretary of Defense Christopher Miller believes former President Donald Trump's speech on the morning of January 6 incited the rioters who stormed the US Capitol.\n    \n",
@@ -1304,62 +1360,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-biden-to-announce-plans-to-purchase-100-million-more-johnson-johnson-coronavirus-vaccine-doses-sources-tell-cnn.md",
-      "title": "Biden to announce plans to purchase 100 million more Johnson & Johnson coronavirus vaccine doses, sources tell CNN",
-      "excerpt": "President Joe Biden will announce Wednesday that he is directing the US Department of Health and Human Services to purchase an additional 100 million doses of the Johnson & Johnson Covid-19 vaccine, a White House official confirms to CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hQ-oieVbYKA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hQ-oieVbYKA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/10/politics/biden-johnson--johnson-merck-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-johnson--johnson-merck-vaccine/index.html",
-      "publishedDateTime": "2021-03-10T06:27:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

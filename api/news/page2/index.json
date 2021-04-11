@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-09-trump-says-prince-philips-death-is-irreplaceable-loss-for-great-britain.md",
+      "title": "Trump says Prince Philip's death is 'irreplaceable loss for Great Britain'",
+      "excerpt": "Former President Donald Trump remembered the late Prince Philip on Friday as \"a man who embodied the noble soul and proud spirit\" of the United Kingdom.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B066RT089tM/trump-prince-philip-irreplaceable-loss-great-britain",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B066RT089tM/trump-prince-philip-irreplaceable-loss-great-britain",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/queenphilip.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp",
+      "publishedDateTime": "2021-04-09T11:33:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-bidens-first-budget-fuels-health-education-spending-in-sharp-change-from-trump.md",
       "title": "Biden's first budget fuels health, education spending in sharp change from Trump",
       "excerpt": "WASHINGTON (Reuters) -U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence and to support education in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion ...",
@@ -10,7 +66,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-budget-idINKBN2BW190",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1015,
+      "heat": 1035,
       "tags": null,
       "images": [
         {
@@ -62,7 +118,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1689,
+      "heat": 1769,
       "tags": null,
       "images": [
         {
@@ -911,7 +967,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 430,
+      "heat": 450,
       "tags": null,
       "images": [
         {
@@ -1259,58 +1315,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-of-transgender-bill-bye-bye.md",
-      "title": "Donald Trump Attacks GOP Arkansas Governor Asa Hutchinson Over Veto of Transgender Bill: 'Bye-Bye!'",
-      "excerpt": "Former President Donald Trump continues to ramp up his feud with Arkansas Governor Asa Hutchinson, attacking the Republican state leader Thursday over his veto of a bill that targeted people who are transgender. \"Asa Hutchinson, the lightweight RINO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142",
-      "originalUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1773955/trump-asa.jpg",
-          "width": 3489,
-          "height": 2613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142?amp=1",
-      "publishedDateTime": "2021-04-08T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

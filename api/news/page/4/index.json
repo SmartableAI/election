@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-08-biden-to-target-ghost-guns-stabilizing-braces-in-new-gun-control-actions.md",
+      "title": "Biden to target 'ghost guns,' stabilizing braces in new gun control actions",
+      "excerpt": "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b0d7af2-178c-4bf5-84b1-9f4b1eaeeb17/66054943-8e0f-4161-9adc-ee518e15b053/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-actions-gun-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp",
+      "publishedDateTime": "2021-04-07T17:02:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-boehner-lays-blame-for-that-bloody-insurrection-at-trumps-feet.md",
       "title": "Boehner lays blame for 'that bloody insurrection' at Trump's feet",
       "excerpt": "Former House Speaker John Boehner said former President Donald Trump \"incited that bloody insurrection\" at the US Capitol and blamed his false election claims for the GOP losing control of Congress, according to excerpts from his forthcoming book obtained by The New York Times.\n    \n",
@@ -456,7 +512,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -1318,58 +1374,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-naacps-trump-insurrection-lawsuit-expected-to-add-10-new-plaintiffs-including-members-of-congress-per-reports.md",
-      "title": "NAACP's Trump insurrection lawsuit expected to add 10 new plaintiffs, including members of Congress, per reports",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% A federal lawsuit targeting former President Donald Trump, his lawyer, and far-right extremists in the aftermath of the July 6 Capital attack is reportedly scoring some new, heavyweight plaintiffs. The NAACP's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4",
-      "originalUrl": "https://www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604b7d4ab197370019694a23?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/naacps-trump-riot-suit-will-reportedly-add-10-new-plaintiffs-2021-4?amp",
-      "publishedDateTime": "2021-04-06T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

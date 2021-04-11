@@ -1,10 +1,10 @@
 ---
 category: news
 title: "WP's Ashley Parker: Trump Views Himself As The Leader Of The MAGA Movement, Not Leader Of The Republican Party"
-excerpt: "Washington Post White House reporter Ashley Parker commented on Donald Trump's attacks on Mitch McConnell at a fundraiser in Palm Beach this weekend."
-publishedDateTime: 2021-04-11T14:11:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/11/wps_ashley_parker_trump_views_himself_as_the_leader_of_the_maga_movement_not_leader_of_the_republican_party.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/11/wps_ashley_parker_trump_views_himself_as_the_leader_of_the_maga_movement_not_leader_of_the_republican_party.html"
+excerpt: "NEW: Donald Trump attacks Mitch McConnell at fundraiser in Palm Beach this weekend. #MTP @AshleyRParker: Trump “doesn’t view himself as the leader of a traditional Republican Party, he views himself as a leader of the MAGA movement.” pic.twitter.com ..."
+publishedDateTime: 2021-04-11T14:12:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/11/wps_ashley_parker_trump_views_himself_as_the_leader_of_the_maga_movement_not_leader_of_the_republican_party.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/11/wps_ashley_parker_trump_views_himself_as_the_leader_of_the_maga_movement_not_leader_of_the_republican_party.html#!"
 type: article
 quality: 45
 heat: 45
@@ -25,6 +25,6 @@ images:
     height: 562
     isCached: true
 
-secured: "LUEaTkTaTM0PvDnj8de7nQiqwavDjyQBJK10XHhmEZ5OT22l9hqVOBoAQn7O0iaOPKhbC4w5SPaBHpHeP6EGd9zY2jV97Qn6fRtQFSDGSjnwOEE7a+PNwGc1BROBtYrxu+uJfrCBxy6Ai+/DdxgU4NrJVtuE6EoolS490RZX5FaV9dH+SHYbh5teJ6Obt//huiiXp6OaGUc2Aba4w0qjtQTfjYMTSHLd+hw1sob2t9FuBdQvm9fUTZbHo7WASehI2Gnxshk7zBvvCY177TpYNmd9i3TAD2UydV2bXyHZhUZGXi8te6itzffpI4Vy/XirM6qx7fDdtoLevUPXxE2gcjg6SB51GAEitPLdPsrWtIA=;xSSNtqBBSPLdV39hFJZ6Mw=="
+secured: "Z/sil28qpJBrZXbSEmc3BJzkqiocQWiZK4fdrckGF0w8F1gGzzVZOvdbxQVQyl2u9JMg8uYNfPHAhVhJt/3B20GqsO1CroDpi0wTqaaUr/3NPfe26hcDvOfKAsi/EyIp/qN7UCH4JJt0AgaJtyDHkxNjrYufj5W/j30HlZ4CFV9xMRgWXBQWeA0nMVysaWiSPRf/gA3NZ3zt5Ssnv35VTPh3EDgUNdrdoBtN6mMn7ntM9WaWhmtRGKs6FEIXxJjGYZcQU6lMO3BoMb6/TWlLVLbxcB4qpqO5Mr+YQhCQ81DFqyuyzEM3OsdjFkRcKTke6VeFXk3JeoPWqljfS8N9ujhaFvk/Vguv5DWguMWbLc8=;iWKptMM1f90sDZfa52CJtQ=="
 ---
 

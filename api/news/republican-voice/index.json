@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-as-riot-raged-pence-pleaded-with-the-military-to-clear-the-capitol.md",
+      "title": "As riot raged, Pence pleaded with the military to ‘clear the Capitol’",
+      "excerpt": "About two hours after a pro-Trump mob shattered windows and smashed doors to enter the Capitol on Jan. 6, then-Vice President Mike Pence called the acting defense secretary urgently seeki ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
+      "originalUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/protest-pence-inset.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
+      "publishedDateTime": "2021-04-11T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-joe-concha-bidens-supreme-court-commission-outcome-is-a-likely-one.md",
+      "title": "Joe Concha: Biden's Supreme Court commission outcome is a likely one",
+      "excerpt": "Fox News contributor and The Hill Media opinion columnist Joe Concha on Biden's Supreme Court commission.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TiqozXQOZUQ/joe-concha-supreme-court-commission",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TiqozXQOZUQ/joe-concha-supreme-court-commission",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52572f02-94b6-45ee-8fe4-0071fa5b10ba/81856677-392f-4851-8704-576ba111c3fa/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp",
+      "publishedDateTime": "2021-04-11T09:37:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-texas-gov-abbott-warns-border-woes-will-get-worse-points-to-bipartisan-response-to-biden-admin.md",
       "title": "Texas Gov. Abbott warns border woes 'will get worse,' points to 'bipartisan response' to Biden admin",
       "excerpt": "Texas Gov. Greg Abbott said Sunday that in his state it's not just Republicans who are pushing back against the Biden administration as migrants surge to the southern border in record numbers.",
@@ -256,62 +360,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
       "publishedDateTime": "2021-04-09T15:50:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.md",
-      "title": "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'",
-      "excerpt": "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUJMfA5OSYE/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUJMfA5OSYE/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp",
-      "publishedDateTime": "2021-04-09T15:32:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -735,7 +783,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 430,
+      "heat": 450,
       "tags": null,
       "images": [
         {
@@ -1071,7 +1119,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1586,62 +1634,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp",
       "publishedDateTime": "2021-04-07T17:41:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-to-target-ghost-guns-stabilizing-braces-in-new-gun-control-actions.md",
-      "title": "Biden to target 'ghost guns,' stabilizing braces in new gun control actions",
-      "excerpt": "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b0d7af2-178c-4bf5-84b1-9f4b1eaeeb17/66054943-8e0f-4161-9adc-ee518e15b053/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-actions-gun-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp",
-      "publishedDateTime": "2021-04-07T17:02:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -188,6 +188,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Bashes McConnell in Speech to GOP Donors"
+    excerpt: "The Senate voted to acquit former President Donald Trump on the charge he incited an insurrection at the Capitol, ending a weeklong impeachment trial. Photo Illustration: Laura Kammermann Former President Donald Trump lashed out at top Senate Republican ..."
+    publishedDateTime: 2021-04-11T15:24:00Z
+    webUrl: "https://www.wsj.com/articles/trump-bashes-mcconnell-in-speech-to-gop-donors-11618158201"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bashes-mcconnell-in-speech-to-gop-donors-11618158201"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bashes-mcconnell-in-speech-to-gop-donors-11618158201"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-323441/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump to rally GOP at Mar-a-lago and preview pathway for Republican victories"
     excerpt: "Former President Trump will address a major Republican National Committee gathering Saturday night where he's expected to say that if Republicans stick to an \"America First\" agenda the GOP will win back Congress in 2022 and take back the White House in 2024."
     publishedDateTime: 2021-04-10T21:31:00Z

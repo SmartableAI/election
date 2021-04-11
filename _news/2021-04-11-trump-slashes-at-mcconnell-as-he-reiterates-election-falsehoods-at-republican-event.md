@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/202
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
 type: article
 quality: 134
-heat: 534
+heat: 554
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1775595/adam-kinzinger.jpg"
         width: 2500
         height: 1799
+        isCached: true
+  - title: "GOP Gov. Asa Hutchinson Deplores Trump Attacks on McConnell: 'Let's Get Back to Our Principles'"
+    excerpt: "While appearing on CNN's State of the Union, Hutchinson was asked about Trump's speech in which he reportedly called McConnell a \"dumb son of a bitch\" and a \"stone cold loser\" while speaking to Republican National Committee (RNC) gathering at his Mar-a ..."
+    publishedDateTime: 2021-04-11T15:39:00Z
+    webUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724"
+    ampWebUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1775605/asa-hutchinson.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."

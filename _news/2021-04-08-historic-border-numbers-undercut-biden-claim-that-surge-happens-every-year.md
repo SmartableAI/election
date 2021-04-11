@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/historic-border-numbers-biden-claim
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/historic-border-numbers-biden-claim-surge-happens-every-year.amp"
 type: article
 quality: 172
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Rep. Malliotakis: Biden administration can stop migrant surge by reversing border policies"
+    excerpt: "New York Rep. Nicole Malliotakis slammed the Biden administration’s policies on “Fox & Friends Weekend” Sunday for “turning over our borders to the cartels,” after she traveled to Texas to witness the migrant surge."
+    publishedDateTime: 2021-04-11T17:32:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wTq3JBlnwYo/malliotakis-biden-administration-migrant-surge-border"
+    ampWebUrl: "https://www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "+hxTb7rGKsINGQWBOX5U0W++ovnHgHU8E1Kcn+dGV1aOEN0tWk8Z2Wd8jmjXgTTiaLNo/gEMV2YbKVB4++ROwDHBYdpPM+98evZcI7tqCfXr0e/MU9uca5Jc8u91REOcWP5S4tSWo2i82SFybaJZlqsKNYzSj2C4yV0wB2E6ozdEzVel3nEguPAntRncuHrUkO3bzV+rGI0zzGbsFYnV70PWBSMn/2WZc+Mvs+SSl453VCOvgq34Et04iIqT7i68DOeSNj2glp5E+LQiDNKSVIFgZpoRFYuXfJARhcf/K4uILN5YaZa9SWJ368mniNX9+oyqN7/sCQ6XCmGxYV39+05G5GlajUP5I6ubfKRvTzY=;chfUIMxPeoE3eoXVl0lJAQ=="
 ---

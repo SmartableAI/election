@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Stephen Miller: 'Joe Biden has shut down ICE,' leading to a 'travesty' at the southern border"
-excerpt: "Stephen Miller and Mark Brnovich sounded off on \"Hannity\" Friday, criticizing the Biden administration for \"[shutting] down ICE,\" and creating a \"disaster\" at the southern border. "
-publishedDateTime: 2021-04-10T02:50:53Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jno2u046oqk/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jno2u046oqk/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border"
+excerpt: "In addition to the disaster on the border, Joe Biden has shut down ICE. ICE is now disabled from removing most criminally-convicted illegal immigrants that they were removing under the Trump administration. So you have an open sieve at the border ..."
+publishedDateTime: 2021-04-10T02:55:00Z
+originalUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border"
+webUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border"
 ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
 type: article
-quality: 164
+quality: 124
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8672e02b-26a9-457c-b738-289f837dfbd2/421cf8ba-c813-4014-9378-0f530551ffe7/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -64,6 +65,6 @@ related:
         height: 720
         isCached: true
 
-secured: "/WhQ08Smp7fq+Th9rDWAaP/BfQcm6O2Cv/pqWeIC/Cg4Y3628aG/wcW31GAebT0xrqZs7ZfGFwnLgCMPi7dwng4q7Uw3Rq3A3/xMs2gJkUu5HlGbcenCRb3zGd0eHi9/oLKSz184wt5vAeUlt7TLSMCFYyXv3WAEeTVnnPe28sxl+eiqKcH/Y894VmTz0w954esnXfCMq4hbwVTDh7ps9n6R5P3+gIlXP8+sJkubuh807UkLUyICRzyzv1DRR/iBq0We17C/UM82FpwpPvOXL47VUgxzdLnzKWjiFqLHCJRAfK5Sd0cPu9O5KXhwwpwl4UE+Zry8kUseODHLvSC6K4F9/JAD2P9FKgoTbO0ok/M=;PdlYFcf3p3P/IdKG2ot54g=="
+secured: "vs4QG4ZGoIC9HGVybFd4aqewiaMxTs58zUT9qqFjtDp+XBp8lkAcc2mtAjPLpUwSLcewpd7HOtx/nQOo9ulylseeDrJnJOOxv8AIMbGuRGYFdeZQ7trPO84dx6Xp8lkpFoXPYaC14zzE4q7rMz1JO7nLS3HD+lTbD/QhWBysFm2dIYKqtxrEJRCuA39LkWac+TvV+5LnAtjUsNRHQJGMuphXyYPJFkW7UaaRl6IPvlW1UcwJeI3w0nsS4B6kz3fvBOdQV+Qsm/UNge9m4ym54jsIAyn4oylXaOlWC1CQkhKzWEPe4OwUrrngb0ElSOm7fdj6ze+YS+xlHulaFA8jWYHO9s4SGRrBk4XoUrwdvLU=;Gm1ZSjc5ULPNaS8YC93mtQ=="
 ---
 

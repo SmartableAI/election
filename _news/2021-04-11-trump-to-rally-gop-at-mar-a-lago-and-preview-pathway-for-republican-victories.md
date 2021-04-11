@@ -208,6 +208,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Bashes McConnell in Speech to GOP Donors"
+    excerpt: "The Senate voted to acquit former President Donald Trump on the charge he incited an insurrection at the Capitol, ending a weeklong impeachment trial. Photo Illustration: Laura Kammermann Former President Donald Trump lashed out at top Senate Republican ..."
+    publishedDateTime: 2021-04-11T15:24:00Z
+    webUrl: "https://www.wsj.com/articles/trump-bashes-mcconnell-in-speech-to-gop-donors-11618158201"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bashes-mcconnell-in-speech-to-gop-donors-11618158201"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bashes-mcconnell-in-speech-to-gop-donors-11618158201"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-323441/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
     excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."
     publishedDateTime: 2021-04-07T16:12:00Z

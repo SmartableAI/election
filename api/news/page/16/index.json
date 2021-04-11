@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-03-18-judge-denies-omarosa-manigault-newman-request-to-depose-trump-john-kelly-in-lawsuit.md",
+      "title": "Judge denies Omarosa Manigault Newman request to depose Trump, John Kelly in lawsuit",
+      "excerpt": "A judge on Tuesday ruled that former Trump White House aide Omarosa Manigault Newman is not allowed to depose former President Trump or former Trump chief of staff John Kelly in a lawsuit relating to her White House departure in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/news/543759-judge-denies-omarosa-manigault-newman-request-to-depose-trump-john-kelly-in",
+      "originalUrl": "https://thehill.com/homenews/news/543759-judge-denies-omarosa-manigault-newman-request-to-depose-trump-john-kelly-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/manigaultnewmanomarosa_102717getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/news/543759-judge-denies-omarosa-manigault-newman-request-to-depose-trump-john-kelly-in?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543759-judge-denies-omarosa-manigault-newman-request-to-depose-trump-john-kelly-in?amp",
+      "publishedDateTime": "2021-03-17T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-twitter-refuses-to-remove-melania-trumps-nude-photo-shared-by-cardi-b-report.md",
       "title": "Twitter Refuses To Remove Melania Trump's Nude Photo Shared By Cardi B: Report",
       "excerpt": "Twitter said Melania Trump's nude photo does not violate its rules The microblogging site has a non-consensual nudity policy Twitter users agreed that the picture should not be deleted Cardi B posted a nude photo of former first lady Melania Trump ...",
@@ -1305,58 +1357,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-the-health-202-trump-says-he-recommends-the-coronavirus-vaccines.md",
-      "title": "The Health 202: Trump says he 'recommends' the coronavirus vaccines",
-      "excerpt": "Donald Trump made an important pronouncement in a Fox News interview last night: Americans should agree to get the “great” coronavirus vaccines. Support our journalism. Subscribe today. Yet research suggests one of the most vaccine-hesitant groups ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7OYN2GEGWII6XPSKES4J6YLPFQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/17/health-202-trump-says-he-recommends-coronavirus-vaccines/?outputType=amp",
-      "publishedDateTime": "2021-03-17T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

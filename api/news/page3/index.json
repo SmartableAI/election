@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-09-donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-of-transgender-bill-bye-bye.md",
+      "title": "Donald Trump Attacks GOP Arkansas Governor Asa Hutchinson Over Veto of Transgender Bill: 'Bye-Bye!'",
+      "excerpt": "Former President Donald Trump continues to ramp up his feud with Arkansas Governor Asa Hutchinson, attacking the Republican state leader Thursday over his veto of a bill that targeted people who are transgender. \"Asa Hutchinson, the lightweight RINO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142",
+      "originalUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1773955/trump-asa.jpg",
+          "width": 3489,
+          "height": 2613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142?amp=1",
+      "publishedDateTime": "2021-04-08T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-mueller-fraud-investigator-brought-in-to-help-vances-probe-of-trump-org.md",
       "title": "Mueller fraud investigator brought in to help Vance's probe of Trump Org.",
       "excerpt": "A former FBI agent key to special counsel Robert Mueller's investigation into Russian meddling in the 2016 presidential election is one of several forensic accountants working on the Manhattan district attorney's investigation into the Trump Organization, people familiar with the matter say.\n    \n",
@@ -346,7 +398,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1285,62 +1337,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp",
       "publishedDateTime": "2021-04-07T17:41:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-to-target-ghost-guns-stabilizing-braces-in-new-gun-control-actions.md",
-      "title": "Biden to target 'ghost guns,' stabilizing braces in new gun control actions",
-      "excerpt": "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b0d7af2-178c-4bf5-84b1-9f4b1eaeeb17/66054943-8e0f-4161-9adc-ee518e15b053/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-actions-gun-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp",
-      "publishedDateTime": "2021-04-07T17:02:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,63 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-02-17-kamala-harris-pressed-on-school-reopenings-says-teachers-should-be-a-priority-in-receiving-covid-vacccine.md",
+      "title": "Kamala Harris pressed on school reopenings, says teachers 'should be a priority' in receiving COVID vacccine",
+      "excerpt": "Vice President Kamala Harris said the Biden administration believes teachers \"should be a priority\" in receiving the coronavirus vaccine as parents and educators clash over whether it is safe for teachers to return to the classroom without inoculations against COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7uVaVOHoVtc/kamala-harris-teachers-priority-coronavirus-vaccines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp",
+      "publishedDateTime": "2021-02-17T06:08:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-explainer-what-is-the-ku-klux-klan-act-cited-in-lawsuit-against-trump.md",
       "title": "Explainer: What is the Ku Klux Klan Act cited in lawsuit against Trump ",
       "excerpt": "The Democratic chairman of the House Homeland Security Committee has filed a lawsuit against former President Donald Trump that cites a little-known federal statute that was first passed after the Civil War.\n    \n",
@@ -1307,58 +1364,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-investigating-trump-a-big-early-move-for-atlantas-new-da.md",
-      "title": "Investigating Trump a big early move for Atlanta’s new DA",
-      "excerpt": "A Georgia district attorney who took office barely a month ago is leading an investigation that could bring charges against former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7256e58/2147483647/strip/true/crop/4740x3096+0+75/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2Fc6%2F15d8761a5d68b5bcf400b9a1668c%2F77cd140b3ef44640b8cad1fecac995aa",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-02-15/investigating-trump-a-big-early-move-for-atlantas-new-da?_amp=true",
-      "publishedDateTime": "2021-02-15T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

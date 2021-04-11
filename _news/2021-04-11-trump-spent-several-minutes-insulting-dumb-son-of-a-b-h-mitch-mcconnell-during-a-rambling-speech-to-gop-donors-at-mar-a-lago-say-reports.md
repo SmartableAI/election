@@ -287,6 +287,22 @@ related:
         width: 2500
         height: 1799
         isCached: true
+  - title: "GOP Gov. Asa Hutchinson Deplores Trump Attacks on McConnell: 'Let's Get Back to Our Principles'"
+    excerpt: "While appearing on CNN's State of the Union, Hutchinson was asked about Trump's speech in which he reportedly called McConnell a \"dumb son of a bitch\" and a \"stone cold loser\" while speaking to Republican National Committee (RNC) gathering at his Mar-a ..."
+    publishedDateTime: 2021-04-11T15:39:00Z
+    webUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724"
+    ampWebUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1775605/asa-hutchinson.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "A McConnell-Backed Trump Conviction Is Just Fantasy"
     excerpt: "Conviction in Trump’s impeachment trial was always a long shot. Now momentum is waning, as GOP senators aren’t onboard and McConnell won’t herd them."
     publishedDateTime: 2021-01-21T18:57:00Z
