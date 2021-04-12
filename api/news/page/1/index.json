@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-ramadan-begins-derek-chauvin-trial-bidens-infrastructure-plan-5-things-to-know-monday.md",
+      "title": "Ramadan begins, Derek Chauvin trial, Biden's infrastructure plan: 5 things to know Monday",
+      "excerpt": "Chauvin is charged with second-degree murder, third-degree murder and second-degree manslaughter in Floyd's death. President Joe Biden will meet with a bipartisan group of U.S. House and Senate lawmakers Monday to discuss his proposed $2.3 trillion infra ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/04/12/ramadan-derek-chauvin-trial-covid-19-5-things-know-monday/7158232002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/04/12/ramadan-derek-chauvin-trial-covid-19-5-things-know-monday/7158232002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/12/USAT/8e808988-b36c-4d38-99e5-a1194fdf9ce3-AFP_AFP_97P74U.jpg?auto=webp&crop=5124,2883,x0,y260&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7158232002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7158232002",
+      "publishedDateTime": "2021-04-12T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-biden-to-name-former-nsa-deputy-director-to-lead-cisa-report.md",
       "title": "Biden to name former NSA deputy director to lead CISA: report",
       "excerpt": "John C. Inglis, the former deputy director of the National Security Agency, is expected to be tapped by President Biden to head the Department of Homeland Security’s cybersecurity agency, according to a report late Sunday.",
@@ -1282,62 +1334,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-rick-perry-biden-sending-message-to-cartels-that-its-ok-to-sexually-traffic-children-across-border.md",
-      "title": "Rick Perry: Biden sending message to cartels that 'it's OK to sexually traffic children' across border",
-      "excerpt": "The Biden White House has sent a permissive message to human traffickers with its response to the southern border crisis, former Texas Gov. Rick Perry told \"Your World\" Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c53d43-e79a-4a8e-a985-aa410067de8f/b0cb4377-d387-44e3-9597-1615ba4f25d0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
-      "publishedDateTime": "2021-04-09T15:50:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -3,12 +3,10 @@ category: news
 title: "Business faces tricky path navigating post-Trump politics"
 excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to ..."
 publishedDateTime: 2021-04-11T12:23:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
-webUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
+originalUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003949"
+webUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003949"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -1366,6 +1364,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VYUdu07iCaG4jZebv3n6rnDD91JLpeWFhvZ2+bOT4wyqvmsRCa/vrq/2koTc8ElPQfDK7dPZtyuONUvda2nQnmvnVy7hdB6nTNf7Mqqyco15edcPBgPn8+huxoJ+FSKmHYGv8HsjqARHqk9fxu+XCFY3p+nLvwQ9mCjX4GhTm2pJbbN5QlrrEd5FOX+Y8qNid3XQtwUbOFdMmr3fJxfwz2Rsa46ECiHZKBCW8ww9vkctU2IzuX7Wy/vmCGSnktpq0kOfNV8WTB5O4CcxKADPQAwPnzfxx+KSs5J0QsJGaTNFB43cgPpKi7ARbnfKth74b4uxpuPJTpJBbXmWOuFRFdXk8HsGoKkvikIHTZ0MZ/BowaYXHRakIbJBrI0LxKnsNDhemJ3PbuU+52LRhxfGEb03idXdAk9+3uTHLt0xW0RIqxY7f6CZ2DKume3zKi7GTfDLpKtiEE8N8o/eeXz5PpQXJVrT+EqmHDbOeei1wmHjGMSM3F/5AbBwW9o70ueUeiJ+tIL/My5T2W9xVQn9HA==;0d5xetAMpQrpKUTZrBk3Tg=="
+secured: "qo/RJaTMmUeBwBGVOvINQUVgQ+U9+TOxDQRw4iZI+0LtluxX4NyLDzFbvv75vwGlK/gXbTU1rj8XZ7VV6oZhmjorWZj+dr8ykmmppgeceVQqGAK5Y3mrev8nZ636bkS1mSdB4Ts7tf3By/8dHu7JA1MFclVNjtZGqX8mO+KBj02kLyk3L/jJfnHmWc+4fPQ//seWqZosOX+BSQ9FN9XKRWyB2pvtYC5dWfl8hASyS9Kn2IsmLIzsMfNLHUxDVAqsPFxAdktdBFL35aHmBW3SaifohFuMTlJsajOabnKS8t8493yL9VNc21PFkA8SVicWO6Dgi53vnE/PIPpLgGyuCKaNDHUwedJ8SOfX6ZTLH8k=;WufOYirI8c5cmLsrM8EUbw=="
 ---
 
