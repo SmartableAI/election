@@ -2,25 +2,21 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-04-07-omar-says-its-shameful-and-unacceptable-for-biden-to-continue-the-construction-of-trump-border-wall.md",
-      "title": "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall",
-      "excerpt": "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. ",
+      "path": "_news/2021-04-08-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers.md",
+      "title": "Texas, Louisiana sue Biden administration over reduced use of ICE detainers",
+      "excerpt": "“President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE’s outright ...",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
+      "webUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers",
+      "originalUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
+      "highlight": null,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://thehill.com/sites/default/files/ice_05092019_getty.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
-      "publishedDateTime": "2021-04-07T12:27:22-07:00",
+      "ampWebUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp",
+      "publishedDateTime": "2021-04-07T12:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,7 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Joe Biden"
       ]
     },
     {
@@ -1161,7 +1157,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 744,
+      "heat": 704,
       "tags": null,
       "images": [
         {
@@ -1217,7 +1213,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 212,
+      "heat": 192,
       "tags": null,
       "images": [
         {

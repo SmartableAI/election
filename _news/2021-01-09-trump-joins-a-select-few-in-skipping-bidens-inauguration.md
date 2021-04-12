@@ -995,6 +995,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Harris is making her mark on the Washington-area crochet scene"
+    excerpt: "Five days later, on International Women’s Day, a crocheted mural of Harris’s likeness and the words “I’m Speaking” was installed at the Wharf. And with all the Googling of “Kamala Harris and crochet” there was a spike at craftyiscool.com of ..."
+    publishedDateTime: 2021-04-12T17:44:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25NEZ5UYV4I6XJWQCPJAPKW3PA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Democrats call on Pence to invoke 25th Amendment to remove Trump"
     excerpt: "Democrats plan to bring a resolution to the House floor calling on Vice President Mike Pence to invoke the 25th Amendment, which allows for the president to be removed from power with support from a majority of his Cabinet."
     publishedDateTime: 2021-01-11T15:55:00Z

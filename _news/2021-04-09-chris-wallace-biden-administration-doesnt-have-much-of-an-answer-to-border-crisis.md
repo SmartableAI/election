@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chris Christie turns into Biden attack dog in early days of administration"
+    excerpt: "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of"
+    publishedDateTime: 2021-04-12T17:34:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'"
     excerpt: "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare."
     publishedDateTime: 2021-04-12T15:44:56Z
@@ -47,19 +63,35 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Democrats, Biden push limits of infrastructure definition as fight over spending plan takes shape"
-    excerpt: "Democrats are pushing the limits of what can be defined as \"infrastructure\" as they aim to sell President Biden's $2 trillion-plus spending plan to the American people. "
-    publishedDateTime: 2021-04-07T16:45:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9uf2dICI7Qs/democrats-biden-push-limits-infrastructure-definition"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
+  - title: "CDC 'doing the bidding' of the Biden administration by making health disparities a race issue: Paris Dennard"
+    excerpt: "Republican National Committee national spokesperson Paris Dennard said the Centers For Disease Control is \"doing the bidding\" of the Biden administration by making health disparities a race issue."
+    publishedDateTime: 2021-04-09T19:56:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S5PutjBxaCU/cdc-biden-administration-health-disparities-race"
+    ampWebUrl: "https://www.foxnews.com/politics/cdc-biden-administration-health-disparities-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cdc-biden-administration-health-disparities-race.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 156
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
+    excerpt: "He is doing exactly what he sat around in the campaign and the transition and accused Donald Trump of doing. He is lying to cause racial divisions in this country. That’s what he accused Donald Trump of doing, and he’s a liar and a hypocrite this morning.\""
+    publishedDateTime: 2021-04-05T13:08:00Z
+    webUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions"
+    ampWebUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

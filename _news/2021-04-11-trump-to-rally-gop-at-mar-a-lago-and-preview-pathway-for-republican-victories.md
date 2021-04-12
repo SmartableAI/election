@@ -224,6 +224,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump receives Senate GOP group’s first Champion for Freedom Award"
+    excerpt: "The National Republican Senatorial Committee has presented its first Champion for Freedom Award to former President Donald Trump, the organization announced Monday. As the group met in Palm ..."
+    publishedDateTime: 2021-04-12T16:12:00Z
+    webUrl: "https://nypost.com/2021/04/12/trump-receives-award-fromgop-national-republican-senatorial-committee/"
+    ampWebUrl: "https://nypost.com/2021/04/12/trump-receives-award-fromgop-national-republican-senatorial-committee/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/trump-receives-award-fromgop-national-republican-senatorial-committee/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/nrsc-award-trump-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
     excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."
     publishedDateTime: 2021-04-07T16:12:00Z

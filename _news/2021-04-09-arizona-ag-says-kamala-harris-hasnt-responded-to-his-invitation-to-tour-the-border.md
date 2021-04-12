@@ -128,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Devine: Kamala Harris needs to see firsthand that 'open border' policies don't work"
+    excerpt: "Vice President Kamala Harris should visit the southern border immediately to see for herself that \"open border\" policies do not work, Fox News contributor Miranda Devine said Monday, arguing President Biden is \"passing the buck\" on the crisis that has unfolded. "
+    publishedDateTime: 2021-04-12T16:10:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sLVhp_jK4VY/devine-kamala-harris-firsthand-open-border-dont-work"
+    ampWebUrl: "https://www.foxnews.com/politics/devine-kamala-harris-firsthand-open-border-dont-work.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/devine-kamala-harris-firsthand-open-border-dont-work.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to hold first Cabinet meeting Thursday"
     excerpt: "President Biden will hold his first Cabinet meeting Thursday, one week after the full group was confirmed. "
     publishedDateTime: 2021-03-31T19:25:06Z

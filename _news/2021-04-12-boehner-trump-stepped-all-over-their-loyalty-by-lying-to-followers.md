@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Boehner says 'unemployed' Trump 'has nothing else to do' but 'cause trouble'"
+    excerpt: "on Monday said the \"unemployed\" former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief ..."
+    publishedDateTime: 2021-04-12T17:38:00Z
+    webUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble"
+    ampWebUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/boehnerjohn_072915gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
     publishedDateTime: 2021-04-07T14:18:00Z

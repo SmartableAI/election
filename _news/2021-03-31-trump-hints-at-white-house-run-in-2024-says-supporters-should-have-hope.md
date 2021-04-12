@@ -60,21 +60,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Gaetz denies CNN report on Trump refusing to meet him, demands retraction"
-    excerpt: "Rep. Matt Gaetz, who faces allegations of sexual misconduct, pushed back at CNN for claiming that former President Donald Trump refused to meet with him — calling the report a lie and"
-    publishedDateTime: 2021-04-12T13:29:00Z
-    webUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/"
-    ampWebUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
+  - title: "Gaetz blasts CNN over story indicating Trump avoided Mar-a-Lago meeting"
+    excerpt: "Rep. Matt Gaetz, R.-Fla., who has vowed to fight allegations of sexual misconduct against him, took to Twitter late Sunday to challenge a CNN report that he was denied a meeting with former President Trump at Mar-a-Lago. \"This is a total lie. I am on a pre ..."
+    publishedDateTime: 2021-04-12T10:41:00Z
+    webUrl: "https://www.foxnews.com/media/matt-gaetz-cnn-trump-mar-a-lago"
+    ampWebUrl: "https://www.foxnews.com/media/matt-gaetz-cnn-trump-mar-a-lago.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/matt-gaetz-cnn-trump-mar-a-lago.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/gaetz-trump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58d583e4-0b8a-40f3-86b7-9d8721afe99f/fe94cf91-e6c7-497a-b692-ac8f13fb054b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "84/jlXs/PEEH26yTcpsATANd84z6p621q4czTA2FFipwAjKWqLkqiBiREkcZsmVUMR0/m9aLgNH4JV0DHHCTVRHm5W99IO0VsN4dKfehgeAKWNvjWOac4+ww6LgGW3daxIh9t1eQP+A1UBTOf8PH3/2pUFhBcPGuy5ZuVVzlARyby1Z8Pzl4FnCzC56FiTOdz3BJNkHp5j7G6CmpPyV+d62i84PDz67RYR8+G7J4OV0kNLHFRt77tSux3quWzf+7g0Q9Tka1zG8EW5Tybtj4YcDc5a/4r2JEZatxIc6ekGvdEg7hxTICdvMvm225AJJj/tgERX/+Xjh49sHxl0o19m9GpOAaLv6adDPPQRdCaJc=;7Uw5mcSuyYbSQUQWj0dfjg=="

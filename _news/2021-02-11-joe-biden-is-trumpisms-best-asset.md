@@ -571,6 +571,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden picks 2 Trump critics for border, immigration roles"
+    excerpt: "Both positions require Senate confirmation and were run by acting leaders under former President Donald Trump, repeatedly drawing criticism from Congress. The number of migrants apprehended by the ..."
+    publishedDateTime: 2021-04-12T17:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_de8a46fb2d8746c0bc61efc539314a6d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"
     publishedDateTime: 2021-02-03T20:01:00Z

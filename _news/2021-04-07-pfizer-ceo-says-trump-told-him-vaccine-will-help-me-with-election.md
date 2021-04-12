@@ -111,6 +111,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump : The key to Republican success is more Trumpism"
+    excerpt: "Former President Donald Trump has used a closed-door speech at his resort in Palm Beach, Florida, to reinforce his commitment to the Republican Party PALM BEACH, Fla. -- Staking his claim to the ..."
+    publishedDateTime: 2021-04-11T11:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b6d49faf981243478c6e3448b9a3e707_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
     excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
     publishedDateTime: 2021-04-06T21:30:00Z
@@ -568,22 +584,6 @@ related:
     type: article
     provider:
       name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b6d49faf981243478c6e3448b9a3e707_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump : The key to Republican success is more Trumpism"
-    excerpt: "Former President Donald Trump has used a closed-door speech at his resort in Palm Beach, Florida, to reinforce his commitment to the Republican Party PALM BEACH, Fla. -- Staking his claim to the ..."
-    publishedDateTime: 2021-04-11T11:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
-    type: article
-    provider:
-      name: ABCNews
       domain: abcnews.go.com
     quality: 125
     images:

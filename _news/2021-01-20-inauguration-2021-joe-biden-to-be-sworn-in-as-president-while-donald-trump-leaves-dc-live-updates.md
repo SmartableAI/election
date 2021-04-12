@@ -997,6 +997,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Harris is making her mark on the Washington-area crochet scene"
+    excerpt: "Five days later, on International Women’s Day, a crocheted mural of Harris’s likeness and the words “I’m Speaking” was installed at the Wharf. And with all the Googling of “Kamala Harris and crochet” there was a spike at craftyiscool.com of ..."
+    publishedDateTime: 2021-04-12T17:44:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25NEZ5UYV4I6XJWQCPJAPKW3PA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump joins a select few in skipping Biden's inauguration"
     excerpt: "President Donald Trump’s decision to skip President-elect Joe Biden’s inauguration is not without precedent, though one must go back to Andrew Johnson in 1869 to find the most recent example."
     publishedDateTime: 2021-01-09T10:09:00Z

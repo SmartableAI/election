@@ -318,6 +318,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Get on it Joe!' How a coalition for strengthening gun violence prevention pushed Biden to act"
+    excerpt: "Gun control activist Po Murray addressed the crowd at an anti-violence rally in Hartford Monday. WASHINGTON — In the first two months of President Joe Biden’s administration, many of the nation’s most powerful gun violence prevention groups were ..."
+    publishedDateTime: 2021-04-09T23:49:00Z
+    webUrl: "https://www.timesunion.com/news/article/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 63
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/42/34/20850435/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
 
 secured: "F/H1Fq3hF26maNUk9PGZ8ZJkNc0J+2We4CuZa6outydTlJ70xG/QufytpG+UfHF5AiaREmS0f0XohPaxPR0AI3gc8EmmufK7Nhu10RwzMoqnDLclYywflbwub+6ueDQfAZn7683s+x1lXJgX5tpzArNvXG8TERRYbX/zj2tJ8ViuGxUn7I+ympgNdsqXahT6W2AuBxVDnBRTGOle/nCgQpyiPziihZS7EqQzOoO4AfqvQKov5jxyxS7FMkBFNduYb/Zz+zG4P6r4mgOiWGSjn2VyGO/13IPxVYeSeL+V6rIPW9MdL3EjRwwKIx8UzqjQlEWXSNRViodO/G6Jg9fO5Vcss2k8sJm/OeOAeBoUMPV722BLO0nzjMjNO9uPtO/mqF/prk9/K+RjN9HNZoQJ+h/A9OEVsE0P2mjCrxmGCwOCCLAaqNuYcJa21QZTAwSDxLy6Tt7kntBXkR9jEcUXgpn/GS5PdbxpZPkiElPjJhYmAi004ubket9/50XkCezSTQTSNxkuEZ0oSg9ta4iI/Q==;Uulc/v8N0BjlhSZ/j4IaDw=="
 ---

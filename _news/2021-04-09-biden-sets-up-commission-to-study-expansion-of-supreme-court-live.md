@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-po
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31455944-75cd-4711-a963-a35c8c90fc68_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "'A heck of a guy': Joe Biden pays tribute to Prince Philip – video"
+    excerpt: "The US president on Friday paid tribute to the Duke of Edinburgh, Prince Philip, and sent condolences to Queen Elizabeth II."
+    publishedDateTime: 2021-04-09T21:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/09/a-heck-of-a-guy-joe-biden-pays-tribute-to-prince-philip-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/3427740fbb9252d413d0108d078651328660d5c0/0_118_4348_2609/master/4348.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c298b9b651401ae7eebb12c233c83595"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'Opportunity is coming': Joe Biden celebrates latest jobs report – video"
     excerpt: "Joe Biden has encouraged Americans to ‘buckle down’ as coronavirus cases rise but he was optimistic on the state of the economy and celebrated the latest jobs report. The US economy added 916,000 jobs last month according to the report which Biden ..."

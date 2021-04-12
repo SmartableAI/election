@@ -70,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 759,
+      "heat": 779,
       "tags": null,
       "images": [
         {
@@ -400,7 +400,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 176,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -530,62 +530,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
       "publishedDateTime": "2021-04-07T12:50:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-omar-says-its-shameful-and-unacceptable-for-biden-to-continue-the-construction-of-trump-border-wall.md",
-      "title": "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall",
-      "excerpt": "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
-      "publishedDateTime": "2021-04-07T12:27:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1069,7 +1013,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 744,
+      "heat": 704,
       "tags": null,
       "images": [
         {
@@ -1125,7 +1069,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 212,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1237,7 +1181,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 355,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1510,7 +1454,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1639,6 +1583,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp",
       "publishedDateTime": "2021-04-05T09:46:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-former-cheney-adviser-biden-admin-hell-bent-on-rejoining-iran-nuclear-deal.md",
+      "title": "Former Cheney adviser: Biden admin 'hell-bent' on rejoining Iran nuclear deal",
+      "excerpt": "The former National Security Advisor to Vice President Cheney, John Hannah, said that the Biden administration is 'hell-bent' on rejoining the Iran nuclear deal, during a Monday appearance on 'America's Newsroom.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
+      "publishedDateTime": "2021-04-05T09:24:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

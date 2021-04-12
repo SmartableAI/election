@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW25C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW25C"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/kelvin-silva-ice-01-ht-llr-201209_1607557670725_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden administration budget request includes nearly $25 billion for NASA"
+    excerpt: "President Joe Biden submitted on Friday a $1.5 trillion budget request that includes $24.7 billion for NASA for 2022.The ask is part of the"
+    publishedDateTime: 2021-04-12T17:58:00Z
+    webUrl: "https://www.theday.com/article/20210412/NWS21/210419861"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 54
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
         isCached: true
 
 secured: "7iknAMGYZSD4nHFlfjCW5y9Is4OFzKUsSVcqh98xahLIDRWHjA5EPpWpMK8ppgb+dNUPaGhGxtvqQtE7+gt//graZDK3iaYhhgeSXof2RzwZo/KwD0wggoilHQktdN2q575LHOrABy9bxb9rXImuGk8XLES6hb3kAQC6lQfaWoI6CA9ZmYgcaZR3mtxTNYVJ6toOzDoun079UTuuiq9euYAlGPCWhr/dHza7ZPLuMNcLwvx/3IbCySPdQ/zcCW4hmKWBLTtV4UcQXfSLgS29skEb4/WbKtuvlFseYa5gC52br6cgqicoiz5T2vYBp3K2pMrT7UqEXDIexgg4NQjCYqFwpbp4WhF7EQpmElH40gM=;jJn0F94yaoGpL5obfbT4JA=="

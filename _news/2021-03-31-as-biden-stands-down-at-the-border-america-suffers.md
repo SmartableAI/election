@@ -146,22 +146,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says he doubts Biden ‘making the decisions,’ calls border wall chatter ‘positive step’: report"
-    excerpt: "Former President Trump expressed doubts Tuesday that his successor was \"making most of the decisions\" in the White House, noting from experience that being president is \"a lot of work.\" Trump also reacted positively to reports that the Biden administration ..."
-    publishedDateTime: 2021-04-07T07:49:00Z
-    webUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report"
-    ampWebUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "+zDq3iDajHH2+tbYZv4CCnLIuv+sa/3Y8/e35qg0uUXErwqo9AQ3vnY8a50m1ByKg6si/nOPHbQ/NQ9LxbKi3NI0HQHWa2h2cNR0x9dw3zPuGrpMcD8ImzmxFRpkcSV+PeGeMceEwvlh8VSgc/tsnPNTPDgGFdgowgz1HhpL/IkxW9HWRkB72AVWe8ka6dAEgMDd1Ti0aOWeA6lpG57uM/cZkzEa1/cZ6iS6ocZGlCAxjsRwGj/WRJANPc207XfjULT/BCZQZC7DviD9iVW7WY5kN2lHwZEC/1KqU+F6l0uhN/oqa3D5y8VmH1RasirVDQItlxkT+54Sso/CAyS7lV4RxQvIateUOk5susVdwsU=;MEWKDZm0OS5PyCu4Je3H+Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
 type: article
 quality: 178
-heat: 358
+heat: 338
 published: true
 
 provider:
@@ -138,22 +138,6 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31559d35-d060-4ac4-85d0-c5cf2e57997e/cea027d4-af7e-4165-9019-bb52722f5b11/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump says he doubts Biden ‘making the decisions,’ calls border wall chatter ‘positive step’: report"
-    excerpt: "Former President Trump expressed doubts Tuesday that his successor was \"making most of the decisions\" in the White House, noting from experience that being president is \"a lot of work.\" Trump also reacted positively to reports that the Biden administration ..."
-    publishedDateTime: 2021-04-07T07:49:00Z
-    webUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report"
-    ampWebUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

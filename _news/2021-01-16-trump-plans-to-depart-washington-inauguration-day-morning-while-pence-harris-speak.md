@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 5238
+heat: 5258
 published: true
 
 provider:
@@ -985,6 +985,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/1eddd496-3081-40b0-935d-cdfbe1a4a653/thumbnail/1200x630g2/80ab0c0b7d2d6a29f31ed846941c7093/gettyimages-1230675824.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vice President Harris is making her mark on the Washington-area crochet scene"
+    excerpt: "Five days later, on International Women’s Day, a crocheted mural of Harris’s likeness and the words “I’m Speaking” was installed at the Wharf. And with all the Googling of “Kamala Harris and crochet” there was a spike at craftyiscool.com of ..."
+    publishedDateTime: 2021-04-12T17:44:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25NEZ5UYV4I6XJWQCPJAPKW3PA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump joins a select few in skipping Biden's inauguration"
     excerpt: "President Donald Trump’s decision to skip President-elect Joe Biden’s inauguration is not without precedent, though one must go back to Andrew Johnson in 1869 to find the most recent example."

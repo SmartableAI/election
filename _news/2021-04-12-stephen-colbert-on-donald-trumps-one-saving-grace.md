@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Stephen Colbert on Trump: 'He isn’t going to start a new party – he already owns one'"
-    excerpt: "Late-night hosts recap the rightwing CPAC summit, which featured Ted Cruz Cancun jokes and a peculiar gold statue"
-    publishedDateTime: 2021-03-02T15:45:00Z
-    webUrl: "https://www.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv"
-    ampWebUrl: "https://amp.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv"
+  - title: "Colbert: 'There's no avoiding' Trump, but 'I don't like saying his name'"
+    excerpt: "report Colbert calls out 'idiot' Kennedy for Boulder remarks MORE says he avoids saying former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair ..."
+    publishedDateTime: 2021-04-12T17:04:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 118
+      name: The Hill
+      domain: thehill.com
+    quality: 124
     images:
-      - url: "https://i.guim.co.uk/img/media/6e0b3a31638d6927c75652b400d03169479520f0/255_140_2511_1506/master/2511.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52ba0b17d86f9256b8a5b0e4a71b5b31"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/colbertstephen_031619.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "KEoFacnqhYo3rrAcBeOGTqDyNu+qywg5pQL8d/jWXmonoyFZi0R4+VIf3o7trNYlfTtpA6J0iDDD9WOMU9Pqr9xvBeEZj8Y1ZvA3l5MNmTYGol4laS+rOa8f8wUGfpqERAlbDUjXlkEHSqx54THQVG0Rix2vcyfIr/AW9iImXMnRxdou5lbpCKsPc1ireBp7OF8+vCnk8VooJBGnXBj+sEWA9ZnK3r2JaHYLPJbJVw0FScm8b7v17tJUESvX/QfunS9Qpybrt0+UY4PzlIAjTqgkQ9gEDtgsIe7eSwfM+IZ3uUlv4CaUNV5EJnVa6I9Cq2un3HknOwdzGWdsWA25nHYFAViSE6QQVy4BsqWLNjOSa2+5bAd1kKeG6ckgYhS/Zf8jJlDXlpD6Xsaogotl7bNmlx+Rc1jfd1wJr7mnBoLlWtrVpnFgayt3c2ERvNHyC7i9Z2OvIPkCp2NnzABVWYh6WAQpTCDuXLKcCZ2wkML5DfEd+LVWp5v8LLwxiS1IWNQcaKZ1ugI6wf6DSxICQw==;DIEBZkfWUsARNuB1rFwJgA=="

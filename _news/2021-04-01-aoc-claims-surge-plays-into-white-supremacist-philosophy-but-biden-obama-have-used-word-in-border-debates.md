@@ -95,22 +95,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Rep. Jordan slams Biden admin for limiting media's access to migrant facilities amid surge at border"
-    excerpt: "Ohio Republican Congressman Jim Jordan argued on Sunday that the reason the press is not allowed to visit migrant facilities is because the Biden administration does not “want the American people to know what's going on.”"
-    publishedDateTime: 2021-04-11T18:46:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCpA_tpx8jU/rep-jordan-biden-admin-limiting-media-access-border-facilities"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-jordan-biden-admin-limiting-media-access-border-facilities.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-biden-admin-limiting-media-access-border-facilities.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "VgCuXbQmKi8gGi6O1LHWwInvjczMb5PQOTovQsHZvPQG02R14hOmrrtQ6U6uiMTZfhG9thIaoWaBpKt0/VehM0dptWo22WB0j9xLj9pAzfv237d1aEBHJy1GlUK8FqBHHyuduFXG05k8uzo5Usw1Hlbn9faSZwl+r/oDdHt8PE428LqT/m5mpZ3EwyOTY1dl6h7/OywfpflWLGLehnSEr2WsmgBWNstROU6N2MauXuSJXFr4ntqB5DWnpJ+4w/rj9a3eGdPvfNZ6jPRzq5SZmWY7OgzVAFPjDXtUL08DGWrzMd6pDqcY9KMCoQvnzoNw+wJLHxSckoj/ZU5M12hASQRCblsknnFmqCBpI4BDFwY=;W3YNijevgnriP3M6KM6dzQ=="
 ---

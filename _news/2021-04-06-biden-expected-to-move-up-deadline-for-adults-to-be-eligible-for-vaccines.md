@@ -111,22 +111,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Progressives ramp up pressure on Biden to forgive student loan debt"
-    excerpt: "Progressives are ramping up the pressure on President Biden to forgive student debt relief as Education Secretary Miguel Cardona investigates the administration's legal authority."
-    publishedDateTime: 2021-04-05T16:38:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EW1dYAUoWyE/biden-cancel-student-debt-50000-progressive-pressure"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Psaki won't say if Biden supports MLB Georgia boycott, despite past comment"
     excerpt: "White House press secretary Jen Psaki seemed to shy away Monday from President Biden's previous comments about Major League Baseball pulling its All-Star game from Georgia."
     publishedDateTime: 2021-04-05T22:44:02Z
@@ -455,15 +439,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "If It Ain't Broke, Joe Biden Will Break It"
-    excerpt: "The sage advice that If it ain't broke, don't fix it is older than Joe Biden, but apparently he never heard of it. Or doesn't think much of it. The president is on a tear, as in tearing up"
-    publishedDateTime: 2021-04-11T11:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "77uKIYBNGCJ457EDuQ0v+mJTedoa7O29JQmVldQNqjQWhD1+KeCz92rqZutHM+w/znVKz07v39OPkkf2TaFC78/ZTuNj2+Y6HAaUJsvcmztVlQP+Xp0FpI1ZUs3R0GaYcxyz+fJZ1hYEEugsbHUxnPOOYl5xnHJu0OCqAW+lOxNYhrSZaT0vs+aGUX2NUG+SP0iYvzXI0Wbdyc+wuCro32a8Z/pnOe6GlH62azSLiE4gTSyS3PdnHAvd8srNY+yubrqHzY217RKpqq0XEUzRjWyYMhwj3RTM0UTkOppsbHv7qRiLZ/bSc82lyw+0yKO6/+eRm4RFmMbqVOqWDTFY4bfs/JzOJlCvxr+wgFHS20U=;Vem0uemOsJxIkz2CwxiTRg=="
 ---

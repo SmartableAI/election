@@ -63,6 +63,20 @@ related:
         width: 3000
         height: 1982
         isCached: true
+  - title: "Prince Philip: US President Joe Biden describes him as 'a heck of a guy'"
+    excerpt: "US President Joe Biden said the entire administration sent their condolences to the Queen on the loss of Prince Philip, saying he was a \"heck of a guy\". He paid tribute to the Duke of Edinburgh's \"lifetime of service\", his active duty during World War Two ..."
+    publishedDateTime: 2021-04-09T20:39:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-56698348"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 54
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09d7vvs.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "6GEmyEpzGH8l+D4W8fZ642kne2IjBtw4v+5mHnWjeV6AfAklPDSM38rsRLnXZ2jRvNaqIXQ6ShUmOAFOzqW2Lnswr3nlV9An35xCO9GpenUAV87kfnxjbMWh+TD8+Rxth6r3S5aLDIjw0ImkTtvTjdPKHYZFX9+xnDQyAlMu7mw4XT/nFZc2K7IXSYMBzLaAjofrSvDjtKi1sz7qnBh8VnLK5y/dhHQYNkums/2ZF7aRA6lzUt61w67aY4N+DuULjMcu4eBTDei9X9lIMw+42bkxolpGENuydCdwF4y+UVBCRHfG0a0YKUl9qXKQTWW9mOJkZ6JtdXBuDebkWQAzkDgBdjZxXQmdbANLizNpQvnmbvohnixfn/WamQqfILCW7xc/3RmAPYiQ93xhOFqryHQhTljBvB1q9wezu4h6AWiU2PChP8sQRUfKKtrxJv0+b7+ZZXFR+62iRO1xFGvlQIJkaYBiZJ7rlGwb6NWfIEJzWJohMABnsDUc5IPW1btSX9r6ocQKbaZ+Abt+o56I+Q==;OSJjpM/vlSoHgEoZpo/cIA=="
 ---

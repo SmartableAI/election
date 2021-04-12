@@ -123,6 +123,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'A heck of a guy': Joe Biden pays tribute to Prince Philip – video"
+    excerpt: "The US president on Friday paid tribute to the Duke of Edinburgh, Prince Philip, and sent condolences to Queen Elizabeth II."
+    publishedDateTime: 2021-04-09T21:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/09/a-heck-of-a-guy-joe-biden-pays-tribute-to-prince-philip-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/3427740fbb9252d413d0108d078651328660d5c0/0_118_4348_2609/master/4348.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c298b9b651401ae7eebb12c233c83595"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden administration to launch massive funeral assistance program for covid victims"
     excerpt: "The Biden administration next week will launch a funeral assistance program that will provide up to $9,000 to cover the burial costs of each American who died of covid-19 — the largest program of its type ever offered by the federal government."
     publishedDateTime: 2021-04-06T21:15:00Z

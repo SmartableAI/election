@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-ran
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
 type: article
 quality: 190
-heat: 450
+heat: 470
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://images.wsj.net/im-323441/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump receives Senate GOP group’s first Champion for Freedom Award"
+    excerpt: "The National Republican Senatorial Committee has presented its first Champion for Freedom Award to former President Donald Trump, the organization announced Monday. As the group met in Palm ..."
+    publishedDateTime: 2021-04-12T16:12:00Z
+    webUrl: "https://nypost.com/2021/04/12/trump-receives-award-fromgop-national-republican-senatorial-committee/"
+    ampWebUrl: "https://nypost.com/2021/04/12/trump-receives-award-fromgop-national-republican-senatorial-committee/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/trump-receives-award-fromgop-national-republican-senatorial-committee/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/nrsc-award-trump-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump to rally GOP at Mar-a-lago and preview pathway for Republican victories"
     excerpt: "Former President Trump will address a major Republican National Committee gathering Saturday night where he's expected to say that if Republicans stick to an \"America First\" agenda the GOP will win back Congress in 2022 and take back the White House in 2024."

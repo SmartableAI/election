@@ -63,6 +63,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden administration budget request includes nearly $25 billion for NASA"
+    excerpt: "President Joe Biden submitted on Friday a $1.5 trillion budget request that includes $24.7 billion for NASA for 2022.The ask is part of the"
+    publishedDateTime: 2021-04-12T17:58:00Z
+    webUrl: "https://www.theday.com/article/20210412/NWS21/210419861"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 54
+    images:
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
 
 secured: "irbNiiyvmkkprxxvGWzf4Ghk2hrD+Hotdct//xw/oa9StdG8IE/oWRA/TjQhUk2VV4jFNC16QmNkEdoPSdW3smRFP2NDK/bJ8kjew0c9ib/SeBsdotT0UUk4f9E7J1tenN70Ytw/J0jagJOIFwxl8zV5P/UcveSKgaKRKriU20tUMAikGKCvWB1zBuBCnSkly8CPB8defhMF62y6v+9bNetjwr82s3LXmsBu494aT9EBqxwf2Yn+QdA2DO6ULtnlGoBHR0ZZNEu0u9CCtnBldRocGgGkUQGWK33HRPxMgaB3Ovcei8m1z1/sH1yyXzjMDdNCbAVUw5HiQwbDr+dx1HiCkOgNhKNF+JK/1Mj8rsk=;mhBNlTTOJKSQxFH7Zpvw5g=="
 ---

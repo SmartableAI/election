@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP Sen. Daines: No Biden spending bill funding should go to states that give money to illegal immigrants"
+    excerpt: "Sen. Steve Daines, R-Mont., announced he will introduce a bill to prevent funds in President Biden’s $1.9 trillion infrastructure spending bill from going to states that give stimulus payments to illegal immigrants"
+    publishedDateTime: 2021-04-12T17:18:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KCmMP5-BMr8/ny-stimulus-illegal-immigrants-biden-spending-bill-daines"
+    ampWebUrl: "https://www.foxnews.com/politics/ny-stimulus-illegal-immigrants-biden-spending-bill-daines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-stimulus-illegal-immigrants-biden-spending-bill-daines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb11a6af-1715-45d7-9e44-241e3aa5f5d1/58684803-c999-4c29-8c40-749562f08923/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden vows to get $2T spending bill passed, hits back at GOP criticism: 'I'm going to push as hard as I can'"
     excerpt: "President Biden on Monday said he will \"push as hard\" as he can to get his $2 trillion spending bill through Congress, despite criticism from Republican lawmakers about its size and the contents of the package."
     publishedDateTime: 2021-04-05T16:54:24Z
@@ -62,20 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Joe Biden's Trojan Horse Presidency"
-    excerpt: "Joe Biden was elected president after a campaign rooted in rhetoric emphasizing unity, moderation, and compromise. But with every day that passes, the veneer of centrism that got him elected over rivals such as Sen."
-    publishedDateTime: 2021-04-11T11:27:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/joe_bidens_trojan_horse_presidency_540242.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/540010_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "TUZLIJNZLJbk52P9GmI1V443AwmQxoXepi3iv44/lGnnlrfmojYWHTnkNoCYEC4MiURmDqIn7BeFEJ+YLj4wRboYG46D8vSU0T+yE/+0j2BfvtUrrOodqAJEL3e+cwnBed3IVjtR7i4VRK2Ity0hn1HGN1aaykuf0w9O+rAcSbLgjySDJR8Wcz2TcoqW9sW07VVlOk3FHiAJCykkiOIMgAW8PiPxySQG4lUKiXMG1XD2xZp6HW76/rWrM7T7aNSsVK145WGPNgbGTv0WW4Oy3X3W6LyI9XeSVwo7bkQZp6yXGHsBUiCbLXip7BF9V6cV5I1T/I1hefxokIzgZTR9t7B5N1oYhwZQcG8+Fm9lG8M=;/wr3O4uliRTT3u13Qu0LXA=="

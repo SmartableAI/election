@@ -63,19 +63,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Joe Biden's Trojan Horse Presidency"
-    excerpt: "Joe Biden was elected president after a campaign rooted in rhetoric emphasizing unity, moderation, and compromise. But with every day that passes, the veneer of centrism that got him elected over rivals such as Sen."
-    publishedDateTime: 2021-04-11T11:27:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/joe_bidens_trojan_horse_presidency_540242.html"
+  - title: "GOP Sen. Daines: No Biden spending bill funding should go to states that give money to illegal immigrants"
+    excerpt: "Sen. Steve Daines, R-Mont., announced he will introduce a bill to prevent funds in President Biden’s $1.9 trillion infrastructure spending bill from going to states that give stimulus payments to illegal immigrants"
+    publishedDateTime: 2021-04-12T17:18:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KCmMP5-BMr8/ny-stimulus-illegal-immigrants-biden-spending-bill-daines"
+    ampWebUrl: "https://www.foxnews.com/politics/ny-stimulus-illegal-immigrants-biden-spending-bill-daines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-stimulus-illegal-immigrants-biden-spending-bill-daines.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
     images:
-      - url: "https://assets.realclear.com/images/54/540010_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb11a6af-1715-45d7-9e44-241e3aa5f5d1/58684803-c999-4c29-8c40-749562f08923/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "GTcIHc+9GpVm3QUbDstShVQhuCH+eQi9pUo3G4oUDSC6NhNz+qHY0snbnaGDprIGDJMJ7CvqhVd3YD6qp0lrtgS3lw/4UckQTh1kOpzUnRiUH1XhYuG4W/zMP9UVo6klQNNRfZgT4L/WzuUKDoiC9aLvaGOZQNOJMkap2Y/wczTMN2VdqM4vnXvc5R6TmIZePgKNRT6W7o4bshPqdhRckC0oXEaHQvtq1A3/FPXVPPrfI+/PPdLNkHKPYrUt7JfEikMCSI69IbQkz3g/ersAOEw6pdj29RLZU9K/KlelxdwhyBBrl28GFmnRsToYQSHwkkz3GRQWH43uZlxat9Y6gRl1c7t36Q1CAHiQZjEkqLI=;6qwvnad62EgNFRpylx6yGg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -317,6 +317,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'Get on it Joe!' How a coalition for strengthening gun violence prevention pushed Biden to act"
+    excerpt: "Gun control activist Po Murray addressed the crowd at an anti-violence rally in Hartford Monday. WASHINGTON — In the first two months of President Joe Biden’s administration, many of the nation’s most powerful gun violence prevention groups were ..."
+    publishedDateTime: 2021-04-09T23:49:00Z
+    webUrl: "https://www.timesunion.com/news/article/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 63
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/42/34/20850435/5/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
 
 secured: "iMDzRjodSpF7hBIm5OkLRhZWlCqYdhp8ZXWzF1OPrulQBoebF1Jp1OIP3+PtBlEtEy0aGMRTr0WprZXA8uGgo69pOU0RA8Wq4OWKUoQWdKF39+PCnQakcr1CBfNsb8TDX2QnUQqmxc19KT+g215snCpwydnFcAjc2Lzj4SI032uSy+eV4U+Fs7GZeM31ehVzQ1yizQ61mcruOy7jaE2wsPAChOvb5Lfp+fBJm5I9MIOOSrO1So/5CX/LI/XuyokqOfBnXgut+Ug3a+/JRKYkEGUscknbzN7pIKtxxvxJNLZK8N0yyPaY7FUAw8r8BeZ9Bwm4sIMHkENsFZTPfBQI1yyk2cpQZ/L6bKNtrYcm5VcbcNnaoxD7Jwpsc5xfjzdrfH8Dt5IyUurW2iaTQw8KBd5iLA19hccRtgqc+CbF43VqQHcRSmQjypigIJ3O0dB4qlpDeltKTAo7onWHrVKweTrrZi6J59xdnLyCh4CCEdfoSxDQYwX/lJfNM45o9WvR+/+CLQd6QtoexfcG9AIsrA==;Ro2SAI8uiQhP95YxdM6NYA=="

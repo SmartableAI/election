@@ -2,63 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-03-19-kellyanne-conway-michael-wolff-jonathan-karl-among-those-reportedly-writing-post-white-house-trump-books.md",
-      "title": "Kellyanne Conway, Michael Wolff, Jonathan Karl among those reportedly writing post-White House Trump books",
-      "excerpt": "The era of explosive tell-all books about the Trump presidency is apparently not over, even though the presidency itself has ended.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books",
-      "originalUrl": "https://www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Conway-Wolff-Haberman-Karl.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books.amp",
-      "publishedDateTime": "2021-03-18T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-18-giroir-accuses-biden-of-playing-fast-and-loose-with-covid-science-taking-credit-for-operation-warp-speed.md",
       "title": "Giroir accuses Biden of playing 'fast and loose' with COVID science, taking credit for Operation Warp Speed",
       "excerpt": "President Biden is somehow able to \"stand up and completely rewrite history and go fast and loose with the science and the data,\" former HHS Assistant Secretary Brett Giroir told \"The Story\" Thursday.",
@@ -1668,6 +1611,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-ny-sheriff-violated-hatch-act-by-flying-pro-trump-flag-on-summer-boat-parade-us-agency.md",
+      "title": "NY sheriff violated Hatch Act by flying pro-Trump flag on summer boat parade: US agency",
+      "excerpt": "An upstate New York sheriff received a warning from federal investigators for violating the Hatch Act by flying a \"Making America Great\" flag during a pro-Trump boat parade last summer. Oswego County Sheriff Don Hilton received a warning letter from the U ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade",
+      "originalUrl": "https://www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade.amp",
+      "publishedDateTime": "2021-03-14T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

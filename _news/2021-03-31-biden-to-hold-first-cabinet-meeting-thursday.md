@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Devine: Kamala Harris needs to see firsthand that 'open border' policies don't work"
+    excerpt: "Vice President Kamala Harris should visit the southern border immediately to see for herself that \"open border\" policies do not work, Fox News contributor Miranda Devine said Monday, arguing President Biden is \"passing the buck\" on the crisis that has unfolded. "
+    publishedDateTime: 2021-04-12T16:10:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sLVhp_jK4VY/devine-kamala-harris-firsthand-open-border-dont-work"
+    ampWebUrl: "https://www.foxnews.com/politics/devine-kamala-harris-firsthand-open-border-dont-work.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/devine-kamala-harris-firsthand-open-border-dont-work.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden expected to announce executive actions on gun control Thursday"
     excerpt: "President Biden will announce new executive action on gun control on Thursday, White House press secretary Jen Psaki indicated Wednesday. "
     publishedDateTime: 2021-04-07T18:26:32Z

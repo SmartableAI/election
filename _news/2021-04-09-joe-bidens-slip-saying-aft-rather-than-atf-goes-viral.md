@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-15822
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Prince Philip: US President Joe Biden describes him as 'a heck of a guy'"
+    excerpt: "US President Joe Biden said the entire administration sent their condolences to the Queen on the loss of Prince Philip, saying he was a \"heck of a guy\". He paid tribute to the Duke of Edinburgh's \"lifetime of service\", his active duty during World War Two ..."
+    publishedDateTime: 2021-04-09T20:39:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-56698348"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 54
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09d7vvs.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "qsMDsdnbHZFVyDovY2oTIxfQHRqQ91u02CJTiMJ+UA1RM8/qa/AoDyhhldngDyx8GcnYZYw1tAqtEfxIWPH5UFbfqRJfH9sNgg/UQ1Cixc3WRtDrIFSPA10buK9KtciVsc1yCBveNpm+g94RocQZ35Naswce+wj/TSE3iRsU8gD6eAXS5ELtxcPyZHPUZDymqV41b09BJAtMYmws/XT8m3R45HiC8zXoX616lq+dWOx6JkqpEUaDzls+V705O9ziK9ijfGvPVH4Ju7uDCTm5KrKhUyqBEkldwHxg4WZ/AJ/G8uv8GmO6i6sjq9OBQ9F0uxPCezvDmC18C2gQJVIxABJW/R/RJCKp+KWxRZgu5ajaCN4a/wxrqQWB5d2BX52iCQktzBSgAXmhLXcodF5z6CVo8Fsnv/jArYrgY8RgT/Wi4uqleCEDAGKWqyZGWyaKDnzfpZH+vaIp6i+TrCi1q/ZAxR3jPdDMT0NkxGIewDfZztpMp4g370RCqvNzhUdGeVBVZIinOqfLM2rt5IGA7A==;ILd43evgdNGj2PF40cbSVg=="

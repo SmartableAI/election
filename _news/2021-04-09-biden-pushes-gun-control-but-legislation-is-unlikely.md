@@ -108,22 +108,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Progressives ramp up pressure on Biden to forgive student loan debt"
-    excerpt: "Progressives are ramping up the pressure on President Biden to forgive student debt relief as Education Secretary Miguel Cardona investigates the administration's legal authority."
-    publishedDateTime: 2021-04-05T16:38:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EW1dYAUoWyE/biden-cancel-student-debt-50000-progressive-pressure"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden expected to move up deadline for adults to be eligible for vaccines"
     excerpt: "President Biden is expected to announce Tuesday that he is moving up the date for adults to become eligible to receive a COVID-19 vaccine by April 19."
     publishedDateTime: 2021-04-06T15:58:52Z
@@ -452,15 +436,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "If It Ain't Broke, Joe Biden Will Break It"
-    excerpt: "The sage advice that If it ain't broke, don't fix it is older than Joe Biden, but apparently he never heard of it. Or doesn't think much of it. The president is on a tear, as in tearing up"
-    publishedDateTime: 2021-04-11T11:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "M7FLkx5raCFPbZ9RbgbMRdIEF3/I6Cny+J3W1FoDhWZrBXbwrzmuYth+BTtUBI72AkjpXTF7y4sAfkQhiInHkqCpMi9VJApvJSAcoUCeTZ7hsivN5gWI2lYksISf1zXFbUPJxOJw3Vmm8lOy1K0WOmPBsAZ767xSZ72ESYJkhVtqK2irdRECa2oHkUUi99d3eILF5AwJIfHezQ1DtgJIhpSWgvnfmEV92UIgH/1D2Wf5ktgqzxXy3MNwALCXcM94LjLIG1TfqPWa7enGE28nF7zmkRru2iea7BVCLQjI27Sl4IaFhCENw9qvbIi5Sls+1u6PSV4tRlcAUuRl131kK/rkw29J863zCfcV/HPcPKZ7YdxCXGYidzEkYtQtZmM+mr6YqxgqmTcdvogt1Jr8m9BG36hTQywk21Xr3cixR77EkbvgxvaNVVQItp22oSEEoIPGOmOj2kIScHyF/xMbBC1rXjQVECb4UoX7g0mOlUWiNO7XmZlekmMuhhAxHfOwCNN9c5OagK1OmTF+qz8yNA==;ktHVnMioH4E2DXlttkKo9w=="
 ---

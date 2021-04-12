@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-11-trump-slashes-at-mcconnell-as-he-reiterates-election-falsehoods-at-republican-event.md",
+      "title": "Trump slashes at McConnell as he reiterates election falsehoods at Republican event",
+      "excerpt": "Former president Donald Trump called Senate Minority Leader Mitch McConnell a “dumb son of a bitch” as he used a Saturday night speech to Republicans to blame him for not helping overturn the 2020 election and reiterated false assertions that he won ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 594,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFSY2JE2PEI6XJWQCPJAPKW3PA.jpg&w=1440",
+          "width": 1440,
+          "height": 951,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-10T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-vice-president-mike-pence-pleaded-with-the-acting-defense-secretary-to-clear-the-capitol-as-pro-trump-rioters-overran-the-building-report.md",
       "title": "Vice President Mike Pence pleaded with the acting defense secretary to 'clear the Capitol' as pro-Trump rioters overran the building, report says",
       "excerpt": "Vice President Mike Pence, who was in the building when the Capitol riot began, made an urgent call amid the chaos. \"Clear the Capitol,\" Pence told Acting Defense Secretary Christopher Miller, the Associated Press reported. Pence was in a \"secure location ...",
@@ -331,7 +383,7 @@
       "originalUrl": "https://www.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -872,7 +924,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1029,7 +1081,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-treasury-budget-idUSKBN2BW25C",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1273,58 +1325,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-milwaukee-asks-to-sanction-trump-over-baseless-election-suit.md",
-      "title": "Milwaukee asks to sanction Trump over ‘baseless’ election suit",
-      "excerpt": "Donald Trump and his lawyers should pay more than $65,000 in legal fees to Milwaukee County and face additional sanctions for filing a “baseless” lawsuit trying to overturn the result of the presidential election, Wisconsin’s biggest metropolitan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/SxmmnkCuK8npJYpMweFwVOqZLOI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TP6T4HP25W24BFJK5EIPZTUMX4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-09T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

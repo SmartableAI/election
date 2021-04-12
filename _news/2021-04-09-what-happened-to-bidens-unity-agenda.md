@@ -76,22 +76,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden admits he used to smoke parmesan cheese because it resembled crack"
-    excerpt: "Hunter Biden admitted that when he was addicted to crack cocaine, he smoked parmesan cheese because it resembled the drug."
-    publishedDateTime: 2021-04-05T18:24:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tw3-7w7jiZc/hunter-biden-smoke-parmesan-cheese-resembled-crack"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Collins-led group of GOPers blasts Biden after president says they ‘didn’t move an inch’ on COVID compromise"
     excerpt: "The group of 10 Republican senators that attempted to negotiate with President Biden on coronavirus relief slammed the president in a biting statement Wednesday night accusing him of misrepresenting their meeting and its fallout. "
     publishedDateTime: 2021-04-08T11:41:13Z
@@ -108,22 +92,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Hunter Biden admits he used to smoke parmesan cheese because it resembled crack"
-    excerpt: "Not a chance,'\" Hunter said, according to the book. \"'I don't know what else to do,'\" Joe Biden, then on the verge of announcing his candidacy for president, said, according to his son. \"'I'm so scared. Tell me what to do.\" \"'Not f----- this,'\" Hunter ..."
-    publishedDateTime: 2021-04-05T20:08:00Z
-    webUrl: "https://www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "As press embraces Biden agenda, White House leaks have disappeared"
     excerpt: "No such thing anymore,\" the paper says. There aren’t even authorized, self-serving leaks in the mold of \"Joe Biden slammed his fist on the desk and said ‘We’ve got to get this done, failure is not an option.’\" The Trump White House was the leakiest ..."
     publishedDateTime: 2021-04-08T07:23:00Z
@@ -135,20 +103,6 @@ related:
     quality: 115
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Psaki-318-3.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden, blocked by Congress, resorts to minor gun measures"
-    excerpt: "Joe Biden didn’t try to sugarcoat the fact that he wasn’t doing very much. \"We have a long way to go, it seems like we always have a long way to go,\" he said yesterday. What he was doing, on a warm Washington day, was bowing to political reality."
-    publishedDateTime: 2021-04-09T07:10:00Z
-    webUrl: "https://www.foxnews.com/media/biden-blocked-by-congress-resorts-to-minor-gun-measures"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21098586391020.jpg"
         width: 1280
         height: 720
         isCached: true

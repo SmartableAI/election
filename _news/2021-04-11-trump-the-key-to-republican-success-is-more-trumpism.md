@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Politics/wireStory/trump-key-republican-success-
 ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
 type: article
-quality: 125
+quality: 135
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Mike Pence
 
 images:
   - url: "https://s.abcnews.com/images/Politics/WireAP_b6d49faf981243478c6e3448b9a3e707_16x9_992.jpg"
