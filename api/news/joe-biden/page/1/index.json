@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest.md",
+      "title": "Brooklyn Center Mayor Says Biden Offered Support After Daunte Wright Shooting Unrest",
+      "excerpt": "President Joe Biden has offered his administration's support to the city of Brooklyn Center, Minnesota, in the wake of Daunte Wright's death and Sunday night's subsequent protests, according to Mayor Mike Elliott. \"Just got off the phone with the @WhiteHouse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977",
+      "originalUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1776399/brooklyn-center.jpg",
+          "width": 594,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1",
+      "publishedDateTime": "2021-04-12T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-biden-is-expected-to-name-a-former-top-obama-era-federal-prosecutor-to-lead-the-justice-departments-criminal-division-sources-say.md",
       "title": "Biden is expected to name a former top Obama-era federal prosecutor to lead the Justice Department's criminal division, sources say",
       "excerpt": "Sources tell Insider that Kenneth Polite is expected to be Biden's pick to run the Justice Department office responsible for federal criminal probes.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-immigration-biden-idUSKBN2BZ1L6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -86,58 +138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-hunter-biden-has-nothing-to-do-with-this-fox-news-guest-slams-constant-coverage-of-presidents-son.md",
-      "title": "'Hunter Biden Has Nothing to Do With This': Fox News Guest Slams 'Constant' Coverage of President's Son",
-      "excerpt": "\"The answer about Joe Biden is not, 'Well Hunter Biden did crack,' or 'Well Hunter disposed of a gun illegally,'\" Jessica Tarlov said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737",
-      "originalUrl": "https://www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1775625/fox-news-contributor-jessica-tarlov.png",
-          "width": 2804,
-          "height": 1568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737?amp=1",
-      "publishedDateTime": "2021-04-11T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

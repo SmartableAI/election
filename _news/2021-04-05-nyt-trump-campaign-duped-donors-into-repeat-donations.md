@@ -32,117 +32,149 @@ images:
     isCached: true
 
 related:
-  - title: "Pence launches political advocacy group with an eye to the Trump legacy -- and his own future"
-    excerpt: "Former Vice President Mike Pence on Wednesday announced the launch of a new political advocacy group, \"Advancing American Freedom,\" a move designed with an eye to his political future and his efforts to help shape the conversation around the Trump administration's legacy.\n    \n"
-    publishedDateTime: 2021-04-07T15:11:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tdWNrm2BA-g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html"
+  - title: "Biden keeping Trump's pick for Moscow ambassador in place"
+    excerpt: "The Biden administration recently decided to keep the Trump-appointed US ambassador on the job in Moscow for the foreseeable future, two senior administration officials told CNN, demonstrating a willingness to nurture areas of stability in the US-Russia relationship after it got off to a tumultuous start.\n"
+    publishedDateTime: 2021-04-12T19:48:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S5_23XHVx1Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-john-sullivan-moscow/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-john-sullivan-moscow/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 189
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412145009-ambassador-john-sullivan-file-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's own statements in old lawsuit could haunt him in any future criminal case"
-    excerpt: "Donald Trump once said he calculated his net worth, to a degree, on his \"feelings,\" and that he put the \"best spin\" on some of the assets.\n    \n"
-    publishedDateTime: 2021-04-01T11:23:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iskEb54P2R0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
+  - title: "Biden's planned pick for ATF director a fierce advocate for gun control"
+    excerpt: "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n"
+    publishedDateTime: 2021-04-08T01:30:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pentagon announces new policies to abolish Trump administration's transgender military ban"
-    excerpt: "The Pentagon has announced new policies to abolish the Trump administration's ban on transgender troops serving in the US military following a 60-day review initiated after President Joe Biden signed an executive order repealing the ban shortly after he took office in January.\n    \n"
-    publishedDateTime: 2021-03-31T20:34:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/btC90CjyEOk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/transgender-military-ban-policies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/transgender-military-ban-policies/index.html"
+  - title: "Biden's border coordinator stepping down at end of the month"
+    excerpt: "President Joe Biden's border coordinator is stepping down at the end of the month, the White House announced Friday -- an unusual time given the administration is dealing with record numbers of unaccompanied migrant children at the US southern border.\n    \n"
+    publishedDateTime: 2021-04-09T21:31:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgU9Q7t4QJE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "RNC donors gather to hear Trump and others in Palm Beach, the GOP's 'new political power center'"
-    excerpt: "Donors to the Republican National Committee gathered this weekend for the first time since Donald Trump's defeat just down the road from his Mar-a-Lago home -- a sign that the institutions of the party remain centered around the former President.\n    \n"
-    publishedDateTime: 2021-04-10T21:51:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vANdLjsN-6g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
+  - title: "Major Biden to get training after two biting incidents"
+    excerpt: "President Joe Biden's German shepherd, Major, will receive training after two biting incidents involving workers at the White House, according to first lady Jill Biden's spokesman.\n    \n"
+    publishedDateTime: 2021-04-12T11:38:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SbhzlpklCrA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/major-biden-training/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/major-biden-training/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200103144837-trump-sobre-ataque-qasem-suleimani-hoy-el-mundo-es-mejor-sot-00010015-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330181306-major-biden-dog-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "EPA empties out science panels stacked with Trump picks"
-    excerpt: "This is the latest attempt by the Biden administration to reverse what officials have described as rampant political interference in key decisions under Trump and distortion of good data and evidence."
-    publishedDateTime: 2021-03-31T17:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/epa-empties-out-science-panels-stacked-trump-picks-n1262615"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262615"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262615"
+  - title: "Republicans mobilize for showdown that will help define the Biden presidency"
+    excerpt: "A defining political clash took shape Sunday over Joe Biden's latest effort to reshape the US economy, with Republicans mobilizing against a massive infrastructure plan that could put the President in historic Democratic company.\n    \n"
+    publishedDateTime: 2021-04-05T10:18:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xWJG-9odnS0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/joe-biden-infrastructure-plan-republicans-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/joe-biden-infrastructure-plan-republicans-democrats/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331164919-01-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The old guard of the judiciary moves on as Biden announces new picks for bench"
+    excerpt: "As President Joe Biden launches a new era of judicial appointments, the old guard of the bench is in its twilight.\n    \n"
+    publishedDateTime: 2021-04-09T11:34:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NJFeWS10vY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402091949-reagan-era-nominees-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pressure builds on Biden administration to lift refugee cap after months-long delay"
+    excerpt: "In his first days in office, President Joe Biden proposed expanding the number of refugees who could be admitted to the United States after years of historic lows, but more than two months later that increase remains unsigned despite Biden's pledge, perplexing even officials within his own administration"
+    publishedDateTime: 2021-04-09T20:31:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TJ7r7nP68Ww/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/refugees-us-cap-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/refugees-us-cap-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324163902-refugee-camp-fire-video-thumbnail-lon-orig-na-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration has yet to name point person for $178 billion Provider Relief Fund"
+    excerpt: "The Biden administration has yet to name a point person for the $178 billion Provider Relief Fund, according to a senior administration official.\n    \n"
+    publishedDateTime: 2021-04-06T23:35:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-xfF4CosuQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162835-02-biden-vaccine-remarks-0406-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "2 Dem senators balk at Biden's new spending plan"
+    excerpt: "Joe Manchin wants his party's leaders and President Joe Biden to make significant changes to their sweeping new tax-and-spend legislation — and he’s got other Democratic senators with him. The West Virginia Democrat is readying for his second act after ..."
+    publishedDateTime: 2021-04-05T19:12:00Z
+    webUrl: "https://www.politico.com/news/2021/04/05/manchin-biden-spending-plan-479058"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_13/3461085/210331-michael-regan-se-1152a_a21758672e7ef354318c90435886231b.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump sued by two Capitol Police officers"
-    excerpt: "Two officers accuse Donald Trump of inciting the January 6 riot, during which they were injured, and have sued him for damages. Brian Todd reports."
-    publishedDateTime: 2021-04-01T04:14:00Z
-    webUrl: "https://www.cnn.com/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/04/01/exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401000836-exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot-00001323-super-tease.png"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How Trump Steered Supporters Into Unwitting Donations"
-    excerpt: "Online donors were guided into weekly recurring contributions. Demands for refunds spiked. Complaints to banks and credit card companies soared. But the money helped keep Donald Trump’s struggling campaign afloat."
-    publishedDateTime: 2021-04-03T20:28:00Z
-    webUrl: "https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/03/us/politics/trump-donations.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/03/us/politics/trump-donations.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/01/us/politics/00donations1/merlin_179465994_5a708364-8923-4b31-9068-df4d5c86e084-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/cd/cd/349d988a409cb1f5786a36238521/ap21070753566064.jpg"
+        width: 4500
+        height: 2998
         isCached: true
   - title: "How the Trump campaign steered supporters into recurring donations"
     excerpt: "According to a New York Times investigation, Donald Trump’s 2020 campaign tricked supporters into making recurring donations. NBC News’ Danny Cevallos explains how it happened and if it’s legal.April 5, 2021 © 2021 NBC UNIVERSAL"
@@ -160,185 +192,111 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump and his allies abandon Gaetz"
-    excerpt: "Rep. Matt Gaetz (R-Fla.) built a public profile as an unapologetic, unambiguous, omnipresent booster of President Donald Trump. But as his own political career skids toward disaster amid allegations that he had sex with a minor and paid for sex with women ..."
-    publishedDateTime: 2021-04-06T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
+  - title: "Corporate America tears down Biden's infrastructure plan"
+    excerpt: "Executives at some of America’s largest companies complain much more bitterly in private about the White House approach."
+    publishedDateTime: 2021-04-07T01:02:00Z
+    webUrl: "https://www.politico.com/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
+      - url: "https://static.politico.com/1a/fb/11a78bf1427c8995db7e85fdb24b/4-6-21-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Kemp Seizes on Georgia Voting Law to Try to Win Back Trump and His Base"
-    excerpt: "After resisting Donald Trump’s demands to overturn the state’s election results, Gov. Brian Kemp was an outcast in his own party. Now he’s embraced the state’s new voting bill as a way to rebuild his standing."
-    publishedDateTime: 2021-04-08T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/08/us/politics/brian-kemp-trump-georgia.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/07/us/politics/00kemp1/00kemp1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump relaunches his fundraising machine after months of quiet"
-    excerpt: "The red \"Make America Great Again\" hats are back in stock. Former President Donald Trump is reigniting his small-dollar fundraising operation for the first time since leaving the White House, part of his political ramp-up to stake out an outsize role in ..."
-    publishedDateTime: 2021-04-07T20:18:00Z
-    webUrl: "https://www.politico.com/news/2021/04/07/trump-fundraising-relaunch-479724"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/trump-fundraising-relaunch-479724"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d6/5b/2e9d3b5f4cbb81dc25d0a9b7c1ba/4-7-21-maga-hats-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Pamela Brown fact-checks deficit growth during Donald Trump's presidency"
-    excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."
-    publishedDateTime: 2021-04-04T23:21:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn"
+  - title: "The sneaky radicalism of Joe Biden's first few months in office"
+    excerpt: "(CNN)Joe Biden ran for president on a very simple idea: Government (and the country) works best when people from opposing parties work together. And he cast himself as someone who was uniquely suited to re-stoke the desire for bipartisanship in Congress ..."
+    publishedDateTime: 2021-04-09T16:08:00Z
+    webUrl: "https://www.cnn.com/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408122600-joe-biden-april-8-2021-02-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "High number of Trump political appointees sought permanent jobs in final year"
-    excerpt: "The number of political appointees who sought permanent positions in the final year of former President Donald Trump’s term outpaced the number who did so under his predecessor during the same time frame, according to documents obtained by NBC News."
-    publishedDateTime: 2021-04-10T09:01:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/high-number-trump-political-appointees-sought-permanent-jobs-final-year-n1262234"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262234"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262234"
+  - title: "Biden's border coordinator stepping down at end of the month"
+    excerpt: "(CNN)President Joe Biden's border coordinator is stepping down at the end of the month, the White House announced Friday -- an unusual time given the administration is dealing with record numbers of unaccompanied migrant children at the US southern border."
+    publishedDateTime: 2021-04-09T17:11:00Z
+    webUrl: "https://www.cnn.com/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Dam safety advocates feel forgotten in Biden's $2 trillion infrastructure plan"
+    excerpt: "“It’s one of those ticking time bombs that can really devastate a community,” said a Michigan woman who was rescued from a dam collapse last year. When President Joe Biden last week introduced a sweeping $2 trillion infrastructure plan, the details ..."
+    publishedDateTime: 2021-04-09T08:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/dam-safety-advocates-feel-forgotten-biden-s-2-trillion-infrastructure-n1263470"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263470"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263470"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 132
+    quality: 131
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3424219/201029-donald-trump-maga-rally-ac-828p_c93e3f4d695a7d9de6357a085cc195ee.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3462742/210407-sanford-dam-al-1159_07000f5652b91bc448375e74cb695710.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump's own statements in old lawsuit could haunt him in a future criminal case"
-    excerpt: "New York (CNN)Donald Trump once said he calculated his net worth, to a degree, on his \"feelings,\" and that he put the \"best spin\" on some of the assets. \"I think everybody\" exaggerates about the value of their properties. \"Who wouldn't?\" Did he inflate values?"
-    publishedDateTime: 2021-04-01T06:47:00Z
-    webUrl: "https://www.cnn.com/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
+  - title: "Biden to push sweeping jobs plan in meeting with bipartisan group of lawmakers"
+    excerpt: "WASHINGTON — President Joe Biden will seek to build bipartisan support for his sweeping $2 trillion American Jobs Plan when he is scheduled to meet Monday at the White House with a bipartisan group of lawmakers. Biden is already facing opposition from ..."
+    publishedDateTime: 2021-04-12T17:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-push-sweeping-jobs-plan-meeting-bipartisan-group-lawmakers-n1263832"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263832"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263832"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 131
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_15/3464114/210412-joe-biden-ew-313p_67f02ac37cc69eec816d68289b1fd3fd.jpg"
+        width: 2500
+        height: 1706
         isCached: true
-  - title: "Pence signs a seven-figure book deal, but Trump and other administration alums face a tough market in publishing"
-    excerpt: "Washington (CNN)Mike Pence has signed a multimillion-dollar, two-book deal with publisher Simon & Schuster, making him one of the first alums of former President Donald Trump's inner circle to ink such a lucrative contract. Two people in the publishing ..."
-    publishedDateTime: 2021-04-07T16:51:00Z
-    webUrl: "https://www.cnn.com/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 129
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120162607-mike-pence-joe-biden-inauguration-01202021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Donald Trump's weird post-presidency shouldn't surprise you"
-    excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
-    publishedDateTime: 2021-04-01T15:17:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/01/trump-post-presidency-tmz-video-cillizza-the-point.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401105556-the-point-trump-post-presidency-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Justice Thomas grumbles over Trump's social media ban"
-    excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
-    publishedDateTime: 2021-04-05T14:58:00Z
-    webUrl: "https://www.politico.com/news/2021/04/05/justice-clarence-thomas-trump-twitter-ban-479046"
+  - title: "Biden faces battery trade case test"
+    excerpt: "Weekly Trade is a weekly version of POLITICO Pro’s daily Trade policy newsletter, Morning Trade. POLITICO Pro is a policy intelligen"
+    publishedDateTime: 2021-04-05T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-trade/2021/04/05/biden-faces-battery-trade-case-test-794463"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
-  - title: "Gaetz to be featured speaker at pro-Trump women's group event"
-    excerpt: "Rep. Matt Gaetz, mired in an ongoing federal sex trafficking investigation, is headed to former President Donald Trump’s resort in Doral this Friday where he will be a featured speaker at a summit hosted by a conservative pro-Trump women’s group."
-    publishedDateTime: 2021-04-06T23:09:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2021/04/06/gaetz-to-be-featured-speaker-at-pro-trump-womens-group-event-1371835"
+  - title: "How Biden hopes to fix the thorniest problem in housing"
+    excerpt: "President Joe Biden is proposing a historic infusion of federal money into housing as part of his $2 trillion infrastructure package, but the plan is already running into doubts about whether it’s enough and resistance from the very people he needs to ..."
+    publishedDateTime: 2021-04-11T22:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/10/biden-housing-plan-480676"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/08/cf/26ad306641438fbb703eb5d24a82/210406-matt-gaetz-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Race to face Cuomo kicks off with two Trump allies"
-    excerpt: "Democrats reacted with a shrug to news of Lee Zeldin’s bid — and an eye roll for Andrew Guiliani, who was a White House aide under Trump."
-    publishedDateTime: 2021-04-08T23:35:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/04/08/race-to-face-cuomo-kicks-off-with-two-trump-allies-1372320"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ff/f5/e268b95e4e468ae682fc9aa137da/ap18142588150929-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Gaetz-tied group threatens to sue reporters writing on his Trump relationship"
-    excerpt: "But Elmore’s email took umbrage with reports that the congressman had asked then-President Donald Trump for a pardon and was currently on the outs with the 45th president. “We are seeking an immediate print and on-air statement of retraction."
-    publishedDateTime: 2021-04-09T02:34:00Z
-    webUrl: "https://www.politico.com/news/2021/04/08/gaetz-reporters-trump-480534"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 112
-    images:
-      - url: "https://static.politico.com/dc/df/4ae0060d42db84acd39ceb55a189/210408-matt-gaetz-getty-773.jpg"
+      - url: "https://static.politico.com/94/35/d9b5668842989748d2d49dbd92dc/210409-nyc-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

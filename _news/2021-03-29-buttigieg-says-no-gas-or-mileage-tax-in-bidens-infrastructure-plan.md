@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Republicans mobilize for showdown that will help define the Biden presidency"
-    excerpt: "A defining political clash took shape Sunday over Joe Biden's latest effort to reshape the US economy, with Republicans mobilizing against a massive infrastructure plan that could put the President in historic Democratic company.\n    \n"
-    publishedDateTime: 2021-04-05T10:18:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xWJG-9odnS0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/joe-biden-infrastructure-plan-republicans-democrats/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/joe-biden-infrastructure-plan-republicans-democrats/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331164919-01-biden-infrastructure-0331-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Manchin warns Biden's infrastructure bill is in trouble over corporate tax hikes "
     excerpt: "Sen. Joe Manchin, an influential centrist Democrat, warned Monday that the Biden administration's massive infrastructure package can't pass in its current form because he and a handful of other Senate Democrats believe the corporate tax hikes proposed in the bill -- designed to offset its costs -- are"
     publishedDateTime: 2021-04-05T20:18:07Z

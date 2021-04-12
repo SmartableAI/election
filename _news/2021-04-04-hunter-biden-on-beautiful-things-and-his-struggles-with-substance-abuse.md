@@ -29,22 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "'Hunter Biden Has Nothing to Do With This': Fox News Guest Slams 'Constant' Coverage of President's Son"
-    excerpt: "\"The answer about Joe Biden is not, 'Well Hunter Biden did crack,' or 'Well Hunter disposed of a gun illegally,'\" Jessica Tarlov said."
-    publishedDateTime: 2021-04-11T19:49:00Z
-    webUrl: "https://www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737"
-    ampWebUrl: "https://www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737?amp=1"
+  - title: "Hunter Biden's memoir 'Beautiful Things' out in April"
+    excerpt: "NEW YORK (AP) —"
+    publishedDateTime: 2021-02-04T18:17:00Z
+    webUrl: "https://www.businessinsider.com/hunter-bidens-memoir-beautiful-things-out-in-april-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/hunter-bidens-memoir-beautiful-things-out-in-april-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hunter-bidens-memoir-beautiful-things-out-in-april-2021-2?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 109
-    images:
-      - url: "https://d.newsweek.com/en/full/1775625/fox-news-contributor-jessica-tarlov.png"
-        width: 2804
-        height: 1568
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "dY94JQjCHjqSFp+L+QpnK/E7G+AAwUmRGznAdKQoFUdhp341GDE/YOVcwBI01xJL/28kBDiNjjDQCnoJoMq74g+vuIjG6YS6qUICNq+fGH3zia8eEjfdtR3Jxvr/yfc23V2DGhjcJUF7SCn+zcKv7xOZC5Df2nkRaeswG4oT1GutHBkSQndCXlcm42fJDzXfeIqqzba4fdLajao9TZwI0DqhM0yAAV4zM2lA+r8/JQKuqjJc8uBEIGlqj68TRyvKaqxTpSQr6noPNl9uMAQ1La2O8kBEWLKAKV1eGhEHzdlAEewjEouhGFbOLaBUUfD+ftZHHjaZr2oQqJ8SwuQdnn1jKb7Gwit36LMQpC+sZbM=;CtEI2QH8+WtSvH0EI8yU+w=="
 ---

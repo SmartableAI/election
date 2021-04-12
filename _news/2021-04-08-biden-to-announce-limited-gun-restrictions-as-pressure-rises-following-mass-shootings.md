@@ -31,197 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's planned pick for ATF director a fierce advocate for gun control"
-    excerpt: "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n"
-    publishedDateTime: 2021-04-08T01:30:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's border coordinator stepping down at end of the month"
-    excerpt: "President Joe Biden's border coordinator is stepping down at the end of the month, the White House announced Friday -- an unusual time given the administration is dealing with record numbers of unaccompanied migrant children at the US southern border.\n    \n"
-    publishedDateTime: 2021-04-09T21:31:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgU9Q7t4QJE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The old guard of the judiciary moves on as Biden announces new picks for bench"
-    excerpt: "As President Joe Biden launches a new era of judicial appointments, the old guard of the bench is in its twilight.\n    \n"
-    publishedDateTime: 2021-04-09T11:34:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NJFeWS10vY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402091949-reagan-era-nominees-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
-    excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
-    publishedDateTime: 2021-04-08T17:02:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+  - title: "Biden ramps up vaccine diplomacy efforts as hopes rise that he'll share surplus doses"
+    excerpt: "President Joe Biden, well on his way to reaching a new goal of vaccinating 200 million Americans by the end of April, is taking initial steps toward helping other nations ramp up shots, including by boosting global manufacturing and appointing a top global health expert who previously advocated for shipping"
+    publishedDateTime: 2021-04-06T10:09:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hgN3CfmHSlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/vaccine-diplomacy-joe-biden-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405163758-vaccine-pharmacy-us-louisville-kentucky-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to take first limited steps on gun control, including on 'ghost guns' and pistol braces"
-    excerpt: "President Joe Biden plans to announce new executive actions on guns on Thursday, a person familiar with the plans said, fulfilling a commitment he made in the aftermath of two deadly shootings last month.\n    \n"
-    publishedDateTime: 2021-04-08T01:13:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbuhfS5sVSo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html"
+  - title: "Biden set to announce he's moving deadline for all US adults to be eligible for Covid vaccine to April 19"
+    excerpt: "President Joe Biden plans to announce Tuesday that he is moving up his deadline for states to make all American adults eligible for a coronavirus vaccine by almost two weeks.\n    \n"
+    publishedDateTime: 2021-04-06T11:19:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x9whOQVB82U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162103-01-biden-vaccine-remarks-0406-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404164255-01-joe-biden-0324-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to announce executive actions on gun control, name ATF nominee"
-    excerpt: "WASHINGTON — President Joe Biden is expected to announce a series of executive actions Thursday on gun control and to nominate a prominent gun control advocate to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives, White House officials said."
-    publishedDateTime: 2021-04-07T22:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announce-executive-actions-guns-name-atf-nominee-n1263385"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263385"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263385"
+  - title: "Jill Biden, in California, Lends Support to Farmworkers Seeking Vaccinations"
+    excerpt: "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ..."
+    publishedDateTime: 2021-04-01T00:50:00Z
+    webUrl: "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2019_32/2960651/190805-gun-store-texas-2009-ac-746p_f75a3534f260768c4cd06851439901ce.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden to form commission to study Supreme Court changes"
-    excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
-    publishedDateTime: 2021-04-09T16:55:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-commission-study-overhauling-supreme-court-n1263644"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263644"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263644"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463454/210409-supreme-court-justices-building-file-se-1133a_cf6b5e577800884dae7568bb70dfe9fe.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Down to the wire: Biden's green goals face a power grid reckoning"
-    excerpt: "President Joe Biden's dream of a climate-friendly electric grid hangs on a slender wire: his administration's ability to speed the construction of thousands of miles of power lines. But he’ll have to contend with a major obstacle: Americans who hate ..."
-    publishedDateTime: 2021-04-08T23:55:00Z
-    webUrl: "https://www.politico.com/news/2021/04/08/biden-green-goals-power-grid-480446"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/eb/41/aa0e5fcd4d8686ffb7d6af232522/20201118-power-lines-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden's border coordinator stepping down at end of the month"
-    excerpt: "(CNN)President Joe Biden's border coordinator is stepping down at the end of the month, the White House announced Friday -- an unusual time given the administration is dealing with record numbers of unaccompanied migrant children at the US southern border."
-    publishedDateTime: 2021-04-09T17:11:00Z
-    webUrl: "https://www.cnn.com/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden White House puts its police oversight commission on ice"
-    excerpt: "The White House is putting the creation of a national police oversight commission on hold, nixing a campaign pledge made by President Joe Biden to establish one within his first 100 days. “Based on close, respectful consultation with partners in the ..."
-    publishedDateTime: 2021-04-12T02:36:00Z
-    webUrl: "https://www.politico.com/news/2021/04/11/biden-police-oversight-commission-480931"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/22/6c/e8c7a90a42398e77f1d7b9d4b22c/gettyimages-1230800786-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."
-    excerpt: "Joe Biden’s choice to lead the federal agency that will play a crucial role in his firearms policy is a gun owner and longtime law enforcement official. But David Chipman, whom Biden nominated Thursday as director of the Bureau of Alcohol, Tobacco ..."
-    publishedDateTime: 2021-04-09T00:43:00Z
-    webUrl: "https://www.politico.com/news/2021/04/08/biden-guns-folo-senate-480494"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
-    images:
-      - url: "https://static.politico.com/3e/cc/2008787447bc93440acf4ee1626d/4-8-21-david-chipman-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden targets 'ghost guns' and 'red flag' laws in new gun control measures"
-    excerpt: "WASHINGTON — President Joe Biden is trying to limit \"ghost guns\" and make it easier for people to flag family members who shouldn't be allowed to purchase firearms with a series of executive actions taken Thursday in the wake of recent mass shootings."
-    publishedDateTime: 2021-04-08T17:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-target-ghost-guns-red-flag-laws-new-gun-control-n1263438"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263438"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263438"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463010/210408-joe-biden-se-1040a_293240327619717702ae0fcd649d9d31.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31dc-flotus-promo/31dc-flotus-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "Fv4M5DIczwZ2OaL0m9zWcc6vUdI4Apyserqr7EQlyt/znGlKT2BVub/MAGDwGD0ydS8c5pbX/wqAOq6KGaeXpgkkkBL2ai62Cx1zI5evvQ8ePxvxfwMg/Egi+ct3YcirLwywkmjSLmM7vKSzW6rtQAYUPkN5wypLOUUN1oy+/AqaRRIMg8p0uf+oogY796Uvkue1kPYayuGq+PPog62n4BoesLl9VL2+36TrLp/wF5srA24TZEsZgOurEa3Pt/H9q1SWOjGF1QWcE5cBatNCCiXGKw5gpdUAfHH6Y+oMRprUbD2qaVTPP0pGzh2/bBY2kxpeYcNDSjvyCi/VUJqXoesKPAeommiCoLnr0hVsDeE=;DMLpLXGvCtsl+WOVW04+rA=="

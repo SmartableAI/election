@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Major Biden to get training after two biting incidents"
-    excerpt: "President Joe Biden's German shepherd, Major, will receive training after two biting incidents involving workers at the White House, according to first lady Jill Biden's spokesman.\n    \n"
-    publishedDateTime: 2021-04-12T11:38:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SbhzlpklCrA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/major-biden-training/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/major-biden-training/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330181306-major-biden-dog-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Buttigieg: Biden wants 'real progress' on infrastructure plan by Memorial Day"
     excerpt: "Transportation Secretary Pete Buttigieg on Sunday defended the Biden administration's broad definition of infrastructure in the American Jobs Plan, saying President Joe Biden is still aiming for Republican support for the plan while looking for progress on it by Memorial Day.\n    \n"
     publishedDateTime: 2021-04-11T15:22:49Z
@@ -108,22 +92,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409090427-01-pete-buttigieg-0330-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pressure builds on Biden administration to lift refugee cap after months-long delay"
-    excerpt: "In his first days in office, President Joe Biden proposed expanding the number of refugees who could be admitted to the United States after years of historic lows, but more than two months later that increase remains unsigned despite Biden's pledge, perplexing even officials within his own administration"
-    publishedDateTime: 2021-04-09T20:31:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TJ7r7nP68Ww/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/refugees-us-cap-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/refugees-us-cap-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324163902-refugee-camp-fire-video-thumbnail-lon-orig-na-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
@@ -266,38 +234,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The sneaky radicalism of Joe Biden's first few months in office"
-    excerpt: "(CNN)Joe Biden ran for president on a very simple idea: Government (and the country) works best when people from opposing parties work together. And he cast himself as someone who was uniquely suited to re-stoke the desire for bipartisanship in Congress ..."
-    publishedDateTime: 2021-04-09T16:08:00Z
-    webUrl: "https://www.cnn.com/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408122600-joe-biden-april-8-2021-02-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Dam safety advocates feel forgotten in Biden's $2 trillion infrastructure plan"
-    excerpt: "“It’s one of those ticking time bombs that can really devastate a community,” said a Michigan woman who was rescued from a dam collapse last year. When President Joe Biden last week introduced a sweeping $2 trillion infrastructure plan, the details ..."
-    publishedDateTime: 2021-04-09T08:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/dam-safety-advocates-feel-forgotten-biden-s-2-trillion-infrastructure-n1263470"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263470"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263470"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3462742/210407-sanford-dam-al-1159_07000f5652b91bc448375e74cb695710.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden says he’s willing to compromise on his infrastructure plan, but will not tolerate ‘doing nothing.’"
     excerpt: "like Senator Joe Manchin III of West Virginia, who have suggested they might agree to a corporate tax increase, but one not quite as big as the 28 percent Mr. Biden has proposed. The current rate is 21 percent. Asked if he was willing to compromise on the ..."
     publishedDateTime: 2021-04-07T12:32:00Z
@@ -339,20 +275,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/9f/32/ed70672a45a2a5ae285458df2790/210408-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "How Biden hopes to fix the thorniest problem in housing"
-    excerpt: "President Joe Biden is proposing a historic infusion of federal money into housing as part of his $2 trillion infrastructure package, but the plan is already running into doubts about whether it’s enough and resistance from the very people he needs to ..."
-    publishedDateTime: 2021-04-11T22:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/10/biden-housing-plan-480676"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/94/35/d9b5668842989748d2d49dbd92dc/210409-nyc-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

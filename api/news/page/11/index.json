@@ -2,6 +2,114 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-30-dnc-chair-jaime-harrison-who-lost-to-graham-in-november-calls-out-senator-over-guns.md",
+      "title": "DNC chair Jaime Harrison-- who lost to Graham in November-- calls out senator over guns",
+      "excerpt": "Democratic National Committee (DNC) chair Jaime Harrison on Monday said Lindsey Graham was \"embarrassing\" both himself and South Carolina after the senator revealed he would use his AR-15 to defend his home if needed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pMg9SLnuIe8/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pMg9SLnuIe8/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Graham-Harrison-Split.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
+      "publishedDateTime": "2021-03-30T02:29:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-trump-will-be-back-in-office-mypillow-ceo-reveals-plan-for-white-house-return.md",
+      "title": "Trump 'Will Be Back In Office': MyPillow CEO Reveals Plan For White House Return",
+      "excerpt": "Donald Trump will be president again by August, according to a projection made by MyPillow CEO Mike Lindell. The MAGA-supporting pillow maker was on former Trump adviser Steve Bannon’s “War Room: Pandemic” podcast when he made the eyebrow-raising prediction “Donald Trump will be back in office in August,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390",
+      "originalUrl": "https://www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg",
+          "width": 1024,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390?amp=1",
+      "publishedDateTime": "2021-03-29T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-trump-launches-45-office-website-amid-speculation-about-his-future.md",
       "title": "Trump launches '45 Office' website amid speculation about his future",
       "excerpt": "Former President Donald Trump and former First Lady Melania Trump launched a website Monday in what his office described as a bid to stay in touch with supporters and coordinate future appearances.",
@@ -334,7 +442,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 475,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1253,119 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-frustrated-trump-demands-to-know-if-special-counsel-durham-is-still-living.md",
-      "title": "Frustrated Trump demands to know if Special Counsel Durham is still 'living'",
-      "excerpt": "Former President Donald Trump called Friday for an update on the status of Special Counsel John Durham’s probe into the origins of the FBI’s “Crossfire Hurricane” investigation of his administration’s alleged ties to Russia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WWaKh709Bbw/trump-demands-update-durham-probe-fbi-russia-investigation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WWaKh709Bbw/trump-demands-update-durham-probe-fbi-russia-investigation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39dd222a-d322-45e7-bd09-6009a95f1639/848f8402-eccc-440b-a27c-f69be2babefe/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-demands-update-durham-probe-fbi-russia-investigation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-demands-update-durham-probe-fbi-russia-investigation.amp",
-      "publishedDateTime": "2021-03-26T17:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-harris-acknowledges-major-new-social-welfare-spending-as-part-of-19t-covid-relief-bill-was-intentional.md",
-      "title": "Harris acknowledges major new social welfare spending as part of $1.9T COVID relief bill was ‘intentional’",
-      "excerpt": "Vice President Kamala Harris on Friday acknowledged that part of the purpose of the Democrats’ $1.9 trillion American Rescue Plan, which did not receive any Republican support, was to pass social policies to address problems like child care.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJt4e3SphUA/harris-major-child-care-program-covid-relief-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJt4e3SphUA/harris-major-child-care-program-covid-relief-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e7912ca-8569-4f8f-abec-17e93dbba260/8d52141f-954a-4cff-9341-12ab9f67fa27/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-major-child-care-program-covid-relief-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-major-child-care-program-covid-relief-bill.amp",
-      "publishedDateTime": "2021-03-26T16:52:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

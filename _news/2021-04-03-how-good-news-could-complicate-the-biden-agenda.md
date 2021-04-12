@@ -574,22 +574,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "2 Dem senators balk at Biden's new spending plan"
-    excerpt: "Joe Manchin wants his party's leaders and President Joe Biden to make significant changes to their sweeping new tax-and-spend legislation — and he’s got other Democratic senators with him. The West Virginia Democrat is readying for his second act after ..."
-    publishedDateTime: 2021-04-05T19:12:00Z
-    webUrl: "https://www.politico.com/news/2021/04/05/manchin-biden-spending-plan-479058"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/cd/cd/349d988a409cb1f5786a36238521/ap21070753566064.jpg"
-        width: 4500
-        height: 2998
-        isCached: true
   - title: "Two Dem senators balk at Biden's new spending plan"
     excerpt: "Joe Manchin wants his party's leaders and President Joe Biden to make significant changes to their sweeping new tax-and-spend legislation — and he’s got other Democratic senators with him. The West Virginia Democrat is readying for his second act after ..."
     publishedDateTime: 2021-04-05T19:12:00Z
@@ -755,20 +739,6 @@ related:
       - url: "https://static.politico.com/59/2d/73b906af40bdb04bdd85ebf816af/ap21050552112172.JPG"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Biden faces battery trade case test"
-    excerpt: "Weekly Trade is a weekly version of POLITICO Pro’s daily Trade policy newsletter, Morning Trade. POLITICO Pro is a policy intelligen"
-    publishedDateTime: 2021-04-05T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/weekly-trade/2021/04/05/biden-faces-battery-trade-case-test-794463"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
   - title: "Biden slated to give more vaccine updates today"
     excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to give more updates on coronavirus vaccine supplies and will visit a Virginia vaccination site. — The prospect of another filibuster-proof stimulus bill could embolden Democrats as they ..."

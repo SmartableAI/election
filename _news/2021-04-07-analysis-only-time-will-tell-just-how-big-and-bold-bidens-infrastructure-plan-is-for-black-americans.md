@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Corporate America tears down Biden's infrastructure plan"
-    excerpt: "Executives at some of America’s largest companies complain much more bitterly in private about the White House approach."
-    publishedDateTime: 2021-04-07T01:02:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/1a/fb/11a78bf1427c8995db7e85fdb24b/4-6-21-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "2ElstMYbQucx0y447lyH+u+OEoNMxRqvvcCwEvybGWhpoLLoKNylDysHevj+hkru/xwbA9WzgXNeAh/0KOlmu4HsMSBZewLSI/Y5XB077kkSVRa/sdOXzNU+4ZQjEUjzvmq+w/Yx9NUCDfGmz5rcj82dvqQB+O21ldOMg0FnxCAGlYxq7xDa985o7+QlemXCde8vZqr7BvS33XKoDIuH80umQUMYs+7APNGX/KWRMSah+0bW//xOueU5ZzxnvAR9P0PYxaSr2/LIbZRtyns4bSzm+MQ3OqiHJrXT91mnM0k6fs2taYjC40iK3BEnTuWbEJdDLTmTaRUhzA9GY8rjiq8V9sr7fd8d9BuRkr7k3Qw=;KmMVP9oySM+GNdRol55cyw=="
 ---

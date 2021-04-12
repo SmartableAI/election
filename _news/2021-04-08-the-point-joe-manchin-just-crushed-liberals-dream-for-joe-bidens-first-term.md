@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration has yet to name point person for $178 billion Provider Relief Fund"
-    excerpt: "The Biden administration has yet to name a point person for the $178 billion Provider Relief Fund, according to a senior administration official.\n    \n"
-    publishedDateTime: 2021-04-06T23:35:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-xfF4CosuQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162835-02-biden-vaccine-remarks-0406-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Manchin warns against overuse of budget tool Democrats hope to use to pass Biden's agenda"
     excerpt: "Democratic Sen. Joe Manchin made his opposition to frequent use of the budget reconciliation process clear Wednesday evening in a Washington Post op-ed, sending a warning to Democrats who hope to use it to pass President Joe Biden's legislative priorities.\n    \n"
     publishedDateTime: 2021-04-08T04:01:17Z
@@ -145,7 +129,7 @@ related:
         isCached: true
   - title: "Biden administration stands down on policing commission, focuses on legislative route instead"
     excerpt: "The Biden administration is standing down on a campaign promise to create a White House-led commission and instead moving forward with its efforts toward passing police reform through legislative channels.\n    \n"
-    publishedDateTime: 2021-04-12T14:12:12Z
+    publishedDateTime: 2021-04-12T18:18:20Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WST906Khm2I/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
@@ -158,6 +142,54 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden to announce executive actions on gun control, name ATF nominee"
+    excerpt: "WASHINGTON — President Joe Biden is expected to announce a series of executive actions Thursday on gun control and to nominate a prominent gun control advocate to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives, White House officials said."
+    publishedDateTime: 2021-04-07T22:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announce-executive-actions-guns-name-atf-nominee-n1263385"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263385"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263385"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2019_32/2960651/190805-gun-store-texas-2009-ac-746p_f75a3534f260768c4cd06851439901ce.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden to form commission to study Supreme Court changes"
+    excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-commission-study-overhauling-supreme-court-n1263644"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263644"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263644"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463454/210409-supreme-court-justices-building-file-se-1133a_cf6b5e577800884dae7568bb70dfe9fe.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Down to the wire: Biden's green goals face a power grid reckoning"
+    excerpt: "President Joe Biden's dream of a climate-friendly electric grid hangs on a slender wire: his administration's ability to speed the construction of thousands of miles of power lines. But he’ll have to contend with a major obstacle: Americans who hate ..."
+    publishedDateTime: 2021-04-08T23:55:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/biden-green-goals-power-grid-480446"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/eb/41/aa0e5fcd4d8686ffb7d6af232522/20201118-power-lines-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden taps Tucson police chief to lead CBP"
     excerpt: "President Joe Biden on Monday announced his intent to nominate Chris Magnus as commissioner of U.S. Customs and Border Protection — tapping a police chief from Tucson, Ariz., to oversee the mammoth Department of Homeland Security agency tasked with ..."
@@ -172,6 +204,54 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/0c/a0/394b0ea94476bb655b251ab0d45c/chris-magnus-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden White House puts its police oversight commission on ice"
+    excerpt: "The White House is putting the creation of a national police oversight commission on hold, nixing a campaign pledge made by President Joe Biden to establish one within his first 100 days. “Based on close, respectful consultation with partners in the ..."
+    publishedDateTime: 2021-04-12T02:36:00Z
+    webUrl: "https://www.politico.com/news/2021/04/11/biden-police-oversight-commission-480931"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/22/6c/e8c7a90a42398e77f1d7b9d4b22c/gettyimages-1230800786-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The Biden White House media doctrine: Less can be more"
+    excerpt: "Three months in, Joe Biden’s White House has settled on a firm press strategy: First, do no self-harm. The president is not doing cable news interviews. Tweets from his account are limited and, when they come, unimaginably conventional. The public ..."
+    publishedDateTime: 2021-04-12T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/biden-white-house-press-strategy-480930"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/biden-white-house-press-strategy-480930"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/biden-white-house-press-strategy-480930"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fe/a1/543f87804c9b96e555228ae53c5a/gettyimages-1311496365-1.jpg"
+        width: 1159
+        height: 773
+        isCached: true
+  - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."
+    excerpt: "Joe Biden’s choice to lead the federal agency that will play a crucial role in his firearms policy is a gun owner and longtime law enforcement official. But David Chipman, whom Biden nominated Thursday as director of the Bureau of Alcohol, Tobacco ..."
+    publishedDateTime: 2021-04-09T00:43:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/biden-guns-folo-senate-480494"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/3e/cc/2008787447bc93440acf4ee1626d/4-8-21-david-chipman-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

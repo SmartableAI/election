@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden 'absolutely' willing to negotiate with Republicans on spending bill, Psaki says"
+    excerpt: "President Biden's claim of wanting bipartisan collaboration on major legislation is not just for show, White House press secretary Jen Psaki said Monday, insisting that he is willing to work with Republicans on his massive spending bill."
+    publishedDateTime: 2021-04-12T18:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GB2lzhgCP9s/biden-absolutely-willing-negotiate-republicans-spending-bill-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-absolutely-willing-negotiate-republicans-spending-bill-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-absolutely-willing-negotiate-republicans-spending-bill-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republicans slam Biden plan to send cash payments to Central America: 'This is madness'"
     excerpt: "Republicans are reacting with anger and disbelief to a proposal by the Biden administration to send cash payments to Central America as a way to combat the migrant crisis -- describing the plan as “madness.”"
     publishedDateTime: 2021-04-10T21:09:14Z

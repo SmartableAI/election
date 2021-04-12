@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-cov
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331165419-03-biden-infrastructure-0331-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Corporate America tears down Biden's infrastructure plan"
-    excerpt: "Executives at some of America’s largest companies complain much more bitterly in private about the White House approach."
-    publishedDateTime: 2021-04-07T01:02:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/1a/fb/11a78bf1427c8995db7e85fdb24b/4-6-21-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "NicDH4aIWQ7uRB6Q+bXCQYbkPQ6KASl81gs+fWQsI7VgDNAlTXvS3LqeilqAzvm/UVrPxOu23bdOX3qQ1Rxw37jaTHcEHeJkKtEPvX+ODU+QNRiGpTgEFxF8HIQ5+1vETVZJSbdU+MuumFLdE1/D6bWCanF08LyRYHVgEOuS4ZJ8vUc/6BJrHaKIM+ae7uCmdJZGXa9mS3kmk9zJTR/F/a245DRypeg6Iv61CTwBqW0DSjfcMuC9UvoQrumAWfQCyMF1Aewm2xXTEwC6XP5dDw0vwhqGHYqbme/FAC6psEvGMpmcw2iE0dVca+D7rCRJTPq+nV+xrp3TIQJ0Dzv2CmWb5k9UFQyW75MzmCTW46I=;5D7O6g9T2kp5YsfNP5YHNA=="

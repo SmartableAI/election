@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
+    excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-04-08T17:02:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden admin secures agreements with Mexico, Honduras and Guatemala to secure borders, official says"
     excerpt: "The Biden administration has secured agreements for Mexico, Honduras, and Guatemala to tighten their borders and stem the flow of migration, Special Assistant to the President for Immigration for the Domestic Policy Council Tyler Moran told MSNBC Monday.\n    \n"
     publishedDateTime: 2021-04-12T13:38:32Z

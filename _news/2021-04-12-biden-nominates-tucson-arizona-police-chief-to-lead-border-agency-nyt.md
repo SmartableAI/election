@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ1L6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ1L6"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 795
     height: 545
     isCached: true
+
+related:
+  - title: "Biden nominates California workplace safety chief to head OSHA"
+    excerpt: "President Joe Biden has tapped Doug Parker, the director of California’s workplace safety agency, to lead the Occupational Safety and Health Administration (OSHA) as it is expected to pivot to more aggressive enforcement amid the COVID-19 pandemic."
+    publishedDateTime: 2021-04-12T17:46:00Z
+    webUrl: "https://www.reuters.com/article/employment-osha-idUSL1N2M529W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M529W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M529W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "J7+NitK0D6QLLPiLOUP2li35FkdBsF8YstZvXeK7eh8sAFBz9293hZstf2IlgzE5Huaf1VJRgi3DiENGhD2lUMBQS+V5dfV2wZSDyNWwoi+u9n9fimx6mwMelhzLo8Dm1ouBrfBduirjij67Tzj1HuK+xv6k0HUElGj/a3505H4AB4mNxAMUQypFfHbtoH0YdtYeUe9TTEhQohJwJ6RQbYliggOd2Yv8hlQiwrajNxUlapG5ZxVPguNCyI10HBNF9MlJ5beE5VJv7rFUMi24Rc7gJny3S6P5IgS77qXmIDB3v1LGmcDRPO9aaVaEDfiKCf0iFUYn7aI/wk3OzFJvOJuU8FsymhzkZIKm8Q0tnPY=;NMnRqVt2P3+k/NCERxf7KQ=="
 ---

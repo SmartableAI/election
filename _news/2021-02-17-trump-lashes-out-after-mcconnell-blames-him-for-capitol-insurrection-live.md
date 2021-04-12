@@ -207,6 +207,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Gingrich on Trump-McConnell feud: GOP 'better off' focusing on Democrats"
+    excerpt: "Former House Speaker Newt Gingrich Newton (Newt) Leroy Gingrich MORE dismissed a recent war of words between former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal ..."
+    publishedDateTime: 2021-04-12T18:08:00Z
+    webUrl: "https://thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats"
+    ampWebUrl: "https://thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/gingrich_trump_mcconnell041221.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
     excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
     publishedDateTime: 2021-04-10T14:15:00Z
@@ -302,6 +318,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1775605/asa-hutchinson.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Senate Republicans gave a brand new award to Trump the same weekend he called Mitch McConnell a 'dumb son of a b----h'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Senate Republicans' campaign arm announced on Monday that it had presented former President Donald Trump with a new award over the weekend. Trump spent part of the same weekend attacking the top Republican in ..."
+    publishedDateTime: 2021-04-12T16:58:00Z
+    webUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/60746bd23e3fe7001882a1d6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."

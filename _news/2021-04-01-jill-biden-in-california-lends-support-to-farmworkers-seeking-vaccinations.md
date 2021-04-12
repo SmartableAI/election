@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
+    excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
+    publishedDateTime: 2021-04-08T14:47:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yutP2X6Bk9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to announce he's moving deadline for all US adults to be eligible for Covid vaccine to April 19"
     excerpt: "President Joe Biden plans to announce Tuesday that he is moving up his deadline for states to make all American adults eligible for a coronavirus vaccine by almost two weeks.\n    \n"
     publishedDateTime: 2021-04-06T11:19:16Z
