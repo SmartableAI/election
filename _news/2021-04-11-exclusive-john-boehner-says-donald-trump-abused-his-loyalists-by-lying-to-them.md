@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Boehner: Trump 'stepped all over their loyalty' by lying to followers"
+    excerpt: "ADVERTISEMENT \"What struck me, especially after the election, was, here's all these people loyal to Donald Trump, and he abused them,\" Boehner added. \"He stepped all over their loyalty to him by ..."
+    publishedDateTime: 2021-04-11T23:24:00Z
+    webUrl: "https://thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers"
+    ampWebUrl: "https://thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/boehner_trump040721.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
     publishedDateTime: 2021-04-07T14:18:00Z

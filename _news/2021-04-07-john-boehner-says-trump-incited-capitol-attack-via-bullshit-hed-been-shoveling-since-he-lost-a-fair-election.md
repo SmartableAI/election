@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Boehner: Trump 'stepped all over their loyalty' by lying to followers"
+    excerpt: "ADVERTISEMENT \"What struck me, especially after the election, was, here's all these people loyal to Donald Trump, and he abused them,\" Boehner added. \"He stepped all over their loyalty to him by ..."
+    publishedDateTime: 2021-04-11T23:24:00Z
+    webUrl: "https://thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers"
+    ampWebUrl: "https://thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/boehner_trump040721.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Exclusive: John Boehner says Donald Trump 'abused' his loyalists by lying to them"
     excerpt: "And the election of the even more disruptive Donald Trump as president. Boehner's new book, being published Tuesday by St. Martin's Press, is titled \"On the House: A Washington Memoir.\" But it is unlike the classic Washington memoir, those soft-focus ..."
     publishedDateTime: 2021-04-11T14:40:00Z

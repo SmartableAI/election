@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-09-mcconnells-home-state-bridge-symbol-of-infrastructure-standoff-with-biden.md",
+      "title": "McConnell's home state bridge symbol of infrastructure standoff with Biden",
+      "excerpt": "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "originalUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/brent-spence-bridge-file-gty-jef-210407_1617823616171_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "publishedDateTime": "2021-04-08T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-biden-falsely-claims-gun-manufacturers-cant-be-sued.md",
       "title": "Biden falsely claims gun manufacturers 'can't be sued'",
       "excerpt": "President Biden on Thursday falsely claimed that gun manufacturers \"can't be sued.\"",
@@ -146,58 +198,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-of-transgender-bill-bye-bye.md",
-      "title": "Donald Trump Attacks GOP Arkansas Governor Asa Hutchinson Over Veto of Transgender Bill: 'Bye-Bye!'",
-      "excerpt": "Former President Donald Trump continues to ramp up his feud with Arkansas Governor Asa Hutchinson, attacking the Republican state leader Thursday over his veto of a bill that targeted people who are transgender. \"Asa Hutchinson, the lightweight RINO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142",
-      "originalUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1773955/trump-asa.jpg",
-          "width": 3489,
-          "height": 2613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-attacks-gop-arkansas-governor-asa-hutchinson-over-veto-transgender-bill-bye-bye-1582142?amp=1",
-      "publishedDateTime": "2021-04-08T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

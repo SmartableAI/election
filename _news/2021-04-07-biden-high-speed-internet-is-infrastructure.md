@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrast
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -291,6 +291,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/9f/32/ed70672a45a2a5ae285458df2790/210408-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "How Biden hopes to fix the thorniest problem in housing"
+    excerpt: "President Joe Biden is proposing a historic infusion of federal money into housing as part of his $2 trillion infrastructure package, but the plan is already running into doubts about whether it’s enough and resistance from the very people he needs to ..."
+    publishedDateTime: 2021-04-11T22:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/10/biden-housing-plan-480676"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/94/35/d9b5668842989748d2d49dbd92dc/210409-nyc-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

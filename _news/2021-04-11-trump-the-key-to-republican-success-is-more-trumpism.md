@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Trump : The key to Republican success is more Trumpism"
-excerpt: "Former President Donald Trump has used a closed-door speech at his resort in Palm Beach, Florida, to reinforce his commitment to the Republican Party PALM BEACH, Fla. -- Staking his claim to the ..."
-publishedDateTime: 2021-04-11T11:54:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+title: "Trump: The key to Republican success is more Trumpism"
+excerpt: "PALM BEACH, Fla. (AP) — Former President Donald Trump staked his claim to the Republican Party in a closed-door speech to donors Saturday night, casting his populist policies and attack-dog politics as the key to future Republican success. Trump also ..."
+publishedDateTime: 2021-04-11T16:47:00Z
+originalUrl: "https://www.chron.com/news/article/Trump-in-2024-He-says-only-that-a-Republican-16091757.php"
+webUrl: "https://www.chron.com/news/article/Trump-in-2024-He-says-only-that-a-Republican-16091757.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-in-2024-He-says-only-that-a-Republican-16091757.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-in-2024-He-says-only-that-a-Republican-16091757.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_b6d49faf981243478c6e3448b9a3e707_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -1320,6 +1316,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "EjWUJRdXQ/AxRcOz6imJ0XZZY18i9pQVcMC5CTWccqKP/895HEzugx1ZMU3VWL7RJ5tRyEVoZ33U+j0fGARyovkBcnDH96HWow3+0ESQS9Oex+WGrLkrGpa/dEKAsg38QVgNILk0/G5yu4byWwQoFoZFZksRmlTgTU4zki55LVIhS+y/DjZG3SHq6rnrIczdSjjfWaC3BXtFywsZQBlxxSA68FJW87OAfPjqWvz7DJQzVgGk4iIrRz5jQ8KlywZf0XsNH1HsksO1rAUjFKKNduNURbqrC2yjclN8gu18gwBLAWurZ7R2eypGopBrNr33VBMAiNpWGtHisS67ZdufFjaYfTdcXEGZaJDmtf2ZbrAvkZyczZjSZyAqBpBHxm9fXpjcb7o4ZzsOPeJERR5qLp23C+VfJPhZLp0HhZW12xrVUc4WOmNo2PUbx2CSGKimwZL/Q+8gkunkY61W29QJJm6uhiNXwp/TEdlrcBk0Y3qTyw2YVaiRntJuOCfdaS9cmPl7XfGQHANjrEeZv8aBVQ==;ICm836NbiPPt/9lgfJJtrw=="
+secured: "WDZ09RWAbgmAtvFevSWWqG7IAa39SfkhfIZXhFrZ2prxRHvXv/Pp/4pHJ2ULIcTLAjdxLsFSIE7npuyZ682TIS4WiSu0qCeCL20olbI6dazQw2+wpV6JH+Q3VdCB2eWdyXshpNIhvE9d9f8oEKf/x1CdeurqXx0qFtHpeygDu0emagrvlo/fb1CW84azfYj6tpL+hkf3M1hnQQWBbJ0JExXI7DvzteCarSs/OodD+60Z0zl7AK02TqzmCqJSsp9vvoe5thXmHA2tTk0d3G3OPvGhZ5FIBAJnpM9/HlUXNfAHb10+LkN5oCiNae8x2f8WRPYd4FRB4wZI9qkrInF+X866pPCBvBpXGweNTh1wz+8=;w/KytqsC43Io0qzp5BY/XA=="
 ---
 

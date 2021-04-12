@@ -309,6 +309,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How Biden hopes to fix the thorniest problem in housing"
+    excerpt: "President Joe Biden is proposing a historic infusion of federal money into housing as part of his $2 trillion infrastructure package, but the plan is already running into doubts about whether it’s enough and resistance from the very people he needs to ..."
+    publishedDateTime: 2021-04-11T22:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/10/biden-housing-plan-480676"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/94/35/d9b5668842989748d2d49dbd92dc/210409-nyc-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "gCQMlAU0L4O9yK4aNWX7wcUwj4B2qDvN1vR5F1mFP6VS/6hd15OGM8w4nV+3PcLRQxyiGtaA8ARZNjZJJ9llAodUn94PtUNvlDrTf8HPI2hYxPZCmWl5/YkPiM1EXzInjZ1HF4iMPdj6+zu+p0gS/gWcN8HwMygCrJwUeeEUFusdxpWsNAh0itu3cQExRGYKrLasqsfuxnADuhwd154eYTQKIbkAlfHj9IImqeHpMm3SsXNomFUFMc3GNp+1/G1ugHhhhhmD9BiEYZnApA86gU2LuY0/eCKo7i/2IXXBAJvS83wXdpzDUdWLeAOILoTXZTXL8O60hl37SMYiXcr8oerSbyX9ua4NFvPiu4+8HIo=;TPDeGKR/Yr2YFgflDycCMw=="
 ---

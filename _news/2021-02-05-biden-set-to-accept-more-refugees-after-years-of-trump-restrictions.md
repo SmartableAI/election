@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2140
+heat: 2160
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0c62bd0c2e1cf5df8c5a11d9dcba4bb0f73cf035/0_0_4325_2594/master/4325.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b7b5bc628e54a9b51e5d464c0473d97d"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden set to accept fewest refugees of any modern president, including Trump, report says"
+    excerpt: "Since his days on the campaign trail, President Biden has tried to cast himself as diametrically opposed to former president Donald Trump when it comes to welcoming refugees into the United States. Within two weeks of taking office, Biden signed an ..."
+    publishedDateTime: 2021-04-11T22:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3BRZFU3BYI6XAAFX76DUOPW2M.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Trump's DHS Head Chad Wolf Thinks Biden Is Under Pressure to Finish Sections of Border Wall"
     excerpt: "In a photo taken on March 28 ranch owner Tony Sandoval (67) stands before a portion of the unfinished border wall that former president Donald Trump tried to build, near the southern Texas border city of Roma. Ed Jones/AFP/Getty Images Newsweek reached out ..."

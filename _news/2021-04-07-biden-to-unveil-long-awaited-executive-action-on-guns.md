@@ -295,6 +295,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How Biden hopes to fix the thorniest problem in housing"
+    excerpt: "President Joe Biden is proposing a historic infusion of federal money into housing as part of his $2 trillion infrastructure package, but the plan is already running into doubts about whether it’s enough and resistance from the very people he needs to ..."
+    publishedDateTime: 2021-04-11T22:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/10/biden-housing-plan-480676"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/94/35/d9b5668842989748d2d49dbd92dc/210409-nyc-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "'Moment of trial balloons': Democrats debate what to cut from Biden bill"
     excerpt: "President Joe Biden says he views his $2 trillion-plus infrastructure plan as simply a starting point for negotiations with Congress, a draft document of ideals where “compromise is inevitable.” But even as the White House maintains it is looking for ..."
     publishedDateTime: 2021-04-11T11:05:00Z
