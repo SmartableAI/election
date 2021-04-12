@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW25C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW25C"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden nominee Wormuth would be first woman to lead Army"
+    excerpt: "President Joe Biden plans to nominate Christine Wormuth, a former senior Pentagon official, to be the first woman to lead the Army, the White House said Monday."
+    publishedDateTime: 2021-04-12T20:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-nominee-wormuth-would-be-first-woman-to-lead-army-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-nominee-wormuth-would-be-first-woman-to-lead-army-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-nominee-wormuth-would-be-first-woman-to-lead-army-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden administration budget request includes nearly $25 billion for NASA"
     excerpt: "President Joe Biden submitted on Friday a $1.5 trillion budget request that includes $24.7 billion for NASA for 2022.The ask is part of the"
     publishedDateTime: 2021-04-12T17:58:00Z

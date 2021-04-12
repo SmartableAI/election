@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-subpoenaing-the-brookings-institution-durham-focuses-on-trump-russia-dossier.md",
+      "title": "Subpoenaing the Brookings Institution, Durham Focuses on Trump-Russia Dossier",
+      "excerpt": "Greg Kahn for The New York Times By Charlie Savage and Adam Goldman WASHINGTON — Exiled from Twitter, former President Donald J. Trump issued a sarcastic statement recently inquiring about the ongoing public silence from John H. Durham, the special ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/12/us/politics/12dc-durham1/12dc-durham1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.amp.html",
+      "publishedDateTime": "2021-04-12T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-hawley-raised-3-million-in-2021s-first-quarter-after-objecting-to-electoral-votes-biden-won.md",
+      "title": "Hawley raised $3 million in 2021's first quarter after objecting to electoral votes Biden won",
+      "excerpt": "Missouri Sen. Josh Hawley raised $3 million in the first quarter of 2021, a person familiar with his fundraising said -- a total that showcases how the Republican base is rewarding loyalty to former President Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcrLNE8UC8s/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcrLNE8UC8s/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210228161942-hawley-cpac-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html",
+      "publishedDateTime": "2021-04-12T13:14:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-biden-calls-for-peace-and-calm-in-the-wake-of-daunte-wrights-fatal-encounter-with-police-in-minnesota.md",
       "title": "Biden calls for 'peace and calm' in the wake of Daunte Wright's fatal encounter with police in Minnesota",
       "excerpt": "President Joe Biden on Monday called for \"peace and calm\" in the wake of Daunte Wright's fatal encounter with police in Minnesota, saying his death does not justify violence or looting.\n    \n",
@@ -14,7 +127,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 158,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -521,7 +634,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 515,
+      "heat": 535,
       "tags": null,
       "images": [
         {
@@ -1026,7 +1139,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 515,
+      "heat": 535,
       "tags": null,
       "images": [
         {
@@ -1465,62 +1578,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-05-hawley-a-critic-of-biden-picks-support-for-wars-in-middle-east-previously-blogged-in-support-of-iraq-war.md",
-      "title": "Hawley, a critic of Biden picks' support for wars in Middle East, previously blogged in support of Iraq War",
-      "excerpt": "Republican Sen. Josh Hawley of Missouri, a frequent critic of Biden administration nominees for supporting the Iraq War and other \"forever wars,\" himself wrote in support of the Iraq War prior to becoming a senator in newly uncovered blog posts.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6BR3d3L6XXY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6BR3d3L6XXY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/05/politics/kfile-josh-hawley-supported-iraq-war/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/kfile-josh-hawley-supported-iraq-war/index.html",
-      "publishedDateTime": "2021-04-05T15:04:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-05-the-45th-why-trump-is-abandoning-his-iconic-brand-for-a-number.md",
       "title": "'The 45th': Why Trump is abandoning his iconic brand for a number",
       "excerpt": "WASHINGTON — Donald Trump spent a lifetime putting his name on steaks to skyscrapers to stimulus checks, but now, the former president appears to be replacing the gold-plated surname with a number: 45. Last week, the 45th president launched his new ...",
@@ -1631,62 +1688,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-the-bidens-encourage-americans-to-get-vaccinated-in-easter-message.md",
-      "title": "The Bidens encourage Americans to get vaccinated in Easter message",
-      "excerpt": "President Joe Biden and first lady Jill Biden shared well-wishes with Americans celebrating Easter on Sunday and encouraged them to get Covid-19 vaccinations as a moral obligation.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404113530-biden-easter-video-210404-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
-      "publishedDateTime": "2021-04-04T10:53:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

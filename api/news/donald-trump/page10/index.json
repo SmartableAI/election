@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-10-trial-highlights-history-lessons-trump-tweets-and-more.md",
+      "title": "Trial highlights: history lessons, Trump tweets and more",
+      "excerpt": "Donald Trump will stand trial for impeachment after the Senate rejected arguments from the former president’s lawyers that the chamber cannot move forward because he is no longer in office",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_bb4aff58ec284468b4b027215e10659d_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773",
+      "publishedDateTime": "2021-02-09T16:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-as-israel.md",
       "title": "Blinken stops short of endorsing Trump recognition of Golan Heights as Israel",
       "excerpt": "U.S. Secretary of State Antony Blinken on Monday stopped short of endorsing the Trump administration's recognition of the occupied Golan Heights as part of Israel, instead noting that the territory was important for Israel's security.",
@@ -1520,63 +1572,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-doj-asks-supreme-court-to-cancel-arguments-over-trump-border-wall-and-remain-in-mexico-policy.md",
-      "title": "DOJ asks Supreme Court to cancel arguments over Trump border wall and 'remain in Mexico' policy",
-      "excerpt": "The Justice Department asked the Supreme Court Monday to cancel courtroom arguments scheduled for later this month over two aspects of Donald Trump's immigration policy, a reflection of the new administration's reversal on both issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/white-house/doj-asks-supreme-court-cancel-arguments-over-trump-border-wall-n1256463",
-      "originalUrl": "https://www.nbcnews.com/politics/white-house/doj-asks-supreme-court-cancel-arguments-over-trump-border-wall-n1256463",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3446938/210202-trump-wall-jm-1027_7f984ea11556f96bb8fb324294448b65.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256463",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256463",
-      "publishedDateTime": "2021-02-02T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

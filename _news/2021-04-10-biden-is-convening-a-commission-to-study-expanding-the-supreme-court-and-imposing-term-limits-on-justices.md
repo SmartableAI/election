@@ -127,6 +127,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden to nominate first female Army secretary"
+    excerpt: "President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with bipartisan lawmakers about infrastructure Jill ..."
+    publishedDateTime: 2021-04-12T20:54:00Z
+    webUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary"
+    ampWebUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/wormuthchristine_03032015getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "A warning to Biden: The number of federal government breakdowns has been accelerating, and there are bound to be more on his watch"
     excerpt: "Research by New York University professor Paul Light found an increasing number of government failures in recent years, driven by “decades of neglect.”"
     publishedDateTime: 2021-04-01T10:04:00Z

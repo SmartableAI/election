@@ -224,6 +224,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden touts relationship with Harris as she takes heat in border czar role"
+    excerpt: "President Biden elevated his relationship with embattled border czar Vice President Kamala Harris in a Twitter post on Monday, saying she is “the last voice in the room.” ​”​When"
+    publishedDateTime: 2021-04-12T20:28:00Z
+    webUrl: "https://nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/"
+    ampWebUrl: "https://nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/biden-harris-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Black Women Ready to Virtually Cheer On Kamala Harris’s Inauguration"
     excerpt: "President-elect Joe Biden and Ms. Harris will be sworn into office during a scaled-back inauguration in a heavily fortified Washington."
     publishedDateTime: 2021-01-17T14:00:00Z

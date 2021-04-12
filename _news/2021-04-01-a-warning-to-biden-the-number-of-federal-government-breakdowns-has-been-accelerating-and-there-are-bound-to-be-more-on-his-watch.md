@@ -127,6 +127,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden to nominate first female Army secretary"
+    excerpt: "President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with bipartisan lawmakers about infrastructure Jill ..."
+    publishedDateTime: 2021-04-12T20:54:00Z
+    webUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary"
+    ampWebUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/wormuthchristine_03032015getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden is convening a commission to study expanding the Supreme Court and imposing term limits on justices"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% WASHINGTON (AP) — President Joe Biden on Friday ordered a study of adding seats to the Supreme Court, creating a bipartisan commission that will spend the next six months examining the politically incendiary ..."
     publishedDateTime: 2021-04-09T18:36:00Z

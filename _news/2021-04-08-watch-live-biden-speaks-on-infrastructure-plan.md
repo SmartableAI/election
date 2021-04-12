@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to nominate first woman secretary of the Army"
+    excerpt: "President Joe Biden has picked Christine Wormuth to be the next secretary of the Army, the White House announced Monday, making her the first woman to hold the position if confirmed by the Senate.\n    \n"
+    publishedDateTime: 2021-04-12T21:54:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nS6ktSR9hPc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/christine-wormuth-first-woman-army-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/christine-wormuth-first-woman-army-secretary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412165729-christine-wormuth-file-2015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Buttigieg: Biden wants 'real progress' on infrastructure plan by Memorial Day"
     excerpt: "Transportation Secretary Pete Buttigieg on Sunday defended the Biden administration's broad definition of infrastructure in the American Jobs Plan, saying President Joe Biden is still aiming for Republican support for the plan while looking for progress on it by Memorial Day.\n    \n"
     publishedDateTime: 2021-04-11T15:22:49Z

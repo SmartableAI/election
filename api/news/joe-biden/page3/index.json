@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-24-biden-says-we-have-to-act-after-colorado-mass-shooting.md",
+      "title": "Biden says ‘we have to act’ after Colorado mass shooting",
+      "excerpt": "Democrats say they are pushing toward a vote on expanded gun control measures as the nation reels from it its second mass shooting in a week",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-23T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-live-updates-in-the-shadow-of-another-mass-shooting-biden-heads-to-ohio-on-stimulus-promotion-tour.md",
       "title": "Live Updates: In the Shadow of Another Mass Shooting, Biden Heads to Ohio on Stimulus Promotion Tour",
       "excerpt": "Young on Tuesday afternoon as deputy director of the Office of Management and Budget. Biden is expected to address the shooting in Boulder as he heads to Ohio. Signs of a partisan divide on guns re-emerged hours after the shooting. Shalanda Young is set to ...",
@@ -1505,58 +1557,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B32VX",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B32VX",
       "publishedDateTime": "2021-03-11T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bidens-19-trillion-coronavirus-aid-bill-gets-enough-votes-to-pass-house.md",
-      "title": "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House",
-      "excerpt": "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554436201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291I2",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22IG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG",
-      "publishedDateTime": "2021-03-10T10:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

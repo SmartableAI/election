@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-24-duckworth-hirono-change-course-on-biden-nominees-after-assurances-on-aapi-representation.md",
+      "title": "Duckworth, Hirono change course on Biden nominees after assurances on AAPI representation",
+      "excerpt": "Sen. Tammy Duckworth, D-Ill., reversed course on vowing to object to President Joe Biden's nominees because of a lack of Asian American and Pacific Islander representation Tuesday evening after a spokesperson from her office said she had received ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_12/3459014/210323-tammy-duckworth-jm-1637_366fa55d715e08f098a8783e0973abeb.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261865",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261865",
+      "publishedDateTime": "2021-03-24T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-bernie-sanders-doesnt-feel-comfortable-about-twitters-permanent-ban-against-trump-despite-him-being-a-pathological-liar.md",
       "title": "Bernie Sanders doesn't 'feel comfortable' about Twitter's permanent ban against Trump despite him being a 'pathological liar'",
       "excerpt": "Independent Sen. Bernie Sanders denounced former President Donald Trump in strong terms in an interview released Tuesday but said Twitter's permanent suspension of the former Republican president doesn't sit right with him.\n    \n",
@@ -1632,63 +1689,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters.md",
-      "title": "Fauci: 'It makes absolutely no sense' for vaccine hesitancy among Trump voters",
-      "excerpt": "WATCH: Dr. Fauci tells #MTP that \"it makes absolutely no sense\" for vaccine-hesitancy among Trump voters. Fauci: \"What is the problem here? This is a vaccine that is going to be life saving for millions of people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615735913603_mtp_clip_faucivaxhesitance_210314_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo106516549714",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo106516549714",
-      "publishedDateTime": "2021-03-14T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

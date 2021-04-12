@@ -304,6 +304,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "POLITICO Playbook PM: Biden makes moves on immigration"
+    excerpt: "Minnesota police chief says officer who fired single shot that killed a Black man intended to discharge a Taser.” IMMIGRATION FILES — “Biden admin secures agreements with Mexico, Honduras and Guatemala to secure borders,"
+    publishedDateTime: 2021-04-12T17:33:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/12/biden-makes-moves-on-immigration-492445"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1c/09/1bc21c6f42ea86e778c4d96a66cb/gettyimages-1311687851.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "J2U7H1noE9bD3mZ5RjLHWQ3NG1uHSTOSHgdQVQ2fNK1dTA8xy7pCR9shgmCGqilhaksXmQa+VJA19oKjQRdhW4IkVCRAfF7k9RBTOZygG/WcWRb6k4YXST59Jr+PK7QfOB2OtvfK8jSZtA1T/js3gVYUeqIYlYZQ17yfToVamSkFKlkT8p7hbzs9JGCxswtZAHYzE/eyQdP/3ROs1qerW10ixgzrXBYeasBE8X6C9aYVA4VKGXRsHp/kRhmAllcWtU53qc5SoUNEtamWDq3aPtP9IuLtlGF6dc+2apbi3vJnxPe/reboHsn5wb2HuqW5fGNKd1YtL07BMoTVsN4m0mXKSniQnswIH3ylfELn3io=;n9z7vihZiT8pU/xHojUMkg=="
 ---

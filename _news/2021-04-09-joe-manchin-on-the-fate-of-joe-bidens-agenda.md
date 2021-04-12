@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-gu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -302,6 +302,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "POLITICO Playbook PM: Biden makes moves on immigration"
+    excerpt: "Minnesota police chief says officer who fired single shot that killed a Black man intended to discharge a Taser.” IMMIGRATION FILES — “Biden admin secures agreements with Mexico, Honduras and Guatemala to secure borders,"
+    publishedDateTime: 2021-04-12T17:33:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/12/biden-makes-moves-on-immigration-492445"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1c/09/1bc21c6f42ea86e778c4d96a66cb/gettyimages-1311687851.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "8jRBCsJ7l/z79F+SFAFdgAL9+LrT7mUzE7UnHUsNYF5i6ZoOjK6dSwaC+obeXevH/WVoLpdAaLMiYVzPuHuIZ0pb+5+DNxHhE7/QpmedXg0HjFK86SrLudq5IWdFHzl2grut7XKD5DrMWUIT1n7cmJ1LHwrTQ4sfw3QEbn3fOXfdduGJvyPMsda/V272Juv31pylGcv5PlDj3xsxnIZrjSAzWv15iuiQjyFtFHCGbFmgUZBP8oHD97UMka27T37Ixo4BT8qjfEzpRCpRPE+9BGEie0Z/TCgGhvUKzN8iTjfXHvIpJYlM5v3mHzVR0530XLuXsjfICkze/KEuKPhpKNNCsBJN981id52Srww4KXQ=;O/60EyB2SMPZTxhV3Hj4+Q=="

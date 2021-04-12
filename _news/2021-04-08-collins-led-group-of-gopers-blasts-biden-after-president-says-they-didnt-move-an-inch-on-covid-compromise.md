@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Marines' vaccine hesitancy presents early test for Biden as commander-in-chief"
+    excerpt: "Many U.S. Marines' hesitancy to receive coronavirus vaccinations could prove to be a sticking point for President Biden."
+    publishedDateTime: 2021-04-12T21:04:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU3LO4qaQR0/marines-vaccine-coronavirus-biden-democrats-military"
+    ampWebUrl: "https://www.foxnews.com/politics/marines-vaccine-coronavirus-biden-democrats-military.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marines-vaccine-coronavirus-biden-democrats-military.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21040647754122.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "As press embraces Biden agenda, White House leaks have disappeared"
     excerpt: "No such thing anymore,\" the paper says. There aren’t even authorized, self-serving leaks in the mold of \"Joe Biden slammed his fist on the desk and said ‘We’ve got to get this done, failure is not an option.’\" The Trump White House was the leakiest ..."
     publishedDateTime: 2021-04-08T07:23:00Z

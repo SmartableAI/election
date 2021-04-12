@@ -2,6 +2,167 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-02-07-biden-gives-calif-woman-pep-talk-in-weekly-address-revival.md",
+      "title": "Biden gives Calif. woman pep talk in weekly address revival",
+      "excerpt": "President Joe Biden has given a pep talk to a California woman who was laid off because of the coronavirus pandemic",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Sports/WireAP_96e61c0cee3d4cb9927dbd51881debe3_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273",
+      "publishedDateTime": "2021-02-06T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-harris-flexes-power-as-senate-tiebreaker.md",
+      "title": "Harris flexes power as Senate tiebreaker",
+      "excerpt": "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wz-Iz1Zy3xE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205191617-harris-breaks-tie-screengrab-0205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html",
+      "publishedDateTime": "2021-02-06T06:58:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-illinois-judge-finds-trump-hotel-in-chicago-liable-for-violating-environmental-laws.md",
+      "title": "Illinois judge finds Trump hotel in Chicago liable for violating environmental laws",
+      "excerpt": "The hotel has been sucking in millions of gallons of Chicago River water for its air-conditioning systems, without renewing a permit to do so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-hotel-lawsuit/2021/02/05/014484a2-67fd-11eb-8c64-9595888caa15_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-hotel-lawsuit/2021/02/05/014484a2-67fd-11eb-8c64-9595888caa15_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QK5J3DTIAUI6XCDNKJSNJTVUNU.jpg&w=1440",
+          "width": 1440,
+          "height": 1002,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-hotel-lawsuit/2021/02/05/014484a2-67fd-11eb-8c64-9595888caa15_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-hotel-lawsuit/2021/02/05/014484a2-67fd-11eb-8c64-9595888caa15_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-05T20:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-transgender-navy-seal-biden-order-going-to-give-a-lot-of-other-individuals-that-chance-to-finally-be-themselves.md",
       "title": "Transgender Navy SEAL: Biden order 'going to give a lot of other individuals that chance to finally be themselves'",
       "excerpt": "When Navy SEAL Ashley Nefzger heard rumblings that President Joe Biden could sign an executive order to repeal a Trump-era ban on most transgender Americans joining the military, she was cautiously hopeful.\n    \n",
@@ -1191,176 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-biden-to-call-for-protecting-lgbtq-rights-globally-in-memo.md",
-      "title": "Biden to call for protecting LGBTQ rights globally in memo",
-      "excerpt": "It reflects his deep commitment to these issues both here in the United States and everywhere around the world,\" national security adviser Jake Sullivan said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-call-protecting-lgbtq-rights-globally-memo-n1256792",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_05/3447736/210204-lgbtq-supreme-court-jm-1642_5c78556d3c8be10a4f7294ac3d23f414.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1256792",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256792",
-      "publishedDateTime": "2021-02-04T20:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-chief-of-staff-white-house-hopes-to-revive-trump-plan-to-mail-masks-to-americans.md",
-      "title": "Chief of staff: White House hopes to revive Trump plan to mail masks to Americans",
-      "excerpt": "The Biden administration is hoping to resurrect a proposal from the Trump administration to mail face masks to every American in an attempt to stop the spread of Covid-19, White House chief of staff Ron Klain said Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4mcxAk_DHpY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4mcxAk_DHpY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201111195736-ron-kain-feb-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/politics/ron-klain-mail-masks-white-house/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/ron-klain-mail-masks-white-house/index.html",
-      "publishedDateTime": "2021-02-04T18:28:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-pence-reveals-his-post-white-house-plans.md",
-      "title": "Pence reveals his post-White House plans",
-      "excerpt": "Former Vice President Mike Pence is joining the Heritage Foundation as a distinguished fellow, according to three people familiar with the matter. The move comes a day after the former vice president launched his transition office and announced plans to relocate to his home state of Indiana this summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/04/pence-heritage-foundation-fellow-465884",
-      "originalUrl": "https://www.politico.com/news/2021/02/04/pence-heritage-foundation-fellow-465884",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/bf/e0/c41b2f7042f88a0644c8730922ae/210204-pence-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

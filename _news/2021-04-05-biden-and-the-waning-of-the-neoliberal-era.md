@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_040921getty-istock-mm_illustration_memo-foreign-policy_web.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to nominate first female Army secretary"
+    excerpt: "President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with bipartisan lawmakers about infrastructure Jill ..."
+    publishedDateTime: 2021-04-12T20:54:00Z
+    webUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary"
+    ampWebUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/wormuthchristine_03032015getty.jpg"
         width: 980
         height: 551
         isCached: true

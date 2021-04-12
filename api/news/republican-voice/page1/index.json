@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-bidens-dog-major-to-undergo-additional-training-to-help-adjust-to-white-house-life-after-biting-people.md",
+      "title": "Biden's dog Major to undergo 'additional training' to help adjust to White House life after biting people",
+      "excerpt": "The younger Biden family dog, Major, will undergo \"additional training\" as he tries to adjust to life in the White House, a  spokesperson told Fox News.   ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xenHxgrYuuQ/biden-dog-major-training-white-house-biting",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xenHxgrYuuQ/biden-dog-major-training-white-house-biting",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1232039308.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp",
+      "publishedDateTime": "2021-04-12T14:28:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-chris-christie-turns-into-biden-attack-dog-in-early-days-of-administration.md",
       "title": "Chris Christie turns into Biden attack dog in early days of administration",
       "excerpt": "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of",
@@ -1610,63 +1666,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-scalise-blasts-bidens-border-policies-calling-them-dangerous-for-kids.md",
-      "title": "Scalise blasts Biden's border policies, calling them 'dangerous for kids'",
-      "excerpt": "What they've done not only to these border towns, the mayors, you hear them, Democrat and Republican, expressing outrage over what President Biden created. Joe Biden created this crisis, but the child abuse and neglect that's going on, it's not just the 20 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
-      "originalUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
-      "publishedDateTime": "2021-04-08T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-su
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1"
 type: article
 quality: 118
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden Says 'No Justification' For Looting, Violence Amid Unrest Over Daunte Wright Shooting"
+    excerpt: "President Joe Biden condemned looting and violence that has taken place in the aftermath of the police shooting of 20-year-old Daunte Wright in Brooklyn Center, Minnesota on Sunday. Wright, a Black man, died Sunday after he was shot by a police officer ..."
+    publishedDateTime: 2021-04-12T20:04:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1776653/daunte-wright-protest.jpg"
+        width: 1024
+        height: 695
+        isCached: true
   - title: "'Hunter Biden Has Nothing to Do With This': Fox News Guest Slams 'Constant' Coverage of President's Son"
     excerpt: "\"The answer about Joe Biden is not, 'Well Hunter Biden did crack,' or 'Well Hunter disposed of a gun illegally,'\" Jessica Tarlov said."
     publishedDateTime: 2021-04-11T19:49:00Z
@@ -48,6 +64,6 @@ related:
         height: 1568
         isCached: true
 
-secured: "DUUhA0U38Bvl2ZH9dC6XYfjoXx537dO5067UEtrKxn3fHahZLOGHo9SVDJuiTdvn9JaxebaefXgGTyDYLPDFZHgRox7I5INK9HX5LKAwNn/Nj2D5WMYVkDeYhW+CsAsasGIZHvOhcL8ZU73AgDCgJsVTzyboyi+vcMep/fXbffGCamlb1j1kME/Duy60uFLdiGRgHmAGguJAouekmBKVGwN3LSnWkr9nOevfMzo6WWv6kLMzM9l0H3/A1V0khvM6gSlMtd8dU+VWvgyNGoB61B69nzhm9I8AFcPsnLPZyCrVLafvo60jiDf0IeTmiPxtBmSewoYJcbQGYJpbrcZiH7cp2+eWW4MUPU1huzn9eV4=;iS85N+j6e6ywdrtsfbm3vw=="
+secured: "yI4kcfgRg4ihGcHLQBaM7EJquzNhANeL90HG8YCbZ59toACc3TiqNq+PcO0ppS7blYmi1jF0AvoNnOOQjKp+6ikHUYBJDhGYbqXDoN8DqNaSSHQVC7LO3Ft+utwhHQlIvI1HmiueXorgPJnFrK2XwykFn0fkEufL1LLUkUTV6duH3+2VrVuAdhLLUBGdGfLgQpW0XtQGsLVKGHLLiXrXNXfvdiU2xd237qISOpBpYy0bkEaKbIExUkqTIxHUgKeLJ1RyLaO9vgRaMl151/Wne25VbtwpEngC+cascOSw9+NXQmDYi/1PWcoO6Xm85K/x6B8U1JU79Q/yH2TxsiSsLG1t6IdtGBP4RJEKpPRyGFq9amVXaEkuAOvCMmFWOO5VnsuoPSM9eFxZFbt2vUifLr6NzcNyUG03ZUPIkC+lpUjODcGa2xdDppGhKkt3dwRFpxiLX+EBjejbnme+Uaeg+38ReJKXhvXMtcuG/6x/T70uUMlzkCgDbw0FopTU2TqLAGv9jUl7pG/202gTiqsfcg==;kmCFIZQfD2HlncHCGYZHXw=="
 ---
 

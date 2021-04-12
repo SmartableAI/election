@@ -655,6 +655,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Here's how Trump could return to Facebook"
+    excerpt: "Facebook panel to rule on Trump's suspension 11:24 A vote by Facebook's Oversight Board this month could overturn Donald Trump's ban from Facebook and Instagram. The board is poised to vote later this month on the social media company's decision to ban the ..."
+    publishedDateTime: 2021-04-12T21:17:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-facebook-oversight-board-suspension-vote/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-facebook-oversight-board-suspension-vote/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-facebook-oversight-board-suspension-vote/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/12/9f600f8c-fb94-4504-8bf8-324de78340dc/thumbnail/1200x630/9f1ab70b2306772579e6c389b21aa43a/gettyimages-1230469638.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z
@@ -1185,6 +1201,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/03/members-of-the-national-guard-remain-in-washington.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Haley says she'll back Trump, stand down if he runs in 2024"
+    excerpt: "Nikki Haley, often mentioned as a possible 2024 GOP presidential contender, said Monday that she would not seek her party's nomination if former President Donald Trump opts to run a second time. “Yes,” Haley said, when asked if she would support a ..."
+    publishedDateTime: 2021-04-12T21:51:00Z
+    webUrl: "https://www.chron.com/news/article/Haley-says-she-ll-back-Trump-stand-down-if-he-16095515.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Haley-says-she-ll-back-Trump-stand-down-if-he-16095515.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Haley-says-she-ll-back-Trump-stand-down-if-he-16095515.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-04-the-bidens-encourage-americans-to-get-vaccinated-in-easter-message.md",
+      "title": "The Bidens encourage Americans to get vaccinated in Easter message",
+      "excerpt": "President Joe Biden and first lady Jill Biden shared well-wishes with Americans celebrating Easter on Sunday and encouraged them to get Covid-19 vaccinations as a moral obligation.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404113530-biden-easter-video-210404-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
+      "publishedDateTime": "2021-04-04T10:53:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-hunter-biden-says-hes-absolutely-certain-hell-be-cleared-of-wrongdoing-in-doj-probe-into-business-dealings.md",
       "title": "Hunter Biden says he's 'absolutely certain' he'll be cleared of wrongdoing in DOJ probe into business dealings",
       "excerpt": "Hunter Biden says he is fully cooperating with the Justice Department's investigation into his business dealings in China and predicted that he will be cleared of any wrong doing in the probe.\n    \n",
@@ -1629,63 +1685,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-duckworth-hirono-change-course-on-biden-nominees-after-assurances-on-aapi-representation.md",
-      "title": "Duckworth, Hirono change course on Biden nominees after assurances on AAPI representation",
-      "excerpt": "Sen. Tammy Duckworth, D-Ill., reversed course on vowing to object to President Joe Biden's nominees because of a lack of Asian American and Pacific Islander representation Tuesday evening after a spokesperson from her office said she had received ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865",
-      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_12/3459014/210323-tammy-duckworth-jm-1637_366fa55d715e08f098a8783e0973abeb.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261865",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261865",
-      "publishedDateTime": "2021-03-24T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

@@ -2,6 +2,63 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-01-20-racism-allowed-donald-trump-free-rein-to-terrorize-the-american-people-for-four-years-msnbc-analyst.md",
+      "title": "Racism allowed Donald Trump 'free rein to terrorize the American people for four years:' MSNBC analyst",
+      "excerpt": "New York Times editorial board member Mara Gay said Wednesday that President Trump had been allowed to \"terrorize the American people for four years\" because of racist elements in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc",
+      "originalUrl": "https://www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a36ac25b-97d4-4e5c-a5b7-d48f780cccaf/5ec248a0-9c59-4fa8-a439-5f65b52eda9d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/racism-donald-trump-terrorize-american-people-msnbc.amp",
+      "publishedDateTime": "2021-01-20T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-melania-trump-says-serving-as-first-lady-was-my-greatest-honor.md",
       "title": "Melania Trump says serving as first lady was 'my greatest honor'",
       "excerpt": "Melania Trump told a small crowd of supporters Wednesday that it was \"my greatest honor\" to serve as the first lady.",
@@ -1595,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
       "publishedDateTime": "2021-01-13T12:37:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-calls-on-americans-big-tech-to-help-ensure-peaceful-transition-no-violence.md",
-      "title": "Trump calls on Americans, Big Tech to help ensure peaceful transition: 'NO violence'",
-      "excerpt": "EXCLUSIVE: President Trump on Wednesday is calling for \"all Americans\" to help \"ease tensions and calm tempers,\" saying he does \"not\" stand for violence \"of any kind\" -- and he's asking Big Tech to join the effort.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tN2G7lwC_Bs/trump-statement-peaceful-transition-no-violence-exclusive",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tN2G7lwC_Bs/trump-statement-peaceful-transition-no-violence-exclusive",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp",
-      "publishedDateTime": "2021-01-13T10:26:56-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

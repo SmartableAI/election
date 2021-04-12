@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Boehner lashes out at Trump, saying he 'abused' voters' trust"
+    excerpt: "Boehner on NSA Whistleblower: 'He's a Traitor' Former House Speaker John Boehner on Monday kept up his harsh criticism of President Donald Trump's role in the Jan. 6 riots, saying he \"abused\" the ..."
+    publishedDateTime: 2021-04-12T21:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/john-boehner-01-ap-iwb-210412_1618236535797_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Boehner says 'unemployed' Trump 'has nothing else to do' but 'cause trouble'"
     excerpt: "on Monday said the \"unemployed\" former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief ..."
     publishedDateTime: 2021-04-12T17:38:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/bd333c30-2b30-4e72-8ea0-d705680ef3ae-XXX_20210405_Boehner_JK001.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "John Boehner calls Trump 'a guy who's unemployed' and 'has nothing else to do but cause trouble'"
+    excerpt: "An envelope. It indicates the ability to send an email. Former GOP House Speaker John Boehner of Ohio on Monday blasted former President Donald Trump as an \"unemployed\" individual who is out to \"cause trouble\" after losing his reelection bid last year."
+    publishedDateTime: 2021-04-12T20:33:00Z
+    webUrl: "https://www.businessinsider.com/boehner-calls-trump-unemployed-republican-party-direction-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/boehner-calls-trump-unemployed-republican-party-direction-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-calls-trump-unemployed-republican-party-direction-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/6074ab763e3fe7001882a34c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Gaetz and Trump rep challenge report that the Florida congressman was denied a meeting with the former president"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% GOP Congressman Matt Gaetz, who is facing federal sex trafficking allegations, was reportedly denied a meeting with Donald Trump as aides try to distance the former president from him, CNN reported. Two anonymous ..."

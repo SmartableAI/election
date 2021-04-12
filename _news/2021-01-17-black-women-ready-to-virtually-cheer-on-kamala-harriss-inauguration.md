@@ -240,6 +240,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden touts relationship with Harris as she takes heat in border czar role"
+    excerpt: "President Biden elevated his relationship with embattled border czar Vice President Kamala Harris in a Twitter post on Monday, saying she is “the last voice in the room.” ​”​When"
+    publishedDateTime: 2021-04-12T20:28:00Z
+    webUrl: "https://nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/"
+    ampWebUrl: "https://nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/biden-harris-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'CBS Sunday Morning' fawns over Kamala Harris with 'cozy' interview"
     excerpt: "CBS fawned over Vice President-elect Kamala Harris on Sunday with a glowing feature that could indicate how the incoming administration will be treated by the mainstream media."
     publishedDateTime: 2021-01-18T14:55:00Z

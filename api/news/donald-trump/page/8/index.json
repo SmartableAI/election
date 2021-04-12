@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-25-what-happened-must-never-happen-again-rep-liz-cheney-a-top-house-republican-again-hits-trump-over-capitol-riots.md",
+      "title": "'What happened ... must never happen again': Rep. Liz Cheney, a top House Republican, again hits Trump over Capitol riots",
+      "excerpt": "Despite threats to her re-election, Republican Rep. Liz Cheney did not back down from criticism of Donald Trump over the Jan. 6 insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/23/liz-cheney-again-hits-president-donald-trump-over-jan-6-insurrection/4559614001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/23/liz-cheney-again-hits-president-donald-trump-over-jan-6-insurrection/4559614001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/17ab0a832cd78ecc70cb4b93786a0d088066895f/c=0-292-5465-3380/local/-/media/2018/07/17/USATODAY/USATODAY/636674189159039396-AP-17086712547630.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4559614001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4559614001",
+      "publishedDateTime": "2021-02-24T22:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-a-year-after-trump-said-coronavirus-was-under-control-a-look-back-at-the-first-news-stories.md",
       "title": "A year after Trump said coronavirus was ‘under control,’ a look back at the first news stories",
       "excerpt": "Wednesday that then-President Trump offered words of assurance about the coronavirus which had only recently been detected in the United States. “The Coronavirus is very much under control in the USA,",
@@ -1553,63 +1605,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-trump-ex-campaign-manager-brad-parscale-meet-at-mar-a-lago-source.md",
-      "title": "Trump, ex-campaign manager Brad Parscale, meet at Mar-a-Lago: Source",
-      "excerpt": "Former President Donald Trump met Tuesday with former campaign manager Brad Parscale at his Mar-a-Lago resort in Palm Beach, Florida, a source familiar with the matter told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-ex-campaign-manager-brad-parscale-met-at-mar-a-lago-source",
-      "originalUrl": "https://www.foxnews.com/politics/trump-ex-campaign-manager-brad-parscale-met-at-mar-a-lago-source",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-ex-campaign-manager-brad-parscale-met-at-mar-a-lago-source.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ex-campaign-manager-brad-parscale-met-at-mar-a-lago-source.amp",
-      "publishedDateTime": "2021-02-16T17:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

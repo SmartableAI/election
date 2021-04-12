@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5849ecf7-8c15-4fea-95f3-4c24ca446e85/0511ed69-9218-4c93-9e69-1929be5c050c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Marines' vaccine hesitancy presents early test for Biden as commander-in-chief"
+    excerpt: "Many U.S. Marines' hesitancy to receive coronavirus vaccinations could prove to be a sticking point for President Biden."
+    publishedDateTime: 2021-04-12T21:04:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU3LO4qaQR0/marines-vaccine-coronavirus-biden-democrats-military"
+    ampWebUrl: "https://www.foxnews.com/politics/marines-vaccine-coronavirus-biden-democrats-military.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marines-vaccine-coronavirus-biden-democrats-military.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21040647754122.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Collins-led group of GOPers blasts Biden after president says they ‘didn’t move an inch’ on COVID compromise"
     excerpt: "The group of 10 Republican senators that attempted to negotiate with President Biden on coronavirus relief slammed the president in a biting statement Wednesday night accusing him of misrepresenting their meeting and its fallout. "

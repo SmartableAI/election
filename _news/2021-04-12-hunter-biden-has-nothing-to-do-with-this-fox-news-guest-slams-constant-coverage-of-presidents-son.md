@@ -47,6 +47,22 @@ related:
         width: 594
         height: 398
         isCached: true
+  - title: "Joe Biden Says 'No Justification' For Looting, Violence Amid Unrest Over Daunte Wright Shooting"
+    excerpt: "President Joe Biden condemned looting and violence that has taken place in the aftermath of the police shooting of 20-year-old Daunte Wright in Brooklyn Center, Minnesota on Sunday. Wright, a Black man, died Sunday after he was shot by a police officer ..."
+    publishedDateTime: 2021-04-12T20:04:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1776653/daunte-wright-protest.jpg"
+        width: 1024
+        height: 695
+        isCached: true
 
 secured: "ffH6Wk7BdCqDELt4Ej3jeYTsBBIypOFBO0jyiKLjrH9xW/gUy+4WIbp6HuKRemClijj+occqYfCpyOd/Eut8Jk/Hms4FWiIAPKjU3aHCJJTmK+Tz7EKvtvmoXP2GHzR9vR/z3D/+0w6K72Hriw8nnoiuWmnlXJQ1ipPVoVo92ooeHZqek4C2wKsdt05CqWzTaJVj8WCGXTfje8K23dJlKaINw6DNt7oBao8QbNFxt3oh4KAkhy1ZEEN0mj1AEkZ0l0q9Abwv3qTJ6dC9lBvseZdUuAw2uUVVADbPRJaw8TpbYNdGJ6xjiEOaCJ0sGAiPWS61dA/vu6qAelFItjtAcGt59xSNHcYfHAZRMiVGmX4u2fRHPJgKdV1iRg7rjRp7d2b3kBvMSQRkM6V1QwBJ8ewpecb3a+b2skhQ2/zK/n4bPmobQOeQCflMZUlE+sdPQQ754HbxC/6Q4A+uXgB6DwPw8SKzeZ/50F7DINEnTABZO+9fd+aEQRxsRBw4A89t3KlB3bFtumhCmilBn4D+0Q==;/O6qTjzzysLulsXZItChKA=="
 ---

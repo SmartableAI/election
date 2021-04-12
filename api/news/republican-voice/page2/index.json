@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-08-scalise-blasts-bidens-border-policies-calling-them-dangerous-for-kids.md",
+      "title": "Scalise blasts Biden's border policies, calling them 'dangerous for kids'",
+      "excerpt": "What they've done not only to these border towns, the mayors, you hear them, Democrat and Republican, expressing outrage over what President Biden created. Joe Biden created this crisis, but the child abuse and neglect that's going on, it's not just the 20 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
+      "originalUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
+      "publishedDateTime": "2021-04-08T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-275-sheriffs-sign-letter-to-biden-on-border-crisis-reckless-effort-to-put-politics-before-safety.md",
       "title": "275 sheriffs sign letter to Biden on border crisis: 'Reckless effort' to put politics before safety",
       "excerpt": "Bristol County, Mass. Sheriff Thomas Hodgson discussed the letter 275 sheriffs signed urging President Biden to get the border crisis under control, during a Thursday segment of 'Fox & Friends.'",
@@ -1181,7 +1238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1454,7 +1511,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1583,62 +1640,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp",
       "publishedDateTime": "2021-04-05T09:46:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-former-cheney-adviser-biden-admin-hell-bent-on-rejoining-iran-nuclear-deal.md",
-      "title": "Former Cheney adviser: Biden admin 'hell-bent' on rejoining Iran nuclear deal",
-      "excerpt": "The former National Security Advisor to Vice President Cheney, John Hannah, said that the Biden administration is 'hell-bent' on rejoining the Iran nuclear deal, during a Monday appearance on 'America's Newsroom.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
-      "publishedDateTime": "2021-04-05T09:24:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-20-do-latino-voters-think-joe-biden-can-unite-the-country.md",
+      "title": "Do Latino voters think Joe Biden can unite the country?",
+      "excerpt": "\"It's going to be hard, because there's still going to be people that think the election was a fraud,\" said Yumaira Saavedra of Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
+      "originalUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_03/3443384/210119-washington-capitol-inauguration-prep-2x1-ac-1055p_febc111051f1ce6e390fc8d524eb2182.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254800",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254800",
+      "publishedDateTime": "2021-01-20T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-biden-will-extend-student-loan-payment-deferrals-until-october.md",
       "title": "Biden will extend student loan payment deferrals until October",
       "excerpt": "President-elect Joe Biden will direct the Department of Education Wednesday to extend the suspension of federal student loan payments and interest.\n    \n",
@@ -1637,63 +1694,6 @@
         "Donald Trump",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trumps-top-bankers-deutsche-banks-and-signature-cut-future-ties.md",
-      "title": "Trump's top bankers Deutsche Banks and Signature cut future ties",
-      "excerpt": "In the wake of the deadly riots on Capitol Hill last week, Deutsche Bank and Signature Bank have said they are cutting future ties with President Donald Trump. That could leave the president personally on the hook for millions of dollars when several large loans he has personally guaranteed come due in the next two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_02/3441493/210112-deutsche-bank-se-1035a_81623fdd8acbbe2a62e11ba9b949db39.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253895",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253895",
-      "publishedDateTime": "2021-01-12T10:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],
