@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden rescinds Trump-approved Medicaid work requirements in Michigan, Wisconsin"
-    excerpt: "ADVERTISEMENT The reversal comes after Trump’s CMS Administrator Seema Verma advocated for Medicaid work requirements, saying such regulations would help people get out of poverty and not rely ..."
-    publishedDateTime: 2021-04-08T14:11:00Z
-    webUrl: "https://thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan"
-    ampWebUrl: "https://thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 136
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_04062021getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Donald Trump Urges Ron Johnson to Run for Re-Election in Wisconsin: 'Run, Ron, Run!'"
     excerpt: "In a statement released by Save America PAC Thursday, Trump encouraged Johnson to \"Run, Ron, Run!\" Trump's public statement comes with more than a year to go until Johnson could be re-elected and even acknowledged that Johnson himself has not announced ..."
     publishedDateTime: 2021-04-08T19:00:00Z

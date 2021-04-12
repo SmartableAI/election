@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "Matt Gaetz request for meeting with Trump was not snubbed, both sides say"
+    excerpt: "Photograph: Marta Lavandier/AP Matt Gaetz and a spokesman for Donald Trump reacted angrily late on Sunday after CNN reported that the scandal-hit Florida Republican congressman sought a meeting with the former US president when allegations of sex ..."
+    publishedDateTime: 2021-04-12T11:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/bd670a9159855d668309642261f31134fccfbfac/0_43_4868_2922/master/4868.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c8dd8276ad7b93f3c7d259bfac90e7a0"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
+    excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
+    publishedDateTime: 2021-04-07T15:30:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club"
     excerpt: "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer."
     publishedDateTime: 2021-04-10T11:09:00Z
@@ -61,21 +93,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."
-    publishedDateTime: 2021-04-03T10:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
+  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
+    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
+    publishedDateTime: 2021-04-07T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 96
     images:
-      - url: "https://i.insider.com/60681af2a7d803001963e9f8?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "OR2mOKHZVjEe4GUTI9gDJpCfJPV/Lj2lY7Y2MgBGbOu9EVREKOIwSfKCbrR07yRVDq6RC/luboVOzWB+8be1Jc68htd3rgupEvGki/AsRE8rUOGH3SwBuD9u3WgNDjwURGF8DKs+/E5FxXQi3aaPcSIMzhcgljThLtLLe19r2l+H/d3OE83U6DyVcaGwmFvNqrX8dsA1nQa1XQSCr4PSF+fVqtcoIC8Fd2XtPXwSMLNM0AO9iBy2d+L380fdLp9BPwlFnQoT2UTCZyvshpsMtlMMQfx0cAU5pZosVy1TCy0Ty3h8DgdM+yOtBe9yXylQB86sLosYzzYrvqc7MpfRJeMsUob+1MUSi2CcXxfQbb7m8y7S8dTlCGqT/kEYFFswayqDBpHKb5RpxTCdEtwt6e6VO1Myrv0z1o3vU51ErYitUe6SBCBcDIY+/Cd4KXZQO+kVHlWgLcHLSkdiVzyyeELFjznDoQEMODWF/blJ/yQXUyHnN2qCxEaCQ3EJ9blxkRMFURu2wpIdup5O6OskGQ==;3H+HE1vyv0ATVzFwOws50Q=="

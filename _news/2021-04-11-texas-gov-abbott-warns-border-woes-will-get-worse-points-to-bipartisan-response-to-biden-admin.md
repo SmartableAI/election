@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-border-crisis-will
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-border-crisis-will-get-worse.amp"
 type: article
 quality: 160
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden aims to redefine word ‘bipartisan’ as Dems work to push spending bill without any GOP votes"
+    excerpt: "President Biden vowed to bridge the partisan political divide but, struggling to garner Republican support for major bills, his administration appears to be changing the narrative by redefinining what \"bipartisan\" means."
+    publishedDateTime: 2021-04-12T13:10:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiJ0cferris/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Sz2Q/BWR+DlU+FSVb+mW6ODErgFVdnQ+akUHRi16YRp4AMHleHPFZz9EqxPFAy8hS+dRU7H4RDMBu7K9K8Y1Pz9uzfsGOFzlN/XoitIoTFAHmj7RljadTawsmai5c/fLxD509oEgAEK41wFrBIhsZtEOO6oWYvWJx9/6doZS16B+Ka8FVvbLCtIg6yV1P7SgOr4lshywq6d+wx/bFhTWhFwPBdwxgRv2ym+pU4Fb3kYRga4QiSqGM4Z05GvNfnEfiwazodCQJJuOK+UP6KWvFVi8L5bo8slgv1leoPoXKhv0qkuIqEiih1gqyEyeKrv32Ec1YhtNLxLhB+WOagCt8PtkAGB0TD93/TcVjVygTnQ=;KNnrdUDaLex5+6bvlQeWiw=="
 ---

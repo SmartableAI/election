@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-15822
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1774249/former-atf-special-agent-david-chipman.jpg"
         width: 3000
         height: 1982
+        isCached: true
+  - title: "Biden \"doesn't have all the time in the world\" to act on gun violence, gun control advocate says"
+    excerpt: "A prominent gun control advocacy group is urging President Joe Biden to act quickly on his proposed firearms legislation, after a week that saw 345 people killed by gun violence in the United States. \"He doesn't have all the time in the world. He needs to ..."
+    publishedDateTime: 2021-04-09T18:26:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-gun-violence-control-brady-bill-kris-brown/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-gun-violence-control-brady-bill-kris-brown/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-gun-violence-control-brady-bill-kris-brown/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qsMDsdnbHZFVyDovY2oTIxfQHRqQ91u02CJTiMJ+UA1RM8/qa/AoDyhhldngDyx8GcnYZYw1tAqtEfxIWPH5UFbfqRJfH9sNgg/UQ1Cixc3WRtDrIFSPA10buK9KtciVsc1yCBveNpm+g94RocQZ35Naswce+wj/TSE3iRsU8gD6eAXS5ELtxcPyZHPUZDymqV41b09BJAtMYmws/XT8m3R45HiC8zXoX616lq+dWOx6JkqpEUaDzls+V705O9ziK9ijfGvPVH4Ju7uDCTm5KrKhUyqBEkldwHxg4WZ/AJ/G8uv8GmO6i6sjq9OBQ9F0uxPCezvDmC18C2gQJVIxABJW/R/RJCKp+KWxRZgu5ajaCN4a/wxrqQWB5d2BX52iCQktzBSgAXmhLXcodF5z6CVo8Fsnv/jArYrgY8RgT/Wi4uqleCEDAGKWqyZGWyaKDnzfpZH+vaIp6i+TrCi1q/ZAxR3jPdDMT0NkxGIewDfZztpMp4g370RCqvNzhUdGeVBVZIinOqfLM2rt5IGA7A==;ILd43evgdNGj2PF40cbSVg=="

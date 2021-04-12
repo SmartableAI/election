@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-histo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
 type: article
 quality: 124
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: The Guardian
@@ -31,102 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Bumpy road ahead for Biden's infrastructure plan"
-    excerpt: "But Joe Biden believes he can use it to drive America to the future after a dozen years of false starts. The trip is unlikely to be smooth. Biden's $2.3 trillion infrastructure package ..."
-    publishedDateTime: 2021-03-31T21:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_321a78dd44454ce7b60608ca3d71101e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
-    excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
-    publishedDateTime: 2021-03-30T14:20:00Z
-    webUrl: "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/25/9cae5818-8a59-4895-b7b3-043827db64f5/thumbnail/1200x630/715b9965c2cc7d60f9872aee9b90ad30/gettyimages-1231927141.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
-    excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
-    publishedDateTime: 2021-04-02T13:22:00Z
-    webUrl: "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer-parliamentarian/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer-parliamentarian/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer-parliamentarian/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/25/9cae5818-8a59-4895-b7b3-043827db64f5/thumbnail/1200x630/715b9965c2cc7d60f9872aee9b90ad30/gettyimages-1231927141.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Americans 'want to see us get it done': Buttigieg on Biden's infrastructure plan"
-    excerpt: "Biden lays out massive infrastructure bill Secretary of Transportation Pete Buttigieg said Sunday that he believes it could be possible to get Republicans on board with President Joe Biden's ..."
-    publishedDateTime: 2021-04-04T13:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/this-week-pete-buttigieg-02-ap-llr-210403_1617479297934_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Buttigieg on Biden's infrastructure plan: Americans 'want to see us get it done'"
-    excerpt: "Buttigieg Secretary of Transportation Pete Buttigieg said Sunday that he believes it could be possible to get Republicans on board with President Joe Biden's massive, $2 trillion infrastructure ..."
-    publishedDateTime: 2021-04-05T18:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/this-week-pete-buttigieg-02-ap-llr-210403_1617479297934_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden to hold first cabinet meeting as he pitches $2tn infrastructure plan – live"
-    excerpt: "Transportation secretary Pete Buttigieg pledged that he would work diligently to gain bipartisan support for Joe Biden’s $2tn infrastructure package. “I’m not going to give up on earning Republican support for this because we know that Republicans ..."
-    publishedDateTime: 2021-04-01T13:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live?page=with:block-6065cbe38f08611d06d89112"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 118
-    images:
-      - url: "https://i.guim.co.uk/img/media/d7fc9d365c6cae174da2f0bfcd8a4f488e1fb19d/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f1cfddb394322bdd9cbbf705e0cfbb0"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Economist Defends $2 Trillion Price Tag of Biden's Infrastructure Plan: 'The Need Is Very Large'"
     excerpt: "The chief economist at Moody's Analytics has come to the defense of President Joe Biden on the cost of his infrastructure plan, which could fall somewhere between $2 trillion and $3 trillion. \"It's large, but we've got a large problem,\" Mark Zandi told CNN ..."
     publishedDateTime: 2021-03-31T18:02:00Z
@@ -142,93 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1768186/joe-biden-infrastructure-overhaul-proposal.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Jill Biden announcing next steps for military family program"
-    excerpt: "During the 2020 presidential campaign, she promised to revive Joining Forces. Shortly before President Joe Biden took office, the first lady . Brosius previously served as the program's deputy director. Biden is a military daughter and mother, with ..."
-    publishedDateTime: 2021-04-07T13:05:00Z
-    webUrl: "https://www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden: ‘Inaction’ not an option on infrastructure"
-    excerpt: "President Joe Biden on Wednesday made a fiery appeal for U.S companies to foot the bill for his $2 trillion-plus infrastructure plan, but signaled an openness to negotiate how big their tax bill should be. This report produced by Jonah Green."
-    publishedDateTime: 2021-04-08T00:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE7J3NJ3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210407&i=OVE7J3NJ3&r=OVE7J3NJ3&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Biden: Inaction on infrastructure 'not an option'"
-    excerpt: "President Joe Biden says he's open to compromise on how to pay for his $2.3 trillion infrastructure plan, but insists \"inaction is simply not an option.\" (April 7)"
-    publishedDateTime: 2021-04-07T22:12:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/07/biden-inaction-infrastructure-not-option/7132010002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7b6dc9f2-ffb6-430e-b675-95cbfb5aa480_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden says China is 'racing ahead' of the US in a fiery speech bashing Republicans who oppose his infrastructure plan"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% President Joe Biden in an impassioned speech on Wednesday framed infrastructure as a matter of national security, saying that China was outpacing the US as he excoriated Republicans who opposed his $2 trillion plan."
-    publishedDateTime: 2021-04-07T20:07:00Z
-    webUrl: "https://www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/606e0dcd70954f0019195bdc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Las Vegas, Nashville, Phoenix and more: Amtrak would expand, connect new cities under Joe Biden's infrastructure plan"
-    excerpt: "Amtrak late Wednesday released a proposed map of new and expanded service if it can land the $80 billion proposed by President Joe Biden."
-    publishedDateTime: 2021-04-01T18:15:00Z
-    webUrl: "https://www.indystar.com/story/travel/news/2021/04/01/biden-infrastructure-plan-amtrak-vows-new-routes-american-jobs-plan/4834427001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4834427001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4834427001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/cef02fc1-56cb-4463-a665-f7dca0a14e69-amtrak_routes.PNG?auto=webp&crop=1375,774,x119,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President Joe Biden's $2 trillion jobs and climate change plan would improve internet access, upgrade power grids and make road improvements"
-    excerpt: "President Joe Biden's $2 trillion jobs and infrastructure plan calls for improving roads, internet access and electricity grids. Credit: Spencer Selvidge for The Texas Tribune Sign up for The Brief, our daily newsletter that keeps readers up to speed on ..."
-    publishedDateTime: 2021-03-31T21:43:00Z
-    webUrl: "https://www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/"
-    ampWebUrl: "https://www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 40
-    images:
-      - url: "https://thumbnails.texastribune.org/M_OWpqBYfVtAzMrXWG5y9_zsXiM=/640x429/smart/filters:quality(75)/https://static.texastribune.org/media/files/4f162e4fd0e8410452f896d2911d930a/Infrastructure%20FIle%20SS%20.jpg"
-        width: 640
-        height: 429
         isCached: true
 
 secured: "39zZwakMn7zuGZf5o5nlfkex8i/y01BEj2iiz/9Q6ttVGw8mXYLumNCrZdq0AF3LJBRgN/4YFdsdeqibZNo1xXoZimPvxPx/uOE4HMjtDAgCfpa9fo2NJLeSC19WWLs4KzkuPBlKUyLQfSKvWknojunr9F1hI0IhFoiPLH/DWY0Gro20Zi4QwbFvJyvOVP8Cjc5VL171mTbkET8xNCG5RJa639Uv9fL8+0Hu7SBu/JEM7yHSKVlnnKBptwIpCSPk0pRZWrq5p2nYwwjlqT/EL3YNS0FlTqaLzS1xfoG+lJzZi43Jzym75BnZFeAb3dNvuEaIfRVstDB8Ff1KGz6R99dgKuKKfVieo6xSmadHWjlEgBXNSUmnZIEnqE8w6BYGsq6TLablO0Kr8QY8kyqxRqGJmM0KXxJAr53qistniwUidiBAmPP/0h3NCuJUfpl/dZlSc+xkP6DeVRgNoL7Ma8Zqqnc1kC3Wf4MrrFO2JfWa9fHRjcWFBurKSIy0XfML2QvZulF9s0Xw2z+oZ0Uizg==;AE+3X0V4lqUfyYvmArzv+Q=="

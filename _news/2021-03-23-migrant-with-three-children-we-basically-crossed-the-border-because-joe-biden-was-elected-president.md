@@ -1377,6 +1377,15 @@ related:
         width: 5459
         height: 3558
         isCached: true
+  - title: "Why Biden & Harris Won't Address 'Root Causes' of Migrant Surge"
+    excerpt: "Yet neither President Joe Biden nor Vice President Kamala Harris, who he's put in charge oâ¦"
+    publishedDateTime: 2021-04-12T12:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/12/why_biden_amp_harris_wont_address_root_causes_of_migrant_surge_540292.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
 
 secured: "Xf3tLHrQJc0ZVTnmfGGd5CeiDoOv6UDAtEGaqz60tNAgXmWqDqQTrIDl6OjT6Db+m07LXmyfZzsTZSROhYkDOgskFCqsWar44YFLrmWDQIOkw55KIVKnw6SKpuXkbgNYApIKaZL9oOnv3fk+D3pfK9dxu51bJ6K5KstwVWGiE2JS0r0Yqfn4INPZM/7N+h2Qrnk2iL5paIy12G1rbcFUVQ4LHRC9k86YiKaqu3C6EvZjJNMBEa2gJDhs7TSwwTLjOWEUPDIAM+8PojNsV6QVL6oOVG2zVh0r0Td2RvflPayJmFmJ3PQWg7TLKoaSA+jpBsrxgAVkwM7csp25DciCpUVxKGB5ddcVbQuBfIFOpyQ=;fj/Xmghd+ZmNguLddKcY0g=="
 ---

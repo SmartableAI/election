@@ -1363,6 +1363,15 @@ related:
         width: 5459
         height: 3558
         isCached: true
+  - title: "Why Biden & Harris Won't Address 'Root Causes' of Migrant Surge"
+    excerpt: "Yet neither President Joe Biden nor Vice President Kamala Harris, who he's put in charge oâ¦"
+    publishedDateTime: 2021-04-12T12:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/12/why_biden_amp_harris_wont_address_root_causes_of_migrant_surge_540292.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
   - title: "Migrant With Three Children: We \"Basically\" Crossed The Border Because Joe Biden Was Elected President"
     excerpt: "MIGRANT: Definitely not. RADDATZ: So did you come here because Joe Biden was elected president? MIGRANT: Basically, basically, the main thing was the violence in my country. And the second thing I think was Joe Biden. First, he’s not illegal; he’s ..."
     publishedDateTime: 2021-03-23T14:16:00Z

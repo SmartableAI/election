@@ -2,28 +2,32 @@
 category: news
 title: "Business faces tricky path navigating post-Trump politics"
 excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to increasingly distinct constituencies helps explain the tension."
-publishedDateTime: 2021-04-11T20:26:00Z
-originalUrl: "https://www.chron.com/news/article/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
-webUrl: "https://www.chron.com/news/article/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
-ampWebUrl: "https://www.chron.com/news/amp/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
+publishedDateTime: 2021-04-11T20:20:00Z
+originalUrl: "https://www.washingtonpost.com/politics/business-faces-tricky-path-navigating-post-trump-politics/2021/04/11/d7c4481e-9ac0-11eb-b2f5-7d2f0182750d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/business-faces-tricky-path-navigating-post-trump-politics/2021/04/11/d7c4481e-9ac0-11eb-b2f5-7d2f0182750d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/business-faces-tricky-path-navigating-post-trump-politics/2021/04/11/d7c4481e-9ac0-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/business-faces-tricky-path-navigating-post-trump-politics/2021/04/11/d7c4481e-9ac0-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -1360,6 +1364,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "7eZ+bh1sAm7x9xOfZCpZMsY6qT4RtCA26ZRDgTR6SsO/RkhqVYiLiAmjMN7PcGUldrvyFIYM8BSTlfzO0wHX+C+5uv855KVoAXX0WylClOnXX3LmBZkEjJu0lYhZlOShzuT4rnThq8hcRCq3IBpQjHGOB/yt41IVt83bJhlDz5qN8dM07UT/M90xmH+csDa0GrQpzJ5/xpaOUzOUgqlnHlH6teBk4lRHXezMy+3kUt3JoJvXbMbUtG2g6JVcV0pLHaVqUDLofwFfZ5/Xsuj1xWdp7BDM4WMfDa3ARgvWWOdCmQmApBjmEdLeyXSX58NcgspFMMe4oxDcGnXP9cagvDfarAns3HS5bAZ50OSs8yA=;Hn2TNIDn86IGCCoyzXuyCQ=="
+secured: "mO0avSVWMGT56BIACCLtjgTlbTqWwAnUnh0zOYNRfTnySaZO1n1kw2gwAUTMA/DPz9ngvrHdRMQnUGJsRWRfr3ERchu8MOXitlgWGKYG29ndt3vexVN0btmhKWCz95QrJGGc7xz+d7yf913nDmap5tbt4PJl0VXokowFHU3iXAa8r9xfPnfFmseCZ/og01+J3m+nrTitsg5vCf9EmpUFndqp+V+yyf2zrdt2+ZfpVI6fcaRj3aeOQfX42ivT36wbiRBtXKWoW3VNbNZ1EUUwIGg1Bpkdbrzthk2uOSa9Etifv5GE9j8CvZBnpjNVGK5Em/rPs6NGDvLQYPX1uJcgNpys+cHJh9eOoxwXruRosEk=;nDE3u5DYJ3bc9hO6VOhhIg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -63,21 +63,37 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "President Joe Biden Continues Hard Line Against Russia, Offers Ukraine 'Unwavering Support'"
-    excerpt: "President Joe Biden on Friday offered \"unwavering support\" to Ukraine and reiterated his strong stance against Russian aggression amid reports of Russian actions near the Ukrainian border. After the president's Friday call with Ukrainian President Volodymyr Zelenskiy,"
-    publishedDateTime: 2021-04-02T19:40:00Z
-    webUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775"
-    ampWebUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
+  - title: "Biden says over 80% of teachers, school staff received at least one shot by end of March"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that more than 80% of teachers and school staff had received at least one vaccination shot but that variants of the coronavirus are spreading and generating a rise in cases. “We aren’t at ..."
+    publishedDateTime: 2021-04-06T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-variants-idUSKBN2BT2T4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2T4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2T4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351E7"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden Suffers School Reopening Setback as Survey Shows Fewer Students Attending Full Time"
+    excerpt: "President Joe Biden has been dealt a setback with his goal to reopen more schools for in-person learning, as new data shows that a majority of students are still not returning to the classroom full time even when given the chance. According to a new survey ..."
+    publishedDateTime: 2021-04-07T21:16:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 115
+    quality: 114
     images:
-      - url: "https://d.newsweek.com/en/full/1771203/president-joe-biden.jpg"
+      - url: "https://d.newsweek.com/en/full/1772802/person-learning.jpg"
         width: 2500
-        height: 1667
+        height: 1649
         isCached: true
   - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
     excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
@@ -95,19 +111,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "President Biden making a push for tighter gun safety laws with new executive actions"
-    excerpt: "Biden's infrastructure plan: What's inside the new $2 trillion bill?"
-    publishedDateTime: 2021-04-08T12:41:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2021/04/08/ghost-guns-among-items-targeted-new-presidential-executive-actions/7137513002/"
+  - title: "Biden says China is 'racing ahead' of the US in a fiery speech bashing Republicans who oppose his infrastructure plan"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% President Joe Biden in an impassioned speech on Wednesday framed infrastructure as a matter of national security, saying that China was outpacing the US as he excoriated Republicans who opposed his $2 trillion plan."
+    publishedDateTime: 2021-04-07T20:07:00Z
+    webUrl: "https://www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-suggests-gop-aiding-china-by-opposing-infrastructure-plan-2021-4?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 98
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/99db72df-f487-4d46-9179-1bbabff8f383-VPC_BIDEN_GUN_CONTROL_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/606e0dcd70954f0019195bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Eg9+cTesbu2dMNAC9XU7jx72T+nDhYsgYXYIAUdPGQwh6s3JHKne3XllcEn4gH209R9TxUMQwpGmvveh7nNXZwrD6OD8HS6q/9ISvIVjF/bo/OvmMYmGRxZFWHZYacZ1bYxi0mHPYccoix+rm8N7aoPdaZCEe4D92hTIhf/8rBzBe9+8WVb7i8ftpT8jo+NW0PkX1C/D+9bVq88ACyUWeNWvDx1VRyr0D4tsLMru+4+QGuggCk7kcTo7QHJIgRHOut4IjqXRThlz49P+w20iGBZhXDqe3kOxypmXBBtzj2MdOokc5ORocp7gCtMpCoCqLPK9Nmkhr87J66amFpO7cwF0WTsQxrCYw6yCoTRZnr0ZxThpeqFTQlstpaJibMq0R3s2umxCRM+M8OBGPc4chDQSaAa2j9RIah7WqSEUstvs/3RO55z7U6tnZX/o6GeX8uC2JDioVN1jjUMdeWANk8R82qW/nZXCI3BSDjp2J5LIbc5JGpUR6PlDgl5w6c9Ierdw50zL3a5uWh6vgGWzTg==;y0hmsGc6XoEPe7wfYuDSyw=="

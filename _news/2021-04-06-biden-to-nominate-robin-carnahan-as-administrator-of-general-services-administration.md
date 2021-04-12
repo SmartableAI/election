@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-adm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
 type: article
 quality: 168
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden admin secures agreements with Mexico, Honduras and Guatemala to secure borders, official says"
+    excerpt: "The Biden administration has secured agreements for Mexico, Honduras, and Guatemala to tighten their borders and stem the flow of migration, Special Assistant to the President for Immigration for the Domestic Policy Council Tyler Moran told MSNBC Monday.\n    \n"
+    publishedDateTime: 2021-04-12T13:38:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H5cTIlagSP0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-agreement-mexico-honduras-guatemala/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-agreement-mexico-honduras-guatemala/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402143317-01-mexico-us-border-0322-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration will not shut down Dakota Access Pipeline during environmental review, DOJ lawyer tells court"
     excerpt: "The Biden administration will not shut down the controversial Dakota Access Pipeline while an environmental review is conducted, a blow to the environmental and tribal groups that have rallied against the project for years.\n    \n"
     publishedDateTime: 2021-04-09T19:19:54Z

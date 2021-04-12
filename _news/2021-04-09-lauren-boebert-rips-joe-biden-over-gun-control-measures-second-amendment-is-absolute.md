@@ -47,6 +47,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Tennessee Defies Joe Biden's Gun Control Push with No-Permit Law"
+    excerpt: "The Republican governor announced that he'd signed the legislation as President Joe Biden unveiled a raft of executive actions aimed at curbing gun violence and tightening firearm controls. \"I signed constitutional carry today because it shouldn't be hard ..."
+    publishedDateTime: 2021-04-09T08:13:00Z
+    webUrl: "https://www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235"
+    ampWebUrl: "https://www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1774224/handguns-nashville-tennessee.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
+    excerpt: "It's going to be very hard to get any kind of bipartisan consensus' on guns: Ponnuru President Joe Biden announced limited steps, using his executive power, to address gun violence Thursday ..."
+    publishedDateTime: 2021-04-08T16:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/white-house-expected-announce-gun-control-actions-atf/story?id=76933179"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/white-house-expected-announce-gun-control-actions-atf/story?id=76933179"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/white-house-expected-announce-gun-control-actions-atf/story?id=76933179"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-biden-gun-violence-prevention-01-gty-iwb-210408_1617900253327_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "GkRnAv+YpNVag1mASwX+ZgoJm/aFYXSuOZKHf5q/XQ5RVdUzyDshGMwnboT6g9laxYVJ8scsJilgBPYq076V86ngZQt6/V+Fkv8To7EQdCH7DedDDqBO9MuxEEIP9jMwHvy29KrjSPEnNaVLEi5GbGM3UsIHE2NQP9gupcMgzcrVQoOFg9DAm8BF9F3dIy1o+mCgUXY9ZAliIoKpg0LeviFfxSRwHx+IZoZrnWJ3aFnLwzVgrCAnFIya4Pfl5E8ANDvs2/wTLKC+JvzNkmixjSM2YyRqJoneLLoZOfZzyfVQoCFfJDvGbfgBTEMfL53+uLzCVTYn38vESyqvJCjJOcixdUqx/4ySfgAFiv0vm12u6+w19oLEWuv0gdUVS5BUpiihhlVVpScuovTXKFdHFgsRcyWOmRNLd48Lp0GUv4L56MIK+iO1GYDoNriEIi/D6br8fzMKDEx36H2I2PQWfCevkD0Qak7dbn+Bkv1xJgOwIg+9A+EjB8mZ6Aj+ukCQAAhWjniGD8TeDKpXlmdGEw==;cPUEzZeI+giXqz06f9bpJg=="
 ---

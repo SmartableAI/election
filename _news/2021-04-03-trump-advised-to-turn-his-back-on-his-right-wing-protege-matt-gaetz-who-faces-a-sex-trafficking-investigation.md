@@ -31,51 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club"
-    excerpt: "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer."
-    publishedDateTime: 2021-04-10T11:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
+  - title: "Trump ally Matt Gaetz say he faces federal investigation 'regarding sexual conduct'"
+    excerpt: "Florida Republican congressman says he has never had sexual relationship with underage girl Matt Gaetz, a prominent Republican in Congress and a close ally of Donald Trump, said on Tuesday he was being investigated by the justice department over a former ..."
+    publishedDateTime: 2021-03-31T00:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 120
+    quality: 119
     images:
-      - url: "https://i.guim.co.uk/img/media/da0361692602303bd56482725aff0035c926bd36/0_88_5166_3100/master/5166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6086a62db396c12b20bdfa14f23aabbf"
+      - url: "https://i.guim.co.uk/img/media/e19abbddbb06134f5509b2b4af66e4186711a8d8/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b3f2957a9a90f90582890cf4af0d18a"
         width: 600
         height: 360
-        isCached: true
-  - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."
-    publishedDateTime: 2021-04-09T11:10:00Z
-    webUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Matt Gaetz is employing Trump-style fundraising pitches — including automatic recurring contributions that could dupe donors"
-    excerpt: "An envelope. It indicates the ability to send an email. Embattled Rep. Matt Gaetz on Thursday asked his supporters for a little cash, Donald Trump style. Gaetz's re-election campaign committee is employing a controversial fundraising strategy similar to ..."
-    publishedDateTime: 2021-04-09T20:21:00Z
-    webUrl: "https://www.businessinsider.com/matt-gaetz-trump-fundraising-federal-investigation-2021-04"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
-        width: 1024
-        height: 512
         isCached: true
 
 secured: "XTcrLioYAJi8gFO9/D9Oa4pEFCNv7ZLxriUimHveeEPx280jx2m+KxZGtTC3gqtaOEyXb5vCfJGZ79rMn0sh0EzH/ihgbT6YGQZBRvnR/SS5edbWYDDe2+ZSaQAA7rrAl9iHDwxfZPUIiNhV8xXX8DUAeqKRWvs9Dm1U6yHD4VKgorppeEYfFz1Fbh8Ki8GuWB5He/Z6+kMRayC6eA53c+nCJ7s8jBifFosWO6YsQGXRzmdSO66Qke8SvwsuLVX6Ifa+oTHSjqFyAtzAxi4FBohmbC5TZ/rUdszE8Uo5uIybgUffPRgDizFxTuVQa22B3OCy4gHWAdb+HQNl/9O/FpYhA4QyI8RjmNTu+JPNUY2dsI6+PHUS06XIkoLQsx0+315p80Q2BL1htS08w61RfoBsVQpy9FloCz7CbFsAh3KfcMhTXZoIOolXK8nRzNc4enhPgRNk2ydU6g5bTrhpZ0zl2X6w1/L8oEGsj23r5kf5AnEe8oFIi0oHyqBQRDf8DbyKTu1BW4k5uQ+pkNAyZg==;xGiUj1bOk7qA0qnFPVoMQA=="

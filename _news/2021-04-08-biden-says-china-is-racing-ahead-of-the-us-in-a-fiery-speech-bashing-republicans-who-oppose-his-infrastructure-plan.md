@@ -31,204 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Bumpy road ahead for Biden's infrastructure plan"
-    excerpt: "But Joe Biden believes he can use it to drive America to the future after a dozen years of false starts. The trip is unlikely to be smooth. Biden's $2.3 trillion infrastructure package ..."
-    publishedDateTime: 2021-03-31T21:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
+  - title: "Biden: 'Reassuring' to see companies speak out against voting laws"
+    excerpt: "President Biden Joe Biden Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE on Tuesday credited private companies with speaking up in opposition to new voting laws being passed in Georgia and elsewhere while warning about the impact on workers when businesses leave,"
+    publishedDateTime: 2021-04-06T20:52:00Z
+    webUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws"
+    ampWebUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_321a78dd44454ce7b60608ca3d71101e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_04062021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden unveils 'once-in-a generation' $2tn infrastructure investment plan"
-    excerpt: "American Jobs Plan would rebuild roads, highways and bridges; confront the climate crisis and curb wealth inequality First published on Wed 31 Mar 2021 05.13 EDT Joe Biden on Wednesday unveiled what he called a “once-in-a-generation” investment in ..."
-    publishedDateTime: 2021-04-01T14:54:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/biden-promises-historic-2tn-spending-in-infrastructure-but-capitol-hill-fight-awaits"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/bde4502fafa0ea923009147e68eea8005587272e/0_0_3500_2289/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3d41c19f69897c3e5615b8f01fc78ebf"
-        width: 600
-        height: 392
-        isCached: true
-  - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
-    excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
-    publishedDateTime: 2021-03-30T14:20:00Z
-    webUrl: "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/25/9cae5818-8a59-4895-b7b3-043827db64f5/thumbnail/1200x630/715b9965c2cc7d60f9872aee9b90ad30/gettyimages-1231927141.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
-    excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
-    publishedDateTime: 2021-04-02T13:22:00Z
-    webUrl: "https://www.cbsnews.com/news/infrastructure-bill-second-budget-reconciliation-senate-schumer-parliamentarian/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer-parliamentarian/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/infrastructure-bill-second-budget-reconciliation-senate-schumer-parliamentarian/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/25/9cae5818-8a59-4895-b7b3-043827db64f5/thumbnail/1200x630/715b9965c2cc7d60f9872aee9b90ad30/gettyimages-1231927141.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Americans 'want to see us get it done': Buttigieg on Biden's infrastructure plan"
-    excerpt: "Biden lays out massive infrastructure bill Secretary of Transportation Pete Buttigieg said Sunday that he believes it could be possible to get Republicans on board with President Joe Biden's ..."
-    publishedDateTime: 2021-04-04T13:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/this-week-pete-buttigieg-02-ap-llr-210403_1617479297934_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Buttigieg on Biden's infrastructure plan: Americans 'want to see us get it done'"
-    excerpt: "Buttigieg Secretary of Transportation Pete Buttigieg said Sunday that he believes it could be possible to get Republicans on board with President Joe Biden's massive, $2 trillion infrastructure ..."
-    publishedDateTime: 2021-04-05T18:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/americans-us-buttigieg-bidens-infrastructure-plan/story?id=76855812"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/this-week-pete-buttigieg-02-ap-llr-210403_1617479297934_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden to hold first cabinet meeting as he pitches $2tn infrastructure plan – live"
-    excerpt: "Transportation secretary Pete Buttigieg pledged that he would work diligently to gain bipartisan support for Joe Biden’s $2tn infrastructure package. “I’m not going to give up on earning Republican support for this because we know that Republicans ..."
-    publishedDateTime: 2021-04-01T13:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live?page=with:block-6065cbe38f08611d06d89112"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/01/derek-chauvin-trial-george-floyd-joe-biden-infrastructure-coronavirus-covid-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 118
-    images:
-      - url: "https://i.guim.co.uk/img/media/d7fc9d365c6cae174da2f0bfcd8a4f488e1fb19d/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f1cfddb394322bdd9cbbf705e0cfbb0"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Economist Defends $2 Trillion Price Tag of Biden's Infrastructure Plan: 'The Need Is Very Large'"
-    excerpt: "The chief economist at Moody's Analytics has come to the defense of President Joe Biden on the cost of his infrastructure plan, which could fall somewhere between $2 trillion and $3 trillion. \"It's large, but we've got a large problem,\" Mark Zandi told CNN ..."
-    publishedDateTime: 2021-03-31T18:02:00Z
-    webUrl: "https://www.newsweek.com/economist-defends-2-trillion-price-tag-bidens-infrastructure-plan-need-very-large-1580196"
-    ampWebUrl: "https://www.newsweek.com/economist-defends-2-trillion-price-tag-bidens-infrastructure-plan-need-very-large-1580196?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/economist-defends-2-trillion-price-tag-bidens-infrastructure-plan-need-very-large-1580196?amp=1"
+  - title: "Greg Gutfeld Calls 'Red Herring' Hunter Biden 'Crackhead Porno Goblin'"
+    excerpt: "Fox News' Greg Gutfeld described Hunter Biden as a distraction from what he sees as President Joe Biden's alleged wrongdoings on Friday following an interview the president's son had with Jimmy Kimmel. Hunter Biden discussed his struggles with drug ..."
+    publishedDateTime: 2021-04-10T08:01:00Z
+    webUrl: "https://www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581"
+    ampWebUrl: "https://www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-gutfeld-calls-red-herring-hunter-biden-crackhead-porno-goblin-1582581?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 112
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1768186/joe-biden-infrastructure-overhaul-proposal.jpg"
+      - url: "https://d.newsweek.com/en/full/1775414/hunter-biden-2016.jpg"
+        width: 3000
+        height: 1987
+        isCached: true
+  - title: "Biden's Coming Executive Orders to Include Requiring Background Checks for 'Ghost Guns'"
+    excerpt: "President Joe Biden is expected to include a federal directive mandating background checks for individuals purchasing \"ghost guns\" this week, alongside a wider series of executive orders addressing U.S. gun violence, the Associated Press reported on Wednesday."
+    publishedDateTime: 2021-04-07T22:10:00Z
+    webUrl: "https://www.newsweek.com/bidens-coming-executive-orders-include-requiring-background-checks-ghost-guns-1581843"
+    ampWebUrl: "https://www.newsweek.com/bidens-coming-executive-orders-include-requiring-background-checks-ghost-guns-1581843?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-coming-executive-orders-include-requiring-background-checks-ghost-guns-1581843?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1772860/president-joe-biden-executive-orders.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Jill Biden announcing next steps for military family program"
-    excerpt: "During the 2020 presidential campaign, she promised to revive Joining Forces. Shortly before President Joe Biden took office, the first lady . Brosius previously served as the program's deputy director. Biden is a military daughter and mother, with ..."
-    publishedDateTime: 2021-04-07T13:05:00Z
-    webUrl: "https://www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-announcing-next-steps-for-military-family-program-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden: ‘Inaction’ not an option on infrastructure"
-    excerpt: "President Joe Biden on Wednesday made a fiery appeal for U.S companies to foot the bill for his $2 trillion-plus infrastructure plan, but signaled an openness to negotiate how big their tax bill should be. This report produced by Jonah Green."
-    publishedDateTime: 2021-04-08T00:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE7J3NJ3"
+  - title: "Biden says over 80% of teachers, school staff received at least one shot by end of March"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that more than 80% of teachers and school staff had received at least one vaccination shot but that variants of the coronavirus are spreading and generating a rise in cases. “We aren’t at ..."
+    publishedDateTime: 2021-04-06T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-variants-idUSKBN2BT2T4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2T4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2T4"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 116
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210407&i=OVE7J3NJ3&r=OVE7J3NJ3&t=2"
-        width: 960
-        height: 540
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351E7"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden: Inaction on infrastructure 'not an option'"
-    excerpt: "President Joe Biden says he's open to compromise on how to pay for his $2.3 trillion infrastructure plan, but insists \"inaction is simply not an option.\" (April 7)"
-    publishedDateTime: 2021-04-07T22:12:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/07/biden-inaction-infrastructure-not-option/7132010002/"
+  - title: "Joe Biden Suffers School Reopening Setback as Survey Shows Fewer Students Attending Full Time"
+    excerpt: "President Joe Biden has been dealt a setback with his goal to reopen more schools for in-person learning, as new data shows that a majority of students are still not returning to the classroom full time even when given the chance. According to a new survey ..."
+    publishedDateTime: 2021-04-07T21:16:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-suffers-school-reopening-setback-survey-shows-fewer-students-attending-full-time-1581811?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7b6dc9f2-ffb6-430e-b675-95cbfb5aa480_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://d.newsweek.com/en/full/1772802/person-learning.jpg"
+        width: 2500
+        height: 1649
         isCached: true
-  - title: "Las Vegas, Nashville, Phoenix and more: Amtrak would expand, connect new cities under Joe Biden's infrastructure plan"
-    excerpt: "Amtrak late Wednesday released a proposed map of new and expanded service if it can land the $80 billion proposed by President Joe Biden."
-    publishedDateTime: 2021-04-01T18:15:00Z
-    webUrl: "https://www.indystar.com/story/travel/news/2021/04/01/biden-infrastructure-plan-amtrak-vows-new-routes-american-jobs-plan/4834427001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4834427001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4834427001"
+  - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
+    excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
+    publishedDateTime: 2021-03-31T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/31/biden-pittsburgh-infrastructure/?outputType=amp"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 52
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/cef02fc1-56cb-4463-a665-f7dca0a14e69-amtrak_routes.PNG?auto=webp&crop=1375,774,x119,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President Joe Biden's $2 trillion jobs and climate change plan would improve internet access, upgrade power grids and make road improvements"
-    excerpt: "President Joe Biden's $2 trillion jobs and infrastructure plan calls for improving roads, internet access and electricity grids. Credit: Spencer Selvidge for The Texas Tribune Sign up for The Brief, our daily newsletter that keeps readers up to speed on ..."
-    publishedDateTime: 2021-03-31T21:43:00Z
-    webUrl: "https://www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/"
-    ampWebUrl: "https://www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/03/31/joe-biden-american-jobs-plan/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 40
-    images:
-      - url: "https://thumbnails.texastribune.org/M_OWpqBYfVtAzMrXWG5y9_zsXiM=/640x429/smart/filters:quality(75)/https://static.texastribune.org/media/files/4f162e4fd0e8410452f896d2911d930a/Infrastructure%20FIle%20SS%20.jpg"
-        width: 640
-        height: 429
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IZPCBWURPAI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "ksb3wSm5uNZf+yuoZn+t8WEaIdnPs3ee/I+vvy+XqMumcQlV+/PR+0HetoaaMOsAW26FLtISru1IiLrx+AXCJoT+CPgoJ3A37zazgQFwd/VPyiZyhixg8nFuUKoEHKBH3G1yDhRKgMhXxAO8dAtmMCfhtDRwuAYTfnIkkkxlcrmVgbCiFAICv8fSsVMY16LhxUDZOFDsWMekh0uWBu0NxIjXhrsOLoPMWR4ZZmJ3BM8DaROIG/h3XlNUUJ8OUUITVskLUm1dXXKo0Hz7Dk2IcML1rBLnYw+hZVXGFzLw3TYkmWPnlYqJMrkL9LJKZffG+z6j3Oj2L4dH0CEh5D/IOTt88F3bCa18wqoYXdWmimUtwcwA5cxvYk5UM+PcCCSVLce+ZwiyEMs145XyRMdSXQIQwpmAr9Q5xL3oVkRTJwo7IDKbbbaPqXgjYagUnTM3XBI5ZJprpHD4vqdB1yzBPcakeozoFpkDU7tabQXsOe0Fh/xDtmbsbv9Yjby+Ah17vsWhCGWNPiD3Is097CkLDw==;ZN30BaxPLVBQK3FL0m7d7g=="
