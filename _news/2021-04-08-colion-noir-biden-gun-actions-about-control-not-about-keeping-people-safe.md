@@ -79,6 +79,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
+    excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
+    publishedDateTime: 2021-04-11T11:26:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/bidens_gun-control_policies_would_treat_everyone_like_a_criminal_540241.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "TCu23MQONG0Kpd/JqXoB/vXgROhIuppisW8oIeqf2IQpGObttBrnEUuPE9lfPjpyc+rj8DHRCb/q+OSA5sVINTQGkF01wzJDw+UZkN3g8KNOgTvmkoCPo2QqYI+i5K+a4JGElEN4I4cqXn8YEJl+y4k8OMFbmhSvRKpJcne6Cp6hjLQJ9HtKUlFODW6DSDD0e1KluvHbBZSPT3R0iruaEZ8Cq9a+KAtr2nZ4BMECCR5f+f9qJMDsKhF3FxbKBADzQGS0fcNwCED4LUxALFKeiIkcjP5b0Lq0i5lT8ThBXqt8DM3bl0LXvLxp1BI09mWY5qXbbFDJ2c9sImpbMhTlcuM4Zpa3OvxSshlIZN0m6Sk=;SWStNGRJw7B+xJfNEJMMlQ=="
 ---

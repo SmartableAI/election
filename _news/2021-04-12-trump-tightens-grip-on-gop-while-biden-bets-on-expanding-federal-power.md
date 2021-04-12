@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump tightens grip on GOP while Biden bets on expanding federal power"
-excerpt: "(CNN)Prominent Republicans rededicated themselves to Donald Trump's creed of grievance, lies and demagoguery this weekend as President Joe Biden bolstered his counter bet on the use of expansive federal power to ease America's crises. The dueling ..."
-publishedDateTime: 2021-04-12T00:54:00Z
-originalUrl: "https://www.cnn.com/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
-webUrl: "https://www.cnn.com/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
+excerpt: "Prominent Republicans rededicated themselves to Donald Trump's creed of grievance, lies and demagoguery this weekend as President Joe Biden bolstered his counter bet on the use of expansive federal power to ease America's crises.\n    \n"
+publishedDateTime: 2021-04-12T11:00:46Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3UQHOhkhxUQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3UQHOhkhxUQ/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
 type: article
-quality: 150
+quality: 190
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
@@ -429,6 +428,22 @@ related:
     quality: 187
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210134821-03-biden-myanmar-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Huge Trump-era and pandemic immigrant visa backlog poses challenge for Biden"
+    excerpt: "Even though President Joe Biden has moved to reverse many of his predecessor's anti-immigration policies, the consequences of those restrictive measures linger and have contributed to a massive backlog of nearly 2.6 million visa applications.\n    \n"
+    publishedDateTime: 2021-04-12T11:26:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nQDzHLPG0GQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-challenge-immigration-visa-backlog-invs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-challenge-immigration-visa-backlog-invs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408155934-01-biden-eo-jan-20-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -3321,6 +3336,6 @@ related:
         height: 773
         isCached: true
 
-secured: "bTJxG02pQ8gKxThMj6ZPWnENYqPqxkxmVIz2yKmp3Ckm6A9yRV4xB8qj0YQQrHHKegKXmi46m3QGLyZP0PEQX+Y74S5vcY+JY+7AOvJbYqYVLbZVht+Tcl8Q0L+qQnFxjXudUYaipg6eAx0FLCP+jtE/ERQAZk+h1ihruly9M3/5MdBv1/PMvZ2+5whW3evE1GodQxzpdahbZOdES5jgfXVoXysFAtSB+Z/Z0d3KEYdWgmi2lK7zoU4MhfNmmzAEb90dx3fEUtK5+GX8ryZo5ujKKRlI9lLtyZAP9yOuPsZIbdLD9AKKcybvX0fh0BEJQ3qQujwpJc7weTCYXdhgDMr0ge5Uc+3WlZgUNuR3b/zwOqAuJg/HnGUUzMCVp+v+WH0PvUEoOzWla4kEJzjNQ30qr4rUppAmMX+1CEm3IuVuq+TvP3sLw7Mfl2oCpVSoLF8iXHIcrS6xnNOcPr6m0x5atOft3UnKE1aUZPx06R7e8whEZ3aZW9yCDDdq82GMAHQTXl0HMxX9VYkSdZ8/Yw==;REBnGkPqBbOmP6VGWFZOwA=="
+secured: "+XevUwIr9s32fH6YigMcU5n1Zq+j8+0djXvAKItp0cLsbvNK4mNvMofNATRNU/W9hSmw+zQfzkLZSgrrdIkWg7tVaWRfo0H0Wuz29vALmCSdxq+dTS+yHDI6GXVQm0zagZgNE6TdGtpL7dRY9wsWpcpZYBlzENxoSO3Rqixzck4l+7JdbPm/QkTLHoAmScbjLdEc16GAqkNxfv28ftQ2oxH4DHJ2Lwsf9wlCb2FpG6NepAIEnB8EXcPlYPKSv5dU1WlOGWn+34pbfI4/laRlT7FOdHSsZTvfqB6SyPH6TCfPnP518TLIH6htJSSo56gaA9PcJN3gYr84USFAjk3NGbe75LG1/N8AlXEMLEB2P10=;oNwGFq/lym86hryvd2dx0A=="
 ---
 

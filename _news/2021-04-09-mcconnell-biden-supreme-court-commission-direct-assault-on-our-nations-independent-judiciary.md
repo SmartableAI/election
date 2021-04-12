@@ -31,79 +31,54 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
-    excerpt: "Fox News contributor and The Hill Media opinion columnist Joe Concha on Biden's Supreme Court commission."
-    publishedDateTime: 2021-04-11T16:37:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TiqozXQOZUQ/joe-concha-supreme-court-commission"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
+  - title: "McConnell again slams Biden as a leftist: 'Bernie Sanders is really happy'"
+    excerpt: "Sen. Mitch McConnell doubled down on calling President Biden “far-left,” after the administration shot back, saying Wednesday there is “nothing at all moderate about the administration so far.” "
+    publishedDateTime: 2021-04-07T19:50:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52572f02-94b6-45ee-8fe4-0071fa5b10ba/81856677-392f-4851-8704-576ba111c3fa/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38a79d73-0f3e-4976-86c1-df8b65cc7425/1a5adb29-437a-423f-b1a7-862019efd686/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
-    excerpt: "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'"
-    publishedDateTime: 2021-04-09T22:32:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUJMfA5OSYE/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+  - title: "Psaki says Biden ‘not eager to be labeled’ after McConnell calls him ‘left wing’"
+    excerpt: "White House press secretary Jen Psaki said President Biden is “not eager” to be labeled by Sen. Majority Leader Mitch McConnell after the Kentucky Republican called the Biden administration “left-wing.” "
+    publishedDateTime: 2021-04-06T19:11:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EGKB_4M0b9Q/psaki-president-mcconnell-left-wing"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-president-mcconnell-left-wing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-president-mcconnell-left-wing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden orders study on 'size' of Supreme Court, other possible changes amid liberal court-packing push"
-    excerpt: "President Biden will issue an executive order Friday to form a commission to study reforms to the United States Supreme Court.Biden, under pressure from liberals to expand the size of the high court, promised to create the commission during a \"60 Minutes\" interview back in October in the wake of Justice"
-    publishedDateTime: 2021-04-09T16:00:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bWINDkv33E4/biden-orders-study-size-supreme-court-liberal-court-packing-push"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
-    excerpt: "DNC general counsel. In the 2020 election, he helped Biden vet his vice presidential running mates, and then in the debate prep played Donald Trump in the debate prep for Joe Biden. So here we have a very touchy issue, should we or should we not expand the ..."
-    publishedDateTime: 2021-04-09T22:35:00Z
-    webUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3898acf2-fc08-4a0d-b912-eff0dfbf077d/d3876187-a51c-4d18-96e6-b7d37a330fda/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden2.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
-    excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
-    publishedDateTime: 2021-04-11T11:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/bidens_gun-control_policies_would_treat_everyone_like_a_criminal_540241.html"
+  - title: "McConnell says Biden's infrastructure package won't get GOP support, will oppose it 'every step of the way'"
+    excerpt: "Senate Minority Leader Mitch McConnell on Thursday told reporters President Biden’s proposed $2.3 trillion infrastructure package \"is not going to get support\" from Republicans and said he plans to oppose it \"every step of the way.\""
+    publishedDateTime: 2021-04-02T05:54:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wo4Vg7aR8tI/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-bidens-infrastructure-package-wont-get-gop-support-will-oppose-it-every-step-of-the-way.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Mcconnell-Biden-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "lI+UUyF9RhoadxPOV70/B0jg2t0BWuGzdr3VNWy9WDcea9GlYW126uumS+O6wiMZ8HcANn6NMOyoV5w7nXJrBq47XJrEPN8JQNbGKEipL4acIqmMpoe35LLTAVdGSxVAqcwQKfRXyJW8Q4A0szyMORoDsGFZ0N31YC1SmSH/g8egLer14EAwfPCceYMzTQzckoDbVtRvqZ0jIJSI5rh0TzboqVPFpLcYa+Z1+rXeoC24NGyFgzg4FhJKOGIVb2yHsla+TnbN4CKM/dBPdhqwa3FkRmlPB83MgcBp3xXI0YxsHs6Badrxr/sM4PkptJ1pZtVNsSKBbO0Jssfa9wyFT0Ob9NrSw5ogue15UeOa7gE=;M4MJCXzsMw4wqk9oQ0/kog=="
 ---

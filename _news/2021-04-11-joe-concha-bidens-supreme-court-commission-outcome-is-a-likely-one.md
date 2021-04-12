@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
-excerpt: "Fox News contributor and The Hill Media opinion columnist Joe Concha on Biden's Supreme Court commission."
-publishedDateTime: 2021-04-11T16:37:35Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TiqozXQOZUQ/joe-concha-supreme-court-commission"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TiqozXQOZUQ/joe-concha-supreme-court-commission"
+excerpt: "Fox News contributor and The Hill opinion columnist Joe Concha argued on 'Fox & Friends' Sunday that President Biden's Supreme Court commission is \"all window dressing,\" saying members of the commission will likely come to a conclusion that sides with Biden."
+publishedDateTime: 2021-04-11T16:40:00Z
+originalUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission"
+webUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission"
 ampWebUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
 type: article
-quality: 175
-heat: 275
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -46,22 +47,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "McConnell: Biden Supreme Court commission 'direct assault on our nation's independent judiciary'"
-    excerpt: "McConnell unloaded on the idea of packing the court and the White House’s plan to form a commission to study the idea of adding justices in a Friday press release, calling the idea a “direct assault on our nation’s independent judiciary.”"
-    publishedDateTime: 2021-04-09T22:48:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v3YcuBJEoqE/biden-supreme-court-commission-mcconnell-ginsburg-nine"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-mcconnell-ginsburg-nine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-mcconnell-ginsburg-nine.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7a0f7e6-faf1-4500-93c2-37eb42e606dc/b7ac2f32-0a4f-4190-9364-f3c0ebd79280/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Biden orders study on 'size' of Supreme Court, other possible changes amid liberal court-packing push"
     excerpt: "President Biden will issue an executive order Friday to form a commission to study reforms to the United States Supreme Court.Biden, under pressure from liberals to expand the size of the high court, promised to create the commission during a \"60 Minutes\" interview back in October in the wake of Justice"
@@ -95,16 +80,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
-    excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
-    publishedDateTime: 2021-04-11T11:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/bidens_gun-control_policies_would_treat_everyone_like_a_criminal_540241.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "2IF5tIgomXlSVBTJRc2/IrHBCVS7ncZBJqhruyOQFnOSfTjdqTQQXPiUa/IcwO73MJ2KcsH5XnbeUbWttW2qjcFfG+LWoVwuck2jWQ/OavFzORv8X2BIoMuc/GTTBPwTN22qgpKYRjFhrpuxqXbI1yHoxSzndqhye4XVxe7rR/SCJ2ryCovWQS4k07Tdhidtvb3UzQK0q4CCrM4ikOM08HrqW+Qf/nWXAobfOFeW1isZ3nvmdGuiz+QyE5MaQgw8BpYK3JWtR45z47GBy7iGlWY6kO1IBHixSCSYiZ0lnEHeZBcgxOJWg7JDya+QyEiftXnkoyKcAejAyWEFv9Dlj3zcHjpsjRJ0VdNjHG6RKwg=;XD0T3r8R5UD1lWbT/iqG1Q=="
+secured: "SMSFJmFe6YtVfv4j7cdQbojuTs0yOaKiYaRKsZh9HHIRAlMDfTFvDZcZSb6Zigt1QFMKsh5cQzzklt33o2c25PiRYJ2xhIk37UELkBum2iDD7VhIK16pl8vD10LVCbhKXH2/uOtcOesKmMwYBtFt/4/1TcyiARZHHqTkcGtHaahHlWjFdJV/VxfHlINvYIOZ/ExSrbnv90Mi0y+v9TZRYL7iLJIUQN/M+e88vhaHvfzDBRgoAD/KhDF1xHTwmsyiS1V0clXY8uxFMhuZTYf5Eo8yq5ewiZfGVEAek9lKhDKjNFjkVXQB4fE5LLnaZ2Z/9HE7/NMd+5CPNam/XfqxB7yasNfp6TEkHueasFrmaDM=;M2iGoFCkZtThCGZRixWhyw=="
 ---
 

@@ -367,6 +367,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump tightens grip on GOP while Biden bets on expanding federal power"
+    excerpt: "Prominent Republicans rededicated themselves to Donald Trump's creed of grievance, lies and demagoguery this weekend as President Joe Biden bolstered his counter bet on the use of expansive federal power to ease America's crises.\n    \n"
+    publishedDateTime: 2021-04-12T11:00:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3UQHOhkhxUQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z
@@ -428,6 +444,22 @@ related:
     quality: 187
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210210134821-03-biden-myanmar-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Huge Trump-era and pandemic immigrant visa backlog poses challenge for Biden"
+    excerpt: "Even though President Joe Biden has moved to reverse many of his predecessor's anti-immigration policies, the consequences of those restrictive measures linger and have contributed to a massive backlog of nearly 2.6 million visa applications.\n    \n"
+    publishedDateTime: 2021-04-12T11:26:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nQDzHLPG0GQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-challenge-immigration-visa-backlog-invs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-challenge-immigration-visa-backlog-invs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408155934-01-biden-eo-jan-20-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2300,22 +2332,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/02/us/politics/02dc-icc/merlin_185256909_6ba50a46-da01-42bb-bb97-16b6e30b6336-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Trump tightens grip on GOP while Biden bets on expanding federal power"
-    excerpt: "(CNN)Prominent Republicans rededicated themselves to Donald Trump's creed of grievance, lies and demagoguery this weekend as President Joe Biden bolstered his counter bet on the use of expansive federal power to ease America's crises. The dueling ..."
-    publishedDateTime: 2021-04-12T00:54:00Z
-    webUrl: "https://www.cnn.com/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 150
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."

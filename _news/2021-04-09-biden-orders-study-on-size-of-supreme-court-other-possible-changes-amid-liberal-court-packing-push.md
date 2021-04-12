@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
-    excerpt: "Fox News contributor and The Hill Media opinion columnist Joe Concha on Biden's Supreme Court commission."
-    publishedDateTime: 2021-04-11T16:37:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TiqozXQOZUQ/joe-concha-supreme-court-commission"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52572f02-94b6-45ee-8fe4-0071fa5b10ba/81856677-392f-4851-8704-576ba111c3fa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
     excerpt: "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'"
     publishedDateTime: 2021-04-09T22:32:11Z
@@ -63,19 +47,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "McConnell: Biden Supreme Court commission 'direct assault on our nation's independent judiciary'"
-    excerpt: "McConnell unloaded on the idea of packing the court and the White House’s plan to form a commission to study the idea of adding justices in a Friday press release, calling the idea a “direct assault on our nation’s independent judiciary.”"
-    publishedDateTime: 2021-04-09T22:48:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v3YcuBJEoqE/biden-supreme-court-commission-mcconnell-ginsburg-nine"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-commission-mcconnell-ginsburg-nine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-commission-mcconnell-ginsburg-nine.amp"
+  - title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
+    excerpt: "Fox News contributor and The Hill opinion columnist Joe Concha argued on 'Fox & Friends' Sunday that President Biden's Supreme Court commission is \"all window dressing,\" saying members of the commission will likely come to a conclusion that sides with Biden."
+    publishedDateTime: 2021-04-11T16:40:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7a0f7e6-faf1-4500-93c2-37eb42e606dc/b7ac2f32-0a4f-4190-9364-f3c0ebd79280/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52572f02-94b6-45ee-8fe4-0071fa5b10ba/81856677-392f-4851-8704-576ba111c3fa/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -95,15 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
-    excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
-    publishedDateTime: 2021-04-11T11:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/bidens_gun-control_policies_would_treat_everyone_like_a_criminal_540241.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "PabzPqNGjYNggMpHPf81XT4FkVMQh0zeYcR1g5FuwUU48TBFjN0/G8/n2UK3hASwtkaWJpmbhEgcpvkIb/jJUMlF06Xnt5A+ZP5QteFbL2KJMWXNN4tTZpaq7DcNvC5/mE4qpmkeRP7bzjT/jbVyvvvwg6s+YUZbDozH+p08mvbgZB5A6XT2PGoqECsooYmhic8mp1L1GvC60hDZ7pBLVEPbMU1iDpqppLYWGG20CD8VjxbL6UcgBK9YQcRl4tRCUnU18SCJbMWHZ5uXp92AZxMSWxNsJrxJzBRqGVI7kzjrb/b65E7VW4kTOojm1MvOBrZoCEo7OvquNzCGnxW/TXSVGEVse1WfH5TSnDYS8RQ=;wpoITT2cJRlRPUwdSjJCCg=="
 ---
