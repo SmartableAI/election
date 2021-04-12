@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Gaetz and Trump rep challenge report that the Florida congressman was denied a meeting with the former president"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% GOP Congressman Matt Gaetz, who is facing federal sex trafficking allegations, was reportedly denied a meeting with Donald Trump as aides try to distance the former president from him, CNN reported. Two anonymous ..."
+    publishedDateTime: 2021-04-12T02:15:00Z
+    webUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/607018a44d3e410018b702ab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "UltvvMAZSeWV34Dnyy33Rf6aqpr0hwgKnXZ5jo10Njnq5zQFV7u3D8zCAxNCISVvF7vob+rGwMaznH/eGqEIg7sFBUkZLzhZy6/X4WecGKa3H/ZWbSwJMCZpqnT+YXJ1BrksuTWBQoreCKulMN56VlBZPsXtKNXCUyHVR2W6jzAcqClr0rE9wrKecyYNRNnjW56lvnLD4sUG46GVgb/Yc9ckw1Px8PEO9VLALXfy1hINQTqv4GGN+YbyJW+1vq0T0nHlyWVkOZjCu0CrlUKlt6AglNTMp3WvOU3Z8kMsk5BGLm/BPz1hOEN9GctHAiBTxVwsoei/PzBccwF5pBlYyaZGYVKiSfgnbZBxOs6S1a8=;/9VI1L2RFBnPFjNSBAwh1A=="
 ---

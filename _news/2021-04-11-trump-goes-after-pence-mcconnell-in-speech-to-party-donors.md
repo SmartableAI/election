@@ -588,6 +588,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump : The key to Republican success is more Trumpism"
+    excerpt: "Former President Donald Trump has used a closed-door speech at his resort in Palm Beach, Florida, to reinforce his commitment to the Republican Party PALM BEACH, Fla. -- Staking his claim to the ..."
+    publishedDateTime: 2021-04-11T11:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-key-republican-success-trumpism-77003714"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b6d49faf981243478c6e3448b9a3e707_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What’s Donald Trump up to these days? I tried to find out via Instagram"
     excerpt: "Jimmy Carter returned to his peanut farm and found that it was $1m in debt. George W Bush got into painting. It’s early days, but Donald Trump’s post-presidential life has been just like his presidency: non-traditional. Aside from setting up an eyebrow ..."
     publishedDateTime: 2021-04-11T05:01:00Z
@@ -1151,22 +1167,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump: The key to Republican success is more Trumpism"
-    excerpt: "PALM BEACH, Fla. (AP) — Former President Donald Trump staked his claim to the Republican Party in a closed-door speech to donors Saturday night, casting his populist policies and attack-dog politics as the key to future Republican success. Trump also ..."
-    publishedDateTime: 2021-04-11T16:47:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-in-2024-He-says-only-that-a-Republican-16091757.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-in-2024-He-says-only-that-a-Republican-16091757.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-in-2024-He-says-only-that-a-Republican-16091757.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Business faces tricky path navigating post-Trump politics"
     excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to increasingly distinct constituencies helps explain the tension."
     publishedDateTime: 2021-04-11T20:26:00Z
@@ -1347,6 +1347,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VaM3C4MJztaumnQoHsaNNNARyscDSq+ds7HnwkD9yqWF6bNwOar+Pe0VYaux7giCcnTm0Jr0rfvOTJuG6Pj8wTB0U5fDvwi5zpaFi4R5q90plkkgp7WG1h2HtapsPJ8my5tMcpIUghrOlMzLWv0M0qDOazBsEH73zDjiXxmY7YSGEJ0RFtNppNhJF60vyiKheREmQVOCAznLyxciOR3MKOuuV5qtUxLZGsle7iijVE01U2qe61F11qG/vH6NqPxdLVAowJTO1BUyuHZxa+BKXGYXJ0qCxRByoO8yWSACAv5xtjcwonM8EY0Svxju9qIFSFjij04U/qPqSYCQGsw57cc6CuI2DFIYipIzm9g4jdM=;CqRhqX/w4XU9BpILlSyGoA=="
+secured: "/9c7pCzUd6UNqA10m1JsMo89pFbRiJwQC5cxOhuG/PjoqcdRRQlBI1Y2vRv7nJzAsKAlZTbuD6ODEVmVTA0bmuYcG1uvuHy6Vh2pG7B0FccPFHI5blk325lDy099pIRRPEGJOofxxWeySgDTYhjMQZUmpQHRTjjMYQrbzfH6d0VZa4wGUcxOJpbd2gQ0JnvWXScW8davcqzh9rFdgzeLEfOtAYd7ovwz+plscCdCCCPOazO3uJ838R9y9GZE9EkueuYzyLjheUtP2w873AUeJZO0KybVUrSJ9NcOS/E97tQcSWmk6grPR8M1Cje41rJgVos3JjCTizQrQq91kY0UVd1XKvleoJd1BabrxVXIMcOCvj0AQm/thtzUygrNtN27lUboVwRy1FySzmaB9VzUQevcd1dsB5Zde24z0O2rOjWUutMDR2XUOYjDN42DatXIwYwjmljr1gaR5i1jnkaukqoHuyVPiY++YTmAnB+WEn0ZvE6txGW1v6BMyih53iSWOAdk5Kkx3Tqs7dfwYvQRxg==;5MoqGkym8w7NiVSydCSaeA=="
 ---
 

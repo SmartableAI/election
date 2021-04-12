@@ -153,6 +153,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to meet Monday with bipartisan lawmakers about infrastructure"
+    excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
+    publishedDateTime: 2021-04-12T03:03:00Z
+    webUrl: "https://thehill.com/homenews/administration/547623-biden-to-meet-monday-with-bipartisan-lawmakers-about-infrastructure"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 105
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_04092021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
     excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
     publishedDateTime: 2021-04-10T15:01:00Z

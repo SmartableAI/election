@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden White House puts its police oversight commission on ice"
+    excerpt: "The White House is putting the creation of a national police oversight commission on hold, nixing a campaign pledge made by President Joe Biden to establish one within his first 100 days. “Based on close, respectful consultation with partners in the ..."
+    publishedDateTime: 2021-04-12T02:36:00Z
+    webUrl: "https://www.politico.com/news/2021/04/11/biden-police-oversight-commission-480931"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/22/6c/e8c7a90a42398e77f1d7b9d4b22c/gettyimages-1230800786-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden targets 'ghost guns' and 'red flag' laws in new gun control measures"
     excerpt: "WASHINGTON — President Joe Biden is trying to limit \"ghost guns\" and make it easier for people to flag family members who shouldn't be allowed to purchase firearms with a series of executive actions taken Thursday in the wake of recent mass shootings."
     publishedDateTime: 2021-04-08T17:37:00Z

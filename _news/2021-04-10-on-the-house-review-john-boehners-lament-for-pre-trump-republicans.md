@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2021/apr/10/on-the-house-review-jo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/bd333c30-2b30-4e72-8ea0-d705680ef3ae-XXX_20210405_Boehner_JK001.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Gaetz and Trump rep challenge report that the Florida congressman was denied a meeting with the former president"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% GOP Congressman Matt Gaetz, who is facing federal sex trafficking allegations, was reportedly denied a meeting with Donald Trump as aides try to distance the former president from him, CNN reported. Two anonymous ..."
+    publishedDateTime: 2021-04-12T02:15:00Z
+    webUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/607018a44d3e410018b702ab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "zRVOtCha+A3iLsRBR1F29BiX+78d2YbY71rnmyMV6xi7UfTyNqjgfBLNOlLRJDi6NlmwaBHPO1udnQEw7EXqVpewJCwK427i/DDtZQ6Bmo/G8EbyGIQjdQwqwviTHtn3VfFxPyXWcLehBSNaPktr09BATmgIoAxKSXaFY6E9Cmj1cI+rMMDbCZ0w7sqGKMhEmOgl46fJrl4DZ+yi3WfTq0D065mbL9IJzkrSpkyCzazQp4nWajauitt0FC7V/6/I0M3SlBHM1bn1y1hr0J8VMb8FFFbOflsjaCzkS5WV3KSCT6t/NTpwNfOQVLo9aS5rI7BIROnqSXzMqL4lv1jFjn9GJctu3wWv21MIS97cNfouq1zyUt9UfXCzmNIX4GqNK3O9wfZeKW2M7o67rTtjzPlcURD+GiOAjEcC2/BJJHPX29bsJr4Gr69juLuHMp05/EPz9Dv40bVsvIkoN77ajUlXfFliFwbApJmOOeDcVvd9wjFWEzJMoltmJd7HQDxF4TzcXN8ors0Aa4/JPXQzlg==;SfqEdlSUVryOGb8I5T9Ujw=="

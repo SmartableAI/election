@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to meet Monday with bipartisan lawmakers about infrastructure"
+    excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
+    publishedDateTime: 2021-04-12T03:03:00Z
+    webUrl: "https://thehill.com/homenews/administration/547623-biden-to-meet-monday-with-bipartisan-lawmakers-about-infrastructure"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 105
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_04092021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Why a Weakened NRA May Still Block Joe Biden’s Moves on Guns"
     excerpt: "Yesterday we connected by phone to talk about President Joe Biden’s latest efforts to curb mass shootings in this country. He’s not optimistic about what Biden is introducing by way of new gun ..."
     publishedDateTime: 2021-04-09T18:36:00Z
