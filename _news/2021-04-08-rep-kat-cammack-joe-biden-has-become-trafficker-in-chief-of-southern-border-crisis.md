@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-becom
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.amp"
 type: article
 quality: 166
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rep. Jordan: Biden's immigration policies have led to 'more than a crisis' at the border, 'It is chaos'"
+    excerpt: "Thank God for these agents who are working their tail off, but they are overwhelmed right now. This has been the left's hard policy that Joe Biden announced, you know, these changes that they wanted to make. We should just forget that these were the ..."
+    publishedDateTime: 2021-04-07T03:48:00Z
+    webUrl: "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/070b1ef0-be9c-4599-893d-7fee421d4274/7aa0f9bf-0270-4ff0-ae9b-de487b429f96/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "4/aZA09vnw6KtfAzMYBfwSzxye7XaTLuM+PvmvCj10TtLPgoDgp9wZHATMREksuZdeC/PFwNnclTnTYLT+L6psYBYxIj54A3PnOZXpT6Ibvk+6E2oZaWYsdhqGwGjRaY225XHrlHnoQr4gIqAyZRd8hnKWb72Ty51+O7HE7alG7ElXgJjMHvMnF+aWn4nK4aTy2aUECSiH13mVufc5DMUAZg54Hjre0hdc3Nl/OcDGcQpVV/iPY1He/DLAn8RGDggfoqoE1rjM3Am9Bt6zTHu/X1LnokACFA5u5eAXyLfXBaJAfHI/Bg5UNJHfCInqwUl5ME9iDxJNhgIzoEqEsActcy65SCjF+ahZAvFxXcm0E=;D0uD80Ub94h+v1mwURsMAQ=="

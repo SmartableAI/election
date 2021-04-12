@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-actions-gun-violence.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp"
 type: article
 quality: 173
-heat: 253
+heat: 233
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
-    excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
-    publishedDateTime: 2021-04-11T11:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/bidens_gun-control_policies_would_treat_everyone_like_a_criminal_540241.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "t3PfNcf8Jn4TNVTo3KouYtjhWy8deUJrvJBUHlAhJv8clq9CAf6pGRqbtaJHuko5tYzShjfyyO+RY0GHoVylIMte+QSV66Tskabug2EZCwhCVKg/PY/vRlnV3bKuKQnUSzjYVUl9jruriaQ9kgUSWe3XmBhqTL1ejfp0v9wm8c5joL5eDCwjUVadNGk3cOFWQknifJW0HwO1No7qQn3lqolmoACr2qAmQSd16EvDx2UlZDrGptnwipHLYlSDXnz4zTwL9Q1jTYJm4v0EtrCGjXRDCjAgWjERdRj1kHASIg2jH3ez8oK/1lUzveWyLZFTdiUr7hbslX7LahTWzoCebPYXkoCrNEomy2CFG/SKNsI=;30nZYsfyLqT7IRajpctgGQ=="
 ---

@@ -191,6 +191,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "GOP Senate campaign arm awards Trump as he rails against McConnell"
+    excerpt: "The National Republican Senatorial Committee (NRSC) presented a new award to former President Donald Trump over the weekend as GOP officials and fundraisers descended on Palm Beach, Fla.,"
+    publishedDateTime: 2021-04-12T14:07:00Z
+    webUrl: "https://thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell"
+    ampWebUrl: "https://thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
     excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
     publishedDateTime: 2021-04-10T14:15:00Z
@@ -334,6 +350,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/E7UE7f5xsHRVKrkom1-nCuO7GnU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YKFGTYK6BJGDBJP7VBHYYWF3UU.JPG"
         width: 1200
         height: 744
+        isCached: true
+  - title: "Senate Republicans Create New ‘Annual’ Award, Give It to Trump"
+    excerpt: "On Saturday night, Donald Trump embarrassed Republican donors by delivering a rambling, grievance-laden speech that attacked Senate Minority Leader Mitch McConnell as a “dumb son of a bitch.”"
+    publishedDateTime: 2021-04-12T15:20:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/senate-republican-award-trump-silver-bowl-champion-freedom.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/senate-republican-award-trump-silver-bowl-champion-freedom.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/senate-republican-award-trump-silver-bowl-champion-freedom.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4ed/6f8/d547981b4ff6b1f8e006aa60d872ee3269-donald-trump-award.1x.rsocial.w1200.jpg"
+        width: 706
+        height: 370
         isCached: true
   - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
     excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."

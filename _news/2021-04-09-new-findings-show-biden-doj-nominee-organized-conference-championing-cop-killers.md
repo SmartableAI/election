@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP Sen. Cornyn questions if Biden is 'really in charge'"
+    excerpt: "Sen. John Cornyn, R-Texas, questioned Monday if President Biden is \"really in charge\" as the president stays much quieter in the media than his predecessors."
+    publishedDateTime: 2021-04-12T15:50:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iKENcs9j3ag/cornyn-questions-biden-in-charge"
+    ampWebUrl: "https://www.foxnews.com/politics/cornyn-questions-biden-in-charge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cornyn-questions-biden-in-charge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e785e7f-be69-49c6-8b79-b9395a5e6864/9da93dc4-8bb7-4637-9606-a84bbdc11aa1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas AG defends 'public charge' rule on immigrants, public assistance dropped by Biden"
     excerpt: "Texas Attorney General Ken Paxton is defending a rule that limits entry for immigrants and their likely use of public benefits. "
     publishedDateTime: 2021-04-04T20:02:32Z

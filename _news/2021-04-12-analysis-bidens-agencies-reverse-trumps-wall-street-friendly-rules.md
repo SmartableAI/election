@@ -2,11 +2,11 @@
 category: news
 title: "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules"
 excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ..."
-publishedDateTime: 2021-04-12T12:01:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys-idUKKBN2BZ16N"
-webUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys-idUKKBN2BZ16N"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BZ16N"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BZ16N"
+publishedDateTime: 2021-04-12T14:03:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N"
+webUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ16N"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ16N"
 type: article
 quality: 140
 heat: 440
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558138677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK"
     width: 817
     height: 545
     isCached: true
@@ -270,6 +270,6 @@ related:
         height: 433
         isCached: true
 
-secured: "TtqW9xIHUxLNRMtkGCRnWKXWkeOFT1SM903AMv+TTLWMFPyV7d/YQHlX5Pkrk1Jv1dMcePAdaHJEyZp9D+kx/pg808tMfZyqjBYhpqj8Y495a+pEEyl6vQNr4e1+DWyP2cHmQVJY/YcSZIMBVYtv5NHYrzcioQnMz6CIrzIylE1vsWVGoQS+GoF8iWPAj8897XnVkqlsnZylkz7WSjkyZGZd3UdXz2gzx2AMjR5Odgc5Lyl2iJumsZq1+qD3XKRbVtJFFMI7g7+AbyERCoIPAQafwr4iVr36mYtUCZhsuVVBt7nhZ031oSM22izgKqTCr14iTpu2RfuX/fqLFFYr4GOolq4VtFDQAQyjX+f1ipw=;bqn56AR7i1pY21OgZPzpTg=="
+secured: "HfWZEnZpyp5iW/8OEOtbR9vl/zhGPWe+01anK2NVETb1g1BY7XcgpDJRa4mxu3KSkAZfdqM99M5b2ETUe7S5lpOUM3hD1O09d01sSruVQwM7MnwARzDWUKQRT6rgX5I6odRZWA00jX3WOA1Ic31232xWzSA+v1z/Qcd4IC20o7FyDdGUlYCzqNxWC5VeitM2gzZJJj8yzqr5W+s4hL2h/QMQVUvBfflO+ylJ0jB6FTXhAydLwNmc/0a8WMfEAr7oJAZLFkvJjjJKDcITXIpk8eihWgh3+DyogUsJdRf6HkSje2wigqYJ2YwrcVRnOu2R16VobME5AViyTS8FuDkM+WGmX12N+bZB395xoNmwHuc=;bmeSmg05lC9AJMaPxwb8DQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-gu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 415
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212124553-biden-health-care-eo-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to name nominees to lead two key immigration agencies "
+    excerpt: "President Joe Biden plans to nominate Tucson, Arizona, police chief Chris Magnus to serve as commissioner of US Customs and Border Protection and Ur Jaddou to serve as director of US Citizenship and Immigration Services, according to four sources familiar with the selections.\n    \n"
+    publishedDateTime: 2021-04-12T14:34:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qX54x4Axqos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218111150-ice-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -129,7 +145,7 @@ related:
         isCached: true
   - title: "Biden administration stands down on policing commission, focuses on legislative route instead"
     excerpt: "The Biden administration is standing down on a campaign promise to create a White House-led commission and instead moving forward with its efforts toward passing police reform through legislative channels.\n    \n"
-    publishedDateTime: 2021-04-12T13:07:20Z
+    publishedDateTime: 2021-04-12T14:12:12Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WST906Khm2I/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
@@ -142,6 +158,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden taps Tucson police chief to lead CBP"
+    excerpt: "President Joe Biden on Monday announced his intent to nominate Chris Magnus as commissioner of U.S. Customs and Border Protection — tapping a police chief from Tucson, Ariz., to oversee the mammoth Department of Homeland Security agency tasked with ..."
+    publishedDateTime: 2021-04-12T15:13:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/biden-chris-magnus-cbp-480947"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/biden-chris-magnus-cbp-480947"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/biden-chris-magnus-cbp-480947"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/0c/a0/394b0ea94476bb655b251ab0d45c/chris-magnus-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Frustrated military officials want Biden to make a decision on Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden's lack of a final decision on the future status of U.S. troops in Afghanistan just three weeks before a deadline for their complete withdrawal has begun to frustrate some military officials, according to current and ..."

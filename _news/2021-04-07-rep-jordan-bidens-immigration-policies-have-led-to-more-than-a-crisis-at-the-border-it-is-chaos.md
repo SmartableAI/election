@@ -32,17 +32,33 @@ images:
     isCached: true
 
 related:
-  - title: "Chris Wallace: Biden administration 'doesn't have much of an answer' to border crisis"
-    excerpt: "'Fox News Sunday' host Chris Wallace joined Bill Hemmer and Dana Perino on 'America's Newsroom' on Friday to discuss the Biden administration's response to the crisis at the border"
-    publishedDateTime: 2021-04-09T21:24:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CAZoeahzr0E/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis.amp"
+  - title: "Rep. Kat Cammack: Joe Biden has become 'trafficker-in-chief' of southern border 'crisis'"
+    excerpt: "Congresswoman Kat Cammack, R-Fla., called out her Democrat colleagues Thursday for calling the border situation anything but a \"crisis,\" telling \"The Story\" the Biden administration should have followed Trump’s lead."
+    publishedDateTime: 2021-04-08T20:53:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YfaGyl9P0H0/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Fleischer: Biden has history of 'trafficking' in racially charged rhetoric against opponents"
+    excerpt: "Former White House press secretary Ari Fleischer said Monday that President Biden has a history of using racially charged rhetoric against his political opponents, most recently, comparing the Georgia voting law with Jim Crow. "
+    publishedDateTime: 2021-04-05T17:34:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9pVOXkPU318/joe-biden-racial-rhetoric-fleischer-jim-crow-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-racial-rhetoric-fleischer-jim-crow-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-racial-rhetoric-fleischer-jim-crow-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340

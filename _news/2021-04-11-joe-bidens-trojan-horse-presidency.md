@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Joe Biden's Trojan Horse Presidency"
-excerpt: "Joe Biden was elected president after a campaign rooted in rhetoric emphasizing unity, moderation, and compromise. But with every day that passes, the veneer of centrism that got him elected over rivals such as Sen. Bernie Sanders becomes more distant of a ..."
+excerpt: "Joe Biden was elected president after a campaign rooted in rhetoric emphasizing unity, moderation, and compromise. But with every day that passes, the veneer of centrism that got him elected over rivals such as Sen."
 publishedDateTime: 2021-04-11T11:27:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/04/11/joe_bidens_trojan_horse_presidency_540242.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/04/11/joe_bidens_trojan_horse_presidency_540242.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/04/11/joe_bidens_trojan_horse_presidency_540242.html"
+webUrl: "https://www.realclearpolitics.com/2021/04/11/joe_bidens_trojan_horse_presidency_540242.html"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/540010_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "GOP seeks to pull back curtain on Biden tax shelter ‘hypocrisy’"
@@ -69,6 +75,6 @@ related:
         height: 340
         isCached: true
 
-secured: "+cLqCd8qAQi0Y8mFQG4bZsDHfB+Zmwb10tVOHdVTjH1uabXICJzwqoT2A81Sen1W0TU9HDsMli6t80cCoVepzkl2NWQomKEX5o87hbKkZOzhJodN9I+ZYboVhVEepGRJmxqK6dzN0aBQkCc5Luz5otukrmy52zD1kUWOdbNfKDNkF8INOOVCadn5+I5VNybzjX0cnOuWGGpXEr5VzaBV45R3TOWqi27E3+6R1fk56+tpedpO13LxX0RvwZrL635ApgmpUKq2NP+kTqi6BbddkQFtfIHdvrAt9FfluHYofEhEVF6m9SdCpey1QBT9HLpzsh02EaEhydN0rJwFkWrja6Eu1FpiS/TKVFgKTvwdMdk=;5z+FDdVfMAMxlWO3+glY+Q=="
+secured: "87SpVoBR3Ov8nnkDnZO/X7aC1q9TXh1g1HhrKM83k6oGkeet9HEng6kiF6LRW0s1UA2Eknf97Or03A3PCDksdG/o8r0oSQ5uYacfQnahX1ygHb7DkvjQqkwXM4OxS27JAaepnOs2r0zysAw0gFD6rPSC8G7YcnMoW7Vw2juaYZSh60WZIvbZZiuAbnOi+lEJgKJsKLWL7h7wKj+TXjIPGSFkH6W2yihqD6zMjqk0sKNQ64u05Uj6l8FeHfkG3ZujaK/qQEHj0jPLERnIg2J+8QVM5/3OjJYUWKB9RZ04P86+tPyErD1U7+v8dFR4W4VOOKpuNxrpzbhkNXc2O0tDG+Nxn6J738bipOBwwIzbX6M=;ee40PAk2aIgXPYbagcg/jg=="
 ---
 

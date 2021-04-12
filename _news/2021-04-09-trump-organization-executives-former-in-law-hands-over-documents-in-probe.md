@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "White House to Nominate Two Trump Border Critics to Immigration Posts"
+    excerpt: "The White House will nominate two critics of the Trump administration’s border policies to lead key immigration agencies as a surge of migrants at the southern border has become a challenge for the Biden administration."
+    publishedDateTime: 2021-04-12T13:54:00Z
+    webUrl: "https://www.wsj.com/articles/white-house-to-nominate-two-trump-border-critics-to-immigration-posts-11618239252"
+    ampWebUrl: "https://www.wsj.com/amp/articles/white-house-to-nominate-two-trump-border-critics-to-immigration-posts-11618239252"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-to-nominate-two-trump-border-critics-to-immigration-posts-11618239252"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-323635/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "a72GU9d1OJCA++k2TcW7malsJT2BAzHiRDdKPz2Isl0yBtHgOOfYcpm2VI9dTh3+vaWsaA5Nt+E3o9ftYJ8od4mrXjGhmyv6aZbpE4smav1VNG04OzmB8XbvqA1EdZbbbkrOBKcCJpeX7GKtt+VD2ci/IlLdbDkYErJc31Ocdc8rmh88LfzQLv+YizVXw5TE/8+8tT4A+URpV5GHUXzNkORgKF/RLQBWBWY9tx2UIxTbXWAZVi3wNl09vnP4ZYDpyVs3BltPhxePg+YoDoW04ecVyZ/L/bKHiPOXZNrGbafN2hryrWtoYb/nhAuvJ/+sFP3PgsYYOqfyQHE76VK39HS6XXaLI3r/io+GSY3kzQc=;jjpQUZF+Bj4W0wFuC6BeOA=="
 ---

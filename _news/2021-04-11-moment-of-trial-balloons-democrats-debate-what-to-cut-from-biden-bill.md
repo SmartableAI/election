@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to name Chris Inglis as new national cyber director"
+    excerpt: "President Joe Biden is expected on Monday to name Chris Inglis to the new position of national cyber director, an official familiar with the matter confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-04-12T14:42:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3EGGqAIlJKg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-chris-inglis-national-cyber-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-chris-inglis-national-cyber-director/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Major Biden to get training after two biting incidents"
     excerpt: "President Joe Biden's German shepherd, Major, will receive training after two biting incidents involving workers at the White House, according to first lady Jill Biden's spokesman.\n    \n"
     publishedDateTime: 2021-04-12T11:38:06Z

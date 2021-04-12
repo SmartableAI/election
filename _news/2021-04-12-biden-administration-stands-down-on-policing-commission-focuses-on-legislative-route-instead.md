@@ -2,7 +2,7 @@
 category: news
 title: "Biden administration stands down on policing commission, focuses on legislative route instead"
 excerpt: "The Biden administration is standing down on a campaign promise to create a White House-led commission and instead moving forward with its efforts toward passing police reform through legislative channels.\n    \n"
-publishedDateTime: 2021-04-12T13:07:20Z
+publishedDateTime: 2021-04-12T14:12:12Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WST906Khm2I/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WST906Khm2I/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212124553-biden-health-care-eo-0128-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to name nominees to lead two key immigration agencies "
+    excerpt: "President Joe Biden plans to nominate Tucson, Arizona, police chief Chris Magnus to serve as commissioner of US Customs and Border Protection and Ur Jaddou to serve as director of US Citizenship and Immigration Services, according to four sources familiar with the selections.\n    \n"
+    publishedDateTime: 2021-04-12T14:34:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qX54x4Axqos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218111150-ice-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden taps Tucson police chief to lead CBP"
+    excerpt: "President Joe Biden on Monday announced his intent to nominate Chris Magnus as commissioner of U.S. Customs and Border Protection — tapping a police chief from Tucson, Ariz., to oversee the mammoth Department of Homeland Security agency tasked with ..."
+    publishedDateTime: 2021-04-12T15:13:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/biden-chris-magnus-cbp-480947"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/biden-chris-magnus-cbp-480947"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/biden-chris-magnus-cbp-480947"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/0c/a0/394b0ea94476bb655b251ab0d45c/chris-magnus-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Frustrated military officials want Biden to make a decision on Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden's lack of a final decision on the future status of U.S. troops in Afghanistan just three weeks before a deadline for their complete withdrawal has begun to frustrate some military officials, according to current and ..."
     publishedDateTime: 2021-04-08T16:33:00Z
@@ -192,6 +224,6 @@ related:
         height: 619
         isCached: true
 
-secured: "K5AGgu5+rF4Y4SJ6YXx7Af5JHJqZvVkgHRFgz+IitDX3hA3ZQ8cqIcmpq5pmlF+yCFy1Ee1EQhYu+i+k3H4RCTlH/5LHI4nEXzQQsO7GORbfmEjXnqMvHYMLY8586jNE9F1UB5ENl5fILgvWsMZg6uV6KYwwzLbvhPpKXf2KgyTS6sD6kGk1wbUuF25/iRI8uSgh90oAKDcv3ZYYicPfrviUya5KucQDIupnX9RvCkmR6hcSCpWzlIiAi8I+BHvu6zv7zU8spOmehnC9xZ3TuuVYIZ9Rvs4g13EkL4AX38YA2F4oo7kNDATWFnOeFWj7WSCZer2QsWDGNUFgEvdI5yFl+11x95cpB8eXbyrF+6A=;onTqn8vwWfxojiYSLQgZVw=="
+secured: "YsY5DOJaqU+JDOISjGBCkBs4LRsgl/QDKfqBs9z8/PYXKEjcawRzurHMvk+/YTH56V27tUZ0s/5E3euyVhAbcKWlCJj/kA81J0e8jBSlkeKzCnwqxpnW5l5m/iRbnwdYTCU9LmKp1A8uxTjFgxCvxJkOyim2rmahq+8ue4VIuBwY5GxnWQQy1SFkJ4b6jJMDHAXTz+U1S1SDvQo68Jld3iIUXy+OxBYm1EvyT8bECm+DpAlnun2KtxhGiVAJaKWeeCvFe8xn2Gnfe7ILouuBsxm6ZpSmUm2smtS1RGcPOLcDAOUEKbTCkBAyAMQLl3PHHEhlMTaYn21jlPrt7ATP0eTCDSoOqOpQN9rJK7ak6oc=;b70dGHwS3BmCpSZOHWS64w=="
 ---
 

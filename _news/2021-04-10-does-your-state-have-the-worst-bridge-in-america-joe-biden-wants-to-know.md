@@ -139,6 +139,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "55 progressive groups urge Biden to go big on 'family-friendly care infrastructure'"
+    excerpt: "An envelope. It indicates the ability to send an email. The first $2.3 trillion part of the infrastructure package President Joe Biden unveiled on March 31 included some elements related to care-economy measures, like investments in home care. But ..."
+    publishedDateTime: 2021-04-12T15:18:00Z
+    webUrl: "https://www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/progressive-groups-urge-biden-to-go-big-on-care-infrastructure-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/606584ffdaf0f10018f9964b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ramadan begins, Derek Chauvin trial, Biden's infrastructure plan: 5 things to know Monday"
     excerpt: "Chauvin is charged with second-degree murder, third-degree murder and second-degree manslaughter in Floyd's death. President Joe Biden will meet with a bipartisan group of U.S. House and Senate lawmakers Monday to discuss his proposed $2.3 trillion infra ..."
     publishedDateTime: 2021-04-12T07:56:00Z

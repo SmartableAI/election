@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/e9796f93c669f544119eb2a950a7bd1ee4d5f6ef/c=14-0-2787-1560/local/-/media/2021/04/03/USATODAY/usatsports/MotleyFool-TMOT-837fccfc-biden-2800x1560.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden to meet with bipartisan group to discuss $2tn infrastructure plan – live"
+    excerpt: "Trump specifically criticized McConnell for allowing the Senate to approve the certification of Joe Biden’s victory in the presidential election on January 6, hours after a group of the then-president’s supporters staged a deadly insurrection at the ..."
+    publishedDateTime: 2021-04-12T13:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074465a8f08ebe74739e6e9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/eeb1b92cbbbba82a113fbd42fbd029ce28f4afa1/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad478ba2b23afc922ddf69227f5fe898"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
     excerpt: "He called shootings in the U.S. an \"international embarrassment.\" Biden takes aim at gun control President Joe Biden announced limited steps, using his executive power, to address gun violence ..."

@@ -29,17 +29,17 @@ images:
 related:
   - title: "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ..."
-    publishedDateTime: 2021-04-12T12:01:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys-idUKKBN2BZ16N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BZ16N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BZ16N"
+    publishedDateTime: 2021-04-12T14:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ16N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ16N"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558138677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK"
         width: 817
         height: 545
         isCached: true

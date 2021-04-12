@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hogan-gidley-election-integrity-non
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
 type: article
 quality: 189
-heat: 309
+heat: 329
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-tweets-73.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "White House to Nominate Two Trump Border Critics to Immigration Posts"
+    excerpt: "The White House will nominate two critics of the Trump administration’s border policies to lead key immigration agencies as a surge of migrants at the southern border has become a challenge for the Biden administration."
+    publishedDateTime: 2021-04-12T13:54:00Z
+    webUrl: "https://www.wsj.com/articles/white-house-to-nominate-two-trump-border-critics-to-immigration-posts-11618239252"
+    ampWebUrl: "https://www.wsj.com/amp/articles/white-house-to-nominate-two-trump-border-critics-to-immigration-posts-11618239252"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-to-nominate-two-trump-border-critics-to-immigration-posts-11618239252"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-323635/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Organization Executive’s Former In-Law Hands Over Documents in Probe"
     excerpt: "A Trump Organization executive’s former daughter-in-law turned over financial documents Thursday that Manhattan prosecutors had subpoenaed for their investigation into former President Trump and his company."

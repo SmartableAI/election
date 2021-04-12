@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-biden-administration-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis.amp"
 type: article
 quality: 168
-heat: 188
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Jordan: Biden's immigration policies have led to 'more than a crisis' at the border, 'It is chaos'"
-    excerpt: "Thank God for these agents who are working their tail off, but they are overwhelmed right now. This has been the left's hard policy that Joe Biden announced, you know, these changes that they wanted to make. We should just forget that these were the ..."
-    publishedDateTime: 2021-04-07T03:48:00Z
-    webUrl: "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-bidens-immigration-policies-have-led-to-more-than-a-crisis-at-the-border-it-is-chaos.amp"
+  - title: "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'"
+    excerpt: "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare."
+    publishedDateTime: 2021-04-12T15:44:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 119
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/070b1ef0-be9c-4599-893d-7fee421d4274/7aa0f9bf-0270-4ff0-ae9b-de487b429f96/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/458e1351-a334-436c-a243-c5de219cc253/ba8d7be5-8ec3-40ae-85ca-a697844886d5/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Democrats, Biden push limits of infrastructure definition as fight over spending plan takes shape"
+    excerpt: "Democrats are pushing the limits of what can be defined as \"infrastructure\" as they aim to sell President Biden's $2 trillion-plus spending plan to the American people. "
+    publishedDateTime: 2021-04-07T16:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9uf2dICI7Qs/democrats-biden-push-limits-infrastructure-definition"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "6AbhRLu5JRkPoaOQGuD4FP4r9AFo0kfpESorP9QT3yhncnwYwa0S+zG/ukW3d645GyLkEbMKGgFihM0kfKsLmX7VcX22uufysLEr3+r8nF7C1axiAQBkGTWl1MJn3ZDv5xC9zsNL/aEAH6Sg7hndYA21iVFvt+0a3Tt9sMpwrztfaVwIpVEJtk2nEDuHsNEPsUZla8alhg0LR+MIQDoJi+RPaI/NoYUGRNpXFinl3pIgBzXVvQpWF6koCWo+xbH5gRFYbB3JKPYUTc2b5+HGWTXTleWXwqiY1BCuK749CUsVQPJ4GE/HwpOfDZusaBD2qHqZEsk0f3dJ2e/ID2KmjGuxGVmPqg136QN8z54A/IA=;pnglJVKMHu0qGkIw96JdRw=="
