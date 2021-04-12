@@ -53,7 +53,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 113
+    quality: 123
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/2dbb7d85-9ece-4fbf-88c2-c7acdd6a1bd1-AP_Trump.jpg?auto=webp&crop=2702,1520,x0,y1460&format=pjpg&width=1200"
         width: 1200

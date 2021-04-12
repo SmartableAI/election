@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Donald Trump breaks his silence on Matt Gaetz"
-excerpt: "Former President Donald Trump released a short statement in response to reports that Rep. Matt Gaetz (R-FL), one of Trump's most vocal defenders, asked him for a pre-emptive blanket pardon. CNN's Ryan Nobles reports."
-publishedDateTime: 2021-04-07T21:59:00Z
-originalUrl: "https://www.cnn.com/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
-webUrl: "https://www.cnn.com/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
-ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
+title: "Embattled Florida Rep. Matt Gaetz is denied a meeting with Trump"
+excerpt: "Rep. Matt Gaetz, whom federal authorities are currently investigating for potential sex trafficking violations, was recently denied a meeting with Donald Trump at his Mar-a-Lago estate as the ex-President and his allies continue to distance themselves from the Florida congressman.\n    \n"
+publishedDateTime: 2021-04-12T01:58:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uo3JSDCJgEs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uo3JSDCJgEs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/11/politics/matt-gaetz-donald-trump-denied-meeting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/matt-gaetz-donald-trump-denied-meeting/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407175536-donald-trump-matt-gaetz-split-for-video-02-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331140547-01-matt-gaetz-file-2020-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -45,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408162348-04-gaetz-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Embattled Florida Rep. Matt Gaetz is denied a meeting with Trump"
-    excerpt: "Rep. Matt Gaetz, whom federal authorities are currently investigating for potential sex trafficking violations, was recently denied a meeting with Donald Trump at his Mar-a-Lago estate as the ex-President and his allies continue to distance themselves from the Florida congressman.\n    \n"
-    publishedDateTime: 2021-04-12T01:58:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uo3JSDCJgEs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/11/politics/matt-gaetz-donald-trump-denied-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/matt-gaetz-donald-trump-denied-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331140547-01-matt-gaetz-file-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +95,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Donald Trump breaks his silence on Matt Gaetz"
+    excerpt: "Former President Donald Trump released a short statement in response to reports that Rep. Matt Gaetz (R-FL), one of Trump's most vocal defenders, asked him for a pre-emptive blanket pardon. CNN's Ryan Nobles reports."
+    publishedDateTime: 2021-04-07T21:59:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/matt-gaetz-donald-trump-statement-nobles-pkg-tsr-sot.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407175536-donald-trump-matt-gaetz-split-for-video-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Matt Gaetz, Loyal for Years to Trump, Is Said to Have Sought a Blanket Pardon"
     excerpt: "The congressman was at the time under investigation over whether he violated sex trafficking laws, though it was unclear what he knew of the inquiry."
     publishedDateTime: 2021-04-06T23:44:00Z
@@ -159,6 +158,6 @@ related:
         height: 629
         isCached: true
 
-secured: "MtXbFUX3fZHiueKrKeYXRNnv/FRt7kid6r4YNPS+fvA39D1KLoKO/UYfqKOxxbSQnpNxmR1cyrGWei/Z11sRmxnyTQiJckoQGOugQsoFODCDwo46xCtIr+BWvRl8WpSpnJfOfc+qsVf1xEZ5DfHAjgddk45cbpmRZnwjX7va6hvzl+jJmNnZ62jlzfkcVz3RSmv87DuYkN46JZzSTxG3SO14+Kc7BgQqMrvD+XByo/xSvqv+R1sUsA4/uO1Y6TeOtM96BttgIGmcgaWuCd6Jy3+zVOc7EgvLCMxZJlDQsLPXNHv3ByoAQuzWjM1GNoygjg1yevkSXaqiVlRPQXspuqXWd5UftfFECczdggmVqlAB+6l+dP7m6rg0yTq0GQlEQBDPHWvzSWfK5qBksFZtBqo29rPL7s7VMtxxR+fQTpXfJCypa1fCsa2WwBhdUYbiVQA03xniWxpolIh85geon/dA2lh0TaBVJLiy3syr+uRvjA0CT/+IJbT44ge+7FnOiWoqzGSsIHeLhkk0p2mB7g==;SocC0GgE4WAHWMl7x8B5CA=="
+secured: "rbtb7rMU7JtalPiFcyywA0HpOQoIlPJSxk4GDdnFALGJwyYjBU6ua61funqj387I/Hfpp7izpWRt8+ONS+IhjiqiwLHk1K32nvCFq8CGG8//0w5JE8UX8zgOuOn0+/fY/vy6DLre737aNT4vFFtsTlObf4WAhPSAXmOSfD5FBiybUtO8s3AoZfz/BnuVJeQ/5dtJzxZ68jfwC4+QcmObYSwfSWPJ2aV/jep+acuibhqBaWaN7YYEc22SmtYPHzule4OYupP6F33MbuC3ptHUpoQeoL+U1fFQwF4yG8CpZ+pbH/fT1DsSpLu5FH0TFlb1T6XjJOMfT8pnLpBu+O3wQZWoYPyDyITSmzR2zDEpZ3E=;wAr3EanqFVVOc6dNjQCl6g=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden: Could his tax plan affect US investment in Ireland?"
 excerpt: "But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules. In among those tech company HQs in Dublin's docklands, you will also find the offices of the lawyers and ..."
 publishedDateTime: 2021-04-11T06:11:00Z
-originalUrl: "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7"
+originalUrl: "https://www.bbc.com/news/world-europe-56692865"
+webUrl: "https://www.bbc.com/news/world-europe-56692865"
 ampWebUrl: "https://www.bbc.com/news/amp/world-europe-56692865"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 576
     isCached: true
 
-secured: "CuNF+Lza0yD2LnreLum/3o1dg1SYTzi53ypu1cmZS5j3pr57c0cowzvXQGdtJ/FvXvvfIjSNZVitWXujhVhInlx4fFIdjjAcQigOudo7CeNbE9RN0LVtIL4Ttv9ewy/Val1O2bJaWc4dg4rDGj3pH8QNe5Ev13+BIaDUSbnrwW+HVEZiK5xuHyjpBdHSh+Z9ta/tbMx1LFK/9B+jnNo8/OqLzMWsZpt63TGVmaLf2rboJTB5Oh9qNgZw4cy99mnZJa8RrZM4pjHMtFLExVro3v47k7JG/yve3vXOLhWTg4D+kymSqcvF8TYfAXcHR8y0u7TCXJIyjfkioJqSjBwQDvRUAzRcNbT0AU9ABAZUBkfp4qXxFMV4/jkXvIm/k45Czstx3aPO17KFfCnoSiovkHkWN91I3HUX73u6Y7kO4FwVUrNGU2m1xnjub7kLMAz7hQYXOR6qN4szVQ33xC7FXElir9aIpYIK3x/SUSpBu6ugfs0wkOPjiqLR1VuPXa/g8TNdZw9GiZGqYMQP22th3g==;s3OBcL3qon+7ByZnuZUzEQ=="
+secured: "/1GCr/Ei577oZ+GTKyrN+aamLETb+2/jnT7c1ZBU85qma13X5R5YfuLIBHq/G1cdxG9HPoLM9AsaEsuAZtloAcPpvlvFIgRvx0GQafyHSi/jDoU2gibPIifsXP6ypYDGszUL6LIOYOtjlgh6j7TDBjN5uT3JOIzLtkckOftjQQP2COZY+Ropw1F1Y/fBFn9TZpv4stc590YCX+z8wXizDhiij3qzzt2xx7DyFkZTWHSX7wz8cXJw1y2kRy+zNKXu92HuMMKmwLU/s0Ui+pNLAUKw15+hN+cmA1c0Ttl2AD9b7Mk03Tg9tFUyk+EWgjxdiXQqYVBIT/bK1BtRvv1N8hM26iBogvpiv5V8dpSYAyI=;aV4zifOWoNwGoeZp1G6TtQ=="
 ---
 

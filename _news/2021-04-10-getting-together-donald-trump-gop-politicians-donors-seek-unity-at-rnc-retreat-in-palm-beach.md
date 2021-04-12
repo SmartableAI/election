@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/news/politics/2021/04/10/donald-trump-re
 ampWebUrl: "https://amp.usatoday.com/amp/7167091002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7167091002"
 type: article
-quality: 113
+quality: 123
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Mike Pence
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/2dbb7d85-9ece-4fbf-88c2-c7acdd6a1bd1-AP_Trump.jpg?auto=webp&crop=2702,1520,x0,y1460&format=pjpg&width=1200"
@@ -64,6 +65,6 @@ related:
         height: 3024
         isCached: true
 
-secured: "hoW2ZBNjzV4B3c5xYskm40e1U5Byw4QsBHt/MR3UtPRC/tIlcCZ0IlJTQXbk2jMenn6O50nNgGZFInKr0n0JESW2Cxy90FkY1DfFRttTHoTf+xGmFstiDsyagRauypKBItjhIWlMa9isB/9d55cYMJW8FhTlOpoSf4PsF084srgOTQov/T0S3UmAag9wsShJteKEhgiJ73WL2mWOCZUys0nKR4WOYMRwIZ3kemr1BqAOxy+qy791qWqaoOgkHSFXmu65kRxwz739oX0zQ3nWTpoxsbU830R24gQwo+F0C6kD3dnAvZmmLOw3bsYhjcswZ6hxVYTOxAKINP6GRQZ3P/3MX9juYnmAxHlbbUuKN74=;Pbz0rryByHMxblXde1nZYQ=="
+secured: "htGrNyNoHSnq2NPWxLgUzQBy6U/FFHs6/Bpx4PLHeei+lT9G4MC8vyB4Bnwm48sJyWfQBjCl+4MGKfS0na0979rniOKSDoceWRmxHdK/Nj5ODCRUwML3wj1koYkHHC84bSVEI2hE22sTd4CFPhae7USE0Nwphhfzo+mI3B212j/dJwcHR2EF6WOI6diD/PnBUmxbdG+IBRGCb0cBRK0QOEVKXnVcop/JaYL0tyAWg05l8ZUTQt6Ps0+GFFdaP9M0LmZ5Xsz/5xyaxLNimOcrW4AxpvrYWAsoc/KRVjWydvCHY07AqgEO6QKrTa51uDQLZttR1zRL5lBxOUkbNH9t9SeJUcIE6pmF5MDx2DIDrYeIY6wRcHsHh6H8LV/SqX20wPaLx+f8p64fKcaTKPo+D+gjOb67SXQt4PiB7IksHkPvIldALh3GjmdgtqMM/4BrCoIo0FsRJe6l7XNlrLoH7CZX2fFoWkHBXWFAbCJOrMPvThYY5tU1go+xI2cV/fFf37WMF9Qbl40gETwaqeztwA==;TTjYv1eapPEISL9OimeIUw=="
 ---
 

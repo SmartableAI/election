@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Embattled Florida Rep. Matt Gaetz is denied a meeting with Trump"
+    excerpt: "Rep. Matt Gaetz, whom federal authorities are currently investigating for potential sex trafficking violations, was recently denied a meeting with Donald Trump at his Mar-a-Lago estate as the ex-President and his allies continue to distance themselves from the Florida congressman.\n    \n"
+    publishedDateTime: 2021-04-12T01:58:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uo3JSDCJgEs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/11/politics/matt-gaetz-donald-trump-denied-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/matt-gaetz-donald-trump-denied-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331140547-01-matt-gaetz-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New York Times: Matt Gaetz sought preemptive pardon in final weeks of Trump's presidency"
     excerpt: "Rep. Matt Gaetz privately sought blanket preemptive pardons for himself and his congressional allies during the final weeks of Donald Trump's presidency, two people familiar with the discussions told The New York Times.\n    \n"
     publishedDateTime: 2021-04-07T01:47:26Z

@@ -1166,6 +1166,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Business faces tricky path navigating post-Trump politics"
+    excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to increasingly distinct constituencies helps explain the tension."
+    publishedDateTime: 2021-04-11T20:26:00Z
+    webUrl: "https://www.chron.com/news/article/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."
     publishedDateTime: 2021-04-11T16:04:00Z
@@ -1306,6 +1322,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump, Speaking To Donors, Sharply Insults A Top Republican"
+    excerpt: "Addressing a meeting of affluent donors and top Republican officials, Donald Trump spent more time lashing out at fellow Republicans -- and most sharply at their Senate leader -- than at Democrats, news media reported Sunday. The former president ..."
+    publishedDateTime: 2021-04-12T00:05:00Z
+    webUrl: "https://www.ibtimes.com/trump-speaking-donors-sharply-insults-top-republican-3178948"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/11/former-us-president-donald-trump-l-has-lashed.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z
@@ -1316,6 +1346,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "WDZ09RWAbgmAtvFevSWWqG7IAa39SfkhfIZXhFrZ2prxRHvXv/Pp/4pHJ2ULIcTLAjdxLsFSIE7npuyZ682TIS4WiSu0qCeCL20olbI6dazQw2+wpV6JH+Q3VdCB2eWdyXshpNIhvE9d9f8oEKf/x1CdeurqXx0qFtHpeygDu0emagrvlo/fb1CW84azfYj6tpL+hkf3M1hnQQWBbJ0JExXI7DvzteCarSs/OodD+60Z0zl7AK02TqzmCqJSsp9vvoe5thXmHA2tTk0d3G3OPvGhZ5FIBAJnpM9/HlUXNfAHb10+LkN5oCiNae8x2f8WRPYd4FRB4wZI9qkrInF+X866pPCBvBpXGweNTh1wz+8=;w/KytqsC43Io0qzp5BY/XA=="
+secured: "eMyfpIw1DpPARn8yQ4lH7bhLv2ucMNAMDrIxbwS7bqYi3ih7EsIs+P8fWY1V1RnQ6mb/N1Pi9kiyAON193AMxNoXKWesXcJP3HEL2j4q0RVm4Rv9U5CxV7GYUotAhsTc3lNYJflUegolcJQkssyvbUBwnX1rR9N8fNlu423zmjuIRWA/4co1mebl6YCecIODwGN8AEl9h0R724aOH4xFTzUNfRH1Dmi4HJyhPj8h5sXCwRvydJFa4+SBoL/flCe0Bc5RAr9xYkQ4s+OrF8Of9yx4EJc9e4nFjnfksPvDIXSCIODwxPU7hXU4ab5hTphpuYodwkIPIv/B3eOgrocA96gqtfKrBJHBpVF3OfWN+Yc2K7QvPGNVRZTTmfRUpLw9gVuc8H4sAvU1DKbCxfkycun17U1riqER/CLq+qSZZkDVxblp3uQUGR0azGAMCtCnF7GBhponKoxji9kUt+gc3sYiD0eSjl6T4imNHebzRLT9AQQsumA2tvAQHkEUuSzFV+zgnkhPEv0M9ob3f3KQog==;CgG1E4NH+4arCZbDhg0gBA=="
 ---
 

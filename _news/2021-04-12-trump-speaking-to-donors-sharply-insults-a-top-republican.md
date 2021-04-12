@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump says GOP will take legislature in 2022, White House in 2024 in prepared speech"
-excerpt: "Former President Trump Donald Trump Romney blasts end of filibuster, expansion of SCOTUS McConnell, GOP slam Biden's executive order on SCOTUS US raises concerns about Iran's seriousness in ..."
-publishedDateTime: 2021-04-10T23:50:00Z
-originalUrl: "https://thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024"
-webUrl: "https://thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024"
-ampWebUrl: "https://thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024?amp"
+title: "Trump, Speaking To Donors, Sharply Insults A Top Republican"
+excerpt: "Addressing a meeting of affluent donors and top Republican officials, Donald Trump spent more time lashing out at fellow Republicans -- and most sharply at their Senate leader -- than at Democrats, news media reported Sunday. The former president ..."
+publishedDateTime: 2021-04-12T00:05:00Z
+originalUrl: "https://www.ibtimes.com/trump-speaking-donors-sharply-insults-top-republican-3178948"
+webUrl: "https://www.ibtimes.com/trump-speaking-donors-sharply-insults-top-republican-3178948"
 type: article
-quality: 118
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg"
-    width: 980
-    height: 551
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/11/former-us-president-donald-trump-l-has-lashed.jpg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -778,6 +776,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says GOP will take legislature in 2022, White House in 2024 in prepared speech"
+    excerpt: "Former President Trump Donald Trump Romney blasts end of filibuster, expansion of SCOTUS McConnell, GOP slam Biden's executive order on SCOTUS US raises concerns about Iran's seriousness in ..."
+    publishedDateTime: 2021-04-10T23:50:00Z
+    webUrl: "https://thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024"
+    ampWebUrl: "https://thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547543-trump-expected-to-say-a-republican-will-take-back-white-house-in-2024?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump's plan to start his own social media platform is doomed to failure, say experts"
     excerpt: "Donald Trump is very unlikely to launch a successful new social media network, experts told Insider."
     publishedDateTime: 2021-04-11T08:03:00Z
@@ -1326,20 +1340,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump, Speaking To Donors, Sharply Insults A Top Republican"
-    excerpt: "Addressing a meeting of affluent donors and top Republican officials, Donald Trump spent more time lashing out at fellow Republicans -- and most sharply at their Senate leader -- than at Democrats, news media reported Sunday. The former president ..."
-    publishedDateTime: 2021-04-12T00:05:00Z
-    webUrl: "https://www.ibtimes.com/trump-speaking-donors-sharply-insults-top-republican-3178948"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/11/former-us-president-donald-trump-l-has-lashed.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z
@@ -1350,6 +1350,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6QOeEZuCO9oELbn4aBFvgOZ2ZozsHGcQnWhaQCg6ruDR1j3YFu+9tzQdlZ/Kk8ROm3b2+fLAYwm78X1HnHCwe0vRzrUE6EmQNnQNz5eQ/zj1jqNgkKKYs4rGG8p0aRv0Vu8o6kvk9ZRZ8sDxziAubTic3f5VC69dgzLgggyVapcoP07xg1mhd9upY5tt0P/EBOsSkW5roD60lKylwvxHLM9fDfyAXWm6S4N0TcT5ehXTCvScC7iNqkHTj8wKumTmIiKHIacF75pb0vJ4zs2GBk3gnD3FwXZKwSGVOM836Sv1QxSe+gp0kfSCu84Ehc+oMDEBjS4p4C/mXvPhdNrJfmqH4eUKrq3ggO3LkqtPAcYPMvM+NAp6gc1oZmwnrvP5oAkL5aveAjTXMEE/Df9fgUH0M4+CqdC6z9CqZ8h7wg+tVacdsjzArsu/56KxEAVPq6j2hZ58W+ueaH5yOTFQErvZjloKKhOtyeON9NZppnHa7RQqPtPOmgrceP+UUEaPuEllT4/UlG4aBtdpM6iccw==;KD9Y8R8j3GYwvfh/wU50bA=="
+secured: "MT+IR2KDg93Y3dQ4HFX3vn771u1dYOf15CrbzJOlefCLgpX7ghR1uiLjYj3TTQz5/EBdbIZt8rmOsiImB+aLEij73IpWjVQq2AhnVXhwTrKUFEUcns6WKfun994N0vb8fMnKoMhlhd0ZDQFQDWfXTGDZf8j9hSYpz+ZnWopiCwvK2A4hVDJiPwnCG0+zdOCqZ8HYBpnFkplbNMnyp3YcETCDSyjxv63ypCaxdP37CZOuJGgM8RepQKSlhlVkSYq1tYqKBlPjNMRo1aTmw1oLX/sxxEh08Pi9dHlHUTutQ4BCIa88OZFP6LVnaXWyNkKlXW4U57Oy2xV+B3/m8ONLG5+lzvZlN4ErcNP5ji/YT6M=;+w0AmAE7hvRhy8oTcPNtzQ=="
 ---
 

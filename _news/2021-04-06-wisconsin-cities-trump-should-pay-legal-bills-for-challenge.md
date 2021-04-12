@@ -1178,6 +1178,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Business faces tricky path navigating post-Trump politics"
+    excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to increasingly distinct constituencies helps explain the tension."
+    publishedDateTime: 2021-04-11T20:26:00Z
+    webUrl: "https://www.chron.com/news/article/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Business-faces-tricky-path-navigating-post-Trump-16092455.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."
     publishedDateTime: 2021-04-11T16:04:00Z
@@ -1318,6 +1334,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump, Speaking To Donors, Sharply Insults A Top Republican"
+    excerpt: "Addressing a meeting of affluent donors and top Republican officials, Donald Trump spent more time lashing out at fellow Republicans -- and most sharply at their Senate leader -- than at Democrats, news media reported Sunday. The former president ..."
+    publishedDateTime: 2021-04-12T00:05:00Z
+    webUrl: "https://www.ibtimes.com/trump-speaking-donors-sharply-insults-top-republican-3178948"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/11/former-us-president-donald-trump-l-has-lashed.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "U39kaydWW/I50SWd6RRMmTdwR4ZzmMEvKTQ+vnkIquzkjTLo2jckudSM/BBKoENxGY+W6pOXlVXI/Vb/KVXjdqTMWsCpVKdo3fXuV8lzCY6QRMCHzIGhw8vlrf1hkhEh3TpRKMN28y5Yu/0I2oc3OGRtt5DIU7fmeJGAO4TzvclxhBKiwZTiKC6a+wSxmSr2eHQWd5euJlYr5qB4iHZkqNIgPmcXZrG27ufybPLpYO9IAsbroBxzSjTdJ/Q8/Kx1PB1TeDcL8JiofMUALALDaeOqrtz1wEVwtPgwmzhyda/jslnG94Y6dhgnIOKSKF9xa/Zh+LgBHxoAumlBi1eZg+cWVpLj8Q6jOArrahgY53nUYEL92JypzCXSOTtyXwD8odzO5VPcMmOQQiNYyeDGOpQm+yu0WjoDJW8DgEq/oVerNVS35SNh07SgssI1KEWZyxM4OfSezfNAnPYliuPzJ/aZOeacvFGklwUK2lPNBdxB3Ug6VCh6OB3eaMDRqRRCRwjoZk5lmeaJesp0Uh4okw==;iBatfiNbunRcpogFKXTVbQ=="
 ---
