@@ -2,28 +2,26 @@
 category: news
 title: "Trump goes after Pence, McConnell in speech to party donors"
 excerpt: "Trump also said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance who were not authorized to publicly discuss what was said in a private session. He said ..."
-publishedDateTime: 2021-04-11T21:24:00Z
-originalUrl: "https://www.firstcoastnews.com/article/news/nation-world/trump-republican-donor-speech-2024/507-940e6159-4f04-4f6c-9419-070b4b982f0c"
-webUrl: "https://www.firstcoastnews.com/article/news/nation-world/trump-republican-donor-speech-2024/507-940e6159-4f04-4f6c-9419-070b4b982f0c"
-ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/trump-republican-donor-speech-2024/507-940e6159-4f04-4f6c-9419-070b4b982f0c"
-cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/trump-republican-donor-speech-2024/507-940e6159-4f04-4f6c-9419-070b4b982f0c"
+publishedDateTime: 2021-04-12T05:40:00Z
+originalUrl: "https://www.marshallindependent.com/news/2021/04/trump-goes-after-pence-mcconnell-in-speech-to-party-donors/"
+webUrl: "https://www.marshallindependent.com/news/2021/04/trump-goes-after-pence-mcconnell-in-speech-to-party-donors/"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: First Coast News
-  domain: firstcoastnews.com
+  name: Marshall Independent
+  domain: marshallindependent.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.firstcoastnews.com/assets/CCT/images/14dea5cd-9ee2-4f1a-8703-0d7bab7ba3e8/14dea5cd-9ee2-4f1a-8703-0d7bab7ba3e8_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "http://d14e0irai0gcaa.cloudfront.net/www.marshallindependent.com/images/2016/11/28153330/fblike.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -539,6 +537,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Business faces tricky path navigating post-Trump politics"
+    excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to ..."
+    publishedDateTime: 2021-04-11T12:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003948"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_37370ceddace4329b0f0bf646b592260_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Says COVID-19 Vaccine Should Be Called 'Trumpcine'"
     excerpt: "Former President Donald Trump addressed a crowd Saturday night in south Florida, telling folks that vaccinations for the COVID-19 pandemic should be called \"Trumpcine\" instead of the regular vaccination monikers. The crowd listening to the former president ..."
     publishedDateTime: 2021-04-11T03:56:00Z
@@ -618,6 +632,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/32be4a8b752f71e718f8113f9a63e12ad4651f63/0_133_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a7d7343ad182408151b6331b53681ae"
         width: 600
         height: 360
+        isCached: true
+  - title: "Gaetz was denied meeting with Trump: CNN"
+    excerpt: "was recently denied a meeting with former President Trump Donald Trump Harry Reid reacts to Boehner book excerpt: 'We didn't mince words' Man arrested for allegedly threatening to stab undercover ..."
+    publishedDateTime: 2021-04-12T03:55:00Z
+    webUrl: "https://thehill.com/homenews/house/547621-gaetz-denied-meeting-with-trump-cnn"
+    ampWebUrl: "https://thehill.com/homenews/house/547621-gaetz-denied-meeting-with-trump-cnn?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547621-gaetz-denied-meeting-with-trump-cnn?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gaetzmatt_012821getty_gaetz.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
@@ -980,20 +1010,6 @@ related:
         width: 3000
         height: 2221
         isCached: true
-  - title: "Business faces tricky path navigating post-Trump politics"
-    excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to ..."
-    publishedDateTime: 2021-04-11T12:23:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/business-faces-tricky-path-navigating-post-trump-politics-77003949"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_37370ceddace4329b0f0bf646b592260_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump expected to affirm commitment to GOP, raise possibility of other Republican nominee in 2024 at closed-door speech"
     excerpt: "PALM BEACH, FLA. — Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee — in a closed-door speech to donors Saturday night."
     publishedDateTime: 2021-04-10T21:31:00Z
@@ -1346,6 +1362,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "8WFGwjy5r/cuOJTO4aSnUBmRi/+Q/NQDwMNvQlUeJnmzlSqa8vHLUV//S0vBiFMdypKadEMUTUt76j/qOJQJlLbBw8qnC7a07Hrp78I+6gCEitI1szs2SUSf3g4tVl1n9JTfOIu3TkZEepdclQDkVXg+odvC1XK6W0w/nMgIWb+ph4Sh77Voo3g9WU1nYjTP+BYF3tOeNCfCb/JXHRsEDRyDvijCmHcOZX0TI4VNVQXYYNCBmq5dx/r5rea8DkMprvNMqNeJZKGK/Ty0UoVqy45hXpnrKNea+Kqk9mMiRbcxV8MTou4179km9lvEVocRhzB8tlgh1DBIWQtR5b4z03/ZcX70jh8SUBhN8duG2mY=;MpL+S7Jql0jJ3SRgr8BYnw=="
+secured: "mD4edpxAf8GdFB6tu2uafmyZhpVIuiJsslCTXCeyC8NZeJgCo+Tz3uuHYaNKEd7WvSXN2mN2KJxKCj8PgVW+qhjgtFkllXxptLj3Xxd5IYfTRFVJLft2MefhGVjnVy5uleNfkKFklgT3rjRM9l9MiJjB5On1nxxNalCR1wYgD4nvNdlBwdBN/0h7hvqQQZsFVPueVFGfHVKRWW78gcskpenhgS1vXE+kzJt0U4CALvGxLrzt1SLvLtM1lxuVb9vKfpszhZGafNv6gAzbQyy9keSkkkkCb9fe5xAhCx0DJGvg3JOBR67JHpBHGq6pqJd0IcV4S4ELyKGliJ5ti0SsAjWtIuQ1yLEyPhM7RgU5kq8=;j+zdwjIScYBKgdjWf4bVtA=="
 ---
 

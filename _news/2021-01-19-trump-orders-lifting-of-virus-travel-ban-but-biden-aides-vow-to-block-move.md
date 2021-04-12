@@ -2302,6 +2302,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump tightens grip on GOP while Biden bets on expanding federal power"
+    excerpt: "(CNN)Prominent Republicans rededicated themselves to Donald Trump's creed of grievance, lies and demagoguery this weekend as President Joe Biden bolstered his counter bet on the use of expansive federal power to ease America's crises. The dueling ..."
+    publishedDateTime: 2021-04-12T00:54:00Z
+    webUrl: "https://www.cnn.com/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "DC attorney general says Trump could possibly be charged by city prosecutors with misdemeanor for role in Capitol insurrection"
     excerpt: "District of Columbia Attorney General Karl Racine warned Sunday that President Donald Trump could possibly be charged by city prosecutors with \"a misdemeanor, a six-month-in-jail maximum,\" amid fallout from the deadly insurrection at the US Capitol earlier this month.\n    \n"
     publishedDateTime: 2021-01-17T19:23:02Z
