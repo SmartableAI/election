@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp"
 type: article
 quality: 164
-heat: -1
-published: false
+heat: 184
+published: true
 
 provider:
   name: Fox News
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Texas, Missouri sue Biden administration over scrapping of 'Remain-in-Mexico' policy"
-    excerpt: "Texas and Missouri on Tuesday sued the Biden administration for its scrapping of the Migrant Protection Protocols (MPP) – demanding the program, which kept migrants in Mexico while their immigration hearings played out, be restored."
-    publishedDateTime: 2021-04-13T17:08:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywynGyngX-A/texas-missouri-sue-biden-administration-remain-in-mexico-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1eb67794-4d8f-4d9f-a776-7df7951f5ad9/12a23b16-a8f4-4a44-840c-9252568a16b4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Texas Gov. Abbott blames Biden as allegations emerge of sexual assault at child migrant facility"
     excerpt: "Texas Republican Gov. Greg Abbott demanded that the White House close a San Antonio facility housing migrant children Wednesday following allegations that children there were being sexually assaulted."
     publishedDateTime: 2021-04-07T23:42:42Z

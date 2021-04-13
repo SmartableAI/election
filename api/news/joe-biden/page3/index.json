@@ -2,6 +2,162 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-27-biden-says-us-justice-department-examining-georgia-election-law.md",
+      "title": "Biden says U.S. Justice Department examining Georgia election law",
+      "excerpt": "President Joe Biden on Friday said the U.S. Justice Department was taking a look at a newly enacted election law in the state of Georgia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BI31U",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1800,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210326&t=2&i=1556384482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2P1RY",
+          "width": 796,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BI31U",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BI31U",
+      "publishedDateTime": "2021-03-26T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-biden-taps-sen-manchins-wife-to-co-chair-appalachian-board.md",
+      "title": "Biden taps Sen. Manchin's wife to co-chair Appalachian board",
+      "excerpt": "President Joe Biden is nominating Gayle Manchin, the wife of West Virginia Sen. Joe Manchin, to be the co-chair of the Appalachian Regional Commission WASHINGTON -- President Joe Biden is ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226",
+      "publishedDateTime": "2021-03-26T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-biden-to-host-first-press-conference-under-pressure-on-immigration-and-guns-us-politics-live.md",
+      "title": "Biden to host first press conference under pressure on immigration and guns – US politics live",
+      "excerpt": "But Joe Biden still hasn’t had a formal news conference since his inauguration on 20 January. The stretch is the longest a new president has gone without meeting the press in the past 100 years, dating back to when Calvin Coolidge, a man known as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates?page=with:block-605c37b78f08a9515e8370b5",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates?page=with:block-605c37b78f08a9515e8370b5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7d267c42fe0ca5906d541d0f55a58fc671e63bfa/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9bc03ce464544f0e6f608fe824ad872",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/25/joe-biden-immigration-us-mexico-border-gun-control-covid-coronavirus-vaccine-live-updates",
+      "publishedDateTime": "2021-03-25T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-gun-reform-laws-eluded-biden-in-2013-could-this-showdown-with-the-nra-be-different.md",
       "title": "Gun reform laws eluded Biden in 2013. Could this showdown with the NRA be different?",
       "excerpt": "Standing in the Rose Garden directly behind Obama and Barden was the man entrusted with driving gun reform on to the statute books: Joe Biden. After the slaying of the school kids, Obama had given Biden the job of coming up with a plan for substantial ...",
@@ -1124,7 +1280,7 @@
       "originalUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1408,167 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-undocumented-immigrants-see-light-of-hope-in-biden-relief-plan-which-gives-aid-to-their-us-born-children.md",
-      "title": "Undocumented immigrants see 'light of hope' in Biden relief plan which gives aid to their U.S.-born children",
-      "excerpt": "Undocumented workers were mostly left out of past COVID relief. Biden's $1.9 trillion plan would open that door through payments to their children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/11/PNJM/56b66752-bcca-4b40-b322-99f5b37ab7d2-jl_MORENO_FAMILY_31121_01.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4709977001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4709977001",
-      "publishedDateTime": "2021-03-15T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-biden-shots-in-arms-and-money-in-pockets.md",
-      "title": "Biden: ‘Shots in Arms and Money in Pockets’",
-      "excerpt": "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html",
-      "originalUrl": "https://www.nytimes.com/video/us/politics/100000007655482/biden-coronavirus-checks-vaccinations.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/15/us/politics/15new-washington-briefing-monday-morning-lead/15new-washington-briefing-monday-morning-lead-facebookJumbo.jpg?video-overlay",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-for-biden-theres-no-place-like-a-weekend-home-in-delaware.md",
-      "title": "For Biden, there's no place like a weekend home in Delaware",
-      "excerpt": "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_3b0cbd70660341528ecdc742bc6d4056_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "publishedDateTime": "2021-03-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

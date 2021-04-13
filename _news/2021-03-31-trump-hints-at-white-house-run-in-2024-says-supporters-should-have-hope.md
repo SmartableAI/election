@@ -76,6 +76,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gaetz denies CNN report on Trump refusing to meet him, demands retraction"
+    excerpt: "Rep. Matt Gaetz, who faces allegations of sexual misconduct, pushed back at CNN for claiming that former President Donald Trump refused to meet with him — calling the report a lie and"
+    publishedDateTime: 2021-04-12T13:29:00Z
+    webUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/"
+    ampWebUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/gaetz-trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump rips CNN over Gaetz report, says they ‘probably made the whole thing up’"
     excerpt: "Former President Donald Trump blasted CNN for its report that claimed he refused to meet with GOP Rep. Matt Gaetz, who is facing allegations of sexual misconduct, saying the cable news network"
     publishedDateTime: 2021-04-13T15:03:00Z

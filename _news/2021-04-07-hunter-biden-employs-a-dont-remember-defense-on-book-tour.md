@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Inside Biden White House's ties to dark money group seeking to pack Supreme Court"
+    excerpt: "Both White House press secretary Jen Psaki and President Biden's judicial nomination point person Paige Herwig previously worked for Demand Justice."
+    publishedDateTime: 2021-04-08T13:54:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rUaID-M3u9Y/biden-white-house-pack-supreme-court-sixteen-thirty-paige-herwig"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-pack-supreme-court-sixteen-thirty-paige-herwig.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-pack-supreme-court-sixteen-thirty-paige-herwig.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Border-Crisis-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hunter Biden details 2019 family drug intervention a month before father announced presidential campaign"
     excerpt: "In his forthcoming book \"Beautiful Things,\" Hunter Biden delves into his struggles with addiction, including a dramatic intervention that his family staged for him in March 2019."
     publishedDateTime: 2021-04-05T11:46:30Z
@@ -79,6 +95,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pushed to make sure budget funds ICE amid border crisis"
+    excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., is urging President Biden to increase funding for Immigration and Customs Enforcement (ICE) to help deal with the effects of the current crisis at the southern border, warning the president against political pressure to defund the agency."
+    publishedDateTime: 2021-04-05T16:17:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H-evmaZ58nY/biden-pushed-to-make-sure-budget-funds-ice-amid-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden challenged over claims about background checks at gun shows"
     excerpt: "Former White House chief of staff Mark Meadows called Biden out for the error. \"Joe Biden is either lying, never bought a gun at a gun show, or both,\" Meadows tweeted. Meadows was part of a chorus of criticism firing back at Biden's remarks. When asked ..."
     publishedDateTime: 2021-04-08T19:07:00Z
@@ -94,6 +124,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "States Fight Back Against Biden War on the West"
+    excerpt: "This brings us to President Joe Biden. No president in modern times, perhaps ever, has shown such contempt for our system of federalism. So I was thrilled to see this headline from, of all places, Alaska: \"Dunleavy Tells Feds Alaska Is Taking Over ..."
+    publishedDateTime: 2021-04-06T09:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "ElaZtGfCVkhnd4lycKkp3/OzJcGvwoyY/R39m4U0KMVrt7U/Uq/W4vQXthKmkbbKKWVOHioJK4g63HcwnbbgqivhRK7qQJ/I0iHtMVkaeR2GPJMvI921T6lwEoeyelJ+4nJ1AyaBai8dLrvMssvXXUGW70R6OaP5ETnKd13OB8NR00ixxmTgJJjUlGn3QaHhTXVyl1RoRn5QMnp+VmvYMS4f/pyjeRO6UWnWBMzkrjRIvDj6E2CYvZ2lU3rqBllIofLVPHrOE3h70m3ftd7u1XXYKxFxdUcHwyNDc+7W07LOZxo2PJFTg9xy71GEBNLT3Ma7QzJ7Hd2y2cKzFwBr3TCwKJR3SH96x2BhyNu0mZ4=;BV6X63VARtvrJyGgUpOpsQ=="

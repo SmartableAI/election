@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP senator says bipartisan infrastructure group wants to double Biden's spending on roads and bridges"
+    excerpt: "Sen. Bill Cassidy, a Republican on the Senate Finance Committee, indicated another major infrastructure plan was being drafted by lawmakers searching for another option besides President Joe Biden's $2.3 trillion proposal. \"I'll be meeting with governors ..."
+    publishedDateTime: 2021-04-13T21:46:00Z
+    webUrl: "https://www.businessinsider.com/gop-infrastructure-plan-double-biden-spending-roads-bridges-cassidy-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/gop-infrastructure-plan-double-biden-spending-roads-bridges-cassidy-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-infrastructure-plan-double-biden-spending-roads-bridges-cassidy-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/6030636e623bd30012bcc5c1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden: 'Prepared to negotiate,' on infrastructure"
     excerpt: "President Joe Biden meets Republican and Democratic lawmakers as the White House amplifies the push for its $2.3 trillion package with the release of state-by-state breakdowns that show the dire shape of the nation's infrastructure. (April 12)"
     publishedDateTime: 2021-04-12T20:25:00Z

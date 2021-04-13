@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden administration will not require COVID-19 vaccine passports, White House says"
-    excerpt: "The White House said Tuesday that the Biden administration will not support a system requiring Americans to carry so-called COVID-19 \"vaccine passports,\" press secretary Jen Psaki said Tuesday."
-    publishedDateTime: 2021-04-06T17:55:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aFpQXXMIGqg/biden-admin-covid-vaccine-passports-not-required"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden signs law expanding COVID-19 vaccinations for veterans, their spouses and caregivers"
     excerpt: "President Biden signed into law Wednesday, a measure that would expand the Department of Veterans Affairs' ability to provide the coronavirus vaccine for millions of Americans."
     publishedDateTime: 2021-03-24T21:05:46Z

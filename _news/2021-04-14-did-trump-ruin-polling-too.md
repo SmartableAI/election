@@ -699,6 +699,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "McConnell seeks to end feud with Trump"
+    excerpt: "is seeking to end his running feud with President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
+    publishedDateTime: 2021-04-13T21:50:00Z
+    webUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump"
+    ampWebUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnelltrump1_101617getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z
@@ -1550,6 +1566,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "CaPahVBk5jlcCcTJRe5cXo9rYE2YHqhlLMd8aFcWS7Yz8t7Q59R8wjAkC8G8n0RbqFbJKkzZs8CD0jWTJ+X8kARL3hvmnlXRSeRG8gjmryPuL5fNxggHKhuJK5uhkzvniQNz0FGaD5zRmkxKQwF8JUZqLTFqPw1URxy3bA8YZHXIxmXmwGbx/8HHHoBG1emgl3zVehKnhP8p5Vg65BJb1/QbwbFxgcDtl+8sa0brbcImPolX8h/UzcSlTacIUUf0JrQnMUtBsPsZN/vCYFUdw9YgdETGf8A0siV625XjtaDZf3syjWExAI7NKL+POZaEiZhO7z3eqCUIgw/7mrsawberq9zqtJi1EmXTHJzvZ2Q=;nhJzIjHECwVC9t79t6vz6A=="
+secured: "9f2yet9Vp5EcSXLbACUSXIp4oZpC/Tt1QI8qdbjTtKp3VIOWxCww0EhaKM9GY/c/p0t/jlGvr3SaxlBzW9ctIBq3TqZK+C07L367l1JM7MwfZFk277tt5ZR3p4mi+xUxjvvYS00vKFbSFilFk93YZEXgVZ192pSjbiWHUASTjdoT6YI9vCwcoPSpjQDQG+ufUlxONCTFSMKNq+wpVvCBC/Xcrx/JjjzFI9Z7JZLs8CJ8fbrleD4/XJryIvIGxRjZ6T9YAH3tl7KyfEtljKbn9RYGeDEaISqek4ykJ9oDLyiESHnZpeJZ9GuTW+NnHo2w7q/AAPSdJv0mZ144L69bHljIST3KstGzED/8bgTaLAPm+P64tBxdrZmZOM/GqmhyO91gsRO7YSFg/aZom5dbOrGmsC0l2gj12QCStzn5P8kEAww+6figtHOXhUNH8ZqJGkmt6ial5VX6GszVUilZyRQz+P65NIVtHX6XUcE1uXTrfyKy7UdQthDrfa4vpGb1OwfUby/Wnhg/xjjEIDEVNQ==;Vfx0a7889IkyHRc7vBHSRw=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki refuses to say if Biden thinks reconciliation should replace regular order in Senate"
+    excerpt: "White House press secretary Jen Psaki, asked if President Biden agrees with Sen. Joe Manchin that reconciliation should not be the “normal order” in the Senate, said the president would leave it up to the Hill to decide. "
+    publishedDateTime: 2021-04-08T19:34:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A3iieun2Hak/white-house-biden-reconciliation-replace-regular-order"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-reconciliation-replace-regular-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-reconciliation-replace-regular-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7beeeed2-5f98-49e2-9ec2-2f57c15dee33/78d2f558-e4e8-4f55-a3a9-7cea1c533eb3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden grants Michigan’s Whitmer 66K more vaccine doses, in seeming shift from population-based US plan: report"
     excerpt: "President Biden is boosting Michigan’s coronavirus vaccine allotment by more than 66,000 doses for next week after receiving a call for help from Gov. Gretchen Whitmer, according to reports."
     publishedDateTime: 2021-03-31T06:53:06Z

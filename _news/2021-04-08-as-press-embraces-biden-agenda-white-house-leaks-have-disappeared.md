@@ -78,6 +78,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter Biden admits he used to smoke parmesan cheese because it resembled crack"
+    excerpt: "Hunter Biden admitted that when he was addicted to crack cocaine, he smoked parmesan cheese because it resembled the drug."
+    publishedDateTime: 2021-04-05T18:24:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tw3-7w7jiZc/hunter-biden-smoke-parmesan-cheese-resembled-crack"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Marines' vaccine hesitancy presents early test for Biden as commander-in-chief"
     excerpt: "Many U.S. Marines' hesitancy to receive coronavirus vaccinations could prove to be a sticking point for President Biden."
     publishedDateTime: 2021-04-12T21:04:23Z
@@ -109,6 +125,36 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Hunter Biden admits he used to smoke parmesan cheese because it resembled crack"
+    excerpt: "Not a chance,'\" Hunter said, according to the book. \"'I don't know what else to do,'\" Joe Biden, then on the verge of announcing his candidacy for president, said, according to his son. \"'I'm so scared. Tell me what to do.\" \"'Not f----- this,'\" Hunter ..."
+    publishedDateTime: 2021-04-05T20:08:00Z
+    webUrl: "https://www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-smoke-parmesan-cheese-resembled-crack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rhetorical ruse? Biden tries to change the meaning of bipartisanship"
+    excerpt: "Joe Biden, who campaigned as the man who reaches across the aisle, is poised to push through his second multi-trillion-dollar measure with no Republican votes. But not to worry. The Biden word wizards have found a way to move the rhetorical goalposts."
+    publishedDateTime: 2021-04-13T07:12:00Z
+    webUrl: "https://www.foxnews.com/media/rhetorical-ruse-biden-tries-to-change-the-meaning-of-bipartisanship"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Joe-Biden.png"
+        width: 1024
+        height: 576
         isCached: true
   - title: "What Happened to Biden's Unity Agenda?"
     excerpt: "President Joe Biden stood in front of the U.S. Capitol in the wake of the Jan. 6 riots and delivered his inaugural address."

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Kamala Harris Holds Roundtable on Black Maternal Health"
-excerpt: "Vice President Kamala Harris and White House Domestic Policy Advisor Susan Rice listen during a roundtable discussion on Black maternal health in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Photo by Sarah Silbiger/UPI ..."
+excerpt: "Vice President Kamala Harris delivers remarks on Black maternal health during a roundtable discussion in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Vice President Harris is joined by White House Domestic Policy Advisor ..."
 publishedDateTime: 2021-04-13T18:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/7cc5ae89e3c70c3f51d0a71ecb5b6f82/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/7cc5ae89e3c70c3f51d0a71ecb5b6f82/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/64bfe18950701ca935307868bce3165f/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/64bfe18950701ca935307868bce3165f/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/7cc5ae89e3c70c3f51d0a71ecb5b6f82/HARRIS-BLACK-HEALTH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/64bfe18950701ca935307868bce3165f/HARRIS-BLACK-HEALTH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -132,6 +132,20 @@ related:
       - url: "https://assets.bwbx.io/s3/bbiz/images/social_fallbacks/bloomberg_default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris Highlights Pregnancy Difficulties Facing Black Women"
+    excerpt: "To mark Black Maternal Health Week, Vice President Kamala Harris led a discussion Tuesday of the issues that make African American women two to three times more likely than other women to die because of childbirth."
+    publishedDateTime: 2021-04-13T20:44:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipOdfUFzCvbE/v0/1200x803.jpg"
+        width: 1200
+        height: 803
         isCached: true
   - title: "Kamala Harris visited beloved Brown Sugar Bakery on Chicago’s South Side on Tuesday. She couldn’t have chosen better."
     excerpt: "On her way out of town Tuesday following a pit stop in Chicago between California and Washington, D.C., Vice President Kamala Harris grabbed dessert from Brown Sugar Bakery and Confections in the Chatham neighborhood. It was a pretty sweet call on her part."
@@ -617,6 +631,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Harris Highlights Pregnancy Difficulties Facing Black Women"
+    excerpt: "Vice President Kamala Harris has marked Black Maternal Health Week by leading a White House discussion of the issues that make African American women two to three times more likely than other women to die because of childbirth. WASHINGTON (AP ..."
+    publishedDateTime: 2021-04-13T20:43:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Vice President Kamala Harris Touts St. Louis’ Mass COVID-19 Vaccination Site"
     excerpt: "The Vice President spoke with St. Louis Public Radio's Jason Rosenbaum about how the Biden administration is handling the COVID-19 vaccination effort in St. Louis and elsewhere."
     publishedDateTime: 2021-03-30T23:58:00Z
@@ -680,6 +705,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "xg+40FgK9mLV0kOGIWyEnxPWhJacsviNmQujOBBVYIdnc14CVGke7GZaNiq2lvMiKyA9z4u3eTxfV4bzRA8lxqjHd2OogaZZExio1ABqUf5wTxprNJeAqAYrp/w+aGnVXr7JuCkCR+hWyEO+dd2S7R7aMbDJXm5HX1Q7G7vMFq39tklNbJ8TLQ+0VS3LCEgHH7mtWhG+JOEjPgUQ8/RLX4OfPKweO3xYPYGnl7+1jlPpiNxynV2Nyuc6Kl99zOgMGQbSx0ZTa40cDvh3BKHaPh/yIcHFjo4ClU2FhyzhoP/KFzVnNvK3WwXsGOUh0619u5SDYjaiOYVKmLWDB6E4wMARD0ttnwQoTcnLjJkdQ6Q=;OzjtjbzHEB63UInPCm6JJA=="
+secured: "uz2dijWW4EPWG2uX3BdxwI+w2H7Z+HP85xJNDv28cmpdFRAqYzapExdWZ+EkeGoh499lLXmRneKS+tMDsybYX9n1xzGFAChInYwNCtfICplzw2Wqw3ssE3t1hljSwvXctV2+d5Pu1IC6QSqOS+u6/vRNA/X6hvYHTiceymKNashVP89sGIM45zkVOyFDQGLsvY01x6j8ZorYGyMrJfWYnGSHgdSH4H7iRIRULVkTVzbJ6mG5RLJvVmkb/N4i/inOf7w8DYTX31fkr/7rajPaZgdMmLKDln6AopV14M4KgxIp4ti3r2IkNPry8eo1e4PHpYyEptq6hWYGshhPBWcsCfZX3aPMb4a2IirpEgP13Xo=;KFO8K1y0k8LM8iot+xdJMA=="
 ---
 

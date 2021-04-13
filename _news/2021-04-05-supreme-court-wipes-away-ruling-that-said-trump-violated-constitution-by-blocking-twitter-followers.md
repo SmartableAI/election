@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Boehner: Trump 'abused the loyalty and trust' voters placed in him"
+    excerpt: "Former Republican House Speaker John Boehner said Tuesday that former President Donald Trump \"abused the loyalty and trust\" placed in him by his voters when he pushed falsehoods about the 2020 election.\n    \n"
+    publishedDateTime: 2021-04-13T21:24:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fqa6vNKoXng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/john-boehner-trump-voters-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/john-boehner-trump-voters-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407094117-john-boehner-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump claims Gaetz 'never asked me for a pardon'"
     excerpt: "Former President Donald Trump said Wednesday that embattled Rep. Matt Gaetz (R-Fla.) “has never asked me for a pardon,\" disputing a New York Times report that Gaetz asked the former president for a blanket pardon as Trump's term in office was coming to a ..."
     publishedDateTime: 2021-04-07T16:01:00Z

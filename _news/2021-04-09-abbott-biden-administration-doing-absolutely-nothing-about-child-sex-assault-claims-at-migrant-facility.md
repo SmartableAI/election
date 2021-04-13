@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "CDC 'doing the bidding' of the Biden administration by making health disparities a race issue: Paris Dennard"
+    excerpt: "Republican National Committee national spokesperson Paris Dennard said the Centers For Disease Control is \"doing the bidding\" of the Biden administration by making health disparities a race issue."
+    publishedDateTime: 2021-04-09T19:56:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S5PutjBxaCU/cdc-biden-administration-health-disparities-race"
+    ampWebUrl: "https://www.foxnews.com/politics/cdc-biden-administration-health-disparities-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cdc-biden-administration-health-disparities-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "7Sge3sL+pCCcw3QdmaQ0c9MSwdKMZ8W2cL91N62Q0STQxdw9X7M7cROKV4foscm/KRq1G0HHZ7RYdGDE9Osma4mmLoDUAUHQm2WPjNrnRG5JJH3NNoU+NKcBpVvfTb9qfPY+4LLAVxSOVabYygvH1QhdKXNcxHsmZk3nFg0v8lOaYvPX/9MiKfOq362yYnnEj7Qo+x4aFNkbAPv3BCGTCeA6NESTuEo4mz7OTW+v5pGU8h7C/KCJ3mPp4QRrquqWYRT3ToV9nmwQZcATGK2zR1mTLZTYsm3UILWsCbsF157fcGS1cZseyIXnk7xVrech+hyrUGYgr7sFz4/7wxWV8tFw0Hbz0WnmOZD274DBPAs=;E+wvUMKBs2kWqyA1C0231Q=="
 ---

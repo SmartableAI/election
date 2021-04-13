@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
+    excerpt: "(CNN)President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some ..."
+    publishedDateTime: 2021-04-13T19:11:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 121
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Wy8imIFcZpFtOq+QRP06R9qwJoM8LmSBrTM37f6LfuJm1SqTdJ7uvBvTijcacSPegLBkKKCDOe4BgTZvcFZiBxmncZPkTJoKiFJB+r4aW0n4NErATJ27g09rGpiAqpn5uIu2BoWY8gmNX2KM6itEblisWFT3bZU96K3S91pBgJWHlNGz3P0+nR2CIO7ITn0NhY0zMj1T+8irxLongDQzJD+CSbk4ppS19XP2tp5qt6qNxx4ecUUObdQ+dCBBGkmuASwrG+9M0BgyCxdUmr3uJ3/7N3PYL/akMk8MAcbHnpUuZUyWuEygZ1A4Frvea/vUpKvpdSw2/MZqLjEBgCKc/sKv/OKaR/3PVL3bTSN6ScQ=;JQQeyYDSMa8zqKG8IbDv8w=="
 ---

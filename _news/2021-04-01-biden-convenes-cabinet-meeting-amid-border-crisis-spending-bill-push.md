@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Progressives ramp up pressure on Biden to forgive student loan debt"
+    excerpt: "Progressives are ramping up the pressure on President Biden to forgive student debt relief as Education Secretary Miguel Cardona investigates the administration's legal authority."
+    publishedDateTime: 2021-04-05T16:38:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EW1dYAUoWyE/biden-cancel-student-debt-50000-progressive-pressure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden expected to move up deadline for adults to be eligible for vaccines"
     excerpt: "President Biden is expected to announce Tuesday that he is moving up the date for adults to become eligible to receive a COVID-19 vaccine by April 19."
     publishedDateTime: 2021-04-06T15:58:52Z
@@ -367,22 +383,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden Pushes Gun Control, But Legislation Is Unlikely"
-    excerpt: "(In certain states, even the private sale of legal firearms also requires a background check.) “Joe Biden is either lying, never bought a gun at a gun show, or both,” Donald Trump’s former chief of staff, Mark Meadows, tweeted. And others were quick ..."
-    publishedDateTime: 2021-04-09T10:47:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Biden's Weakness On World Stage Is Dangerous"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-03-30T18:59:00Z
@@ -436,6 +436,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/52/529429_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "If It Ain't Broke, Joe Biden Will Break It"
+    excerpt: "The sage advice that If it ain't broke, don't fix it is older than Joe Biden, but apparently he never heard of it. Or doesn't think much of it. The president is on a tear, as in tearing up"
+    publishedDateTime: 2021-04-11T11:26:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
         width: 750
         height: 500
         isCached: true

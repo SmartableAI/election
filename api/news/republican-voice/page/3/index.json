@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-06-biden-leans-close-to-tell-someone-to-socially-distance-which-im-not-doing.md",
+      "title": "Biden leans close to tell someone to socially distance, 'which I'm not doing'",
+      "excerpt": "President Biden leaned inches away from someone’s face to urge them to practice social distancing as he promoted the nation’s vaccine progress Tuesday afternoon, video shows.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096696393947-e1617743978498.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
+      "publishedDateTime": "2021-04-06T14:34:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-pa-candidate-running-to-be-first-black-republican-woman-in-senate-slams-biden-over-past-aint-black-comments.md",
       "title": "PA candidate running to be first Black Republican woman in Senate slams Biden over past ‘ain't Black’ comments",
       "excerpt": "Kathy Barnette, a Black woman from Pennsylvania running as a Republican for U.S. Senate, criticized President Biden's previous comments on race.",
@@ -70,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -680,7 +736,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1570,7 +1626,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1587,62 +1643,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
       "publishedDateTime": "2021-04-01T13:37:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-former-trump-aide-max-miller-raised-500k-in-one-month-in-house-race-vs-gop-member-who-voted-to-impeach.md",
-      "title": "Former Trump aide Max Miller raised 500K in one month in House race vs GOP member who voted to impeach",
-      "excerpt": "Max Miller, the former Trump aide mounting a primary challenge to Ohio Republican Rep. Anthony Gonzalez, raised more than $500,000 in approximately the first month of his campaign, Fox News has learned. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AekWORwQo0/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AekWORwQo0/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp",
-      "publishedDateTime": "2021-04-01T13:21:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

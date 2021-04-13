@@ -271,6 +271,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Mitch McConnell dodged a question about Trump calling him a 'dumb son of a b----'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Senate Minority Leader Mitch McConnell declined to respond to attacks from former President Donald Trump, who called him a \"dumb son of a b----\" over the weekend. Reporters pressed the Kentucky Republican on ..."
+    publishedDateTime: 2021-04-13T20:25:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/6075ef883e3fe7001882a728?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump attacks McConnell as ‘political hack,’ says he will back pro-Trump candidates"
     excerpt: "The lengthy and personal diatribe escalated a growing rift in the GOP about whether it will be controlled by pro-Trump forces or those viewed as more traditional Republicans."
     publishedDateTime: 2021-02-17T07:51:00Z

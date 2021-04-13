@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden dispatches unofficial delegation to Taiwan "
+    excerpt: "President Joe Biden dispatched an unofficial delegation to Taiwan Tuesday in a show of support for the island, according to a senior administration official and a State Department spokesperson.\n    \n"
+    publishedDateTime: 2021-04-13T21:36:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rCxcP4e7Zf8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/us-unofficial-delegation-taiwan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/us-unofficial-delegation-taiwan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929100642-taiwan-flag-2019-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Joe Manchin just crushed liberals' dream for Joe Biden's first term"
     excerpt: "With just 15 words, Joe Manchin ended the possibility that Joe Biden's first term would live up to the hopes that liberals had for it on everything from gun control to voting rights to even, possibly, the size and scope of the President's $2 trillion infrastructure bill.\n    \n"
     publishedDateTime: 2021-04-08T14:36:02Z
@@ -108,6 +124,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324190144-07-hhs-children-facility-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to nominate first person of color to serve as permanent Census Bureau director"
+    excerpt: "President Joe Biden has picked statistician Robert Santos as the next Census Bureau director, the White House announced Tuesday, setting the stage for the first person of color to permanently head the agency if confirmed by the Senate.\n    \n"
+    publishedDateTime: 2021-04-13T21:17:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H8lAn0sCqOk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413154724-rob-santos-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

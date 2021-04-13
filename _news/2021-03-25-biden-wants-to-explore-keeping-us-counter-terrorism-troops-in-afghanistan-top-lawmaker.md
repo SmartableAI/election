@@ -79,6 +79,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden set to withdraw U.S. troops from Afghanistan by Sept. 11"
+    excerpt: "President Joe Biden plans to withdraw the remaining 2,500 U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after the al Qaeda attacks that triggered America's longest war, U.S. officials said on Tuesday."
+    publishedDateTime: 2021-04-13T18:01:00Z
+    webUrl: "https://www.reuters.com/article/usa-afghanistan-withdrawal-int-idUSKBN2C02JI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C02JI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C02JI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558302396&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C13Q"
+        width: 753
+        height: 545
+        isCached: true
+  - title: "Biden sparks bipartisan backlash on Afghanistan withdrawal"
+    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
+    publishedDateTime: 2021-04-13T19:02:00Z
+    webUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal"
+    ampWebUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ustroopsafghanistan_092417getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z

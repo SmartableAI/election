@@ -26,17 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Wicker on infrastructure meeting with Biden: We made good points but 'there is a lot of space between us'"
-    excerpt: "Senator Roger Wicker (R-MS) joined Fox Business' 'Kudlow' on Monday following his Oval Office meeting with President Biden and says he and his Republican colleagues made 'good points' but noted there remains 'a lot of space between' the two parties"
-    publishedDateTime: 2021-04-12T22:31:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp"
+  - title: "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'"
+    excerpt: "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare."
+    publishedDateTime: 2021-04-12T15:44:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/458e1351-a334-436c-a243-c5de219cc253/ba8d7be5-8ec3-40ae-85ca-a697844886d5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Chris Wallace: Biden administration 'doesn't have much of an answer' to border crisis"
+    excerpt: "'Fox News Sunday' host Chris Wallace joined Bill Hemmer and Dana Perino on 'America's Newsroom' on Friday to discuss the Biden administration's response to the crisis at the border"
+    publishedDateTime: 2021-04-09T21:24:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CAZoeahzr0E/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340

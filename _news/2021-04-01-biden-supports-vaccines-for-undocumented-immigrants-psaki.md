@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigra
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Psaki refuses to say if Biden thinks reconciliation should replace regular order in Senate"
+    excerpt: "White House press secretary Jen Psaki, asked if President Biden agrees with Sen. Joe Manchin that reconciliation should not be the “normal order” in the Senate, said the president would leave it up to the Hill to decide. "
+    publishedDateTime: 2021-04-08T19:34:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A3iieun2Hak/white-house-biden-reconciliation-replace-regular-order"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-reconciliation-replace-regular-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-reconciliation-replace-regular-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7beeeed2-5f98-49e2-9ec2-2f57c15dee33/78d2f558-e4e8-4f55-a3a9-7cea1c533eb3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Ari Fleischer rips Biden over border access comments: Like a 'co-conspirator hiding evidence' from police"
     excerpt: "President Biden made stunning comments defending the administration's purported transparency when it comes to access to federal border facilities says former White House Press Secretary Ari Fleischer on 'The Story'"

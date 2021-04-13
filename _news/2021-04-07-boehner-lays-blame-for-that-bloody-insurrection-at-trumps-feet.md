@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/john-boehner-donald-trump-insurrection/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Boehner: Trump 'abused the loyalty and trust' voters placed in him"
+    excerpt: "Former Republican House Speaker John Boehner said Tuesday that former President Donald Trump \"abused the loyalty and trust\" placed in him by his voters when he pushed falsehoods about the 2020 election.\n    \n"
+    publishedDateTime: 2021-04-13T21:24:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fqa6vNKoXng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/john-boehner-trump-voters-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/john-boehner-trump-voters-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407094117-john-boehner-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court wipes away ruling that said Trump violated Constitution by blocking Twitter followers"
     excerpt: "The Supreme Court on Monday wiped away a lower court opinion holding that then-President Donald Trump violated the First Amendment when he blocked followers from his Twitter account.\n    \n"
     publishedDateTime: 2021-04-05T14:07:54Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hogan-gidley-election-integrity-non
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
 type: article
 quality: 189
-heat: 369
+heat: 389
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://images.wsj.net/im-322013/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
+    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. The freshman lawmaker authored the \"Red Tape Reduction Act\" to ..."
+    publishedDateTime: 2021-04-13T19:44:00Z
+    webUrl: "https://www.foxnews.com/politics/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "HJ4MFKdhwrqlovJYemzgn926gDyLubEMUmBeDqFnb7qEgaz2GPkwMPAASefoIgLbFvLk88kUshEzbeHqhbuhNBBBQfnX+GMAbNT0mMiXj04Sn1JYLrJvO5Cuo81tQups+/1nGEe4nTb94kwVba74Y8FY9XBfXWrpdn2k+l4GZkjcLpNT5Yfz9ggebsLvGPrz8sL53CmoqsCTiUQxOqnIjILMRj2CoLAuVsp+AQhdOiFLWGogqdtPxkPPf3FqVgrRkHfF9bAt23+YGxUZ/6l4isWnerGfhJ+hgiR/MCqiUtMrohqzck93Gxpfk9xjIJfDBSMU3phIU9KU4EKxklwqHq46My0ah0DF8NRgr0NTRCs=;4XQZCT/SWRhS5yuwH0c6dQ=="

@@ -28,414 +28,370 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law"
-    excerpt: "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. "
-    publishedDateTime: 2021-04-06T21:46:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp"
+  - title: "Biden administration expands entry of migrants kept in Mexico under Trump"
+    excerpt: "The Biden administration announced Tuesday that it is expanding the entry of migrants into the U.S. who had been kept in Mexico as part of the Trump-era Migrant Protection Protocol (MPP) – even as migrants continue to surge toward the border in record numbers."
+    publishedDateTime: 2021-04-13T20:53:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GiUGzRlAwfA/biden-administration-expands-entry-migrants-kept-mexico-under-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-expands-entry-migrants-kept-mexico-under-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-expands-entry-migrants-kept-mexico-under-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 184
+    quality: 189
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21037480732952-1.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/957280e9-87e8-4078-8fd9-44d22936d4ed/0e00f1bb-477e-4226-b3ed-4d7e3ef5fcfb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden comments about Georgia election law 'incredibly irresponsible' and 'based on lies': Loeffler"
-    excerpt: "President Biden is helping to divide the country \"based on lies\" about Georgia's new election law, former GOP Sen. Kelly Loeffler told \"The Story\" Wednesday."
-    publishedDateTime: 2021-04-07T21:10:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GVC-F5no24s/biden-georgia-election-law-comments-irresponsible-loeffler"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
+  - title: "Biden on pace to allow fewer refugees into US than Trump, humanitarian group says"
+    excerpt: "President Biden's administration is on track to admit a record low number of refugees into the United States, according to a report by the International Rescue Committee."
+    publishedDateTime: 2021-04-12T16:48:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a3GAX3d4s60/biden-refugees-admitted-trump-comparison-humanitarian-group"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-refugees-admitted-trump-comparison-humanitarian-group.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-refugees-admitted-trump-comparison-humanitarian-group.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 176
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e63c96c-1b17-4d3b-b75f-1b419f4c56cd/d5527c0b-a96e-4bc2-a46b-26416e13e295/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Tragic' to see Biden admin 'flip switch' and reverse Trump policies at border: Mike Pompeo"
+    excerpt: "Former Trump secretary of state and new Fox News contributor Mike Pompeo speaks out on the crisis at the southern border on 'Fox & Friends.'"
+    publishedDateTime: 2021-04-12T14:45:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ntXjETn0h_U/tragic-to-see-biden-admin-reverse-trump-policies-at-border-pompeo"
+    ampWebUrl: "https://www.foxnews.com/politics/tragic-to-see-biden-admin-reverse-trump-policies-at-border-pompeo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tragic-to-see-biden-admin-reverse-trump-policies-at-border-pompeo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden convenes Cabinet meeting amid border crisis, spending bill push"
-    excerpt: "President Biden held his first Cabinet meeting on Thursday from the East Room at the White House as his administration grapples with the crisis at the U.S. southern border and as officials push a $2 trillion spending bill through Congress."
-    publishedDateTime: 2021-04-01T18:15:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5IVfWQ2FvLY/biden-first-cabinet-meeting-border-crisis-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
+  - title: "Live Updates: Biden relaxes some immigration policies bolstered under the Trump administration"
+    excerpt: "CBP said it began taking COVID-19 precautions back in March 2020, around the beginning of the pandemic."
+    publishedDateTime: 2021-02-03T05:04:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1NPb-mGG0Mc/live-updates-biden-2-3-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-3-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-3-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 178
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden says he'd 'strongly support' MLB moving All-Star game out of Atlanta over Georgia election law"
-    excerpt: "President Biden expressed support for the idea for the MLB All-Star game to move out of Atlanta in response to the new Georgia election law that has sparked fierce backlash among liberals. "
-    publishedDateTime: 2021-04-01T05:26:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rK41u2MQiqU/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12203dad-15f4-42e5-9f2f-cd88b2139cdf/cd09a844-6f4a-48cf-96bc-23def1df14d0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88d7f226-3bc5-4dd8-a9c0-7c26ed7a83bc/80764ff6-b759-4d35-baa8-f7a14e3bdd73/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "ICE detentions plunge under Biden, leaving thousands of empty beds"
-    excerpt: "The Biden administration currently has in custody some 19,000 unaccompanied children, and it released almost 60% of migrant families encountered at the border in February."
-    publishedDateTime: 2021-04-05T19:18:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsDlDzgyvRk/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds"
-    ampWebUrl: "https://www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden expected to move up deadline for adults to be eligible for vaccines"
-    excerpt: "President Biden is expected to announce Tuesday that he is moving up the date for adults to become eligible to receive a COVID-19 vaccine by April 19."
-    publishedDateTime: 2021-04-06T15:58:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bCq8B4EwCI/biden-covid-vaccine-eligibility-adults-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki won't say if Biden supports MLB Georgia boycott, despite past comment"
-    excerpt: "White House press secretary Jen Psaki seemed to shy away Monday from President Biden's previous comments about Major League Baseball pulling its All-Star game from Georgia."
-    publishedDateTime: 2021-04-05T22:44:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/du-v-DkIFDE/psaki-biden-mlb-comments"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-mlb-comments.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-mlb-comments.amp"
+  - title: "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall"
+    excerpt: "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. "
+    publishedDateTime: 2021-04-07T19:27:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b6d8964-c1aa-4264-9835-9dcb0d672c39/08d5c0e5-b80a-4864-9e25-ea57e536515e/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Psaki refuses to walk back fact-checked Biden comments on Georgia voting law"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden will continue to advocate for ways to make it \"easier\" to vote, while refusing to walk back his past comments about a new Georgia voting law that have since been fact-checked. "
-    publishedDateTime: 2021-04-05T22:06:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcMvx7lhoV8/psaki-biden-comments-georgia-voting-law-fact-check"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-comments-georgia-voting-law-fact-check.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-comments-georgia-voting-law-fact-check.amp"
+  - title: "CA man whose brother was killed by illegal immigrant sends message to Biden"
+    excerpt: "A man whose brother was killed by an illegal alien slammed the Biden administration for refusing to admit that there is a crisis at the southern border and said the situation is getting worse by the minute."
+    publishedDateTime: 2021-04-09T12:29:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGSc4lpIRH4/california-man-brother-killed-illegal-immigrant-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b0330951-a90f-499a-abe2-ecd4bb10c804/c6e4fc37-0ba2-4fe1-b955-c29f20bbde5d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Chris Christie turns into Biden attack dog in early days of administration"
+    excerpt: "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of"
+    publishedDateTime: 2021-04-12T17:34:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "El Salvador president refuses to meet with Biden envoy on immigration crisis"
+    excerpt: "El Salvador’s President Nayib Bukele refused to meet with a visiting senior U.S. diplomat this week over what he sees as a pattern of slights from Democrats and the Biden administration, according to two aides of the Central American leader."
+    publishedDateTime: 2021-04-08T20:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wso7x-_6DJ8/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say"
+    ampWebUrl: "https://www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65de96da-f543-4865-a9c9-92eb3c5e2d16/f46278d2-4dc8-479d-af48-2112da2131dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration will not require COVID-19 vaccine passports, White House says"
+    excerpt: "The White House said Tuesday that the Biden administration will not support a system requiring Americans to carry so-called COVID-19 \"vaccine passports,\" press secretary Jen Psaki said Tuesday."
+    publishedDateTime: 2021-04-06T17:55:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aFpQXXMIGqg/biden-admin-covid-vaccine-passports-not-required"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Crenshaw, Rubio slam Biden, MLB over Georgia boycott, ask if China will be next"
-    excerpt: "Republican Sen. Marco Rubio, R-Fla., and Rep. Dan Crenshaw, R-Texas, hit President Biden and Major League Baseball for the league's decision to boycott Georgia over its election law -- and asking if that hard stance will be extended to the Chinese Communist regime."
-    publishedDateTime: 2021-04-03T17:16:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ALFqQhMUo8/crenshaw-rubio-biden-mlb-georgia-boycott-china"
-    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-rubio-biden-mlb-georgia-boycott-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-rubio-biden-mlb-georgia-boycott-china.amp"
+  - title: "Texas, Missouri sue Biden administration over scrapping of 'Remain-in-Mexico' policy"
+    excerpt: "Texas and Missouri on Tuesday sued the Biden administration for its scrapping of the Migrant Protection Protocols (MPP) – demanding the program, which kept migrants in Mexico while their immigration hearings played out, be restored."
+    publishedDateTime: 2021-04-13T17:08:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywynGyngX-A/texas-missouri-sue-biden-administration-remain-in-mexico-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12203dad-15f4-42e5-9f2f-cd88b2139cdf/cd09a844-6f4a-48cf-96bc-23def1df14d0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1eb67794-4d8f-4d9f-a776-7df7951f5ad9/12a23b16-a8f4-4a44-840c-9252568a16b4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s energy policy ‘sends a very dangerous message’ to Texas: George P. Bush"
-    excerpt: "Texas Land Commissioner George P. Bush, son of Jeb, revealed in an interview with \"Fox & Friends\" host Brian Kilmeade that he is \"taking a very serious look\" at running for attorney general and said he should be making his final decision \"fairly soon.\""
-    publishedDateTime: 2021-04-05T17:25:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/glpkzQAm5SA/bidens-energy-policies-dangerous-message-texas-george-p-bush"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp"
+  - title: "Rep. Malliotakis: Biden administration can stop migrant surge by reversing border policies"
+    excerpt: "New York Rep. Nicole Malliotakis slammed the Biden administration’s policies on “Fox & Friends Weekend” Sunday for “turning over our borders to the cartels,” after she traveled to Texas to witness the migrant surge."
+    publishedDateTime: 2021-04-11T17:32:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wTq3JBlnwYo/malliotakis-biden-administration-migrant-surge-border"
+    ampWebUrl: "https://www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Georgia Gov. Kemp hits MLB, Biden after election law prompts All-Star move: Nothing more than 'political play'"
-    excerpt: "Georgia Gov. Brian Kemp on Saturday said the decision to pull the Major League Baseball All-Star Game over objections to changes to his state's voting laws was a \"political play.\" "
-    publishedDateTime: 2021-04-03T16:45:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hy2klk-B9pM/georgia-kemp-mlb-biden-election-law-all-star-move"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-kemp-mlb-biden-election-law-all-star-move.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-kemp-mlb-biden-election-law-all-star-move.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/KEMP-CROP-2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Hunter Biden lost business after revelation of affair with brother's widow Hallie"
-    excerpt: "\"I made a lot of decisions that I probably shouldn't have made,\" Hunter Biden said in a recent interview."
-    publishedDateTime: 2021-04-04T16:24:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZyapbF7wz4/hunter-biden-hallie-business-affair-world-food-program"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1230697183.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Former Georgia Rep. Doug Collins hits back at Biden on voter suppression claims: 'Learn to read'"
-    excerpt: "Former Georgia Congressman Doug Collins told \"America Reports\" on Thursday that the Biden administration and private companies need to \"read the election reform bill\" before spewing criticisms."
-    publishedDateTime: 2021-04-01T20:20:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gM3wkfGKY7o/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read"
-    ampWebUrl: "https://www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
+    quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Georgia Republican teases Biden and Schumer, says voting law should be more restricted like Delaware, NY"
-    excerpt: "A Georgia lawmaker is proposing that his state align its voting laws with New York and Delaware's more restrictive regulations, an admitted \"political stunt\" designed to rebuke criticism from President Biden, who has lived in Delaware and served as one of its senators, and Senate Majority Leader Chuck"
-    publishedDateTime: 2021-04-05T20:49:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jyUht3uxrT8/georgia-wes-cantrell-biden-voting-law"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+  - title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
+    excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."
+    publishedDateTime: 2021-04-12T19:53:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ZF22LaBpVI/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chris-Magnus.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden's dog Major to undergo 'additional training' to help adjust to White House life after biting people"
+    excerpt: "The younger Biden family dog, Major, will undergo \"additional training\" as he tries to adjust to life in the White House, a  spokesperson told Fox News.   "
+    publishedDateTime: 2021-04-12T21:28:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xenHxgrYuuQ/biden-dog-major-training-white-house-biting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14a5ffe4-1a84-4ae0-a7cc-e01e93474179/7ef0499b-9c47-4f44-bcbc-ea6f95267440/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1232039308.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Joe Biden will keep Trump administration’s UAE aluminum tariffs"
+    excerpt: "President Joe Biden will keep in place the Trump administration’s aluminum tariffs on the United Arab Emirates, after initially reversing the policy. In a proclamation issued Monday, the"
+    publishedDateTime: 2021-02-02T16:43:00Z
+    webUrl: "https://nypost.com/2021/02/02/biden-will-keep-trump-administrations-uae-aluminum-tariffs/"
+    ampWebUrl: "https://nypost.com/2021/02/02/biden-will-keep-trump-administrations-uae-aluminum-tariffs/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/02/biden-will-keep-trump-administrations-uae-aluminum-tariffs/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/biden-aluminum.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden pick to lead CBP reportedly balked at Trump immigration policies"
+    excerpt: "President Biden’s nominee to head up Customs and Border Protection has backed Black Lives Matter, defended sanctuary cities and pushed back at Trump administration orders to round up and"
+    publishedDateTime: 2021-04-13T14:03:00Z
+    webUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/"
+    ampWebUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/chris-magnus.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Former Trump aide Stephen Miller launches group targeting Biden’s policies"
+    excerpt: "Former President Donald Trump’s senior aide Stephen Miller has launched a new organization that aims to challenge the Biden administration’s policies in courts."
+    publishedDateTime: 2021-04-07T13:06:00Z
+    webUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/"
+    ampWebUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/stephen-miller-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
+    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
+    publishedDateTime: 2021-04-12T23:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Rick Scott slams Biden for backing MLB Georgia boycott, being silent on moving Olympics out of China"
-    excerpt: "Republican Sen. Rick Scott on Tuesday called on President Biden to offer to host the 2022 Olympic Games in the United States. "
-    publishedDateTime: 2021-04-06T16:39:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_56EhNRfNw/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses.amp"
+  - title: "Biden strikes Trump-esque deal with Northern Triangle countries amid migrant surge"
+    excerpt: "The Biden administration is taking a page out of former President Donald Trump’s book, striking an agreement with the Northern Triangle countries to militarize their borders in an effort to curb ..."
+    publishedDateTime: 2021-04-12T19:57:00Z
+    webUrl: "https://nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/"
+    ampWebUrl: "https://nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
+      name: New York Post
+      domain: nypost.com
+    quality: 144
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/psaki-border-northern-triangle-02.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
-    publishedDateTime: 2021-03-31T19:13:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pd3yOTcRUpQ/biden-break-up-voting-bill-manchin"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
+  - title: "Trump says he doubts Biden ‘making the decisions,’ calls border wall chatter ‘positive step’: report"
+    excerpt: "Former President Trump expressed doubts Tuesday that his successor was \"making most of the decisions\" in the White House, noting from experience that being president is \"a lot of work.\" Trump also reacted positively to reports that the Biden administration ..."
+    publishedDateTime: 2021-04-07T07:49:00Z
+    webUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report"
+    ampWebUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ben Carson blasts Omar's 'disgusting' Georgia-Apartheid comparison, says Biden doesn't understand 'Jim Crow'"
-    excerpt: "Former HUD Secretary Dr. Ben Carson said Tuesday on \"The Story\" that it was \"disgusting\" to hear Rep. Ilhan Omar compare Georgia's new election law to South African Apartheid of the mid-20th Century"
-    publishedDateTime: 2021-04-06T20:44:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ehRiXhhFGdU/ben-carson-blasts-omars-disgusting-georgia-apartheid-comparison-says-biden-doesnt-understand-jim-crow"
-    ampWebUrl: "https://www.foxnews.com/politics/ben-carson-blasts-omars-disgusting-georgia-apartheid-comparison-says-biden-doesnt-understand-jim-crow.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-carson-blasts-omars-disgusting-georgia-apartheid-comparison-says-biden-doesnt-understand-jim-crow.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05118be2-1034-46ca-8e0d-46032940f1f8/6f04f3e0-5eb9-45ed-bdf4-c83b4c221df5/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden comments about Georgia election law 'incredibly irresponsible' and 'based on lies': Loeffler"
-    excerpt: "President Biden is helping to divide the country \"based on lies\" about Georgia's new election law, former GOP Sen. Kelly Loeffler told \"The Story\" Wednesday. LOEFFLER: His [Joe Biden’s] comments were incredibly irresponsible, because he repeated ..."
-    publishedDateTime: 2021-04-07T21:13:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
+  - title: "All-Star rumble, with Biden and Trump, shows corporate America breaking with GOP"
+    excerpt: "Business support for taking the All-Star Game out of Atlanta because of the Georgia voting law is emblematic of Corporate America's break from the GOP"
+    publishedDateTime: 2021-04-06T07:12:00Z
+    webUrl: "https://www.foxnews.com/media/all-star-rumble-with-biden-and-trump-shows-corporate-america-breaking-with-gop"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 136
+    quality: 125
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03b15d77-9a73-4635-b2b0-8e1264f2f4ec/330abe5e-c471-457b-8340-e83d6de2e52b/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden-green-thumb.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Georgia Republican name-drops Biden, says voting law should be more restricted like Delaware"
-    excerpt: "A Georgia lawmaker is proposing that his state align its voting laws with New York and Delaware's more restrictive regulations, an admitted \"political stunt\" designed to rebuke criticism from President Biden,"
-    publishedDateTime: 2021-04-05T20:52:00Z
-    webUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+  - title: "Stephen Miller: 'Joe Biden has shut down ICE,' leading to a 'travesty' at the southern border"
+    excerpt: "In addition to the disaster on the border, Joe Biden has shut down ICE. ICE is now disabled from removing most criminally-convicted illegal immigrants that they were removing under the Trump administration. So you have an open sieve at the border ..."
+    publishedDateTime: 2021-04-10T02:55:00Z
+    webUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 124
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14a5ffe4-1a84-4ae0-a7cc-e01e93474179/7ef0499b-9c47-4f44-bcbc-ea6f95267440/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8672e02b-26a9-457c-b738-289f837dfbd2/421cf8ba-c813-4014-9378-0f530551ffe7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "MSNBC host concedes Biden stance on Georgia voting law not consistent: 'Impossible to square his argument'"
-    excerpt: "\"To listen to the president speaking right there, it's impossible to square his argument,\" MSNBC's Willie Geist said \"Morning Joe\" on Wednesday. MLB eventually did move the All-Star Game out of Georgia after Biden compared the state's new voting law to ..."
-    publishedDateTime: 2021-04-07T17:32:00Z
-    webUrl: "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent"
-    ampWebUrl: "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp"
+  - title: "Biden, blocked by Congress, resorts to minor gun measures"
+    excerpt: "Joe Biden didn’t try to sugarcoat the fact that he wasn’t doing very much. \"We have a long way to go, it seems like we always have a long way to go,\" he said yesterday. What he was doing, on a warm Washington day, was bowing to political reality."
+    publishedDateTime: 2021-04-09T07:10:00Z
+    webUrl: "https://www.foxnews.com/media/biden-blocked-by-congress-resorts-to-minor-gun-measures"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 117
+    quality: 115
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20f3bb9f-5836-4db5-a5df-e9a3441d9a8a/22b290f0-49ff-488d-bd4f-d5e835940878/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21098586391020.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
-    publishedDateTime: 2021-03-31T19:18:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Biden-Tax-Hike-Infrastructure-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Joe Biden's Bid to Remake America"
-    excerpt: "If Joe Biden's American Jobs Program, outlined in Pittsburgh, is enacted, then the federal government will take a great leap forward toward"
-    publishedDateTime: 2021-04-02T10:46:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
+  - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
+    excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
+    publishedDateTime: 2021-04-11T11:26:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/bidens_gun-control_policies_would_treat_everyone_like_a_criminal_540241.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/539501_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden's Weakness On World Stage Is Dangerous"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-03-30T18:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/30/bidens_weakness_on_world_stage_is_dangerous_539365.html#!"
+    quality: 45
+  - title: "Historians’ Evaluation of Trump Is Underway"
+    excerpt: "The historians' evaluation of Donald J. Trump is underway.... Read Full Article »"
+    publishedDateTime: 2021-04-11T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/historiansrsquo_evaluation_of_trump_is_underway_540245.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
-    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial \"equity\" it's been hyping."
-    publishedDateTime: 2021-04-01T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539402_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
-    excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"
-    publishedDateTime: 2021-04-04T10:50:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539634_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Hunter Biden Whitewashes Almost Everything in Tell-All"
-    excerpt: "As addiction memoirs go, Hunter Biden's Beautiful Things is remarkable in one great sense: As poorly as he comes across, it's his father, President Biden, whose character takes a hit. The Joe Bid…"
-    publishedDateTime: 2021-04-04T19:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/04/hunter_biden_whitewashes_almost_everything_in_tell-all_539678.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/529429_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
+    quality: 45
 
 secured: "M7FLkx5raCFPbZ9RbgbMRdIEF3/I6Cny+J3W1FoDhWZrBXbwrzmuYth+BTtUBI72AkjpXTF7y4sAfkQhiInHkqCpMi9VJApvJSAcoUCeTZ7hsivN5gWI2lYksISf1zXFbUPJxOJw3Vmm8lOy1K0WOmPBsAZ767xSZ72ESYJkhVtqK2irdRECa2oHkUUi99d3eILF5AwJIfHezQ1DtgJIhpSWgvnfmEV92UIgH/1D2Wf5ktgqzxXy3MNwALCXcM94LjLIG1TfqPWa7enGE28nF7zmkRru2iea7BVCLQjI27Sl4IaFhCENw9qvbIi5Sls+1u6PSV4tRlcAUuRl131kK/rkw29J863zCfcV/HPcPKZ7YdxCXGYidzEkYtQtZmM+mr6YqxgqmTcdvogt1Jr8m9BG36hTQywk21Xr3cixR77EkbvgxvaNVVQItp22oSEEoIPGOmOj2kIScHyF/xMbBC1rXjQVECb4UoX7g0mOlUWiNO7XmZlekmMuhhAxHfOwCNN9c5OagK1OmTF+qz8yNA==;ktHVnMioH4E2DXlttkKo9w=="
 ---

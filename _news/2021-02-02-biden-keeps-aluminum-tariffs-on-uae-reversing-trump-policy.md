@@ -96,22 +96,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden relaxes some immigration policies bolstered under the Trump administration"
-    excerpt: "CBP said it began taking COVID-19 precautions back in March 2020, around the beginning of the pandemic."
-    publishedDateTime: 2021-02-03T05:04:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1NPb-mGG0Mc/live-updates-biden-2-3-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-3-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-3-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88d7f226-3bc5-4dd8-a9c0-7c26ed7a83bc/80764ff6-b759-4d35-baa8-f7a14e3bdd73/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden backs son Hunter's book deal"
     excerpt: "White House Press Secretary Jen Psaki said Thursday that President Biden supports his son Hunter's recently announced book, which will be published in April and focus on his history of substance abuse. "
     publishedDateTime: 2021-02-04T18:21:20Z
@@ -223,22 +207,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Greg-Murphy-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Joe Biden will keep Trump administration’s UAE aluminum tariffs"
-    excerpt: "President Joe Biden will keep in place the Trump administration’s aluminum tariffs on the United Arab Emirates, after initially reversing the policy. In a proclamation issued Monday, the"
-    publishedDateTime: 2021-02-02T16:43:00Z
-    webUrl: "https://nypost.com/2021/02/02/biden-will-keep-trump-administrations-uae-aluminum-tariffs/"
-    ampWebUrl: "https://nypost.com/2021/02/02/biden-will-keep-trump-administrations-uae-aluminum-tariffs/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/02/biden-will-keep-trump-administrations-uae-aluminum-tariffs/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/biden-aluminum.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Biden Vows to Revive Alliances After ‘Years of Neglect’ Under Trump"
     excerpt: "Faced with a range of early foreign-policy challenges, the president described his vision for an expansion of multilateral engagement with the world and an emphasis on human rights."

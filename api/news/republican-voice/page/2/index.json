@@ -294,7 +294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 192,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -518,7 +518,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1017,7 +1017,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1404,7 +1404,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1562,25 +1562,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-biden-tells-georgia-to-smarten-up-to-avoid-losing-business-over-new-election-law.md",
-      "title": "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law",
-      "excerpt": "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. ",
+      "path": "_news/2021-04-06-texas-louisiana-sue-biden-administration-for-refusing-to-take-criminal-illegal-immigrants.md",
+      "title": "Texas, Louisiana sue Biden administration for ‘refusing’ to take criminal illegal immigrants",
+      "excerpt": "Texas and Louisiana are suing the Department of Homeland Security for its alleged refusal to take criminal illegal immigrants into custody, after rules that narrowed enforcement priorities.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d25Twkn2otc/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d25Twkn2otc/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 704,
+      "heat": 184,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21037480732952-1.jpg",
-          "width": 1024,
-          "height": 683,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a48f6aaf-e0b0-49f9-92dd-87f61649de6c/d9464a8a-51b4-4d7c-a6a2-fa5d67add6d0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1588,9 +1588,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp",
-      "publishedDateTime": "2021-04-06T14:46:12-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
+      "publishedDateTime": "2021-04-06T14:51:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1618,25 +1618,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-biden-leans-close-to-tell-someone-to-socially-distance-which-im-not-doing.md",
-      "title": "Biden leans close to tell someone to socially distance, 'which I'm not doing'",
-      "excerpt": "President Biden leaned inches away from someone’s face to urge them to practice social distancing as he promoted the nation’s vaccine progress Tuesday afternoon, video shows.",
+      "path": "_news/2021-04-06-biden-tells-georgia-to-smarten-up-to-avoid-losing-business-over-new-election-law.md",
+      "title": "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law",
+      "excerpt": "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 192,
+      "heat": 724,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096696393947-e1617743978498.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21037480732952-1.jpg",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1644,9 +1644,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leans-close-social-distancing.amp",
-      "publishedDateTime": "2021-04-06T14:34:11-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp",
+      "publishedDateTime": "2021-04-06T14:46:12-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

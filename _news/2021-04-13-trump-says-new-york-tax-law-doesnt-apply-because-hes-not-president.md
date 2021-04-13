@@ -701,6 +701,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "McConnell seeks to end feud with Trump"
+    excerpt: "is seeking to end his running feud with President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
+    publishedDateTime: 2021-04-13T21:50:00Z
+    webUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump"
+    ampWebUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnelltrump1_101617getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z

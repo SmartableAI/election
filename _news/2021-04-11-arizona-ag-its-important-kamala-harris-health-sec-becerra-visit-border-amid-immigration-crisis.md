@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp"
 type: article
 quality: 170
-heat: 210
+heat: 190
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
-    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
-    publishedDateTime: 2021-04-12T23:55:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Arizona AG: 'It's important' Kamala Harris, Health Sec. Becerra visit border amid immigration crisis"
     excerpt: "The AG explained that this mindset is similar to what Vice President Kamala Harris preached on the 2020 campaign trail about \"the need to get out.\" Brnovich formally invited the VP to tour the border on April 2nd, with no response as of yet. \"I am ..."
     publishedDateTime: 2021-04-11T18:36:00Z

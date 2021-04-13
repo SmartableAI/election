@@ -31,67 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Chris Christie turns into Biden attack dog in early days of administration"
-    excerpt: "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of"
-    publishedDateTime: 2021-04-12T17:34:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+  - title: "Biden leans close to tell someone to socially distance, 'which I'm not doing'"
+    excerpt: "President Biden leaned inches away from someone’s face to urge them to practice social distancing as he promoted the nation’s vaccine progress Tuesday afternoon, video shows."
+    publishedDateTime: 2021-04-06T21:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-leans-close-social-distancing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leans-close-social-distancing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096696393947-e1617743978498.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'"
-    excerpt: "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare."
-    publishedDateTime: 2021-04-12T15:44:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
+  - title: "Abbott: Biden administration 'doing absolutely nothing' about child sex assault claims at migrant facility"
+    excerpt: "Texas Gov. Greg Abbott told \"Hannity\" Thursday that state officials have not been allowed to enter a San Antonio migrant holding facility to investigate claims of child sexual assault."
+    publishedDateTime: 2021-04-09T02:43:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RY8SmiMv-g/greg-abbott-biden-child-sex-assault-migrants-san-antonio"
+    ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-biden-child-sex-assault-migrants-san-antonio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-child-sex-assault-migrants-san-antonio.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/458e1351-a334-436c-a243-c5de219cc253/ba8d7be5-8ec3-40ae-85ca-a697844886d5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Chris Wallace: Biden administration 'doesn't have much of an answer' to border crisis"
-    excerpt: "'Fox News Sunday' host Chris Wallace joined Bill Hemmer and Dana Perino on 'America's Newsroom' on Friday to discuss the Biden administration's response to the crisis at the border"
-    publishedDateTime: 2021-04-09T21:24:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CAZoeahzr0E/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
+    quality: 157
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
-    excerpt: "He is doing exactly what he sat around in the campaign and the transition and accused Donald Trump of doing. He is lying to cause racial divisions in this country. That’s what he accused Donald Trump of doing, and he’s a liar and a hypocrite this morning.\""
-    publishedDateTime: 2021-04-05T13:08:00Z
-    webUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions"
-    ampWebUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

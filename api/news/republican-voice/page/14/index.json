@@ -2,6 +2,63 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-08-trump-will-have-a-place-in-history-for-capitol-riot-but-remains-most-popular-figure-in-gop-graham.md",
+      "title": "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham",
+      "excerpt": "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham",
+      "originalUrl": "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp",
+      "publishedDateTime": "2021-02-07T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-meadows-biden-administration-policies-prioritize-america-last.md",
       "title": "Meadows: Biden administration policies prioritize 'America last'",
       "excerpt": "President Biden’s record number of executive orders aren’t focused on putting America and the people first, former White House chief of staff Mark Meadows told \"Sunday Morning Futures.\"",
@@ -1602,62 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-2-2021.amp",
       "publishedDateTime": "2021-02-01T23:01:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ex-nfl-star-marcellus-wiley-calls-for-separate-transgender-category-in-school-sports-after-biden-order.md",
-      "title": "Ex-NFL star Marcellus Wiley calls for 'separate transgender category' in school sports after Biden order",
-      "excerpt": "Former NFL star and current Fox Sports 1 host Marcellus Wiley called last week for the creation of a \"separate transgender category\" for youth athletics.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w31i18hHHNA/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w31i18hHHNA/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b139c892-ec9b-4fd7-8495-2deb7c7cccd5/dd5dac3c-9679-4542-953a-304d19d0093d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-nfl-star-marcellus-wiley-separate-transgender-category-school-sports-biden-order.amp",
-      "publishedDateTime": "2021-02-01T14:54:15-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

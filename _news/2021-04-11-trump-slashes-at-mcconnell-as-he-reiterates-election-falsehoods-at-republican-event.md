@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/202
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
 type: article
 quality: 134
-heat: 654
+heat: 674
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f561b65003ec96a6f3bf29a6ae90a67ceb0def63/0_83_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a3eaeb88a65a663793b4c9801aca369"
         width: 600
         height: 360
+        isCached: true
+  - title: "Mitch McConnell dodged a question about Trump calling him a 'dumb son of a b----'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Senate Minority Leader Mitch McConnell declined to respond to attacks from former President Donald Trump, who called him a \"dumb son of a b----\" over the weekend. Reporters pressed the Kentucky Republican on ..."
+    publishedDateTime: 2021-04-13T20:25:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/6075ef883e3fe7001882a728?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump attacks McConnell as ‘political hack,’ says he will back pro-Trump candidates"
     excerpt: "The lengthy and personal diatribe escalated a growing rift in the GOP about whether it will be controlled by pro-Trump forces or those viewed as more traditional Republicans."

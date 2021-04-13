@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-21-trump-slams-biden-over-border-crisis-accused-him-of-causing-death-and-human-tragedy.md",
+      "title": "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'",
+      "excerpt": "President Biden said Sunday that he intends to travel to the southern border \"at some point,\" telling reporters that he is in no rush to visit because \"I know what's going in those facilities.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p6BXYHL7SK4/biden-borde-rsurge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p6BXYHL7SK4/biden-borde-rsurge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 521,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-borde-rsurge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-borde-rsurge.amp",
+      "publishedDateTime": "2021-03-21T15:32:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-trump-returning-to-social-media-with-his-own-platform-in-2-3-months-adviser.md",
       "title": "Trump returning to social media with 'his own platform' in 2-3 months: adviser",
       "excerpt": "Former President Donald Trump will be back on social media in the near future with his own service, according to one of his senior advisers.",
@@ -1588,62 +1644,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-state-lawmaker-wants-trumps-name-on-state-park-dem-blasts-idea.amp",
       "publishedDateTime": "2021-03-17T02:20:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.md",
-      "title": "Michigan man, 21, threatened Biden, Pelosi, Whitmer, authorities say",
-      "excerpt": "A western Michigan man was arraigned Tuesday with allegedly making death threats against President Biden, House Speaker Nancy Pelosi and Michigan Gov. Gretchen Whitmer, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3YjiuswNZOY/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3YjiuswNZOY/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/ContentBroker_contentid-84b432a43c574b518a2ddfa84a53efc9.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp",
-      "publishedDateTime": "2021-03-16T21:36:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

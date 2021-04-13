@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden USCIS nominee called for pausing border patrol funding"
+    excerpt: "President Biden’s nominee to head up U.S. Citizenship and Immigration Services (USCIS) once called for pausing Customs and Border Protection (CBP) funding during the Trump administration."
+    publishedDateTime: 2021-04-12T22:44:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aIwjrO-Ie7U/biden-immigration-nominee-ur-jaddou-uscis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-nominee-ur-jaddou-uscis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-nominee-ur-jaddou-uscis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e63c96c-1b17-4d3b-b75f-1b419f4c56cd/d5527c0b-a96e-4bc2-a46b-26416e13e295/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP Sen. Cornyn questions if Biden is 'really in charge'"
     excerpt: "Sen. John Cornyn, R-Texas, questioned Monday if President Biden is \"really in charge\" as the president stays much quieter in the media than his predecessors."
     publishedDateTime: 2021-04-12T15:50:26Z
@@ -110,6 +126,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ddad8227-a16b-417b-bb93-11710c37d329/5fae8492-2a8c-4cd5-91c3-9e5aa22666fd/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rep. Jordan slams Biden admin for limiting media's access to migrant facilities amid surge at border"
+    excerpt: "Ohio Republican Congressman Jim Jordan argued on Sunday that the reason the press is not allowed to visit migrant facilities is because the Biden administration does not “want the American people to know what's going on.”"
+    publishedDateTime: 2021-04-11T18:46:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCpA_tpx8jU/rep-jordan-biden-admin-limiting-media-access-border-facilities"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-jordan-biden-admin-limiting-media-access-border-facilities.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-biden-admin-limiting-media-access-border-facilities.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "VgCuXbQmKi8gGi6O1LHWwInvjczMb5PQOTovQsHZvPQG02R14hOmrrtQ6U6uiMTZfhG9thIaoWaBpKt0/VehM0dptWo22WB0j9xLj9pAzfv237d1aEBHJy1GlUK8FqBHHyuduFXG05k8uzo5Usw1Hlbn9faSZwl+r/oDdHt8PE428LqT/m5mpZ3EwyOTY1dl6h7/OywfpflWLGLehnSEr2WsmgBWNstROU6N2MauXuSJXFr4ntqB5DWnpJ+4w/rj9a3eGdPvfNZ6jPRzq5SZmWY7OgzVAFPjDXtUL08DGWrzMd6pDqcY9KMCoQvnzoNw+wJLHxSckoj/ZU5M12hASQRCblsknnFmqCBpI4BDFwY=;W3YNijevgnriP3M6KM6dzQ=="

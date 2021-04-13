@@ -32,131 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on pace to allow fewer refugees into US than Trump, humanitarian group says"
-    excerpt: "President Biden's administration is on track to admit a record low number of refugees into the United States, according to a report by the International Rescue Committee."
-    publishedDateTime: 2021-04-12T16:48:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a3GAX3d4s60/biden-refugees-admitted-trump-comparison-humanitarian-group"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-refugees-admitted-trump-comparison-humanitarian-group.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-refugees-admitted-trump-comparison-humanitarian-group.amp"
+  - title: "Biden hasn't talked to Chinese president about coronavirus origins"
+    excerpt: "President Biden on Tuesday said he has not spoken to Chinese President Xi Jinping about the origins of COVID-19."
+    publishedDateTime: 2021-04-06T20:58:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e63c96c-1b17-4d3b-b75f-1b419f4c56cd/d5527c0b-a96e-4bc2-a46b-26416e13e295/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Tragic' to see Biden admin 'flip switch' and reverse Trump policies at border: Mike Pompeo"
-    excerpt: "Former Trump secretary of state and new Fox News contributor Mike Pompeo speaks out on the crisis at the southern border on 'Fox & Friends.'"
-    publishedDateTime: 2021-04-12T14:45:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ntXjETn0h_U/tragic-to-see-biden-admin-reverse-trump-policies-at-border-pompeo"
-    ampWebUrl: "https://www.foxnews.com/politics/tragic-to-see-biden-admin-reverse-trump-policies-at-border-pompeo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tragic-to-see-biden-admin-reverse-trump-policies-at-border-pompeo.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Progressives ramp up pressure on Biden to forgive student loan debt"
-    excerpt: "Progressives are ramping up the pressure on President Biden to forgive student debt relief as Education Secretary Miguel Cardona investigates the administration's legal authority."
-    publishedDateTime: 2021-04-05T16:38:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EW1dYAUoWyE/biden-cancel-student-debt-50000-progressive-pressure"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
+  - title: "DNC launches billboard blitz to sell Biden's $1.9T coronavirus relief law"
+    excerpt: "EXCLUSIVE: The Democratic National Committee is hitting the road in its latest campaign to tout President Biden's $1.9 trillion coronavirus relief plan and call out Republicans who voted against it."
+    publishedDateTime: 2021-04-05T09:30:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mk8Rn-YM6h8/dnc-billboard-blitz-biden-coronavirus-relief-law"
+    ampWebUrl: "https://www.foxnews.com/politics/dnc-billboard-blitz-biden-coronavirus-relief-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dnc-billboard-blitz-biden-coronavirus-relief-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Democratic-National-Committee.2.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden task force has not reunited any families separated at border"
-    excerpt: "None of the hundreds of families separated as part of former President Trump’s zero-tolerance policy have been reunited by the Biden administration yet, Department of Homeland Security (DHS) officials told reporters on a call Wednesday. "
-    publishedDateTime: 2021-04-07T22:01:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uhumLIL17ds/biden-task-force-families-separated-border"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-task-force-families-separated-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-task-force-families-separated-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/family.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden USCIS nominee called for pausing border patrol funding"
-    excerpt: "President Biden’s nominee to head up U.S. Citizenship and Immigration Services (USCIS) once called for pausing Customs and Border Protection (CBP) funding during the Trump administration."
-    publishedDateTime: 2021-04-12T22:44:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aIwjrO-Ie7U/biden-immigration-nominee-ur-jaddou-uscis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-nominee-ur-jaddou-uscis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-nominee-ur-jaddou-uscis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e63c96c-1b17-4d3b-b75f-1b419f4c56cd/d5527c0b-a96e-4bc2-a46b-26416e13e295/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall"
-    excerpt: "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. "
-    publishedDateTime: 2021-04-07T19:27:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "CA man whose brother was killed by illegal immigrant sends message to Biden"
-    excerpt: "A man whose brother was killed by an illegal alien slammed the Biden administration for refusing to admit that there is a crisis at the southern border and said the situation is getting worse by the minute."
-    publishedDateTime: 2021-04-09T12:29:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGSc4lpIRH4/california-man-brother-killed-illegal-immigrant-biden-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b0330951-a90f-499a-abe2-ecd4bb10c804/c6e4fc37-0ba2-4fe1-b955-c29f20bbde5d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "El Salvador president refuses to meet with Biden envoy on immigration crisis"
-    excerpt: "El Salvador’s President Nayib Bukele refused to meet with a visiting senior U.S. diplomat this week over what he sees as a pattern of slights from Democrats and the Biden administration, according to two aides of the Central American leader."
-    publishedDateTime: 2021-04-08T20:35:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wso7x-_6DJ8/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say"
-    ampWebUrl: "https://www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
+  - title: "House poised to approve Biden's $1.9T coronavirus relief bill in Friday vote"
+    excerpt: "The House is poised to pass President Biden's coronavirus relief package on a party-line vote Friday and send the $1.9 trillion measure to the Senate as Congress races to provide a fresh round of aid to Americans still reeling from the pandemic."
+    publishedDateTime: 2021-02-26T15:33:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v81Wn1x6bxY/house-poised-to-approve-bidens-1-9t-coronavirus-relief-bill-in-friday-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/house-poised-to-approve-bidens-1-9t-coronavirus-relief-bill-in-friday-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-poised-to-approve-bidens-1-9t-coronavirus-relief-bill-in-friday-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65de96da-f543-4865-a9c9-92eb3c5e2d16/f46278d2-4dc8-479d-af48-2112da2131dc/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5849ecf7-8c15-4fea-95f3-4c24ca446e85/0511ed69-9218-4c93-9e69-1929be5c050c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -176,221 +96,49 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Inside Biden White House's ties to dark money group seeking to pack Supreme Court"
-    excerpt: "Both White House press secretary Jen Psaki and President Biden's judicial nomination point person Paige Herwig previously worked for Demand Justice."
-    publishedDateTime: 2021-04-08T13:54:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rUaID-M3u9Y/biden-white-house-pack-supreme-court-sixteen-thirty-paige-herwig"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-pack-supreme-court-sixteen-thirty-paige-herwig.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-pack-supreme-court-sixteen-thirty-paige-herwig.amp"
+  - title: "Marines' vaccine hesitancy presents early test for Biden as commander-in-chief"
+    excerpt: "Many U.S. Marines' hesitancy to receive coronavirus vaccinations could prove to be a sticking point for President Biden."
+    publishedDateTime: 2021-04-12T21:04:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZU3LO4qaQR0/marines-vaccine-coronavirus-biden-democrats-military"
+    ampWebUrl: "https://www.foxnews.com/politics/marines-vaccine-coronavirus-biden-democrats-military.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marines-vaccine-coronavirus-biden-democrats-military.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Border-Crisis-AP.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21040647754122.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Psaki refuses to say if Biden thinks reconciliation should replace regular order in Senate"
-    excerpt: "White House press secretary Jen Psaki, asked if President Biden agrees with Sen. Joe Manchin that reconciliation should not be the “normal order” in the Senate, said the president would leave it up to the Hill to decide. "
-    publishedDateTime: 2021-04-08T19:34:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A3iieun2Hak/white-house-biden-reconciliation-replace-regular-order"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-reconciliation-replace-regular-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-reconciliation-replace-regular-order.amp"
+  - title: "Collins-led group of GOPers blasts Biden after president says they ‘didn’t move an inch’ on COVID compromise"
+    excerpt: "The group of 10 Republican senators that attempted to negotiate with President Biden on coronavirus relief slammed the president in a biting statement Wednesday night accusing him of misrepresenting their meeting and its fallout. "
+    publishedDateTime: 2021-04-08T11:41:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6yEXfGqoji4/collins-gop-blasts-biden-covid-compromise"
+    ampWebUrl: "https://www.foxnews.com/politics/collins-gop-blasts-biden-covid-compromise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/collins-gop-blasts-biden-covid-compromise.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7beeeed2-5f98-49e2-9ec2-2f57c15dee33/78d2f558-e4e8-4f55-a3a9-7cea1c533eb3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rep. Jordan slams Biden admin for limiting media's access to migrant facilities amid surge at border"
-    excerpt: "Ohio Republican Congressman Jim Jordan argued on Sunday that the reason the press is not allowed to visit migrant facilities is because the Biden administration does not “want the American people to know what's going on.”"
-    publishedDateTime: 2021-04-11T18:46:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCpA_tpx8jU/rep-jordan-biden-admin-limiting-media-access-border-facilities"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-jordan-biden-admin-limiting-media-access-border-facilities.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jordan-biden-admin-limiting-media-access-border-facilities.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
-    excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."
-    publishedDateTime: 2021-04-12T19:53:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ZF22LaBpVI/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chris-Magnus.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden pushed to make sure budget funds ICE amid border crisis"
-    excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., is urging President Biden to increase funding for Immigration and Customs Enforcement (ICE) to help deal with the effects of the current crisis at the southern border, warning the president against political pressure to defund the agency."
-    publishedDateTime: 2021-04-05T16:17:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H-evmaZ58nY/biden-pushed-to-make-sure-budget-funds-ice-amid-border-crisis"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden pick to lead CBP reportedly balked at Trump immigration policies"
-    excerpt: "President Biden’s nominee to head up Customs and Border Protection has backed Black Lives Matter, defended sanctuary cities and pushed back at Trump administration orders to round up and"
-    publishedDateTime: 2021-04-13T14:03:00Z
-    webUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/"
-    ampWebUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/chris-magnus.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Former Trump aide Stephen Miller launches group targeting Biden’s policies"
-    excerpt: "Former President Donald Trump’s senior aide Stephen Miller has launched a new organization that aims to challenge the Biden administration’s policies in courts."
-    publishedDateTime: 2021-04-07T13:06:00Z
-    webUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/"
-    ampWebUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 148
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/stephen-miller-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden strikes Trump-esque deal with Northern Triangle countries amid migrant surge"
-    excerpt: "The Biden administration is taking a page out of former President Donald Trump’s book, striking an agreement with the Northern Triangle countries to militarize their borders in an effort to curb ..."
-    publishedDateTime: 2021-04-12T19:57:00Z
-    webUrl: "https://nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/"
-    ampWebUrl: "https://nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 144
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/psaki-border-northern-triangle-02.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump says he doubts Biden ‘making the decisions,’ calls border wall chatter ‘positive step’: report"
-    excerpt: "Former President Trump expressed doubts Tuesday that his successor was \"making most of the decisions\" in the White House, noting from experience that being president is \"a lot of work.\" Trump also reacted positively to reports that the Biden administration ..."
-    publishedDateTime: 2021-04-07T07:49:00Z
-    webUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report"
-    ampWebUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Gaetz denies CNN report on Trump refusing to meet him, demands retraction"
-    excerpt: "Rep. Matt Gaetz, who faces allegations of sexual misconduct, pushed back at CNN for claiming that former President Donald Trump refused to meet with him — calling the report a lie and"
-    publishedDateTime: 2021-04-12T13:29:00Z
-    webUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/"
-    ampWebUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/gaetz-trump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "All-Star rumble, with Biden and Trump, shows corporate America breaking with GOP"
-    excerpt: "Business support for taking the All-Star Game out of Atlanta because of the Georgia voting law is emblematic of Corporate America's break from the GOP"
-    publishedDateTime: 2021-04-06T07:12:00Z
-    webUrl: "https://www.foxnews.com/media/all-star-rumble-with-biden-and-trump-shows-corporate-america-breaking-with-gop"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden-green-thumb.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Stephen Miller: 'Joe Biden has shut down ICE,' leading to a 'travesty' at the southern border"
-    excerpt: "In addition to the disaster on the border, Joe Biden has shut down ICE. ICE is now disabled from removing most criminally-convicted illegal immigrants that they were removing under the Trump administration. So you have an open sieve at the border ..."
-    publishedDateTime: 2021-04-10T02:55:00Z
-    webUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8672e02b-26a9-457c-b738-289f837dfbd2/421cf8ba-c813-4014-9378-0f530551ffe7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hannity: White House mum as drug dealers, traffickers cash in on Biden's failing immigration policies"
-    excerpt: "Sean Hannity doubled down on his attack of President Biden's immigration policies after U.S. Border Patrol agents in California arrested an alleged MS-13 gang member who had illegally crossed the border into the United States."
-    publishedDateTime: 2021-04-09T03:03:00Z
-    webUrl: "https://www.foxnews.com/media/sean-hannity-drug-dealers-traffickers-cash-in-biden-border"
-    ampWebUrl: "https://www.foxnews.com/media/sean-hannity-drug-dealers-traffickers-cash-in-biden-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sean-hannity-drug-dealers-traffickers-cash-in-biden-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 120
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fa76653-e144-4087-bd47-e82045041f83/df296664-a958-4e62-b9bf-e93642294f57/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden, blocked by Congress, resorts to minor gun measures"
-    excerpt: "Joe Biden didn’t try to sugarcoat the fact that he wasn’t doing very much. \"We have a long way to go, it seems like we always have a long way to go,\" he said yesterday. What he was doing, on a warm Washington day, was bowing to political reality."
-    publishedDateTime: 2021-04-09T07:10:00Z
-    webUrl: "https://www.foxnews.com/media/biden-blocked-by-congress-resorts-to-minor-gun-measures"
+  - title: "As press embraces Biden agenda, White House leaks have disappeared"
+    excerpt: "No such thing anymore,\" the paper says. There aren’t even authorized, self-serving leaks in the mold of \"Joe Biden slammed his fist on the desk and said ‘We’ve got to get this done, failure is not an option.’\" The Trump White House was the leakiest ..."
+    publishedDateTime: 2021-04-08T07:23:00Z
+    webUrl: "https://www.foxnews.com/media/as-press-embraces-biden-agenda-white-house-leaks-have-disappeared"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 115
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21098586391020.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Psaki-318-3.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -408,59 +156,38 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "States Fight Back Against Biden War on the West"
-    excerpt: "This brings us to President Joe Biden. No president in modern times, perhaps ever, has shown such contempt for our system of federalism. So I was thrilled to see this headline from, of all places, Alaska: \"Dunleavy Tells Feds Alaska Is Taking Over ..."
-    publishedDateTime: 2021-04-06T09:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+  - title: "What Happened to Biden's Unity Agenda?"
+    excerpt: "President Joe Biden stood in front of the U.S. Capitol in the wake of the Jan. 6 riots and delivered his inaugural address."
+    publishedDateTime: 2021-04-09T10:42:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/09/what_happened_to_bidens_unity_agenda_145556.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/09/what_happened_to_bidens_unity_agenda_145556.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/what_happened_to_bidens_unity_agenda_145556.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/533649_5_.jpg"
         width: 750
         height: 500
         isCached: true
-  - title: "If It Ain't Broke, Joe Biden Will Break It"
-    excerpt: "The sage advice that If it ain't broke, don't fix it is older than Joe Biden, but apparently he never heard of it. Or doesn't think much of it. The president is on a tear, as in tearing up"
-    publishedDateTime: 2021-04-11T11:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html#!"
+  - title: "The Filibuster and Gun Control: Can Biden Move the Senate, or Will Joe Manchin Move the President?"
+    excerpt: "RCP co-founder Tom Bevan and Washington bureau chief Carl Cannon discuss today's takeaway from the world of politics."
+    publishedDateTime: 2021-04-08T22:47:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/08/the_filibuster_and_gun_control_can_biden_move_the_senate_or_will_joe_manchin_move_the_president.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/04/08/the_filibuster_and_gun_control_can_biden_move_the_senate_or_will_joe_manchin_move_the_president.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/04/08/the_filibuster_and_gun_control_can_biden_move_the_senate_or_will_joe_manchin_move_the_president.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
+    quality: 71
     images:
-      - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/540040.jpg"
         width: 750
-        height: 500
+        height: 562
         isCached: true
-  - title: "Joe Biden's Trojan Horse Presidency"
-    excerpt: "Joe Biden was elected president after a campaign rooted in rhetoric emphasizing unity, moderation, and compromise. But with every day that passes, the veneer of centrism that got him elected over rivals such as Sen."
-    publishedDateTime: 2021-04-11T11:27:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/joe_bidens_trojan_horse_presidency_540242.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/540010_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
-    excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
-    publishedDateTime: 2021-04-11T11:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/bidens_gun-control_policies_would_treat_everyone_like_a_criminal_540241.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "ObSpa8GoW04173Pz7AmSkIhKVLqAUYNzcQNfCFmIwWQLZh4aWs3jbCi8HWhCc9yKGAuE19GnLvc1tym/sAtq/0mjDmNxukZHr2nx44m4eM5L1CIxQIMVvoXCJGHMlGZG2gTxd23TnVp/qXdXWlMGTGuJkXTseIiYNzu1jERNNidQxDH6iWfBW5mPCM5Rx1P5PeNuui01/8k2UtwT3oI1OgL/ViuAyt0Tp5al7b97HVjwFcCPWwU9R9IxqCOq+HEArthdr9Rl8n/61atxLylq9x9P/vsCJwMA4PHEcL6IrhB/hUsZF0UHhThlCGtWES84oesUY9hNum6wVNlIiWxujxVjDoG+ybnMFo1p4CfN4B8=;nO7l81AnmLWAyJO3QTXRmQ=="
 ---

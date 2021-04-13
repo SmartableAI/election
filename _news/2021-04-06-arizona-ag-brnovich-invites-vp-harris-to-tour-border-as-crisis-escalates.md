@@ -94,22 +94,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Concha on Kamala Harris' 'media blackout' on border crisis: Biden admin 'acting more like Pyongyang'"
-    excerpt: "Fox News contributor Joe Concha told \"Fox & Friends\" on Tuesday that Vice President Kamala Harris is more of a \"chronic-complainer\" instead of a \"doer\" because she has not yet visited nor addressed to the media the issues on the southern border."
-    publishedDateTime: 2021-04-13T14:21:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Fcog6Lrlvc/kamala-harris-concha-questions-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
     excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
     publishedDateTime: 2021-04-10T01:35:39Z
@@ -363,6 +347,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-mark-brnovich-001.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Concha on Kamala Harris' 'media blackout' on border crisis: Biden admin 'acting more like Pyongyang'"
+    excerpt: "Fox News contributor Joe Concha told \"Fox & Friends\" on Tuesday that Vice President Kamala Harris is more of a \"chronic complainer,\" instead of a \"doer,\" because she has not yet visited nor addressed to the media the issues on the southern border."
+    publishedDateTime: 2021-04-13T14:22:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Texas Gov. Abbott writes to VP Kamala Harris, demanding answers on border crisis"
     excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President ."

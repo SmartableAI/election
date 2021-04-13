@@ -170,6 +170,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
+    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. The freshman lawmaker authored the \"Red Tape Reduction Act\" to ..."
+    publishedDateTime: 2021-04-13T19:44:00Z
+    webUrl: "https://www.foxnews.com/politics/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "m7l8lh4jQd49oViMjQktkeGrK0BtliSx5dgFtTOgIgK0oIXK4yq5DHSwMFsbugLnlZ+uxXJ6mVJurf21IVElfHP/zhf8V8A3CeN0mMTN7Uhc5tFsiksFTyQymb4OW0+fbtBxrqrSfwLbUXDLrwciJ4Ks33iFKPhlcWlaKZE4GjiJwH5B8KNE9UruQaprLezUA1yKmBvR1keFZcXa5vZKTZ9+zDY0WtqnCBlJfoX1QtoKoaNc+80Gn4v/MgzOE9RgE+gxZVtdAqKuTRnle1Cfp/cUEvWAXGP4oniRUHP24Up53vZxLcyibxgohsKQB6Oo5naDygq+4HTj3GzdlnV8A0pVnECdEK2qc9DtefZgQeoJnLLALGDRf8aracinHQ1vYAv66FDmCEnKEt2Hp3kwAkzSjL8y0SH/LXIsJRyKYkuYrI8JXwoBdXlg8SuSo/cL1X5rOwsTvN+YDFlN0jjLr4Va6fw7nnQsIfkohaaBOG4cgF+YtgTA6kRvqpUC5ov7DjY944sHajwVTaA5An8wIQ==;rZzd/kP0I5bWXSnRUNg8qQ=="
 ---

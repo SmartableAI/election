@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-14-tara-reade-rips-new-york-times-columnists-for-classifying-biden-assault-claim-as-sex-scandal.md",
+      "title": "Tara Reade rips New York Times columnists for classifying Biden assault claim as 'sex scandal'",
+      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, scolded The New York Times Tuesday for putting her claims in the same category as the controversy surrounding Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
+      "originalUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-10.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
+      "publishedDateTime": "2021-04-13T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-fact-check-viral-image-does-not-show-president-joe-biden-apologizing-to-george-floyds-child.md",
+      "title": "Fact check: Viral image does not show President Joe Biden apologizing to George Floyd's child",
+      "excerpt": "A miscaptioned photo purports to show President Joe Biden apologizing to George Floyd’s son. However, the child in the image is not Floyd’s. “U.S. President Joe Biden kneels down to beg George Floyd's son for forgiveness,” media company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/PDTF/ff87b317-0aa6-49c9-b3ee-e02fa10236ff-GTY_1271608759.jpg?auto=webp&crop=3408,1917,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7191274002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7191274002",
+      "publishedDateTime": "2021-04-13T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-with-russia-white-house-says.md",
+      "title": "Joe Biden, Vladmir Putin Summit Doesn't Signal New Friendliness with Russia, White House Says",
+      "excerpt": "U.S. President Joe Biden and Russian President Vladmir Putin have agreed to take their icy relationship to the next level in the coming months—a face-to-face meeting in a third country. But the White House insists it's not a signal that the two are on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363",
+      "originalUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777226/putin-biden.jpg",
+          "width": 3477,
+          "height": 1775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1",
+      "publishedDateTime": "2021-04-13T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-president-joe-biden-to-nominate-christine-wormuth-as-first-woman-secretary-of-the-army.md",
       "title": "President Joe Biden to nominate Christine Wormuth as first woman secretary of the Army",
       "excerpt": "WASHINGTON — A woman may serve as secretary of the Army in the Department of Defense for the first time. President Joe Biden will tap Christine Wormuth, a former adviser for the Defense Department during former President Barack Obama's terms in office ...",
@@ -1419,172 +1580,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.md",
-      "title": "Steyn: Biden 'consciously enriching cartels' with 'entirely dissolved' southern border",
-      "excerpt": "In his \"Fox News Primetime\" monologue on Tuesday, host Mark Steyn lamented the exponential increase in human smuggling into the United States as the Biden administration fails to secure the southern b",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border",
-      "originalUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f2d6dc0-4bc4-4aa4-b5dc-699a52c0278c/dc452007-fbad-423d-be76-3a780d567600/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp",
-      "publishedDateTime": "2021-04-06T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-joe-biden-is-not-planning-to-solve-the-israeli-palestinian-conflict.md",
-      "title": "Joe Biden is not planning to solve the Israeli-Palestinian conflict",
-      "excerpt": "Joe Biden, though, isn’t all that interested. Unlike Barack Obama and Donald Trump, Biden hasn’t named a special envoy to focus on the Israeli-Palestinian portfolio. Unlike Bill Clinton, Biden has no plans for any sort of peace conference, or even a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "originalUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/52/24/4d5812e541128852ed8c3d89e2db/210406-biden-israel-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "publishedDateTime": "2021-04-06T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-biden-reassuring-to-see-companies-speak-out-against-voting-laws.md",
-      "title": "Biden: 'Reassuring' to see companies speak out against voting laws",
-      "excerpt": "President Biden Joe Biden Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE on Tuesday credited private companies with speaking up in opposition to new voting laws being passed in Georgia and elsewhere while warning about the impact on workers when businesses leave,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws",
-      "originalUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe3_04062021getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp",
-      "publishedDateTime": "2021-04-06T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris Highlights Pregnancy Difficulties Facing Black Women"
+    excerpt: "To mark Black Maternal Health Week, Vice President Kamala Harris led a discussion Tuesday of the issues that make African American women two to three times more likely than other women to die because of childbirth."
+    publishedDateTime: 2021-04-13T20:44:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipOdfUFzCvbE/v0/1200x803.jpg"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "Essential Politics: Kamala Harris is taking on the migrant problem, but staying away from the border"
     excerpt: "The vice president has her first solo assignment, but she's struggling to clarify exactly what she's responsible for."
     publishedDateTime: 2021-03-31T13:29:00Z
@@ -607,17 +621,28 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Harris Highlights Pregnancy Difficulties Facing Black Women"
+    excerpt: "Vice President Kamala Harris has marked Black Maternal Health Week by leading a White House discussion of the issues that make African American women two to three times more likely than other women to die because of childbirth. WASHINGTON (AP ..."
+    publishedDateTime: 2021-04-13T20:43:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Vice President Kamala Harris Holds Roundtable on Black Maternal Health"
-    excerpt: "Vice President Kamala Harris and White House Domestic Policy Advisor Susan Rice listen during a roundtable discussion on Black maternal health in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Photo by Sarah Silbiger/UPI ..."
+    excerpt: "Vice President Kamala Harris delivers remarks on Black maternal health during a roundtable discussion in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Vice President Harris is joined by White House Domestic Policy Advisor ..."
     publishedDateTime: 2021-04-13T18:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/7cc5ae89e3c70c3f51d0a71ecb5b6f82/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/64bfe18950701ca935307868bce3165f/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/7cc5ae89e3c70c3f51d0a71ecb5b6f82/HARRIS-BLACK-HEALTH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/64bfe18950701ca935307868bce3165f/HARRIS-BLACK-HEALTH.jpg"
         width: 650
         height: 433
         isCached: true

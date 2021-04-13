@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2129
+heat: 2149
 published: true
 
 provider:
@@ -687,6 +687,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/12/9f600f8c-fb94-4504-8bf8-324de78340dc/thumbnail/1200x630/9f1ab70b2306772579e6c389b21aa43a/gettyimages-1230469638.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "McConnell seeks to end feud with Trump"
+    excerpt: "is seeking to end his running feud with President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
+    publishedDateTime: 2021-04-13T21:50:00Z
+    webUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump"
+    ampWebUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnelltrump1_101617getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."

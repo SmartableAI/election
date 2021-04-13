@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58d583e4-0b8a-40f3-86b7-9d8721afe99f/fe94cf91-e6c7-497a-b692-ac8f13fb054b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Gaetz denies CNN report on Trump refusing to meet him, demands retraction"
+    excerpt: "Rep. Matt Gaetz, who faces allegations of sexual misconduct, pushed back at CNN for claiming that former President Donald Trump refused to meet with him — calling the report a lie and"
+    publishedDateTime: 2021-04-12T13:29:00Z
+    webUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/"
+    ampWebUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/gaetz-trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
     excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"

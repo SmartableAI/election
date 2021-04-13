@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-27-liberal-privilege-donald-trump-jr-criticizes-bruce-springsteen-dwi-charge-dismissal.md",
+      "title": "'Liberal privilege': Donald Trump Jr. criticizes Bruce Springsteen DWI charge dismissal",
+      "excerpt": "Donald Trump Jr., who had an alcohol related charge against him dismissed, rails against Bruce Springsteen's DWI dismissal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/2021/02/26/donald-trump-jr-says-bruce-springsteens-dwi-dismissal-privilege/6834089002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/2021/02/26/donald-trump-jr-says-bruce-springsteens-dwi-dismissal-privilege/6834089002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/25/PAPP/58002f0e-27f7-4ae9-8050-a62dd39d801d-TrumpBoss.jpeg?auto=webp&crop=623,350,x29,y2&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6834089002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6834089002",
+      "publishedDateTime": "2021-02-26T10:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-donald-trump-jr-gives-fiery-cpac-speech-railing-against-republicans-who-opposed-his-father-and-snatched-defeat-from-the-jaws-of-victory.md",
+      "title": "Donald Trump Jr. gives fiery CPAC speech railing against Republicans who opposed his father and snatched 'defeat from the jaws of victory'",
+      "excerpt": "Trump Jr. ranted about Wyoming Rep. Liz Cheney, saying her \"politics are only slightly less popular than her father is at a quail hunt.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2",
+      "originalUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6039646bd9208800185924cf?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp",
+      "publishedDateTime": "2021-02-26T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee.md",
       "title": "McConnell says he would \"absolutely\" support Trump if he's the 2024 GOP nominee",
       "excerpt": "Just two weeks ago, the Senate Minority Leader called the former president \"practically and morally responsible for provoking the events\" of January 6.",
@@ -1465,110 +1569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-trump-hotel-employees-say-they-had-to-pretend-to-support-the-president-inside-i-was-dying.md",
-      "title": "Trump hotel employees say they had to pretend to support the president: 'Inside I was dying'",
-      "excerpt": "For employees at the Trump International Hotel who weren't Donald Trump supporters, pretending to be one was an unwritten rule of the job.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2",
-      "originalUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602fe0d8a06a8e0018ce442e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2?amp",
-      "publishedDateTime": "2021-02-19T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-fact-check-did-donald-trump-jr-say-texas-governor-greg-abbott-is-a-democrat.md",
-      "title": "Fact Check: Did Donald Trump Jr. Say Texas Governor Greg Abbott is a Democrat?",
-      "excerpt": "The eldest son of former President Donald Trump was mocked for tweeting about \"Democrat Governor's incompetence\" while defending Ted Cruz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1739162/donald-trump-jr.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574?amp=1",
-      "publishedDateTime": "2021-02-19T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

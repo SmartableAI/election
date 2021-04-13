@@ -2,6 +2,167 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-12-remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops.md",
+      "title": "Remembering Parkland — Defiant DeSantis lashes out at Biden administration — Sprowls warns schools over enrollment drops",
+      "excerpt": "Between Wednesday and Thursday, the number of Florida coronavirus cases increased by 8,525 (nearly 0.5 percent), to 1,806,805; active hospitalizations went down by 220 (nearly 4.3 percent). to 4,906;",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-biden-governors-and-mayors-need-350-billion-to-fight-covid.md",
+      "title": "Biden: Governors and mayors need $350 billion to fight COVID",
+      "excerpt": "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-12T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-migrants-view-the-us-with-hope-and-caution-after-biden-scraps-muslim-ban.md",
+      "title": "Migrants view the US with hope and caution after Biden scraps 'Muslim ban'",
+      "excerpt": "The policy rejected visas for an estimated 42,000 people, and did nothing for Americans’ safety",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa?utm_medium%23Echobox=1613053478",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa?utm_medium%23Echobox=1613053478",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/70099cc4acb006157a97e6d350d0d59004d341eb/0_186_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2541df4e5bcf6e8d0d5a4406c778d221",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa",
+      "publishedDateTime": "2021-02-11T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-saudi-rights-activist-loujain-al-hathlouls-family-thanks-biden-for-helping-get-her-out-of-prison.md",
       "title": "Saudi rights activist Loujain al-Hathloul's family thanks Biden for helping get her out of prison",
       "excerpt": "But the sister of Loujain al-Hathloul says she's not really free, and that there's \"an atmosphere of fear\" under Saudi Crown Prince Mohammed bin Salman.",
@@ -1399,162 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biden-visits-wounded-soldiers-at-walter-reed-where-son-died.md",
-      "title": "Biden visits wounded soldiers at Walter Reed, where son died",
-      "excerpt": "President Joe Biden has made his first major foray outside the White House with a visit to Walter Reed National Military Medical Center to meet with wounded soldiers",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_1fb006fe7b104c96a50132cb5ffdcdcf_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
-      "publishedDateTime": "2021-01-29T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biden-renews-deportation-relief-for-syrians-in-the-united-states.md",
-      "title": "Biden renews deportation relief for Syrians in the United States",
-      "excerpt": "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
-      "originalUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y28W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W",
-      "publishedDateTime": "2021-01-29T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biden-pledge-to-reopen-plo-mission-in-washington-faces-legal-hurdles.md",
-      "title": "Biden pledge to reopen PLO mission in Washington faces legal hurdles",
-      "excerpt": "U.S. President Joe Biden's plan to work to reopen the Palestinians' diplomatic mission in Washington could be held up over a law that exposes Palestinian officials to U.S. anti-terror lawsuits, officials and advisers to the Palestinians say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-palestinians-usa-idUSKBN29Y1FB",
-      "originalUrl": "https://www.reuters.com/article/us-palestinians-usa-idUSKBN29Y1FB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549554099&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S0YT",
-          "width": 825,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y1FB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y1FB",
-      "publishedDateTime": "2021-01-29T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

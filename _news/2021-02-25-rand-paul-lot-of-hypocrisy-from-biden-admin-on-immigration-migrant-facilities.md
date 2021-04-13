@@ -79,6 +79,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden's Trojan Horse Presidency"
+    excerpt: "Joe Biden was elected president after a campaign rooted in rhetoric emphasizing unity, moderation, and compromise. But with every day that passes, the veneer of centrism that got him elected over rivals such as Sen."
+    publishedDateTime: 2021-04-11T11:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/joe_bidens_trojan_horse_presidency_540242.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540010_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "pqWT5EPIsUNMtKc/sMb4vj+U2QjTeLK/jDHx7Rv5X+wvLrYyp7026FkgnbB5cL13HoQdRqtKl6O5U4BkHcE+/c9xHf7tDbK3EkgZ4Z04Yxu4vzAcxF2m8rihzJb9+R+EresbDZ5Up0IPISp5/nYQXvsCurOOhRR3aPIGau0UhycWKfWjZQAxnCs0axtjG+gLAN55IKDByVMWiFF5NxBgMS5uQQ5+LjLygGozVEFmQgPF/r5AUMHouOhyMbCUriqNid/r+Ot0TFymI3dixPm5NsLevB/bGUJR3YyEQOqp1mYfO48ZWVttEOK/Z1h9Pk2pI91lEF3AfKczgIFXz2um2nEGpuTzfSXvos0i0xElrlw=;Sfz4mR+onQG4HXkrvVLYvw=="
 ---

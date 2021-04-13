@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden task force has not reunited any families separated at border"
+    excerpt: "None of the hundreds of families separated as part of former President Trump’s zero-tolerance policy have been reunited by the Biden administration yet, Department of Homeland Security (DHS) officials told reporters on a call Wednesday. "
+    publishedDateTime: 2021-04-07T22:01:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uhumLIL17ds/biden-task-force-families-separated-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-task-force-families-separated-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-task-force-families-separated-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/family.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'For better, for worse': Joe and Jill Biden united in use of bad Spanish"
     excerpt: "First Lady Dr. Jill Biden was in the social media spotlight on Wednesday after mispronouncing a phrase in Spanish, but it appears she and President Biden may have taken the same language classes."
     publishedDateTime: 2021-04-01T22:36:06Z

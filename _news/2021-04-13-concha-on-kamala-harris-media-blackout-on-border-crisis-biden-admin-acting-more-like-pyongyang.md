@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Concha on Kamala Harris' 'media blackout' on border crisis: Biden admin 'acting more like Pyongyang'"
-excerpt: "Fox News contributor Joe Concha told \"Fox & Friends\" on Tuesday that Vice President Kamala Harris is more of a \"chronic-complainer\" instead of a \"doer\" because she has not yet visited nor addressed to the media the issues on the southern border."
-publishedDateTime: 2021-04-13T14:21:46Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Fcog6Lrlvc/kamala-harris-concha-questions-border-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Fcog6Lrlvc/kamala-harris-concha-questions-border-crisis"
+excerpt: "Fox News contributor Joe Concha told \"Fox & Friends\" on Tuesday that Vice President Kamala Harris is more of a \"chronic complainer,\" instead of a \"doer,\" because she has not yet visited nor addressed to the media the issues on the southern border."
+publishedDateTime: 2021-04-13T14:22:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
 type: article
-quality: 185
+quality: 135
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
@@ -502,6 +502,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "fn6NH1R3x2+5ysm47FLNZexWykBmPQU60/et+3WLtL63TT/UIob5d0zuQZ0++MCm1uGLLnGAAWP+JiyFVAzPN6Kl0afIBvhPdhu//AobI7+EWJQ9oU81m4Ac2jQQRsU7WwiIwrREkkbiKe87MwgqRygggmbBDacX3HQZrWO7H0FG/kiV8gwBBjHxlbDNRWYwHeBR6jnL9Tp23+zfi9wBEaeqdM2lo5tWyY5VvWm4PaqOjENyKHd3xTwhE+jwbziKdEYJ1qB3KIKJw/Ze36DKYO1kv7aNiU6o2BbtPHa7LoOkl/EYm8+zzi7PQI9hhKUEAw/vRVA39ky2lNowsKkyE8i68NfVH6a82ShO6zoOfUc=;eVLB5gFY+8BatfMOms/eBQ=="
+secured: "qfNTlghXTycfAgCCtUTc00JQYxuk0FbuMjOCDOU/sxoJm4w59owMWbQ6ejYTyQVgijvhE+S8QK8mJjz2gjFY6q8KH7zIEeGrNHUeVEBGp3Cl61jv1TbKAU3JK2KpyTM+J6ZbRS8WGsCYnFYtsKmCZooF7md4RFbmuyD2EqatuYnpMwGBrqaBDuLxyIIH2O5FO8qzKs/OSHDiRaCb4/E2zOArlwxO8r80e0a/kdZf6NBhcD6cKu4rj8L0illkJaugdBwfkiAvOtR55OPsiY0BE6HVsWierowTuQPHZ0qhwgP/HCcm6WqPqLd6jHGUi3WT2FgULNp93R82D6LXGloQle6KasEqVacl9TO7m3h3OSg=;mMxjbyGB+29JGxmlmPw2dQ=="
 ---
 
