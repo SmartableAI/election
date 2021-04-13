@@ -251,6 +251,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden woos GOP with sweet infrastructure words, but is it progress?"
+    excerpt: "President Joe Biden called a handful of lawmakers to the White House Monday to talk about infrastructure for nearly two hours, the latest phase of his charm offensive, embarked upon as Congress returns from its recess and turns to the chore of grinding out ..."
+    publishedDateTime: 2021-04-12T23:05:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/biden-gop-infrastructure-481068"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/biden-gop-infrastructure-481068"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/biden-gop-infrastructure-481068"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/db/47/e5ad83e94d96be90fa2a6d5aa024/gettyimages-1231473215-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden says he’s willing to compromise on his infrastructure plan, but will not tolerate ‘doing nothing.’"
     excerpt: "like Senator Joe Manchin III of West Virginia, who have suggested they might agree to a corporate tax increase, but one not quite as big as the 28 percent Mr. Biden has proposed. The current rate is 21 percent. Asked if he was willing to compromise on the ..."
     publishedDateTime: 2021-04-07T12:32:00Z

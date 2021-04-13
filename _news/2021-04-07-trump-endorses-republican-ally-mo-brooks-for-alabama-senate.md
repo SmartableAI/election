@@ -239,6 +239,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Republicans pray for truce after Trump attacks on McConnell"
+    excerpt: "Donald Trump and Mitch McConnell's relationship simply can’t go on like this for Senate Republicans. Though the Senate GOP is tantalizingly close to retaking the majority next year and largely united in opposition to President Joe Biden’s agenda ..."
+    publishedDateTime: 2021-04-12T23:40:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/trump-attacks-mcconnell-republicans-truce-481061"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/trump-attacks-mcconnell-republicans-truce-481061"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-attacks-mcconnell-republicans-truce-481061"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/25/95/ec5ee291401bad1c226b2c986a9e/20210412-mcconnell-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
     excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
     publishedDateTime: 2021-01-14T08:22:00Z

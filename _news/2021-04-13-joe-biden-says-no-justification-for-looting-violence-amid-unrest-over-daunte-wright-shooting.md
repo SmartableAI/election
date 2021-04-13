@@ -63,7 +63,23 @@ related:
         width: 2804
         height: 1568
         isCached: true
+  - title: "Biden says there is 'no justification for violence' at protests after police shot and killed a 20-year-old Black man in Minnesota"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In his first remarks about the police killing of a 20-year old Black man, Daunte Wright, President Joe Biden said that \"it remains to be determined,\" whether the shooting was accidental or not. Biden added that ..."
+    publishedDateTime: 2021-04-12T19:20:00Z
+    webUrl: "https://www.businessinsider.com/duante-wright-biden-says-no-justification-violence-protests-police-shooting-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/duante-wright-biden-says-no-justification-violence-protests-police-shooting-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/duante-wright-biden-says-no-justification-violence-protests-police-shooting-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/607498e13e3fe7001882a2d3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "s+LrXV8EdyTC+OU1p61dEvDcHWr9wR6GZtHkd0NSleFknMkJDyNOrLOS6Q9XVAM4+oWCjwvo9gVWFP6uxG2LBI7D9vAsxNh1LINa07/rWzFiIoMmK/eUWukatzwdVLz+dbFYaIq7LVofCtkYAV1WhSReg3ph8Tha1WCMvmKynjlx4EL2VzXYQx9CyjOzB7DsEHSmFUeXQUSGj8rClK++iQ62tay9RYNsTbeErSGtWu5VpQKutX6QMk6+F7eviOP9HB3OcHToYMEVyh1IvCvLIS8oAhZfBRAdxhZEN3kvQa6m0R1bIXEw7aswHm0OofPIgHsEHf0RxhFJgbiaQmE45eF0XyL8iWlo+i/75yDSDA4=;2Baz+NlEI6LKt7AkyRywDg=="
+secured: "TOjBhS+iigbFrDlHLrkbxF2yAJ9d+M1c71a8OB/Q2rSwoex9GqRRueF4eNLbBTSV9qgBRofwbESLivHrqtQkhkyVEN+dG95zBXH79SSQVOC2DmqHZ1AM4oetemybyMQzhusLvYUaDtfO0mNzK1htTSuNATKiNnkEG28Uv29MINME3i5MB7Zmrxy1Dsnt6iONC/C53aBpxeVbXsiz4oJ6uK0W//Y/awzD745gti1iLhWWT0c+llDIEDQDrBAhP0Z5VHCtPrqv5y3f07XTDCu8ncOD3VYm5FlkPHe8pyNXBC0RrZyExsln1Qetn5hpbL2hD3vva1z2VSE++bzPaCiKMQvxQvSEFn5krVVsIgbyzHmXwS7/pUDswRNehQxoY76Hfjsrtr6GbomR/citThsV5tbi+TWdu1duN2ONfzOphmkdxKFgOHi0vWjGgXVw+ha+PAe6rkov5DesXrplUbyJC8vqiVVGza5/yir0uTR6gKEOZbRFsno+GNO3yn65u1+j16LBUvf2p3wZ7wikaVFYGg==;wZ/87Y1dKPjuO5T5t0HsiA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 920
+heat: 940
 published: true
 
 provider:
@@ -479,6 +479,22 @@ related:
     provider:
       name: Sacramento Bee
       domain: sacbee.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Kamala Harris puts D.C. condo on market for $2 million. Look inside"
+    excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1."
+    publishedDateTime: 2021-04-10T11:00:00Z
+    webUrl: "https://www.kansascity.com/news/nation-world/national/article250498814.html"
+    ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article250498814.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article250498814.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 69
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"

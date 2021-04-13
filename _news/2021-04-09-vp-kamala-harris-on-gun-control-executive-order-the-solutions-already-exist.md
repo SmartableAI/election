@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VP Kamala Harris On Gun Control Executive Order: \"The Solutions Already Exist\""
-excerpt: "Vice President Harris introduced President Biden at an event Thursday outlining Biden's new executive order targeting the gun show loophole and so-called \"ghost guns.\" The solutions to curb gun violence already exist."
+excerpt: "And President Joe Biden has the will and the courage to act. — Vice President Kamala Harris (@VP) April 8, 2021 THE VICE PRESIDENT: Good morning. Over the course of my career, I have seen gun violence up close. I have looked at autopsy photographs."
 publishedDateTime: 2021-04-08T18:08:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html#!"
 type: article
 quality: 61
 heat: -1
@@ -42,7 +42,39 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Nikki Haley says she won't run against Trump if he mounts presidential bid in 2024"
+    excerpt: "Former South Carolina Gov. Nikki Haley said Monday that she would not run for the presidency in 2024 if former President Donald Trump mounts another campaign for the White House."
+    publishedDateTime: 2021-04-12T22:56:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y_HUt4SLyLQ/nikki-haley-says-she-wont-run-against-trump-if-he-mounts-presidential-bid-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-says-she-wont-run-against-trump-if-he-mounts-presidential-bid-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-says-she-wont-run-against-trump-if-he-mounts-presidential-bid-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1cf9b75-bdd8-4751-b0a7-bdb396837917/d58167fb-cb91-4558-9cc7-fd257fe0a319/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Nikki Haley says she won't run against Trump if he mounts presidential bid in 2024"
+    excerpt: "Former South Carolina Gov. Nikki Haley said Monday that she would not run for the presidency in 2024 if former President Donald Trump mounts another campaign for the White House. Haley served in the Trump administration as U.S. ambassador to the United ..."
+    publishedDateTime: 2021-04-12T22:58:00Z
+    webUrl: "https://www.foxnews.com/politics/nikki-haley-says-she-wont-run-against-trump-if-he-mounts-presidential-bid-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-says-she-wont-run-against-trump-if-he-mounts-presidential-bid-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-says-she-wont-run-against-trump-if-he-mounts-presidential-bid-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1cf9b75-bdd8-4751-b0a7-bdb396837917/d58167fb-cb91-4558-9cc7-fd257fe0a319/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "5mV8n5Ei/0qk5fEnxXoVP0m5Bbg54I9S5Of8oAoIEk3RE8/lkDdjhr2Oq/eNdnV3uf5+1UNQC7fLysqa9Bocz/ku0OUtQ7fX+764sJ1SVnlDH3Q9VxO+t37AfJPbpzjRZzWbhY56gPIYpgAFHBaBg4RxiJttCv9OyF2my9vB1CQ6dUJMOcif4v9jeGP8caZfROOcc/KQFmghzGQRdFWrky9rvjckNvTpMQjRyBGf0UJjGS2qZ8m/v6XSoIEZOKhznqfzXB+ZYT7mcITI4fIi8SOBeJXR/iVaYsG6eX/Epgc6RIhsI5BuzaVqSSd0qgJmq6AlW4bo5p9EJ/oGMNZTmT+FX1lQfx4uAfCZV2CSkvTuQZq4sjDMV1ewm+VOVzp1UscV6hO42yxDejFtdmvGYYERQ+W9K33i/4JbrHwq/YqNXALD9kM727SiG7FR5Dtu03AcOnxnmJEztSD/3f2wTD2NyacHm9qcoKwYbKDneCzzc/8o7QCXMUl5jpaUQH1mpepHHETy2nHueGiqLGnOig==;MiUugHmEyqUCl+bO4Y5v1Q=="
+secured: "poT7/Yz4BHdfZ27ql7G/wcIImJEO/T5ceDPXXgQ9pHNOAvE5ONY+JSGweF9ML4+Y8+8jNX9o6/SwMpHF2AqQpMF47OFd43Gjd8fBnTYscoROS63e7s5x4mmi5JLHn+UF4pzkcDGeKREepE9vQX1FYdNAH9BLjYyYhydsdh8A5WH0fxfeOcdbXc2f00ZdNPAOOpXqEHdN1/RzG5RBXu96ZHW4ED2ynCpYKrTeV0oSQhXrSHxsuU5gj6S4Skhc+CIwh6jvgFijK9ewdemHgySIFLeYLyHtWX2taniRQcURyUqgN+TwiAm++fEKRV/b7+0b/MSDzg8fSECqIAIdPblmCNZaqMj090Kv/7YCZHfm5yk=;kA7/EvbiApvzrOPAzionbQ=="
 ---
 

@@ -93,6 +93,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden insists he’s willing to negotiate with Republicans on infrastructure"
+    excerpt: "also took issue with the price tag and the tax increases Biden has put forward to pay for it. Some Democrats, including centrist Sen. Joe Manchin III of West Virginia, have raised their own objections to the tax hikes. Manchin also warned the Biden ..."
+    publishedDateTime: 2021-04-12T23:33:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6M3RLE3PYI6XMXVPUXQDATVBU.jpg&w=1440"
+        width: 1440
+        height: 941
+        isCached: true
   - title: "Texas Democratic Sheriff Slams Biden Immigration Policy, Cost of Placing Migrants for County"
     excerpt: "Val Verde County, Texas, Sheriff Joe Frank Martinez said Friday that \"criminal aliens ... He commended Florida GOP Governor Ron DeSantis for sending a letter to the Biden administration that demanded it stop enforcing policies allowing the release of ..."
     publishedDateTime: 2021-04-03T15:47:00Z

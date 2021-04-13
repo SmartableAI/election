@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-03-22/biden-officials-im
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-22/biden-officials-immigration-mexico-guatemala?_amp=true"
 type: article
 quality: 124
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1755831/greg-abbott-migrants.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden Administration Hopes Troops From Mexico, Guatemala, and Honduras Can Stop Migrant Surge"
+    excerpt: "represent the latest attempts by President Joe Biden's administration to mitigate the influx of migrants trying to enter the country through the U.S.-Mexico border. Mexico, Guatemala and Honduras each agreed to heighten troop presence along their borders ..."
+    publishedDateTime: 2021-04-12T22:43:00Z
+    webUrl: "https://www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075"
+    ampWebUrl: "https://www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1776683/migrants-texas.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Biden administration sanctions Chinese officials for 'genocide' against Uighurs days after diplomatic spat in Alaska"
     excerpt: "as US and Chinese officials held the first face-to-face talks under President Joe Biden. In his opening remarks at the meeting, Blinken said the US intended to use the talks to discuss its concerns regarding human rights abuses in Xinjiang, among other issues."

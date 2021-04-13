@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-refugees-admitted-trump-compa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-refugees-admitted-trump-comparison-humanitarian-group.amp"
 type: article
 quality: 185
-heat: 665
+heat: 705
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/family.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden USCIS nominee called for pausing border patrol funding"
+    excerpt: "President Biden’s nominee to head up U.S. Citizenship and Immigration Services (USCIS) once called for pausing Customs and Border Protection (CBP) funding during the Trump administration."
+    publishedDateTime: 2021-04-12T22:44:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aIwjrO-Ie7U/biden-immigration-nominee-ur-jaddou-uscis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-nominee-ur-jaddou-uscis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-nominee-ur-jaddou-uscis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e63c96c-1b17-4d3b-b75f-1b419f4c56cd/d5527c0b-a96e-4bc2-a46b-26416e13e295/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -234,6 +250,22 @@ related:
     quality: 148
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/stephen-miller-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden strikes Trump-esque deal with Northern Triangle countries amid migrant surge"
+    excerpt: "The Biden administration is taking a page out of former President Donald Trump’s book, striking an agreement with the Northern Triangle countries to militarize their borders in an effort to curb ..."
+    publishedDateTime: 2021-04-12T19:57:00Z
+    webUrl: "https://nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/"
+    ampWebUrl: "https://nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 144
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/psaki-border-northern-triangle-02.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

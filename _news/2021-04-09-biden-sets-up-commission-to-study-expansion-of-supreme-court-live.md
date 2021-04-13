@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-po
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/b01f971dc8a8a609447df2793851052ce167a215/0_542_7276_4365/master/7276.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9b12b5fd7a73147358d01deaf6dac539"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden insists he’s willing to negotiate with Republicans on infrastructure"
+    excerpt: "also took issue with the price tag and the tax increases Biden has put forward to pay for it. Some Democrats, including centrist Sen. Joe Manchin III of West Virginia, have raised their own objections to the tax hikes. Manchin also warned the Biden ..."
+    publishedDateTime: 2021-04-12T23:33:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6M3RLE3PYI6XMXVPUXQDATVBU.jpg&w=1440"
+        width: 1440
+        height: 941
         isCached: true
   - title: "Texas Democratic Sheriff Slams Biden Immigration Policy, Cost of Placing Migrants for County"
     excerpt: "Val Verde County, Texas, Sheriff Joe Frank Martinez said Friday that \"criminal aliens ... He commended Florida GOP Governor Ron DeSantis for sending a letter to the Biden administration that demanded it stop enforcing policies allowing the release of ..."

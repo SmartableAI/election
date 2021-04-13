@@ -497,6 +497,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Kamala Harris puts D.C. condo on market for $2 million. Look inside"
+    excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1."
+    publishedDateTime: 2021-04-10T11:00:00Z
+    webUrl: "https://www.kansascity.com/news/nation-world/national/article250498814.html"
+    ampWebUrl: "https://amp.kansascity.com/news/nation-world/national/article250498814.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/nation-world/national/article250498814.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/75ceb1d7-a5a3-4961-8c83-2b3404a46dd8/9d687cd6-0c4d-497e-8ef9-d8a747f3297a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Kamala Harris urges Chicagoans to get vaccinated and stay safe: ‘In that way we will build back up’"
     excerpt: "Gov. J.B. Pritzker and Mayor Lori Lightfoot greeted Harris when she landed about 1 p.m. at Midway Airport. The nation’s first ever woman and person of color to serve as vice president was in town to tout President Joe Biden’s vaccine effort on the day he directed states to open vaccine eligibility to all adults by April 19."
     publishedDateTime: 2021-04-06T21:49:00Z

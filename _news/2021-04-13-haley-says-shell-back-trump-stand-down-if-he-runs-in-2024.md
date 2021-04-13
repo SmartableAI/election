@@ -1214,6 +1214,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Haley Says She’ll Back Trump If He Runs in 2024"
+    excerpt: "Former South Carolina Governor and U.S. Ambassador to the United Nations Nikki Haley, who has been sharply critical of Donald Trump’s conduct on January 6, is now telling reporters she’ll back ..."
+    publishedDateTime: 2021-04-12T22:35:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/3cd/0ae/c75dc60dd2855a2d0ef71828d69ed0132a-nikki-haley.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."
     publishedDateTime: 2021-04-11T16:04:00Z
@@ -1392,6 +1408,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "h9arG1U30AuOcDZPCNLvBomPKZ65IgguVKwIRL3A1y7dtSQZKu37pPSFrMhnz/c3owu7jdWV5R4u3dQf7hSQP4fY3nzEDsGIL6S65TFHXesRhGyPs2t5ePiQXO3a4moMaXb0hLp0naCf7t7Cgi3buuRBaywae/QnwDr6Bi1uOY/QiApGmHv1DXJVfyAayBSLrepG87j3n3+/V84NHISVThDTjIGekavPJL4iB+oYdDXw7Rc47DhTwceZ4vq4603csZyxCxNu8Avs+L/+lx6bt20Qsq+NIDWkXC9lnS9U43zQfoQOc0vIEMi0SitP68y7KE+vvZebwicgqByfJVt8+4j278GCmIvgr7IiyTis0/g=;Ch4d1MoHbElKtHAy88KWvQ=="
+secured: "SS7Q4tJmgiOUEiSfRX8XLcR8NjOgeBEjFsjqFMPf0AwT1yZf7qndc4VOj2saG1H4SnkjpWHk2Hw/wgMsk23gGFbO9rNJF0RSq/7Omqqixmc7YZwCya1sph2YGCKpXkIEhetanRANrKLoWokI3fFkF981BWvPDv12wG9b+7bCEEeCd70LKO53Gl1/KJtx7n6TMDUhwbJDcOIVwe91UlUUJ2WOPp3BY5K36iJ6/dve9Pollt2eur+AOqX5u+Ay1WmRh5Qp0mPEuzwr8eWeNqWCQU/CfDSP/acH6J0wa8EMU8JDcxvZOdOUpstjQptBK1/VPwdgwBEvr558U40FxBMDajRF6ks3NkkWb3pN6ksCPrI4EWEZ0apPzDzpWxv/9zQC7GJRfx/Sk4GrWchr53IqDTwRrFVwuvVNhvoCLl7fdejjv68oxMMxijETlRfOfAmMQhm/mzdncfXVymvhbiDAVTCZT7iq6R+xM8Z33dJIkscMDF+V741qLTv79XQtwCWfjNw75Nc+P9Zzqz/XcjB31w==;qQkXp7ompHrPuacVkRyenA=="
 ---
 

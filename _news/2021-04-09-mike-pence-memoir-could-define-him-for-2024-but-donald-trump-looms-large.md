@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 1909
+heat: 1929
 published: true
 
 provider:
@@ -1202,6 +1202,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/03/members-of-the-national-guard-remain-in-washington.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Haley Says She’ll Back Trump If He Runs in 2024"
+    excerpt: "Former South Carolina Governor and U.S. Ambassador to the United Nations Nikki Haley, who has been sharply critical of Donald Trump’s conduct on January 6, is now telling reporters she’ll back ..."
+    publishedDateTime: 2021-04-12T22:35:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/3cd/0ae/c75dc60dd2855a2d0ef71828d69ed0132a-nikki-haley.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
   - title: "Haley says she'll back Trump, stand down if he runs in 2024"
     excerpt: "Nikki Haley, often mentioned as a possible 2024 GOP presidential contender, said Monday that she would not seek her party's nomination if former President Donald Trump opts to run a second time. “Yes,” Haley said, when asked if she would support a ..."

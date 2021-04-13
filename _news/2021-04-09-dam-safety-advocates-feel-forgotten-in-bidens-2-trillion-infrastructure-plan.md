@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden pushes sweeping jobs plan in meeting with bipartisan group of lawmakers"
+    excerpt: "President Joe Biden is working to build bipartisan support for his sweeping $2 trillion American Jobs Plan and met Monday at the White House with a bipartisan group of lawmakers. The president wants to see Congress pass the proposal,"
+    publishedDateTime: 2021-04-12T22:05:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-push-sweeping-jobs-plan-meeting-bipartisan-group-lawmakers-n1263832"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263832"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263832"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_15/3464114/210412-joe-biden-ew-313p_67f02ac37cc69eec816d68289b1fd3fd.jpg"
+        width: 2500
+        height: 1706
+        isCached: true
   - title: "Biden to push sweeping jobs plan in meeting with bipartisan group of lawmakers"
     excerpt: "WASHINGTON — President Joe Biden will seek to build bipartisan support for his sweeping $2 trillion American Jobs Plan when he is scheduled to meet Monday at the White House with a bipartisan group of lawmakers. Biden is already facing opposition from ..."
     publishedDateTime: 2021-04-12T17:35:00Z

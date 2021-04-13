@@ -2,6 +2,226 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-biden-calls-for-peace-and-calm-in-the-wake-of-daunte-wrights-fatal-encounter-with-police-in-minnesota.md",
+      "title": "Biden calls for 'peace and calm' in the wake of Daunte Wright's fatal encounter with police in Minnesota",
+      "excerpt": "President Joe Biden on Monday called for \"peace and calm\" in the wake of Daunte Wright's fatal encounter with police in Minnesota, saying his death does not justify violence or looting.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
+      "publishedDateTime": "2021-04-12T16:49:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.md",
+      "title": "Sen. Wicker on infrastructure meeting with Biden: We made good points but 'there is a lot of space between us'",
+      "excerpt": "Senator Roger Wicker (R-MS) joined Fox Business' 'Kudlow' on Monday following his Oval Office meeting with President Biden and says he and his Republican colleagues made 'good points' but noted there remains 'a lot of space between' the two parties",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
+      "publishedDateTime": "2021-04-12T15:31:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-is-he-really-in-charge-cornyn-tweet-about-biden-draws-scorn-white-house-response.md",
+      "title": "'Is he really in charge?': Cornyn tweet about Biden draws scorn, White House response",
+      "excerpt": "AUSTIN – U.S. Sen. John Cornyn, R-Texas, drew attention Monday for a series of tweets on President Joe Biden's media strategy, asking if the president \"is really in charge.\" Cornyn, quoting a Politico article about Biden's media presence, shared the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/26/NAAS/a30c32b0-58c3-4c51-a961-fd83f61cdbdc-Biden_Cabinet.jpg?auto=webp&crop=4750,2672,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7197230002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7197230002",
+      "publishedDateTime": "2021-04-12T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-trump-state-department-appointee-facing-capitol-riot-charges-ordered-released-from-jail.md",
+      "title": "Trump State Department appointee facing Capitol riot charges ordered released from jail",
+      "excerpt": "A Trump State Department official who was charged in the Capitol insurrection will be released from jail, a federal judge said Monday, overturning a previous ruling that the man was too dangerous to release.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-lPt2EsGVc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-lPt2EsGVc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210305141522-frederico-klein-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/12/politics/trump-state-department-capitol-riot-released/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/trump-state-department-capitol-riot-released/index.html",
+      "publishedDateTime": "2021-04-12T14:43:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-bidens-dog-major-to-undergo-additional-training-to-help-adjust-to-white-house-life-after-biting-people.md",
       "title": "Biden's dog Major to undergo 'additional training' to help adjust to White House life after biting people",
       "excerpt": "The younger Biden family dog, Major, will undergo \"additional training\" as he tries to adjust to life in the White House, a  spokesperson told Fox News.   ",
@@ -223,62 +443,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-biden-calls-for-peace-and-calm-in-the-wake-of-daunte-wrights-fatal-encounter-with-police-in-minnesota.md",
-      "title": "Biden calls for 'peace and calm' in the wake of Daunte Wright's fatal encounter with police in Minnesota",
-      "excerpt": "President Joe Biden on Monday called for \"peace and calm\" in the wake of Daunte Wright's fatal encounter with police in Minnesota, saying his death does not justify violence or looting.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
-      "publishedDateTime": "2021-04-12T12:57:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-12-biden-keeping-trumps-pick-for-moscow-ambassador-in-place.md",
       "title": "Biden keeping Trump's pick for Moscow ambassador in place",
       "excerpt": "The Biden administration recently decided to keep the Trump-appointed US ambassador on the job in Moscow for the foreseeable future, two senior administration officials told CNN, demonstrating a willingness to nurture areas of stability in the US-Russia relationship after it got off to a tumultuous start.\n",
@@ -291,7 +455,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 530,
+      "heat": 550,
       "tags": null,
       "images": [
         {
@@ -343,7 +507,7 @@
       "originalUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -507,7 +671,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 665,
+      "heat": 705,
       "tags": null,
       "images": [
         {
@@ -1153,7 +1317,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -1195,162 +1359,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-as-riot-raged-pence-pleaded-with-the-military-to-clear-the-capitol.md",
-      "title": "As riot raged, Pence pleaded with the military to ‘clear the Capitol’",
-      "excerpt": "About two hours after a pro-Trump mob shattered windows and smashed doors to enter the Capitol on Jan. 6, then-Vice President Mike Pence called the acting defense secretary urgently seeki ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
-      "originalUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/protest-pence-inset.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
-      "publishedDateTime": "2021-04-11T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-greg-abbott-mocks-biden-on-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment.md",
-      "title": "Greg Abbott Mocks Biden on Guns, Says Shooting Victim's Family Demanded He Uphold 2nd Amendment",
-      "excerpt": "President Joe Biden on Thursday condemned the country's \"gun violence epidemic\" and laid out a proposal for firearm restrictions—a move which prompted Texas Republicans to promote their own \"2nd Amendment sanctuary state\" rebuke. Abbott recently joined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715",
-      "originalUrl": "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1751974/greg-abbott-speaking.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715?amp=1",
-      "publishedDateTime": "2021-04-11T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-arkansas-gop-governor-says-trumps-attacks-on-party-leaders-are-divisive-and-not-helpful.md",
-      "title": "Arkansas' GOP governor says Trump's attacks on party leaders are 'divisive' and 'not helpful'",
-      "excerpt": "Arkansas' Republican governor on Sunday knocked former President Donald Trump's recent attacks on top party leaders as \"divisive\" and unhelpful for elected GOP officials around the country.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7T_JXaGRbk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o7T_JXaGRbk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210321132131-asa-hutchinson-sotu-intv-3-21-21-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/11/politics/asa-hutchinson-trump-attacks-republican-party-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/asa-hutchinson-trump-attacks-republican-party-cnntv/index.html",
-      "publishedDateTime": "2021-04-11T08:26:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

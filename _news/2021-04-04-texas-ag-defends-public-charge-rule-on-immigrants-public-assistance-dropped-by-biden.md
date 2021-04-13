@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Giroir calls on Biden to 'surge' COVID vaccines, tests to Michigan in response to rise in cases"
+    excerpt: "Former HHS Assistant Secretary for Health Brett Giror urged President Biden Monday to rush additional supplies of COVID vaccines to Michigan to fight a rise in cases, telling \"Your World\" it’s the best way to \"put out the blaze.\""
+    publishedDateTime: 2021-04-12T23:20:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eNzo_jnLqTM/giroir-biden-surge-vaccines-michigan-covid-tests-cases"
+    ampWebUrl: "https://www.foxnews.com/politics/giroir-biden-surge-vaccines-michigan-covid-tests-cases.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giroir-biden-surge-vaccines-michigan-covid-tests-cases.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ddad8227-a16b-417b-bb93-11710c37d329/5fae8492-2a8c-4cd5-91c3-9e5aa22666fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AOC claims 'surge' plays into White supremacist philosophy – but Biden, Obama have used word in border debates"
     excerpt: "The two most recent Democratic presidents have used militaristic language regarding the border crisis that plays into a White supremacist philosophy, according to a standard laid out by Rep. Alexandria Ocasio-Cortez, D-N.Y."
     publishedDateTime: 2021-04-01T19:01:42Z

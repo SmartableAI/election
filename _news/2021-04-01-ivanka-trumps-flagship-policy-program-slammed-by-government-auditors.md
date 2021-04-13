@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-ini
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
 type: article
 quality: 135
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump got a *lot* less rich as president"
-    excerpt: "(CNN)During his four years as president, Donald Trump loved to remind people that being president was costing him a whole bunch of money. \"I said to one of my friends, a very wealthy friend, I said, 'You know, I'll bet you it cost me $2 or 3 billion and it ..."
-    publishedDateTime: 2021-04-07T14:12:00Z
-    webUrl: "https://www.cnn.com/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200424174956-trump-hands-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "A global aid program championed by Ivanka Trump has serious problems, a report finds."
     excerpt: "So haphazard was management of the program that an independent watchdog was unable to determine whether it actually worked."
     publishedDateTime: 2021-04-01T19:54:00Z

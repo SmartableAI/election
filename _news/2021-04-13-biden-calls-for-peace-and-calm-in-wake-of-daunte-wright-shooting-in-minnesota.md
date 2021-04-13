@@ -34,7 +34,7 @@ images:
 related:
   - title: "Biden calls for 'peace and calm' in the wake of Daunte Wright's fatal encounter with police in Minnesota"
     excerpt: "President Joe Biden on Monday called for \"peace and calm\" in the wake of Daunte Wright's fatal encounter with police in Minnesota, saying his death does not justify violence or looting.\n    \n"
-    publishedDateTime: 2021-04-12T19:57:13Z
+    publishedDateTime: 2021-04-12T23:49:32Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html"
@@ -48,7 +48,21 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden offers measured response after viewing 'graphic' police footage of Daunte Wright's death"
+    excerpt: "President Joe Biden urged patience Monday as an investigation begins into the fatal police shooting of Daunte Wright, a 20-year-old Black man, during a traffic stop in a Minneapolis suburb. “I think we got to wait and see what the investigation shows."
+    publishedDateTime: 2021-04-12T20:07:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/minnesota-police-daunte-wright-taser-480983"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 103
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/cf4a5931-96d2-4004-9d6c-dd1671ead6c7/309c91bb-a5f4-42ed-9ba4-f4435907107d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "G3FMH8qVzT1+JeWBwMLE8eKizxGF6nV4DHeMg1ELSOW6VRsPezJrAC+hpLfWyN2RE1HzoUANdTYT++z1MqSTP52rx+NJ96NFOWyPbRnv19lBlgXUJXyZmFcDsLQ/qWg+ksfoLmYcK+Frscr4hJaX8X6wgDuB9r/YONHVfXz/guBDXOb9bSEmUak/N0pV0IT7m3xJVqeQL39pPdC5NCJZn++I+HWkvkVUud9gO51NUf5e4dPavRnOpTlXG23MoJehZ1tS3Lp7JamN6rDxjaPqT0Sh2d8ZrWOPwvXr2m3eS794lEpHcY+rlyBfmGWXJADL/cb5rPkUmhecZxBnJKEwpycIoJ7PQ3SwJjnNAqUqaQg=;TIQCxT5Yb+KFvdA3qTtGmQ=="
+secured: "m3iKo2Lcs627wlA3SkVp6zk7sN3g4GYwjHtoPTy85KsCFSL1dUjZ2wk1Qnxsr0OdbY4V5I6pBtEZFR8C4wjPlNGg9ZUh3szO2z5X7f6GCNeDo/nSIXt7nCJ/utzqnAddyFDZ6YGxl1cjmR3UeB/tFEdH2M7E2bgh8aorVyXttoC4Q1Y+CLEfnqGcx8LEwzCZjf2U77jEBdye8pNwScctcCLwKfQYifNL8Krj0MlViW7SXBp4fv4BCRBOaMMAL5yTUU3cx8hHUcAjXj5ZAehrpBlG/4JMyRaOog1x4/mYqYeVbARK2fh04zn0/hE9qrj4FX0b3TZYBqh1MoGZhz6eS94RQmjWCyQ04lNCRUwemPtVetIqFAIXhTitenU1ecOs3iJ0Aj6pXcup1coM+FwraECCeg0FMyXKXOZXduvKZd7azSDuOtrq66NlelnsFrzO7Vsv/8FPXta2qcqdYoyIz9hn6PHFl3EWTWIhXzv/CwygksqtIwTq9P67cVAgfibZ+eTp/beYzJyJtjB6boAKlg==;sqmprM+iR6QkT2pnZEdXxQ=="
 ---
 

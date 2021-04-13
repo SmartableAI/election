@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-su
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1"
 type: article
 quality: 118
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1775625/fox-news-contributor-jessica-tarlov.png"
         width: 2804
         height: 1568
+        isCached: true
+  - title: "Biden says there is 'no justification for violence' at protests after police shot and killed a 20-year-old Black man in Minnesota"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In his first remarks about the police killing of a 20-year old Black man, Daunte Wright, President Joe Biden said that \"it remains to be determined,\" whether the shooting was accidental or not. Biden added that ..."
+    publishedDateTime: 2021-04-12T19:20:00Z
+    webUrl: "https://www.businessinsider.com/duante-wright-biden-says-no-justification-violence-protests-police-shooting-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/duante-wright-biden-says-no-justification-violence-protests-police-shooting-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/duante-wright-biden-says-no-justification-violence-protests-police-shooting-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/607498e13e3fe7001882a2d3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "yI4kcfgRg4ihGcHLQBaM7EJquzNhANeL90HG8YCbZ59toACc3TiqNq+PcO0ppS7blYmi1jF0AvoNnOOQjKp+6ikHUYBJDhGYbqXDoN8DqNaSSHQVC7LO3Ft+utwhHQlIvI1HmiueXorgPJnFrK2XwykFn0fkEufL1LLUkUTV6duH3+2VrVuAdhLLUBGdGfLgQpW0XtQGsLVKGHLLiXrXNXfvdiU2xd237qISOpBpYy0bkEaKbIExUkqTIxHUgKeLJ1RyLaO9vgRaMl151/Wne25VbtwpEngC+cascOSw9+NXQmDYi/1PWcoO6Xm85K/x6B8U1JU79Q/yH2TxsiSsLG1t6IdtGBP4RJEKpPRyGFq9amVXaEkuAOvCMmFWOO5VnsuoPSM9eFxZFbt2vUifLr6NzcNyUG03ZUPIkC+lpUjODcGa2xdDppGhKkt3dwRFpxiLX+EBjejbnme+Uaeg+38ReJKXhvXMtcuG/6x/T70uUMlzkCgDbw0FopTU2TqLAGv9jUl7pG/202gTiqsfcg==;kmCFIZQfD2HlncHCGYZHXw=="

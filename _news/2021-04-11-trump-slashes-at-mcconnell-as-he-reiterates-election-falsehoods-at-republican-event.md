@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/202
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
 type: article
 quality: 134
-heat: 634
+heat: 674
 published: true
 
 provider:
@@ -191,6 +191,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "McConnell sidesteps Trump calling him 'dumb son of a b----'"
+    excerpt: "on Monday sidestepped blistering criticism from former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without ..."
+    publishedDateTime: 2021-04-12T23:40:00Z
+    webUrl: "https://thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b"
+    ampWebUrl: "https://thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnelltrump_borderwall_121317getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Gingrich on Trump-McConnell feud: GOP 'better off' focusing on Democrats"
     excerpt: "Former House Speaker Newt Gingrich Newton (Newt) Leroy Gingrich MORE dismissed a recent war of words between former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal ..."
     publishedDateTime: 2021-04-12T18:08:00Z
@@ -334,6 +350,20 @@ related:
       - url: "https://i.insider.com/60746bd23e3fe7001882a1d6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump says he's optimistic that the GOP will take back Congress in 2022 midterm elections and the White House in 2024"
+    excerpt: "Former President Trump said at the Republican National Committee's donor retreat over the weekend that he's optimistic Republicans will retake Congress in 2022 and reclaim the White House in 2024 and reiterated falsehoods about voter fraud in 2020."
+    publishedDateTime: 2021-04-12T23:49:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-hes-optimistic-that-the-gop-will-take-back-congress-in-2022-midterm-elections/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/12/0fafe1a2-52d1-4b8c-bbad-773dd9aad4c2/thumbnail/1200x630/f422c01c755616e5c70b15612ab66af3/cbsn-fusion-former-president-donald-trump-says-hes-optimistic-that-the-republican-party-will-take-back-congress-in-2022-midterm-elections-and-the-white-house-in-2024-thumbnail-690432-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-is-he-really-in-charge-cornyn-tweet-about-biden-draws-scorn-white-house-response.md",
+      "title": "'Is he really in charge?': Cornyn tweet about Biden draws scorn, White House response",
+      "excerpt": "AUSTIN – U.S. Sen. John Cornyn, R-Texas, drew attention Monday for a series of tweets on President Joe Biden's media strategy, asking if the president \"is really in charge.\" Cornyn, quoting a Politico article about Biden's media presence, shared the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/26/NAAS/a30c32b0-58c3-4c51-a961-fd83f61cdbdc-Biden_Cabinet.jpg?auto=webp&crop=4750,2672,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7197230002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7197230002",
+      "publishedDateTime": "2021-04-12T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks.md",
       "title": "Bipartisan lawmakers signal support for Biden cybersecurity picks",
       "excerpt": "Key lawmakers on Monday expressed support for President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -582,7 +634,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1511,58 +1563,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-a-miracle-hunter-biden-says-a-blind-date-with-his-future-wife-rescued-him-from-crack-addiction.md",
-      "title": "A \"miracle\": Hunter Biden says a blind date with his future wife rescued him from crack addiction",
-      "excerpt": "Biden's mother, Neilia Biden, and his one-year-old sister, Naomi, were killed in a car crash in 1972. He and his older brother, Beau, just two and three at the time, were critically injured, but survived. Their father, Joe, was sworn in to his first term ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "originalUrl": "https://www.cbsnews.com/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/05/ebb7e532-69f6-4ada-9dd2-64f6cd707bdb/thumbnail/1200x630/c65d58112a1f5beed214fd35a5924ac5/0405-ctm-hunter.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/",
-      "publishedDateTime": "2021-04-05T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

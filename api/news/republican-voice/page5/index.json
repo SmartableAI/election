@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-26-mike-lee-bidens-handling-of-migrant-surge-during-pandemic-absolutely-defies-reason-and-logic.md",
+      "title": "Mike Lee: Biden's handling of migrant surge during pandemic 'absolutely defies reason and logic'",
+      "excerpt": "Sen. Mike Lee, R-Utah, said Friday that the Biden administration's immigration policy regarding COVID-positive migrants 'absolutely defies reason and logic.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eVdR4d6IWoc/biden-border-crisis-covid-migrants-mike-lee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eVdR4d6IWoc/biden-border-crisis-covid-migrants-mike-lee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7358c99-18f0-4305-84f6-bcd084125526/ddf94192-1092-447f-af70-61e7d5bdba5b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp",
+      "publishedDateTime": "2021-03-26T06:42:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-biden-in-2005-said-nixing-the-filibuster-upsets-the-constitutional-design-and-would-eviscerate-the-senate.md",
       "title": "Biden in 2005 said nixing the filibuster 'upsets the constitutional design' and would 'eviscerate the Senate'",
       "excerpt": "Sen. Ben Sasse, R-Neb., spent over an hour on the Senate Wednesday night reading a 2005 speech from President Biden verbatim  where he said eliminating the filibuster would “eviscerate the Senate.” ",
@@ -1589,62 +1645,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp",
       "publishedDateTime": "2021-03-19T07:32:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.md",
-      "title": "Texas wax museum moves Trump statue because visitors kept hitting it: report",
-      "excerpt": "The owner of Louis Tussaud’s Waxworks in San Antonio said the museum removed a statue of former President Trump because too many visitors punched and scratched the figure, a report said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5LHYLgaC0U/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5LHYLgaC0U/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-wax-museum-moves-trump-statue-because-visitors-kept-hitting-it-report.amp",
-      "publishedDateTime": "2021-03-18T23:44:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

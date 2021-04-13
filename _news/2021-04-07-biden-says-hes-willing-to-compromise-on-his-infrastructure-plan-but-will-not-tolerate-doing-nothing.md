@@ -267,6 +267,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden woos GOP with sweet infrastructure words, but is it progress?"
+    excerpt: "President Joe Biden called a handful of lawmakers to the White House Monday to talk about infrastructure for nearly two hours, the latest phase of his charm offensive, embarked upon as Congress returns from its recess and turns to the chore of grinding out ..."
+    publishedDateTime: 2021-04-12T23:05:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/biden-gop-infrastructure-481068"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/biden-gop-infrastructure-481068"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/biden-gop-infrastructure-481068"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/db/47/e5ad83e94d96be90fa2a6d5aa024/gettyimages-1231473215-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Watch Live: Biden Speaks on Infrastructure Plan"
     excerpt: "new video loaded: Watch Live: Biden Speaks on Infrastructure Plan President Biden delivers remarks on his $2 trillion American Jobs Plan, which aims to overhaul the nation’s infrastructure. Advertisement NOW PLAYING 1:36 1:38 Advertisement 0:57 1:33 ..."
     publishedDateTime: 2021-04-07T17:17:00Z
