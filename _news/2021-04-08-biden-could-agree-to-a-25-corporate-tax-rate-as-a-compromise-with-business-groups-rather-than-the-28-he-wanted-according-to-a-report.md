@@ -194,6 +194,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 98
+  - title: "Biden meets with bipartisan group of lawmakers on infrastructure"
+    excerpt: "Mr. Biden said he's confident the infrastructure push will work out. The infrastructure proposal currently includes a 28% corporate tax rate, which moderate Democratic Senator Joe Manchin has already said is too high. Manchin has said he could be more ..."
+    publishedDateTime: 2021-04-13T11:08:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-bipartisan-meeting/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
 
 secured: "PFSKcAtWo0ql9JVpBWGnyHR2QrMwDqTu9FrFd19K3UI9BZWvlEkPFe9AGA11IVL0yTRSRaRrlofhKsGroPXWl2cAW/D859iFB6zjf/fNlO/y0wLG3FmuNiLmiXKHvfjACGAGD4ga4DRKTAIm1WJucHQg/PFkDDa52OvQlcF8BW4B9VkZbqOQaZ99By9jFsEnv46mWQO3z+KMixMlSWbr3+MHFjp1OKPU3711WbGw9nAq9keNLx+RxKukbFde8ninTNjf0ttG6fbfJDOblHqVRyfSt9k0+w+XdUI/SB2DnpbzIWo4oLFTclCh+1A6k0HcKUQsZz1k9Mc5o1mVezp/kis/uj0tNvwwNVA3dBVaBcE=;1rbYUnurfmd/XY7U+axbXw=="
 ---

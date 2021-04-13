@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-havin
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
 type: article
 quality: 122
-heat: 202
+heat: 182
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://i.insider.com/607055ff30004b0019b26d65?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Corporate America isn’t welcoming former Trump Cabinet officials with open arms, headhunters say"
-    excerpt: "said top executives wary of backlash from associating with former Trump officials are boiling down Chao’s four-decade Washington résumé to its most recent entry: long-standing ally of Donald Trump, despite her resignation the day after the Jan. 6 ..."
-    publishedDateTime: 2021-04-07T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "odB5TbuE1Z52RmfJ1fCoR4t9V1ekQKARMe5YF5ON1rLv1lxG3NBvaahRecKuXdkuN+Xibofx+RvyF61op+N4VFxJiNZqrwP0WqlbDbtGSyvWSlFpzMAi8Zm5MQBv78Uq5s4RlGfKX0FScKbmU3tHeQT2os66p/zyGEQaeAQYtWGIZWum8esHDH2LfRR95oX7TJokOcQJHYap4L8J8+mu+LHbWbSTpRghimldO262VfUvPoDCKuHNBVMTA0Uve+Pi11W9zadlKK+OwgxzY9qwJ2aAuenRqR5ZfyVfB1t0DLPYr8l5LTFImqkiB2AlCqkjLj88P12jO+5wWnEOXBwrE8mHv8FwLd5XtUNnUd6JIBI=;mB/dhXhmW7fUdH93WieKDQ=="

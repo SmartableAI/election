@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Biden nominee Wormuth would be first woman to lead Army"
-excerpt: "President Joe Biden plans to nominate Christine Wormuth, a former senior Pentagon official, to be the first woman to lead the Army, the White House said Monday."
+excerpt: "President Joe Biden says he will nominate a former senior Pentagon official to be the first woman to lead the Army"
 publishedDateTime: 2021-04-12T20:20:00Z
-originalUrl: "https://www.businessinsider.com/biden-nominee-wormuth-would-be-first-woman-to-lead-army-2021-4"
-webUrl: "https://www.businessinsider.com/biden-nominee-wormuth-would-be-first-woman-to-lead-army-2021-4"
-ampWebUrl: "https://www.businessinsider.com/biden-nominee-wormuth-would-be-first-woman-to-lead-army-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-nominee-wormuth-would-be-first-woman-to-lead-army-2021-4?amp"
+originalUrl: "https://www.washingtonpost.com/world/national-security/biden-nominee-wormuth-would-be-first-woman-to-lead-army/2021/04/12/81c95942-9bcc-11eb-b2f5-7d2f0182750d_story.html"
+webUrl: "https://www.washingtonpost.com/world/national-security/biden-nominee-wormuth-would-be-first-woman-to-lead-army/2021/04/12/81c95942-9bcc-11eb-b2f5-7d2f0182750d_story.html"
 type: article
-quality: 105
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -88,6 +86,6 @@ related:
         height: 360
         isCached: true
 
-secured: "S1XEQ/mbZ+z/I5CDGhLVGwbnSSqT4q9dO7HcqpKz+130efBmCBT/YNsUFAbcMSZBPnv0XIEL4hEE8b/3HKTigOqWGnqK17ePjA/ldh46CzT4+FzVKR5OI1smxQP/e+ajr/X6ytlNPdATngY0vRbKwl0mlg9wviWXyOEmItk2wp9RbnMviDBJYbm68K4aJ8PfAFT72nRUHvGI1FXR6ymtszTC+EArCUGHgbwfI2DLlv06ZtHoqg9+Dp5mk40CT0vEDzotcCTP4X/YIWZNFHXPbFQ/Q+NVMdrUkadiw4MTs2P5xGg/DH3Svq+P9Ggb9927HMaQAA7jrcAC3wzvQe7LcYrnCcoJEh4OzhSzyVNMbKI=;TFyO38ZNK4SiJwrZwzVodg=="
+secured: "KZCqT/I97LjHUQW3A3pqblvL5tFuyS3h2Fb4m5DEWz1vs1YP9sJzHmPwlMIEkb/xc1LG3cipKX01ylYvcSmoUWaLLJR6zXLrPzo2XvtjFEp5KjGFKAMs55wMBJoOMhBsLAkHgPC00gVoAl+PR4min3frUdzrQUwwD1sZpUEwuFW2pVFsbUpvjfCN1HMGqay9fopd9ZTVsVUekgFSHnaGYNH7X9mbj0KdXSleidY74hWF0Noza/XKDQj0dr4nmfqCBxYh5qfYclQzcSv5usU4Pn39WD29ICDSNh3qOZ4H5fJ6eaqyqWsyaILzQbleqrBuMGtXF2yq1h/fPJXIYJ7evmNmd6+KnSbwuPQFqi5a/h8=;R0AxossLNKG7WzQAHVLHKw=="
 ---
 

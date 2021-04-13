@@ -79,22 +79,6 @@ related:
         width: 1440
         height: 990
         isCached: true
-  - title: "Corporate America isn’t welcoming former Trump Cabinet officials with open arms, headhunters say"
-    excerpt: "said top executives wary of backlash from associating with former Trump officials are boiling down Chao’s four-decade Washington résumé to its most recent entry: long-standing ally of Donald Trump, despite her resignation the day after the Jan. 6 ..."
-    publishedDateTime: 2021-04-07T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "S80bdcAfsGc5ydZw/jh57BI5XqVqaz/wImq0025vvohhBmZT15wonCzxUMOCNYYvaJgZt9REv2b+TYuDDhRcZ5MhbD2ZdCnDaVfWuwEPBu1HYUNyWDriyT2pPaKkof8pQ4OaUW8yxpGZVVSRRpJ3Awo4t/LFRgddc4hgn/6tuq0AYmhvY+ZeDucfOk+9sWj1Nf/sK8XwZ9PZRRM9x0CSvA9MMFWUiRxYa+RNUe9VBZ/sc9ID8CSoB82hPG3ZQ3tRngaGUOkfmleYZKRAjOpsn1LQyhlDQ7W2LqarONGrUmQv2hO+F/m+HxxWNqsxCC8r3VDASwuxreyvS7sp80i+4xEfNxerv0bTDKD3m8l0r8D7rY0784YRfoZYfedOsOe6VVS0PU+a70hnsRt7T9AUr8OHzOqZdSOGGLL20osMSkQgwQGcH+tW+SAKZZBfRiN3mdZBzsSIGf5NXarYVTq7wB1jp5qzo1+l6dxMnTD56rGxQY/NrE4WVG6LI0Af7UigNB697F1TylhSct2bs2QWEA==;W/tgLBNxTDF+IQwfNpmZOQ=="
 ---

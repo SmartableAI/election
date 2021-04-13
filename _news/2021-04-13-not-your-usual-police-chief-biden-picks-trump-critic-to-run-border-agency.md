@@ -2,13 +2,11 @@
 category: news
 title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
 excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."
-publishedDateTime: 2021-04-13T00:37:00Z
-originalUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.html"
-webUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.html"
-ampWebUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
+publishedDateTime: 2021-04-13T01:14:00Z
+originalUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.html"
+webUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.html"
 type: article
-quality: 148
+quality: 108
 heat: -1
 published: false
 
@@ -24,12 +22,6 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
-
-images:
-  - url: "https://static01.nyt.com/images/2021/04/12/us/politics/12dc-dhs/12dc-dhs-facebookJumbo.jpg"
-    width: 1050
-    height: 550
-    isCached: true
 
 related:
   - title: "Biden keeping Trump's pick for Moscow ambassador in place"
@@ -93,6 +85,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330181306-major-biden-dog-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden attempts balance amid major protests during his presidency"
+    excerpt: "President Joe Biden is confronting the first major protests of his tenure after three months in office, prompted by the police killing of a Black man in Minnesota.\n    \n"
+    publishedDateTime: 2021-04-13T12:30:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wBdd7KyJ-zg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-protests-minnesota/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-protests-minnesota/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What to watch as Congress gears up for work on Biden's infrastructure plan"
+    excerpt: "President Joe Biden has said he's willing to negotiate over infrastructure, a key legislative priority for the White House. There are signs, however, that Republican opposition remains as strong as ever, underscoring the challenge that awaits Democrats who face their own internal divisions over policy"
+    publishedDateTime: 2021-04-13T09:20:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TJ4Z5UHydvg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-infrastructure-plan-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-infrastructure-plan-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412151143-02-biden-jobs-plan-0412-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -333,6 +357,6 @@ related:
         height: 773
         isCached: true
 
-secured: "G7aD3/49FKkKfunGX/o3uP8yRFxI1PU9LR4zFOoxzRyIk2A1bj5/QgmXBUtBtY4jzj9M1K9b9HUZjSQ3oyiFYlv5jOAfM/zgYAAhlSphnsCWwRyZIEEkV2yGboozsjnOVpoMB49sIxGlxNOJ7ZfTKDVEjGuRog0Y5iZM8JyyQge+2t4F0N9uYNm+eu5yGHWwHm8fAQcz5uoCs0DvI/VEYXNqipFeidELLKhjZjcvpgi8MaNr7l1vhsk5RBg0jVGh4fWkr6YPSIGNmPqA1L1oXqIsoWCHMjiZf4Oc0ljr/zwNZ/eha+KH0Kn+igFoAV8iuo+GZ6a7iZ83xwh3RBcPRFoK9PxSCGo+9yKZUjc+pp2HnhsP1wbL9yqD+JYxArKqSIDEJrc2M96918T4lTlEqoulHywJqvuKqvv9H+efcPyjoGuHeXJ3jwdn8Ps3r1wX3iiV6MSauSTxw2ubBReAQkt7SrDchlDfEcrD9ul33BE2Q+MWpiu0I66zyGlDfXJMZgsvjYIUt6cMFdcUYcc/qw==;aDBxJ38pblVvASqz3nZcpg=="
+secured: "kBxlMflRPeMMe5ADTRDXg+nk4bMCOqveTYBD0S6foDkSTxqT4RDr1577Ea455MZHxU5zXJL+iA6k9XCWVSVnYiXyJVRdsaAZtlPVhFCHO+sBjHu7DSjGwEHiGFlHm6JdAEnoktSDmHX3UvhTrdRyKh7dVyVSBxSE52s5t3EY1SXUa0hZ7rcWG9krPdNZ/lL/HkEWfFFCNM8CR1Rb371zf6vXeTawX/El1Pvu1/KErZjGeQW5eubgsh5X5BpoXd+KwhAQgBfCHsnFtWfWDYaLuuevXmUZTwSg1qMxHA84Cweso8DIQ1M1uh4lAPnF2XhYAtCSEqigxkzSoXq0cUmWSS5reaf7t2XMHK2tItaqlinTq2daDfU6TNe6AqtO6atN+pLMhh8a6CMOhjXQilEKexeJRwLJ2L4hRyaxu7Lz641L4tk+0rM5rQCmaRxzx8riiROTd0gniU13NLbvrypZEVeRBLXp9gW9NFbSRRvAV9ABVp2tBebt1J03WCAgAl+bO2jdrtainJuZGp00KHLLKg==;XkoOFCcj0GwI7vvhlKlzrw=="
 ---
 

@@ -194,6 +194,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden meets with bipartisan group of lawmakers on infrastructure"
+    excerpt: "Mr. Biden said he's confident the infrastructure push will work out. The infrastructure proposal currently includes a 28% corporate tax rate, which moderate Democratic Senator Joe Manchin has already said is too high. Manchin has said he could be more ..."
+    publishedDateTime: 2021-04-13T11:08:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-bipartisan-meeting/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
 
 secured: "qbuPu9Kl9CKRBRwiXoHOiUsJrTdChxu1nV4cHAmWdNIvge5IK6AY0HnCYYiyI93btunUUQlZD+vqw0XItewGlxqqmikw0gMfyRv4tpZZz9AYwM1by2a0me8Tad0QuxwNnGGY30xLZQ5yqlLhK1l23df0+kW9twby5PdRXcGsWVuzeJhMjNsWl7RWmAf9nXgXD3LSFzehZ9QEaFWpK4i0OiSkmEH58S1P1KKze8S+aWkhn51s8E3teX5XqMhFEPS1UmvKDLHEzSHKvIt8RwF7pSfzKtlP/PYuUvJ56SJQw3A56djHQXvP9rEloGVxrY7Au8xJSnpWxmFUOTAzzAEKXx4vt0Ri/YirQZaI03D2ciQ=;z9MCg21I294FLLInBLODbQ=="
 ---

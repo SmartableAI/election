@@ -640,6 +640,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice President Harris Holds Roundtable on Black Maternal Health"
+    excerpt: "Vice President Harris holds a roundtable at the White House on Black maternal health. She is joined by Domestic Policy Adviser Susan Rice. Vice President Kamala Harris held a roundtable discussion on Equal Pay Day with women leaders of advocacy… Vice ..."
+    publishedDateTime: 2021-04-13T12:42:00Z
+    webUrl: "https://www.c-span.org/video/?510792-1/vice-president-harris-holds-roundtable-black-maternal-health"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Y1MBB3DHOFaLj2Cpgk8nooHRTUUokl9N40T6PF4mKg22vYbkNbECI+U2FZQK6eK0NkBOQ/Ka96H+VQjRTussZNt3XRuhOqttC9eHaozdDhgcQiXwTIQoxQwxRbCH3ig9RYi0VvRfwl7b2oUrOJJ11P74dF0SEcdTQqt9tAwmLymBF4s1uGeiWOzemUdPJd8guJlqA2inyNiL7xqbF4Y4C+8bUbY4lqeeethIekYfFYoLvaYifoYraTwhvwoXtPYoJ5G7Mx1ikHbrmxkS6zRBsj8n90ldH1ZUkWhXVfG44j/QJZafHVxE0N7RCJfT6tZqcM8RurIioJ7x3ytoDx7NH0onGoIi/Pp/lA/pyLGPt/VaoMXydrG8ykmOJ84gvP19nPI6ecayyr6IeMdewfzwiRJSG2jD9z/9fSBTrsm4indF9KluOaZqTVOuh/I0LNZlF6F5oY/ovajDk1Eq3ixe+ZKH4MmNuaSSSB5y+V5cgqCST9gW1Zrzkhgbeap4O/jdy6YwTJx7PKL2yYM5Ie+K0A==;uhElZgFMhJZjbYoOvzHi3A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-i
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct"
 type: article
 quality: 119
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."
-    publishedDateTime: 2021-04-03T10:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/60681af2a7d803001963e9f8?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "d7nwOzVpB4/jqGlDNByVMmQOK7OeXTdhVruNZUTZk8ZBak+UV5EYNH5lY8ujfLvzBBm34/gkDM3JW62GcGSyk1wvNwibJNZQPaN8+0ebDVFV2/bN+kMlgEGYP0QYOMicuJmOhZUD2rytCk5c7hzVDBVZFlHoepUu2THXmrfEDKwZOECeBKLnqXo3ZFRJwhP+L/LyAq6Lh0bS5woROkF4mrmVTr3cmCW63mViLqZboJN5lG8/2o3YpvsQ3NHV6A0XVS7/yw+Dr3I1rVu4sZgMDnZ6XIRgzJzqC+Sd0b00wpmrg2k1OYZyL0DhIm4GrBlpMMyAcLhpAMhneAQkitWYy6AG2zlqyMv5AJoFkWczbigVHHmT9zI3Fd1/3mt7eFRfwYNtTD6dAV8hZMLPtJkIclDmSccbp/COSfUVt2595S3Xijf2yYWEz5OHH3OX5FbaPpag3vAoU6DW/15jeZWamLqzDun+9kAfJbnWOcK5hvChv+hdH8p8GUxrT73Bobeiu6UOQCKiHtf8n8YB/+0yLQ==;XV41XOORYED0AtloBEwITQ=="
 ---

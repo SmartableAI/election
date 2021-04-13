@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sen-wicker-on-infrastructure-meetin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp"
 type: article
 quality: 155
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 340
     isCached: true
 
-secured: "7LCposvKIqW1oK42CnkRIs+nPNApoVk3yPGlFSqsLQ66e+et4WtZCcfDTRnDW4AAbvxwmn264/SQGxmRWZz4bP4GoqFxSBkNKBGK1Wp5W6n7+JDDwK/hndgF6htTf5wW8AWZ56OKRpFWXkr0BbPYmqp1SuhrlysbX2n2H2h7/+MPfsR73iMNR3doOSnIfqsfyVbex+YB1S2se9Cb9SOVunn6nJpgMAx+pyfrZnZ9Y5MmK2821H8vTp6O1N2JoTjMB8M9nNXEUEC9O7hL5vRoJTwNn7x5A3wO2JywQ0yVR6wdzObSBeCEp8e/cbXTg6tfS+048RnrI4I3xkwiw7nUn/IKCWfdXYaxTTVCg8Em5ao=;Hf4ugYc4mIZ0DZRc2t5nrQ=="
+related:
+  - title: "Biden To Congress On Infrastructure: \"I'm Prepared To Negotiate\""
+    excerpt: "President Joe Biden said he is “prepared to negotiate” the size of his infrastructure plan and how to pay for it during a meeting with a bipartisan group of lawmakers on Monday. \"I’m prepared to negotiate as to the extent of my infrastructure project ..."
+    publishedDateTime: 2021-04-13T12:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540323.jpg"
+        width: 4871
+        height: 3248
+        isCached: true
+
+secured: "788xqGlyT2OlmbJryOuClhwBza6le2cOIMs0eR5W8xXUpo5HqLGe7k3Bv8oc5gsBFEEgJmpvDdUS1+3utdLtzK6giVMGmBvG6tQpJE23PJ0N06Am4Mr1MaCrWtL/OgbEAOdbD16wKwCur7m/Cj/4Zvm7r4ggX3AdYY0pTFp5uINhpJMxit63drHNBhlnu4YvT1A9rRrTjiPCOJGyTKxU+hhIvv2SEni/Mcj7Oe+V4BKvvWjVAIM/u6a/LbTynomNC+ehhiZ5d9HxGv8XoUAl49fXk3NoM3Jyjyelur7Z15UcSrFqiklZaWVXYn1YPMJTRbV/pjJ3ecqLDKzx5CLkhuYeGe6EGJ/6STh/iea9pIA=;Y/UGm9c9caC2pMg0lohg/A=="
 ---
 

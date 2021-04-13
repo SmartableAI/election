@@ -96,6 +96,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden attempts balance amid major protests during his presidency"
+    excerpt: "President Joe Biden is confronting the first major protests of his tenure after three months in office, prompted by the police killing of a Black man in Minnesota.\n    \n"
+    publishedDateTime: 2021-04-13T12:30:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wBdd7KyJ-zg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-protests-minnesota/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-protests-minnesota/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What to watch as Congress gears up for work on Biden's infrastructure plan"
+    excerpt: "President Joe Biden has said he's willing to negotiate over infrastructure, a key legislative priority for the White House. There are signs, however, that Republican opposition remains as strong as ever, underscoring the challenge that awaits Democrats who face their own internal divisions over policy"
+    publishedDateTime: 2021-04-13T09:20:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TJ4Z5UHydvg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-infrastructure-plan-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-infrastructure-plan-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412151143-02-biden-jobs-plan-0412-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republicans mobilize for showdown that will help define the Biden presidency"
     excerpt: "A defining political clash took shape Sunday over Joe Biden's latest effort to reshape the US economy, with Republicans mobilizing against a massive infrastructure plan that could put the President in historic Democratic company.\n    \n"
     publishedDateTime: 2021-04-05T10:18:55Z
@@ -159,22 +191,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162835-02-biden-vaccine-remarks-0406-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
-    excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."
-    publishedDateTime: 2021-04-13T00:37:00Z
-    webUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 148
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/12/us/politics/12dc-dhs/12dc-dhs-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "2 Dem senators balk at Biden's new spending plan"
     excerpt: "Joe Manchin wants his party's leaders and President Joe Biden to make significant changes to their sweeping new tax-and-spend legislation — and he’s got other Democratic senators with him. The West Virginia Democrat is readying for his second act after ..."
@@ -332,6 +348,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
+    excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."
+    publishedDateTime: 2021-04-13T01:14:00Z
+    webUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 108
 
 secured: "GetCbFUf6t+Pfjxvo9V4Aif/rFvSFONUXo4aQ5lv6AqkQyJtIufdzKSomiA07zuX6AC1iITfLvCURur/WjrSwLbUlsPtVObwNXX8Fwef3IEiazxzEi22SZqYrY7G3Cr+AqndqYOeeo4CDko77HZUUn0kNHo9OyYkpDHDP5xX7vHowJur9+ucqu7woOvaeQUEgNcOuaMydFqlfZf8+WbJppwCzbXCfjh9TZYqsj8MZ3s0ODpL4FOOZJymjLlRdOM70q8T0eQEPMb0OgpaX5882GPZYOSYqver96786AkZ++B9+wwuybcvk7na44B+vKFgFJlERCdpxNQW5m1N9+0adBK/VN5b7tLuhO/AWzRedFjvvA3PJ3HZ4rZTLfyeZdvlQoI1OZ2JVNhnR0d3FMjLnbEwR3V65xFt3tHBT1YhJnVxoIKdM4x3yaR1PmfvKm1QJ+uJGUgR4xt5Z+9n55u/cuCsaM3SkUy5OQgGtULKzls7rW38ZNW7VCNk/B96SQahpYBNsxRh0u4F6d9rkZ7XfA==;3MAMtmtDUDn4douq/3mvfw=="
 ---

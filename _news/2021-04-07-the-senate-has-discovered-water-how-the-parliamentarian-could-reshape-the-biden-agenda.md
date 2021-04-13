@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats urge Biden administration to reform shelter system for migrant minors "
+    excerpt: "More than 60 Democratic lawmakers called on the Biden administration Tuesday to eventually end reliance on overflow facilities for unaccompanied migrant children, according to a letter shared with CNN.\n    \n"
+    publishedDateTime: 2021-04-13T09:45:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rCC6l5o6ISc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-shelter-system/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-shelter-system/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324190144-07-hhs-children-facility-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Manchin warns against overuse of budget tool Democrats hope to use to pass Biden's agenda"
     excerpt: "Democratic Sen. Joe Manchin made his opposition to frequent use of the budget reconciliation process clear Wednesday evening in a Washington Post op-ed, sending a warning to Democrats who hope to use it to pass President Joe Biden's legislative priorities.\n    \n"
     publishedDateTime: 2021-04-08T04:01:17Z
@@ -157,6 +173,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden and Hill leaders to speak at ceremony ahead of slain Capitol Police officer lying in honor"
+    excerpt: "President Joe Biden, congressional leaders and members of the US Capitol Police will attend a ceremony for fallen Capitol Police Officer William \"Billy\" Evans, who will lie in honor in the Capitol Rotunda on Tuesday.\n    \n"
+    publishedDateTime: 2021-04-13T10:05:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q3TpKrwKCgw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/capitol-police-officer-lie-in-honor-ceremony/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/capitol-police-officer-lie-in-honor-ceremony/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

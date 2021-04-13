@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -189,6 +189,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Hill's Morning Report - Presented by Tax March - Biden, lawmakers start down a road with infrastructure"
+    excerpt: "In the Oval Office on Monday, Republican lawmakers told President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims ..."
+    publishedDateTime: 2021-04-13T10:34:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/547844-the-hills-morning-report"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 67
   - title: "President Joe Biden calls for probe into Minnesota police shooting, warns against 'looting'"
     excerpt: "A video Biden described as \"fairly graphic\" showed the man, Daunte Wright, being shot on Sunday in Brooklyn Center, Minn., just miles away from where the trial of Derek Chauvin, the former white Minneapolis police officer charged with murdering George Floyd,"
     publishedDateTime: 2021-04-12T20:48:00Z

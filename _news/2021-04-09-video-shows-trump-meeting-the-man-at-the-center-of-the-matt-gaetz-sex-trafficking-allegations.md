@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump knocks CNN for 'completely false' report Gaetz was denied meeting"
+    excerpt: "Former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump calling him 'dumb son ..."
+    publishedDateTime: 2021-04-13T12:29:00Z
+    webUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting"
+    ampWebUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gaetz_matt_trump_donald041321.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Matt Gaetz request for meeting with Trump was not snubbed, both sides say"
     excerpt: "Photograph: Marta Lavandier/AP Matt Gaetz and a spokesman for Donald Trump reacted angrily late on Sunday after CNN reported that the scandal-hit Florida Republican congressman sought a meeting with the former US president when allegations of sex ..."
     publishedDateTime: 2021-04-12T11:43:00Z
@@ -63,49 +79,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club"
-    excerpt: "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer."
-    publishedDateTime: 2021-04-10T11:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/da0361692602303bd56482725aff0035c926bd36/0_88_5166_3100/master/5166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6086a62db396c12b20bdfa14f23aabbf"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
-    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
-    publishedDateTime: 2021-04-07T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 96
-    images:
-      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Matt Gaetz is employing Trump-style fundraising pitches — including automatic recurring contributions that could dupe donors"
-    excerpt: "An envelope. It indicates the ability to send an email. Embattled Rep. Matt Gaetz on Thursday asked his supporters for a little cash, Donald Trump style. Gaetz's re-election campaign committee is employing a controversial fundraising strategy similar to ..."
-    publishedDateTime: 2021-04-09T20:21:00Z
-    webUrl: "https://www.businessinsider.com/matt-gaetz-trump-fundraising-federal-investigation-2021-04"
+  - title: "Gaetz and Trump rep challenge report that the Florida congressman was denied a meeting with the former president"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% GOP Congressman Matt Gaetz, who is facing federal sex trafficking allegations, was reportedly denied a meeting with Donald Trump as aides try to distance the former president from him, CNN reported. Two anonymous ..."
+    publishedDateTime: 2021-04-12T02:15:00Z
+    webUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 78
+    quality: 104
     images:
-      - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://i.insider.com/607018a44d3e410018b702ab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "wDcLT8OdSbRM2vFT9euDygfm3P1UbPAtWHykfDWSPSthOXEZozCRFaCOsmpJTlkfCVBWEPdTsjVeH9znuj64RgitIBhQ3ANTlVEymozQCe/tt9F9yThPYhV9Jd9ZLNM/7NHAfWK4YD2Yw3MVHWWXXkSgOuQ1Hb4srT/A6dE29gaCHAYa8VhW4dtCXZSDdc+nbNkpBID4uYvNty979J3hOzf/zJmCUvaInq2y45vTt3WrBfJPzz7IHTHNU/EFPZ+a31wuJi+UZS2v54YNDLPf5Wq6rMgfFv1eegm2CdDp1fZTJJ7mefhkjcL8bpfvs2SeVTgGB3sbJ0RyqWPUbAIZKQ0KsvkkRYxYeM3HO371Xq8=;DvHkubIWUUpFFXL3MavYvQ=="

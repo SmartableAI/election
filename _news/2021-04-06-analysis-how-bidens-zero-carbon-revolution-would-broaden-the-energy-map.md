@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Biden is making more progress on economic than social issues"
+    excerpt: "The magnitude of the economic proposals that President Joe Biden may pass through Congress this year is drawing legitimate comparisons to Franklin D. Roosevelt's New Deal and Lyndon B. Johnson's Great Society.\n    \n"
+    publishedDateTime: 2021-04-13T04:26:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sMK4GuoT3wo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-economic-social-policies-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-economic-social-policies-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408122600-joe-biden-april-8-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: There's a new surge of kids at the border, but the Biden administration won't call it a crisis"
     excerpt: "Unaccompanied minors from Central America are again overwhelming the US immigration system as they cross the US-Mexico border.\n    \n"
     publishedDateTime: 2021-03-10T21:25:48Z

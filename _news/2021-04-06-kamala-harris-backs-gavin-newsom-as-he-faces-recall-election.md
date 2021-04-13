@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 940
+heat: 960
 published: true
 
 provider:
@@ -644,6 +644,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice President Harris Holds Roundtable on Black Maternal Health"
+    excerpt: "Vice President Harris holds a roundtable at the White House on Black maternal health. She is joined by Domestic Policy Adviser Susan Rice. Vice President Kamala Harris held a roundtable discussion on Equal Pay Day with women leaders of advocacy… Vice ..."
+    publishedDateTime: 2021-04-13T12:42:00Z
+    webUrl: "https://www.c-span.org/video/?510792-1/vice-president-harris-holds-roundtable-black-maternal-health"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "+Pd1X4p9Mx58Pfwec7tEVCT4uwpVwu8lxfsYcEvs0WuU8DhgHckm3aCT2zcM4i3nLeKXqeHDxjr9IvOkiWR/nMH/HeO0Vn1GEmLXec1qAPMCNl91Hs3vXd/bXd8wgnR/RQ9Xi5kdSsZbK68NwvraRijV7qW4Plet2q5x2fW7j1edp++ZHloUMn+pYHwQbcS1nSYZvPpuEahSnwuBEjs1qlkB+oPt7pseTlFSyPsC7v/B65ssAGEIQ0WR2HB0w9lo5ZezqW7gaFDLksa8r8afIg6bijSlgHWSNxDWMtIaYwSPiRK5Ff/+phs4NR/pkOpu66/g4Dp4usQM1gs/xnjK8dFlBSD3fv25/oNbhk9LfLcb8XRISJP5y5kKGjp7HfcabkWaZXfPw1+yshKXVyXoYe/6wBm1pttGrrLqeDSKq96y6Q7EpLMlLrAcnstbRPYYnLH4rwk2qV/Xtgh2iaZOn/TvCrHgUm7ecx0Xusvu00e0z35IGV4av5ypABwkNZ+nML857NSrBk+iatqanjeY1w==;eTDbCf+nPvID+PHLODmTmA=="
 ---

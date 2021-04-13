@@ -95,6 +95,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden attempts balance amid major protests during his presidency"
+    excerpt: "President Joe Biden is confronting the first major protests of his tenure after three months in office, prompted by the police killing of a Black man in Minnesota.\n    \n"
+    publishedDateTime: 2021-04-13T12:30:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wBdd7KyJ-zg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-protests-minnesota/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-protests-minnesota/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What to watch as Congress gears up for work on Biden's infrastructure plan"
+    excerpt: "President Joe Biden has said he's willing to negotiate over infrastructure, a key legislative priority for the White House. There are signs, however, that Republican opposition remains as strong as ever, underscoring the challenge that awaits Democrats who face their own internal divisions over policy"
+    publishedDateTime: 2021-04-13T09:20:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TJ4Z5UHydvg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-infrastructure-plan-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-infrastructure-plan-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412151143-02-biden-jobs-plan-0412-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The old guard of the judiciary moves on as Biden announces new picks for bench"
     excerpt: "As President Joe Biden launches a new era of judicial appointments, the old guard of the bench is in its twilight.\n    \n"
     publishedDateTime: 2021-04-09T11:34:32Z
@@ -142,22 +174,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162835-02-biden-vaccine-remarks-0406-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
-    excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."
-    publishedDateTime: 2021-04-13T00:37:00Z
-    webUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 148
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/12/us/politics/12dc-dhs/12dc-dhs-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "NYT: Trump campaign duped donors into repeat donations"
     excerpt: "The New York Times is reporting that former President Donald Trump's campaign tried to make up a fundraising gap during the 2020 election cycle by signing up one-time online donors for repeat donations without their knowledge."
@@ -331,6 +347,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
+    excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."
+    publishedDateTime: 2021-04-13T01:14:00Z
+    webUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 108
 
 secured: "JnHoTdXmm8hYCJCR0fjL4dopbT5LVwedE6b9VYdwF4n7itrd9syaixddjUGWpgDA04cQ41cLNha9TVnvQgJfXooqDdEngXJNzZJ0vZ/Mgk8tyUvHzEmeYgiBZvnJJrOX2pOtrR8ZMldhblYkAZrZoRUXHZ/IY5KxSBrKOjm95kY2P2kooSrrATbml2tJDq/kNaT0XonzIZekRm5ShAX2s8oDi0ZlpU7LUgtyMM3HypDPg1W+fSXWSpMtxYqVIwXtj02hnXkroilI2SN9ooA+W1VditqEc3IAQokSRm9jK1HUX7rR3Jn6oFo1qAL7LJMBM/MWJCNfVuFEfhj9GVqT7eQSslIQ554MKkgaID5BjA0=;B7qhW/7ffFHtr9pvCknb6w=="
 ---

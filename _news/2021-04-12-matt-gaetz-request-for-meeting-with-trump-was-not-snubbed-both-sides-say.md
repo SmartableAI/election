@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-mee
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
 type: article
 quality: 124
-heat: 224
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump knocks CNN for 'completely false' report Gaetz was denied meeting"
+    excerpt: "Former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump calling him 'dumb son ..."
+    publishedDateTime: 2021-04-13T12:29:00Z
+    webUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting"
+    ampWebUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gaetz_matt_trump_donald041321.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
     excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
     publishedDateTime: 2021-04-07T15:30:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club"
-    excerpt: "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer."
-    publishedDateTime: 2021-04-10T11:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/da0361692602303bd56482725aff0035c926bd36/0_88_5166_3100/master/5166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6086a62db396c12b20bdfa14f23aabbf"
-        width: 600
-        height: 360
         isCached: true
   - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."
@@ -79,33 +79,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
-    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
-    publishedDateTime: 2021-04-07T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 96
-    images:
-      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Matt Gaetz is employing Trump-style fundraising pitches — including automatic recurring contributions that could dupe donors"
-    excerpt: "An envelope. It indicates the ability to send an email. Embattled Rep. Matt Gaetz on Thursday asked his supporters for a little cash, Donald Trump style. Gaetz's re-election campaign committee is employing a controversial fundraising strategy similar to ..."
-    publishedDateTime: 2021-04-09T20:21:00Z
-    webUrl: "https://www.businessinsider.com/matt-gaetz-trump-fundraising-federal-investigation-2021-04"
+  - title: "Gaetz and Trump rep challenge report that the Florida congressman was denied a meeting with the former president"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% GOP Congressman Matt Gaetz, who is facing federal sex trafficking allegations, was reportedly denied a meeting with Donald Trump as aides try to distance the former president from him, CNN reported. Two anonymous ..."
+    publishedDateTime: 2021-04-12T02:15:00Z
+    webUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 78
+    quality: 104
     images:
-      - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://i.insider.com/607018a44d3e410018b702ab?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "GG7H0R7raOMnB3LFeVrQ9OfSqww0ygaV9JEAsHbqXYT+1jX9pBomhoPspZy00J9iD9RCGrs0d92jWk32WTUQSUNfwZ6gYrCaO8P2DOYCcuaLJJ+cbsoZC4xR0RMCvUFZGt56YjM1A19GEr0lYJF/l/QzfpH4C7Sj0vnXs1aS21NucuKLEa2T5FM5ZP5+bG/pbc1aifNhST/1sHwuMIFguh2wZ1MYyYNulE047u/ORSJGpN3kAwNa+R255VZzOgv7W/0Mcqrt0+MlqKrRq/ffruX4Fs2RFs6diThtmEIBBmhSZAx1CTM6Spyvpv4r+T/Zpp+XL4gXKtepLvc4T/wd6CNElXh8AxJkK3QuwjANl9E1H29Mf+wtQQ0FniVVYSSdEh4T1jzQIy5vgl8NabxKXFGYqRfFRw77gzgTWE+fjO14Za/+7/UNUl2YsLUhKTEEsRXVXz46WO3EWiP9KzxErvdPUCGgpNjGTeupHzs9H4R7ZP+iSvi3+8cO2aPSGarSk0T7mJqxdtmDIvKXGgoJ2w==;tE3WIQyjgV6J1OU0zrOrwg=="

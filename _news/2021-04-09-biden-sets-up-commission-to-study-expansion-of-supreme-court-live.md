@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-po
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -194,6 +194,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden meets with bipartisan group of lawmakers on infrastructure"
+    excerpt: "Mr. Biden said he's confident the infrastructure push will work out. The infrastructure proposal currently includes a 28% corporate tax rate, which moderate Democratic Senator Joe Manchin has already said is too high. Manchin has said he could be more ..."
+    publishedDateTime: 2021-04-13T11:08:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-bipartisan-meeting/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
 
 secured: "W35+iNbEHIjnLy0LjWT+wu1uxT/vWQ8IDece65LVEIx6mojfnvO/TsA7lhTFFAqF0FtAq5vEa7gfDtL/SBGCkyG4jf9OVXQbHrx+fE+LFHTZVLX5mlqzPzO7bwEA95pOQp4VRPzcZWt05euayPcvu4i+7bpwuRZ5JuSAxol0xgOccQuXkSfRVE1uHAubzOfsl36RAuqcE0HXawlArODJrlzOdOa5aszcAbpLlrYy7xR2BKnbkMDNUQo4NxHkGVSC7p/KGXtQ9SUmMlEoxHdUyQK9CqB1hyJZembTWSC5h9lF7s8aLv7zunAKvDutB9uGM+kCinC/eaWibQ4oEXGseoAUaukeSzbjtxMYfUzL2AQ=;qYuTvCv0TtYKGt/gNaIS7w=="
 ---

@@ -31,67 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Headhunters having hard time finding jobs for former Trump officials: report"
-    excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
-    publishedDateTime: 2021-04-07T18:56:00Z
-    webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
-    ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+  - title: "Boehner: Trump's claims of stolen election a 'sad moment in American history'"
+    excerpt: "said that former President Donald Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump ..."
+    publishedDateTime: 2021-04-13T13:54:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 122
+    quality: 137
     images:
-      - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
+      - url: "https://thehill.com/sites/default/files/boehnerjohn_032614gn_boehner.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme"
-    excerpt: "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ..."
-    publishedDateTime: 2021-04-04T15:23:00Z
-    webUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952"
-    ampWebUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show"
-    excerpt: "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe"
-    publishedDateTime: 2021-04-09T16:34:00Z
-    webUrl: "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp"
+  - title: "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election"
+    excerpt: "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House."
+    publishedDateTime: 2021-04-07T23:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 118
+    quality: 126
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
         width: 1440
-        height: 990
+        height: 960
         isCached: true
-  - title: "Trump officials gloated about pressuring the CDC to edit its COVID-19 reports: 'Yippee!!!'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Health officials in former President Donald Trump's administration gloated about their efforts to edit scientific reports on COVID-19 last year to fit Trump's messaging, according to documents obtained by The ..."
-    publishedDateTime: 2021-04-09T14:27:00Z
-    webUrl: "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-gloated-about-editing-cdc-covid-19-reports-yippee-2021-4?amp"
+  - title: "On the House review: John Boehner’s lament for pre-Trump Republicans"
+    excerpt: "Boehner offers no pushback. Boehner expresses contempt for Senator Ted Cruz and Mark Meadows, a former North Carolina congressman who became Donald Trump’s final chief of staff. As for Flyin’ Ted, Boehner is unsparing: “There is nothing more ..."
+    publishedDateTime: 2021-04-10T04:00:00Z
+    webUrl: "https://www.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans"
+    ampWebUrl: "https://amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8c59c546c7310a8c2debabf5263186861e96952/0_263_3929_2357/master/3929.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=adebe66c8debb45d75e5adc31944d502"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Boehner: Trump 'stepped all over their loyalty' by lying to followers"
+    excerpt: "ADVERTISEMENT \"What struck me, especially after the election, was, here's all these people loyal to Donald Trump, and he abused them,\" Boehner added. \"He stepped all over their loyalty to him by ..."
+    publishedDateTime: 2021-04-11T23:24:00Z
+    webUrl: "https://thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers"
+    ampWebUrl: "https://thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/boehner_trump040721.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
+    publishedDateTime: 2021-04-07T14:18:00Z
+    webUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 115
+    quality: 120
     images:
-      - url: "https://i.insider.com/607055ff30004b0019b26d65?width=1200&format=jpeg"
+      - url: "https://i.insider.com/606dbe1a30004b0019b26624?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
