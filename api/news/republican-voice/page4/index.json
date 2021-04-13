@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-01-san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.md",
+      "title": "San Diego county official rips Biden, Newsom as migrant children prioritized over Calif. students",
+      "excerpt": "San Diego County Supervisor Jim Desmond sounded off on \"Hannity\" Wednesday, after the Biden administration sent hundreds of Central American migrant children to be housed and formally educated by local teachers at the San Diego Convention Center,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
+      "originalUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e162a72f-61f2-4cb6-a307-213bc8dc6f7d/9e440e21-ca35-453e-8c97-44ed1006db4d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
+      "publishedDateTime": "2021-03-31T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-jill-biden-mocked-for-botched-spanish-attempt.md",
       "title": "Jill Biden mocked for botched Spanish attempt",
       "excerpt": "First Lady Dr. Jill Biden’s California speech garnered attention on social media on Wednesday for what users perceived as a botched attempt to pronounce a phrase in Spanish.",
@@ -1613,63 +1670,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-harris-acknowledges-major-new-social-welfare-spending-as-part-of-19t-covid-relief-bill-was-intentional.md",
-      "title": "Harris acknowledges major new social welfare spending as part of $1.9T COVID relief bill was ‘intentional’",
-      "excerpt": "Vice President Kamala Harris on Friday acknowledged that part of the purpose of the Democrats’ $1.9 trillion American Rescue Plan, which did not receive any Republican support, was to pass social policies to address problems like child care.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJt4e3SphUA/harris-major-child-care-program-covid-relief-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJt4e3SphUA/harris-major-child-care-program-covid-relief-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e7912ca-8569-4f8f-abec-17e93dbba260/8d52141f-954a-4cff-9341-12ab9f67fa27/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-major-child-care-program-covid-relief-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-major-child-care-program-covid-relief-bill.amp",
-      "publishedDateTime": "2021-03-26T16:52:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

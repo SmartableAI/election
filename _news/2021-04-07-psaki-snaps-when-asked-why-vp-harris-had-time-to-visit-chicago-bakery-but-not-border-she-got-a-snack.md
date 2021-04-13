@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-snaps-when-asked-why-vp-harri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GOP lawmakers urge VP Harris to visit border ASAP: ‘We invite you to make the journey’"
+    excerpt: "Rep. Chuck Fleischmann, R-Tenn., and six other GOP lawmakers are urging Vice President Kamala Harris to visit the U.S.-Mexico border as soon as possible."
+    publishedDateTime: 2021-04-13T16:19:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DqcGJQc3GA/gop-lawmakers-vp-harris-visit-border"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Chuck-Fleischmann-Kamala-Harris.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -2,6 +2,119 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-23-trump-may-have-made-one-thing-great-after-all-the-democratic-party.md",
+      "title": "Trump may have made one thing 'great' after all: the Democratic Party",
+      "excerpt": "If Democrats are going to hold on to the momentum galvanized under Trump’s disastrous term, they need to deliver. President Donald Trump's promise to \"Make America Great Again\" turned out to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
+      "originalUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_03/3443977/210121-democratic-party-great-again-main-2x1-an_c61ed483fca4984ffa89420fdf5b4d6a.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/ncna1255240",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/ncna1255240",
+      "publishedDateTime": "2021-01-22T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-fauci-says-lack-of-candor-from-trump-administration-very-likely-cost-lives.md",
+      "title": "Fauci says lack of candor from Trump administration 'very likely' cost lives",
+      "excerpt": "Dr. Anthony Fauci said Friday that the lack of truthfulness from the Trump administration regarding the Covid-19 pandemic \"very likely\" cost American lives.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
+      "publishedDateTime": "2021-01-22T05:27:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-ivanka-trump-and-jared-kushner-move-out-of-dc-and-lease-luxury-condo-in-miami.md",
       "title": "Ivanka Trump and Jared Kushner move out of DC and lease luxury condo in Miami ",
       "excerpt": "Ivanka Trump and Jared Kushner have moved out of their Washington, DC, home, and have signed a one-year lease on a luxury condo in Miami at the Arte, an expensive oceanfront residential building, a source familiar with the couple's move confirmed to CNN.\n    \n",
@@ -1578,119 +1691,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-ex-obama-official-who-helped-fix-botched-healthcaregov-rollout-to-join-bidens-covid-19-team.md",
-      "title": "Ex-Obama official who helped fix botched healthcare.gov rollout to join Biden's Covid-19 team",
-      "excerpt": "Andy Slavitt, the former acting chief of Medicare and Medicaid under the Obama administration, is expected to join President-elect Joe Biden's Covid-19 team in a senior advisory role, CNN has learned.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oRIuVJft_tM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oRIuVJft_tM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200716165206-andy-slavitt-new-headshot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/andy-slavitt-biden-covid-team/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/andy-slavitt-biden-covid-team/index.html",
-      "publishedDateTime": "2021-01-14T12:39:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-conversion-therapy-ban-introduced-in-mike-pences-home-state-of-indiana.md",
-      "title": "Conversion therapy ban introduced in Mike Pence's home state of Indiana",
-      "excerpt": "Indiana legislators this week introduced a measure that would ban conversion therapy for minors by licensed counselors. Senate Bill 32, authored by Democratic state Sen. J.D. Ford, would prohibit efforts to change the sexual orientation or gender identity of anyone younger than 18.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/conversion-therapy-ban-introduced-mike-pence-s-home-state-indiana-n1254144",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/conversion-therapy-ban-introduced-mike-pence-s-home-state-indiana-n1254144",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3441863/210113-one-time-use-only-senator-jd-ford-se-244p_5cf7ffeaa5465c7123bf097a9eb6079a.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254144",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254144",
-      "publishedDateTime": "2021-01-14T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

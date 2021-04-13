@@ -2,6 +2,223 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-08-donald-trump-is-not-too-queens-for-iowa.md",
+      "title": "Donald Trump is not “too Queens” for Iowa",
+      "excerpt": "CBS News Correspondent Julianna Goldman, Ed O'Keefe of the Washington Post, Mark Leibovich of The New York Times Magazine, and the Atlantic’s Jeffrey Goldberg discuss Trump’s newfound Iowa appeal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "originalUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/07/c1a68032-f68e-4bcd-ba4a-c86f3966bce4/thumbnail/1200x630/3c6d955cdc8e82a852c383f95c1b2883/ftn-panel3-0830-438452-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "publishedDateTime": "2021-04-07T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-mcconnell-again-slams-biden-as-a-leftist-bernie-sanders-is-really-happy.md",
+      "title": "McConnell again slams Biden as a leftist: 'Bernie Sanders is really happy'",
+      "excerpt": "Sen. Mitch McConnell doubled down on calling President Biden “far-left,” after the administration shot back, saying Wednesday there is “nothing at all moderate about the administration so far.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38a79d73-0f3e-4976-86c1-df8b65cc7425/1a5adb29-437a-423f-b1a7-862019efd686/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
+      "publishedDateTime": "2021-04-07T12:50:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers.md",
+      "title": "Texas, Louisiana sue Biden administration over reduced use of ICE detainers",
+      "excerpt": "“President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE’s outright ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers",
+      "originalUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ice_05092019_getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp",
+      "publishedDateTime": "2021-04-07T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
+      "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
+      "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
+      "originalUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/c3/24/49791ee84b6a94e296633797d05f/210407-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
+      "publishedDateTime": "2021-04-07T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-headhunters-having-hard-time-finding-jobs-for-former-trump-officials-report.md",
       "title": "Headhunters having hard time finding jobs for former Trump officials: report",
       "excerpt": "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,",
@@ -924,62 +1141,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-texas-louisiana-sue-biden-administration-for-refusing-to-take-criminal-illegal-immigrants.md",
-      "title": "Texas, Louisiana sue Biden administration for ‘refusing’ to take criminal illegal immigrants",
-      "excerpt": "Texas and Louisiana are suing the Department of Homeland Security for its alleged refusal to take criminal illegal immigrants into custody, after rules that narrowed enforcement priorities.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d25Twkn2otc/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d25Twkn2otc/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a48f6aaf-e0b0-49f9-92dd-87f61649de6c/d9464a8a-51b4-4d7c-a6a2-fa5d67add6d0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
-      "publishedDateTime": "2021-04-06T14:51:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-06-biden-tells-georgia-to-smarten-up-to-avoid-losing-business-over-new-election-law.md",
       "title": "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law",
       "excerpt": "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. ",
@@ -1197,171 +1358,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-hasnt-talked-to-chinese-president-about-coronavirus-origins.md",
-      "title": "Biden hasn't talked to Chinese president about coronavirus origins",
-      "excerpt": "President Biden on Tuesday said he has not spoken to Chinese President Xi Jinping about the origins of COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
-      "publishedDateTime": "2021-04-06T13:58:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-biden-reassuring-to-see-companies-speak-out-against-voting-laws.md",
-      "title": "Biden: 'Reassuring' to see companies speak out against voting laws",
-      "excerpt": "President Biden Joe Biden Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE on Tuesday credited private companies with speaking up in opposition to new voting laws being passed in Georgia and elsewhere while warning about the impact on workers when businesses leave,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws",
-      "originalUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe3_04062021getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp",
-      "publishedDateTime": "2021-04-06T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
-      "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
-      "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
-      "originalUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e360c9be-94bc-48ba-b8f1-c0695538cccb/162fa33e-186e-4288-9a45-28a8efcaa517/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
-      "publishedDateTime": "2021-04-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

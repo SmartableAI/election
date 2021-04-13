@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Obama to appear in TV special to promote Covid-19 vaccinations"
+    excerpt: "President Joe Biden and former President Barack Obama will appear in an hour-long NBC special on Sunday aimed at promoting Covid-19 vaccinations as they hope to convince hesitant Americans to get shots.\n    \n"
+    publishedDateTime: 2021-04-13T17:35:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTxvAPWXeyE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-obama-tv-special/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-obama-tv-special/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210327005047-35-barack-obama-unfurled-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
     excerpt: "Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president.\n    \n"
     publishedDateTime: 2021-03-11T18:37:36Z

@@ -7,8 +7,8 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4YURWImzt0k/gop-se
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4YURWImzt0k/gop-senators-fbi-probe-biden-pentagon-nominee-classified-info"
 type: article
 quality: 136
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -27,6 +27,72 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden proposes summit with Putin in coming months "
+    excerpt: "President Biden on Tuesday proposed a summit with Russian President Vladimir Putin in the coming months, but suggested it take place in a third country – outside of the United States and Russia."
+    publishedDateTime: 2021-04-13T16:15:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoJitY6T5ik/biden-proposes-putin-summit-russia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
+    excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
+    publishedDateTime: 2021-04-08T00:02:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-actions-gun-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b0d7af2-178c-4bf5-84b1-9f4b1eaeeb17/66054943-8e0f-4161-9adc-ee518e15b053/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democrats, Biden push limits of infrastructure definition as fight over spending plan takes shape"
+    excerpt: "Democrats are pushing the limits of what can be defined as \"infrastructure\" as they aim to sell President Biden's $2 trillion-plus spending plan to the American people. "
+    publishedDateTime: 2021-04-07T16:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9uf2dICI7Qs/democrats-biden-push-limits-infrastructure-definition"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden orders study on 'size' of Supreme Court, other possible changes amid liberal court-packing push"
+    excerpt: "President Biden will issue an executive order Friday to form a commission to study reforms to the United States Supreme Court.Biden, under pressure from liberals to expand the size of the high court, promised to create the commission during a \"60 Minutes\" interview back in October in the wake of Justice"
+    publishedDateTime: 2021-04-09T16:00:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bWINDkv33E4/biden-orders-study-size-supreme-court-liberal-court-packing-push"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "Iu0YtRCq3HWREcjXK3yVdp5E+rP3FsvUOKWiNh73oq7PraBrACjrRk/s3kbdxX2a1q+qzL0Z20hn0AHBZZ29DC3T/wpkU2nuDj02iSBvBJTz7HR9+mtNAsSpFCC2q8OzwtPW3YnLWp7Ivy7fHuuMiSWDVsvy7k7R9KiSOQHqH5J2YjfR5MjGr0J7Bd10hQIKzuu5MHrSLBQWwmZqyGwLOcfEMvAik3km72aFK2xaqfomwyjHX575hrrMkHUQxnHTQ+SkrNqkh7qgUx5s3jjh0micpDsSJAJr2Cd+cYS/baf3Bkuj9VLXhMFnk0l/621JyRsnia8pLjaIBW3B7iSN4m4l964f1uD5+Kr04AifI5g=;uNB33l9TJWn5QgT6MBskvQ=="
 ---

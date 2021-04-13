@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hogan-gidley-election-integrity-non
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
 type: article
 quality: 189
-heat: 329
+heat: 349
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://images.wsj.net/im-323635/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Nikki Haley says she won’t run for president in 2024 if Trump does"
+    excerpt: "Nikki Haley, former US Ambassador to the United Nations and Governor of South Carolina, will not launch a White House bid if former President Trump chooses to run. Haley made the revelation while"
+    publishedDateTime: 2021-04-13T16:00:00Z
+    webUrl: "https://nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/"
+    ampWebUrl: "https://nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/haley-2024-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Organization Executive’s Former In-Law Hands Over Documents in Probe"
     excerpt: "A Trump Organization executive’s former daughter-in-law turned over financial documents Thursday that Manhattan prosecutors had subpoenaed for their investigation into former President Trump and his company."

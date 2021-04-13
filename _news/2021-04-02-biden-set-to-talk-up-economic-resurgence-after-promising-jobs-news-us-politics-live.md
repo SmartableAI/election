@@ -105,6 +105,38 @@ related:
         width: 1440
         height: 941
         isCached: true
+  - title: "Biden Decision to Delay Afghanistan Withdrawal to 9/11 Could Escalate Taliban Conflict"
+    excerpt: "President Joe Biden's plan to delay the withdrawal of U.S. troops from Afghanistan until September 11 could escalate tensions with the Taliban. According to the Associated Press, Biden is scheduled to announce the delayed withdrawal date in the upcoming ..."
+    publishedDateTime: 2021-04-13T17:11:00Z
+    webUrl: "https://www.newsweek.com/biden-decision-delay-afghanistan-withdrawal-9-11-could-escalate-taliban-conflict-1583337"
+    ampWebUrl: "https://www.newsweek.com/biden-decision-delay-afghanistan-withdrawal-9-11-could-escalate-taliban-conflict-1583337?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-decision-delay-afghanistan-withdrawal-9-11-could-escalate-taliban-conflict-1583337?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1777203/president-joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden tells family of officer killed in Capitol car attack: ‘Your Dad was a hero’ – live"
+    excerpt: "“I don’t think it was pulling the trigger too quickly.” Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration ..."
+    publishedDateTime: 2021-04-13T16:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates?page=with:block-6075cc3a8f081d5f7f94ef4a"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/54c0ae823c55ace7e5b9ccbcb747b81cc2f69eb6/0_32_4845_2907/master/4845.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eebce1353e72fcc91b8e666f139d987"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Texas Democratic Sheriff Slams Biden Immigration Policy, Cost of Placing Migrants for County"
     excerpt: "Val Verde County, Texas, Sheriff Joe Frank Martinez said Friday that \"criminal aliens ... He commended Florida GOP Governor Ron DeSantis for sending a letter to the Biden administration that demanded it stop enforcing policies allowing the release of ..."
     publishedDateTime: 2021-04-03T15:47:00Z

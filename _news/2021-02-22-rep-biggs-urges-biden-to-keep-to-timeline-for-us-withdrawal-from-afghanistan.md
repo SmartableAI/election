@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afg
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden wants to withdraw all 2,500 US troops from Afghanistan by 9/11: senior defense official"
+    excerpt: "President Biden plans to remove all American troops from Afghanistan by September 11, a senior defense official confirmed to Fox News. "
+    publishedDateTime: 2021-04-13T16:22:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pJNhgPP9VIQ/biden-withdraw-2500-afghanistan-9-11-sr-defense-official"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-withdraw-2500-afghanistan-9-11-sr-defense-official.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-withdraw-2500-afghanistan-9-11-sr-defense-official.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Iranian dissidents urge Biden to keep up pressure on Tehran, say regime at ‘weakest point in history’"
     excerpt: "Iranian dissidents are calling on the Biden administration to keep up the pressure on the country's leaders, arguing that the regime is at its \"weakest point in history\" -- even as the administration looks set to re-engage with Tehran."
     publishedDateTime: 2021-02-23T23:35:56Z

@@ -31,53 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
-    excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
-    publishedDateTime: 2021-04-08T00:02:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-actions-gun-violence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp"
+  - title: "Here's how Nancy Pelosi could personally benefit from Biden’s $2T spending bill"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., is positioned to potentially personally benefit from President Biden’s $2 trillion spending bill – and here's how she could do it."
+    publishedDateTime: 2021-04-05T16:11:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QUudE0KtKOE/biden-spending-bill-pelosi-tesla-husband"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b0d7af2-178c-4bf5-84b1-9f4b1eaeeb17/66054943-8e0f-4161-9adc-ee518e15b053/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6006abae-c244-4c3a-9668-00383f221969/3d269837-fe51-4751-9b4e-d1ca0217c647/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Colion Noir: Biden gun actions about 'control,' not about keeping people safe"
-    excerpt: "Gun rights activist stands against Biden administration's push for new gun control measures."
-    publishedDateTime: 2021-04-08T15:42:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbbICGWpIfg/colion-noir-biden-gun-control-orders"
-    ampWebUrl: "https://www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp"
+  - title: "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'"
+    excerpt: "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" "
+    publishedDateTime: 2021-04-01T23:56:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots"
+    ampWebUrl: "https://www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Mark Steyn pushes back on Biden's 'gun grab' by executive order"
-    excerpt: "In practical terms, the measures include: restrictions on pistol stabilizing braces, which Joe Biden claims allow hand-guns to be used as high-accuracy low-recoil rifles and yet with easy concealability of a pistol. A new rule closing yet another supposed ..."
-    publishedDateTime: 2021-04-09T00:19:00Z
-    webUrl: "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order"
-    ampWebUrl: "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp"
+  - title: "Zeldin slams Pelosi for praising Biden's handling of border: 'She is a dishonest hack'"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., is a \"dishonest hack\" who needs to be replaced by someone new in Congress, Rep. Lee Zeldin, R-N.Y., told \"Fox & Friends\" on Thursday."
+    publishedDateTime: 2021-04-08T13:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_mtWpY9qUas/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a73d4e9-e32b-4f78-b01c-7836d4c075f1/1f2816d7-152b-46e5-bcfc-50912e6eb51e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Republican senators line up against Biden's massive $2.2T spending bill: 'Far cry away from' infrastructure"
+    excerpt: "The opposition is coming even from moderates who attempted to work with Biden on the coronavirus stimulus plan."
+    publishedDateTime: 2021-04-01T13:52:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53yiLDIzkjM/republicans-bidens-spending-bill-far-cry-away-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "R/xTnds8qambFuIp731K4TfOCR6CJI22hljr9nJhA32WfLWonPKQBkEsdfz1czLLHQaWiL3O93Wq6Ph6nznjMmIfc0oaO3BL1FEXkZrc3lq2g7WRxm/hOiwCeGkXV90qdUMB6QD3glQSqVKMl/E8lyRg6q1a5+HqnPg5Hlzm3lpeyogyn+72Gb6zpsbolFG8ZDBkapEQ8wj733245yyUtXzMU5PSOJGIF3V4Mx2b1g5tfQDLeBTQcFqhC3Wd6wPUiY5NOMzs0CsNAsKSl2RFW1IHCXTdBBagFdjL2ClUtZKPpIlupDjCORXp9Zv/xP/qNNNLIiXGCr9EGm/8gEfOGKiAFQ4aoFPuK7xHU2Clf7U=;oY4rc9ud6/4qhA+tLK4X0Q=="

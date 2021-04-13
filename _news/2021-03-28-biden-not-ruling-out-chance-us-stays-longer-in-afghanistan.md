@@ -43,6 +43,70 @@ related:
         width: 826
         height: 551
         isCached: true
+  - title: "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, three sources familiar with the decision told Reuters."
+    publishedDateTime: 2021-04-13T14:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-withdrawal/biden-to-pull-u-s-troops-from-afghanistan-by-sept-11-sources-say-idUSKBN2C028S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V"
+        width: 795
+        height: 545
+        isCached: true
+  - title: "Biden to withdraw US troops from Afghanistan by September 11"
+    excerpt: "Last modified on Tue 13 Apr 2021 12.41 EDT Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration official has confirmed."
+    publishedDateTime: 2021-04-13T16:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/37632e836ec1ba4bd404290e5b127ec1610c3c04/0_42_3400_2040/master/3400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=685bece44856763791fcb15fda30c35c"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
+    publishedDateTime: 2021-04-13T15:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-withdrawal-idUSKBN2C028S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V"
+        width: 795
+        height: 545
+        isCached: true
+  - title: "Biden to withdraw all US forces from Afghanistan by 9/11: Defense official"
+    excerpt: "On Location: April 13, 2021 A U.S. defense official confirmed to ABC News Tuesday that President Joe Biden will withdraw all U.S. forces from Afghanistan by Sept. 11, the 20th anniversary of ..."
+    publishedDateTime: 2021-04-13T16:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-withdraw-us-forces-afghanistan-911-defense-official/story?id=77046353"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-withdraw-us-forces-afghanistan-911-defense-official/story?id=77046353"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-withdraw-us-forces-afghanistan-911-defense-official/story?id=77046353"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/troops-afghanistan-gty-rc-210325_1616701125644_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden wants to explore keeping U.S. counter-terrorism troops in Afghanistan -top lawmaker"
     excerpt: "House of Representatives Armed Services Committee Chairman Adam Smith’s comments provided new details of U.S. President Joe Biden’s conduct of the Afghanistan peace process that he inherited from the Trump administration. The State Department referred ..."
     publishedDateTime: 2021-03-24T21:40:00Z

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden proposes meeting with Putin amid rising Ukraine tensions"
+    excerpt: "President Joe Biden spoke with Russian President Vladimir Putin on Tuesday and proposed a meeting in a third country in the coming months as tensions between Russia and Ukraine rise in eastern Europe.\n    \n"
+    publishedDateTime: 2021-04-13T17:10:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N95__0UZOs4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin-meeting-proposal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin-meeting-proposal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden ramps up vaccine diplomacy efforts as hopes rise that he'll share surplus doses"
     excerpt: "President Joe Biden, well on his way to reaching a new goal of vaccinating 200 million Americans by the end of April, is taking initial steps toward helping other nations ramp up shots, including by boosting global manufacturing and appointing a top global health expert who previously advocated for shipping"
     publishedDateTime: 2021-04-06T10:09:48Z
@@ -46,38 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210405163758-vaccine-pharmacy-us-louisville-kentucky-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden set to announce he's moving deadline for all US adults to be eligible for Covid vaccine to April 19"
-    excerpt: "President Joe Biden plans to announce Tuesday that he is moving up his deadline for states to make all American adults eligible for a coronavirus vaccine by almost two weeks.\n    \n"
-    publishedDateTime: 2021-04-06T11:19:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x9whOQVB82U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404164255-01-joe-biden-0324-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Jill Biden, in California, Lends Support to Farmworkers Seeking Vaccinations"
-    excerpt: "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ..."
-    publishedDateTime: 2021-04-01T00:50:00Z
-    webUrl: "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/31/multimedia/31dc-flotus-promo/31dc-flotus-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "Fv4M5DIczwZ2OaL0m9zWcc6vUdI4Apyserqr7EQlyt/znGlKT2BVub/MAGDwGD0ydS8c5pbX/wqAOq6KGaeXpgkkkBL2ai62Cx1zI5evvQ8ePxvxfwMg/Egi+ct3YcirLwywkmjSLmM7vKSzW6rtQAYUPkN5wypLOUUN1oy+/AqaRRIMg8p0uf+oogY796Uvkue1kPYayuGq+PPog62n4BoesLl9VL2+36TrLp/wF5srA24TZEsZgOurEa3Pt/H9q1SWOjGF1QWcE5cBatNCCiXGKw5gpdUAfHH6Y+oMRprUbD2qaVTPP0pGzh2/bBY2kxpeYcNDSjvyCi/VUJqXoesKPAeommiCoLnr0hVsDeE=;DMLpLXGvCtsl+WOVW04+rA=="

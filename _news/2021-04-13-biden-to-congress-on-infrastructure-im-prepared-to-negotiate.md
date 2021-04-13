@@ -3,8 +3,8 @@ category: news
 title: "Biden To Congress On Infrastructure: \"I'm Prepared To Negotiate\""
 excerpt: "President Joe Biden said he is “prepared to negotiate” the size of his infrastructure plan and how to pay for it during a meeting with a bipartisan group of lawmakers on Monday. \"I’m prepared to negotiate as to the extent of my infrastructure project ..."
 publishedDateTime: 2021-04-13T12:52:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
 type: article
 quality: 65
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 340
         isCached: true
 
-secured: "VaynWehO3cnUKeNeCdvP4oUve6QE+op0rrNdGNn+g8hKNTxx6dByZlicw9oyXzAbgicDm2rEj+P9vp6Bysw3GbcjxuJ1wkuV426JqT3R3KpCroS9sNHsQtyeokL1WVWR/AsRjEv0zGs7h+ShkLA6OFJNXOIi2zxEPxxjYIXugYizFuwl2BTj8NDzSwefUuWCGsPhc7VP5Nn7xrOymZ6MfTl/hjPtPg+rTqV/JRjkK7odUWUn5rEi+IxeGBa6GzKIOosztUk2pOEicIwgtfs9ffLnx8qilJs7G30w6JXlRzk4prfkpv33va3NqUTOkL6VzjjJqa4FjGHYFwRrq/zhXYscWOzSCo778prAOicO78g=;Hx3fCMZoPe5lTQHOqUrEPA=="
+secured: "SPOli09ch3Hg0rfCRmFRzKtSn2XJ6I151UIlTCi35iyLW/V48fxRw1lXMvDZtBKaAekjrasItMZVPPkPldd/lBy8zn1Zm+zYZKpozSsMt85wO73PUIrcnieloQNKHuWlcl1BweQ54e6hZ2orOAwwSb94I/Nl9k64LsSrJyV4S8aLlADYgC+1Zr3toUqJqAWsMrsz3jqmfUssG15bKHweeleWk/uiPBVu4iywgOXyEkR6J5vwU1oXBzEcrUPBiBvdY2MDfyDRtz//ICG31D6LZ1uMQi6npRcs1TmffdKhFNG7hNkE91JCP4JfBy60CG+kSxPQT3N3SLPn+AqqB1Sho9VufW8gL+HUkP467yv7njU=;pcUZ8I3hK73tVKUbNUs/vA=="
 ---
 

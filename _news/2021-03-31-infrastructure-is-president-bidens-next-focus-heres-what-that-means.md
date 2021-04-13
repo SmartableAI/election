@@ -77,6 +77,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden to withdraw all U.S. troops from Afghanistan by Sept. 11"
+    excerpt: "President Joe Biden plans to withdraw all U.S. troops from Afghanistan by Sept. 11, 2021, missing the May 1 deadline he inherited from the Trump administration, according to two congressional aides and a senior administration official briefed on the plans."
+    publishedDateTime: 2021-04-13T17:29:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/biden-withdraws-us-troops-afghanistan-481133"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1b/c8/65f10172485caa58b98542b808f7/210413-afghanistan-troops-return-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "ZP9SZOkQfHbPo8/3NQv65J2YrtYJmY2ihIvo0YdFANFA1NcIJj0HmqJYOfbB7wo4twH/wR0T8Z5Mw/kYEX1ER5pKDnFTXC4cdy80B3ZvTVBMKrapIHzS8BlX2bi4JZmEZ7T+xkEinTczorCJqt+jsVGex9403PtdklUgtNpQajIiWnK2mvt7a7MSFoRNhuR2VkppLDevUZ57Y/GCKQraER6IDuV65jXqZEO4kyC+TqcKzGOby8FYIO64Pi+2KM7IFyYpPEYJWy1kWQi2gqWxTHb5VJKr6mde8aJvYtX5KcNBNqeAk9skDJOZA65aH5qqyLKNHjxX7dmJkCGwYgsJ+rolxX4BOOAcEZtIg3bvgD8=;e5DQfNngZVUUAvqs4j0jhA=="
 ---

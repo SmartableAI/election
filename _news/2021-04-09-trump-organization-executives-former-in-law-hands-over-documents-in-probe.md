@@ -144,6 +144,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nikki Haley says she won’t run for president in 2024 if Trump does"
+    excerpt: "Nikki Haley, former US Ambassador to the United Nations and Governor of South Carolina, will not launch a White House bid if former President Trump chooses to run. Haley made the revelation while"
+    publishedDateTime: 2021-04-13T16:00:00Z
+    webUrl: "https://nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/"
+    ampWebUrl: "https://nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/haley-2024-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "a72GU9d1OJCA++k2TcW7malsJT2BAzHiRDdKPz2Isl0yBtHgOOfYcpm2VI9dTh3+vaWsaA5Nt+E3o9ftYJ8od4mrXjGhmyv6aZbpE4smav1VNG04OzmB8XbvqA1EdZbbbkrOBKcCJpeX7GKtt+VD2ci/IlLdbDkYErJc31Ocdc8rmh88LfzQLv+YizVXw5TE/8+8tT4A+URpV5GHUXzNkORgKF/RLQBWBWY9tx2UIxTbXWAZVi3wNl09vnP4ZYDpyVs3BltPhxePg+YoDoW04ecVyZ/L/bKHiPOXZNrGbafN2hryrWtoYb/nhAuvJ/+sFP3PgsYYOqfyQHE76VK39HS6XXaLI3r/io+GSY3kzQc=;jjpQUZF+Bj4W0wFuC6BeOA=="
 ---

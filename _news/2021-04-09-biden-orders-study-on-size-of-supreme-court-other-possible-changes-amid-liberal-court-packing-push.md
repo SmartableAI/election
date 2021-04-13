@@ -31,67 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
-    excerpt: "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'"
-    publishedDateTime: 2021-04-09T22:32:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUJMfA5OSYE/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+  - title: "Biden proposes summit with Putin in coming months "
+    excerpt: "President Biden on Tuesday proposed a summit with Russian President Vladimir Putin in the coming months, but suggested it take place in a third country – outside of the United States and Russia."
+    publishedDateTime: 2021-04-13T16:15:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoJitY6T5ik/biden-proposes-putin-summit-russia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Kennedy say 'wokers' want 'politicians in robes,' vows 'hell of a fight' if Biden tries to pack court"
-    excerpt: "Sen. John Kennedy, R-La., said Monday that there will be a 'hell of a fight' if President Biden caves to the 'wokers' who want to pack the Supreme Court. "
-    publishedDateTime: 2021-04-12T14:38:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2Wrmgkrk7A/wokers-politicians-fight-biden-pack-supreme-court-john-kennedy"
-    ampWebUrl: "https://www.foxnews.com/politics/wokers-politicians-fight-biden-pack-supreme-court-john-kennedy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wokers-politicians-fight-biden-pack-supreme-court-john-kennedy.amp"
+  - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
+    excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
+    publishedDateTime: 2021-04-08T00:02:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nrR8CImtW3w/biden-actions-gun-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-actions-gun-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-actions-gun-violence.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
-    excerpt: "Fox News contributor and The Hill opinion columnist Joe Concha argued on 'Fox & Friends' Sunday that President Biden's Supreme Court commission is \"all window dressing,\" saying members of the commission will likely come to a conclusion that sides with Biden."
-    publishedDateTime: 2021-04-11T16:40:00Z
-    webUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52572f02-94b6-45ee-8fe4-0071fa5b10ba/81856677-392f-4851-8704-576ba111c3fa/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b0d7af2-178c-4bf5-84b1-9f4b1eaeeb17/66054943-8e0f-4161-9adc-ee518e15b053/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
-    excerpt: "DNC general counsel. In the 2020 election, he helped Biden vet his vice presidential running mates, and then in the debate prep played Donald Trump in the debate prep for Joe Biden. So here we have a very touchy issue, should we or should we not expand the ..."
-    publishedDateTime: 2021-04-09T22:35:00Z
-    webUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+  - title: "Democrats, Biden push limits of infrastructure definition as fight over spending plan takes shape"
+    excerpt: "Democrats are pushing the limits of what can be defined as \"infrastructure\" as they aim to sell President Biden's $2 trillion-plus spending plan to the American people. "
+    publishedDateTime: 2021-04-07T16:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9uf2dICI7Qs/democrats-biden-push-limits-infrastructure-definition"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3898acf2-fc08-4a0d-b912-eff0dfbf077d/d3876187-a51c-4d18-96e6-b7d37a330fda/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "GOP senators want FBI to probe if Biden Pentagon nominee disclosed classified info after leaving Obama admin"
+    excerpt: "A group of Republican senators Tuesday asked FBI Director Christopher Wray to investigate one of President Biden's Pentagon nominees over whether he allegedly disclosed classified information on social media after leaving the Obama administration. "
+    publishedDateTime: 2021-04-13T12:53:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4YURWImzt0k/gop-senators-fbi-probe-biden-pentagon-nominee-classified-info"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Colin-Kahl-GETTY.jpg"
         width: 1280
         height: 720
         isCached: true

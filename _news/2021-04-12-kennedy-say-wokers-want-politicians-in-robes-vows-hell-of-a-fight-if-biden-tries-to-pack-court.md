@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden orders study on 'size' of Supreme Court, other possible changes amid liberal court-packing push"
-    excerpt: "President Biden will issue an executive order Friday to form a commission to study reforms to the United States Supreme Court.Biden, under pressure from liberals to expand the size of the high court, promised to create the commission during a \"60 Minutes\" interview back in October in the wake of Justice"
-    publishedDateTime: 2021-04-09T16:00:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bWINDkv33E4/biden-orders-study-size-supreme-court-liberal-court-packing-push"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
     excerpt: "Fox News contributor and The Hill opinion columnist Joe Concha argued on 'Fox & Friends' Sunday that President Biden's Supreme Court commission is \"all window dressing,\" saying members of the commission will likely come to a conclusion that sides with Biden."
     publishedDateTime: 2021-04-11T16:40:00Z

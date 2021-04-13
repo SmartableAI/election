@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Buttigieg defends Biden's $2T spending plan, despite just a fraction going to roads, bridges"
+    excerpt: "Transportation Secretary Pete Buttigieg on Thursday defended President Biden's sprawling economic spending measure, even though just a fraction of the $2 trillion being billed as an infrastructure package goes toward rebuilding the nation's crumbling roads and bridges."
+    publishedDateTime: 2021-04-01T15:05:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ji9t55U4sug/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges"
+    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Biden-Spending-Plan-Infrastructure-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Republican senators line up against Biden's massive $2.2T spending bill: 'Far cry away from' infrastructure"
     excerpt: "The opposition is coming even from moderates who attempted to work with Biden on the coronavirus stimulus plan."
     publishedDateTime: 2021-04-01T13:52:16Z

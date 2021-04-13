@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-25-gun-reform-laws-eluded-biden-in-2013-could-this-showdown-with-the-nra-be-different.md",
+      "title": "Gun reform laws eluded Biden in 2013. Could this showdown with the NRA be different?",
+      "excerpt": "Standing in the Rose Garden directly behind Obama and Barden was the man entrusted with driving gun reform on to the statute books: Joe Biden. After the slaying of the school kids, Obama had given Biden the job of coming up with a plan for substantial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c13b4fd277e71bfaf44b73baae812ab891f77e82/0_116_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c601ba2b364dcb041c08fe9627dd43a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/25/gun-reform-laws-joe-biden-nra-senate",
+      "publishedDateTime": "2021-03-25T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-duckworth-hirono-change-course-on-biden-nominees-after-assurances-on-aapi-representation.md",
+      "title": "Duckworth, Hirono change course on Biden nominees after assurances on AAPI representation",
+      "excerpt": "Sen. Tammy Duckworth, D-Ill., reversed course on vowing to object to President Joe Biden's nominees because of a lack of Asian American and Pacific Islander representation Tuesday evening after a spokesperson from her office said she had received ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_12/3459014/210323-tammy-duckworth-jm-1637_366fa55d715e08f098a8783e0973abeb.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261865",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261865",
+      "publishedDateTime": "2021-03-24T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-israel-election-results-may-push-benjamin-netanyahu-into-conflict-with-joe-biden.md",
       "title": "Israel Election Results May Push Benjamin Netanyahu Into Conflict With Joe Biden",
       "excerpt": "But with President Joe Biden in office, a further rightward pivot in Israel might pose a problem for Washington, D.C. Netanyahu and his allies have already earned the ire of American Democrats for human rights abuses of Palestinians in Israel, the ...",
@@ -1015,7 +1124,7 @@
       "originalUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1453,110 +1562,6 @@
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
       "publishedDateTime": "2021-03-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-white-house-says-biden-discussed-china-challenges-with-leaders-from-india-japan-australia.md",
-      "title": "White House says Biden discussed China challenges with leaders from India, Japan, Australia",
-      "excerpt": "U.S. President Joe Biden discussed challenges posed by China with leaders from India, Japan and Australia in a meeting on Friday, White House national security adviser Jake Sullivan said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-asia-diplomacy-idUSKBN2B42C4",
-      "originalUrl": "https://www.reuters.com/article/us-usa-asia-diplomacy-idUSKBN2B42C4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554718026&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B1DK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B42C4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42C4",
-      "publishedDateTime": "2021-03-12T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-biden-aims-for-quicker-shots-independence-from-this-virus.md",
-      "title": "Biden aims for quicker shots, 'independence from this virus'",
-      "excerpt": "Biden aims for quicker shots, 'independence from this virus' In a prime-time address, President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_bee013e7b6c546c9bb315f11a64481ed_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "publishedDateTime": "2021-03-11T21:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABCNews",

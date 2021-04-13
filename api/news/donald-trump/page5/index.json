@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-18-no-question-trump-worsened-anti-asian-sentiment-wh.md",
+      "title": "'No question' Trump worsened anti-Asian sentiment: WH",
+      "excerpt": "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
+      "originalUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H8HR3&r=OVE4H8HR3&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T15:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-china-plans-to-ask-us-to-roll-back-trump-policies-in-alaska-meeting.md",
       "title": "China Plans to Ask U.S. to Roll Back Trump Policies in Alaska Meeting",
       "excerpt": "Photo: Adam Chapman for The Wall Street Journal Beijing plans to press Washington to reverse many of the policies targeting China introduced during the Trump presidency in the first face-to-face meeting of senior U.S. and China officials since President ...",
@@ -1525,58 +1577,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-the-daily-202-missing-from-the-american-rescue-package-debate-donald-trump.md",
-      "title": "The Daily 202: Missing from the “American Rescue Package” debate? Donald Trump.",
-      "excerpt": "Welcome to The Daily 202 newsletter! Today, we look at f Donald Trump's absence from the fight over President Biden's massive rescue package. But don’t miss the latest on commemorations of one year since the pandemic began,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M7TQR4A2XNCMLCF4HPOVLW24CE.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/?outputType=amp",
-      "publishedDateTime": "2021-03-11T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

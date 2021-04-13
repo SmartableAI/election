@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
 type: article
 quality: 170
-heat: 250
+heat: 230
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden orders study on 'size' of Supreme Court, other possible changes amid liberal court-packing push"
-    excerpt: "President Biden will issue an executive order Friday to form a commission to study reforms to the United States Supreme Court.Biden, under pressure from liberals to expand the size of the high court, promised to create the commission during a \"60 Minutes\" interview back in October in the wake of Justice"
-    publishedDateTime: 2021-04-09T16:00:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bWINDkv33E4/biden-orders-study-size-supreme-court-liberal-court-packing-push"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Kennedy say 'wokers' want 'politicians in robes,' vows 'hell of a fight' if Biden tries to pack court"
     excerpt: "Sen. John Kennedy, R-La., said Monday that there will be a 'hell of a fight' if President Biden caves to the 'wokers' who want to pack the Supreme Court. "
     publishedDateTime: 2021-04-12T14:38:36Z

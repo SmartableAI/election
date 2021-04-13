@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presse
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Biden to withdraw all U.S. troops from Afghanistan by Sept. 11"
+    excerpt: "President Joe Biden plans to withdraw all U.S. troops from Afghanistan by Sept. 11, 2021, missing the May 1 deadline he inherited from the Trump administration, according to two congressional aides and a senior administration official briefed on the plans."
+    publishedDateTime: 2021-04-13T17:29:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/biden-withdraws-us-troops-afghanistan-481133"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1b/c8/65f10172485caa58b98542b808f7/210413-afghanistan-troops-return-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "IXB/tETTkQl8DvfX221CEsGxEvarFYAkEC+h/icRuydzwajPnRAXd5sP0fl4TGHhc4Gsdpqw8Y8+ZC544ENUXxoU+SIJlZge13Y3kFZBFqT6R3K4WP/IlrtszGMRF+MLybIk3ZBCDsCaFadbL52O0pAkG2EinUqb4wdPwi7Tah1uKkdTIeth5uKk1ro9U/HVJDPp1KuhTxJZSakHGqcCyBEy47w+jhM0BzlI7YGMFBZ0cgLFjoTR8mJ/CtJgsi2AqM0QUbYm+8s92RAbZu8kSx/ITff4mYKacG+S/31e4My2dQpKU24xP4Y4sGSs+4jekt9jPmAeoVlgEfGthP+hFvl416gumIMod0gLxpoQeQA=;Mxg/TGb6G0TAPXu3Z2EeUQ=="

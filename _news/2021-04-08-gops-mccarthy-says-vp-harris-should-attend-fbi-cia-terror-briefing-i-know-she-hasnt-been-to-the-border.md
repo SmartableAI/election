@@ -48,6 +48,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP lawmakers urge VP Harris to visit border ASAP: ‘We invite you to make the journey’"
+    excerpt: "Rep. Chuck Fleischmann, R-Tenn., and six other GOP lawmakers are urging Vice President Kamala Harris to visit the U.S.-Mexico border as soon as possible."
+    publishedDateTime: 2021-04-13T16:19:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DqcGJQc3GA/gop-lawmakers-vp-harris-visit-border"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Chuck-Fleischmann-Kamala-Harris.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Or4gmA3zMnRuKlb+LzJyAyC52GuZZGMny6S4x3BfU3Lk4ACTaF/Uh1UIhRBsT32J89VwnySgcOYdzrLRSMRUBbtD1h5SGmu7mLx0bzqtYNNfN8GZxApFTickyfpfDThToY9UjquIVQA3boO0EDipDbW8XF3StaYFS09fV70zWhpGNYOeSgk2x8CobqnqJuS6Oj7NPex012lhxqoIQvvvJ6BwtikZdBELZX+7UZf/6YX6Ysbio62o+TOnBdXolLdGAA5NWB/DT+ujUYVGY6B99L25uwkRY6s7ENNiw5pORO0wq4ttflelRwhhmgOw5vksnKq8f9tugzUcQB6dM5UkpSqyLsvWwe0Ht6pTddIK8Dc=;773VNwZjpvQay+Vq9/AEOQ=="
 ---

@@ -686,7 +686,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -931,6 +931,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.md",
+      "title": "Mark Steyn pushes back on Biden's 'gun grab' by executive order",
+      "excerpt": "In practical terms, the measures include: restrictions on pistol stabilizing braces, which Joe Biden claims allow hand-guns to be used as high-accuracy low-recoil rifles and yet with easy concealability of a pistol. A new rule closing yet another supposed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
+      "originalUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a73d4e9-e32b-4f78-b01c-7836d4c075f1/1f2816d7-152b-46e5-bcfc-50912e6eb51e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
+      "publishedDateTime": "2021-04-08T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -1511,58 +1568,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-official-biden-moving-vaccine-eligibility-date-to-april-19.md",
-      "title": "Official: Biden moving vaccine eligibility date to April 19",
-      "excerpt": "President Joe Biden is set to announce that he's shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines WASHINGTON -- President Joe Biden ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_8f3ad97807e84cd5bc8723834d33143e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "publishedDateTime": "2021-04-06T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

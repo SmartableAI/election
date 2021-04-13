@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Buttigieg defends Biden's $2T spending plan, despite just a fraction going to roads, bridges"
+    excerpt: "Transportation Secretary Pete Buttigieg on Thursday defended President Biden's sprawling economic spending measure, even though just a fraction of the $2 trillion being billed as an infrastructure package goes toward rebuilding the nation's crumbling roads and bridges."
+    publishedDateTime: 2021-04-01T15:05:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ji9t55U4sug/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges"
+    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Biden-Spending-Plan-Infrastructure-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "UScXMpvwlmqug6YGEmfNZISPl6Tb5ei1U3VWpGgoZsZ5xHmNijkgKS/rmezWtM5pWZ6Yc2YevLmuKQ4DPAyZyhnloizev0xHjMV7uViiJR1PWIUxTcYMv536guOFqxOzO62KZ6c3oNnGNDr81Y71YJrdgJkB63gEZrHuIrKprS3xSfXdbcVQAdWd/CPUQDorEx/Yd3r1LBhA8w8/DCmiEtOtaQWkunUpKsUpGPZ6QX/Zf4RXg2mglETHDLvJ1owFdCLu/1reinrg5/3TRJ2PNsXL7K/hjezrsyNgJrJNYmDWfhQGYe6ckTny0GwgyK23Xcr8k3W5nXv/URcHYTqbYXileyBA22rl/7891NZK+AE=;FJRZQVlvXOOK+2LSVQL9oQ=="
 ---

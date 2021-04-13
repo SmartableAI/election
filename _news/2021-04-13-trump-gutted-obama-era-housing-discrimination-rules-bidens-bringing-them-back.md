@@ -207,6 +207,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "President Biden to withdraw all U.S. troops from Afghanistan by Sept. 11, extending Trump's May 1 deadline"
+    excerpt: "The move will extend military presence in Afghanistan beyond the May 1 withdrawal date previously negotiated by former President Donald Trump. Biden sees \"no military solution\" for the problems in Afghanistan, a senior administration official said."
+    publishedDateTime: 2021-04-13T16:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/13/biden-withdraw-us-troops-afghanistan-sept-11-not-may-1/7205023002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7205023002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7205023002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/0d250ba2-3f8f-44f6-bc77-b144de56e558-AP21046456203732.jpg?auto=webp&crop=2819,1586,x0,y143&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Parkland Students Want More Done on Gun Violence After Biden's Executive Order"
     excerpt: "Parkland students are calling on President Joe Biden to sign even more executive orders targeting gun violence as he is set to take action in response to the recent wave of deadly mass shootings across the nation. In a statement released Thursday ..."
     publishedDateTime: 2021-04-08T16:53:00Z
@@ -318,6 +334,6 @@ related:
         height: 433
         isCached: true
 
-secured: "EC/uOpeKbnJk5Pkj1YYeik+7vhm6g8jm/9KQ5WVj7RqUPItE/zk6RhW8RU0gi2Ve/XagxQTfdLbcmIOKsdyb4lODYHp+blDBSe41B4qGHdo2MMVBgPJz+qRtofK6Cnjs0NW0pP+agtIeNH34INu4jiOOdN72S6EzvFPCXOLghMyUYNZn8aDCS6vgkXf9K/P3YUoAv6Bl5+h5OURvnsYdHlxP9g+5PWkYfh9YD2EWXnbiqintVbSePOxQM87dmzXqNYrybMqnk7jLULM6ogZ00ZqLgwmKWbnP4aZO7BGPCrCm+A+nqMYQxiKo0B/XAvYVdKcwJlH2uq/LDNWdt0A1PbazHr9UmgumJCRXHqik8Jg=;dFWvzIcGQBZUKTp0mf3HoQ=="
+secured: "mHKEvGXOJ/ymGyRtANu+LvxPVeBfd7fthHGrIU9s5qOb2wteftRtqD0layJkQk77WXyHk/Eyv/EBITDyNpAL/MfojOsU+yrHOmWtOJwEMfEfWQWWbdJ/O4DDhErStN28R7wY4GIURcALAbvLLznFKeRb2AE8hp/ySrlbd4CShyuGIzPXHGxCbe2E41y3ZonkOmTAaClfGG1C+njh1wmo87y6Bo+foaAYYWHSRmNnxv+hbo4VWlTbV8r/H2fZ2ZBSRZTSAovtJxQ6h59e5BHmnjt6RuER7m9rzJHZLU3L9BV2J83hvtR0gTpRkqnTw2kzGoULPRwc6TNtxqwaX/L3+m4OeP7SF44yX8V1XngPOlbzJ6Wm9N4HTHh7y6ZSXM1/G2brmwChZ8Y4ha8KhAeHchVfxwokTnZyOirauUE8RhOKpGmdj6q/YrLj9BY+YlYqNGfMR7EIdOJNvx8736/FxKFfepGlTZLfGRMAXOFT8TGls5I3DduUqhzRsX1+VgvmCpG8WqS0UEUpb9j3sOR2oA==;U8gvP2CVy6rseMHF4lHbOg=="
 ---
 
