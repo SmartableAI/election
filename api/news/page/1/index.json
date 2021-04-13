@@ -59,6 +59,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-13-president-joe-biden-to-nominate-christine-wormuth-as-first-woman-secretary-of-the-army.md",
+      "title": "President Joe Biden to nominate Christine Wormuth as first woman secretary of the Army",
+      "excerpt": "WASHINGTON — A woman may serve as secretary of the Army in the Department of Defense for the first time. President Joe Biden will tap Christine Wormuth, a former adviser for the Defense Department during former President Barack Obama's terms in office ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/13/USAT/217f9850-162d-403f-818d-bd378662f75a-GettyImages-465166476.jpg?auto=webp&crop=6015,3383,x0,y238&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7196062002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7196062002",
+      "publishedDateTime": "2021-04-12T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-nikki-haley-says-shell-support-and-not-challenge-trump-if-he-runs-in-2024.md",
       "title": "Nikki Haley says she'll support and not challenge Trump if he runs in 2024",
       "excerpt": "Former UN Ambassador Nikki Haley on Monday said she would back her onetime boss, former President Donald Trump, if he decides to run for the Republican Party's presidential nomination again in 2024 and not mount a bid against him.\n    \n",
@@ -620,7 +672,7 @@
       "originalUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -784,7 +836,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 705,
+      "heat": 725,
       "tags": null,
       "images": [
         {
@@ -1311,58 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are-unhelpful.md",
-      "title": "Arkansas governor says 'divisive' Trump attacks on GOP officials are 'unhelpful'",
-      "excerpt": "on Sunday said he was concerned about the divisions in the GOP and criticized former President Trump Donald Trump Harry Reid reacts to Boehner book excerpt: 'We didn't mince words' Man arrested ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are",
-      "originalUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/hutchinsonasa_getty_03252021.jpg",
-          "width": 788,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are?amp",
-      "publishedDateTime": "2021-04-11T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

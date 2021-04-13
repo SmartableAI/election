@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-st
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/2dbb7d85-9ece-4fbf-88c2-c7acdd6a1bd1-AP_Trump.jpg?auto=webp&crop=2702,1520,x0,y1460&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Melania Trump Stuns In $2K White Dress In Rare Post-White House Appearance"
+    excerpt: "Melania Trump looked gorgeous in her white gown when she accompanied her husband, former President Donald Trump, at an event for the Republican National Committee donors."
+    publishedDateTime: 2021-04-13T05:42:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
     excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."

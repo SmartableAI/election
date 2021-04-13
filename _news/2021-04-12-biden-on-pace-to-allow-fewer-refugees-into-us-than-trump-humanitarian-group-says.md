@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-refugees-admitted-trump-compa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-refugees-admitted-trump-comparison-humanitarian-group.amp"
 type: article
 quality: 185
-heat: 705
+heat: 725
 published: true
 
 provider:
@@ -376,6 +376,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21098586391020.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rhetorical ruse? Biden tries to change the meaning of bipartisanship"
+    excerpt: "Joe Biden, who campaigned as the man who reaches across the aisle, is poised to push through his second multi-trillion-dollar measure with no Republican votes. But not to worry. The Biden word wizards have found a way to move the rhetorical goalposts."
+    publishedDateTime: 2021-04-13T07:12:00Z
+    webUrl: "https://www.foxnews.com/media/rhetorical-ruse-biden-tries-to-change-the-meaning-of-bipartisanship"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Joe-Biden.png"
+        width: 1024
+        height: 576
         isCached: true
   - title: "States Fight Back Against Biden War on the West"
     excerpt: "This brings us to President Joe Biden. No president in modern times, perhaps ever, has shown such contempt for our system of federalism. So I was thrilled to see this headline from, of all places, Alaska: \"Dunleavy Tells Feds Alaska Is Taking Over ..."

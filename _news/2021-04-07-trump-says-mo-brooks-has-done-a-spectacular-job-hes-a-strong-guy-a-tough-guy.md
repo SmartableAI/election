@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Melania Trump Stuns In $2K White Dress In Rare Post-White House Appearance"
+    excerpt: "Melania Trump looked gorgeous in her white gown when she accompanied her husband, former President Donald Trump, at an event for the Republican National Committee donors."
+    publishedDateTime: 2021-04-13T05:42:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "vfTmASYaM0YNySglLZjykEHFjMIrrswxLB3d3M/8s3rEsyu/laS2xYBiIWNwY36I9QHjGBVaXsjonRyebhrFNQ9h3oisX9+cXByXVZhuCkJRsQitIlTdNrOX1uyX7EzbHsk6/URcVCiNJoz385zyrFFHDDRa5OvUSPlAhA0r673KA74JOHpDnu/ln2a3HSF8sjmeayFCdM/DhC5mcvj7vQODYiYxMt2R7YdIiLM+ynOZHwP3P8ONiR7FB6piks+Ojdcj2H9+jAz3LAJ+PCO1BSgbcqFsPV/mJovDeS0wvqFNHykO4dp7u647Qhuu1Ghe4pb5DykwchAqCSoOdwdPEZ0Uj3KDvafWo3VBMGeokfXvNwO3M+63VbeAEg7vtZLE44MelRDeiDPCIinS4OGooQCwVvopgj8ghJVYpPvIgoFAW4xuIDJgGtk5wf1xuVN2SA8kWbJ4s1vlI6G/rYbn/oWkmLjkH+e4dA0X+a/iY1Jvbk42tz3scohZaUabCYgkKCUsr1suGznxudSMk++xgQ==;UmMncab2AKuG4kKKesE4CA=="
 ---

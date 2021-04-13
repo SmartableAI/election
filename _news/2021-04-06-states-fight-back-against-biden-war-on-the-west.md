@@ -390,6 +390,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rhetorical ruse? Biden tries to change the meaning of bipartisanship"
+    excerpt: "Joe Biden, who campaigned as the man who reaches across the aisle, is poised to push through his second multi-trillion-dollar measure with no Republican votes. But not to worry. The Biden word wizards have found a way to move the rhetorical goalposts."
+    publishedDateTime: 2021-04-13T07:12:00Z
+    webUrl: "https://www.foxnews.com/media/rhetorical-ruse-biden-tries-to-change-the-meaning-of-bipartisanship"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Joe-Biden.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "If It Ain't Broke, Joe Biden Will Break It"
     excerpt: "The sage advice that If it ain't broke, don't fix it is older than Joe Biden, but apparently he never heard of it. Or doesn't think much of it. The president is on a tear, as in tearing up"
     publishedDateTime: 2021-04-11T11:26:00Z

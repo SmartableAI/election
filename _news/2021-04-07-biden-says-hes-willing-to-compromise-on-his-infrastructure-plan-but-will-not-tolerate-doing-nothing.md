@@ -315,6 +315,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Why Biden is making more progress on economic than social issues"
+    excerpt: "(CNN)The magnitude of the economic proposals that President Joe Biden may pass through Congress this year is drawing legitimate comparisons to Franklin D. Roosevelt's New Deal and Lyndon B. Johnson's Great Society. But Biden simultaneously faces the ..."
+    publishedDateTime: 2021-04-13T04:26:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/biden-economic-social-policies-congress/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-economic-social-policies-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-economic-social-policies-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408122600-joe-biden-april-8-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Watch Live: Biden Speaks on Infrastructure Plan"
     excerpt: "new video loaded: Watch Live: Biden Speaks on Infrastructure Plan President Biden delivers remarks on his $2 trillion American Jobs Plan, which aims to overhaul the nation’s infrastructure. Advertisement NOW PLAYING 1:36 1:38 Advertisement 0:57 1:33 ..."
     publishedDateTime: 2021-04-07T17:17:00Z
