@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-gun-control-atf-david-chipman
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f71b38a7-f911-413d-9ce9-8360f122c0ef/b9d50c62-2ac2-4472-ad2e-e18d1d465e88/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Conservative group AFP targets 26 Democrats over Biden COVID relief law vote"
+    excerpt: "Americans for Prosperity, the powerful conservative and libertarian political advocacy group, is launching the next phase of its seven-figure effort to spotlight what it considers the \"harmful provisions\" in President Biden's massive $1.9 trillion COVID relief package."
+    publishedDateTime: 2021-04-13T14:53:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/amoulAZiztc/afp-covid-relief-act-democrats-targeted"
+    ampWebUrl: "https://www.foxnews.com/politics/afp-covid-relief-act-democrats-targeted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afp-covid-relief-act-democrats-targeted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden gun control moves spark backlash from state attorneys general"
     excerpt: "State attorneys general are signaling that they may take legal action against President Biden's new gun-control policies announced Thursday. The president on Thursday announced a new set of executive actions and legislative proposals aimed at strengthening ..."

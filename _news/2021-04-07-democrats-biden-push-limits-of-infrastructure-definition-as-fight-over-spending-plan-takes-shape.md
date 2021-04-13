@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kennedy blasts Biden's massive spending plans: Moving toward the 'China model of capitalism'"
-    excerpt: "Republican Louisiana Sen. John Kennedy told \"America's Newsroom\" on Thursday that the Biden administration's infrastructure plan is a \"bold-neo socialist experiment\" that is similar to the \"Chinese model of capitalism.\""
-    publishedDateTime: 2021-04-01T16:58:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rTcl9v4xcFs/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure"
-    ampWebUrl: "https://www.foxnews.com/politics/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure.amp"
+  - title: "Boehner on 'Fox & Friends': Biden infrastructure bill a 'new word for the Green New Deal'"
+    excerpt: "Former House Speaker John Boehner calls President Biden's infrastructure plan a 'new word for the Green New Deal' on 'Fox & Friends.'"
+    publishedDateTime: 2021-04-13T14:56:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H60vXvNBMUw/john-boehner-biden-infrastructure-bill-fox-friends"
+    ampWebUrl: "https://www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab1bf457-1339-4a5f-8fb3-a11d1dae0812/872588d7-6f3d-4545-bcb4-715442d38b78/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "6reKwBxF5z1AnOnmjKsAvizLbyOpa7q3akDaQ2TEruQ8wvYBKpUmV+UL0B2GKMT80dhPF4uxQdIRnj+vXRhV5xnk59887UtzSBirIK/nHs5K3b07t232AZOk8eQOylOXbDu5FHWHSm2egNbKMcXoPiFFv+/PGY2hw3wbWteefvgEDPtjCYaXVFzj1syS8QgrcHQ3F+kixqUGwLoTCVcKjSSa71pTdBvNR16c1XYwhxmaRZlpJbUdihHEuujgZdcWVVTIh3CKTnfaGXbxYgXeW+HNslXHMG+cH305VnQ9IOamLe0FSK/FuaU6rWYxwpkS2fVOd194brjP2F5ZWKcBJf0cyf0uVgDlaK/rIk+IyBE=;DI/EBVXd6MBHZUztbofBoQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 133
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump rips CNN over Gaetz report, says they ‘probably made the whole thing up’"
+    excerpt: "Former President Donald Trump blasted CNN for its report that claimed he refused to meet with GOP Rep. Matt Gaetz, who is facing allegations of sexual misconduct, saying the cable news network"
+    publishedDateTime: 2021-04-13T15:03:00Z
+    webUrl: "https://nypost.com/2021/04/13/trump-blasts-cnn-over-report-on-matt-gaetz-meeting/"
+    ampWebUrl: "https://nypost.com/2021/04/13/trump-blasts-cnn-over-report-on-matt-gaetz-meeting/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/trump-blasts-cnn-over-report-on-matt-gaetz-meeting/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/cnn-trump-gaetz-hp2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

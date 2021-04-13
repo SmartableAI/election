@@ -34,7 +34,7 @@ related:
   - title: "Biden To Congress On Infrastructure: \"I'm Prepared To Negotiate\""
     excerpt: "President Joe Biden said he is “prepared to negotiate” the size of his infrastructure plan and how to pay for it during a meeting with a bipartisan group of lawmakers on Monday. \"I’m prepared to negotiate as to the extent of my infrastructure project ..."
     publishedDateTime: 2021-04-13T12:52:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html#!"
     type: article
     provider:
       name: RealClearPolitics

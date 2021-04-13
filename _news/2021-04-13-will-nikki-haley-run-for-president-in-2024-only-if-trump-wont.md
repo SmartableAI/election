@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "John Boehner reveals he voted for Trump despite attacking him for spreading lies about the election"
+    excerpt: "He counts former President Donald Trump as a leader and product of that \"chaos.\" But the former Ohio lawmaker revealed this week that, despite all that, he cast his 2020 ballot for Trump. \"Donald Trump is a product of the chaos we've seen in our political ..."
+    publishedDateTime: 2021-04-13T14:16:00Z
+    webUrl: "https://www.businessinsider.com/john-boehner-reveals-he-voted-for-trump-despite-trashing-him-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/john-boehner-reveals-he-voted-for-trump-despite-trashing-him-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-boehner-reveals-he-voted-for-trump-despite-trashing-him-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/60759cd72cc1ef0018da166e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "MLB Boycott Calls Grow After Donald Trump Hits Out Over All-Star Game"
     excerpt: "An effort to boycott Major League Baseball (MLB) has gained some traction on social media after former President Donald Trump urged people to punish MLB for its decision to move its All-Star Game out of Georgia. The move was in response to the state's new ..."
     publishedDateTime: 2021-04-03T07:51:00Z
@@ -1304,6 +1320,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/3cd/0ae/c75dc60dd2855a2d0ef71828d69ed0132a-nikki-haley.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Pro-Trump banker joins GOP field for US Senate race in Ohio"
+    excerpt: "He stepped down Feb. 11 as chairman of Ohio Strong Action, a conservative group that supports former President Donald Trump. He joins a field filled so far with supporters of Trump, who twice carried Ohio. Gibbons has said he will donate $5 million of his ..."
+    publishedDateTime: 2021-04-13T14:03:00Z
+    webUrl: "https://www.chron.com/news/article/Pro-Trump-banker-joins-GOP-field-for-US-Senate-16097012.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pro-Trump-banker-joins-GOP-field-for-US-Senate-16097012.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pro-Trump-banker-joins-GOP-field-for-US-Senate-16097012.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."

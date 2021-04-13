@@ -32,35 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on US meeting looming Afghanistan withdrawal deadline: 'Could happen, but it is tough'"
-    excerpt: "President Joe Biden said he is still making a decision on withdrawing all US troops from Afghanistan ahead of a May 1 deadline set by former President Donald Trump, saying it \"could happen, but it is tough.\"\n    \n"
-    publishedDateTime: 2021-03-17T16:26:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5sx3b6FoPt8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-afghanistan-withdrawal-deadline/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-afghanistan-withdrawal-deadline/index.html"
+  - title: "Biden to announce withdrawal of US troops from Afghanistan by September 11"
+    excerpt: "President Joe Biden plans to announce Tuesday a withdrawal of US troops from Afghanistan by the upcoming twentieth anniversary of the September 11 terrorist attacks, according to two people familiar with the plans.\n    \n"
+    publishedDateTime: 2021-04-13T15:53:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/53X7i32etGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-afghanistan-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-afghanistan-withdrawal/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315162658-biden-0315-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408123830-joe-biden-0407-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden running out of time to make decision on future of US mission in Afghanistan as situation worsens"
-    excerpt: "With 50 days until the United States is supposed to complete a total withdrawal of troops and personnel from Afghanistan -- a move that a Pentagon report stated could be devastating to \"the survival of the Afghan state as we know it\" -- the Biden administration is running out of time to decide on a way"
-    publishedDateTime: 2021-03-12T11:51:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qzepI1jOyXg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html"
+  - title: "Biden to nominate Robin Carnahan as administrator of General Services Administration"
+    excerpt: "President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed transition to the presidency.\n    \n"
+    publishedDateTime: 2021-04-06T21:51:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_wbbYPHnvg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190709162539-07-afghanistan-analysis-file-us-troops-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to nominate Robin Carnahan as administrator of General Services Administration"
+    excerpt: "(CNN)President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed ..."
+    publishedDateTime: 2021-04-06T21:51:00Z
+    webUrl: "https://www.cnn.com/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

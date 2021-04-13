@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Conservative group AFP targets 26 Democrats over Biden COVID relief law vote"
+    excerpt: "Americans for Prosperity, the powerful conservative and libertarian political advocacy group, is launching the next phase of its seven-figure effort to spotlight what it considers the \"harmful provisions\" in President Biden's massive $1.9 trillion COVID relief package."
+    publishedDateTime: 2021-04-13T14:53:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/amoulAZiztc/afp-covid-relief-act-democrats-targeted"
+    ampWebUrl: "https://www.foxnews.com/politics/afp-covid-relief-act-democrats-targeted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afp-covid-relief-act-democrats-targeted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden gun control moves spark backlash from state attorneys general"
     excerpt: "State attorneys general are signaling that they may take legal action against President Biden's new gun-control policies announced Thursday. The president on Thursday announced a new set of executive actions and legislative proposals aimed at strengthening ..."
     publishedDateTime: 2021-04-09T21:20:00Z

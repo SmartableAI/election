@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Donald Trump Calls CNN Report of Refusing Meeting With Matt Gaetz 'Completely False'"
+    excerpt: "Former President Donald Trump has said that a CNN news report claiming that he had refused to meet with Republican Florida Representative Matt Gaetz was \"completely false.\" \"Fake News CNN, relying on all anonymous sources, meaning they probably made the ..."
+    publishedDateTime: 2021-04-13T02:02:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1776700/donald-trump-cnn-gaetz-meeting-fake-news.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."

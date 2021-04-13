@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Conservative group AFP targets 26 Democrats over Biden COVID relief law vote"
+    excerpt: "Americans for Prosperity, the powerful conservative and libertarian political advocacy group, is launching the next phase of its seven-figure effort to spotlight what it considers the \"harmful provisions\" in President Biden's massive $1.9 trillion COVID relief package."
+    publishedDateTime: 2021-04-13T14:53:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/amoulAZiztc/afp-covid-relief-act-democrats-targeted"
+    ampWebUrl: "https://www.foxnews.com/politics/afp-covid-relief-act-democrats-targeted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afp-covid-relief-act-democrats-targeted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "mq3wVHi4aSRi8doHtCmlZVQeW015s9h0q/pB7QeLi39+852lVB8fzy2ZdvgpBX4sJYeg0lFrP2bvRkCX/62vpZ3nsN5zYIV5bETVW5zfQy+pnKtQuQCvgCelAR0i/HyPQ6kV1rt3W7enEjHf1AOXvgsdUjH88etZM6jZ3qlZK+AkenPk59LFbIAtoeRFHJizwSg01lChB3hHbRD8uC9jJHRmYphEl8YtEKXs2Z3iaJ9mqogJGOiGiCl3Xv4udImI9SqYwY/Y3fcD1tnrnxadCI+f/gmTVbFKa9SS9lzcARB2H32HfmEVBJotaxcBzUGRU/dbh1nDN9hmZPkTm3ocuI/GuCuhH5PQa0TxGdq9ZPQ=;zRIsvN/SIFtOPcoDILR0AQ=="
 ---

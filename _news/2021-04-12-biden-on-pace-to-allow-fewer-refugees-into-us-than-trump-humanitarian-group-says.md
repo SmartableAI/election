@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-refugees-admitted-trump-compa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-refugees-admitted-trump-comparison-humanitarian-group.amp"
 type: article
 quality: 185
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden pick to lead CBP reportedly balked at Trump immigration policies"
+    excerpt: "President Biden’s nominee to head up Customs and Border Protection has backed Black Lives Matter, defended sanctuary cities and pushed back at Trump administration orders to round up and"
+    publishedDateTime: 2021-04-13T14:03:00Z
+    webUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/"
+    ampWebUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/chris-magnus.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Former Trump aide Stephen Miller launches group targeting Biden’s policies"
     excerpt: "Former President Donald Trump’s senior aide Stephen Miller has launched a new organization that aims to challenge the Biden administration’s policies in courts."

@@ -2,6 +2,322 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-24-israel-election-results-may-push-benjamin-netanyahu-into-conflict-with-joe-biden.md",
+      "title": "Israel Election Results May Push Benjamin Netanyahu Into Conflict With Joe Biden",
+      "excerpt": "But with President Joe Biden in office, a further rightward pivot in Israel might pose a problem for Washington, D.C. Netanyahu and his allies have already earned the ire of American Democrats for human rights abuses of Palestinians in Israel, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
+      "originalUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1762761/netanyahu-addresses-likud-supporters-after-election-2021.jpg",
+          "width": 3738,
+          "height": 2409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/israel-election-results-push-benjamin-netanyahu-conflict-joe-biden-1578319?amp=1",
+      "publishedDateTime": "2021-03-24T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-trumps-wealthiest-cabinet-member-made-225m-in-outside-income-report.md",
+      "title": "Trump's Wealthiest Cabinet Member Made $225M In 'Outside Income': Report",
+      "excerpt": "Betsy DeVos made at least $225 million in outside income as Trump's education secretary She earned $75 million from Alticor, Amway's parent company She also owned stakes in Neurocore, a brain performance company targeting children Former Secretary of Education Betsy DeVos earned nine figures in outside income during her tenure as a Cabinet member in the Trump administration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
+      "originalUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/27/betsy-devos-special-olympics.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
+      "publishedDateTime": "2021-03-23T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-biden-says-100-million-relief-checks-to-be-distributed-by-wednesday.md",
+      "title": "Biden says 100 million relief checks to be distributed by Wednesday",
+      "excerpt": "The Biden administration will have distributed 100 million relief checks by Wednesday as part of a $1.9 trillion coronavirus stimulus package, President Joe Biden said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555951880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1N6",
+          "width": 737,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
+      "publishedDateTime": "2021-03-23T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-bernie-sanders-not-comfortable-with-trump-twitter-ban.md",
+      "title": "Bernie Sanders not ‘comfortable’ with Trump Twitter ban",
+      "excerpt": "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/",
+      "originalUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/sanders-on-trump-twitter-ban-882.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/",
+      "publishedDateTime": "2021-03-23T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-gop-colorado-rep-boebert-accuses-biden-of-politicizing-boulder-shooting.md",
+      "title": "GOP Colorado Rep. Boebert accuses Biden of 'politicizing' Boulder shooting",
+      "excerpt": "Rep. Lauren Boebert, R-Colo., accused President Biden on Tuesday of “politicizing” the mass shooting at a Boulder, Colorado grocery store that left 10 people dead after he called for a nationwide ban on assault weapons.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iey3Q1m3slk/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iey3Q1m3slk/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6211072-992a-4ecc-8a90-aec4ee25b5ba/70143626-86b7-45ff-aef5-2783f9b0a8ee/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-colorado-rep-boebert-accuses-biden-politicizing-boulder-shooting.amp",
+      "publishedDateTime": "2021-03-23T17:33:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-senate-republicans-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.md",
+      "title": "Senate Republicans demand second hearing for Biden DOJ pick Gupta after 'misleading' comments’",
+      "excerpt": "Republicans on the Senate Judiciary Committee have called for President Biden’s pick for associate attorney general, Vanita Gupta, to return for a second round of hearings to answer for \"misleading statements.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gt82kthzyoM/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gt82kthzyoM/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f951585d-1e2c-4820-b736-c3d5188c7fff/9c37fc46-b54b-4522-a271-887cac9b5adf/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-gop-demand-second-hearing-for-biden-doj-pick-gupta-after-misleading-comments.amp",
+      "publishedDateTime": "2021-03-23T16:17:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-kayleigh-mcenany-blasts-biden-administration-for-unprecedented-lack-of-media-access-to-border.md",
       "title": "Kayleigh McEnany blasts Biden administration for 'unprecedented' lack of media access to border",
       "excerpt": "Former White House press secretary Kayleigh McEnany slammed the Biden administration Tuesday for what she described as an \"unprecedented\" lack of media access to the border.",
@@ -1019,314 +1335,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-house-republicans-who-backed-trump-impeachment-warn-dems-on-iowa-election-challenge.md",
-      "title": "House Republicans who backed Trump impeachment warn Dems on Iowa election challenge",
-      "excerpt": "A group of nine House Republicans that voted to impeach former President Trump has signed a letter to Speaker Nancy Pelosi (D-Calif.) warning her against pursuing an investigation into the Iowa electi",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa",
-      "originalUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/miller-meeksmarianette_hartrita_031921gn-courtesy-rita-hart-camp_iowa.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/544341-house-republicans-who-supported-trump-impeachment-warn-democrats-on-iowa?amp",
-      "publishedDateTime": "2021-03-22T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-backs-gop-congressmans-bid-against-georgia-secretary-of-state-brad-raffensperger.md",
-      "title": "Trump backs GOP congressman's bid against Georgia Secretary of State Brad Raffensperger",
-      "excerpt": "Former President Donald Trump on Monday backed a Georgia's congressman's primary challenge against embattled Secretary of State Brad Raffensperger.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/hice-cpac-gty-ps-210322_1616428630849_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-backs-gop-congressmans-bid-georgia-secretary-state/story?id=76607726",
-      "publishedDateTime": "2021-03-22T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-didnt-include-mike-pence-in-his-list-of-very-good-republicans-and-possible-2024-presidential-candidates.md",
-      "title": "Trump didn't include Mike Pence in his list of 'very good' Republicans and possible 2024 presidential candidates",
-      "excerpt": "During the interview, Trump also repeated his false claims that Pence could have rejected certain states' Electoral College votes during the Jan. 6 joint session of Congress. \"It's too bad Mike Pence didn't go back, because you would have had a much ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "originalUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6058bad6138e680019ad92eb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "publishedDateTime": "2021-03-22T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-fact-check-misleading-meme-features-a-digitally-flipped-image-of-biden-and-a-pixelated-still-grab.md",
-      "title": "Fact Check-Misleading meme features a digitally flipped image of Biden and a pixelated still grab",
-      "excerpt": "Some users on social media are sharing a collage of photographs of U.S. President Joe Biden that points out apparent differences between the images: the color of his eyes and his writing hand. “Blue eyes vs brown eyes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-biden-misleadingmeme-idUSL1N2LK22A",
-      "originalUrl": "https://www.reuters.com/article/factcheck-biden-misleadingmeme-idUSL1N2LK22A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LK22A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LK22A",
-      "publishedDateTime": "2021-03-22T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-sinema-cornyn-urge-biden-to-use-full-authorities-at-border.md",
-      "title": "Sinema, Cornyn urge Biden to use 'full authorities' at border",
-      "excerpt": "are teaming up to urge President Biden Joe Biden AstraZeneca says COVID-19 vaccine found 79 percent effective in US trial with no safety concerns The Hill's Morning Report - Biden: Back to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/544323-sinema-cornyn-urge-biden-to-use-full-authorities-at-border",
-      "originalUrl": "https://thehill.com/homenews/senate/544323-sinema-cornyn-urge-biden-to-use-full-authorities-at-border",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/sinemakyrsten_020420gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/544323-sinema-cornyn-urge-biden-to-use-full-authorities-at-border?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/544323-sinema-cornyn-urge-biden-to-use-full-authorities-at-border?amp",
-      "publishedDateTime": "2021-03-22T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-biden-world-praises-clinton-adviser-who-reportedly-ignored-weinstein-warning-dismissed-tara-reades-claims.md",
-      "title": "Biden world praises Clinton adviser who reportedly ignored Weinstein warning, dismissed Tara Reade's claims",
-      "excerpt": "Biden world sang the praises of Democratic strategist Adrienne Elrod on Sunday after a glowing profile on her work with Biden's team.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/adqyTBPuOyE/biden-clinton-adrienne-elrod-weinstein-tara-reade",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/adqyTBPuOyE/biden-clinton-adrienne-elrod-weinstein-tara-reade",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-10.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-clinton-adrienne-elrod-weinstein-tara-reade.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-adrienne-elrod-weinstein-tara-reade.amp",
-      "publishedDateTime": "2021-03-22T08:58:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

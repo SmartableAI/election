@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-johnson-johnson-vaccine-pause-wont-have-significant-impact-on-biden-covid-19-plan-white-house.md",
+      "title": "Johnson & Johnson vaccine pause won't have 'significant impact' on Biden COVID-19 plan: White House",
+      "excerpt": "The White House said the pause on Johnson & Johnson vaccines will not have a “significant impact” on President Biden’s COVID-19 vaccine plan, saying that vaccine makes up “less than 5 percent” of recorded shots administered to Americans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNZm9KxZt5w/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNZm9KxZt5w/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan.amp",
+      "publishedDateTime": "2021-04-13T08:08:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-boehner-on-fox-friends-biden-infrastructure-bill-a-new-word-for-the-green-new-deal.md",
+      "title": "Boehner on 'Fox & Friends': Biden infrastructure bill a 'new word for the Green New Deal'",
+      "excerpt": "Former House Speaker John Boehner calls President Biden's infrastructure plan a 'new word for the Green New Deal' on 'Fox & Friends.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H60vXvNBMUw/john-boehner-biden-infrastructure-bill-fox-friends",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H60vXvNBMUw/john-boehner-biden-infrastructure-bill-fox-friends",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab1bf457-1339-4a5f-8fb3-a11d1dae0812/872588d7-6f3d-4545-bcb4-715442d38b78/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp",
+      "publishedDateTime": "2021-04-13T07:56:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-south-dakotas-noem-asks-biden-to-reverse-ban-on-mount-rushmore-fireworks-display.md",
       "title": "South Dakota's Noem asks Biden to reverse ban on Mount Rushmore fireworks display",
       "excerpt": "South Dakota Gov. Kristi Noem sent a letter Tuesday requesting that President Biden reverse his administration's ban on an Independence Day fireworks celebration at Mount Rushmore this year, arguing doing so would be in keeping with an agreement the federal government made with her state last year.",
@@ -351,7 +463,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 725,
+      "heat": 745,
       "tags": null,
       "images": [
         {
@@ -1532,118 +1644,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-obama-talk-regularly.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-talk-regularly.amp",
       "publishedDateTime": "2021-04-08T11:38:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-atf-pick-david-chipman-alarms-gun-rights-groups.md",
-      "title": "Biden ATF pick David Chipman alarms gun rights groups",
-      "excerpt": "Gun rights groups are expressing concern over President Biden's decision to name gun-control advocate David Chipman to lead the ATF.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo-FSaSTR-Y/biden-gun-control-atf-david-chipman-assault-weapons-nra",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo-FSaSTR-Y/biden-gun-control-atf-david-chipman-assault-weapons-nra",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21097760253459-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
-      "publishedDateTime": "2021-04-08T10:30:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-historic-border-numbers-undercut-biden-claim-that-surge-happens-every-year.md",
-      "title": "Historic border numbers undercut Biden claim that surge 'happens every year'",
-      "excerpt": "President Biden last month downplayed the surge in migrants coming to the southern border, saying surges happen \"every year\" -- but while that is the case, the numbers released Thursday show that the current surge is dwarfing anything in recent memory.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B6uPpSAipjY/historic-border-numbers-biden-claim-surge-happens-every-year",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B6uPpSAipjY/historic-border-numbers-biden-claim-surge-happens-every-year",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54b524d2-f0cb-4954-bfa7-d2ddf0769067/e418b913-e4db-4b49-aa48-27b56863f89f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/historic-border-numbers-biden-claim-surge-happens-every-year.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/historic-border-numbers-biden-claim-surge-happens-every-year.amp",
-      "publishedDateTime": "2021-04-08T10:21:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

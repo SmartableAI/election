@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-tru
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
 type: article
 quality: 137
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Boehner says he voted for Trump, didn't push back on election claims because he's retired"
+    excerpt: "Former House Speaker John Boehner (R-Ohio) revealed in an interview with TIME that he voted for former President Trump in the 2020 election but&nbs"
+    publishedDateTime: 2021-04-13T14:19:00Z
+    webUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes"
+    ampWebUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 131
+    images:
+      - url: "https://thehill.com/sites/default/files/boehner_trump040721.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election"
     excerpt: "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House."
     publishedDateTime: 2021-04-07T23:18:00Z
@@ -112,6 +128,6 @@ related:
         height: 960
         isCached: true
 
-secured: "z0n6e/JdvMHYI7Em16iqfkFaOcbd6v8L1ji6MvFu66yO/kpJgCuGWFpfrH/jHIWtWDPFCkFbt8TOwXDBbYchy3phwuDVgdfh+dM5J28LMPJY51q0+VZUZkd5jD09cFBUYKdGeicwyJcAO+SfGq5Wo9ADbbwg10mYK0pNDETH22HCJqpQtoRDghT61yLshbzzBWZheM83GyXWVAihKJiV0ICsr27vCI88aWHsm0276o4araeWZsdl7KHTe/X+YT0raffX89hJyAMY7MxgqVWhK9EYlWDRr88LOzYhxidmKm5uRObeb53WbHfVd8UZe1csTv6WJiHjG6ZoWE2ZPWeYukoDIN/cVtNdcLMed6gmmqI=;2p44qmor4CN9gMiJlkozmA=="
+secured: "lbMCilK0Msea/t0g5YMZDYVuwOvo9zd/UgpkqB5cDuqkjLd1kNoQX8qhpQhg79u3BlvMOU4MYFwEy8i+TDJDU0GzQ1nsHzYOAingWJVch9s7zHGuKuKFYGigZgQuofJORfiMMQPzXrocy1XppdpsurKxlzq01CyUJRRswLyKl8AnnwmZ4Jq4Wpcsc5NZUSGSyP+/OiH1iHs2T+0lgLTRMHTkPxu4RADCIV/0evUqq9PpwWHKZ3uSkN8eXUqRzCXyRzDTyRpZPtf9LgYM4nBrbwGzl2nYyARh4CfyUiGjTUZcdYzo6xGzSK+N2advQc25XlYaQHr4OjqYh7g1b7t6+uPV4hEIy17oVKRhaUs8Uvc5PHTPEcDnTc2l1PF8m7pYhgW03hk9LRWt5Hqok7iIWkGHqjyK2S6nIZKU0yVHSDzYh5yx/Jzu4rSASVrkoJE7U3Ij0lcXPOdIx1HVT9WiJr4/VsDcwzP5rg3bEcHvFcVWXoXMDcjEdq9tm4Pxi9NxQ4KaL8sQKZLQkjzYT0ZWog==;oajm1yDIGdaqkBG4q80UTA=="
 ---
 

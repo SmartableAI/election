@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump Calls CNN Report of Refusing Meeting With Matt Gaetz 'Completely False'"
+    excerpt: "Former President Donald Trump has said that a CNN news report claiming that he had refused to meet with Republican Florida Representative Matt Gaetz was \"completely false.\" \"Fake News CNN, relying on all anonymous sources, meaning they probably made the ..."
+    publishedDateTime: 2021-04-13T02:02:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1776700/donald-trump-cnn-gaetz-meeting-fake-news.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Gaetz and Trump rep challenge report that the Florida congressman was denied a meeting with the former president"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% GOP Congressman Matt Gaetz, who is facing federal sex trafficking allegations, was reportedly denied a meeting with Donald Trump as aides try to distance the former president from him, CNN reported. Two anonymous ..."
     publishedDateTime: 2021-04-12T02:15:00Z

@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Concha on Kamala Harris' 'media blackout' on border crisis: Biden admin 'acting more like Pyongyang'"
+    excerpt: "Fox News contributor Joe Concha told \"Fox & Friends\" on Tuesday that Vice President Kamala Harris is more of a \"chronic-complainer\" instead of a \"doer\" because she has not yet visited nor addressed to the media the issues on the southern border."
+    publishedDateTime: 2021-04-13T14:21:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Fcog6Lrlvc/kamala-harris-concha-questions-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House defends Kamala Harris' travel after visiting places other than border"
     excerpt: "The White House on Wednesday defended Vice President Kamala Harris' travel, as she faces scrutiny for not having visited the overwhelmed southern border, amid her latest assignment from President Biden to handle the \"root causes\" of the surge in migration in recent months."
     publishedDateTime: 2021-04-07T19:48:49Z

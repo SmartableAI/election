@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Boehner says he voted for Trump, didn't push back on election claims because he's retired"
+    excerpt: "Former House Speaker John Boehner (R-Ohio) revealed in an interview with TIME that he voted for former President Trump in the 2020 election but&nbs"
+    publishedDateTime: 2021-04-13T14:19:00Z
+    webUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes"
+    ampWebUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 131
+    images:
+      - url: "https://thehill.com/sites/default/files/boehner_trump040721.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election"
     excerpt: "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House."
     publishedDateTime: 2021-04-07T23:18:00Z

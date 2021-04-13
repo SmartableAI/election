@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f"
         width: 600
         height: 400
+        isCached: true
+  - title: "Biden meets with bipartisan group on $2.3 trillion infrastructure plan, saying he's open to negotiate"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% For the first time since unveiling his $2.3 trillion infrastructure package two weeks ago, President Joe Biden met with a bipartisan group of lawmakers on Monday to discuss the proposal. Eight lawmakers ..."
+    publishedDateTime: 2021-04-13T15:45:00Z
+    webUrl: "https://www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/6074a5fb2cc1ef0018da14cf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden says gun violence in the US is an 'international embarrassment' as he announces new executive actions"
     excerpt: "The letter F. An envelope. It indicates the ability to send an email. President Joe Biden on Thursday announced his first executive actions amid renewed pressure to address gun violence in the US following a slew of mass shootings. \"We're taking steps to ..."

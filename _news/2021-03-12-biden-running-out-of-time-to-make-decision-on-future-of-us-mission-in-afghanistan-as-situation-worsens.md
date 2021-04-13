@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Says Withdrawing U.S. Forces From Afghanistan by May Deadline Is ‘Tough’"
-    excerpt: "President Biden said it would be “tough” to meet a May 1 deadline to withdraw all remaining U.S. troops from Afghanistan, publicly indicating for the first time that he could extend the American troop presence there."
-    publishedDateTime: 2021-03-17T16:41:00Z
-    webUrl: "https://www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/17/us/politics/17dc-usafghan/17dc-usafghan-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
 
 secured: "Juq0s7xtxbszfQWharVtClqGB9oEk6iuDAmnaZ4SsFTSy8sYL7Ts0VkSkbVmLXOY7Fx9oZf+RPISvGWN8ZZQIR6Rm+rBFNmEnmvs2Li7G0zw1OIaK/tBJ6hmye9r9QuGEAFHd+BG2DPBpHPB86AY5ZRyvBrh3HOsXvGMHEcU3f2qgO1bmj2OUxYJGeOCaBv4ePHMS0KM+XlS8K7zMOZeza4K9e3OGr/m+J+L3ekwnO5ql2wK/TS+4KgdFZCXcE0E4osD46Eh2TOMYqmSDeDU8M4bVRdzMnrZE2ZkAB4kU0veipK1gmbJ2cBev81cBc4VcPoLPHeXDurW8afxLi5ll073iQapbFpbeS0S/jpWL74=;jH8DYsqc77sgORmr1WRY5w=="
 ---

@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump rips CNN over Gaetz report, says they ‘probably made the whole thing up’"
+    excerpt: "Former President Donald Trump blasted CNN for its report that claimed he refused to meet with GOP Rep. Matt Gaetz, who is facing allegations of sexual misconduct, saying the cable news network"
+    publishedDateTime: 2021-04-13T15:03:00Z
+    webUrl: "https://nypost.com/2021/04/13/trump-blasts-cnn-over-report-on-matt-gaetz-meeting/"
+    ampWebUrl: "https://nypost.com/2021/04/13/trump-blasts-cnn-over-report-on-matt-gaetz-meeting/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/trump-blasts-cnn-over-report-on-matt-gaetz-meeting/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/cnn-trump-gaetz-hp2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "rBYyKRbNs7REua3iQmiL8tL91+gznm8WrdiunQsvVnVgTK0JshokuMGyQ8j5FcdoaSg4QQKH8k8shFmZcy0D8EXYolXPoQdYNpmraYdkxNyXiNKEODCzttW8LXhEpTNO1xH840wQQj8jyJsqHaS00mgNlYJ3cidiJEPTQYOPEZLdbU9ycJ4V89b5hak79R7dPqpovWBcwJ9bCTuEkgkpi5fsr1b0esu/AKs4J97DNMw2cRUGF9/1bGMOSYaDK5dAqHn3l+KpxiwoNtIZ+IaiB0lS8Tka+tw0wNHLlv0cn2RLvnz//T2CFDCk2QCiy3BI5GA3P8Mcy2o87AMSRkSmGNiL0IV6hJgkmsPKMth1sFw=;PQ8UV8HHE6BbcKmjXESopA=="
 ---

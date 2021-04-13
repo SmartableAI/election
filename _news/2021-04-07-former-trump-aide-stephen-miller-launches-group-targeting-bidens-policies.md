@@ -250,6 +250,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden pick to lead CBP reportedly balked at Trump immigration policies"
+    excerpt: "President Biden’s nominee to head up Customs and Border Protection has backed Black Lives Matter, defended sanctuary cities and pushed back at Trump administration orders to round up and"
+    publishedDateTime: 2021-04-13T14:03:00Z
+    webUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/"
+    ampWebUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/chris-magnus.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden strikes Trump-esque deal with Northern Triangle countries amid migrant surge"
     excerpt: "The Biden administration is taking a page out of former President Donald Trump’s book, striking an agreement with the Northern Triangle countries to militarize their borders in an effort to curb ..."
     publishedDateTime: 2021-04-12T19:57:00Z

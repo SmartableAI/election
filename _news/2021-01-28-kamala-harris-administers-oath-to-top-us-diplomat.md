@@ -799,6 +799,22 @@ related:
         width: 3000
         height: 2357
         isCached: true
+  - title: "Biden to pay respects to Capitol police officer killed in car attack – live updates"
+    excerpt: "Capitol employees are making final arrangements to prepare for today’s ceremony to honor Officer William “Billy” Evans, which will be attended by Joe Biden and congressional leaders. Two seats have been reserved for Evans’ young children ..."
+    publishedDateTime: 2021-04-13T13:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/54c0ae823c55ace7e5b9ccbcb747b81cc2f69eb6/0_32_4845_2907/master/4845.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eebce1353e72fcc91b8e666f139d987"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
     excerpt: "Biden taps Vice President Kamala Harris to lead White House effort to tackle migration challenges at US-Mexico border"
     publishedDateTime: 2021-03-24T18:25:00Z
@@ -846,6 +862,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/24/dc1bc1bc-8c3d-434f-b858-a49d4f751c8c/thumbnail/1200x630/e656cf1aea4468e518e0332b471c5e43/cbsn-fusion-vice-president-kamala-harris-on-situation-at-southern-border-attacks-on-asian-americans-thumbnail-676011-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden to pay respects to police officer killed in car attack as casket arrives at Capitol – live"
+    excerpt: "As his father’s casket was carried up the Capitol steps, Logan could be seen clutching a teddy bear. pic.twitter.com/40oYXOyvVT Joe Biden and congressional leaders will attend this morning’s ceremony to honor William “Billy” Evans, the USCP officer ..."
+    publishedDateTime: 2021-04-13T14:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates?page=with:block-607599c68f08b7e3afb8a2b5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
+    images:
+      - url: "https://i.guim.co.uk/img/media/54c0ae823c55ace7e5b9ccbcb747b81cc2f69eb6/0_32_4845_2907/master/4845.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eebce1353e72fcc91b8e666f139d987"
+        width: 600
+        height: 360
         isCached: true
   - title: "Lawmakers, Biden pay tribute to Capitol Police officer Brian Sicknick, who was killed in Capitol riot"
     excerpt: "Calif., praised the officer as a \"hero\" for his efforts Jan. 6 to stop a pro-Trump mob that stormed the Capitol."
