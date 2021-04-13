@@ -1,10 +1,10 @@
 ---
 category: news
 title: "'Is he really in charge?': Cornyn tweet about Biden draws scorn, White House response"
-excerpt: "AUSTIN – U.S. Sen. John Cornyn, R-Texas, drew attention Monday for a series of tweets on President Joe Biden's media strategy, asking if the president \"is really in charge.\" Cornyn, quoting a Politico article about Biden's media presence, shared the ..."
+excerpt: "Critics leapt at the tweet, which garnered hundreds of retweets, likes and replies by Monday afternoon and a response from the White House."
 publishedDateTime: 2021-04-12T22:31:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/"
 ampWebUrl: "https://amp.usatoday.com/amp/7197230002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7197230002"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Gq0EpWRnUIBoNmxBhKTtGKBhLJEs12CJgvHbS5IADDeRt6aG2dDQAu8j1FGbZhzulrZ1flTuvDzQGYircEK9Ja1XaRyxLw7YJoMbzuvAKnG/qFjEiMR66iC4ON3iSTfhmD5GTlrlNusSQTsBaoY/DIXhRJBmESx5gYBhljKfc1IOSxJs0YC8t929N44hXyhdbNXlgpqkJW6MuKZabiyjr2H9cTbCf4CuakmPMwuS3kzaLrZZn4bNwTQX7qTfcnBSTAviRAj6OPCkJYQKS3KOpjr+BM/On1HA9vR7+JmY8tLVjqyCXTMlfvl1XNu47k9ZdG4goMseAQ2HD7qRxF/mIweXn9Z5weCIGFvDky3L/nk=;VN8o0JAsxpkMnRJ+pSqpWQ=="
+secured: "cwDQ7g9aBPnE/gk71rk13Znehi38Wz9kJ3H4yLKDMTXBnmRYqRQZrKbyEWD31yLC9Nrgpxakoe8MufRZJ+9rtt+s19wDz8cMnk/wfQxnMrpfQAjbm0kisvg76b5zchdwn/zhnjOqFqwhWKKm29I/kYlHlZUdY8NT6fZ7ysg0/gpJjr5PK+6+z+jDERf8GeO6L7oRHkpskxXpMear+zgZ3clv835u9mYa8obp7vC9+X57fthtTrpCmM2TegXBgbnFJDKS+zaCvT+TBtgTCjV+Z4R6GUXBW+X7sONaXK2YGWWPb3t08pIAMqHtC0MXfqztl3N5AVXwfhjQ2aCX1rTkeKZmU3YOWHATTV7O/okFd9w=;rHdxcXCBZ4dBafNpoluogg=="
 ---
 

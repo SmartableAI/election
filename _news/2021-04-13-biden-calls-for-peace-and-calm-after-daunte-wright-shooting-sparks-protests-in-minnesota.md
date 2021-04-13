@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Joe Biden Says 'No Justification' For Looting, Violence Amid Unrest Over Daunte Wright Shooting"
-excerpt: "President Joe Biden condemned looting and violence that has taken place in the aftermath of the police shooting of 20-year-old Daunte Wright in Brooklyn Center, Minnesota on Sunday. Wright, a Black man, died Sunday after he was shot by a police officer ..."
-publishedDateTime: 2021-04-12T20:04:00Z
-originalUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048"
-webUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048"
-ampWebUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
+title: "Biden calls for 'peace and calm' after Daunte Wright shooting sparks protests in Minnesota"
+excerpt: "WASHINGTON – President Joe Biden called for \"peace and calm\" on Monday following an evening of protests after a police officer in a Minneapolis suburb shot and killed a 20-year-old Black man during a traffic stop. Biden called the shooting death of ..."
+publishedDateTime: 2021-04-13T01:29:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/daunte-wright-police-shooting-white-house-saddened-over-death/7190534002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/daunte-wright-police-shooting-white-house-saddened-over-death/7190534002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7190534002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7190534002"
 type: article
-quality: 113
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1776653/daunte-wright-protest.jpg"
-    width: 1024
-    height: 695
+  - url: "https://www.gannett-cdn.com/presto/2021/04/12/USAT/d6c59278-7bec-4a53-9be9-449dd2c14ebf-Brooklyn_Center_Minn_Police_Shooting_05.JPG?auto=webp&crop=3599,2024,x1,y120&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 594
         height: 398
         isCached: true
-  - title: "Biden calls for 'peace and calm' after Daunte Wright shooting sparks protests in Minnesota"
-    excerpt: "WASHINGTON – President Joe Biden called for \"peace and calm\" on Monday following an evening of protests after a police officer in a Minneapolis suburb shot and killed a 20-year-old Black man during a traffic stop. Biden called the shooting death of ..."
-    publishedDateTime: 2021-04-13T01:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/daunte-wright-police-shooting-white-house-saddened-over-death/7190534002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7190534002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7190534002"
+  - title: "Joe Biden Says 'No Justification' For Looting, Violence Amid Unrest Over Daunte Wright Shooting"
+    excerpt: "President Joe Biden condemned looting and violence that has taken place in the aftermath of the police shooting of 20-year-old Daunte Wright in Brooklyn Center, Minnesota on Sunday. Wright, a Black man, died Sunday after he was shot by a police officer ..."
+    publishedDateTime: 2021-04-12T20:04:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/12/USAT/d6c59278-7bec-4a53-9be9-449dd2c14ebf-Brooklyn_Center_Minn_Police_Shooting_05.JPG?auto=webp&crop=3599,2024,x1,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1776653/daunte-wright-protest.jpg"
+        width: 1024
+        height: 695
         isCached: true
   - title: "'Hunter Biden Has Nothing to Do With This': Fox News Guest Slams 'Constant' Coverage of President's Son"
     excerpt: "\"The answer about Joe Biden is not, 'Well Hunter Biden did crack,' or 'Well Hunter disposed of a gun illegally,'\" Jessica Tarlov said."
@@ -96,6 +96,6 @@ related:
         height: 600
         isCached: true
 
-secured: "TOjBhS+iigbFrDlHLrkbxF2yAJ9d+M1c71a8OB/Q2rSwoex9GqRRueF4eNLbBTSV9qgBRofwbESLivHrqtQkhkyVEN+dG95zBXH79SSQVOC2DmqHZ1AM4oetemybyMQzhusLvYUaDtfO0mNzK1htTSuNATKiNnkEG28Uv29MINME3i5MB7Zmrxy1Dsnt6iONC/C53aBpxeVbXsiz4oJ6uK0W//Y/awzD745gti1iLhWWT0c+llDIEDQDrBAhP0Z5VHCtPrqv5y3f07XTDCu8ncOD3VYm5FlkPHe8pyNXBC0RrZyExsln1Qetn5hpbL2hD3vva1z2VSE++bzPaCiKMQvxQvSEFn5krVVsIgbyzHmXwS7/pUDswRNehQxoY76Hfjsrtr6GbomR/citThsV5tbi+TWdu1duN2ONfzOphmkdxKFgOHi0vWjGgXVw+ha+PAe6rkov5DesXrplUbyJC8vqiVVGza5/yir0uTR6gKEOZbRFsno+GNO3yn65u1+j16LBUvf2p3wZ7wikaVFYGg==;wZ/87Y1dKPjuO5T5t0HsiA=="
+secured: "oWOQEJJTrF1uk7rrYm0kWwVc/cdne6dDSDej4YNleBgZ3LEwBHS8zLGukGVX0drMj5aHlYGLN98zRVnNGgQPBUCdRqsg26XjSInJHajH/Zyubf8bUFB/1nw3WUIMSGpOprQCeD/5d+fqGsTbN+I/OXF/UTHuVi/ApxILgVR89oRvDEQTWKlSIHBkicmq6otaSc2XX0ibzRtz6LEyh8POUOKjHE3xp4eVrgeIm1ehEUVBoIyHgLOfaHWE7bCyJSOdy30ABxk7vH77Aw3+nxekWuFNDmK4cyN6+rwWt7gm+fYYIkon0Pq39UvoKlDZKj6PCqH15wnCY5AzDZAZiciuIvl855ubLGXmHI6a0DTQT+Q=;ap2dVFhZvuimdgjWm7Js7A=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "'We've been here before': Ohio bridge serves as a reminder of political hurdle Biden faces as infrastructure negotiations begin "
-excerpt: "The Brent Spence Bridge, which spans the Ohio River, has long been a political football and a symbol of government dysfunction.\n    \n"
-publishedDateTime: 2021-04-10T15:02:43Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ta3HV3HEFu4/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ta3HV3HEFu4/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html"
+title: "Biden starts infrastructure push by meeting bipartisan group of lawmakers who could help shape $2 trillion proposal"
+excerpt: "President Joe Biden will meet with a bipartisan group of lawmakers on Monday afternoon to discuss his roughly $2 trillion jobs and infrastructure proposal, as he faces united Republican opposition to the plan and pressure from Democrats to move without GOP support.\n    \n"
+publishedDateTime: 2021-04-13T01:49:57Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tc2zr1MJYeM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tc2zr1MJYeM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
 type: article
-quality: 146
+quality: 153
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409160911-02-brent-spence-bridge-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -154,22 +154,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 153
-  - title: "Biden starts infrastructure push by meeting bipartisan group of lawmakers who could help shape $2 trillion proposal"
-    excerpt: "President Joe Biden will meet with a bipartisan group of lawmakers on Monday afternoon to discuss his roughly $2 trillion jobs and infrastructure proposal, as he faces united Republican opposition to the plan and pressure from Democrats to move without GOP support.\n    \n"
-    publishedDateTime: 2021-04-13T01:49:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tc2zr1MJYeM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to host bipartisan group of lawmakers for infrastructure meeting as he faces pressure on both sides of the aisle"
     excerpt: "President Joe Biden will meet with a bipartisan group of lawmakers on Monday afternoon to discuss his roughly $2 trillion jobs and infrastructure proposal, as he faces united Republican opposition to the plan and pressure from Democrats to move without GOP support.\n    \n"
     publishedDateTime: 2021-04-12T13:29:35Z
@@ -183,6 +167,22 @@ related:
     quality: 151
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'We've been here before': Ohio bridge serves as a reminder of political hurdle Biden faces as infrastructure negotiations begin "
+    excerpt: "The Brent Spence Bridge, which spans the Ohio River, has long been a political football and a symbol of government dysfunction.\n    \n"
+    publishedDateTime: 2021-04-10T15:02:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ta3HV3HEFu4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409160911-02-brent-spence-bridge-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -341,6 +341,6 @@ related:
         height: 773
         isCached: true
 
-secured: "pFDrSL87K2K6lNQtCdLG3UrvkdW4c2oJc4kk9r5tCOrQ93rNIDLfIeuL3s+V0LPmWPxnj8lfQTl0nWEWjXJPosJ/ZvU8BBc94VFgaR9wKRCFe6rpYEYlqMWVo/d6wmvjweJCQHPo6GEkzn8NlfPjkWo8T+JVuLxbLrRboqbZqGPSLngvM9hRWu1YcF0I3o3arqzqELL3ztMgMA5gVxf3u8zAte4PZU4DiDgT6d5ohwSEvHKbPZGTyt2DXKda9owBsoP4jMQ1qz9UYM9fQxAFnp1xc0A7b2Fy55ru+E7kiMKgaOBT8h7osbYlPkhLI+DfoyDVDugvwGcmPjU2nc4c45IR4eYb20lbd7S+MICICI4=;6QCy2+9lKK4AKVR9CtHFCg=="
+secured: "cVhqARg2T0oCt50cs3hZLTkXwnJ5A/kFiWf7rDNndI3tCJXznzOerdfDKV43D469HDBFmDVXTAOmpcL3yiRXMd9M6+Qoy6D6Mebt15pPPdxpF9yL9A00H1WhwkhXlF3qH/3GuESr+IU8+Nk58DjdBfE0AUKzQ8rP1U84A/+pEJCu28iZbj4e7YqkKmcia9+uLxK0aBl5ZNlFr7TpkLgtNLGlteLf+4uit31X7nBzVvgQxWsWvQhjzRV64KgTC/kEYti7TfhKsQQ2Uza4IrFicsk2fCxe0hI1qC0FOyu/VzO3lhlOagOn99ynA0uycBtjYFtEUZ0AzJDmu5lBPgXKAR5m0VFBPMeGctTBBw87kVU=;blJwnd+dyx70SdSJlB10Pw=="
 ---
 

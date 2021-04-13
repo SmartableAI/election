@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Republicans are concerned about the debt again, even as they admit Trump grew it"
-excerpt: "Republicans who voted to grow the national debt under former president Donald Trump are trumpeting fiscal conservatism again during a Democratic presidency. (JM Rieger/The Washington Post) Over the past month, Senate Republicans have acknowledged something ..."
-publishedDateTime: 2021-04-08T10:00:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/"
-webUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
+title: "Trump goes after Pence, McConnell in speech to party donors"
+excerpt: "Trump also said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance who were not authorized to publicly discuss what was said in a private session. He said ..."
+publishedDateTime: 2021-04-13T00:50:00Z
+originalUrl: "https://www.riverbender.com/topnews/details.cfm?id=337766"
+webUrl: "https://www.riverbender.com/topnews/details.cfm?id=337766"
 type: article
-quality: 120
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RiverBender.com
+  domain: riverbender.com
 
 topics:
   - Election
-  - Donald Trump
+  - Mike Pence
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-07-2021/t_e2b3b27c520d4e0c82f8b4a130782d96_name_20210406_GOP_DEBT_V4.png&w=1440"
-    width: 1440
-    height: 810
+  - url: "https://s3.amazonaws.com/rbweb-ap-photos/b6d49faf981243478c6e3448b9a3e707.jpg"
+    width: 640
+    height: 425
     isCached: true
 
 related:
@@ -794,6 +788,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Republicans are concerned about the debt again, even as they admit Trump grew it"
+    excerpt: "Republicans who voted to grow the national debt under former president Donald Trump are trumpeting fiscal conservatism again during a Democratic presidency. (JM Rieger/The Washington Post) Over the past month, Senate Republicans have acknowledged something ..."
+    publishedDateTime: 2021-04-08T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-07-2021/t_e2b3b27c520d4e0c82f8b4a130782d96_name_20210406_GOP_DEBT_V4.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Ex-Trump aide Stephen Miller launches legal group to fight Democrats in the courts"
     excerpt: "Washington — Stephen Miller, who was a top aide to former President Donald Trump and the driving force behind his hardline immigration policies, has launched a new legal group that aims to take the fight against President Biden and Democrats' agenda to ..."
     publishedDateTime: 2021-04-07T19:06:00Z
@@ -1294,20 +1304,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump goes after Pence, McConnell in speech to party donors"
-    excerpt: "Trump also said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance who were not authorized to publicly discuss what was said in a private session. He said ..."
-    publishedDateTime: 2021-04-13T00:50:00Z
-    webUrl: "https://www.riverbender.com/topnews/details.cfm?id=337766"
-    type: article
-    provider:
-      name: RiverBender.com
-      domain: riverbender.com
-    quality: 70
-    images:
-      - url: "https://s3.amazonaws.com/rbweb-ap-photos/b6d49faf981243478c6e3448b9a3e707.jpg"
-        width: 640
-        height: 425
-        isCached: true
   - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
     excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."
     publishedDateTime: 2021-04-06T20:42:00Z
@@ -1442,6 +1438,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Rhz9izlnXlZgml6EFvERiXzxb99g53cNBaph9uR5oTXyAvoLbLDPeqGuIKH2YKn7xNBrtTk9wD5lO+6CSqacWCYw/dxogalOtee6jq6sK5KJfyGB5o4GOzQ9gG2Jig68CR2t8pN1qfaGxgW8DVXmV7wIhEQ5AP5HAmZ9ozrzQ1BttApJsNNLbFvIxSWQ9xUWJP4cbu5gocqcfNGSk/P3y4eTvPwQojGMYmH8/me2rCvFXSMNCyw00oEc2o5jFQZ1Oi5xk5EYg5kglYev9KOa2FPK1dtJ9M/mRHN9zmA63ogWFwC8aKr5sj1PbfGGmqmqph44J4btAYrWQJwVtAEIvN2r54JmguJzHPkrxLF9SeomnKstdgHzmL3g1/zh/EPXG4vyrbSu62fU5f/hv2DYt1rlHTb99oAcfDCxlTWNtyYVJceEKBttHPAPojds2ZEpzzED4XAuEzDDeqcSXS9F0HFhxlyAejs/LbvHYIfS4rIM3nL8+eRvbRwn+I6xerQrRqOqgQeLFImPOK9iijSmkw==;AO4iofaPOsshZQllmanHfA=="
+secured: "1bcuEZ00txDHkHc+PKHPH+T1QRoO7MuyQUzeWYdPe8mv1vJhD3rxYvSH8NBHDS5b8Epji+37h55WB/M/kswM9f593frCbsx3pnjzAY6ciMIbUgd4dUtnqTxIu3Or+0XmwJEMHGwxjVqnuqKlFhIlYqYicOenJMsk5OmQRIKZMD7yGR+UZZiik3vauSXkJr3XX3wCPDS8etu0mV2LyzZVV1QXXIi2hVeYQeU0xHBE/l1OV0Tu+0khcs6BPaImjQ/omPWxT+nxGP8HmyKcIZ++Zm7zN5KDERJKSHO24QbuG5+/DGjZhu9NHBkdOwYW0k6STo3qLMpwlHH+h7UGSzUTUydqAP0OFxFClSZ7xnE1kG0=;tFjrb/4NzDEoxoqB2IIAHg=="
 ---
 

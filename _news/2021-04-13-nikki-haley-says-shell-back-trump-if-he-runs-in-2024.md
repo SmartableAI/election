@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Republicans are concerned about the debt again, even as they admit Trump grew it"
-excerpt: "Republicans who voted to grow the national debt under former president Donald Trump are trumpeting fiscal conservatism again during a Democratic presidency. (JM Rieger/The Washington Post) Over the past month, Senate Republicans have acknowledged something ..."
-publishedDateTime: 2021-04-08T10:00:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/"
-webUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
+title: "Nikki Haley Says She’ll Back Trump If He Runs in 2024"
+excerpt: "Former South Carolina Governor and U.S. Ambassador to the United Nations Nikki Haley, who has been sharply critical of Donald Trump’s conduct on January 6, is now telling reporters she’ll back ..."
+publishedDateTime: 2021-04-12T22:35:00Z
+originalUrl: "https://nymag.com/intelligencer/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+webUrl: "https://nymag.com/intelligencer/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
 type: article
-quality: 120
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-07-2021/t_e2b3b27c520d4e0c82f8b4a130782d96_name_20210406_GOP_DEBT_V4.png&w=1440"
-    width: 1440
-    height: 810
+  - url: "https://pyxis.nymag.com/v1/imgs/3cd/0ae/c75dc60dd2855a2d0ef71828d69ed0132a-nikki-haley.1x.rsocial.w1200.jpg"
+    width: 1200
+    height: 632
     isCached: true
 
 related:
@@ -794,6 +790,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Republicans are concerned about the debt again, even as they admit Trump grew it"
+    excerpt: "Republicans who voted to grow the national debt under former president Donald Trump are trumpeting fiscal conservatism again during a Democratic presidency. (JM Rieger/The Washington Post) Over the past month, Senate Republicans have acknowledged something ..."
+    publishedDateTime: 2021-04-08T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/republicans-are-concerned-about-debt-again-even-they-admit-trump-grew-it/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-07-2021/t_e2b3b27c520d4e0c82f8b4a130782d96_name_20210406_GOP_DEBT_V4.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Ex-Trump aide Stephen Miller launches legal group to fight Democrats in the courts"
     excerpt: "Washington — Stephen Miller, who was a top aide to former President Donald Trump and the driving force behind his hardline immigration policies, has launched a new legal group that aims to take the fight against President Biden and Democrats' agenda to ..."
     publishedDateTime: 2021-04-07T19:06:00Z
@@ -1234,22 +1246,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Nikki Haley Says She’ll Back Trump If He Runs in 2024"
-    excerpt: "Former South Carolina Governor and U.S. Ambassador to the United Nations Nikki Haley, who has been sharply critical of Donald Trump’s conduct on January 6, is now telling reporters she’ll back ..."
-    publishedDateTime: 2021-04-12T22:35:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/3cd/0ae/c75dc60dd2855a2d0ef71828d69ed0132a-nikki-haley.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."
     publishedDateTime: 2021-04-11T16:04:00Z
@@ -1442,6 +1438,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Rhz9izlnXlZgml6EFvERiXzxb99g53cNBaph9uR5oTXyAvoLbLDPeqGuIKH2YKn7xNBrtTk9wD5lO+6CSqacWCYw/dxogalOtee6jq6sK5KJfyGB5o4GOzQ9gG2Jig68CR2t8pN1qfaGxgW8DVXmV7wIhEQ5AP5HAmZ9ozrzQ1BttApJsNNLbFvIxSWQ9xUWJP4cbu5gocqcfNGSk/P3y4eTvPwQojGMYmH8/me2rCvFXSMNCyw00oEc2o5jFQZ1Oi5xk5EYg5kglYev9KOa2FPK1dtJ9M/mRHN9zmA63ogWFwC8aKr5sj1PbfGGmqmqph44J4btAYrWQJwVtAEIvN2r54JmguJzHPkrxLF9SeomnKstdgHzmL3g1/zh/EPXG4vyrbSu62fU5f/hv2DYt1rlHTb99oAcfDCxlTWNtyYVJceEKBttHPAPojds2ZEpzzED4XAuEzDDeqcSXS9F0HFhxlyAejs/LbvHYIfS4rIM3nL8+eRvbRwn+I6xerQrRqOqgQeLFImPOK9iijSmkw==;AO4iofaPOsshZQllmanHfA=="
+secured: "VFFiia8YtDOcT/Q79UCHhQBDSnORiZ1s4kJmkLruHtrWt+Si7PkieaMh+M90CL4Z0rvWcAM8VYcoHohxBdfz4XkhUbs584MvoE1gltvMqO1S8vbH4PNlQUbdSEUPiNvCjfI84tZcZ1lPkMH7cb5sT0RQNcM/YIlE0r0wYSyD8LkV3wE6Gtse+Rp78pUgLwRG0LvoX9gG2fQ1FAx9BD7r0cwiUG99Dl1o6Vo3UBvHRIrlisqfR0g5feHjEifVh6lRQE9HKmd6qpbEM5di3uiDHMUsH6m+T710hveEiwKbcPrSf8aBb0duTAgK6owVMy5j5jiGU+Z2TDooLQ7y7MNpw9cczoQExlfMh2L4U0PrO+c=;HsD2vTt9bDz5xP6ulQ9e8w=="
 ---
 

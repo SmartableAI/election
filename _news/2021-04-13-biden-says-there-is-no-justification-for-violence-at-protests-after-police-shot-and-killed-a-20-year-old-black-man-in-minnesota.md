@@ -47,6 +47,22 @@ related:
         width: 594
         height: 398
         isCached: true
+  - title: "Biden calls for 'peace and calm' after Daunte Wright shooting sparks protests in Minnesota"
+    excerpt: "WASHINGTON – President Joe Biden called for \"peace and calm\" on Monday following an evening of protests after a police officer in a Minneapolis suburb shot and killed a 20-year-old Black man during a traffic stop. Biden called the shooting death of ..."
+    publishedDateTime: 2021-04-13T01:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/daunte-wright-police-shooting-white-house-saddened-over-death/7190534002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7190534002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7190534002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/12/USAT/d6c59278-7bec-4a53-9be9-449dd2c14ebf-Brooklyn_Center_Minn_Police_Shooting_05.JPG?auto=webp&crop=3599,2024,x1,y120&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden Says 'No Justification' For Looting, Violence Amid Unrest Over Daunte Wright Shooting"
     excerpt: "President Joe Biden condemned looting and violence that has taken place in the aftermath of the police shooting of 20-year-old Daunte Wright in Brooklyn Center, Minnesota on Sunday. Wright, a Black man, died Sunday after he was shot by a police officer ..."
     publishedDateTime: 2021-04-12T20:04:00Z
@@ -80,6 +96,6 @@ related:
         height: 1568
         isCached: true
 
-secured: "HLCNevc8UPTtwZahYr/IGrvS2rpmh24aHxIKhynBCSm4yneCl1MM06/btIFhd5HJrLpDeDHx2aEwGJKqj45kyQhfbwWy47CFj59n4cqim1KwdUSoOhRw5m6kb7jKUm7bIhilT2723k16eoKq/FmaDfYgeXDPbHSLzgNIjy4jcRDMdGVA+FNa/8IIlABViCF9jldMbY5C5nnnGtR7gw8rE0is5ag22Go3QmhztOn/TUbTuQjgbLv4x260Ylvr+VgWl+r7rgnvZBgDWAgHqldzY1RGQfG2CeBIBz8XST6xpd2lquaI3Qh+J3cEpolETysAsHJUUEhPuhWBf0eUWJ4BARA6zNtImzq2NXW0ZsZuE4U=;JHObx/lm9GCKwWG6ghkFzg=="
+secured: "IQcUqaHsk3fk41LieS+qxQgRMwSShIo3PSEhluEHuimxtafoJzTau6BcObqySBLiVl8vyJTzkmoUTlUmmMhw0aROX058Q5vaNEM9eYBBBR10Hi4YxDv1tJVmgZ/x9UvJ5Ry1jXGIt4dGIQ5c5yNwxX1IS9o6WGdtKrK8gX//DaZhmM1PBmJPpUsdmp0Plwtuxf9dMqif4w55BkKe2Nwrc5GXZ2YqUuoj0+Wx8e3TZfx7hrBP73WKjl41InKO3mxSTalC/62ukoGo/Hbglm7wQo34+2zgayVAftmyV/gYIW80SiTm+5BoFuB2XBI6VgeC+cw0LC8d5M+EkbRZ4GxjZK/shfMhS7QpZFn9Us+VDjFVSzN7BkjfsWXHVJahFJBSgynvo1u4eeQZ5A4YZLxkVexBT2i1/rwN0PapFbc8DRByL8X4uMoM3dZeWG9mozvHzzFwTwTQE+W78oBSteRtJ/XRd1WPE8YokBodmI/ArOZuWXE0CCjaFj/C3ehgLQrzcmM6xDb661F2h6N/s48zgA==;9z6VPmb7GhcgGdfmgB8AjA=="
 ---
 

@@ -111,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden picks 1st woman to be Army secretary"
+    excerpt: "On Location: April 12, 2021 In a historic nomination, President Joe Biden has nominated Christine Wormuth to serve as the secretary of the Army. If confirmed by the Senate, Wormuth -- who once ..."
+    publishedDateTime: 2021-04-12T21:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/christine-wormuth-01-ht-jt-210412_1618259882403_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to nominate first female Army secretary"
     excerpt: "President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with bipartisan lawmakers about infrastructure Jill ..."
     publishedDateTime: 2021-04-12T20:54:00Z

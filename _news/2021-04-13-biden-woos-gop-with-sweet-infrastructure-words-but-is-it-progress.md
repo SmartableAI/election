@@ -155,6 +155,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 153
+  - title: "Biden starts infrastructure push by meeting bipartisan group of lawmakers who could help shape $2 trillion proposal"
+    excerpt: "President Joe Biden will meet with a bipartisan group of lawmakers on Monday afternoon to discuss his roughly $2 trillion jobs and infrastructure proposal, as he faces united Republican opposition to the plan and pressure from Democrats to move without GOP support.\n    \n"
+    publishedDateTime: 2021-04-13T01:49:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tc2zr1MJYeM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to host bipartisan group of lawmakers for infrastructure meeting as he faces pressure on both sides of the aisle"
     excerpt: "President Joe Biden will meet with a bipartisan group of lawmakers on Monday afternoon to discuss his roughly $2 trillion jobs and infrastructure proposal, as he faces united Republican opposition to the plan and pressure from Democrats to move without GOP support.\n    \n"
     publishedDateTime: 2021-04-12T13:29:35Z
@@ -326,6 +342,6 @@ related:
         height: 773
         isCached: true
 
-secured: "7zme3s+Jz90in3wtWSB8c/7vjNafRwCCGW0WsAfcidOMgszcx17sPraDadpLC5KhbWyM9/hsNwNxCjDwKWbi97fVc56kkrG3WxueyXA8K6NEQ28V11hVbGWVxqm6qraLdG4sB1VMT0dGIim2iDMhgAqnepF3mFNiO1yWW98mh49Q/0GQMLhRpuZAFoY3gF13BTtdK/mbpo7I3H5KSwMuT0Ai+2u3xjo82bD8AF7ZiVHyZMMjcNP1m0WTkkBsjRKZBICqRzdFDU5Dc8Bk3VSvt5LjKUdSMypdkk2FqHpi9l5dpj7Mdskj9LL0jRaxICQ8gGp57z/p3yGmuAci7nsK4afig95LdPN0WKf9KDKRZus=;g16k6A3+Yzjb7EhEGb0+3Q=="
+secured: "Te0oS2Lk729Ck0KKA2GYZPn4uz9ofhE7yO3wsYb3tbLXXNkLn5CvQr5CPzceTalkLT39L3hsigZTem73iPVJFRDyVnz/kk5Eobn3WRDVQxr/LGyJSiAg+BP+ZAk2PouG5WPRxNnzA3PQMDM0ipM4ea+fSvgVw/WGvXW9k5SPgr6W4HO7O+9gI7oZF3UgYdMMjKtWv/RZpJ1F3viYjUhY89qDCyW793qqztS8Hn9/7KGHhrd3tIZr/Zm1sNhbhppA7oO+oxaqS7DGTEHMG6DTJmfrgpnxpTewqhzP3Ipy5ZFI/z/NLaOJ1W6cwcloSzFJq2vrEPb/xRxcGnFU1MoRiOBCFn3f2yLd0d0dLbWZQxWnaa+NUCMnVv1ml06k3CRJC/wddd7crUP0D59DWsiQf7wIWKzOZ83yLdSy0KaWbV/Tct6yCdPxaSxVZnG3NvJHOEj2j5nz+VXIdEaESBa0vqU49mBkXGU3+rbmmT1Jv500yO/2+gcGvst3pd9cCEXgJsDaXk2RNqpP0DK2xZaYmA==;PWu8CPNrcaMpFOALj1R6IQ=="
 ---
 

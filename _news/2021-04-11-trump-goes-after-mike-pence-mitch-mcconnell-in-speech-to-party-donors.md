@@ -1244,6 +1244,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Nikki Haley Says She’ll Back Trump If He Runs in 2024"
+    excerpt: "Former South Carolina Governor and U.S. Ambassador to the United Nations Nikki Haley, who has been sharply critical of Donald Trump’s conduct on January 6, is now telling reporters she’ll back ..."
+    publishedDateTime: 2021-04-12T22:35:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/nikki-haley-says-shell-back-trump-if-he-runs-in-2024.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/3cd/0ae/c75dc60dd2855a2d0ef71828d69ed0132a-nikki-haley.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Trump to give keynote speech to GOP donor meeting at his Mar-a-Lago home and club"
     excerpt: "Former President Donald Trump will be delivering the keynote speech at a Republican National Committee donor event on Saturday — and he won’t have to go far. Trump was to speak Saturday night at his Mar-a-Lago club in Palm Beach, Fla., where he has ..."
     publishedDateTime: 2021-04-10T19:36:00Z
@@ -1273,6 +1289,20 @@ related:
       - url: "http://d14e0irai0gcaa.cloudfront.net/www.marshallindependent.com/images/2016/11/28153330/fblike.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump goes after Pence, McConnell in speech to party donors"
+    excerpt: "Trump also said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance who were not authorized to publicly discuss what was said in a private session. He said ..."
+    publishedDateTime: 2021-04-13T00:50:00Z
+    webUrl: "https://www.riverbender.com/topnews/details.cfm?id=337766"
+    type: article
+    provider:
+      name: RiverBender.com
+      domain: riverbender.com
+    quality: 70
+    images:
+      - url: "https://s3.amazonaws.com/rbweb-ap-photos/b6d49faf981243478c6e3448b9a3e707.jpg"
+        width: 640
+        height: 425
         isCached: true
   - title: "Lynne Patton, former Trump HUD official, barred from federal service for RNC video"
     excerpt: "A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday. The admission by Lynne ..."

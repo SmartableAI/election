@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden orders gun control actions — but they show his limits"
-excerpt: "President Joe Biden is ordering a half-dozen executive actions aimed at addressing what he calls an “epidemic and an international embarrassment” of gun violence in America WASHINGTON ..."
-publishedDateTime: 2021-04-09T18:42:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/correction-biden-guns-story-76979533"
-webUrl: "https://abcnews.go.com/Politics/wireStory/correction-biden-guns-story-76979533"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/correction-biden-guns-story-76979533"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/correction-biden-guns-story-76979533"
+title: "Biden picks 1st woman to be Army secretary"
+excerpt: "On Location: April 12, 2021 In a historic nomination, President Joe Biden has nominated Christine Wormuth to serve as the secretary of the Army. If confirmed by the Senate, Wormuth -- who once ..."
+publishedDateTime: 2021-04-12T21:57:00Z
+originalUrl: "https://abcnews.go.com/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
+webUrl: "https://abcnews.go.com/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_9f55b5d883f54c41bdf576184d88f74c_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/christine-wormuth-01-ht-jt-210412_1618259882403_hpMain_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden orders gun control actions — but they show his limits"
+    excerpt: "President Joe Biden is ordering a half-dozen executive actions aimed at addressing what he calls an “epidemic and an international embarrassment” of gun violence in America WASHINGTON ..."
+    publishedDateTime: 2021-04-09T18:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/correction-biden-guns-story-76979533"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/correction-biden-guns-story-76979533"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/correction-biden-guns-story-76979533"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9f55b5d883f54c41bdf576184d88f74c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's budget meets criticism from right and left on Pentagon spending"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply hike spending on climate change, cancer and underperforming schools, but his first budget wishlist on Friday drew howls of bipartisan concern over military spending. The $1.5 ..."
     publishedDateTime: 2021-04-10T08:51:00Z
@@ -110,22 +126,6 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_040921getty-istock-mm_illustration_memo-foreign-policy_web.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Biden picks 1st woman to be Army secretary"
-    excerpt: "On Location: April 12, 2021 In a historic nomination, President Joe Biden has nominated Christine Wormuth to serve as the secretary of the Army. If confirmed by the Senate, Wormuth -- who once ..."
-    publishedDateTime: 2021-04-12T21:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/christine-wormuth-01-ht-jt-210412_1618259882403_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden to nominate first female Army secretary"
     excerpt: "President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with bipartisan lawmakers about infrastructure Jill ..."
@@ -176,6 +176,6 @@ related:
         height: 960
         isCached: true
 
-secured: "fKIwUcuszcH1h5UC8PgmJQmw1C54X4ie2uzf3BP/jjDnzIPJ6ebEyA2junA+xCWA8gyb6IhkTvUZJxi1wfswHKwl1NS81p2N8EifG1AN4PMEfm+UsXMlzNdKju7wzvjr1GNSQ6owNNAcaGRBnYYA+mxOHEG+ITQnkioyIH/qxTAN4qGh0oLqeQVaRxK+iJhZH1QImsyTNrIWm9f9fMUZTMNlDAkzo65DV2labBm2UryDziGvHGvX6jLdYatRxOVkX5nfnkxe0nmD03B6Z0MKTkbjMd0vSxwGHmHZCfbRA7DwlWdhmMosxMpgp4DlNy83Y82Z1qy6Wx/3dJvNXG5y7llz32vUS54hCdY02Ww+7ljrql+zTspz4BpMAgfLXI0PMsJZQZq18FvoQ+PynpLITr2iS8+zMF+YtRq+J8KBVOpKSGIkq5TUNSrTJ79xz6MBk5aoqh2Jx/4cemFcqoC+CaPX1uItVWrjx5hiJ+Mk8kSwOoovUpR3714pDrJNeHCKkZoY39I9RufPiZZitcmenQ==;p9W6U7WRCUTW51OwEdL3lw=="
+secured: "9CG/UckYeuqL0G0K7W3lMDmgqU/aSGpkMCMfeuea3aaE1JaEIFHr8UjASpihu+VA/6Nfu34QCsNvyTaarMVkRrhgxruReOGwssOWjeqICMcYbE0pv3nrRuaHWrYJEDxD1hdaLaPDEcEtsuAo52YXg4ppYfxEhctil6RU/HsUKTGsY9dq3VugjnekSeJvhUdJbNBoXnaXVyduMKAH3W2Ay1ldgiYsuKM9g90ZYsR81Us/l7QPh7B5Bi+OcD0tMBb+d5xpalqHgWkmk9ylODR7M+hQbVe3gxABPHfWehLELssiSRuHu6G82lWSOkPpuG4Gc3qkF9/94k1uQAgX6HTuNhUPZ9PONiOcGIOHppcfOtE=;5Hkq+7yEDcIdAJmOft1zcw=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 594
         height: 398
         isCached: true
+  - title: "Biden calls for 'peace and calm' after Daunte Wright shooting sparks protests in Minnesota"
+    excerpt: "WASHINGTON – President Joe Biden called for \"peace and calm\" on Monday following an evening of protests after a police officer in a Minneapolis suburb shot and killed a 20-year-old Black man during a traffic stop. Biden called the shooting death of ..."
+    publishedDateTime: 2021-04-13T01:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/daunte-wright-police-shooting-white-house-saddened-over-death/7190534002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7190534002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7190534002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/12/USAT/d6c59278-7bec-4a53-9be9-449dd2c14ebf-Brooklyn_Center_Minn_Police_Shooting_05.JPG?auto=webp&crop=3599,2024,x1,y120&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden Says 'No Justification' For Looting, Violence Amid Unrest Over Daunte Wright Shooting"
     excerpt: "President Joe Biden condemned looting and violence that has taken place in the aftermath of the police shooting of 20-year-old Daunte Wright in Brooklyn Center, Minnesota on Sunday. Wright, a Black man, died Sunday after he was shot by a police officer ..."
     publishedDateTime: 2021-04-12T20:04:00Z

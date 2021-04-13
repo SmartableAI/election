@@ -127,6 +127,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden picks 1st woman to be Army secretary"
+    excerpt: "On Location: April 12, 2021 In a historic nomination, President Joe Biden has nominated Christine Wormuth to serve as the secretary of the Army. If confirmed by the Senate, Wormuth -- who once ..."
+    publishedDateTime: 2021-04-12T21:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-picks-1st-woman-army-secretary/story?id=77029023"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/christine-wormuth-01-ht-jt-210412_1618259882403_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden is convening a commission to study expanding the Supreme Court and imposing term limits on justices"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% WASHINGTON (AP) — President Joe Biden on Friday ordered a study of adding seats to the Supreme Court, creating a bipartisan commission that will spend the next six months examining the politically incendiary ..."
     publishedDateTime: 2021-04-09T18:36:00Z
@@ -160,6 +176,6 @@ related:
         height: 960
         isCached: true
 
-secured: "gswGZDIwRXYqciqXXXaBNnQYddrJKIkHY9z8vO5ccDibgZJpuH12xHwHLyg3+LJOjfQkk2oFi+4CfnX+DxYsIj3XESgfVHQwSmfyTMVW4Fg4cN5trS1whYwPXs7Tx2U0N1Lyi9+R6xY3R/LeDEowaR4AIPgh4LUvU4SmDcBIPDiQKEpHZVMTV1XFxCWtedWCw0ToQLqIuW9PkWfDTJyQ0KltMJQDJj1aWz0GIniy2VrK9ZKCIzhq0VE6IrDpYVaVzFEAKu9IhK4Emw5Hv+xdDLC3dj1vbdGha54y1kShNOBv0otYlMhPRbNi2XCD7aopFgTjC1Ccgy1CxIE7tH+/Hn/IfLPqhrpf8hhX9b6uirQ=;euMinU13NeNWTajuTqRLzg=="
+secured: "frb33ki0B3kS60pLN9iIpnO8/qsZhPTtm8s+MTfWsdmmSudrdTuUi5Xl4WCjMVtFpx/bFKf/N1pczWQpSH5MfNp3jt4e3IDQtPiTPqkZW5hOOHyP34PaIJHva2HtGEQwgFn4LrK+c40ezhHS8QVC1cW9ub0XRUGqrCyoi5v8Anq99G4j65OCIE93zkfRctx4mY3oxYYfAjnLAnlDp1DCSl+zZafpKO3n06f3XmTD+Nmz7HHzseRWem5L35zMlhNw0dYhSTqQzfM8mrDAAsL7Tp10tLWruPxpKfl+IL9eZkNZwZpC0nSjSV3CTK4f+zwMkUvkWgJyVQmMwkS5495oL8OyAtP/IlJ/yXm514q0D1oBJMb2ss3Wrcpark4mXnNm5YKJkIIfR/dmNTRobv293S+u0bGuL8jw//bM60um1lnyfTPAX7m3eyYLQ0VcqXbTZysvw6SKJfS+78ZHz/YZJTARfHsY7yjWJ33VeupZykPS5NJFXVADGDD2KL4otvGzzTngZl1u67CNQtdGnXhcHQ==;fkVsVerO75p6buSchqf5Ig=="
 ---
 
