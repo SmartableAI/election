@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-13-ex-trump-dhs-officials-say-harris-needs-to-visit-border-accuse-her-of-dodging-political-hot-potato.md",
+      "title": "Ex-Trump DHS officials say Harris needs to visit border, accuse her of dodging 'political hot potato'",
+      "excerpt": "Former Department of Homeland Security (DHS) officials under the Trump administration on Tuesday said Vice President Kamala Harris needs to visit the border soon if she is going to succeed in her role as border czar – while accusing her of dodging what has become a \"political hot potato\" for the administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oZ2MhiRyPYs/trump-dhs-officials-harris-border-political-hot-potato",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oZ2MhiRyPYs/trump-dhs-officials-harris-border-political-hot-potato",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb66e53-4ffe-4749-bfa4-7c5a9e5312a3/136d60fa-cca1-4e13-a21f-fd66ca526a31/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp",
+      "publishedDateTime": "2021-04-13T12:36:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-harris-comments-on-daunte-wright-shooting-says-family-deserves-answers.md",
       "title": "Harris comments on Daunte Wright shooting, says family deserves answers",
       "excerpt": "Vice President Kamala Harris took to Twitter late Monday to comment on the Daunte Wright shooting and said his family needs “justice and healing” as the investigation plays out.",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -268,6 +325,63 @@
       ]
     },
     {
+      "path": "_news/2021-04-08-gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.md",
+      "title": "GOP's McCarthy says VP Harris should attend FBI-CIA terror briefing: 'I know she hasn't been to the border'",
+      "excerpt": "House Minority Leader Kevin McCarthy confirmed Wednesday he has requested a classified briefing from the FBI and CIA over two Yemeni men on the FBI’s terror watch list who were allegedly caught crossing the U.S.-Mexico border two months apart this year.   ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l2NdPX8M5DY/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l2NdPX8M5DY/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp",
+      "publishedDateTime": "2021-04-08T00:59:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-mayorkas-not-biden-or-harris-heading-to-texas-border-towns-thursday.md",
       "title": "Mayorkas -- not Biden or Harris -- heading to Texas border towns Thursday",
       "excerpt": "U.S. Homeland Security Secretary Alejandro Mayorkas will travel to two Texas border towns Thursday, according to reports.",
@@ -297,63 +411,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp",
       "publishedDateTime": "2021-04-07T20:51:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack.md",
-      "title": "Psaki snaps when asked why VP Harris had time to visit Chicago bakery but not border, 'she got a snack'",
-      "excerpt": "White House Press Secretary Jen Psaki got snippy with a reporter on Wednesday who questioned why Vice President Kamala Harris had time to visit a Chicago bakery amid the lingering border crisis she has been tasked to deal with.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ3mf0uWiFE/psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQ3mf0uWiFE/psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/943a11fb-AP21096752997903.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack.amp",
-      "publishedDateTime": "2021-04-07T15:39:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -547,7 +604,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208",
       "featuredContent": null,
       "highlight": null,
-      "heat": 980,
+      "heat": 1000,
       "tags": null,
       "images": [
         {
@@ -1566,58 +1623,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-mitch-mcconnell-swipes-at-kamala-harris-senate-role-if-filibuster-ends-in-wsj-op-ed.md",
-      "title": "Mitch McConnell Swipes at Kamala Harris' Senate Role If Filibuster Ends in WSJ Op-Ed",
-      "excerpt": "Senate Minority Leader Mitch McConnell of Kentucky took a jab at Vice President Kamala Harris's role in the Senate if the filibuster were to end, in an op-ed published in the Wall Street Journal on Wednesday. In the op-ed, titled \"The Scorched Earth Senate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
-      "originalUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1758570/senate-minority-leader-mitch-mcconnell-r-ky-talks.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
-      "publishedDateTime": "2021-03-18T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

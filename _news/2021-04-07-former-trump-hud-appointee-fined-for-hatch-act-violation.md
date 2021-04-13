@@ -80,6 +80,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
+    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. "
+    publishedDateTime: 2021-04-13T19:44:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQAr7hmtD3E/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Organization Hires Criminal Defense Lawyer"
     excerpt: "Mr. Vance’s office has said it is investigating possible bank, tax or insurance fraud. Prosecutors have subpoenaed information from former President Donald Trump’s banks, lenders, an insurance broker and other parties, The Wall Street Journal has ..."
     publishedDateTime: 2021-04-07T23:15:00Z

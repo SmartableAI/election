@@ -1347,6 +1347,22 @@ related:
         width: 1024
         height: 700
         isCached: true
+  - title: "Did Trump Ruin Polling, Too?"
+    excerpt: "Pollsters are beginning to wonder if Trump succeeded in discouraging response to polls just as he discouraged voting by mail."
+    publishedDateTime: 2021-04-13T19:20:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/report-on-2020-polling-errors-trump-discouraged-responses.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/report-on-2020-polling-errors-trump-discouraged-responses.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/report-on-2020-polling-errors-trump-discouraged-responses.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/78c/666/539760a198311d9d8dcc56142a8acc8152-trump-rally.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Trump to give keynote speech to GOP donor meeting at his Mar-a-Lago home and club"
     excerpt: "Former President Donald Trump will be delivering the keynote speech at a Republican National Committee donor event on Saturday — and he won’t have to go far. Trump was to speak Saturday night at his Mar-a-Lago club in Palm Beach, Fla., where he has ..."
     publishedDateTime: 2021-04-10T19:36:00Z

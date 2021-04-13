@@ -239,6 +239,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden raises concerns with Putin about Ukraine confrontation"
+    excerpt: "BRUSSELS — President Joe Biden urged Russian President Vladimir Putin on Tuesday to “de-escalate tensions” following a Russian military buildup on Ukraine’s border in their second tense call of Biden’s young presidency. Support our journalism."
+    publishedDateTime: 2021-04-13T19:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Schumer mulls obscure procedural maneuver to pass Biden's infrastructure bill"
     excerpt: "Senator Joe Manchin has been particularly vocal in his opposition to ending the filibuster, arguing that it is necessary to protect the rights of the minority. Mr. Biden expressed willingness to eliminate the filibuster last week if Republicans continue to ..."
     publishedDateTime: 2021-03-30T14:20:00Z

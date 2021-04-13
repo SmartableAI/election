@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-ele
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208?amp=1"
 type: article
 quality: 140
-heat: 980
+heat: 1000
 published: true
 
 provider:
@@ -606,6 +606,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/40/52/20843145/5/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Vice President Kamala Harris Holds Roundtable on Black Maternal Health"
+    excerpt: "Vice President Kamala Harris and White House Domestic Policy Advisor Susan Rice listen during a roundtable discussion on Black maternal health in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Photo by Sarah Silbiger/UPI ..."
+    publishedDateTime: 2021-04-13T18:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7cc5ae89e3c70c3f51d0a71ecb5b6f82/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7cc5ae89e3c70c3f51d0a71ecb5b6f82/HARRIS-BLACK-HEALTH.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Vice President Kamala Harris Touts St. Louis’ Mass COVID-19 Vaccination Site"
     excerpt: "The Vice President spoke with St. Louis Public Radio's Jason Rosenbaum about how the Biden administration is handling the COVID-19 vaccination effort in St. Louis and elsewhere."

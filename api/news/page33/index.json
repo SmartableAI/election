@@ -2,6 +2,114 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-02-19-biden-used-3-key-stats-to-make-a-point-except-they-werent-true.md",
+      "title": "Biden used 3 key stats to make a point. Except they weren't true",
+      "excerpt": "During President Joe Biden's CNN town hall, he made several false statistical claims. Here's what you need to know.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXHccdyeTw0/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXHccdyeTw0/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 495,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210216230847-05-biden-town-hall-selects-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "publishedDateTime": "2021-02-19T11:49:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-trump-repeats-election-claims-in-interviews-is-unchallenged.md",
+      "title": "Trump repeats election claims in interviews, is unchallenged",
+      "excerpt": "Former President Donald Trump repeated false claims that the election was stolen from him 10 times during interviews this week on Fox News Channel, Newsmax and One America News Networks",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_797a515557004f9aae322fd80b74b431_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "publishedDateTime": "2021-02-19T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-america-is-back-biden-affirms-transatlantic-relationships.md",
       "title": "'America is back': Biden affirms transatlantic relationships",
       "excerpt": "Seeking a sharp break from the \"America First\" policies of his predecessor, President Joe Biden reaffirmed the US position of global leadership, the power of its alliances and the resilience of democracy in the United States and abroad.\n    \n",
@@ -1240,115 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.md",
-      "title": "Trump hails Rush Limbaugh on 'Hannity': 'They all respected Rush'",
-      "excerpt": "They all respected Rush' Former President Donald Trump joined \" Hannity \" on Wednesday night to remember conservative radio host Rush Limbaugh, who died at age 70 after a long battle with lung cancer .",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
-      "originalUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1189876914.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
-      "publishedDateTime": "2021-02-18T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.md",
-      "title": "Teachers should be prioritized for coronavirus vaccine: VP Kamala Harris",
-      "excerpt": "Today show host Savannah Guthrie talked to Vice President Kamala Harris about reopening schools and prioritizing teachers to get the coronavirus vaccine, in spite of the fact the CDC said is wasn't necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106841889-16136076081613607604-14206248673-1080pnbcnews.jpg?v=1613607608",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

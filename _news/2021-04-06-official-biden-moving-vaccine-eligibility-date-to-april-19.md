@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-va
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
 type: article
 quality: 125
-heat: 285
+heat: 325
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://thehill.com/sites/default/files/evanswilliam_capitol_getty041321.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden, lawmakers pay tribute to slain Capitol Police officer"
+    excerpt: "Slain U.S. Capitol Police Officer William “Billy” Evans was lauded for his dedication to country, love for his job and for a mischievous sense of humor as President Joe Biden and congressional leaders"
+    publishedDateTime: 2021-04-13T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Business leaders urge Biden to set ambitious climate goal"
     excerpt: "President Joe Biden is considering options for expected carbon reductions by 2030 ahead of a virtual climate summit the United States is hosting later this month. The so-called Nationally ..."
@@ -158,6 +174,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/a5dbf9d3-615a-4fab-8350-33f576afc6f9-AP_Virus_Outbreak_Ramadan_Vaccine.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden pays tribute to slain Capitol Police officer"
+    excerpt: "Slain Capitol Police Officer William “Billy\" Evans was lauded as an American hero, \"defined by his dignity, his decency...and his courage,\" as President Joe Biden and congressional leaders honored him during a memorial service Tuesday."
+    publishedDateTime: 2021-04-13T17:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/biden-pays-tribute-slain-capitol-police-officer/7207126002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1f37893-5012-45f2-8461-47ceb11925a3_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "9wI0I7+WzLuvAvPYwnVSBdy8Lsqrk3w/ByMkcsvV5WPzD9K6RgGgQJVVzPUlANh/ulR0krpyEj1SfLOfRSOqfO08+wwORnQZ7lG6iwWdihlOsOpPvqPBzU2xH4BU4oEpBJYLWkNMycNL+MgQw7Aqd19MPsz5q/ayZYtr+UjaYQIs8jnRwFzGC96QOuRfjAdyhF3rXb7nLJ0K00YwLyduU40Vow4JbMvJyXjx3HQSy9jKvrLwFnd9bLouwgwxYH1FBtGS+b6GB6zRaq/0eWrXi0AFLknHSDXjmUBTLq3znhOmqTDvlzuV5Mg+SV5ty1bV92GGIjzZa11OE5sLzfcP03Uz62TP0U+JCXS+BOaaGbumcAs6oyEQ21T8dFPtfMFGG5HtJRmG4PLzZ7chAmgrrqoSBFoGZFmD6iepwlbULvFxmpTvT4HaxS4qZY+MjALkOWIQRFUZ7N2jp/wvLe66yQqLHF/aohfm0N7ENHDE5XE4iC3ZBS7h3ml1dJR8tA+3JbvlxhaedSRgfJkgG1cFdQ==;rrYpikCvlDDe7MQcH23wcQ=="

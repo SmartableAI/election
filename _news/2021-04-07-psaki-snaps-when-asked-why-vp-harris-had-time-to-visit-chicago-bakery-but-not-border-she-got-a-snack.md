@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-snaps-when-asked-why-vp-harri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-snaps-when-asked-why-vp-harris-had-time-to-visit-chicago-bakery-but-not-border-she-got-a-snack.amp"
 type: article
 quality: 169
-heat: 209
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,33 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "GOP's McCarthy says VP Harris should attend FBI-CIA terror briefing: 'I know she hasn't been to the border'"
-    excerpt: "House Minority Leader Kevin McCarthy confirmed Wednesday he has requested a classified briefing from the FBI and CIA over two Yemeni men on the FBI’s terror watch list who were allegedly caught crossing the U.S.-Mexico border two months apart this year.   "
-    publishedDateTime: 2021-04-08T07:59:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l2NdPX8M5DY/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border"
-    ampWebUrl: "https://www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp"
+  - title: "Ex-Trump DHS officials say Harris needs to visit border, accuse her of dodging 'political hot potato'"
+    excerpt: "Former Department of Homeland Security (DHS) officials under the Trump administration on Tuesday said Vice President Kamala Harris needs to visit the border soon if she is going to succeed in her role as border czar – while accusing her of dodging what has become a \"political hot potato\" for the administration."
+    publishedDateTime: 2021-04-13T19:36:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oZ2MhiRyPYs/trump-dhs-officials-harris-border-political-hot-potato"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb66e53-4ffe-4749-bfa4-7c5a9e5312a3/136d60fa-cca1-4e13-a21f-fd66ca526a31/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "GOP lawmakers urge VP Harris to visit border ASAP: ‘We invite you to make the journey’"
-    excerpt: "Rep. Chuck Fleischmann, R-Tenn., and six other GOP lawmakers are urging Vice President Kamala Harris to visit the U.S.-Mexico border as soon as possible."
-    publishedDateTime: 2021-04-13T16:19:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DqcGJQc3GA/gop-lawmakers-vp-harris-visit-border"
+  - title: "Kamala Harris says goodbye to Washington, DC, home"
+    excerpt: "Kamala Harris doesn’t need her Washington, DC, condo any longer. The newly sworn-in vice president — who has been living in the renowned Blair House next door to the White House, but is moving to her official residence at the Number One Observatory Circle Tuesday — has listed her two-bedroom luxury high-rise residence for $1."
+    publishedDateTime: 2021-04-06T23:29:00Z
+    webUrl: "https://nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/"
+    ampWebUrl: "https://nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-home.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Ex-Trump DHS officials say Harris needs to visit border, accuse her of dodging 'political hot potato'"
+    excerpt: "Former Department of Homeland Security (DHS) officials under the Trump administration on Tuesday said Vice President Kamala Harris needs to visit the border soon if she is going to succeed in her role as border czar – while accusing her of dodging what ..."
+    publishedDateTime: 2021-04-13T19:36:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Chuck-Fleischmann-Kamala-Harris.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb66e53-4ffe-4749-bfa4-7c5a9e5312a3/136d60fa-cca1-4e13-a21f-fd66ca526a31/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

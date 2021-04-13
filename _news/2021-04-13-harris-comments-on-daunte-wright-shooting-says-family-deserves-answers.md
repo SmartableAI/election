@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-comments-on-daunte-wright-sh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers.amp"
 type: article
 quality: 185
-heat: 305
+heat: 285
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ada110c-7331-40cd-a281-b8345420ab7d/6ec9a2e0-4688-40b3-b7bb-b7216727bf5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Kamala Harris says goodbye to Washington, DC, home"
-    excerpt: "Kamala Harris doesn’t need her Washington, DC, condo any longer. The newly sworn-in vice president — who has been living in the renowned Blair House next door to the White House, but is moving to her official residence at the Number One Observatory Circle Tuesday — has listed her two-bedroom luxury high-rise residence for $1."
-    publishedDateTime: 2021-04-06T23:29:00Z
-    webUrl: "https://nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/"
-    ampWebUrl: "https://nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-home.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Arizona AG Mark Brnovich doubles down on VP Kamala Harris border invite"
     excerpt: "Arizona’s attorney general is reiterating his plea for Vice President Harris to tour his state’s section of the US border as the migrant crisis continues to overwhelm the region."

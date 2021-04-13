@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-do
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
 type: article
 quality: 182
-heat: 522
+heat: 542
 published: true
 
 provider:
@@ -298,6 +298,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "DeSantis, Florida GOP haul in millions in donations — Gaetz ally scrambled to contain fallout — Scott tries to joke about Trump-McConnell feud"
+    excerpt: "Newly filed campaign reports detailing the pre-session fundraising rush show that even in the long shadow of the Covid-19 pandemic, Republicans — as usual — dominated. The GOP edge — The Republican Party of Florida — along with leadership committees led by Senate President Wilton Simpson and House Speaker Chris Sprowls — brought in slightly more than $5."
+    publishedDateTime: 2021-04-13T10:58:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/04/13/desantis-florida-gop-haul-in-millions-in-donations-gaetz-ally-scrambled-to-contain-fallout-scott-tries-to-joke-about-trump-mcconnell-feud-492450"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 79
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
         isCached: true
 
 secured: "w6Wj7UvcoIvlmGgSAgVxRJdcUVBgqFjwhA/W2g0Bz4zMRXVTmvziZ0YySANAkOvPLczdU1WmFBT/N+7vuZ1DhSMslReM1ZQP9IhHNkzV7zWqxHipuzv/S6ErnNjWKg699CldqEMfob47BChd6UDQ1kDcg2Mq+d0VOx43nnWP9a7e58z0wKEcicyaPp7xHba+zucZgwNOyeiMCk8Xm+rD2hzg/X/ePFB6S7gRiD4dvFvZpymJkvBUDIojtDSPFuEuMgsknZ81iyidcxDI5l/8L+B5kYl6J6PVExyMSfHaJvGe0AGnomCvP5JsffQl/XKpacpj+tNLRjCbXuIJ3qpVPvVx3d677msXm86x8JXZiiM=;IRmrzICi570X5dUG/nr/PA=="

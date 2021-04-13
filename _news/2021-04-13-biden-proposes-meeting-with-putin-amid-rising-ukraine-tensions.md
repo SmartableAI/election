@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin-meeting-proposal/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden proposes meeting Putin 'in a third country' amid Ukraine tensions"
+    excerpt: "President Joe Biden suggested meeting Russian President Vladimir Putin “in a third country” in the coming months, in a call Tuesday to discuss issues facing the United States and Russia amid growing tensions in Ukraine, the White House said. The ..."
+    publishedDateTime: 2021-04-13T18:01:00Z
+    webUrl: "https://www.nbcnews.com/news/world/biden-proposes-meeting-putin-third-country-amid-ukraine-tensions-n1263947"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263947"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263947"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464339/210413-biden-putin-mb-1709_f992cb72bd6ed910718633f276f04c2a.jpg"
+        width: 3778
+        height: 2519
         isCached: true
 
 secured: "IJhPT4cDd02mm+QR9buP8OvNaARgBUpeLRvLWSrxIj0I9EhoXlnihaW8bpHbbqVPH0RPrmqPjqkT9d3DKOJDVi08Z9dsbydXYnVmmI3UAyCTPy17oQk4aZajVLKPDs22it3LhA4OcvMKV9GaVAMmzLJVe194LMmmg4Hn3YG755GQn4CezLVG64T+AdjhtRLWttCIJpds+blfg23lktO81NiWItYiSO5t5/1vVVwrPBylw3QLcQCpfPNQSd5bKHyUJmZw6EMiU+wMecUDjo6Z40CWCP2Qk4BkhtquEkNSwuRwO+P0gygojjAZUIgxxN59hNgcHYpywoy2bMh7/9ibwSpzba5ZRIcFlYKoRItf+aQ=;zBRRfttL7K/FJVIcTKCzRQ=="

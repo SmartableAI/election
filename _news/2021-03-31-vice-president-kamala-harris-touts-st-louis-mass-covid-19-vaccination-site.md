@@ -617,6 +617,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Vice President Kamala Harris Holds Roundtable on Black Maternal Health"
+    excerpt: "Vice President Kamala Harris and White House Domestic Policy Advisor Susan Rice listen during a roundtable discussion on Black maternal health in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Photo by Sarah Silbiger/UPI ..."
+    publishedDateTime: 2021-04-13T18:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7cc5ae89e3c70c3f51d0a71ecb5b6f82/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7cc5ae89e3c70c3f51d0a71ecb5b6f82/HARRIS-BLACK-HEALTH.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "For her first major task as VP, Kamala Harris is handed a thorny diplomatic mission"
     excerpt: "“And you’re smiling.” Kamala Harris’s first major mission as vice president is not one a lot of politicians would be happy to receive. She’s been deputized to own arguably the most politically thorny issue the administration has on its ..."
     publishedDateTime: 2021-04-06T14:22:00Z

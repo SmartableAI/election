@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden, lawmakers pay tribute to slain Capitol Police officer"
+    excerpt: "Slain U.S. Capitol Police Officer William “Billy” Evans was lauded for his dedication to country, love for his job and for a mischievous sense of humor as President Joe Biden and congressional leaders"
+    publishedDateTime: 2021-04-13T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Business leaders urge Biden to set ambitious climate goal"
     excerpt: "President Joe Biden is considering options for expected carbon reductions by 2030 ahead of a virtual climate summit the United States is hosting later this month. The so-called Nationally ..."
     publishedDateTime: 2021-04-13T11:50:00Z
@@ -158,6 +174,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/roberta-jacobson-gty-jc-210409_1618009006290_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden pays tribute to slain Capitol Police officer"
+    excerpt: "Slain Capitol Police Officer William “Billy\" Evans was lauded as an American hero, \"defined by his dignity, his decency...and his courage,\" as President Joe Biden and congressional leaders honored him during a memorial service Tuesday."
+    publishedDateTime: 2021-04-13T17:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/biden-pays-tribute-slain-capitol-police-officer/7207126002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1f37893-5012-45f2-8461-47ceb11925a3_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "8TRkDDTGDZat505gct8ikIadeQOH8XK3UUjxH/aVUrdUjvAXUQB71fTkQRFHomPsVi7EafwRGMFC+hZw3qwBu0a7sijF2qz/DiuiBhvRd1WYb3FCrc2dyzCWYKuSOmhbQVVFcGC1dNy1T1kEn8WA4Pcq7gTnrigUMkfarVodyX6PqN5J2gXfk/NCdMH0PPLlkUJThAFT0zt7t8iLQF7gaP2i6mi7kHXmD6wcqQkktyxb0R9PXOvx8vV0nNhZGvRTM0W3NlOoxFuQ5hFn5MOe46CxLXwSyscuut0lMaVaPwdROWjskhN2noFA5ZMbje0yDfqYWi+xI8ZVyyNiK+gmPR7v7YKwiLKKAd/xOGnjMfw9TEDuRGEBssNE5WWLwEIGnMsaFReUpqhC968HZwPyhlC9cA1QuNMUzDv+tv7aR7pKSllCfj7Vt6O/2OlBZqSTSy8rQqLAyvNGUZbB3HFqrRxpnPNs7JDnny5TKdmMfTGluqjHjuyXDgAoCNdEQNYr2A20b+avlY0kw2VUyH0bcg==;2tp6MbV/wwWkg7Ogg/CaLA=="

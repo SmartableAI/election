@@ -2,6 +2,120 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-01-21-a-total-failure-the-proud-boys-now-mock-trump.md",
+      "title": "‘A Total Failure’: The Proud Boys Now Mock Trump",
+      "excerpt": "Members of the far-right group, who were among Donald Trump’s staunchest fans, are calling him “weak,” in a sign of fraying support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
+      "publishedDateTime": "2021-01-20T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-sotomayor-mispronounces-kamala-harris-name-twitter-reacts.md",
+      "title": "Sotomayor mispronounces Kamala Harris' name – Twitter reacts",
+      "excerpt": "Supreme Court Justice Sonia Sotomayor on Wednesday botched the pronunciation of Kamala Harris’ name during her swearing-in as the nation’s next Vice President – and the Twittersphere was quick to pounce on the mistake.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yR9OCBPOPeo/sotomayor-mispronounces-kamala-harris-name",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yR9OCBPOPeo/sotomayor-mispronounces-kamala-harris-name",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sotomayor-mispronounces-kamala-harris-name.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sotomayor-mispronounces-kamala-harris-name.amp",
+      "publishedDateTime": "2021-01-20T11:17:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-pelosi-says-trump-could-be-accessory-to-murder-in-connection-with-capitol-riot.md",
       "title": "Pelosi says Trump could be 'accessory to murder' in connection with Capitol riot",
       "excerpt": "House Speaker Nancy Pelosi said former President Donald Trump could be considered an accessory to murder in connection with this month's deadly riot at the U.S. Capitol. ",
@@ -1238,114 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-bidens-defense-secretary-pick-pledges-to-uphold-principle-of-civilian-control-of-the-military.md",
-      "title": "Biden's defense secretary pick pledges to uphold 'principle of civilian control of the military' ",
-      "excerpt": "President-elect Joe Biden's nominee for defense secretary, retired Gen. Lloyd Austin, pledged on Tuesday that he will \"uphold the principle of civilian control of the military\" if confirmed to the post.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7KA3VxIIBPg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7KA3VxIIBPg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/lloyd-austin-defense-secretary-nominee-hearing/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/lloyd-austin-defense-secretary-nominee-hearing/index.html",
-      "publishedDateTime": "2021-01-19T13:29:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says.md",
-      "title": "Iran's nuclear 'breakout time' has shrunk to three-four months, Biden's top diplomat pick says",
-      "excerpt": "The time it would take Iran to make enough fissile material for a single nuclear weapon has fallen to three or four months from over a year under the 2015 Iran nuclear deal, President-elect Joe Biden's choice to be the top U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548353909&r=LYNXMPEH0I1I0&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

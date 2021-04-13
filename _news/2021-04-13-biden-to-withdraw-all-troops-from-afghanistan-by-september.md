@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
+    excerpt: "President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some strange bedfellows over what to do about America's longest"
+    publishedDateTime: 2021-04-13T19:12:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2cl11CTCnfE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to announce Afghanistan withdrawal by September 11"
     excerpt: "President Joe Biden plans to announce a withdrawal of US troops from Afghanistan by the upcoming twentieth anniversary of the September 11 terrorist attacks, according to three people familiar with the plans. The withdrawal extends the US troop presence ..."
     publishedDateTime: 2021-04-13T16:44:00Z
@@ -113,6 +129,6 @@ related:
         height: 619
         isCached: true
 
-secured: "y0eWXLzsDmLiIGvRxUo+8omsGh2c9+f8zLqkBRMB3QvbFxQBa6oeulUGRBk4jSlLRBCFpYBEouAL6GPRoGVzr0Ioyi+Hqim4C8b/K4fgNFeEu6pTAzoTdwwNwZZq9Wnt6s+9NZbeQiil8Kjz3B5tH169r7WLITSPnL4Mf5jAlDjtEyncumYoIN/YbIa3UDtcQE+c3BjdCD9uYe3/tRo8+sMZWblGi9Fp40ZEHS1hBul1I934V+esnb5ApSbWRz7zAev006FFO7RjMOqi0wJfFVEuGNNcbSPWSHx53WcyKIPg92Ppcn+UZVDOxBSfRlBrF8a/ZTY4rJ1xKPYYtJtj9FKQn76QsCLX1iJBhQR4fKQ=;M0ZeBRKVxf0uIh6uoUgqxw=="
+secured: "zWuhwhGWyxkTW3XZbLtrfscNt0wuSD1DOvEaQeVZHtnWOStE6tyC1lK6u0irAKtukpr/oEDg8jOGnTHDxdxSmg/MQD3GRVMGEYOSWxWEhdBQkyu/kn4ycbgjORcZYD6z1qPhOCCRGI05vm7EMDr65a3COwQF89WZ8IocVfPFYLUXhfUU8673ouoX6dWOJNfQ50vtax0XCS4DHX6mhqxgLqO8Xz+Ud5pphuR1T/rZAd3rfVsaW3imLsdLZMaQZ6CcMCfSA4rJoWB5fXf+iHJmnUEG071qNT7PiwsudRdeEK1dVGGz3dbPFPQZXhsiROmtWL8TZRmOJcnDsyuNIT3eL9ub/H3ZQGAz03fctjKKaBoDKQnMOaEr/xe+Y58AQ2pl3hVXPUuJ95TXwwCIcFOXD+bBr21sc57x5MkeQN0gEQTsEMVk0wmhOCVy5dTh4XVAFuMbc6QnHfxr/sa8SfRBESJleERlisMuUlozX8c+NLWbgMN0MybH2jERsOJAX3qTh1Trr8lJByOhx2duu10lAQ==;9hH3E5NRZQaXOkn118yGIQ=="
 ---
 

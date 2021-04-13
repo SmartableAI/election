@@ -95,6 +95,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "McConnell brushes off Trump's 'son of a b---h' comment"
+    excerpt: "on Tuesday told reporters that he wasn’t interested in getting into a food fight with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on ..."
+    publishedDateTime: 2021-04-13T19:07:00Z
+    webUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment"
+    ampWebUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mconnellmitch_41321_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump alumni launch America First Policy Institute"
+    excerpt: "a political group allied with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
+    publishedDateTime: 2021-04-13T18:48:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/rollinsbrooke_41321_americafirstpolicyinstitute.jpg"
+        width: 2392
+        height: 1574
+        isCached: true
   - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
     publishedDateTime: 2021-04-07T14:18:00Z
@@ -126,6 +158,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Nikki Haley backs Trump for 2024 run after previously saying he would be 'judged harshly by history'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Nikki Haley, one of the Republicans tipped for a future GOP presidential run, said she wouldn't run in 2024 if former President Donald Trump decides to, after previously saying he would be \"judged harshly by ..."
+    publishedDateTime: 2021-04-13T12:26:00Z
+    webUrl: "https://www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/60758daf3e3fe7001882a4a1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "EDocowWy9a1VQBFJJZ19enQ+FyQa2jSKi/k3zHuWqcWa+p9lbH1Ew0u3+EPGCNuo7ShvuRACdXryh0eAOucOVYLGziGK9c1HHO5rmnULkBYj9ll6a5haVs3Vyz0/wRg0VdGnvTyoZaFdLelpgVm3DM9R44DKFJU+8GK4wGkcCf5KM84VAkYCoDPemqn8B5JeWhESGlqtti+Lcm1dPqPqjde0Ip00Dpti/gchtI+hARjo6o8qOAKrqaaCKKl8zdGBpoTOs3Smn0mZl1DVp826BC3HUjTtiklCj3I0uc/ESbehKj6J9jmLCbFCiNZpD5VYNDw3Two2mF60u+TLcLTM9TurfEBJidZcuM7KkkpEm5vjxDPiPRJFvldFZ4nkuFJjMLLHMetYOZ6cUN0C62Khzu4WVu4BoyDsYpmrF20Sz4JCG49rjiGqMUEYxXG18sp6Wa4yDzTSZkZvKahLm9EMsIJjp8YbeVjtRgSoSGxxdAvLXwLpSOThcNU18JMJu+UWFEC/KXX30snt+NjzI3Dm0g==;Kra07uITyPKOTq7Lr18BiQ=="

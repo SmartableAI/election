@@ -233,6 +233,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden raises concerns with Putin about Ukraine confrontation"
+    excerpt: "BRUSSELS — President Joe Biden urged Russian President Vladimir Putin on Tuesday to “de-escalate tensions” following a Russian military buildup on Ukraine’s border in their second tense call of Biden’s young presidency. Support our journalism."
+    publishedDateTime: 2021-04-13T19:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Fixing the credit Catch-22: How Biden wants to make credit scores fairer"
     excerpt: "Reforming credit scores is one of U.S. President Joe Biden’s many priorities as he tries to repair the financial wreckage caused by the coronavirus pandemic, which disproportionately harmed minorities, women and low-income workers, according to ..."
     publishedDateTime: 2021-04-08T10:13:00Z

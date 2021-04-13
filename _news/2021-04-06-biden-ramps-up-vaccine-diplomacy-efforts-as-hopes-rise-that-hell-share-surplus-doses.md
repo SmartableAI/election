@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden proposes meeting Putin 'in a third country' amid Ukraine tensions"
+    excerpt: "President Joe Biden suggested meeting Russian President Vladimir Putin “in a third country” in the coming months, in a call Tuesday to discuss issues facing the United States and Russia amid growing tensions in Ukraine, the White House said. The ..."
+    publishedDateTime: 2021-04-13T18:01:00Z
+    webUrl: "https://www.nbcnews.com/news/world/biden-proposes-meeting-putin-third-country-amid-ukraine-tensions-n1263947"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263947"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263947"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464339/210413-biden-putin-mb-1709_f992cb72bd6ed910718633f276f04c2a.jpg"
+        width: 3778
+        height: 2519
+        isCached: true
 
 secured: "lbVTB7ihv8UJ0n50oicM4AzaSkbWRFoNXsgEWLBtI/jwczJUgY2Bk608CGGnmqIi9t04jSMvc1U+pi9sxhvfZ6a6GXXsCOQ2GjdFen4e6mIePshrcidk5Ac24I13HH4So4x4I4y4NZt2K5iTWe5/wGyKq2SJvsKz0uUsFQHQcDHDL61QAa+uaXtXLPg4buUQaad/w48Xqn2ZOpj2ARb2jHnFjsKLVjMGAG8A6F3UDPcUeqNj9xnCgH8w6qOb7IHDoxX72UfYhsvYoSWZNwpp4PQAdX5ukfrUnxEF5YJRLUYb2fcSwgKd4l7R3aXRi/PaZ97T/SSnW+FfHbL/YnyvvlwpZE1HWDlHG+HpktcyWD0=;Avka0nUOaf3ms2ejqpDMNg=="
 ---

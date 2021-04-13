@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrast
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409090427-01-pete-buttigieg-0330-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats send letter to Biden requesting immigration bill in second part of infrastructure package"
+    excerpt: "A bicameral group of Democratic lawmakers sent a letter to President Joe Biden on Tuesday requesting he prioritize legislation that would offer a pathway to citizenship to undocumented essential workers in the second part of his two-part infrastructure package set to address education and childcare.\n"
+    publishedDateTime: 2021-04-13T18:01:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/epHni426BU4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-infrastructure-biden-essential-workers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-infrastructure-biden-essential-workers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413125118-castro-warren-padilla-lieu-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

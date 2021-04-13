@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden, lawmakers pay tribute to slain Capitol Police officer"
+    excerpt: "Slain U.S. Capitol Police Officer William “Billy” Evans was lauded for his dedication to country, love for his job and for a mischievous sense of humor as President Joe Biden and congressional leaders"
+    publishedDateTime: 2021-04-13T16:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden family dog Major to get 'off-site, private training' after two biting incidents"
     excerpt: "He added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. Major and the Bidens other dog Champ moved in to the White House a few days after Joe Biden's inauguration ..."
     publishedDateTime: 2021-04-12T12:59:00Z
@@ -158,6 +174,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/a5dbf9d3-615a-4fab-8350-33f576afc6f9-AP_Virus_Outbreak_Ramadan_Vaccine.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden pays tribute to slain Capitol Police officer"
+    excerpt: "Slain Capitol Police Officer William “Billy\" Evans was lauded as an American hero, \"defined by his dignity, his decency...and his courage,\" as President Joe Biden and congressional leaders honored him during a memorial service Tuesday."
+    publishedDateTime: 2021-04-13T17:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/biden-pays-tribute-slain-capitol-police-officer/7207126002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1f37893-5012-45f2-8461-47ceb11925a3_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "6W45tC899urr5E/tnUhwSuRpBqdCzvBKp2mECgbOf52PqrhOd+kz5okKNDXv3XS26ZDQfEp2/C1NZ0P4AeZClY3VsWWZ4cZztPmLDyi7rkMo7X+vb2vw1SYzWGtVDVLwLdyH9E+T9pNLK7tQpGXkJkBXjgFAVDwWWH/PnYDsjytQXnuknLdik+OWJ3y0NyZl1OtGIkhhdOJvRXQ2+IFg2Dco3ZxbD7Yf0uX0iXmYX9uPKMuFDyxPtiSJyTM/O6Ie8QujNBCu62L7rPk5A9so+eQdWPGqis2iKPvciOX4Tp6MacQRILHbLgq9n6oLAh6ARVkGHBC2t4C+GND18Qc+vV8daUaljavezbcj/TC26JALHEGy51dYn1Ydb61c3Q7dfBXVbziMcJqIvrtSr899mBMypYHLYOeNfpEX57kCc60nm7nkRh8OG4k+RP7/iG4ucgd1olemPzyLT2DdXi3X9Kz7f/npUNF22hjut5eKa9G0wHyLD+MDMaNO7L9eDuCCq3cKZvbr3RWmgSSkmGbQ3A==;lScUbPFlsZu99ngMsDFcsg=="

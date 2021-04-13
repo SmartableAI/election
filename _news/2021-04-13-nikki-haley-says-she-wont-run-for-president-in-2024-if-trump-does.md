@@ -76,6 +76,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
+    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. "
+    publishedDateTime: 2021-04-13T19:44:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQAr7hmtD3E/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former Trump HUD Appointee Fined for Hatch Act Violation"
     excerpt: "A former Trump administration appointee to the U.S. Department of Housing and Urban Development admitted she violated the Hatch Act by using her position to produce a video about conditions in New York City public housing for the Republican National ..."
     publishedDateTime: 2021-04-06T19:21:00Z
@@ -157,6 +171,6 @@ related:
         height: 640
         isCached: true
 
-secured: "gkHQ8M1amnJl2r6EleqIYjTAw/myp7TTR1yAGpeCPNiIfxiBR+PK/VpBrbPklbDo3z8JRaO5dqBYtVCJr1c6Gsok57Jtj+lMWPPTHc7IhUIP32680TsQzUcw14W4MP8EJqLvO9ULxfY38JIPUAiZu0wy+e+ATvXGQa2UXCzjeluWjR9uXrY6BnzXrEn/Xkud6HifMySacCLKGPcv/u5LCdnTAftyuwSSsfo9p5IXT+BTeTOx3/iDgFSzggfyTd+Ujs5/yU8tNrfcUbSh0tHyDLlfkp4r2tJUXHPowlffx0RFhjfGp7vNnOyRWmkJcGHO5VILirYjB3hM66+Jpo/gDKFeSvuasQdhhpYIx406QEM=;7CtqXDHw5pAWx9KJ1zYKfA=="
+secured: "McRE0WQYRK3yxScmRnotCTPSDF3qC3C4xyvoBRiv556unDD5yiX7fq0bHOMXrCpBrNymJGmm9GWN5LV6T9fl14+h5vgf2diVGPIpBRBIwMUOyeOqjy+/X0OWex1RnT6RTNK6dw17IHYGYZoz5lwRn0PB49nbnfTaPRGOcnTk42RSrGqLjc0TD5TLXjNZjJEUCvbse0PJ06C0T54v6x331bnyJqJxhAAu6s86xyXypNDhDJuYJH7jRtNY6njtGxaVQZuYRGYfmwJk0+2RE9Ot5duuE5bNEvxHYfqIoAaFVP1SUrcdv2ZKVJ5HjIsUU4sNtz/LBzLr7WxvQqTPMCA9721c3C8UOmyFWiwyLyF/U6rmU755OmabARZ/lVfipWGcGdd1sud6ZF767QfMTnwdZxg2XcUbe0T5gyS93bvfnCb1PQ20WEEPVl39jDaIseYEmydmAi1YLIIWE9XNKuKstgbjM6R7btmzYOu8XQqV9J1SW6I2Yb5MNlkv1kCP/FUB42yIN7h4NMKFcX4zzRWGeg==;iux9JEko+pbwLCuP1kgy9g=="
 ---
 

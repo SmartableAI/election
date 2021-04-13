@@ -1333,6 +1333,22 @@ related:
         width: 1024
         height: 700
         isCached: true
+  - title: "Did Trump Ruin Polling, Too?"
+    excerpt: "Pollsters are beginning to wonder if Trump succeeded in discouraging response to polls just as he discouraged voting by mail."
+    publishedDateTime: 2021-04-13T19:20:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/report-on-2020-polling-errors-trump-discouraged-responses.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/report-on-2020-polling-errors-trump-discouraged-responses.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/report-on-2020-polling-errors-trump-discouraged-responses.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/78c/666/539760a198311d9d8dcc56142a8acc8152-trump-rally.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."
     publishedDateTime: 2021-04-11T16:04:00Z

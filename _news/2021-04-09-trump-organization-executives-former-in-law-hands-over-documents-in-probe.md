@@ -80,6 +80,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
+    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. "
+    publishedDateTime: 2021-04-13T19:44:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQAr7hmtD3E/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former Trump HUD Appointee Fined for Hatch Act Violation"
     excerpt: "A former Trump administration appointee to the U.S. Department of Housing and Urban Development admitted she violated the Hatch Act by using her position to produce a video about conditions in New York City public housing for the Republican National ..."
     publishedDateTime: 2021-04-06T19:21:00Z

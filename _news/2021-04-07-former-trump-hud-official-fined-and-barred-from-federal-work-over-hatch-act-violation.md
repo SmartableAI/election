@@ -300,6 +300,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "DeSantis, Florida GOP haul in millions in donations — Gaetz ally scrambled to contain fallout — Scott tries to joke about Trump-McConnell feud"
+    excerpt: "Newly filed campaign reports detailing the pre-session fundraising rush show that even in the long shadow of the Covid-19 pandemic, Republicans — as usual — dominated. The GOP edge — The Republican Party of Florida — along with leadership committees led by Senate President Wilton Simpson and House Speaker Chris Sprowls — brought in slightly more than $5."
+    publishedDateTime: 2021-04-13T10:58:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/04/13/desantis-florida-gop-haul-in-millions-in-donations-gaetz-ally-scrambled-to-contain-fallout-scott-tries-to-joke-about-trump-mcconnell-feud-492450"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 79
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
+        isCached: true
 
 secured: "JlpNJHwObsyAryeeBWGKSSj6EgFS491cCiEF9o0A1hDm+aNkRQnyswXQVjcKnzBuuC6io3JmzchrPMW51jQU4a38ldpu/h7BXfJn7rL2vJR7vjsy0l91isqRHqqiBCFBcnRKVHNVmOXx6dInKxCTvNj3D0lugqAIqZgEGbfeqiFn9c8WRy9gRJAO0SC20DHhKXr98t/zGlhQt3fq6vNkY2cV6b21loTthclV4Cj17a39WIYJvU17oHlAM0A2kFj5ioilOstlAW1Q2ul5ktsyX2vmIy0OdO63rCfTCxkVIiIgtrHCWbJGHECYdCktYsKNsjhWuVEzfDX6kBM2cvyRtetkKJD4WGYpNW8rUQD9Tmpuf2ZAKL+SxxsjL/1t210PXOnWUPxoRmEpX3Dt5u855rKntD+KfeMOc35KAhhf53TVUpwuJEdEqZeNxp1CoXOvNbOnCRZklTGEKsKbXbtov6NAjPLH+iQh4453RAdD0AOWVOVStLtSueokZRXO2oVeMhK9AE/nxyva6uCiXqEQww==;HViKNspRCfa9F5Luy3IBIg=="
 ---
