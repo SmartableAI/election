@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/546781-biden-reassuring-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
       - url: "https://i.insider.com/606e0dcd70954f0019195bdc?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Joe Biden calls for probe into Minnesota police shooting, warns against 'looting'"
+    excerpt: "A video Biden described as \"fairly graphic\" showed the man, Daunte Wright, being shot on Sunday in Brooklyn Center, Minn., just miles away from where the trial of Derek Chauvin, the former white Minneapolis police officer charged with murdering George Floyd,"
+    publishedDateTime: 2021-04-12T20:48:00Z
+    webUrl: "https://www.postbulletin.com/news/nation/6981368-President-Joe-Biden-calls-for-probe-into-Minnesota-police-shooting-warns-against-looting"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 45
+    images:
+      - url: "https://www.fccnn.com/incoming/6980400-9sq9g8-Protest-after-police-allegedly-shot-and-killed-a-man-in-Brooklyn-Center-Minnesota/alternates/BASE_LANDSCAPE/Protest%20after%20police%20allegedly%20shot%20and%20killed%20a%20man%2C%20in%20Brooklyn%20Center%2C%20Minnesota"
+        width: 1140
+        height: 712
         isCached: true
 
 secured: "Eg9+cTesbu2dMNAC9XU7jx72T+nDhYsgYXYIAUdPGQwh6s3JHKne3XllcEn4gH209R9TxUMQwpGmvveh7nNXZwrD6OD8HS6q/9ISvIVjF/bo/OvmMYmGRxZFWHZYacZ1bYxi0mHPYccoix+rm8N7aoPdaZCEe4D92hTIhf/8rBzBe9+8WVb7i8ftpT8jo+NW0PkX1C/D+9bVq88ACyUWeNWvDx1VRyr0D4tsLMru+4+QGuggCk7kcTo7QHJIgRHOut4IjqXRThlz49P+w20iGBZhXDqe3kOxypmXBBtzj2MdOokc5ORocp7gCtMpCoCqLPK9Nmkhr87J66amFpO7cwF0WTsQxrCYw6yCoTRZnr0ZxThpeqFTQlstpaJibMq0R3s2umxCRM+M8OBGPc4chDQSaAa2j9RIah7WqSEUstvs/3RO55z7U6tnZX/o6GeX8uC2JDioVN1jjUMdeWANk8R82qW/nZXCI3BSDjp2J5LIbc5JGpUR6PlDgl5w6c9Ierdw50zL3a5uWh6vgGWzTg==;y0hmsGc6XoEPe7wfYuDSyw=="

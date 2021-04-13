@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1513
         isCached: true
+  - title: "As Amazon and the White House face off, it's Jeff Bezos one, Joe Biden nil"
+    excerpt: "Jeff Bezos one, Joe Biden nil. Last week's anti-union vote by the majority of workers at an Amazon warehouse in Alabama was driven by factors both local and universal. But it indisputably demonstrated both the political might of an online behemoth that has profited handsomely during the pandemic,"
+    publishedDateTime: 2021-04-12T23:08:00Z
+    webUrl: "https://www.cnn.com/2021/04/12/world/meanwhile-in-america-april-12-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/world/meanwhile-in-america-april-12-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/world/meanwhile-in-america-april-12-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210403142125-01-amazon-bessemer-alabama-0330-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'The Senate has discovered water': How the parliamentarian could reshape the Biden agenda"
     excerpt: "(CNN)A crucial decision this week by the Senate's parliamentarian could have sweeping ramifications for Joe Biden and future presidents to ram their agendas through the chamber along straight party-lines, putting Democrats on the cusp of pushing the rules ..."
     publishedDateTime: 2021-04-06T22:47:00Z

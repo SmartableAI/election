@@ -1042,6 +1042,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Says New York Tax Law Doesn’t Apply Because He’s Not President"
+    excerpt: "Donald Trump said a New York law enabling Congress to ask for his state tax returns no longer applies because he isn’t president. The law, known as the Trust Act, allows the state to share the president’s tax information with a congressional committee ..."
+    publishedDateTime: 2021-04-13T01:05:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/trump-says-n-y-tax-law-doesn-t-apply-because-he-s-not-president"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i73ntXwqhJ.I/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump expected to affirm commitment to GOP, raise possibility of other Republican nominee in 2024 at closed-door speech"
     excerpt: "PALM BEACH, FLA. — Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee — in a closed-door speech to donors Saturday night."
     publishedDateTime: 2021-04-10T21:31:00Z
@@ -1245,6 +1259,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Will Nikki Haley Run For President In 2024? Only If Trump Won't"
+    excerpt: "Haley was one of several prominent Republicans who publicly spoke out against Trump following the siege at the Capitol on Jan. 6."
+    publishedDateTime: 2021-04-13T03:27:00Z
+    webUrl: "https://www.ibtimes.com/will-nikki-haley-run-president-2024-only-if-trump-wont-3179738"
+    ampWebUrl: "https://www.ibtimes.com/will-nikki-haley-run-president-2024-only-if-trump-wont-3179738?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-nikki-haley-run-president-2024-only-if-trump-wont-3179738?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/former-us-envoy-to-the-united-nations-nikki.jpg"
+        width: 1024
+        height: 700
         isCached: true
   - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."

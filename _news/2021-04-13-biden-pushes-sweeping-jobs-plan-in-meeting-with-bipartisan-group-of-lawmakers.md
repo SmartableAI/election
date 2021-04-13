@@ -162,10 +162,10 @@ related:
         isCached: true
   - title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
     excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."
-    publishedDateTime: 2021-04-13T01:14:00Z
-    webUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/chris-magnus.amp.html"
+    publishedDateTime: 2021-04-13T00:37:00Z
+    webUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
     type: article
     provider:
       name: New York Times

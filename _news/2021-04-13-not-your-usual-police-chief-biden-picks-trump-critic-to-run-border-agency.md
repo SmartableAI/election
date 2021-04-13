@@ -2,11 +2,11 @@
 category: news
 title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
 excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."
-publishedDateTime: 2021-04-13T01:14:00Z
-originalUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.html"
-webUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.html"
-ampWebUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/chris-magnus.amp.html"
+publishedDateTime: 2021-04-13T00:37:00Z
+originalUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.html"
+webUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.html"
+ampWebUrl: "https://www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/trump-border-biden.amp.html"
 type: article
 quality: 148
 heat: -1
@@ -333,6 +333,6 @@ related:
         height: 773
         isCached: true
 
-secured: "/9lGdZAFjI+csrKTwj6qCtME9ZHj3w0p0okJhbpmHk5C+Ng2XrLrw/evv2GVYxOH0H7p+hfhSoaKtPrhPxHGmu0kdxQYnGuI0pPK+W7rNyI/G4uJfBrbmWljevi8SMnyWNmx4hK6vxs2Py6ZpH4y765nzxgY9eTNVpoVZaKwPacHaABeQqm4EjVJzM9Ig1Vv371q/3okyEbnO5u0gA7cFpwwLBg+4WKxTbkTcoERHZB7Mvokt51ARGiBNMQCXCDVrSU4XA28iBY9yJKpfpQxHqm6D9jynsd5yPlcsUBw9MTpE11DClYR2H4/LIzjIwPi5XOVEn79bTsW5B8akrhggbCxEjhItYhZvTrFB9lzwX8=;hpqRxuLrtGiSrii6JPs7CQ=="
+secured: "mPA0ScT2l1YqWZm/fbWc+pb8SO2XH/eYx1GnvFVQLuol2eb5gGSsDe57zW4Z7u6ouN+mXBWJsFWOdO4sD7ABMJMAsJVluPDwwXdQ5qpqO6QIzDyveZZ7nG1awEqpt09RnvBtBFbO4UN0Dt9AY78DOcvTl5G6a2ZMQsXiq9SDDliJtAIu53zh7PMkPDkrPr5r5MNCIkgy+gGKqvrtQV01ODEmUME3lCSBUwiWR/jXdYUrgbduTYwC5aEK8HphF3R6Imej4a5wM/3OH+lOwJLKae5sLKUiBo8tB38Po8u4UOhEg0zcCWy7chb3FGsp7imItUlQPnkU/aGl5imORYQWFh4NDYQ5zRU1qg2d38bBclI=;CnHXN6t3VjOIH8YT36mquA=="
 ---
 

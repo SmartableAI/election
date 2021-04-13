@@ -189,6 +189,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President Joe Biden calls for probe into Minnesota police shooting, warns against 'looting'"
+    excerpt: "A video Biden described as \"fairly graphic\" showed the man, Daunte Wright, being shot on Sunday in Brooklyn Center, Minn., just miles away from where the trial of Derek Chauvin, the former white Minneapolis police officer charged with murdering George Floyd,"
+    publishedDateTime: 2021-04-12T20:48:00Z
+    webUrl: "https://www.postbulletin.com/news/nation/6981368-President-Joe-Biden-calls-for-probe-into-Minnesota-police-shooting-warns-against-looting"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 45
+    images:
+      - url: "https://www.fccnn.com/incoming/6980400-9sq9g8-Protest-after-police-allegedly-shot-and-killed-a-man-in-Brooklyn-Center-Minnesota/alternates/BASE_LANDSCAPE/Protest%20after%20police%20allegedly%20shot%20and%20killed%20a%20man%2C%20in%20Brooklyn%20Center%2C%20Minnesota"
+        width: 1140
+        height: 712
+        isCached: true
 
 secured: "De9scgxyiMAe6LurB3M6ZJrxUlfsJKmtrT/VEHlvYgSpAoD/I7LnMP1ai/PorB5Qw5xpdZUTPGu9g4ynxBT28Ljz6XJWUxk2rVfYgf1s+LtoTFCxuP5Hh6a03rJ0HhqGObPCg0iiuOk0KcBXFpfZAu4fNIrEmRU3TJRjRWwzPC1z3vyktH1xp6wkBkHHwnUx/eFexlNO5IkUXMbc9w99dSYHls+vEbQ8L5PUS96dgxI1bQQ1wAvNfdXfvn74m2tyYhD3zfEvbAThvN9P72j9EorM6BPCxam5ZwwPp+3L0gSkD5FRZbaDxCf1xcxLbg6PR6YSMa34+8uh/RRqoXdgsBonBEGJZwuydijjcAszLFdMirt08lno+cpMOux+ef2J6rtsjByg0qe4deywZf+08IIwiY4Cqu7WAJf9cfGZkUAWuVjjq4Yvo1kSLgK954z6FaY20B/9k1aOclbX1JtluhFAW2JV9UBcfBSm6BjUKQMClyjR+VntQD9GNjUMG6/q4iR6f8PeVcGV1+zaEFYUOw==;CyBQvde53wSGns06vYnDtQ=="
 ---

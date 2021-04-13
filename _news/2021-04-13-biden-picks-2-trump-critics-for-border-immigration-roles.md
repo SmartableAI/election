@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Biden picks 2 Trump critics for border, immigration roles"
-excerpt: "Both positions require Senate confirmation and were run by acting leaders under former President Donald Trump, repeatedly drawing criticism from Congress. The number of migrants apprehended by the ..."
-publishedDateTime: 2021-04-12T17:26:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
+excerpt: "Both positions require Senate confirmation and were run by acting leaders under former President Donald Trump, repeatedly drawing criticism from Congress. The number of migrants apprehended by the Border Patrol along the Southwest border has been rising ..."
+publishedDateTime: 2021-04-12T20:23:00Z
+originalUrl: "https://www.chron.com/news/article/Biden-picks-2-Trump-critics-for-border-16094703.php"
+webUrl: "https://www.chron.com/news/article/Biden-picks-2-Trump-critics-for-border-16094703.php"
+ampWebUrl: "https://www.chron.com/news/amp/Biden-picks-2-Trump-critics-for-border-16094703.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-picks-2-Trump-critics-for-border-16094703.php"
 type: article
-quality: 140
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_de8a46fb2d8746c0bc61efc539314a6d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -1954,6 +1950,6 @@ related:
         height: 649
         isCached: true
 
-secured: "DbAWGlRbZPylAbC72ZJbKW2EqYD44ogS/89BnHu0WWEFJDJM6Kp6rHOmFbrX+sbG/nwbxymC8PVSOJ4sqaB5tGHG/YOSfYazWuxdzYE6LPZ9Z9vF95RKYzBsxj2bETi8OMiLCywYpxipl8EGN1/9kzTeURD7Tgs+AALWwaoPVsQgct6oL5wiiM06ru1FKdU5OfQLldFJvi4aH207PEhBg3iDdkKa26HMgPEIqxw5ndM33llSt0Ljly+GBXVZHA9kX7OeU3fv7Wj6hJ77zMGNkx8slRREzhzflC5UN7eHNKm9jUfEzKmqvrwdDtfSn1WcSTWbmD7IZ4toNGhup6LZAIwldQknoxwEqwzr7TiOyCUGO9WNzrc6cmfRJ9NQNWbmL9yRs0G5fjh2ycVxqkIRJO2DYb1aS7qJxEwkU1yLDFxlZJERanGiQqX300mVADYMTkA4vPgUiTGwC5UlrdbJbGzvdRyUFcvS8kgUixCzl5lJjaSkUmy1Kv30sIsZIytdD8BZ6rkgZiuHdsyWXuhSDQ==;FsD5bxyJOvb8PA5h91lkwA=="
+secured: "1Inr8MLmUqIkoEr+dEVqncLdTIPxhcv5mvoDzZuOAWpmmfKgO3jSlPsmLFVnqcrdSz1c2VKTh3usxOCALnSEQ9pS60lzh+eo8ZyjsOANGYvlfxmRg1nLNH5bq0S3ZSGPFSE00MawYv/wWYtaxga/NOxOmY8DRwkz5odexw2EbnBV+ubhOqZL7BH5h+hUzuxLKRBf4yhUS90DpVE1Rnyat9IizCaVOqfwDmc4km4Elo+p4THDNKWyK72EepcI4oqArB01CpCN9S2El5eslWX2d6gds77P38yakffMQ+cNs8OKJEW5Dw6SsC8zS8r8Fi3VevWwnBWU4UyxZBfP8Uzc3Bu9n726IlL5S6TZIQja2ZA=;eTt/PKf7XlRfG4Odikgg1A=="
 ---
 

@@ -334,6 +334,15 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Fact-checking Joe Biden on how little some corporations pay in taxes"
+    excerpt: "A study was released days earlier by a non-governmental group that concluded that at least 55 large companies paid zero federal income taxes in 2020. • However, Biden’s term “loopholes” may not be apt,"
+    publishedDateTime: 2021-04-12T20:33:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/12/joe-biden/fact-checking-joe-biden-corporation-taxes/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 35
 
 secured: "hrEOnYZXyJbo5pxEziliIwN2dAdkeMATWX2jCe8Pd8Mj5GIvqdpdempDP1AZ0PGzAfw0F6mKzSYI2V7AXjfqHXygNHdd2G7tKlLjqclGvI//xO9O+2B7V/0f7H37sCsnUBYUmNXq3eYMT1bkWlAAKv3ZjVMnk2RuUSvWkYFgCuuBlQ9C+zhHHDHZSheNqEmZ83zxim3xpDEhJPlyDWdFnQcqtHsrQ31NyrFHplcKBDodatuIWhgLEEveuGTP6iC5bNYHbbm3ZQQdpVN6MzWAG1UTWIRluvHReQ7zNJDqJlJ7r5Pz0fgo8tt1zqKMFipU7JjtEOirbzvtJK1m6iknOqOKl2M05yCNvMZqYhvJaurk1wCQ9zwIxY6M5j5RVCqQRLYmYyEvlBBOF+YqNrMMn7YjrvSdVjrHFW0oxgXS3SDpSwbyIrINmpaBIYZxtKf4Y7ImY1PVDz/ZPg5IYzwVgrs3lmENSz+E+/ToqksEG9sIRxaehOVAmaO4jKHb5tKHzFeI0fQbKrzcjewQ4cSkmw==;0X95S0QeBDTxIk+bO/nNKg=="
 ---

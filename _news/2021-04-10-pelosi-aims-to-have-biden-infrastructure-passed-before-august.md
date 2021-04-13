@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastru
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -186,6 +186,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7b6dc9f2-ffb6-430e-b675-95cbfb5aa480_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Why Joe Biden Holds Out Hope For Bipartisan Infrastructure Plan"
+    excerpt: "It was smaller than Joe Biden’s team wanted, but the group pitched it in the Oval Office and followed-up with calls and messages. Eventually, Biden’s team felt — correctly — that they ..."
+    publishedDateTime: 2021-04-12T18:17:00Z
+    webUrl: "https://time.com/5954202/biden-bipartisan-infrastructure-plan/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/04/Joe-Biden-Infrastructure-Plan-1.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "No, Joe Biden did not have a medical emergency Easter Sunday"
     excerpt: "This one is bogus, even though it was shared widely on social media. Here are the facts: CLAIM: President Joe Biden needed a special medical team at the White House and was taken to the hospital late Sunday. THE FACTS: Biden was not at the White House on ..."

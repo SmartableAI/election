@@ -271,6 +271,22 @@ related:
         width: 2500
         height: 1513
         isCached: true
+  - title: "As Amazon and the White House face off, it's Jeff Bezos one, Joe Biden nil"
+    excerpt: "Jeff Bezos one, Joe Biden nil. Last week's anti-union vote by the majority of workers at an Amazon warehouse in Alabama was driven by factors both local and universal. But it indisputably demonstrated both the political might of an online behemoth that has profited handsomely during the pandemic,"
+    publishedDateTime: 2021-04-12T23:08:00Z
+    webUrl: "https://www.cnn.com/2021/04/12/world/meanwhile-in-america-april-12-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/world/meanwhile-in-america-april-12-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/world/meanwhile-in-america-april-12-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210403142125-01-amazon-bessemer-alabama-0330-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Prepares to Take on Gun Violence in Wake of Back-to-Back Shootings"
     excerpt: "The president is expected to unveil executive orders on Thursday that will tackle so-called ghost guns and background checks. His office also released a plan to raise $2.5 trillion by overhauling the corporate tax code."
     publishedDateTime: 2021-04-07T17:04:00Z

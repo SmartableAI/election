@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-11T11:26:00Z
 originalUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html#!"
 webUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Biden on pace to allow fewer refugees into US than Trump, humanitarian group says"
@@ -422,6 +428,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "v7sfS4VDpJRgfV4CtctRuWwdxvcr8TswyvnnCifNtx66IUcZkFDccmDTmTR8RwQjBGSfmBu+Ssyji5X6zUSIw2owZBXa87wHDO4RgBa9jbPFpxbeFctveL6k4fQ45FrizeSzzUk7qI2+MC5zruGFDLOCyMb/6PZHFROIvQ4a2mP83L/Fob7VHatfTW1L7ikFJqzzUQ15ZSqAbJcMPOm8I72oglWNtaEUci6od6t4C7b10JbKjPM+lE+vDmVje5FJUrulycmCM2w5+BReVkFuaE31bprfibkGLZun3pGFT89xs7W4k0ABsZTWtZreG980nvHwX4IhbKMBCRQzqf9edlPTaKrMK4rjZq8c1tbc15M=;e/12uxW/HAndgiLQwSn0Ug=="
+secured: "49idR2or8ledEb2th+lFZGta2YXM0blUPmePvlTUwlZx0/9aH+3tbptqkThlgabhXJRZ7pGr1GWgujmGqPZhUQ56pqWAvacqRw1VEsB7o1cweV1OoJPablGiOoyAZjx5Kfxk5rdzL9w35k4bCz9Hu55NsOdhRxUsCpt2O56t8fU7txKDW46h3m2c1EsWOVAg2hN8WHUA/jWNniVYgQJR0SHLPVyr91j25fxCOZWbvQca4m4MZiVfmI5BiBkUsSNiyqurjr6QByRwbmjBk2ac8kQh+cwe1eQaJOYsPnFsWPpkNRYfawKlE/hxu1Ua8Yek7LZVtDWGVrccFzCe0jl6kLAMBTVU3toyYU/RXobVY/E=;KVYlYqJyWkz4C6/sIqRpvw=="
 ---
 

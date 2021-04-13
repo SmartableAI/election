@@ -569,22 +569,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden picks 2 Trump critics for border, immigration roles"
-    excerpt: "Both positions require Senate confirmation and were run by acting leaders under former President Donald Trump, repeatedly drawing criticism from Congress. The number of migrants apprehended by the ..."
-    publishedDateTime: 2021-04-12T17:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_de8a46fb2d8746c0bc61efc539314a6d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"
     publishedDateTime: 2021-02-03T20:01:00Z
@@ -1699,6 +1683,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/15/biden_98707_c0-56-4283-2554_s1200x700.jpg?7897f04f4bfd20cf7092543d1282ed26691c7283"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Biden picks 2 Trump critics for border, immigration roles"
+    excerpt: "Both positions require Senate confirmation and were run by acting leaders under former President Donald Trump, repeatedly drawing criticism from Congress. The number of migrants apprehended by the Border Patrol along the Southwest border has been rising ..."
+    publishedDateTime: 2021-04-12T20:23:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-picks-2-Trump-critics-for-border-16094703.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-picks-2-Trump-critics-for-border-16094703.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-picks-2-Trump-critics-for-border-16094703.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Meet the Republican governor who is already on the attack against President Biden. Democrats have tagged him as 'Trump's errand boy.'"
     excerpt: "DeSantis is leading the pack of Republicans attacking Joe Biden, a plan that could help his 2022 reelection or, if he runs, 2024 presidential bid."

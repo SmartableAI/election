@@ -3,22 +3,18 @@ category: news
 title: "President Joe Biden to nominate Christine Wormuth as first woman secretary of the Army"
 excerpt: "WASHINGTON — A woman may serve as secretary of the Army in the Department of Defense for the first time. President Joe Biden will tap Christine Wormuth, a former adviser for the Defense Department during former President Barack Obama's terms in office ..."
 publishedDateTime: 2021-04-13T02:24:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7196062002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7196062002"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7196062002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7196062002"
 type: article
-quality: 117
-heat: 117
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -30,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "y4Aoxg4XfmBsBFyLMLJ67V/brd+2WyQ+XMcfzsaOdor4QCvpcePOLBzHRiG+7IlAYHVGc31hpNiSed9iZlSFz3snSXWAUZO5bHY004Q5xlXwKexglRk4QWACPxdefglHbMdXvM6OulcS4CRiLSyN31Zy+KVFJW19qNjQYQjhiUHYO3XIJjbo3fgm2yeHMUzF0yzNPOzgJJedkVwWYhqy4Hm2iq695fdBY1nm61acWSx5h0JJOC6b+PxiSpdJGWvEgItvoEvnyK+ksNkscy4s1I46qbz8v43RzO7q6EUAehSK1WIdiwjFXvpa4kyEQ4A8N2eGdpWYnYe0wNpknsBVAwk7a+tXeyHo8lvOwRvsG2w=;Hu3w3Vlj46E4gmSre3a0bQ=="
+secured: "lsEXCM+ctFY3EHBEbSbyd4dF/Jtkx7moVd1+KnkyGCL9os9RwrJy7cFimRiEG7hUo0cqPyaq6gBpCZy5s0epdi+8gDMZOtHambXEr9jNvaeIYJ0r6k3g/Pzh32nhqKnErON8uNulEDYBLewW1ry919H9GHgsObSAPdX4ZGY+bxTlLdS4BA7knQxkfb9xNCKLrVNPdxVvrU+ievo9+x10/0lF1g003YFHTO/hRqMEmfpxCffUbEPpFd6pUQBjynHYM9fDIwNNzQBQlUu2XmFy2WUdKXJ+QcRXVq2EQypAw4TNdwAshZRn1sAWwjdYVzXgoS3IogL3JajQoR284QzGv9KZJd3IsVExunzrvG+93Fw=;1cnw/jXx1g0ucgRtVdzAPw=="
 ---
 

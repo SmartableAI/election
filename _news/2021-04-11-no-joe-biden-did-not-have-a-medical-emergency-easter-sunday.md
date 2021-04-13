@@ -199,6 +199,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Why Joe Biden Holds Out Hope For Bipartisan Infrastructure Plan"
+    excerpt: "It was smaller than Joe Biden’s team wanted, but the group pitched it in the Oval Office and followed-up with calls and messages. Eventually, Biden’s team felt — correctly — that they ..."
+    publishedDateTime: 2021-04-12T18:17:00Z
+    webUrl: "https://time.com/5954202/biden-bipartisan-infrastructure-plan/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/04/Joe-Biden-Infrastructure-Plan-1.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "No, Joe Biden did not have a medical emergency Easter Sunday"
     excerpt: "Some social media users shared a video clip of what appeared to be reporters running on White House grounds to attend a press conference, but the video was filmed during the Trump administration."
     publishedDateTime: 2021-04-11T18:02:00Z
