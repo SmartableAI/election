@@ -28,69 +28,99 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
-    excerpt: "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\""
-    publishedDateTime: 2021-03-30T19:14:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
+  - title: "Harris comments on Daunte Wright shooting, says family deserves answers"
+    excerpt: "Vice President Kamala Harris took to Twitter late Monday to comment on the Daunte Wright shooting and said his family needs “justice and healing” as the investigation plays out."
+    publishedDateTime: 2021-04-13T03:52:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YNwn8aDHZl4/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden urges calm after Daunte Wright shooting, says 'no justification' for looting, violence"
+    excerpt: "President Biden urged “peace and calm” on Monday as authorities investigate what led to the fatal police-involved shooting of a Black man during a traffic stop in the Minneapolis suburb of Brooklyn Center, Minnesota."
+    publishedDateTime: 2021-04-12T20:31:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ada110c-7331-40cd-a281-b8345420ab7d/6ec9a2e0-4688-40b3-b7bb-b7216727bf5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pastor calls for Black community to 'reevaluate' stance on Democratic Party after no invite to Harris event"
-    excerpt: "In a Thursday statement to Fox News, the Rev. Boise Kimber said he believes the Black community needs to \"reevaluate\" their political stance on the Democratic Party after the vice president held an education roundtable in New Haven this week."
-    publishedDateTime: 2021-04-01T19:03:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2m9c_iL9d9w/kamala-harris-black-community-reevaluate-pastor-kimber"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-reevaluate-pastor-kimber.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-reevaluate-pastor-kimber.amp"
+  - title: "Arizona AG Mark Brnovich doubles down on VP Kamala Harris border invite"
+    excerpt: "Arizona’s attorney general is reiterating his plea for Vice President Harris to tour his state’s section of the US border as the migrant crisis continues to overwhelm the region."
+    publishedDateTime: 2021-04-12T15:18:00Z
+    webUrl: "https://nypost.com/2021/04/12/arizona-ag-brnovich-doubles-down-on-vp-harris-border-invite/"
+    ampWebUrl: "https://nypost.com/2021/04/12/arizona-ag-brnovich-doubles-down-on-vp-harris-border-invite/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/arizona-ag-brnovich-doubles-down-on-vp-harris-border-invite/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/Kamala-Harris-Arizona-border-05.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution"
+    excerpt: "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com."
+    publishedDateTime: 2021-04-06T16:18:00Z
+    webUrl: "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/"
+    ampWebUrl: "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-desk-010.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution"
+    excerpt: "Vice President Kamala Harris now has her own \"Resolute\" desk, crafted from materials from the historic USS Constitution warship. The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com."
+    publishedDateTime: 2021-04-08T08:39:00Z
+    webUrl: "https://www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution"
+    ampWebUrl: "https://www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 133
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Rev.-Boise-Kimbe.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-desk.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
-    excerpt: "A pastor in Connecticut said the lack of clergy at a local event hosted by Vice President Kamala Harris is \"an insult to the Black community.\" The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association at a Monday press ..."
-    publishedDateTime: 2021-03-30T19:20:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Watch: VP Kamala Harris Visits Child Development Center In Connecticut"
-    excerpt: "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon."
-    publishedDateTime: 2021-03-26T20:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html"
+  - title: "VP Kamala Harris On Gun Control Executive Order: \"The Solutions Already Exist\""
+    excerpt: "And President Joe Biden has the will and the courage to act. — Vice President Kamala Harris (@VP) April 8, 2021 THE VICE PRESIDENT: Good morning. Over the course of my career, I have seen gun violence up close. I have looked at autopsy photographs."
+    publishedDateTime: 2021-04-08T18:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
+    quality: 61
     images:
-      - url: "https://assets.realclear.com/images/53/538866.jpg"
-        width: 6000
-        height: 4000
+      - url: "https://assets.realclear.com/images/54/540011.jpg"
+        width: 5673
+        height: 3782
         isCached: true
 
 secured: "beABr3fbieLBpGNSKysXJwDPquTSGHqJZGnFuFERtmH5x3LzCyiFYqmq4FI7OfYfA4iV9q3BTKx4N3DYtDLEiVy+k2SBe8SeDVdoTNsbosOPMRHtRBVVgg08nQ2FYOb7Oos4+XllhlyJrp/K+e/XlVcJrh/y/IIMFZW93bv3J0i2zGfmSQDBwEYXfk6bf8YY5SS4iKeRMT6LCa4t90+pCnLzlo+N0gnlVAb1hu449RfF/+o1HqMSLHeMWqlaoTfdDOr8VEEujYLtE2gdFDdV4esR676aTFH6+ElOQnOdGHxKLU09ZbKvqi6xyniWuru2S2JGxaP/WCjQDaGqsluf0KlW5CEvXVytPW46zVDkJk+xKqYf1ZYOl9g3Kl4YkzRA6KDSDkoZY/jUf60yUiNyFV9mEPpm2NFi9rb/ERz2b6Plk8XS20RRpAu4ySWeeovsTkpuY8LT1GV7aBm86eaFQFHzaYmkvs1JVyr46xFr26rE0rPZWcfESB2bo+o7EUvcB/6s5DCY0p6DAzVbcphlHQ==;4bX9fvf0g6XUQwwUPcFf5A=="

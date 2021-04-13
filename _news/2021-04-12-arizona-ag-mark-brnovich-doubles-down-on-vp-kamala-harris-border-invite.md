@@ -28,51 +28,99 @@ images:
     isCached: true
 
 related:
-  - title: "Arizona AG: 'It's important' Kamala Harris, Health Sec. Becerra visit border amid immigration crisis"
-    excerpt: "Arizona Attorney General Mark Brnovich discusses the developing immigration crisis at the border and further probes the Biden administration to act on it."
-    publishedDateTime: 2021-04-11T18:32:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vnVRS3eLb8M/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important"
-    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp"
+  - title: "Harris comments on Daunte Wright shooting, says family deserves answers"
+    excerpt: "Vice President Kamala Harris took to Twitter late Monday to comment on the Daunte Wright shooting and said his family needs “justice and healing” as the investigation plays out."
+    publishedDateTime: 2021-04-13T03:52:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YNwn8aDHZl4/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7acdbc98-6073-48cf-8025-8ec4a188febe/7cf9bca4-791b-4be6-93cc-2fedff7d2742/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden urges calm after Daunte Wright shooting, says 'no justification' for looting, violence"
+    excerpt: "President Biden urged “peace and calm” on Monday as authorities investigate what led to the fatal police-involved shooting of a Black man during a traffic stop in the Minneapolis suburb of Brooklyn Center, Minnesota."
+    publishedDateTime: 2021-04-12T20:31:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ada110c-7331-40cd-a281-b8345420ab7d/6ec9a2e0-4688-40b3-b7bb-b7216727bf5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
-    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
-    publishedDateTime: 2021-04-12T23:55:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
+  - title: "Kamala Harris says goodbye to Washington, DC, home"
+    excerpt: "Kamala Harris doesn’t need her Washington, DC, condo any longer. The newly sworn-in vice president — who has been living in the renowned Blair House next door to the White House, but is moving to her official residence at the Number One Observatory Circle Tuesday — has listed her two-bedroom luxury high-rise residence for $1."
+    publishedDateTime: 2021-04-06T23:29:00Z
+    webUrl: "https://nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/"
+    ampWebUrl: "https://nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-home.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Arizona AG: 'It's important' Kamala Harris, Health Sec. Becerra visit border amid immigration crisis"
-    excerpt: "The AG explained that this mindset is similar to what Vice President Kamala Harris preached on the 2020 campaign trail about \"the need to get out.\" Brnovich formally invited the VP to tour the border on April 2nd, with no response as of yet. \"I am ..."
-    publishedDateTime: 2021-04-11T18:36:00Z
-    webUrl: "https://www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important"
-    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-urges-harris-health-sec-becerra-to-visit-border-amid-immigration-crisis-its-important.amp"
+  - title: "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution"
+    excerpt: "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com."
+    publishedDateTime: 2021-04-06T16:18:00Z
+    webUrl: "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/"
+    ampWebUrl: "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-desk-010.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution"
+    excerpt: "Vice President Kamala Harris now has her own \"Resolute\" desk, crafted from materials from the historic USS Constitution warship. The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com."
+    publishedDateTime: 2021-04-08T08:39:00Z
+    webUrl: "https://www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution"
+    ampWebUrl: "https://www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 120
+    quality: 133
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7acdbc98-6073-48cf-8025-8ec4a188febe/7cf9bca4-791b-4be6-93cc-2fedff7d2742/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-desk.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "VP Kamala Harris On Gun Control Executive Order: \"The Solutions Already Exist\""
+    excerpt: "And President Joe Biden has the will and the courage to act. — Vice President Kamala Harris (@VP) April 8, 2021 THE VICE PRESIDENT: Good morning. Over the course of my career, I have seen gun violence up close. I have looked at autopsy photographs."
+    publishedDateTime: 2021-04-08T18:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 61
+    images:
+      - url: "https://assets.realclear.com/images/54/540011.jpg"
+        width: 5673
+        height: 3782
         isCached: true
 
 secured: "39lU6UWFrgCeStS56urLAwb3fQAlB3DUS/pNQbZDSoPfDqFiCpAm/QaNRHGkwXOP9OhRSV3g/YlBzyBZSz9Zdf/mWiSGfd4WNrnXJ0cBQt6nyUXzU/eCEwtSIk5kNGMFx3VLiooIMJLuuYvXhrowRTIXBwSSkFewype8pzNZTWds+iEBo8cX5krsqnhJ+dkD6wTDvy7fdhG5ObyXydRPJU8vVrmLzkVd9Yebydu9lk9HeUH5cAS1LrWqvcVYm3csUFanTnm69Jyo+2rQ+/9CIZomlTv9HcVahJXvD5gaDYl1vHN3IrtyLG9IDSjsLeYpKbpCG66dCxHXcHapnetz4Q7uf/O26/J6hnQ9K7tVMZc/w+dbQYaCXLTs7otqjQ0B7twizm/nNdq6lASWx/k81eBZ67xnnE9v9LcnX16u4OwmtjTgCql2HEmldowXyMQqBJk6/yHxnVsCCk9kzQvSaNzkD6RuicSxfoS3Vfp7E2T3tUI4qQrfe6y+MKuCl9DyuSCNRCWWVjwMgzw6XPNV6A==;sbPzs/FwXH56ScrSKYdPlA=="

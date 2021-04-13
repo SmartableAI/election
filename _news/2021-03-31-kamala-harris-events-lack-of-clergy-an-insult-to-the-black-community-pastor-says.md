@@ -64,22 +64,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Kamala Harris says goodbye to Washington, DC, home"
-    excerpt: "Kamala Harris doesn’t need her Washington, DC, condo any longer. The newly sworn-in vice president — who has been living in the renowned Blair House next door to the White House, but is moving to her official residence at the Number One Observatory Circle Tuesday — has listed her two-bedroom luxury high-rise residence for $1."
-    publishedDateTime: 2021-04-06T23:29:00Z
-    webUrl: "https://nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/"
-    ampWebUrl: "https://nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/kamala-harris-selling-dc-condo-for-2-million/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-home.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Watch: VP Kamala Harris Visits Child Development Center In Connecticut"
     excerpt: "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon."
     publishedDateTime: 2021-03-26T20:47:00Z

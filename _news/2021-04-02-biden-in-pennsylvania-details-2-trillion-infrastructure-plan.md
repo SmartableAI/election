@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Joe Biden doesn't tweet enough wild stuff for this Republican"
+    excerpt: "Texas Sen. John Cornyn (R) offered a very curious critique of Joe Biden's presidency in a series of tweets on Monday.\n    \n"
+    publishedDateTime: 2021-04-12T22:32:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CFYr5ROGAI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/john-cornyn-twitter-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/john-cornyn-twitter-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022171048-21d-john-cornyn-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Buttigieg: Biden wants 'real progress' on infrastructure plan by Memorial Day"
     excerpt: "Transportation Secretary Pete Buttigieg on Sunday defended the Biden administration's broad definition of infrastructure in the American Jobs Plan, saying President Joe Biden is still aiming for Republican support for the plan while looking for progress on it by Memorial Day.\n    \n"
     publishedDateTime: 2021-04-11T15:22:49Z

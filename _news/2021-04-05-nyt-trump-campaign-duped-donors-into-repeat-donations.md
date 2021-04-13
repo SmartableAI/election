@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
+    excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."
+    publishedDateTime: 2021-04-13T01:14:00Z
+    webUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/chris-magnus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/12/us/politics/12dc-dhs/12dc-dhs-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "2 Dem senators balk at Biden's new spending plan"
     excerpt: "Joe Manchin wants his party's leaders and President Joe Biden to make significant changes to their sweeping new tax-and-spend legislation — and he’s got other Democratic senators with him. The West Virginia Democrat is readying for his second act after ..."
     publishedDateTime: 2021-04-05T19:12:00Z

@@ -62,22 +62,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Arizona AG Mark Brnovich doubles down on VP Kamala Harris border invite"
-    excerpt: "Arizona’s attorney general is reiterating his plea for Vice President Harris to tour his state’s section of the US border as the migrant crisis continues to overwhelm the region."
-    publishedDateTime: 2021-04-12T15:18:00Z
-    webUrl: "https://nypost.com/2021/04/12/arizona-ag-brnovich-doubles-down-on-vp-harris-border-invite/"
-    ampWebUrl: "https://nypost.com/2021/04/12/arizona-ag-brnovich-doubles-down-on-vp-harris-border-invite/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/arizona-ag-brnovich-doubles-down-on-vp-harris-border-invite/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/Kamala-Harris-Arizona-border-05.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "UTpq+xWj74dn3EkG+h3+40Gtg4aDAND6+4XyhBH+1p9qCpsyowSSJm5bDw95tWsGyMRutMzwJk/yNXn0o8pzDOnjTOIr9SRdE7YlMqqN2oI1Avubl+zzEWd+jMIXAWvovw2D5WxFvB9DRi3D0erhweJ7HExWDCeG5P8HKlCjG0SUUPklaOBYD5XrN7Qzc0O++VHPeZ5oZxRKDhMGJGDJS8NPohY/7C3z4f//nsRS/RhKqedvB7HhbzpID/bBCh0B78GoJ2vd9y7m97g5r1vJy1yvGQoLHZ7vPsVaHmQ31m+Pag/Km80hAQFowApiB4j3uUVgCwuxu2zDeg+h/DE/9pWFYZMGm3Fwru5tBvWf+i0=;pjqgIZpPY6i/AvrEnX1cRQ=="
 ---
