@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastru
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 116
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/12/USAT/8e808988-b36c-4d38-99e5-a1194fdf9ce3-AFP_AFP_97P74U.jpg?auto=webp&crop=5124,2883,x0,y260&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden 'prepared to negotiate' size, taxes with lawmakers on $2.25 trillion infrastructure and jobs plan"
+    excerpt: "WASHINGTON — President Joe Biden opened talks with lawmakers Monday on his $2.25 trillion jobs and infrastructure plan, saying he's \"prepared to negotiate\" the size of the package and how to pay for it. \"I think everyone acknowledges we need a ..."
+    publishedDateTime: 2021-04-12T21:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-prepared-negotiate-lawmakers-jobs-plan/7194085002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7194085002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7194085002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/12/USAT/e734db0b-d403-4cac-a981-23373664bb36-Biden_meets_with_lawmakers.jpg?auto=webp&crop=5164,2905,x0,y262&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

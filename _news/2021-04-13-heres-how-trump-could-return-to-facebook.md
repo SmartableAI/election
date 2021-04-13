@@ -655,6 +655,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Democrats seek to undo Trump regulations on methane, healthcare"
+    excerpt: "Congress has a very short window to reverse regulations approved by President Trump’s administration before he left office, and at least two are expected to get Senate votes in the coming weeks. Like his predecessors, the Trump administration approved ..."
+    publishedDateTime: 2021-04-13T09:00:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6c1313a/2147483647/strip/true/crop/5857x3825+0+142/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8f%2F0d%2F746a0f8b9af46b42afec62751a10%2F05696b25373040ca9847b460eedf154e"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z

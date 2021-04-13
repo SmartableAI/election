@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump's plan to start his own social media platform is doomed to failure, say experts"
-excerpt: "Donald Trump is very unlikely to launch a successful new social media network, experts told Insider."
-publishedDateTime: 2021-04-11T08:03:00Z
-originalUrl: "https://www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4"
-webUrl: "https://www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4"
-ampWebUrl: "https://www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4?amp"
+title: "Democrats seek to undo Trump regulations on methane, healthcare"
+excerpt: "Congress has a very short window to reverse regulations approved by President Trump’s administration before he left office, and at least two are expected to get Senate votes in the coming weeks. Like his predecessors, the Trump administration approved ..."
+publishedDateTime: 2021-04-13T09:00:00Z
+originalUrl: "https://www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare"
+webUrl: "https://www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare"
+ampWebUrl: "https://www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare?_amp=true"
 type: article
-quality: 118
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/607075044943790018bb19fd?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/6c1313a/2147483647/strip/true/crop/5857x3825+0+142/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8f%2F0d%2F746a0f8b9af46b42afec62751a10%2F05696b25373040ca9847b460eedf154e"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -655,22 +655,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Democrats seek to undo Trump regulations on methane, healthcare"
-    excerpt: "Congress has a very short window to reverse regulations approved by President Trump’s administration before he left office, and at least two are expected to get Senate votes in the coming weeks. Like his predecessors, the Trump administration approved ..."
-    publishedDateTime: 2021-04-13T09:00:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-13/democrats-seek-to-undo-trump-regulations-on-methane-healthcare?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6c1313a/2147483647/strip/true/crop/5857x3825+0+142/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8f%2F0d%2F746a0f8b9af46b42afec62751a10%2F05696b25373040ca9847b460eedf154e"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Here's how Trump could return to Facebook"
     excerpt: "Facebook panel to rule on Trump's suspension 11:24 A vote by Facebook's Oversight Board this month could overturn Donald Trump's ban from Facebook and Instagram. The board is poised to vote later this month on the social media company's decision to ban the ..."
     publishedDateTime: 2021-04-12T21:17:00Z
@@ -873,6 +857,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_103020getty_endorsements.jpeg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump's plan to start his own social media platform is doomed to failure, say experts"
+    excerpt: "Donald Trump is very unlikely to launch a successful new social media network, experts told Insider."
+    publishedDateTime: 2021-04-11T08:03:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-return-to-social-media-doomed-to-fail-experts-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/607075044943790018bb19fd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump predicts that the GOP will retake Congress in 2022 and the White House in 2024"
     excerpt: "An envelope. It indicates the ability to send an email. Former President Donald Trump on Saturday expressed optimism that Republicans would regain control of the House and Senate in the 2022 midterm elections and win back the White House in 2024 ..."
@@ -1488,6 +1488,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "1hW7OKXONwhNBrCPnvrsk+y+CRtMu1BVAhMixzoMbQQvQ/UsIaAXfQ8Qq7XuuRotiA37cd+qQgWX7cwUH3dQxbw/32Mj/NlLHSDJ/Fh8GRHHJ4MpOVqlJ4yPFVDSwSKE3vGlL+itB6JRpsYBHdyXYIhqFG4i2ByxNaf6PdVQQLM2/a97+A6NarenCpB3iQy9kUv0mH3lJ++tCh0PLN/LIMYPQEstFFucJ2ra8t4NdvG7PCKjrjW/PBZy8HVEgrctBTbPCSHFxhtq7aVaeFSYHzaVc22AgGqkVR/zsi+qbhKGfQpYUPFRjTxKbkMZ6aEyvARYQitit3ATX++5A/4K2NP1/GsY8h7uGDKynd3XG24=;soZbTMNyEGOwwCpMyYB+Aw=="
+secured: "orGsL82VyNNPd5GMoVtpU8m0w0J+U8TbSkHHExcU7Zuf2OapRIDqoLHSlpuoNAdROHiCyEl+vUVlRZTv/A2cBtxuAW7PQtx6ttNijGiB381vX5R60lPuO4cN7/H2Wxy/YgWPGztCU+ZZwSNSYt+2mUYJMedssJsYfgBt4rrXZyqWbLPDYddOqL66GLQTSPpAZIMQnagzFE4REYNbSVpJ3fcRwZXG3crYK3eI7zBvGgQHjnbupzFgF3HK2i0/7DmrqQ2PBhr5nW2tCctOi5V5nRpXk+tVdFyMdh2fc9iaeNtImWwB/uuRUn/7AFunwd8dZZWrxz7vZeHyF+0NqwXtHYkC/iMSC53dZAvQF7JPYeY=;cLhajR/BbytiLbqNT7/pDQ=="
 ---
 

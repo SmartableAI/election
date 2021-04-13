@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Joe Biden to announce executive actions to address gun violence – live"
-excerpt: "President to hold event at Rose Garden to formally announce actions in wake of mass shootings in Atlanta and Boulder"
-publishedDateTime: 2021-04-08T13:38:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+title: "Biden nominates three more for top Justice Department posts"
+excerpt: "WASHINGTON (Reuters) - President Joe Biden nominated three people for top U.S. Justice Department posts on Monday, including a person who will provide legal advice to the administration and another supervising criminal investigations, the White House said."
+publishedDateTime: 2021-04-12T23:01:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BZ2VJ"
+webUrl: "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BZ2VJ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ2VJ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ2VJ"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/59e506e6d0a5bf4497576b19abf029f423a3dd89/0_23_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=132cc26e355e168c0db7a1767d86f425"
-    width: 600
-    height: 360
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558212091&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C000"
+    width: 795
+    height: 545
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557617247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361CD"
         width: 817
         height: 545
+        isCached: true
+  - title: "Joe Biden to announce executive actions to address gun violence – live"
+    excerpt: "President to hold event at Rose Garden to formally announce actions in wake of mass shootings in Atlanta and Boulder"
+    publishedDateTime: 2021-04-08T13:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/59e506e6d0a5bf4497576b19abf029f423a3dd89/0_23_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=132cc26e355e168c0db7a1767d86f425"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden acts on gun control after pressure from impatient activists"
     excerpt: "Biden on Thursday issued a series of executive actions aimed at curbing firearm violence, and he nominated a gun-control activist to head ATF."
@@ -94,22 +110,6 @@ related:
       - url: "https://thehill.com/sites/default/files/abbottgreg_06182020getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Biden nominates three more for top Justice Department posts"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden nominated three people for top U.S. Justice Department posts on Monday, including a person who will provide legal advice to the administration and another supervising criminal investigations, the White House said."
-    publishedDateTime: 2021-04-12T23:01:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BZ2VJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ2VJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ2VJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558212091&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C000"
-        width: 795
-        height: 545
         isCached: true
   - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
     excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
@@ -360,6 +360,6 @@ related:
       domain: politifact.com
     quality: 35
 
-secured: "ksaljkZLCLrfnqINp8jVTv++v1/SE0mHfLHyIYXKSv7xRLPsZoSqMkD1skgP52hMxduo1dfvhlj0hXsrxa++EWG7i9f645m8Bhnh2qsOjN1Iv6+fA0baR0wE0kqtwKAFYz3kGpkCNA7AzBu7HAZc5WmW6wajLEFYICZZxcXv5/wVv52izr8j0osYz6iveaefbtLox/2llQ3yzYNCPxKTRrjGm6pIn1Ur/JOarFHK83nXme482iR0PF4opM9/e1MrgHgIk+IFiFykBJcKXp6sYsm/6MSjLuROGE4xHy/sMaUAaFRcfVZXIJVoSn1jhPxkCKCdub108uucc6b610zAkd98lOHmdSKwruVb1cJrdUw=;3mJHeoSN5trp2r35UZJDcw=="
+secured: "AX3qqwsEKdyTD3KLhx7x4fz3kyj5l6wvAtFnuQC+59QPYSvaG+Vc1mdTz8As6KFhRst5gZXlXNOwu5JKnogzGUBaVqMF14uCMXGpRyHbZPTEBt9XTbaXydbjGQLYg46BYb0UEywklE6uImSHZiLqsBwQJaKu+wC6n54sqpmWN56waVziFYmhXkx9grO/ItI6gpdGYqtntONqYVxTny3o+clz2QAmo1SfndlyY83B/03+Ny/o6CBQ+zktzGmrhcxOoFIqWAY0bs/MSMpCCz9a9PdL1IN5K/kxHgMXNrMWAWPEBCUawiOreHjWCKJ+GpRz68f/ri10/V/bkEKEDMUuFTvaKcNgcW5kOTrIV9i9Jho=;/fIxZSmF82TbrFImlwBJ8Q=="
 ---
 

@@ -111,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden nominates three more for top Justice Department posts"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden nominated three people for top U.S. Justice Department posts on Monday, including a person who will provide legal advice to the administration and another supervising criminal investigations, the White House said."
+    publishedDateTime: 2021-04-12T23:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-justice-idUSKBN2BZ2VJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ2VJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ2VJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558212091&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C000"
+        width: 795
+        height: 545
+        isCached: true
   - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
     excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
     publishedDateTime: 2021-04-08T00:46:00Z

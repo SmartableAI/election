@@ -173,6 +173,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden 'prepared to negotiate' size, taxes with lawmakers on $2.25 trillion infrastructure and jobs plan"
+    excerpt: "WASHINGTON — President Joe Biden opened talks with lawmakers Monday on his $2.25 trillion jobs and infrastructure plan, saying he's \"prepared to negotiate\" the size of the package and how to pay for it. \"I think everyone acknowledges we need a ..."
+    publishedDateTime: 2021-04-12T21:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-prepared-negotiate-lawmakers-jobs-plan/7194085002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7194085002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7194085002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/12/USAT/e734db0b-d403-4cac-a981-23373664bb36-Biden_meets_with_lawmakers.jpg?auto=webp&crop=5164,2905,x0,y262&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden: Inaction on infrastructure 'not an option'"
     excerpt: "President Joe Biden says he's open to compromise on how to pay for his $2.3 trillion infrastructure plan, but insists \"inaction is simply not an option.\" (April 7)"
     publishedDateTime: 2021-04-07T22:12:00Z
