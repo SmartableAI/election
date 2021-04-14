@@ -71,6 +71,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's Justice Department picks for civil rights, environment to face Senate panel"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden’s nominees to lead the Justice Department’s civil rights and environmental units are due to face questions from the Senate Judiciary Committee on Wednesday on how they would address racial inequities in ..."
+    publishedDateTime: 2021-04-14T09:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-senate-justice/bidens-justice-department-picks-for-civil-rights-environment-to-face-senate-panel-idUSKBN2C118D?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C118D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C118D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KH"
+        width: 825
+        height: 545
+        isCached: true
   - title: "Biden administration budget request includes nearly $25 billion for NASA"
     excerpt: "President Joe Biden submitted on Friday a $1.5 trillion budget request that includes $24.7 billion for NASA for 2022.The ask is part of the"
     publishedDateTime: 2021-04-12T17:58:00Z

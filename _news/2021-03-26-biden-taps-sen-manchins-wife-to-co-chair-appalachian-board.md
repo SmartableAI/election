@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchin
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taps-sen-manchins-wife-chair-appalachian-board-76704226"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inside the surprisingly close Biden-Manchin relationship"
+    excerpt: "Joe Manchin Joe Manchin Five hurdles Democrats face to pass an infrastructure bill Nixed Interior nominee appointed to different department role Against mounting odds, Biden seeks GOP support ..."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/548091-inside-the-surprisingly-close-biden-manchin-relationship"
+    ampWebUrl: "https://thehill.com/homenews/administration/548091-inside-the-surprisingly-close-biden-manchin-relationship?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548091-inside-the-surprisingly-close-biden-manchin-relationship?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/manchinjoe_031121gn5_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden to elevate potential Supreme Court nominee to high-profile appeals court"
     excerpt: "WASHINGTON – President Joe Biden said Tuesday he plans to nominate a prominent judge to the federal appellate bench, a promotion that is sure to stir speculation about her potential future nomination for the Supreme Court. U.S. District Court Judge ..."
     publishedDateTime: 2021-03-30T13:05:00Z

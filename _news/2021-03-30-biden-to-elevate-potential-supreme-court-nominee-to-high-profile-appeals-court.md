@@ -47,6 +47,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Inside the surprisingly close Biden-Manchin relationship"
+    excerpt: "Joe Manchin Joe Manchin Five hurdles Democrats face to pass an infrastructure bill Nixed Interior nominee appointed to different department role Against mounting odds, Biden seeks GOP support ..."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/548091-inside-the-surprisingly-close-biden-manchin-relationship"
+    ampWebUrl: "https://thehill.com/homenews/administration/548091-inside-the-surprisingly-close-biden-manchin-relationship?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548091-inside-the-surprisingly-close-biden-manchin-relationship?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/manchinjoe_031121gn5_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "zo6V/xEU/MHCHgY9fnkqdjsFsL9egBg4ACp1yH0aaP66eNAI9ZJJwYzKDLjo63YV0vV0ShWJth8/yNqc8iOkoaqBAqWHpk2QmqTm92zaOvSISDf/UtJahqzu9Cux6FQ3KexTtv/INy2s7EkEOIxdt1dUS/ai3oSdgHvNAIllC1JRYErfq7q/1T9rjYANHZ7MwvZvS1f4xzls6RlF5w6iMWyUPRkHRHQ8K0Esd+YyVpUAdX2OcRjAM/8PIo8SlQvjzIVKGYvYvR5XpXvmSmHuvkTOXaqVyqQuw4glZ3KwUNZUjJ4vxi645GlNUBk4Jw46ooHr+FLFnm0lJq1ij3FRO6UFwI9HPqTnmFB/GL9YWUoU9medGLc2hf76cEy5zGNYdvatSY0bw8YmuYc7pGLEysnW2Nq+Kz573wLic2SfLXcpQTRhH/UCmqI0DIpkqqttC3ME6nZji8dWBZxZwmPc/fS5IIoavFBcBfrzxHRG23LyH+1fknvRBNjKS+0BXGDaoSRdmc4Wasn6RAbfCPlTJQ==;+CJvu9m312XhX+1c15QQzw=="
 ---

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "America's enemies line up to put Biden to the test"
+    excerpt: "The world already seems more dangerous and complex than when Joe Biden took office less than three months ago. That's partly because America's adversaries are putting the new commander in chief to the test.\n    \n"
+    publishedDateTime: 2021-04-14T08:46:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67VVM7nD0bM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/joe-biden-faces-tests/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/joe-biden-faces-tests/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408120329-01-biden-gun-violence-prevention-0408-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Manchin on his veto power over Biden agenda: 'It's not a good place to be'"
     excerpt: "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n"
     publishedDateTime: 2021-03-11T00:49:42Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presse
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102150701-03-video-play-button-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why Biden is pulling the US -- and NATO -- out of Afghanistan"
+    excerpt: "As President Biden prepares to lay out his plan Wednesday to withdraw US troops from Afghanistan and end America's longest war, a source familiar with his thinking tells me that he thinks no amount of US troops in the country can be a game changer anymore.\n    \n"
+    publishedDateTime: 2021-04-14T11:15:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/288ZddxX3iI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/biden-us-nato-afghanistan-troops/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/biden-us-nato-afghanistan-troops/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408123830-joe-biden-0407-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's Justice Department picks for civil rights, environment to face Senate panel"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden’s nominees to lead the Justice Department’s civil rights and environmental units are due to face questions from the Senate Judiciary Committee on Wednesday on how they would address racial inequities in ..."
+    publishedDateTime: 2021-04-14T09:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-senate-justice/bidens-justice-department-picks-for-civil-rights-environment-to-face-senate-panel-idUSKBN2C118D?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C118D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C118D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KH"
+        width: 825
+        height: 545
+        isCached: true
   - title: "Biden nominee Wormuth would be first woman to lead Army"
     excerpt: "President Joe Biden says he will nominate a former senior Pentagon official to be the first woman to lead the Army"
     publishedDateTime: 2021-04-12T20:20:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Biden raises concerns with Putin about Ukraine confrontation"
-excerpt: "BRUSSELS — President Joe Biden urged Russian President Vladimir Putin on Tuesday to “de-escalate tensions” following a Russian military buildup on Ukraine’s border in their second tense call of Biden’s young presidency. Support our journalism."
-publishedDateTime: 2021-04-13T19:05:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-raises-concerns-with-putin-about-ukraine-confrontation/2021/04/13/8cfcedc2-9c6e-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+excerpt: "President Joe Biden is calling on Russian President Vladimir Putin to “de-escalate tensions” following a Russian military buildup on Ukraine’s border"
+publishedDateTime: 2021-04-13T21:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_0608176cbab24c1d890713852a371c99_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -494,6 +494,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "L7uX/GUdEcsIg5JM/4oc3DVWBh+MZLBfZ9vHrSZs7FdmN5p9JMtg2u3DXpodRjxbFfgo0Dfz7dGWapiUBGCvK1e0MBps+/G38EJ+hEKjEkbl3YdSkjfNpVMjWOJAWnQY66qZv/3tjOWdwIWyf0pjVs+M6cYwZ0m6ldYodCrsnH5hkz0d1YgZCuu0bkw2TNUbFsRXpxE2VVS4uIGMHZuF1cRVgGmosTokmS/aS+edxU1YffHOL22sWFTuynNBnB1u75dHc5e1c2jToDu7dVoWjF0L6j5gzDW5odNNUssK0o9kpXzRGf7Kkkix6p0ainxQAKgsevyrrwwvvg1C7AZ6+sHQCClwW90FupflLCUe5Dw=;24ADqFEVQmnIT0lSn8hvqw=="
+secured: "cS/I5hLdf0eM6eoeqghDQ0ALDjxfruC8VWFmwYmZRRnCbWkhOnMK/lUKuXgfppPMi4xE1Wufn9iNghFRGxSJKnewLGRJQNSZ2sZjk4BxsCqyyOXBT3hVJlixglr9YUyzStuncgmL0bvzE1xTFhZJGFMvv2O0HIqg6XSBZAeXauye7ci5w9xU1Uxpx5J1pfd48S3PVlGug2S9dpKDyn9jVi4rxswz4ffeSsYoIhAogQC+N9frfzRh2PPH0z2yg5YuDJwORG+A/rwOmH7jTI4/IKPIfC0S7uhaSShpXT06wGr5CYb17VZxGHfEIfiXDxQfor3MsS1g5AmuqYUEa/lB7MTCThlR+iypW5KF/L6FVII=;cqxAf0GFaYEO0O1P/pqHuA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-b
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html?outputType=amp"
 type: article
 quality: 106
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baltimore company that made yarn bought by Vice President Kamala Harris has stitched together a success story"
+    excerpt: "In March during a visit at Fibre Space in Alexandria, Vice President Kamala Harris purchased a hand-dyed yarn that’s the color of the Observatory Circle — the residence of the vice president ― made by Neighborhood Fiber to celebrate Harris ..."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 56
+    images:
+      - url: "https://www.baltimoresun.com/resizer/lEvIxWbWG4WCehzMKTB_ZYq_W0Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U6H6Y3D22ZC65BWCKVPSBH53I4.jpg"
+        width: 1200
+        height: 920
+        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T20:49:00Z

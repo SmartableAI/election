@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Baltimore company that made yarn bought by Vice President Kamala Harris has stitched together a success story"
+    excerpt: "In March during a visit at Fibre Space in Alexandria, Vice President Kamala Harris purchased a hand-dyed yarn that’s the color of the Observatory Circle — the residence of the vice president ― made by Neighborhood Fiber to celebrate Harris ..."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 56
+    images:
+      - url: "https://www.baltimoresun.com/resizer/lEvIxWbWG4WCehzMKTB_ZYq_W0Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U6H6Y3D22ZC65BWCKVPSBH53I4.jpg"
+        width: 1200
+        height: 920
+        isCached: true
 
 secured: "x1affJm4N/GiHvpiyQiQr3nOBRdgSvAW+v74ci1/pgvkGyVgs3CPLywefQX8HFjsuUFk7k2fn8McqC0PYFGdwgJ0f3uMdG+t8bvkenH4Y5KEzAJeoYbzNpZ3H4W0RtLt1C6m6DCjtje+/tQdjR9UfnVZ58SX0rT5nt7d38lJE4zOB3Kw1yW44i1+k/HKBwg5+37XvFqu4qfFmSKZasWedQkH54P1egQGgHNhxFDjJ4y2ZwiqNZbUPzjF4xkxRCn5OUepsCxTYbAmoAPAaqDV2oF7zqjQaxXWHdJsFVT0Qr3ONpK08WftlLIq6E1A9Z290uhpPff88ZiQ0F54tkzUgrkDAq0qvoi5Wo5APeZYnAvswT30YWm24ZGVYVmwm0oHW96tkEFlCepAndufM8t+gDmrpkzUEIFwhBdQixJHCRtVphJJKT8g0AZc01BgF4uyPOoO9wO1T13El+5SnADUlLpbRTIUwa1Ls/00Z39ZRbHO/AkjfN+l/ZMmapnmM7nvYjXD2fReCNsq45qprenUtQ==;5JIWcaR0+h/x5lMqXNyI2g=="
 ---

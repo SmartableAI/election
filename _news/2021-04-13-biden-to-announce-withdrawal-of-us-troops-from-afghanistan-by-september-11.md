@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-afghanistan-withdr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-afghanistan-withdrawal/index.html"
 type: article
 quality: 173
-heat: 333
+heat: 353
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden draws on long history with the war in Afghanistan as he prepares to announce troop withdrawal"
+    excerpt: "It's an image President Joe Biden kept returning to: the sight of helicopters evacuating Americans from Saigon during the last major battle of the Vietnam War.\n    \n"
+    publishedDateTime: 2021-04-14T11:29:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uuEG4lyoECI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/joe-biden-afghanistan-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/joe-biden-afghanistan-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
