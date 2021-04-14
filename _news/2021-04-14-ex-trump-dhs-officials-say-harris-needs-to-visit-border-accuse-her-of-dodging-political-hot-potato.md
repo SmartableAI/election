@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
-    excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing."
-    publishedDateTime: 2021-04-14T15:27:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpgjxE5Iv6I/house-republicans-kamala-harris-milk-carton-missing-at-border"
-    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Psaki snaps when asked why VP Harris had time to visit Chicago bakery but not border, 'she got a snack'"
     excerpt: "White House Press Secretary Jen Psaki got snippy with a reporter on Wednesday who questioned why Vice President Kamala Harris had time to visit a Chicago bakery amid the lingering border crisis she has been tasked to deal with."
     publishedDateTime: 2021-04-07T22:39:02Z
@@ -95,6 +79,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-home.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
+    excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing. House Minority Whip Rep."
+    publishedDateTime: 2021-04-14T15:28:00Z
+    webUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-border-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "OdlF5gYuYejQu//AEVsk4zQMft8CrRHcAQ2dF0/UVMwUN4OocU++lzRjCdFPZKCSLZXpyz6SNk/40cy0CKUb/7oxNCCZJVQsdqHzcZ5lwfYmaybFrPVtY1H6SeNELFyXGsO3/Phsv++euaAWuD9ieIwp2VAkX/ckMPJTe63+zAlf6sMjG1SQVRiyyhTMbBo1KR8E3Qpxd37S13n0OrfchBsWaCdQSVzzoSAa1ozh9Pw/nXu1WdsknIxvDpEoyEsfmD28ypMyhFgu0Nb8joSw5iT/o6DOLZNgRwud9DGRyg+8MvT6U/ROcXGkElLKKjXG8xKIEZAxJvwpWaJRMUL4v6hzJiC59y8hnQQ1/bITZyk=;RzQCEaLD4TisJd8Yv9TnzA=="

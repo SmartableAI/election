@@ -127,6 +127,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden CIA head William Burns says pulling out of Afghanistan will 'diminish' US intelligence"
+    excerpt: "CIA Director William Burns said U.S. intelligence will \"diminish\" after U.S. troops pull out of Afghanistan."
+    publishedDateTime: 2021-04-14T19:46:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A3J2aSYlLPA/william-burns-afghanistan-diminish-us-intelligence"
+    ampWebUrl: "https://www.foxnews.com/politics/william-burns-afghanistan-diminish-us-intelligence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-burns-afghanistan-diminish-us-intelligence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21011418120691-e1610366107225.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden press secretary won't say if White House visitor logs will be published"
     excerpt: "Incoming White House Press Secretary Jen Psaki declined Friday to specify whether President-elect Joe Biden’s administration would publish White House’s visitor logs"
     publishedDateTime: 2021-01-16T01:17:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Biden's partisan divide as wide as Trump's: poll"
-excerpt: "A new Monmouth University survey indicates that the already large partisan divide over President Biden is widening."
-publishedDateTime: 2021-04-14T16:01:21Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T-0608OSzWc/biden-partisan-divide-poll"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T-0608OSzWc/biden-partisan-divide-poll"
+excerpt: "The nation's partisan divide hit record highs during former President Donald Trump's four-year tenure running the country. And new polling suggests there's no letup now that President Biden is in the White House. Biden stands at 54% approval and 41% ..."
+publishedDateTime: 2021-04-14T16:01:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll"
+webUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll"
 ampWebUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-partisan-divide-poll.amp"
 type: article
-quality: 190
+quality: 150
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -3636,6 +3637,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "43djHUJ+Cd0X/P2dDDU8t+5iwxlLmxODvykh9xi9fDxNS01MkopYHTW/XPsayEl1yyZJbS21MWjrYUW+GJQR7G0oqWVskCQkDTd0G5Dh2X4XYeBovHTtBniLo869xNXwukLSQ2KR/ClHLZIE5TMv9DklVpGk46ZB3x2WbM0pQJ/w1VjpQuIvzijomiCxC9GYESujZ45MyDroFYV82PUmWOCRuvAnMPKJ2neu3WwZyxXyqxmIpPAXc63HXknd8M0fcC94l8x6orLMbWiqYDEwVDgYr+VJl5wsbJLXy0qCG7PPwBuMGfC6q8Qeb5RAnNUxYX5nBFfStrY+joIzVYkW7L7N9TUGmI5FUAY/77XsFVU=;kI42siyyBtHhP9QRufWEkg=="
+secured: "NV1fuomSL9tHVutQqAZoy+Az74PZkDkt6yk3xTd02Z1LoBJcWGOOGP7/oQTG1izdbM9KwVDZSx9RQlbsbDO7S2RgQk8dA3pClqCwh1rCKvIUs9iAm/DwyGoDwjlHiXrnKJPMznPNX7C6avHWaYn1NzT9U0tu/0IpXo+4Ne45arsfvFrg4BGKJDbUWUW52F91n6h3bqWNfK9I8Pb4Y3zlTcAzBKeaX4t6298A1VuoR2BgmcP/3Zr8tVDXRk3kVdXWlav5miKV1BzZosgy7eI/fkf8ODT6YytikKclI/EIeF5FlBBCyK4RuZ/OPrBJ8s1vCZCbMRg7ji1tJ2jYEWKYq4uw+Z3I+q5vTFXcp/t/xIg=;kW5Gubpg6hk6fwVTlCd7Yw=="
 ---
 

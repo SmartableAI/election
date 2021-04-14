@@ -492,22 +492,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's partisan divide as wide as Trump's: poll"
-    excerpt: "A new Monmouth University survey indicates that the already large partisan divide over President Biden is widening."
-    publishedDateTime: 2021-04-14T16:01:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T-0608OSzWc/biden-partisan-divide-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-partisan-divide-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z
@@ -2745,6 +2729,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077770966304.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden's partisan divide as wide as Trump's: poll"
+    excerpt: "The nation's partisan divide hit record highs during former President Donald Trump's four-year tenure running the country. And new polling suggests there's no letup now that President Biden is in the White House. Biden stands at 54% approval and 41% ..."
+    publishedDateTime: 2021-04-14T16:01:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-partisan-divide-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "In breaking with Trump, Pence does ‘what he believes in,’ strategist says"
     excerpt: "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency."

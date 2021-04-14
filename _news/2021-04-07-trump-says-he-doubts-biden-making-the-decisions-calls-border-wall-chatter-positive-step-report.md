@@ -256,6 +256,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP lawmaker wants answers on massive border contract that went to nonprofit with ties to ex-Biden adviser"
+    excerpt: "Republican Rep. Jim Banks is demanding answers from the head of the Administration for Children and Families after revelations that a nearly $530 million contract was awarded to a Texas nonprofit to help manage the influx of migrant children at the U.S. southern border — after the organization hired"
+    publishedDateTime: 2021-04-14T18:15:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XG07RMxTBrA/gop-lawmaker-massive-border-contract-nonprofit-biden-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmaker-massive-border-contract-nonprofit-biden-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmaker-massive-border-contract-nonprofit-biden-adviser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Joe Biden will keep Trump administration’s UAE aluminum tariffs"
     excerpt: "President Joe Biden will keep in place the Trump administration’s aluminum tariffs on the United Arab Emirates, after initially reversing the policy. In a proclamation issued Monday, the"
     publishedDateTime: 2021-02-02T16:43:00Z
@@ -391,6 +407,20 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "The Press Is Infrastructure for Biden"
+    excerpt: "John Cornyn came under blistering attack from Washington Post scribe Aaron Blake for having wondered whether President Joe Biden is really in charge, since he's kept an extremely low profile with the press."
+    publishedDateTime: 2021-04-14T18:51:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/14/the_press_is_infrastructure_for_biden_540485.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540496_5_.jpg"
         width: 750
         height: 500
         isCached: true

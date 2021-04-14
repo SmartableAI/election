@@ -137,6 +137,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "McConnell vs. Trump: Why the GOP Is Right to Worry"
+    excerpt: "But if you want to know why Donald Trump’s public insult to Senate GOP Leader Mitch McConnell is different, look at the response of McConnell’s fellow Republicans, who dispatched Senator Rick Scott to fly to Florida to placate Trump with the coveted ..."
+    publishedDateTime: 2021-04-13T22:55:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/04/13/mcconnell-trump-republican-party-spat-481222"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/6f/b7/417d28684c4e97e58597ea4d528e/mag-gettyimages-1257244767-773.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "xf1uJtgYI+kwcqVlboSeMsW+UN6o4YKhLZXUd9C1ImiWZdGfR75ex7sHI1EfsH0frEmS+qeMdH67K/YMkVdsEVUnWNKN1M8ykM4RspMgOZMsShJhbXFKKKaVztMjZeikSJl9KH+WmcGrlWCACWW2vAW4Z/qBo6/+T7BgZNnUS5LWFvkpQHKONU26T9rqinO5oVcq+h9PWcePYPHK6ec1RGhA19By0xMErldMd2d5yqX1U9zV+5+807lsyhVNP+maeQBkdnh7a8coz6haFBRX/rppjbnZ8SOtMRDVXhGs7xp1KlJU5gPTn5Af2JDvXdi4nwVvaxTYDnpzqVVbBCPaXVP589/7SO0Mzr7HucTFZFE=;fZAskGiUGxvKmdz66JkDPQ=="
 ---

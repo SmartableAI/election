@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-mur
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
 type: article
 quality: 187
-heat: 327
+heat: 347
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://static.politico.com/90/50/8fe9532445a8a995c2acab03eb77/210302-donald-trump-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "McConnell vs. Trump: Why the GOP Is Right to Worry"
+    excerpt: "But if you want to know why Donald Trump’s public insult to Senate GOP Leader Mitch McConnell is different, look at the response of McConnell’s fellow Republicans, who dispatched Senator Rick Scott to fly to Florida to placate Trump with the coveted ..."
+    publishedDateTime: 2021-04-13T22:55:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/04/13/mcconnell-trump-republican-party-spat-481222"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/6f/b7/417d28684c4e97e58597ea4d528e/mag-gettyimages-1257244767-773.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "YQ6DNKbeCb5S2XAiU7lNSvAqExkxf6tQSK8A+EEBvORt/zwh0Cuor+v6gnGFP6NXvaM86pkSRDCmvmt063KALMjN5079B3g6p2aXAoJrJRbppkhTPzTlkMSJNWdUswzkwBgFXfdKr2kXzWt1R7cVTvrlJwuqcafTA2Zyk3yhvFJKrPdXZm1fPA71PuF0SGZm8PiML7ADrErTMys3hfbqghHF10DRf3/YwlqdGSQCW1gPuXvnCDQLTGTt7Wu5JnzVdhwZDxnDWAMpGli04eMpw4v1XYuZrtn2KbAqgLgIGQrTvYuwGykjlO12ZwSArUtxbRYuclFMsrT2lD2/AfG2I7ysMD/awYMqhtxIUNarApQ=;R+8/Q0vjpewIyoYEY4bRWQ=="

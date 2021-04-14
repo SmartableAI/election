@@ -1,14 +1,14 @@
 ---
 category: news
 title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
-excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing."
-publishedDateTime: 2021-04-14T15:27:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpgjxE5Iv6I/house-republicans-kamala-harris-milk-carton-missing-at-border"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpgjxE5Iv6I/house-republicans-kamala-harris-milk-carton-missing-at-border"
+excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing. House Minority Whip Rep."
+publishedDateTime: 2021-04-14T15:28:00Z
+originalUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border"
+webUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border"
 ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
 type: article
-quality: 173
+quality: 123
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-border-.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -97,6 +97,6 @@ related:
         height: 720
         isCached: true
 
-secured: "a7vS3SF9uLwX70nWb5H5dwmVI2tVT5ccXnNZkuYVgF21c0/INxuChgtBXJgsDgca8yxiw0xowx5ZgIVZeqZXd7lANO/J8f4MGpvyzzi6yzgwD7HGRLAbojJei+3LyZgRFD8DxTSzGSbOxT6TuEcqEJ1kZvKWy75dHj+0/iTlalchCoUXHn6UvnDlxcfijSL6p0NTb2txoqNk/wOf//2B8GF0yOxlR5Smj4D0kONFUT1IYeUYBrVnPEma6Q6Oho0kY4efRoAqv5kVV+pNPJI/iO6S2e1sNHwIK5EJhyCaxXEcLAViZvXnMyn/V2rK5ERcV0PnHpC261s3p8GJHXD1xoY2WGs+/ckugI9uA868ukI=;th/ge1siZE8LVZ/oaAIbaw=="
+secured: "hP+OH+xtthN1s54o3KyfO/hWRUeoSfRZKXteUjBlpqe7l2lbvIqqjv/CoJQsKRAcdeX2Q9x8x8u4CbDjOWV9gQNcO++JVzINWZg0YeNeyInoHfooYL3VfR62LVSwGY4yinZLaBerU6bN8+5i7P32FfCeNhrL3sANOCUFQNZKIcEzshzdxR7I6tauYT8vHNbvc63OcRpG7gRuyj/7NegC5YAAyD7zb9ZGWuAcn0UDqeLS9pfwTSoYd/mldJIieYGJtmBZbJBcXfyfKanG2sMjIDyH1BTOf5+xBzgOCZ8ffNwFHEUULC6tCeXnBDDmn9zPoe7tQ6Udmylwn1TB6JcjzBTe/lOwvcCL9La2IhFMHqI=;EKSFDoWfWdkMvo8HhBh3ng=="
 ---
 

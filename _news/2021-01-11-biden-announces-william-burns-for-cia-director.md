@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-william-burns-cia-director.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden CIA head William Burns says pulling out of Afghanistan will 'diminish' US intelligence"
+    excerpt: "CIA Director William Burns said U.S. intelligence will \"diminish\" after U.S. troops pull out of Afghanistan."
+    publishedDateTime: 2021-04-14T19:46:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A3J2aSYlLPA/william-burns-afghanistan-diminish-us-intelligence"
+    ampWebUrl: "https://www.foxnews.com/politics/william-burns-afghanistan-diminish-us-intelligence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-burns-afghanistan-diminish-us-intelligence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21011418120691-e1610366107225.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden announces Anita Dunn as senior adviser, TJ Ducklo as deputy press secretary in additions to WH staff"
     excerpt: "Former Obama White House communications director and senior adviser for President-elect Joe Biden’s 2020 campaign Anita Dunn is joining the White House as a senior advisor to the president."

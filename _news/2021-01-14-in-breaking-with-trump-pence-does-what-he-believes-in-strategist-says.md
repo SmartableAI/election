@@ -496,22 +496,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's partisan divide as wide as Trump's: poll"
-    excerpt: "A new Monmouth University survey indicates that the already large partisan divide over President Biden is widening."
-    publishedDateTime: 2021-04-14T16:01:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T-0608OSzWc/biden-partisan-divide-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-partisan-divide-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z
@@ -2765,6 +2749,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/hunter-biden-don-jr.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden's partisan divide as wide as Trump's: poll"
+    excerpt: "The nation's partisan divide hit record highs during former President Donald Trump's four-year tenure running the country. And new polling suggests there's no letup now that President Biden is in the White House. Biden stands at 54% approval and 41% ..."
+    publishedDateTime: 2021-04-14T16:01:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-partisan-divide-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump reportedly to leave White House the morning of Biden’s inauguration"
     excerpt: "President Trump is set to officially depart.C. Wednesday morning, reports said. That same day Joe Biden will take the oath of office and be officially sworn in as th"

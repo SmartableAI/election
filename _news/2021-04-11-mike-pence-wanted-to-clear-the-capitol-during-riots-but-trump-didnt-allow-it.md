@@ -702,6 +702,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Plays Same Old Hits During Seb Gorka Interview"
+    excerpt: "Former President Donald Trump revisited familiar themes in an interview with Sebastian Gorka on Tuesday, touching on the COVID-19 pandemic and unsubstantiated claims of fraud in the 2020 presidential election. Trump spoke to Gorka's AMERICA First podcast ..."
+    publishedDateTime: 2021-04-14T09:59:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-plays-same-old-hits-during-seb-gorka-interview-1583470"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-plays-same-old-hits-during-seb-gorka-interview-1583470?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-plays-same-old-hits-during-seb-gorka-interview-1583470?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1777571/former-president-trump-speaks-cpac.jpg"
+        width: 3000
+        height: 2177
+        isCached: true
   - title: "McConnell seeks to end feud with Trump"
     excerpt: "is seeking to end his running feud with President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
     publishedDateTime: 2021-04-13T21:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-15822
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Republicans turn to the socialism playbook on Biden's infrastructure bill, labeling anything other than roads and bridges as 'Soviet'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Republican lawmakers are responding to President Joe Biden's $2 trillion infrastructure bill with a litany of misleading and even false statements. The GOP's longstanding strategy of attaching the socialism label ..."
+    publishedDateTime: 2021-04-14T18:22:00Z
+    webUrl: "https://www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/6077151f74da0300181e1a4c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Prince Philip: US President Joe Biden describes him as 'a heck of a guy'"
     excerpt: "US President Joe Biden said the entire administration sent their condolences to the Queen on the loss of Prince Philip, saying he was a \"heck of a guy\". He paid tribute to the Duke of Edinburgh's \"lifetime of service\", his active duty during World War Two ..."

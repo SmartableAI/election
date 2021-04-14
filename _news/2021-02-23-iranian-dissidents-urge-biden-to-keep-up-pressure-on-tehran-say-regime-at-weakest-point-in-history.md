@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden announces Sept. 11 Afghanistan withdrawal deadline, says it's time for troops 'to come home'"
+    excerpt: "President Biden on Wednesday announced that the U.S. will withdraw all American forces from Afghanistan by Sept. 11 — pushing back a May deadline set by the Trump administration."
+    publishedDateTime: 2021-04-14T18:39:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ORltkjZp4Dg/biden-afghanistan-withdrawal-troops-home"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-withdrawal-troops-home.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-withdrawal-troops-home.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104669713438.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z

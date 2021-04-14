@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Biden tells Americans ‘we cannot continue the cycle’ in Afghanistan as he announces troop withdrawal"
+    excerpt: "President Biden formally announced Wednesday that the United States will withdraw all troops from Afghanistan by Sept. 11, saying in a speech from the White House that more time and more troops have failed to end the conflict and that is now time to close down America’s longest war."
+    publishedDateTime: 2021-04-14T19:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-afghanistan-pullout-speech/2021/04/14/a4fd907c-9d2a-11eb-9d05-ae06f4529ece_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-afghanistan-pullout-speech/2021/04/14/a4fd907c-9d2a-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-afghanistan-pullout-speech/2021/04/14/a4fd907c-9d2a-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CWXCNE5KYI6XAAFX76DUOPW2M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "PvRz9zQ7KtFWKhmnrMN5l8nKJo95ibm5pkSTjjZNtCLPdCHaZmLhA8kKnUav0jZ1yhcfCO+QayPtLN/rD6dnqdDdp/3Pd9BYUZhCdszJKlfeP3Ph0iTH27EvPgb11yRWx3xHj9d+VDc8z5+elyhKgVLFIzFO4CVME2LBFkKv3X/odRX6llw6BLsFjPDEOsbJ4kYImWRgYfdmul7lTeQyVKAK4pi4sC7pJ1iGuhIqqkWyprNhQMc5+NWEwdYv/KkrByyTX628f3qcWYUxKc09zEfrtJKnKIMc9nJRdjFy4wNj91OFlMXjfjJkgnSDrAqAsSGDYLs+eOisGaL4g32D7wDiaQD+Tac5PCGNdaBGaJg=;n8fqWl8WeJvZ9ZyQoIp4IQ=="
 ---

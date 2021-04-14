@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
-    excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing."
-    publishedDateTime: 2021-04-14T15:27:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpgjxE5Iv6I/house-republicans-kamala-harris-milk-carton-missing-at-border"
-    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Kamala Harris says goodbye to Washington, DC, home"
     excerpt: "Kamala Harris doesn’t need her Washington, DC, condo any longer. The newly sworn-in vice president — who has been living in the renowned Blair House next door to the White House, but is moving to her official residence at the Number One Observatory Circle Tuesday — has listed her two-bedroom luxury high-rise residence for $1."
     publishedDateTime: 2021-04-06T23:29:00Z
@@ -95,6 +79,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb66e53-4ffe-4749-bfa4-7c5a9e5312a3/136d60fa-cca1-4e13-a21f-fd66ca526a31/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
+    excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing. House Minority Whip Rep."
+    publishedDateTime: 2021-04-14T15:28:00Z
+    webUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-border-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "6W3biDA5qow25vr4+3JGgaQDTec48tLRGlrFT9kTLIsL9qG+KR+0QytdVXqAv/oVkHj3M8hdCOh8TVyJjA2U0A5dYarE9/lvYBspNkbQHPnErqIGlPbo9AM7fKCvE3EULwBri1PxyS1IXgB6OSUjA2PY5idA6DonUd/6GnhYWGxED7A2oLhcZi6T0do+gWp3zb1rYxiexXvS/TRy3GLHO1nZPZ5GzCRVG9Rb4W84oO30AoBZ7zhzzdh8W4eaCR9HrsNyE5DvVvI7avb/phybtYq+RJtpJMtvm0ol/HV1KMBPe2s+SSrmF4GCHk6MfT07f62VBbBumfI9nNpGj+iATth4nObH6hNUbEnqeZh+ftQ=;4tTHzjLxCrcymu+mXugTzw=="

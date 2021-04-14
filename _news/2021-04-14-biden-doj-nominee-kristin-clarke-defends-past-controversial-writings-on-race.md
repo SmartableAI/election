@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cruz challenges Biden DOJ pick's contention that she opposes defunding police"
+    excerpt: "President Biden's Justice Department Civil Rights Division nominee Kristen Clarke insisted during her Wednesday confirmation hearing that she does not support defunding police, but Sen. Ted Cruz, R-Texas, confronted her with a recent article she wrote that, he claimed, proves otherwise."
+    publishedDateTime: 2021-04-14T19:54:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H5Ghcv1RNGU/biden-doj-pick-says-she-does-not-support-defunding-police-but-cruz-challenges-her-on-past-op-ed"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-challenges-kristen-clarke-defund-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-challenges-kristen-clarke-defund-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Democrats, Biden push limits of infrastructure definition as fight over spending plan takes shape"
     excerpt: "Democrats are pushing the limits of what can be defined as \"infrastructure\" as they aim to sell President Biden's $2 trillion-plus spending plan to the American people. "
     publishedDateTime: 2021-04-07T16:45:10Z
@@ -94,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Republicans to offer $650 billion infrastructure proposal as counter to Biden $2.2 trillion spending plan"
+    excerpt: "Republicans plan to offer an infrastructure bill of their own that would spend about $650 billion, a GOP source tells Fox News, as the Biden administration and congressional Democrats continue to push President Biden's $2 trillion-plus spending plan. "
+    publishedDateTime: 2021-04-14T18:58:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vQKK0FLQUu8/republicans-to-offer-650-billion-infrastructure-proposal-as-counter-to-biden-2-trillion-plus-spending-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-to-offer-650-billion-infrastructure-proposal-as-counter-to-biden-2-trillion-plus-spending-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-to-offer-650-billion-infrastructure-proposal-as-counter-to-biden-2-trillion-plus-spending-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "GOP senators want FBI to probe if Biden Pentagon nominee disclosed classified info after leaving Obama admin"
     excerpt: "A group of Republican senators Tuesday asked FBI Director Christopher Wray to investigate one of President Biden's Pentagon nominees over whether he allegedly disclosed classified information on social media after leaving the Obama administration. "

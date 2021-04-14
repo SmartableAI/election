@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republicans turn to the socialism playbook on Biden's infrastructure bill, labeling anything other than roads and bridges as 'Soviet'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Republican lawmakers are responding to President Joe Biden's $2 trillion infrastructure bill with a litany of misleading and even false statements. The GOP's longstanding strategy of attaching the socialism label ..."
+    publishedDateTime: 2021-04-14T18:22:00Z
+    webUrl: "https://www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/6077151f74da0300181e1a4c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "W3a/jWtBWkGGnSY85NYsVKk+4Tde68+2IgSYMUz++h/Vgc6jlimy3/5o4f3pijR8l/KO9idLDM4VUGkj02lKuwgbgTEYlSNpTCSmrNvIvRe1bO85MZ7+4jeQtxVMHmf4cCRyWeLToh36AwEKJzMkuyyF+Fuk4g9aO5iBRDj/C8r1MhzK/Hs6BThPWFxMzSTiMeH/uMaV26dSA4E58h0FUuW3+aCayN7jhGskF93CornzS3+rcEE62baoiKvTuPQyGlnKUuCpHq8OpEQN7XdQ8gYfl5oW0EU1AdVOBCZIiFB4Ag1z0t4tydVeMisTaLX4Ey/RpAj8vTr+pS8PrWcXbT0LmHA9Dv36F5kaCIMLJu0=;Uk0b/86VZ2SsXyyBg77sQw=="
 ---

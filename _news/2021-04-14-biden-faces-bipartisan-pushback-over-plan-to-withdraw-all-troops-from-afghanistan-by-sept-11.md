@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden announces Sept. 11 Afghanistan withdrawal deadline, says it's time for troops 'to come home'"
+    excerpt: "President Biden on Wednesday announced that the U.S. will withdraw all American forces from Afghanistan by Sept. 11 — pushing back a May deadline set by the Trump administration."
+    publishedDateTime: 2021-04-14T18:39:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ORltkjZp4Dg/biden-afghanistan-withdrawal-troops-home"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-withdrawal-troops-home.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-withdrawal-troops-home.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104669713438.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Iranian dissidents urge Biden to keep up pressure on Tehran, say regime at ‘weakest point in history’"
     excerpt: "Iranian dissidents are calling on the Biden administration to keep up the pressure on the country's leaders, arguing that the regime is at its \"weakest point in history\" -- even as the administration looks set to re-engage with Tehran."
     publishedDateTime: 2021-02-23T23:35:56Z

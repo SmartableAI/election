@@ -127,6 +127,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden spoke to Bush ahead of Afghanistan troop withdrawal"
+    excerpt: "President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot response, report finds Biden to accompany first ..."
+    publishedDateTime: 2021-04-14T18:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-ahead-of-afghanistan-withdrawal-announcement"
+    ampWebUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-ahead-of-afghanistan-withdrawal-announcement?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548257-biden-spoke-to-bush-ahead-of-afghanistan-withdrawal-announcement?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_9_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden spoke to Bush, Obama ahead of Afghanistan troop withdrawal"
+    excerpt: "President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot response, report finds Biden to accompany first ..."
+    publishedDateTime: 2021-04-14T18:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-obama-ahead-of-afghanistan-withdrawal-announcement"
+    ampWebUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-obama-ahead-of-afghanistan-withdrawal-announcement?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548257-biden-spoke-to-bush-obama-ahead-of-afghanistan-withdrawal-announcement?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_9_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -174,6 +206,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556102487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N228"
         width: 784
         height: 545
+        isCached: true
+  - title: "Biden announces withdrawal of all U.S. troops from Afghanistan by 9/11"
+    excerpt: "President Joe Biden announced Wednesday plans to pull all U.S. military forces from Afghanistan by September 11, 2021, a move that would bring an end to America's longest war by the 20th anniversary of the terrorist attacks at the World Trade Center in New York City and the Pentagon."
+    publishedDateTime: 2021-04-14T19:22:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-announces-withdrawal-of-all-us-troops-from-afghanistan-by-911/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/14/73b6e7a8-5f74-4843-8299-0328663774ce/thumbnail/1200x630/0201f6f756a295d088f665fab65a402d/cbsn-fusion-biden-announces-withdrawal-of-all-us-troops-from-afghanistan-by-911-thumbnail-692680-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
