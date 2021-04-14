@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
+    excerpt: "A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party.\n    \n"
+    publishedDateTime: 2021-04-13T23:26:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rMR8QFze9TI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pentagon announces new policies to abolish Trump administration's transgender military ban"
     excerpt: "The Pentagon has announced new policies to abolish the Trump administration's ban on transgender troops serving in the US military following a 60-day review initiated after President Joe Biden signed an executive order repealing the ban shortly after he took office in January.\n    \n"
     publishedDateTime: 2021-03-31T20:34:10Z
@@ -174,6 +190,22 @@ related:
       - url: "https://static.politico.com/d6/5b/2e9d3b5f4cbb81dc25d0a9b7c1ba/4-7-21-maga-hats-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
+    excerpt: "Washington (CNN)A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party. The newly minted nonprofit is ..."
+    publishedDateTime: 2021-04-13T23:27:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/trump-aides-policy-group/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Pamela Brown fact-checks deficit growth during Donald Trump's presidency"
     excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."

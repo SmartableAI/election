@@ -112,6 +112,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden to withdraw all U.S. forces from Afghanistan by September 11"
+    excerpt: "20 years after the attacks that pulled the U.S. into its longest war, President Joe Biden announced that all American troops will be pulled out of the region by September 11th, 2021.April 13, 2021 © 2021 NBC UNIVERSAL"
+    publishedDateTime: 2021-04-14T00:08:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-to-withdraw-all-u-s-forces-from-afghanistan-by-september-11-110145605857"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110145605857"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110145605857"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/ott_now_biden_troops_210413_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden Says Withdrawing U.S. Forces From Afghanistan by May Deadline Is ‘Tough’"
     excerpt: "President Biden said it would be “tough” to meet a May 1 deadline to withdraw all remaining U.S. troops from Afghanistan, publicly indicating for the first time that he could extend the American troop presence there."
     publishedDateTime: 2021-03-17T16:41:00Z

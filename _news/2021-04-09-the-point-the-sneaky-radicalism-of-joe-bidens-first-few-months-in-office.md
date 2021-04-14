@@ -373,6 +373,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Pelosi invites Biden to address Congress"
+    excerpt: "House Speaker Nancy Pelosi on Tuesday night formally invited President Joe Biden to address a joint session of Congress on April 28, his first speech to both chambers as president. In a brief letter to Biden, Pelosi said she invited him “to share your ..."
+    publishedDateTime: 2021-04-14T00:14:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/pelosi-invites-biden-to-address-congress-481307"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3b/82/9833ebea4893b24aa4846e347fbd/gettyimages-1231807954-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "'Moment of trial balloons': Democrats debate what to cut from Biden bill"
     excerpt: "President Joe Biden says he views his $2 trillion-plus infrastructure plan as simply a starting point for negotiations with Congress, a draft document of ideals where “compromise is inevitable.” But even as the White House maintains it is looking for ..."
     publishedDateTime: 2021-04-11T11:05:00Z

@@ -3,20 +3,28 @@ category: news
 title: "‘Clear the Capitol,’ Vice President Mike Pence pleaded, according to timeline of riot"
 excerpt: "WASHINGTON – From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
 publishedDateTime: 2021-04-10T22:22:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+originalUrl: "https://www.freep.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+webUrl: "https://www.freep.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+ampWebUrl: "https://amp.freep.com/amp/7177010002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7177010002"
 type: article
-quality: 28
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/499ef827-d18d-4c96-8c0a-130a4f771a96-AP_Capitol_Breach_The_Road_to_Riot.jpg?auto=webp&crop=4886,2748,x1,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Vice President Mike Pence pleaded with the acting defense secretary to 'clear the Capitol' as pro-Trump rioters overran the building, report says"
@@ -130,6 +138,6 @@ related:
         height: 687
         isCached: true
 
-secured: "bVhPAZBRk52S84S6DlLnCMdH/kdYg2fLvBSYIwIpMwRRbOnY8eEF1aAOiFVK207xuytSHW0O7g1Cn69we/OcQzNHbVZ4d7zuK+vaZkmS0sPK+0+K6Sr3VBOOAI2Gf/Iyv8NRyvMfdOMAZ3P+4ybbrG/zU81ZI8oshQN16LIA6mM2nxy9opSMHZYwP9atz01gAhO2mCbgzD2sOmMZBmPt9WiBQdggDn+lOT/7CIV9RqoeZtxPOSjfRwAd5lgrDhv9Gu/ifLBAjvDAtYbULngvidtGlfdh77XRaa78jJPmqllv4hVC6MF/8wwUjkweF+tpN1WoccWmwimyOHW3WP4n0CUyMymHK2heJZoQguRsabvG0MT1HgJvgDzGe5AaTKK6MDR1ZUaaBXKFZYOQH7fCVCHCR/6bkL4W9cB5PgqWa5O+Sp9E+AGXrpy/LaFDZ8VapjNxdsL0/8+/HkcvwBFB9CugxqRW1tjr+Krtpznces1ekSawYpmGtFpITbPhxRtEcTvIpr2tbUyiiax4X5J8cg==;/Anl/cwdXJvL5cAhAV/BWw=="
+secured: "1muRwMJ6fxjxj8kCy5++afFYKZTMLXfeu6nUASJDYtx4PHCN5pB2TNksfIEOdxZneAX391CRz+zzLc1sGTd/mJhYjGwerc/4yoAJAJrbiaSALUR3aV3AI2/gpLczb8QN50iy7WZsiqjdcToK/OEVCP9/75nqq1Df5JKK4Hnd+p7ls97YWzOJRLseqglovfQlzlUcd5sHmG/dq42uWbXg9sWIUC92wmkkZBa7bt7SJ6VbZFIndt2wnB9QDX8ZYgsakQtu0I9PWbQm/lyHXGMK7nJq4rW8K5sm0SGHtkrtXEp7/Z3K8nVBahtbNiP1u/bqXkhlWmqXBW3ZuZBjwBAKrRSKgIJlYaiasMUhXHrV9RE=;yK1Lpct3PElhmJgF6ck+ag=="
 ---
 

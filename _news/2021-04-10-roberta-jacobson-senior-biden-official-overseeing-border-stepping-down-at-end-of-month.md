@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden works to balance civil rights and criminal justice"
+    excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours Tuesday as he tries to navigate criminal justice and civil rights WASHINGTON ..."
+    publishedDateTime: 2021-04-13T22:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_99f980c46c4841c3a390081547ef8795_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden family dog Major to get 'off-site, private training' after two biting incidents"
     excerpt: "He added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. Major and the Bidens other dog Champ moved in to the White House a few days after Joe Biden's inauguration ..."
     publishedDateTime: 2021-04-12T12:59:00Z

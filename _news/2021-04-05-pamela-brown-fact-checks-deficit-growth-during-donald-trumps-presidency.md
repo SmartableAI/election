@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
+    excerpt: "A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party.\n    \n"
+    publishedDateTime: 2021-04-13T23:26:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rMR8QFze9TI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's own statements in old lawsuit could haunt him in any future criminal case"
     excerpt: "Donald Trump once said he calculated his net worth, to a degree, on his \"feelings,\" and that he put the \"best spin\" on some of the assets.\n    \n"
     publishedDateTime: 2021-04-01T11:23:49Z
@@ -191,6 +207,22 @@ related:
       - url: "https://static.politico.com/d6/5b/2e9d3b5f4cbb81dc25d0a9b7c1ba/4-7-21-maga-hats-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Ex-Trump aides form new policy group with $20 million initial budget"
+    excerpt: "Washington (CNN)A well-funded new group formed by former senior aides to then-President Donald Trump launched on Tuesday with the goal of permanently fusing the ex-President's \"America First\" agenda with the Republican Party. The newly minted nonprofit is ..."
+    publishedDateTime: 2021-04-13T23:27:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/trump-aides-policy-group/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/trump-aides-policy-group/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "High number of Trump political appointees sought permanent jobs in final year"
     excerpt: "The number of political appointees who sought permanent positions in the final year of former President Donald Trump’s term outpaced the number who did so under his predecessor during the same time frame, according to documents obtained by NBC News."

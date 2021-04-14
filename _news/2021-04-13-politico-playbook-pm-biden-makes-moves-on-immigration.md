@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pelosi invites Biden to address a joint session of Congress on April 28"
+    excerpt: "House Speaker Nancy Pelosi on Tuesday formally invited President Joe Biden to address lawmakers in a joint session of Congress later this month.\n    \n"
+    publishedDateTime: 2021-04-14T00:57:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNbISweLeIk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/pelosi-biden-joint-session-congress-invite/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/pelosi-biden-joint-session-congress-invite/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182608-01-joe-biden-0310-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Manchin on his veto power over Biden agenda: 'It's not a good place to be'"
     excerpt: "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n"
     publishedDateTime: 2021-03-11T00:49:42Z
@@ -366,6 +382,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to nominate first person of color to serve as permanent Census Bureau director"
+    excerpt: "Washington (CNN)President Joe Biden has picked statistician Robert Santos as the next Census Bureau director, the White House announced Tuesday, setting the stage for the first person of color to permanently head the agency if confirmed by the Senate."
+    publishedDateTime: 2021-04-13T21:17:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413154724-rob-santos-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Prepares to Take on Gun Violence in Wake of Back-to-Back Shootings"
     excerpt: "The president is expected to unveil executive orders on Thursday that will tackle so-called ghost guns and background checks. His office also released a plan to raise $2.5 trillion by overhauling the corporate tax code."
     publishedDateTime: 2021-04-07T17:04:00Z
@@ -397,6 +429,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Clyburn doesn’t want Biden to be like FDR"
+    excerpt: "“See I'm one who feels, contrary to some of our friends, that Joe Biden's legacy, if he's going to have credibility, must be much closer to Harry Truman than to Franklin Roosevelt,” Clyburn said. “I hear people talking about Joe Biden all the time ..."
+    publishedDateTime: 2021-04-13T22:45:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/04/13/clyburn-doesnt-want-biden-to-be-like-fdr-492463"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "8hu757qOew7y2pJtfDr8yunsPysygGqxar78FcDA9zABJ6WiysIlTyMQcW4tdUze8BzgNQMtdo84Zx9Y+mXkCaa9JKAITmOrp3DZ7weXfW8bvdqPVFN5ZDiy2osaUPYYZoqp5uI5iuGwbwjG8hOkUNMEqmqdwKFe9QmxWHajNV+87ty0aWwa6zMLuZAHFCgyq+LzaV0U7cHvr+iB9gyE298VRXcWK9Jh2693Ta768mcOq08j2Oe6hhzeHVnbLNAEMjRrLVPk2gBFgFbqnjHvITBlnB9UAxj9gAHYdW4t5TTLPAzv/WwHORpJNdAGcGWC+C5J28xxjVEJkNfjBY0KDZC097t9lxrpa9hhUBSHUJw=;YDd9RTdvuITEF8GUX6jLoQ=="

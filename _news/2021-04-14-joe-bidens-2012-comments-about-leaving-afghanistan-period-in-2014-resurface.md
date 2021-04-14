@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afgh
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1"
 type: article
 quality: 121
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Overnight Defense: Biden makes his Afghanistan decision"
+    excerpt: "CLICK HERE to subscribe to the newsletter. THE TOPLINE: President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims ..."
+    publishedDateTime: 2021-04-13T23:20:00Z
+    webUrl: "https://thehill.com/policy/defense/548077-overnight-defense-biden-makes-his-afghanistan-decision"
+    ampWebUrl: "https://thehill.com/policy/defense/548077-overnight-defense-biden-makes-his-afghanistan-decision?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548077-overnight-defense-biden-makes-his-afghanistan-decision?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_040721upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "Bw09UxpabaT9Oyeh1Q3NHTzto+97/D8NlMe1XgvIuqOz4PAKIoUi268iOfRxFBv7d7kE5Har5zSMJamjdLBjXjGLlsDnWruXeVQhNKXHfkOvEcPJJN9KT+sHirp8Qg+itXJcsl5w6y5ZxJIJ6Hlghma4m7RZ5MBtOv/RxX29SiPk2kDzBzYGOQnB+om4XJsC3Fx6fqAd8aSaK1cnubK2Kahu0ZbdBEkOr2LkdRd4cucxlEKpiHu8Da9zdESKTP7t5xy3ZjoAhB5fxUSuZJpbXbDrAaj8jJxuSOfKfINWzZlV91myAFFxOYUJFu5O3DvzMtK4b1nyO2EVeDxDrFEoRVvRghghZt18Pk9whQb4DZs=;9Czs/xwDHEfGY3hGXmQnJA=="
 ---

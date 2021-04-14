@@ -389,6 +389,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Pelosi invites Biden to address Congress"
+    excerpt: "House Speaker Nancy Pelosi on Tuesday night formally invited President Joe Biden to address a joint session of Congress on April 28, his first speech to both chambers as president. In a brief letter to Biden, Pelosi said she invited him “to share your ..."
+    publishedDateTime: 2021-04-14T00:14:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/pelosi-invites-biden-to-address-congress-481307"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3b/82/9833ebea4893b24aa4846e347fbd/gettyimages-1231807954-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "gCQMlAU0L4O9yK4aNWX7wcUwj4B2qDvN1vR5F1mFP6VS/6hd15OGM8w4nV+3PcLRQxyiGtaA8ARZNjZJJ9llAodUn94PtUNvlDrTf8HPI2hYxPZCmWl5/YkPiM1EXzInjZ1HF4iMPdj6+zu+p0gS/gWcN8HwMygCrJwUeeEUFusdxpWsNAh0itu3cQExRGYKrLasqsfuxnADuhwd154eYTQKIbkAlfHj9IImqeHpMm3SsXNomFUFMc3GNp+1/G1ugHhhhhmD9BiEYZnApA86gU2LuY0/eCKo7i/2IXXBAJvS83wXdpzDUdWLeAOILoTXZTXL8O60hl37SMYiXcr8oerSbyX9ua4NFvPiu4+8HIo=;TPDeGKR/Yr2YFgflDycCMw=="
 ---

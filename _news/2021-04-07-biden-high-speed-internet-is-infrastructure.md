@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrast
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/07/joe-biden-infrastructure-plan-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -371,6 +371,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/9f/32/ed70672a45a2a5ae285458df2790/210408-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Pelosi invites Biden to address Congress"
+    excerpt: "House Speaker Nancy Pelosi on Tuesday night formally invited President Joe Biden to address a joint session of Congress on April 28, his first speech to both chambers as president. In a brief letter to Biden, Pelosi said she invited him “to share your ..."
+    publishedDateTime: 2021-04-14T00:14:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/pelosi-invites-biden-to-address-congress-481307"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3b/82/9833ebea4893b24aa4846e347fbd/gettyimages-1231807954-1.jpg"
         width: 1160
         height: 773
         isCached: true

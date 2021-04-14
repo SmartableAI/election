@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pelosi invites Biden to address a joint session of Congress on April 28"
+    excerpt: "House Speaker Nancy Pelosi on Tuesday formally invited President Joe Biden to address lawmakers in a joint session of Congress later this month.\n    \n"
+    publishedDateTime: 2021-04-14T00:57:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNbISweLeIk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/pelosi-biden-joint-session-congress-invite/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/pelosi-biden-joint-session-congress-invite/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182608-01-joe-biden-0310-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Manchin on his veto power over Biden agenda: 'It's not a good place to be'"
     excerpt: "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n"
     publishedDateTime: 2021-03-11T00:49:42Z
@@ -351,6 +367,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to nominate first person of color to serve as permanent Census Bureau director"
+    excerpt: "Washington (CNN)President Joe Biden has picked statistician Robert Santos as the next Census Bureau director, the White House announced Tuesday, setting the stage for the first person of color to permanently head the agency if confirmed by the Senate."
+    publishedDateTime: 2021-04-13T21:17:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413154724-rob-santos-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Prepares to Take on Gun Violence in Wake of Back-to-Back Shootings"
     excerpt: "The president is expected to unveil executive orders on Thursday that will tackle so-called ghost guns and background checks. His office also released a plan to raise $2.5 trillion by overhauling the corporate tax code."
     publishedDateTime: 2021-04-07T17:04:00Z
@@ -396,6 +428,20 @@ related:
       - url: "https://static.politico.com/1c/09/1bc21c6f42ea86e778c4d96a66cb/gettyimages-1311687851.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Clyburn doesn’t want Biden to be like FDR"
+    excerpt: "“See I'm one who feels, contrary to some of our friends, that Joe Biden's legacy, if he's going to have credibility, must be much closer to Harry Truman than to Franklin Roosevelt,” Clyburn said. “I hear people talking about Joe Biden all the time ..."
+    publishedDateTime: 2021-04-13T22:45:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/04/13/clyburn-doesnt-want-biden-to-be-like-fdr-492463"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "2JQJxXyWnjQcQTeOC8xKD4DVX1ZoD7brABGdW2w4gRPZNM98uVurOnmMMh7YJY1TQlijKyXktfbVNL4dGo0F46hna7MoEnshUmRrHKPFsaZ1w0u7Hu8A1788ZMRZqvCwqm6RzMfInCj+NDSm0fj/fn6UUPxoLeRPthSTpwhtynZbmVOYVegOBAaY5i0J9wPTul7088Er/2YqcXCU4dVy6y+D5uaHt3VIh4toszQbAVqMo3ueVv9wvJwN0kh9PA/iITft9Cq6tQH472NW0xSVOmuwK5CByM5xRTR1Xs7bDX4KZYaFQNJFauEkoM8gX5B9c+z5+vSeEsOOxE9WmfsuEwy1Y/JA3XNx3UMMc7O0VQk=;NKvSwYocFYCIqllNSSvKkg=="

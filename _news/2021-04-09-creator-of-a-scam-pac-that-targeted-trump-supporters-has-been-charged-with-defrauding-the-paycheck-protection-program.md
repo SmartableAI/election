@@ -79,6 +79,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "‘Clear the Capitol,’ Vice President Mike Pence pleaded, according to timeline of riot"
+    excerpt: "WASHINGTON – From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
+    publishedDateTime: 2021-04-10T22:22:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+    ampWebUrl: "https://amp.freep.com/amp/7177010002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7177010002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/499ef827-d18d-4c96-8c0a-130a4f771a96-AP_Capitol_Breach_The_Road_to_Riot.jpg?auto=webp&crop=4886,2748,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
     excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
     publishedDateTime: 2021-04-07T23:33:00Z
@@ -125,15 +141,6 @@ related:
         width: 1000
         height: 687
         isCached: true
-  - title: "‘Clear the Capitol,’ Vice President Mike Pence pleaded, according to timeline of riot"
-    excerpt: "WASHINGTON – From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
-    publishedDateTime: 2021-04-10T22:22:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 28
 
 secured: "5rqbdIndgQrF6oRwLmERCqRnahkK4OOlrhn5mF+qnoVnuWOvBQcEzfzwcIzOW0uCHx/signwb41JVxri1UFWdRb6IZ2HPSiTgBTSUGMbkGh+j0Sv+AwPS+46BwYPfBEJRl7jENOcjYzkr6jW4ipdJpWTa5mF0NvrhoMYLokuBoYpypUgpyBUkroWYRxcBr1VQbV2Hg7jYOrVygXeCN28ekSWCwQl7bZ7mqqchRafsAnfp4aRAKN5oS1gNc1SRKWDcZcxoj9GEbLRoFJ8zZeTRc8yvQ69w8a9tTkT0dcKdiRBbEuYNNkkzcHAh2CROBnnXnoF+/mcb8w9wEuLxbcWu4GKG2WxvrecUarWoPwlbj2sATX5kxUE920XvN2OTT11GMPWjmaw6ny550RW1o2e5A1XmFG5O94q2k0Hu3hkb1ODWD29yZ9lFmicuSjZzy4BRYnLcaP/mfbYFm4SCcshRFHrav592YmxRrUGEiTLx51xlCzg5savsmu0pud9FbrS6O94Mls4PBTNgC1WjKbmxw==;82+BFzLDUJSFcoGHU09aMw=="
 ---

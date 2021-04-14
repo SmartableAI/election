@@ -372,6 +372,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How Trump prevents a new Tea Party from brewing"
+    excerpt: "Even Donald Trump, the Triumph the Insult Comic Dog of electoral politics, has had troubles landing a punch. His latest nickname for the president — “Saintly Joe Biden” — was debuted to donors over the weekend. It was meant as derisive … we think."
+    publishedDateTime: 2021-04-14T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/04/13/how-trump-prevents-a-new-tea-party-from-brewing-492461"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "kBxlMflRPeMMe5ADTRDXg+nk4bMCOqveTYBD0S6foDkSTxqT4RDr1577Ea455MZHxU5zXJL+iA6k9XCWVSVnYiXyJVRdsaAZtlPVhFCHO+sBjHu7DSjGwEHiGFlHm6JdAEnoktSDmHX3UvhTrdRyKh7dVyVSBxSE52s5t3EY1SXUa0hZ7rcWG9krPdNZ/lL/HkEWfFFCNM8CR1Rb371zf6vXeTawX/El1Pvu1/KErZjGeQW5eubgsh5X5BpoXd+KwhAQgBfCHsnFtWfWDYaLuuevXmUZTwSg1qMxHA84Cweso8DIQ1M1uh4lAPnF2XhYAtCSEqigxkzSoXq0cUmWSS5reaf7t2XMHK2tItaqlinTq2daDfU6TNe6AqtO6atN+pLMhh8a6CMOhjXQilEKexeJRwLJ2L4hRyaxu7Lz641L4tk+0rM5rQCmaRxzx8riiROTd0gniU13NLbvrypZEVeRBLXp9gW9NFbSRRvAV9ABVp2tBebt1J03WCAgAl+bO2jdrtainJuZGp00KHLLKg==;XkoOFCcj0GwI7vvhlKlzrw=="
 ---

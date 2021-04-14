@@ -91,6 +91,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "‘Clear the Capitol,’ Vice President Mike Pence pleaded, according to timeline of riot"
+    excerpt: "WASHINGTON – From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
+    publishedDateTime: 2021-04-10T22:22:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
+    ampWebUrl: "https://amp.freep.com/amp/7177010002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7177010002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/27/USAT/499ef827-d18d-4c96-8c0a-130a4f771a96-AP_Capitol_Breach_The_Road_to_Riot.jpg?auto=webp&crop=4886,2748,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘Clear the Capitol,’ Pence pleaded, according to previously undisclosed document on January 6 riots"
     excerpt: "WASHINGTON — From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
     publishedDateTime: 2021-04-10T19:50:00Z
@@ -121,15 +137,6 @@ related:
         width: 1000
         height: 687
         isCached: true
-  - title: "‘Clear the Capitol,’ Vice President Mike Pence pleaded, according to timeline of riot"
-    excerpt: "WASHINGTON – From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand."
-    publishedDateTime: 2021-04-10T22:22:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/10/clear-capitol-mike-pence-pleaded-timeline-riot-shows/7177010002/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 28
 
 secured: "noBSY7tfzXZUTiov+v88xAriFXk3AITdkFh/M0Q9Xn6csPhI5h8cHl/nbUZ40uBNXcPUDjPIwjEkblKHV5hAkTuFGuFnFNB/hIbhexzoiCp7mTfZjvT4ML1xpQaMj6RfIUe6ZV96Fsg0f3bG84AM0oHdA4YHYflo0Iom4Wa45Z34s8xJUcqnpkJ4tB8gBK7e+ATppx69U+MOW7V3/uo8Cz8fZUBK8z5HOin3preZYKpgphiOJp5/OomCpbZd4NevvSLYQFz6/ywcwxfyq55UogiKeJVCVWegtG2KRaaKHitNLr13aQI5miw2SfOwYIXJ5o79IAYwzoUWuyAAIuHv+knmPu9moxU3AiHqqoMkzWU=;uzWbBspQDSRBQtV6X83jQQ=="
 ---
