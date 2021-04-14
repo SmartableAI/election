@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Harris announces trip to Mexico, Guatemala"
+    excerpt: "Vice President Kamala Harris announces travel to Northern Triangle countries and said progress on the migration issue 'will not be obvious overnight.'"
+    publishedDateTime: 2021-04-14T15:54:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/14/vp-harris-announces-trip-mexico-guatemala/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 55
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/mCyqJD0q70x-95JFE4yF8ocvHgs=/1200x0/d1acid63ghtydj.cloudfront.net/04-14-2021/t_07ce704295344215b3cef8fed3fd2a9d_name_file_1280x720_2000_v3_1_.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "2YOs4lsP7D/K1WfVNMC5GwKL++i8u0Rze5LXYYyHFtlc+IcCdhrLRtVj+uCbvI1/rjGgu6ftN5UAGATtV3ZkiYBzLbISwfpiinUjKdO1Th9GX9v4z5tHhy8dT1Up0BH8VutwOLn7MAy/uY8/n0Dl5K6ARXuXniou8q4WdB3jUctUoVjkTj20GHHXptnp6Z6wCiw2UA55nGlIh7om2ghTvGgMpftmgbiJlQAmIgbeSUrN5QO5Q3sFkOfHJ+7gYRKP8+WbetTgIbSQZDCY3DOLVz0z5Q6LnZpai4be7POmbPUTliDNzzZM/GqMBr7tVoirwQ3ZAHyYYz30WKuVAlVqJYNRyaXTAtjvfTzEOXiw2LCDHC79eoq15shH8ps4IY6uhTRpjwJjPpW0bXOOPcCGeoOh17TAIVLi+pOq4dSktd1Lrbpl3YQgjLnKyRRw/eg6QGPXyuUkG6OjjNf/sxqC/xBwpmXZaMYCwahHYePgempM+i6bOBP/U7QMgCrJLtv5DYxkVVR7t5NqD+QVW0b7LQ==;5up0ICOwcFxIs++Aq/mcuA=="
 ---

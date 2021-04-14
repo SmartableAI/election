@@ -7,7 +7,7 @@ originalUrl: "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harr
 webUrl: "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harris-khive-newsletter-essential-politics"
 type: article
 quality: 97
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "VP Harris announces trip to Mexico, Guatemala"
+    excerpt: "Vice President Kamala Harris announces travel to Northern Triangle countries and said progress on the migration issue 'will not be obvious overnight.'"
+    publishedDateTime: 2021-04-14T15:54:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/14/vp-harris-announces-trip-mexico-guatemala/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 55
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/mCyqJD0q70x-95JFE4yF8ocvHgs=/1200x0/d1acid63ghtydj.cloudfront.net/04-14-2021/t_07ce704295344215b3cef8fed3fd2a9d_name_file_1280x720_2000_v3_1_.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "FOkUHDBwElCiRjm+G19VLycBEwiO2YyGotWiiU24EDB1a3X2flmgwdO+dM/QC5/lSwNeVODC+zV9lTJYtcoRBpAywNckUNekc/40uOpH3SZFV9k10MsL0BtqaNlZu2WB858sWU1FLGuj30xWeNpqe/tKqI7Q0f2yLHFlgTwkKtJeZgF/P4JAD5byzt4T94gMmu9hWO+HT9oazlpfEY/dtiMcCHIE6iomec8U+XYfmcFXbMNrgXjRLWbEs9Vb9NiFUc1mmYEmxuQktzxxgi91miA37uu1I6Ca2mlgtz7dwdyNdNvmut3eTZjeaVdGFgbJp2AjSxVWwRyWhyf8quUHr6o7nrezVmy0aJR+XaQaNeo=;Hj+6VQ/kXXDCOSD8/OQeLg=="
+secured: "8XMs6ruRzkd6qDCSAhiFPRCuH+84QRe9v0IOgyr8ONDfSdoL2EnsPyT12MckBVGctpa0VYAv79NEeFxw8fDVsynu4fY79g7LCDLiXjmirRO4nVxzrAenR/2Yqt+6JotlR0+KCV447eD6VQM2NQ651zZGtrDY7CK6v3597kS1SBjL/fndcL5wGEsnHZMOYZd8HTmEhNog5ZMCtgo4j2uBL1MULPFi6trZhy9e6kCYC6r/LszfnrqzRjc5G+DaWulIdsMDezPAv6AzbzlFXS8AeM9fNlLoeX9auuLPWJOBNnuFsqR+2yv3pFbdot6NtlfRHZEQE1Ce5W2xKN6umU1WsQIh7sOl0Dj0hFlEnzMCzSQ=;N+Mkzz0ZAPNY+9NFbmdkkg=="
 ---
 

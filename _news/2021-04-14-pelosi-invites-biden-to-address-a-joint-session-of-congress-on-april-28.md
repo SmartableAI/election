@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden admin intends to move forward with $23B UAE weapons sales"
+    excerpt: "The Biden administration intends to move forward with $23 billion in proposed arms sales to the United Arab Emirates even as it continues its review of pending weapons transfers, a State Department spokesperson told CNN Wednesday.\n    \n"
+    publishedDateTime: 2021-04-14T14:31:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z3lxHUqgCT4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Manchin on his veto power over Biden agenda: 'It's not a good place to be'"
     excerpt: "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n"
     publishedDateTime: 2021-03-11T00:49:42Z

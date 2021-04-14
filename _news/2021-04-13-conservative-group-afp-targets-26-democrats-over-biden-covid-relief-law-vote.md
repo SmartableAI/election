@@ -95,6 +95,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's Foreign Policy Starts at Home"
+    excerpt: "Sullivan had been a senior adviser to Vice President Joe Biden and Secretary of State Hillary Clinton and had played a key role in Clinton’s 2016 presidential campaign."
+    publishedDateTime: 2021-04-14T14:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/14/bidens_foreign_policy_starts_at_home_540389.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "sbV3ZO1v4nB3cjk3LDY7TfFdk9pL72/qYZgkLGA0jSxoA0A2le4xiQGrcIzqO9W7SHFJlMWdbwTYhIUuWFec/gZlngtsOdx+jL+ABMepejmEYfg2uZvInFQd5Zu34vAXUb48qCrSv43zE6sHcDJOWQpMFB+opqzEHEjz8k2weFV4MaEQ/b4nURNx5wy6uU5mZ5IGPkZpgv16Oyp+7p2d0o5ebdV7CrkcmSWmxjE+XPAYsy3Dp3z1HBsfrBPH8NCFw7WJq5H2EvYCHLF1S+otDYZN9qxIyiWdJ7R3iN1B6vATcKv3rJdGEn3b3bbb/mxmmaTkMvDwXAu3UMMP2dg47FoQuG1NmVPBcM24Y33zEh0=;L2l15iXWGAXhehYHD4GqTg=="
 ---

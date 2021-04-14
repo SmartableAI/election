@@ -52,6 +52,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden faces bipartisan pushback over plan to withdraw all troops from Afghanistan by Sept. 11"
+    excerpt: "President Biden is facing bipartisan pushback over his plans to withdraw all U.S. troops from Afghanistan, as Republicans and Democrats alike sound the alarm over whether the move could be too soon."
+    publishedDateTime: 2021-04-14T15:06:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WUhXhICX1Fw/biden-bipartisan-pushback-afghanistan-troop-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bipartisan-pushback-afghanistan-troop-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bipartisan-pushback-afghanistan-troop-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Iranian dissidents urge Biden to keep up pressure on Tehran, say regime at ‘weakest point in history’"
     excerpt: "Iranian dissidents are calling on the Biden administration to keep up the pressure on the country's leaders, arguing that the regime is at its \"weakest point in history\" -- even as the administration looks set to re-engage with Tehran."
     publishedDateTime: 2021-02-23T23:35:56Z

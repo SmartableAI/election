@@ -331,62 +331,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-biden-administration-will-not-shut-down-dakota-access-pipeline-during-environmental-review-doj-lawyer-tells-court.md",
-      "title": "Biden administration will not shut down Dakota Access Pipeline during environmental review, DOJ lawyer tells court",
-      "excerpt": "The Biden administration will not shut down the controversial Dakota Access Pipeline while an environmental review is conducted, a blow to the environmental and tribal groups that have rallied against the project for years.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_l4BLxl1XdU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_l4BLxl1XdU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170208112827-dakota-access-pipeline-protesters-remain-jpm-orig-00000000-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/09/politics/dakota-access-pipeline-biden-administration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/dakota-access-pipeline-biden-administration/index.html",
-      "publishedDateTime": "2021-04-09T12:19:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-10-donald-trump-jr-and-kimberly-guilfoyle-buy-south-florida-mansion-for-97m.md",
       "title": "Donald Trump Jr. and Kimberly Guilfoyle buy South Florida mansion for $9.7M",
       "excerpt": "Donald Trump Jr. and his partner, the TV personality Kimberly Guilfoyle, have reportedly picked up a waterfront mansion in Jupiter, FL.",
@@ -447,7 +391,7 @@
       "originalUrl": "https://www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1338,6 +1282,62 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-joe-manchin-on-the-fate-of-joe-bidens-agenda.md",
+      "title": "Joe Manchin on the fate of Joe Biden's agenda ",
+      "excerpt": "Joe Manchin says it's no fun being the most powerful man in Washington.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-vVzgys3E60/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-vVzgys3E60/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 755,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408155128-joe-manchin-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html",
+      "publishedDateTime": "2021-04-08T21:08:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

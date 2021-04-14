@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Schumer praises Biden's 'careful and thought-out plan' for Afghanistan"
+    excerpt: "Senate Majority Leader Chuck Schumer on Wednesday praised President Joe Biden's plan to withdraw US troops from Afghanistan, calling it a \"careful and thought-out plan.\"\n    \n"
+    publishedDateTime: 2021-04-14T14:28:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zVtojWIqndA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/chuck-schumer-afghanistan-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/chuck-schumer-afghanistan-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414092514-screengrab-chuck-schumer-cnn-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to announce withdrawal of US troops from Afghanistan by September 11"
     excerpt: "President Joe Biden plans to announce Tuesday a withdrawal of US troops from Afghanistan by the upcoming twentieth anniversary of the September 11 terrorist attacks, according to two people familiar with the plans.\n    \n"
     publishedDateTime: 2021-04-13T17:58:59Z
@@ -45,22 +61,6 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413121156-01-us-troops-afghanistan-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to nominate Robin Carnahan as administrator of General Services Administration"
-    excerpt: "President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed transition to the presidency.\n    \n"
-    publishedDateTime: 2021-04-06T21:51:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_wbbYPHnvg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,38 +128,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden Says Withdrawing U.S. Forces From Afghanistan by May Deadline Is ‘Tough’"
-    excerpt: "President Biden said it would be “tough” to meet a May 1 deadline to withdraw all remaining U.S. troops from Afghanistan, publicly indicating for the first time that he could extend the American troop presence there."
-    publishedDateTime: 2021-03-17T16:41:00Z
-    webUrl: "https://www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/17/us/politics/17dc-usafghan/17dc-usafghan-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Biden to nominate Robin Carnahan as administrator of General Services Administration"
-    excerpt: "(CNN)President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed ..."
-    publishedDateTime: 2021-04-06T21:51:00Z
-    webUrl: "https://www.cnn.com/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 128
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
     excerpt: "(CNN)President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some ..."
     publishedDateTime: 2021-04-13T19:11:00Z
@@ -175,6 +143,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'It is time to end America's longest war': Biden to announce full withdrawal of troops in Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden is expected to say in a speech Wednesday announcing his plans to fully withdraw troops from Afghanistan by Sept. 11 that the country \"cannot continue the cycle of extending or expanding our military presence in ..."
+    publishedDateTime: 2021-04-14T14:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/it-time-end-america-s-longest-war-biden-announce-full-n1264048"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264048"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264048"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_14/3463177/210408-joe-biden-jm-1618_d1c5cdba8fbcc869c180d79039c53776.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "vyqvWulmovdH98tQGzyoDx+dk5Ncg28lgGIwrJEUrCkbOzXNmeT0VWPc2e3PZnQ9kI6RzOD30rK2v3WirDMO0HhSqC2lCBBDv3t0Pd65Lp3L0D4BNNeaO2vLyKzI9A+uVd+n8AdhQb53cW5yiULhF6mh6bG901aFNX37eM0zpdPbnR0Jl1ipb3saV3NsB6kh7E644jeblkeFuUNmiYd3Ewp/yVPl259kb5hlQNWR/WwXzsHGGzR2BLaaWElHFGx+6CVJiqCma6xXuYwxNpzrhWsoag/hZhduDsaiDHMfhyI8UlIOK5cM5rUyE4RukE+vom1mMlHSwlZrU4lBSib6fP1sG8OgBHi7FlDkj3oE/fk=;AUlbC4chQw0FOw88vnzkPA=="

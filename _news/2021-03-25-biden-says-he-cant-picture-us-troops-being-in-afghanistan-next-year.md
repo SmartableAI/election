@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presse
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/biden-afghanistan-presser/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
     excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN wanted out of Afghanistan. In"
     publishedDateTime: 2021-03-19T23:03:00Z
     webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/03/19/biden-gets-his-chance-on-afghanistan-492182"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden sets Afghanistan pullout"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
+    publishedDateTime: 2021-04-14T14:01:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
     type: article
     provider:
       name: Politico

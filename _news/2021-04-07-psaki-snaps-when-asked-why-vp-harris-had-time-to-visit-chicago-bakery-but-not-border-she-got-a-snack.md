@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
+    excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing."
+    publishedDateTime: 2021-04-14T15:27:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpgjxE5Iv6I/house-republicans-kamala-harris-milk-carton-missing-at-border"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris says goodbye to Washington, DC, home"
     excerpt: "Kamala Harris doesn’t need her Washington, DC, condo any longer. The newly sworn-in vice president — who has been living in the renowned Blair House next door to the White House, but is moving to her official residence at the Number One Observatory Circle Tuesday — has listed her two-bedroom luxury high-rise residence for $1."
     publishedDateTime: 2021-04-06T23:29:00Z

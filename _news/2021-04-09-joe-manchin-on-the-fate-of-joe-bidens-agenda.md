@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-gu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html"
 type: article
 quality: 175
-heat: 735
+heat: 755
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408120329-01-biden-gun-violence-prevention-0408-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden admin intends to move forward with $23B UAE weapons sales"
+    excerpt: "The Biden administration intends to move forward with $23 billion in proposed arms sales to the United Arab Emirates even as it continues its review of pending weapons transfers, a State Department spokesperson told CNN Wednesday.\n    \n"
+    publishedDateTime: 2021-04-14T14:31:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z3lxHUqgCT4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-afghanistan-withdr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-afghanistan-withdrawal/index.html"
 type: article
 quality: 173
-heat: 353
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to nominate Robin Carnahan as administrator of General Services Administration"
-    excerpt: "President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed transition to the presidency.\n    \n"
-    publishedDateTime: 2021-04-06T21:51:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_wbbYPHnvg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
+  - title: "Schumer praises Biden's 'careful and thought-out plan' for Afghanistan"
+    excerpt: "Senate Majority Leader Chuck Schumer on Wednesday praised President Joe Biden's plan to withdraw US troops from Afghanistan, calling it a \"careful and thought-out plan.\"\n    \n"
+    publishedDateTime: 2021-04-14T14:28:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zVtojWIqndA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/chuck-schumer-afghanistan-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/chuck-schumer-afghanistan-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414092514-screengrab-chuck-schumer-cnn-0414-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -127,38 +127,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden Says Withdrawing U.S. Forces From Afghanistan by May Deadline Is ‘Tough’"
-    excerpt: "President Biden said it would be “tough” to meet a May 1 deadline to withdraw all remaining U.S. troops from Afghanistan, publicly indicating for the first time that he could extend the American troop presence there."
-    publishedDateTime: 2021-03-17T16:41:00Z
-    webUrl: "https://www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/politics/biden-us-forces-afghanistan-may.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/17/us/politics/17dc-usafghan/17dc-usafghan-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Biden to nominate Robin Carnahan as administrator of General Services Administration"
-    excerpt: "(CNN)President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed ..."
-    publishedDateTime: 2021-04-06T21:51:00Z
-    webUrl: "https://www.cnn.com/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 128
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
     excerpt: "(CNN)President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some ..."
     publishedDateTime: 2021-04-13T19:11:00Z
@@ -174,6 +142,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'It is time to end America's longest war': Biden to announce full withdrawal of troops in Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden is expected to say in a speech Wednesday announcing his plans to fully withdraw troops from Afghanistan by Sept. 11 that the country \"cannot continue the cycle of extending or expanding our military presence in ..."
+    publishedDateTime: 2021-04-14T14:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/it-time-end-america-s-longest-war-biden-announce-full-n1264048"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264048"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264048"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_14/3463177/210408-joe-biden-jm-1618_d1c5cdba8fbcc869c180d79039c53776.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "RuMzepvvaWNTcaejxQlgBmoZlAw/ktyxSKR+5nF+iY0l/9T9ezf5kuPMiTcivLT1Oh3njU456XSxKo3ayI2ojjcQ7+WM84jaZvIru4Q8ufzyTLGvBxl62GvZuGw5aDtm2tGIHaBPI5hvopw1jUUCOFwFIzFdEli+gMsRoYxEUZCL7nfjBpz/Xt6GHyTldV1j41iw8BvMdMuke1vpY+PuSTy20YVttzi/Hfl1Cb8PMBOwCJOcqSTxjuRGOCnCSbXBXQ2s45tN7/bYQXxGgDvD0VemtXnmoi7XJfXXiTgSyq304D1Yz3fE42OEgUYJwwdHihJ27sv3gdMn8AjaHUM0OvOIcj84uyzVSnPC601+VB4=;REzBDYCVwjABBugpAhZ3VQ=="

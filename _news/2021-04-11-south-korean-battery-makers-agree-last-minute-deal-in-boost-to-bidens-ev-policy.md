@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden faces long odds in push for more state 'red flag' laws"
+    excerpt: "Iowa -- President Joe Biden faces an uphill battle as he tries to revive a push for more state laws that would allow authorities to temporarily disarm people who are considered a danger to ..."
+    publishedDateTime: 2021-04-14T14:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-long-odds-push-state-red-flag-77066852"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-long-odds-push-state-red-flag-77066852"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-long-odds-push-state-red-flag-77066852"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_caaa6d54f7e7456686b04130b33c438f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "McConnell's home state bridge symbol of infrastructure standoff with Biden"
     excerpt: "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ..."
     publishedDateTime: 2021-04-08T19:50:00Z

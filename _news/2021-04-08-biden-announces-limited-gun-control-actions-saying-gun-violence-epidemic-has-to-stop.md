@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Biden works to balance civil rights and criminal justice"
+    excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours as he tries to navigate criminal justice and civil rights WASHINGTON -- On one ..."
+    publishedDateTime: 2021-04-14T14:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_99f980c46c4841c3a390081547ef8795_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Lauren Boebert Rips Joe Biden Over Gun Control Measures: 'Second Amendment is Absolute'"
     excerpt: "Republican Colorado Representative Lauren Boebert has criticized Democratic President Joe Biden's gun control efforts by stating, \"The Second Amendment is absolute. Anyone who says otherwise is a tyrant.\" Boebert published her tweet just hours after a mass ..."
     publishedDateTime: 2021-04-09T04:02:00Z

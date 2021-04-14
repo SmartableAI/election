@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-b
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html?outputType=amp"
 type: article
 quality: 106
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
+    excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
+    publishedDateTime: 2021-04-14T15:44:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/14/Harris_98547.jpg-c7f77_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Baltimore company that made yarn bought by Vice President Kamala Harris has stitched together a success story"
     excerpt: "In March during a visit at Fibre Space in Alexandria, Vice President Kamala Harris purchased a hand-dyed yarn that’s the color of the Observatory Circle — the residence of the vice president ― made by Neighborhood Fiber to celebrate Harris ..."
     publishedDateTime: 2021-04-14T10:00:00Z

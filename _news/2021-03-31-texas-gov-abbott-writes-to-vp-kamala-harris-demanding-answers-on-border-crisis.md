@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Harris to travel to Guatemala, Mexico amid criticism over border crisis"
+    excerpt: "Vice President Kamala Harris said on Wednesday that she will travel to Guatemala and Mexico as part of her role in tackling the \"root causes\" of the swirling migration crisis at the southern border -- as she faces intense criticism for her alleged lack of action on the crisis."
+    publishedDateTime: 2021-04-14T14:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pue2-RecnWc/harris-guatemala-and-mexico-criticism-over-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-guatemala-and-mexico-criticism-over-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-guatemala-and-mexico-criticism-over-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
     excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
     publishedDateTime: 2021-04-10T01:35:39Z
@@ -381,6 +397,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Kamala Harris to travel to Mexico and Guatemala amid ongoing migrant crisis"
+    excerpt: "Vice President Kamala Harris will travel to Mexico and Guatemala amid the ongoing migrant crisis on the southern border, but has no plans to visit the states affected by the havoc, she revealed."
+    publishedDateTime: 2021-04-14T15:09:00Z
+    webUrl: "https://nypost.com/2021/04/14/kamala-harris-to-travel-to-mexico-guatemala-amid-migrant-crisis/"
+    ampWebUrl: "https://nypost.com/2021/04/14/kamala-harris-to-travel-to-mexico-guatemala-amid-migrant-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/14/kamala-harris-to-travel-to-mexico-guatemala-amid-migrant-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "White House defends Kamala Harris' travel after visiting places other than border"
     excerpt: "KAMALA HARRIS PLEDGED TO VISIT BORDER 'AT SOME POINT,' BUT TWO WEEKS LATER WHITE HOUSE HAS NO UPDATE \"I think as, you know, working with countries to work on a collaborative approach, to working on circumstances on the ground,\" Psaki replied, adding that ..."

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Biden works to balance civil rights and criminal justice"
-excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours as he tries to navigate criminal justice and civil rights"
-publishedDateTime: 2021-04-14T04:09:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours as he tries to navigate criminal justice and civil rights WASHINGTON -- On one ..."
+publishedDateTime: 2021-04-14T14:13:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,249 +25,77 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_99f980c46c4841c3a390081547ef8795_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Official: Biden moving vaccine eligibility date to April 19"
-    excerpt: "President Joe Biden is set to announce that he's shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines WASHINGTON -- President Joe Biden ..."
-    publishedDateTime: 2021-04-06T11:45:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
+  - title: "NRA Tells Joe Biden It Is 'Ready to Fight' New Gun Control Measures"
+    excerpt: "The National Rifle Association (NRA) warned President Joe Biden it was \"ready to fight\" any new federal gun control measures, in spite of the legal and money troubles facing the lobby giant. Posting on social media, the NRA said planned gun control ..."
+    publishedDateTime: 2021-04-08T14:15:00Z
+    webUrl: "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952"
+    ampWebUrl: "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1773206/ar-15-rifles-pennsylvania.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Tennessee Defies Joe Biden's Gun Control Push with No-Permit Law"
+    excerpt: "The Republican governor announced that he'd signed the legislation as President Joe Biden unveiled a raft of executive actions aimed at curbing gun violence and tightening firearm controls. \"I signed constitutional carry today because it shouldn't be hard ..."
+    publishedDateTime: 2021-04-09T08:13:00Z
+    webUrl: "https://www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235"
+    ampWebUrl: "https://www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1774224/handguns-nashville-tennessee.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
+    excerpt: "It's going to be very hard to get any kind of bipartisan consensus' on guns: Ponnuru President Joe Biden announced limited steps, using his executive power, to address gun violence Thursday ..."
+    publishedDateTime: 2021-04-08T16:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/white-house-expected-announce-gun-control-actions-atf/story?id=76933179"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/white-house-expected-announce-gun-control-actions-atf/story?id=76933179"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/white-house-expected-announce-gun-control-actions-atf/story?id=76933179"
     type: article
     provider:
       name: ABCNews
       domain: abcnews.go.com
-    quality: 125
+    quality: 117
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_8f3ad97807e84cd5bc8723834d33143e_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/president-biden-gun-violence-prevention-01-gty-iwb-210408_1617900253327_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to move COVID-19 vaccine eligibility date to April 19"
-    excerpt: "President Joe Biden is set to announce that he’s shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines"
-    publishedDateTime: 2021-04-06T18:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+  - title: "Lauren Boebert Rips Joe Biden Over Gun Control Measures: 'Second Amendment is Absolute'"
+    excerpt: "Republican Colorado Representative Lauren Boebert has criticized Democratic President Joe Biden's gun control efforts by stating, \"The Second Amendment is absolute. Anyone who says otherwise is a tyrant.\" Boebert published her tweet just hours after a mass ..."
+    publishedDateTime: 2021-04-09T04:02:00Z
+    webUrl: "https://www.newsweek.com/lauren-boebert-rips-joe-biden-over-gun-control-measures-second-amendment-absolute-1582214"
+    ampWebUrl: "https://www.newsweek.com/lauren-boebert-rips-joe-biden-over-gun-control-measures-second-amendment-absolute-1582214?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lauren-boebert-rips-joe-biden-over-gun-control-measures-second-amendment-absolute-1582214?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Kerry expected to travel to China in first visit by top Biden official"
-    excerpt: "The trip, less than a month after a face-to-face meeting between senior Chinese and U.S. diplomats in Alaska ended in traded diatribes and insults, would be the first official visit to China by a top Biden administration official. A State Department ..."
-    publishedDateTime: 2021-04-10T19:35:00Z
-    webUrl: "https://www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YWO3FOU2EAI6XMUNX6T3WXFSUU.jpg&w=1440"
-        width: 1440
-        height: 940
-        isCached: true
-  - title: "Biden hands toy back to child at service for fallen Capitol officer"
-    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
-    publishedDateTime: 2021-04-13T15:46:00Z
-    webUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer"
-    ampWebUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/evanswilliam_capitol_getty041321.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden, lawmakers pay tribute to slain Capitol Police officer"
-    excerpt: "Slain U.S. Capitol Police Officer William “Billy” Evans was lauded for his dedication to country, love for his job and for a mischievous sense of humor as President Joe Biden and congressional leaders"
-    publishedDateTime: 2021-04-13T16:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Business leaders urge Biden to set ambitious climate goal"
-    excerpt: "President Joe Biden is considering options for expected carbon reductions by 2030 ahead of a virtual climate summit the United States is hosting later this month. The so-called Nationally ..."
-    publishedDateTime: 2021-04-13T11:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/business-leaders-urge-biden-set-ambitious-climate-goal-77039875"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/business-leaders-urge-biden-set-ambitious-climate-goal-77039875"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/business-leaders-urge-biden-set-ambitious-climate-goal-77039875"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_7756f1f499fd4c2db64c28e4e3802213_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden invited to address U.S. Congress on April 28"
-    excerpt: "WASHINGTON (Reuters) - U.S. House Speaker Nancy Pelosi on Tuesday invited President Joe Biden to address a joint session of Congress on April 28. “I am writing to invite you to address a Joint Session of Congress on Wednesday, April 28, to share your ..."
-    publishedDateTime: 2021-04-13T23:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-biden/biden-invited-to-address-u-s-congress-on-april-28-idUSKBN2C101G?edition-redirect=uk"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C101G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C101G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558349728&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D00M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Senate confirms Biden nominee for No. 2 State Dept post"
-    excerpt: "WASHINGTON (Reuters) -The U.S. Senate on Tuesday confirmed President Joe Biden’s nominee Wendy Sherman to be deputy secretary of state, the number two position at the department. The Senate backed the nomination by 56-42, as a handful of Republicans ..."
-    publishedDateTime: 2021-04-13T21:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-diplomacy-idUSKBN2C02YO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C02YO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C02YO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558338430&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C1GD"
-        width: 715
-        height: 545
-        isCached: true
-  - title: "Biden's pick for top civil rights job promises to advance racial equality"
-    excerpt: "WASHINGTON – Kristen Clarke, President Joe Biden's pick to be the Justice Department's civil rights chief, is promising to make racial equality a top priority, drawing on her experiences as a longtime civil rights attorney and the mother of a Black ..."
-    publishedDateTime: 2021-04-14T06:59:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-civil-rights-chief-nominee-kristen-clarke-faces-confirmation-hearing/7204361002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7204361002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7204361002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/38f34795-1047-4e1d-9068-f0f4108ef791-GTY_1295083847.jpg?auto=webp&crop=5228,2941,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden family dog Major to get 'off-site, private training' after two biting incidents"
-    excerpt: "He added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. Major and the Bidens other dog Champ moved in to the White House a few days after Joe Biden's inauguration ..."
-    publishedDateTime: 2021-04-12T12:59:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/04/12/bidens-dog-major-get-more-training-following-biting-incidents/7186140002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7186140002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7186140002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/09/USAT/67801030-2b22-4776-9e35-1ebd4add9290-VPC_WHITE_HOUSE_DOGS_GO_BACK_TO_DELAWARE_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Hill's Morning Report - Biden bumps up vaccine eligibility amid 'life or death' race"
-    excerpt: "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE\" width=\"580 ..."
-    publishedDateTime: 2021-04-07T10:25:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/546844-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/546844-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/546844-the-hills-morning-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 116
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-open_040721getty.jpg"
-        width: 580
-        height: 387
-        isCached: true
-  - title: "Roberta Jacobson, senior Biden official overseeing border, stepping down at end of month"
-    excerpt: "In his statement, Sullivan suggested that Vice President Kamala Harris, who President Joe Biden chose to deal with migration from Central America, will pick up some of Jacobson's portfolio."
-    publishedDateTime: 2021-04-09T22:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/Politics/roberta-jacobson-gty-jc-210409_1618009006290_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Nearly 40% of Marines decline COVID vaccine, prompting some Democrats to urge Biden to set mandate for military"
-    excerpt: "Nearly 40% of United States Marines who have been offered the COVID-19 vaccine have declined it, according to the Pentagon. Of the 123,500 Marines that have had access to the vaccine, 75,500 Marines are either fully vaccinated or have only received one ..."
-    publishedDateTime: 2021-04-10T21:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/10/covid-vaccine-nearly-forty-percent-us-marines-decline/7173918002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7173918002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7173918002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/a5dbf9d3-615a-4fab-8350-33f576afc6f9-AP_Virus_Outbreak_Ramadan_Vaccine.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden pays tribute to slain Capitol Police officer"
-    excerpt: "Slain Capitol Police Officer William “Billy\" Evans was lauded as an American hero, \"defined by his dignity, his decency...and his courage,\" as President Joe Biden and congressional leaders honored him during a memorial service Tuesday."
-    publishedDateTime: 2021-04-13T17:54:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/biden-pays-tribute-slain-capitol-police-officer/7207126002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1f37893-5012-45f2-8461-47ceb11925a3_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "President Joe Biden gives powerful tribute, pays respects to slain Capitol police officer"
-    excerpt: "President Joe Biden gave an emotional tribute and paid his respects to slain U.S. Capitol Police Officer William “Billy” Evans."
-    publishedDateTime: 2021-04-13T23:24:00Z
-    webUrl: "https://www.indystar.com/videos/news/nation/2021/04/13/president-biden-pays-respects-slain-capitol-police-officer/7212635002/"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 46
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/c8029d0e-d69e-4994-accc-b4eee06c60e5-DESK.00_00_41_02.Still004.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://d.newsweek.com/en/full/1774167/lauren-boebert-gun-control-2nd-amendment-biden.jpg"
+        width: 3000
+        height: 2002
         isCached: true
 
-secured: "2oAII1Jkhfg7kJNRzOhRwP+L++wWVnPpBvrwC/q73qmn1PTvQpUTAaltiITW3ZpbmB6VZvPBOIOLypCgTT5/joRHIhHZxzWWhJOUqjQdIhaTy62pZHlWG7F8DWdVA2aPzbr5XignBtrio1ITEvbsBQCrhml+fG8lM1RIZpn0U+SjfkSUaGFLzxZelt6ZY+thqLS14qMY1MigqRQkdRUt8Cfz5dEKf7SDRH8iiolPhy1cY1i/2cZkF5vhT6htM9vZUop2JcnXpfurNNkRvHJrlOqut3VbCB3w7nibwwlf8SKyjdP+6IkSEUZCKENCP+ODE0xkgh2xOXEoBC86enjWF87LF2QVqma8YbiTqEMrfSo=;DB2xaazZdfodGHtdg+Ee0Q=="
+secured: "bmuxV9sZo2hZ+pfLGsiXCevFI6jW4e6mFTqIvMeMMu03g14gG5Xw0gLcwgysRSMXx6hXdScsKwcc5u3DVH2e+dPoFvnlNBVVglZfmSZ8zlIqfnQ4pvxetDf1A8LydS2ntRrQWsDbpFPAAhV0+XQDl45yTqe+Jn3uILuS1CFyRvynt7bOXsTorlqdAxZ3Be+ukImtyh9P7fXjy0sHcdLUvNAm0OevWcomS0i02T8hV6q2JiQ8+fd8SMtbIbCj5M8BIF5IwWrT9zgCKouHxYY1fb64RAhSdSQ+6OrWS1EKe+aitnG8TV+B2+NJ8U63czc9UEhIlYuV3oXI1qekFzSYO7ZK1hrgCnoGBLOShRAnu6k=;d1jXVKZyuPuZZa0C1CGBxg=="
 ---
 

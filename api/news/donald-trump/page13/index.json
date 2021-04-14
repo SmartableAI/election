@@ -2,6 +2,63 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-23-trump-may-have-made-one-thing-great-after-all-the-democratic-party.md",
+      "title": "Trump may have made one thing 'great' after all: the Democratic Party",
+      "excerpt": "If Democrats are going to hold on to the momentum galvanized under Trump’s disastrous term, they need to deliver. President Donald Trump's promise to \"Make America Great Again\" turned out to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
+      "originalUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_03/3443977/210121-democratic-party-great-again-main-2x1-an_c61ed483fca4984ffa89420fdf5b4d6a.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/ncna1255240",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/ncna1255240",
+      "publishedDateTime": "2021-01-22T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-top-iran-leader-posts-trump-like-golfer-image-vows-revenge.md",
       "title": "Top Iran leader posts Trump-like golfer image, vows revenge",
       "excerpt": "The Twitter account of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone, vowing revenge over the killing of a top Iranian general in a U.",
@@ -1525,49 +1582,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-dave-bautista-offers-20000-to-find-person-who-wrote-trump-on-manatee.md",
-      "title": "Dave Bautista offers $20,000 to find person who wrote ‘TRUMP’ on manatee",
-      "excerpt": "Dave Bautista offered $20,000 to whoever finds the person who scrawled “TRUMP” on the back of a manatee in Florida. “If there’s not already a reward for the arrest and conviction of the low life scummy MAGATs that did this I’ll throw in $20,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html",
-      "originalUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/JoIKjftXK2mIo19koqWa6v8EnGw=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HJN2PKZIONCBFG2OHIFWDX7I64.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-16T18:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

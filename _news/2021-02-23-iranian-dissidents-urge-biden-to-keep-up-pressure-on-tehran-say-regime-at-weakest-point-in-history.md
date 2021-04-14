@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden faces bipartisan pushback over plan to withdraw all troops from Afghanistan by Sept. 11"
+    excerpt: "President Biden is facing bipartisan pushback over his plans to withdraw all U.S. troops from Afghanistan, as Republicans and Democrats alike sound the alarm over whether the move could be too soon."
+    publishedDateTime: 2021-04-14T15:06:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WUhXhICX1Fw/biden-bipartisan-pushback-afghanistan-troop-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bipartisan-pushback-afghanistan-troop-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bipartisan-pushback-afghanistan-troop-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z

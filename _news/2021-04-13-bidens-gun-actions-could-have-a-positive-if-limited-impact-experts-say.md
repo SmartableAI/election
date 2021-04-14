@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
-    excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
-    publishedDateTime: 2021-04-08T17:02:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to take first limited steps on gun control, including on 'ghost guns' and pistol braces"
     excerpt: "President Joe Biden plans to announce new executive actions on guns on Thursday, a person familiar with the plans said, fulfilling a commitment he made in the aftermath of two deadly shootings last month.\n    \n"
     publishedDateTime: 2021-04-08T01:13:16Z
@@ -79,22 +63,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463010/210408-joe-biden-se-1040a_293240327619717702ae0fcd649d9d31.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Congressional Democrats call on Biden administration to demand Saudi Arabia lift blockade on Yemen"
-    excerpt: "(CNN)A group of more than 70 congressional Democrats has sent President Joe Biden a letter pushing the White House to encourage Saudi Arabia to end a blockade of Yemen that has led to food and fuel shortages in the country that have hampered the delivery ..."
-    publishedDateTime: 2021-04-07T13:34:00Z
-    webUrl: "https://www.cnn.com/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/democrats-reaction-yemen-blockade/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 121
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "1kVr9ikr/1/5DB1J13Y5D+bIChxUQ+oeLMmzQHz8+xjyOf/z9G3GXkiAqwv2JzeZQTLHNvehGfu9YBr6R+HgpOrk7wV1DA9q12Eb7nKoQ5xU/5fVF8ASlToZS0f/kw1Gbaqx0T8VHOHwcpF7bVgFUgKuPl3wKwuUdaZIBLwU2Dszd+r5c+mZWHvQ8NNpoo/JPF3BizEc11boBscNJi1bNDqPiQBWfNUTF31UTJLMnJKDmw1jZCXd4mE1qd8pMfXhxjve1YJLm+f9WBpmY9NQ+je3OBARN5uXP6mybdDauHV0wmxxfvXrztxOd5k1PaUX1wXTzGuxTOyi/nM3KVa4/wTOBRTXR9AX4yMTVpY8udI=;KklEqwLk1hXBRWOqfAIcPw=="

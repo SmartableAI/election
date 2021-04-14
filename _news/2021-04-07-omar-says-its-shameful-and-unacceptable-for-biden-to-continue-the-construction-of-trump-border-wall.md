@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden moves to roll back Trump-era ban on funding for abortion providers like Planned Parenthood"
+    excerpt: "President Biden's administration has begun the process of restoring family planning grants to abortion providers like Planned Parenthood Federation of America (PPFA), which forfeited millions of dollars in response to Trump-era restrictions on family planning grants."
+    publishedDateTime: 2021-04-14T14:22:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CeBkVlZnVMI/biden-abortion-provider-funding-trump-ban-rollback"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-abortion-provider-funding-trump-ban-rollback.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-abortion-provider-funding-trump-ban-rollback.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Joe-Biden-Abortion-Referral-Planned-Parenthood-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "CA man whose brother was killed by illegal immigrant sends message to Biden"
     excerpt: "A man whose brother was killed by an illegal alien slammed the Biden administration for refusing to admit that there is a crisis at the southern border and said the situation is getting worse by the minute."
     publishedDateTime: 2021-04-09T12:29:24Z

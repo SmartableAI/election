@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-158195
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1774224/handguns-nashville-tennessee.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "Biden works to balance civil rights and criminal justice"
+    excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours as he tries to navigate criminal justice and civil rights WASHINGTON -- On one ..."
+    publishedDateTime: 2021-04-14T14:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77060294"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_99f980c46c4841c3a390081547ef8795_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
     excerpt: "It's going to be very hard to get any kind of bipartisan consensus' on guns: Ponnuru President Joe Biden announced limited steps, using his executive power, to address gun violence Thursday ..."

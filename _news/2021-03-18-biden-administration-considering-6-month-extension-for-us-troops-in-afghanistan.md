@@ -93,6 +93,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden sets Afghanistan pullout"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
+    publishedDateTime: 2021-04-14T14:01:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "LR9/DvV0NWoluL4F18DFZdp6yPkRjlCjG3Ci9qyroincffYsdSDXlSZkfNcaGx1cwkn2M3zytB/2dRknvDS18SCdqlgpLCavKRPoWvv+h+aWM5WSjzedZzTGbHIXiMgjIVPcozgQbEGMZLYEGZGIJUEqi1JvdelD/kTbf3dEz+SfrtWvOc4NIk70v4gCTRwEfi+BD/FViFZtC8Xw+mKnEhlqLK8r+iQ4Ath3vths7cnxnFXjaRl0oy4RLKEsv14N+2ZKP96Fs8eIzqM5+9piOph0Kufomug+RI47FYbH8K6SvKzx/ZH/Hhrn2tl1OQ/CpaPnXvB8tSe6C51rvGcU16T+4fgjn3DpyWUZbA+Snk0=;kyuHu/dnT8cLvOk4TR+YpQ=="
 ---

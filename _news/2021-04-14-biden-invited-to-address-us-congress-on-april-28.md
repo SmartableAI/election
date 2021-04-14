@@ -127,22 +127,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden works to balance civil rights and criminal justice"
-    excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours as he tries to navigate criminal justice and civil rights"
-    publishedDateTime: 2021-04-14T04:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "U.S. Senate confirms Biden nominee for No. 2 State Dept post"
     excerpt: "WASHINGTON (Reuters) -The U.S. Senate on Tuesday confirmed President Joe Biden’s nominee Wendy Sherman to be deputy secretary of state, the number two position at the department. The Senate backed the nomination by 56-42, as a handful of Republicans ..."
     publishedDateTime: 2021-04-13T21:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gingrich-harris-border-crisis-immig
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-harris-border-crisis-immigration-illegal-immigrants.amp"
 type: article
 quality: 124
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "VP Kamala Harris: \"Root Causes\" Of Migrant Surge At The Border \"Not Going To Be Addressed Overnight\""
+    excerpt: "Vice President Kamala Harris announced Tuesday that she plans to travel to Guatemala and Mexico to help identify the \"root causes\" of the migration crisis at the southern border."
+    publishedDateTime: 2021-04-14T15:03:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/14/vp_kamala_harris_root_causes_of_migrant_surge_at_the_border_not_going_to_be_addressed_overnight.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 50
+    images:
+      - url: "https://assets.realclear.com/images/54/540469.jpg"
+        width: 5604
+        height: 3736
+        isCached: true
 
 secured: "qoMtZ5rI2D/25DXZMlMUJ8Y69Em7HuGruVB9HqCIPSL76S3budSGN9lPaPmAQF5xZwbdzWkDb3Ph/BjmcnAmeOSyl7He5zUMGsqgFNpGlMSJXMn6UQXNPLkXaROdmOi5KSaC7gfxrTrcDIdxCKzAGQXVwnLVhNAtZNSqtNBGgiL5y0Nz8/BiZ23rC6fQhvgIv4V3OmiXkDZKuiufHAESE9yNWpkYWjExgMI3p0ea6S3TPtEeP4WgonzdH2qfaqQ1MjBadoL3liBEdIYJagymbOWU0dzqUGSAnW51mNFBPCvaoHUh/dPyRBSDs3gHAwl2C1gVT6bSO9ATr9DW3UK5kRBkYLgWgEbikSGrKfolQl0=;iVkYfdmI4aEJ9i1l4Kr2Pw=="
 ---

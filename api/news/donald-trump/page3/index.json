@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-03-watch-trump-was-right-biden-is-a-trojan-horse-for-progressives.md",
+      "title": "WATCH: 'Trump was right, Biden is a Trojan horse for progressives'",
+      "excerpt": "During his first televised response over allegations of sex trafficking a minor, Rep. Matt Gaetz claimed his family was working with the FBI over an alleged extortion plot organized by former federal prosecutor David McGee. Gaetz attempted to change the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
+      "originalUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/a2/bd/956476cb412383a4047432f027a2/boehner-hpimage-2.jpg",
+          "width": 2320,
+          "height": 1546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
+      "publishedDateTime": "2021-04-02T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-to-say-as-a-korean.md",
       "title": "Ex-Trump Official Sery Kim Rejects Chinese Immigrants, Believes It's OK to Say as a Korean",
       "excerpt": "She also served served as assistant administrator for the Small Business Administration under former President Donald Trump. Kim also argued that the rise in violent attacks against Asian Americans have always existed but are only now being covered by the ...",
@@ -1494,58 +1551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-trumps-wealthiest-cabinet-member-made-225m-in-outside-income-report.md",
-      "title": "Trump's Wealthiest Cabinet Member Made $225M In 'Outside Income': Report",
-      "excerpt": "Betsy DeVos made at least $225 million in outside income as Trump's education secretary She earned $75 million from Alticor, Amway's parent company She also owned stakes in Neurocore, a brain performance company targeting children Former Secretary of Education Betsy DeVos earned nine figures in outside income during her tenure as a Cabinet member in the Trump administration,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
-      "originalUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/27/betsy-devos-special-olympics.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
-      "publishedDateTime": "2021-03-23T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

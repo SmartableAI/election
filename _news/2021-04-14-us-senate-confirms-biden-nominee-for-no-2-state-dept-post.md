@@ -143,22 +143,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden works to balance civil rights and criminal justice"
-    excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours as he tries to navigate criminal justice and civil rights"
-    publishedDateTime: 2021-04-14T04:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden's pick for top civil rights job promises to advance racial equality"
     excerpt: "WASHINGTON – Kristen Clarke, President Joe Biden's pick to be the Justice Department's civil rights chief, is promising to make racial equality a top priority, drawing on her experiences as a longtime civil rights attorney and the mother of a Black ..."
     publishedDateTime: 2021-04-14T06:59:00Z

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-24-trumps-wealthiest-cabinet-member-made-225m-in-outside-income-report.md",
+      "title": "Trump's Wealthiest Cabinet Member Made $225M In 'Outside Income': Report",
+      "excerpt": "Betsy DeVos made at least $225 million in outside income as Trump's education secretary She earned $75 million from Alticor, Amway's parent company She also owned stakes in Neurocore, a brain performance company targeting children Former Secretary of Education Betsy DeVos earned nine figures in outside income during her tenure as a Cabinet member in the Trump administration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
+      "originalUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/27/betsy-devos-special-olympics.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-wealthiest-cabinet-member-made-225m-outside-income-report-3167956?amp=1",
+      "publishedDateTime": "2021-03-23T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-bernie-sanders-not-comfortable-with-trump-twitter-ban.md",
       "title": "Bernie Sanders not ‘comfortable’ with Trump Twitter ban",
       "excerpt": "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political",
@@ -1499,58 +1551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-power-up-trumps-legal-exposure-multiplies-in-new-york-and-washington.md",
-      "title": "Power Up: Trump's legal exposure multiplies in New York and Washington",
-      "excerpt": "This is the Power Up newsletter – thanks for waking up with us. FIRST IN POWER UP, TRUMP'S LEGAL EXPOSURE: Former president Donald Trump's tax records are being sifted through; those closest to him have been subpoenaed;",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7SF3QQEHNEI6XAV44WBBHSVDRY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/18/power-up-trump-legal-exposure-multiplies-new-york-washington/?outputType=amp",
-      "publishedDateTime": "2021-03-18T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

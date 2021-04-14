@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-harris-border-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp"
 type: article
 quality: 185
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
+    excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing."
+    publishedDateTime: 2021-04-14T15:27:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpgjxE5Iv6I/house-republicans-kamala-harris-milk-carton-missing-at-border"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki snaps when asked why VP Harris had time to visit Chicago bakery but not border, 'she got a snack'"
     excerpt: "White House Press Secretary Jen Psaki got snippy with a reporter on Wednesday who questioned why Vice President Kamala Harris had time to visit a Chicago bakery amid the lingering border crisis she has been tasked to deal with."
     publishedDateTime: 2021-04-07T22:39:02Z

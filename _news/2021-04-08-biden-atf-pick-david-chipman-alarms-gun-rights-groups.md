@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-gun-control-atf-david-chipman
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/025ee707-4e8b-40e1-9b3c-e3a7cac73b67/558e3a4e-a28d-4349-919d-0a2770e6fa93/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's Foreign Policy Starts at Home"
+    excerpt: "Sullivan had been a senior adviser to Vice President Joe Biden and Secretary of State Hillary Clinton and had played a key role in Clinton’s 2016 presidential campaign."
+    publishedDateTime: 2021-04-14T14:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/14/bidens_foreign_policy_starts_at_home_540389.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "6aUBm+5as0Y6KI7TjWEFWAVEYFWcwPEeYFMc7/iG8JnkO7QIsJdHSttBEEwB0/CQjeYD1CnB/avdSI5LQ5CWBTyeT5fS55Wtou1ZyjeP4FgRepe6cUclKUvabU1vaQS2LEdK79lHdqnoTWKcFAca2cs3JgAb1z6HXCK7MwrM1A0/eK4nqTLp0fOgtfEgwEmoic0qulEKtPQyfSWwaECvqGoJWDTtOb/M9xCS2mp8/pZFYYWfvN3e2IilL/7lBiKDQswtGbg+NNL8kV5dCOz7TxM2UkjFb2BCGnWDjDi4PKVmNdd3GnyX68Bjaz5H6Iuucqol2YXvhJXMWUenF/tPF4X2+c/2Ka0tENmuNOSfZ6E=;3vHaudVY6nMTO5vXt0ruEA=="

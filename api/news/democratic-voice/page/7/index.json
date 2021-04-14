@@ -2,63 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-02-18-rush-limbaughs-legacy-of-venom-as-trump-rose-it-all-sounded-familiar.md",
-      "title": "Rush Limbaugh’s Legacy of Venom: As Trump Rose, ‘It All Sounded Familiar’",
-      "excerpt": "Weaponizing conspiracy theories and bigotry long before Donald Trump’s ascent, the radio giant helped usher in the political style that came to dominate the Republican Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/17/us/politics/17limbaugh-politics1/17limbaugh-politics1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
-      "publishedDateTime": "2021-02-17T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-18-biden-to-pick-chiquita-brooks-lasure-to-run-centers-for-medicare-and-medicaid-services-sources-say.md",
       "title": "Biden to pick Chiquita Brooks-LaSure to run Centers for Medicare and Medicaid Services, sources say",
       "excerpt": "President Joe Biden is expected to nominate Chiquita Brooks-LaSure to lead the Centers for Medicare and Medicaid Services, two sources familiar with the decision told CNN.\n    \n",
@@ -1692,6 +1635,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-lin-wood-doubles-down-on-attacking-pence-roberts.md",
+      "title": "Lin Wood doubles down on attacking Pence, Roberts",
+      "excerpt": "In a court filing, the Atlanta lawyer again brought up bizarre, unsubstantiated allegations amid a bid to drive him off a libel suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/09/lin-wood-attacks-pence-roberts-468027",
+      "originalUrl": "https://www.politico.com/news/2021/02/09/lin-wood-attacks-pence-roberts-468027",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/f9/fe/de3ac1aa4f4d9e72d1fad1b7e8c0/ap20337836130489-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
         "Democratic Voice"
       ]
     }

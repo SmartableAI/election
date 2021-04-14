@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/policy/defense/548077-overnight-defense-biden-ma
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548077-overnight-defense-biden-makes-his-afghanistan-decision?amp"
 type: article
 quality: 125
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-04-14T14:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Joe Biden's 2012 Comments About Leaving Afghanistan 'Period' in 2014 Resurface"
     excerpt: "After news broke that President Joe Biden plans to withdraw U.S. troops from Afghanistan by September, people began sharing 2012 comments from Biden vowing that America's military would be withdrawn from the country in 2014. Although Biden has repeatedly ..."
     publishedDateTime: 2021-04-13T20:49:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1777278/president-joe-biden.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Biden to say in Afghanistan speech ‘it’s time to end America’s longest war’ – live"
+    excerpt: "Lawmakers of both parties have criticized Joe Biden’s plan to withdraw all US troops from Afghanistan, with some accusing the president of abandoning America’s commitment to the Afghan people. In his speech this afternoon, Biden will emphasize that ..."
+    publishedDateTime: 2021-04-14T14:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/6787b5cbf19fa76e68505561539e063ff63cc6d6/0_31_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8f06c37fe345cbe74e3b82b57bb71003"
+        width: 600
+        height: 360
         isCached: true
   - title: "J&J vaccine, ex-Brooklyn Center officer's fate, Biden's Afghanistan plan: 5 things to know Wednesday"
     excerpt: "President Joe Biden will on Wednesday announce his plans to move all U.S. military forces out of Afghanistan. All military presence will be pulled by Sept. 11 – the 20th anniversary of the 9/11 attacks that spurred America's longest war – and more ..."

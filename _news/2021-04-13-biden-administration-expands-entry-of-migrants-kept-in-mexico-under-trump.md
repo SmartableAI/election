@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-administration-expands-entry-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-expands-entry-migrants-kept-mexico-under-trump.amp"
 type: article
 quality: 189
-heat: 669
+heat: 689
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88d7f226-3bc5-4dd8-a9c0-7c26ed7a83bc/80764ff6-b759-4d35-baa8-f7a14e3bdd73/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden moves to roll back Trump-era ban on funding for abortion providers like Planned Parenthood"
+    excerpt: "President Biden's administration has begun the process of restoring family planning grants to abortion providers like Planned Parenthood Federation of America (PPFA), which forfeited millions of dollars in response to Trump-era restrictions on family planning grants."
+    publishedDateTime: 2021-04-14T14:22:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CeBkVlZnVMI/biden-abortion-provider-funding-trump-ban-rollback"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-abortion-provider-funding-trump-ban-rollback.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-abortion-provider-funding-trump-ban-rollback.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Joe-Biden-Abortion-Referral-Planned-Parenthood-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall"
     excerpt: "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. "

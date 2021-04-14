@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-04-14T14:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Overnight Defense: Biden makes his Afghanistan decision"
     excerpt: "CLICK HERE to subscribe to the newsletter. THE TOPLINE: President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims ..."
     publishedDateTime: 2021-04-13T23:20:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1777278/president-joe-biden.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Biden to say in Afghanistan speech ‘it’s time to end America’s longest war’ – live"
+    excerpt: "Lawmakers of both parties have criticized Joe Biden’s plan to withdraw all US troops from Afghanistan, with some accusing the president of abandoning America’s commitment to the Afghan people. In his speech this afternoon, Biden will emphasize that ..."
+    publishedDateTime: 2021-04-14T14:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/6787b5cbf19fa76e68505561539e063ff63cc6d6/0_31_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8f06c37fe345cbe74e3b82b57bb71003"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "bKkZS3qafBgkioFFVbLV2DUywd8DhSBsrMp2J1D+s4QtV8Z2yG+ePOklCvyzMM4xgfv8ReelTxSW6PKtuaLf2L6F6JDqHQxo9fJouXty2b28lyukUGiNvZ6hUi+L70+KQepxP7L6zCS9w+CIPW46oXkS2Fkju1Xrw0I+Er4/McLl08Tuus2ushMCwx1996293HRdWzjj0iTAYWjeqIeL9UH/sshIarZ8I5soRJ1Jm9ynKr/NHeJ6K7HmnEVCLY2cGNku9WaBvh0KZhw8ROYRWbE1MmTVf3oersl3dNIRUYkqXhr1ivPMs4wwj7MwBu1f9hKdW570sMknUvPgUKxdYQtO1VbeUa7XCbO2ATZBmZM=;y1FVQAh/tc2WnjwX38K4sA=="
