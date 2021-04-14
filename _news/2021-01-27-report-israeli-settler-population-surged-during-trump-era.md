@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/middle_east/report-israeli-sett
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101B7"
         width: 901
         height: 545
+        isCached: true
+  - title: "Trump-era spike in Israeli settlement growth has only begun"
+    excerpt: "Satellite images and data obtained by The Associated Press document for the first time the full impact of the policies of then-President Donald Trump, who abandoned decades-long U.S. opposition to ..."
+    publishedDateTime: 2021-04-14T06:28:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_a04df8fa0413470e90547a8e116fc562_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Tim Kaine to Drop Attempt at Censuring Donald Trump Over Lack of Support"
     excerpt: "Senator Kaine said his bipartisan censure resolution, an alternative to the impeachment trial, does not have enough support from either the Democrats or Republicans."

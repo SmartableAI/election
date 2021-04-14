@@ -715,6 +715,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump-era growth of settlement growth has only begun"
+    excerpt: "An Associated Press investigation shows an aggressive Israeli settlement spree built over 9,000 homes in the occupied West Bank during the Trump era"
+    publishedDateTime: 2021-04-14T06:15:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/trump-era-growth-settlement-growth-begun-77061280"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061280"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061280"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_a04df8fa0413470e90547a8e116fc562_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z

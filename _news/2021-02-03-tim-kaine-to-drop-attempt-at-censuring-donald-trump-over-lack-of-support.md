@@ -63,6 +63,22 @@ related:
         width: 901
         height: 545
         isCached: true
+  - title: "Trump-era spike in Israeli settlement growth has only begun"
+    excerpt: "Satellite images and data obtained by The Associated Press document for the first time the full impact of the policies of then-President Donald Trump, who abandoned decades-long U.S. opposition to ..."
+    publishedDateTime: 2021-04-14T06:28:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_a04df8fa0413470e90547a8e116fc562_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "AEQSG4Dbogit/0W4V9vyUbWzRKGwaQ+tvfvLLp5dp7Tmik/+/pxZ1pA6YaeKoA4ovMn1B32g7idW5oM5s20hpRyMkBb47pmlWH0Me09y8qJG571/zDcx7V7wtI9Dw2e/cxctGBBZZX4C+lnT+4xGrj63lChGsC+BrcV1pqY9FmMK6owF120bHDLrPTxBxWVYzZCOyzWJaLSJiAVe+OgUlTLfynA+9BvbDa/mNiCFKL9SQaoohrdmgzsFKP85iLDsmq9M5+HL5wxhJxnm1Uvs0kqjYTpSBS3QuUHQ3YdXgzJMxeCD97uOja17U/6nDvN191+E/WVjSU962+rP90COW3CQwC7J6gZrlyAM60ZfcDAiRm/P3kbFp4g4VPHoca9+vE/VKkoMr4KXeh+d0tj8Do9608U5UkJ08JAhIWLZa1UrSHrQBGXCsJ8nDA6+CZ0oPG5CcekzRKb3jZJpXSpyDV50Jj//lsdJYXzUb4Wnh7hgrvDH8CB39jrUPmk25/glHyEmPhEx/U9yfMub2tdzMg==;gV3yCqzFbApczBCeOIS9gg=="
 ---

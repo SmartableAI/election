@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump-era spike in Israeli settlement growth has only begun"
+    excerpt: "Satellite images and data obtained by The Associated Press document for the first time the full impact of the policies of then-President Donald Trump, who abandoned decades-long U.S. opposition to ..."
+    publishedDateTime: 2021-04-14T06:28:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_a04df8fa0413470e90547a8e116fc562_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Tim Kaine to Drop Attempt at Censuring Donald Trump Over Lack of Support"
     excerpt: "Senator Kaine said his bipartisan censure resolution, an alternative to the impeachment trial, does not have enough support from either the Democrats or Republicans."
     publishedDateTime: 2021-02-02T18:31:00Z

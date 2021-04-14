@@ -111,6 +111,22 @@ related:
         width: 795
         height: 545
         isCached: true
+  - title: "Biden to address U.S. Congress as lawmakers consider infrastructure plan"
+    excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden will speak to a joint session of the U.S. Congress on April 28, accepting an invitation from House of Representatives Speaker Nancy Pelosi, a fellow Democrat. “The President has accepted the invitation of ..."
+    publishedDateTime: 2021-04-14T01:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-biden-idUSKBN2C101G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C101G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C101G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558349728&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D00M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
     excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
     publishedDateTime: 2021-04-08T00:46:00Z

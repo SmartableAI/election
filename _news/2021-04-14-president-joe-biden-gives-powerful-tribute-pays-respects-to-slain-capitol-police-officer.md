@@ -153,6 +153,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "U.S. Senate confirms Biden nominee for No. 2 State Dept post"
+    excerpt: "WASHINGTON (Reuters) -The U.S. Senate on Tuesday confirmed President Joe Biden’s nominee Wendy Sherman to be deputy secretary of state, the number two position at the department. The Senate backed the nomination by 56-42, as a handful of Republicans ..."
+    publishedDateTime: 2021-04-13T21:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-diplomacy-idUSKBN2C02YO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C02YO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C02YO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558338430&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C1GD"
+        width: 715
+        height: 545
+        isCached: true
+  - title: "Biden's pick for top civil rights job promises to advance racial equality"
+    excerpt: "WASHINGTON – Kristen Clarke, President Joe Biden's pick to be the Justice Department's civil rights chief, is promising to make racial equality a top priority, drawing on her experiences as a longtime civil rights attorney and the mother of a Black ..."
+    publishedDateTime: 2021-04-14T06:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-civil-rights-chief-nominee-kristen-clarke-faces-confirmation-hearing/7204361002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7204361002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7204361002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/38f34795-1047-4e1d-9068-f0f4108ef791-GTY_1295083847.jpg?auto=webp&crop=5228,2941,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden family dog Major to get 'off-site, private training' after two biting incidents"
     excerpt: "He added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. Major and the Bidens other dog Champ moved in to the White House a few days after Joe Biden's inauguration ..."
     publishedDateTime: 2021-04-12T12:59:00Z
