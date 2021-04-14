@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden leans close to tell someone to socially distance, 'which I'm not doing'"
-    excerpt: "President Biden leaned inches away from someone’s face to urge them to practice social distancing as he promoted the nation’s vaccine progress Tuesday afternoon, video shows."
-    publishedDateTime: 2021-04-06T21:34:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DyOSK8DjGRk/biden-leans-close-social-distancing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-leans-close-social-distancing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-leans-close-social-distancing.amp"
+  - title: "Biden: Parts of US 'backsliding' into Jim Crow days"
+    excerpt: "President Biden said parts of the United States are \"backsliding\" into \"the days of Jim Crow,\" during remarks Wednesday at the National Action Network's national convention – one of the largest civil rights conferences in the country."
+    publishedDateTime: 2021-04-14T16:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096696393947-e1617743978498.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Abbott: Biden administration 'doing absolutely nothing' about child sex assault claims at migrant facility"
-    excerpt: "Texas Gov. Greg Abbott told \"Hannity\" Thursday that state officials have not been allowed to enter a San Antonio migrant holding facility to investigate claims of child sexual assault."
-    publishedDateTime: 2021-04-09T02:43:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5RY8SmiMv-g/greg-abbott-biden-child-sex-assault-migrants-san-antonio"
-    ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-biden-child-sex-assault-migrants-san-antonio.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-child-sex-assault-migrants-san-antonio.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Will Joe Biden's Jim Crow Big Lie Boomerang?"
+    excerpt: "The big lie works -- until it doesn't. The big lie in this case is Joe Biden's charge that the changes in Georgia election law passed by"
+    publishedDateTime: 2021-04-09T10:41:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540038_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "8WpzYC9dbFE4y+kMSBMjQF8ttUpo+adWq/AbDd27DpptDzQXTt656GjYUrQBPBIBtwxfRQRRY9COXwKETenovMmiSLzn+2CBj4NwTrOSbjhg8R/riHlnSYQjmDou3LcZ0Vcj96g2WiV95wg/yNXJInUCyepM0G8CqjnwzUpNd4r1yksXzTOC5DZOy2NukvYKR2Tf4damCN1lWmisRTapqSDlfkJXbWt2nIpggFSMyM0DoOLJm0OOafIWe6BKf1QvT9f8ln9Txp854bj5JkAzfivVxSTKTaJRxQWQBSEcRYWaddbY59Y/YNBZ3SEcF9DnNmHMYpp77Bmx603ppVDuxYZ7fYggK9OqYdShq8BfuHo=;FQ7ygxGr25daNUdDDXdirQ=="

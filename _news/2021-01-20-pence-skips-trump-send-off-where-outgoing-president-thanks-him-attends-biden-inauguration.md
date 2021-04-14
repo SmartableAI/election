@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4765
+heat: 4785
 published: true
 
 provider:
@@ -479,6 +479,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91d04a2f-0fcc-4e80-a4db-39df11088247/3c84e3f6-2c0a-488c-93d2-6bbf39b4ec59/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's partisan divide as wide as Trump's: poll"
+    excerpt: "A new Monmouth University survey indicates that the already large partisan divide over President Biden is widening."
+    publishedDateTime: 2021-04-14T16:01:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T-0608OSzWc/biden-partisan-divide-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-partisan-divide-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "

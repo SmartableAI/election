@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-03-donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta.md",
+      "title": "Donald Trump, GA Gov. Brian Kemp Call Out 'Woke Companies' Like MLB, Delta",
+      "excerpt": "\"Boycott baseball and all of the woke companies that are interfering with Free and Fair Elections. Are you listening Coke, Delta, and all!\" Trump wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
+      "originalUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771295/donald-trump.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
+      "publishedDateTime": "2021-04-02T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-watch-trump-was-right-biden-is-a-trojan-horse-for-progressives.md",
       "title": "WATCH: 'Trump was right, Biden is a Trojan horse for progressives'",
       "excerpt": "During his first televised response over allegations of sex trafficking a minor, Rep. Matt Gaetz claimed his family was working with the FBI over an alleged extortion plot organized by former federal prosecutor David McGee. Gaetz attempted to change the ...",
@@ -1499,58 +1551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-2-staunch-trump-allies-launch-senate-bids-in-missouri-and-alabama.md",
-      "title": "2 staunch Trump allies launch Senate bids in Missouri and Alabama",
-      "excerpt": "Former Missouri Governor Eric Greitens and Alabama Representative Mo Brooks formally announced their Senate bids on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
-      "originalUrl": "https://www.cbsnews.com/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/05/18/a74c26f5-446d-4e94-8638-a163d6f1a792/thumbnail/1200x630/e254686711c839dae283ca52575bf7bb/ap-18137642798547.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
-      "publishedDateTime": "2021-03-24T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

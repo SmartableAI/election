@@ -7,8 +7,8 @@ originalUrl: "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harr
 webUrl: "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harris-khive-newsletter-essential-politics"
 type: article
 quality: 97
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: Los Angeles Times
@@ -29,21 +29,101 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris: ‘Folks Will Keep Dying’ if Country Does Not Address Racial Injustice"
-    excerpt: "Vice President Kamala Harris holds a roundtable on Black maternal health at the White House in Washington, D.C., April 13, 2021. (Kevin Lamarque/Reuters) Vice President Kamala Harris on Tuesday said Daunte Wright, the 20-year-old black man who was fatally ..."
-    publishedDateTime: 2021-04-13T18:38:00Z
-    webUrl: "https://www.nationalreview.com/news/kamala-harris-folks-will-keep-dying-if-country-does-not-address-racial-injustice/"
-    ampWebUrl: "https://www.nationalreview.com/news/kamala-harris-folks-will-keep-dying-if-country-does-not-address-racial-injustice/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/kamala-harris-folks-will-keep-dying-if-country-does-not-address-racial-injustice/amp/"
+  - title: "Kamala Harris Again Says She Has No Plans to Visit U.S.-Mexico Border"
+    excerpt: "Ahead of a planned visit to Mexico and Guatemala, Vice President Kamala Harris reiterated to reporters on Wednesday that she will not travel to the southern border, which continues to experience an overwhelming increase in migrants. Harris said that ..."
+    publishedDateTime: 2021-04-14T17:53:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
     type: article
     provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 69
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/kamala-harris.jpg?fit=1200%2C700&ssl=1"
+      - url: "https://d.newsweek.com/en/full/1777938/harris-border.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Brown Sugar Bakery gets caught in the crossfire"
+    excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
+    publishedDateTime: 2021-04-09T18:40:00Z
+    webUrl: "https://www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/f80KcHyN02ys1DUVgempWW8QoG0=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2JNAWLAZUVGVXDCBJCXY5VUQNU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border"
+    excerpt: "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”"
+    publishedDateTime: 2021-04-09T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 76
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
         width: 1200
         height: 700
+        isCached: true
+  - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
+    excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."
+    publishedDateTime: 2021-04-13T17:44:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/13/kamala-harris-says-us-needs-fix-implicit-bias-poli/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/13/kamala-harris-says-us-needs-fix-implicit-bias-poli/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/13/kamala-harris-says-us-needs-fix-implicit-bias-poli/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/13/aptopix_police_shooting_minnesota_48122_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
+    excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
+    publishedDateTime: 2021-04-14T15:44:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/14/Harris_98547.jpg-c7f77_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Baltimore company that made yarn bought by Vice President Kamala Harris has stitched together a success story"
+    excerpt: "In March during a visit at Fibre Space in Alexandria, Vice President Kamala Harris purchased a hand-dyed yarn that’s the color of the Observatory Circle — the residence of the vice president ― made by Neighborhood Fiber to celebrate Harris ..."
+    publishedDateTime: 2021-04-14T10:00:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 56
+    images:
+      - url: "https://www.baltimoresun.com/resizer/lEvIxWbWG4WCehzMKTB_ZYq_W0Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U6H6Y3D22ZC65BWCKVPSBH53I4.jpg"
+        width: 1200
+        height: 920
         isCached: true
   - title: "VP Harris announces trip to Mexico, Guatemala"
     excerpt: "Vice President Kamala Harris announces travel to Northern Triangle countries and said progress on the migration issue 'will not be obvious overnight.'"
@@ -58,6 +138,22 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/mCyqJD0q70x-95JFE4yF8ocvHgs=/1200x0/d1acid63ghtydj.cloudfront.net/04-14-2021/t_07ce704295344215b3cef8fed3fd2a9d_name_file_1280x720_2000_v3_1_.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
+    excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
+    publishedDateTime: 2021-04-09T20:49:00Z
+    webUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.html"
+    ampWebUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 51
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/eb/6ebc8674-0d31-5378-a127-0b4b37ea4c3e/6070bdfc381b5.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "8XMs6ruRzkd6qDCSAhiFPRCuH+84QRe9v0IOgyr8ONDfSdoL2EnsPyT12MckBVGctpa0VYAv79NEeFxw8fDVsynu4fY79g7LCDLiXjmirRO4nVxzrAenR/2Yqt+6JotlR0+KCV447eD6VQM2NQ651zZGtrDY7CK6v3597kS1SBjL/fndcL5wGEsnHZMOYZd8HTmEhNog5ZMCtgo4j2uBL1MULPFi6trZhy9e6kCYC6r/LszfnrqzRjc5G+DaWulIdsMDezPAv6AzbzlFXS8AeM9fNlLoeX9auuLPWJOBNnuFsqR+2yv3pFbdot6NtlfRHZEQE1Ce5W2xKN6umU1WsQIh7sOl0Dj0hFlEnzMCzSQ=;N+Mkzz0ZAPNY+9NFbmdkkg=="

@@ -47,7 +47,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Intelligence officials reassert their role post-Trump"
+  - title: "Intelligence officials reassert role post-Trump"
     excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school.\"\n    \n"
     publishedDateTime: 2021-04-14T09:12:26Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I7Daj6EUhzc/index.html"
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190225105707-01-cia-symbol-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump is building a shadow Republican Party"
+    excerpt: "On Monday, a cohort of former Trump administration officials launched the America First Policy Institute, a think tank organization aimed at promoting \"liberty, free enterprise, national greatness, American military superiority, foreign-policy engagement in the American interest, and the primacy of American"
+    publishedDateTime: 2021-04-14T16:00:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pmzrGKeX1BI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412085826-trump-for-lockhart-op-ed-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -220,6 +236,22 @@ related:
     quality: 135
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Intelligence officials reassert their role post-Trump"
+    excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school."
+    publishedDateTime: 2021-04-14T09:12:00Z
+    webUrl: "https://www.cnn.com/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190225105707-01-cia-symbol-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

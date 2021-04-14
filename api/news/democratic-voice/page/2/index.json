@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-07-andrew-giuliani-former-trump-aide-and-son-of-rudy-giuliani-says-he-plans-for-to-run-for-governor-of-new-york.md",
+      "title": "Andrew Giuliani, former Trump aide and son of Rudy Giuliani, says he plans for to run for governor of New York",
+      "excerpt": "Andrew Giuliani, the son of former New York Mayor Rudy Giuliani, says he's planning to run for governor of the heavily Democratic state next year.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBJsVK-1j-w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBJsVK-1j-w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407105332-andrew-giuliania-file-2020-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html",
+      "publishedDateTime": "2021-04-07T09:16:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-pence-launches-political-advocacy-group-with-an-eye-to-the-trump-legacy-and-his-own-future.md",
+      "title": "Pence launches political advocacy group with an eye to the Trump legacy -- and his own future",
+      "excerpt": "Former Vice President Mike Pence on Wednesday announced the launch of a new political advocacy group, \"Advancing American Freedom,\" a move designed with an eye to his political future and his efforts to help shape the conversation around the Trump administration's legacy.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tdWNrm2BA-g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tdWNrm2BA-g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 649,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/mike-pence-political-group-advancing-american-freedom/index.html",
+      "publishedDateTime": "2021-04-07T08:11:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-harris-moving-into-naval-observatory-residence-after-renovations-delay.md",
       "title": "Harris moving into Naval Observatory residence after renovations delay",
       "excerpt": "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n",
@@ -1554,118 +1667,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html",
       "publishedDateTime": "2021-03-28T05:03:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-former-trump-chief-of-staff-calls-ex-presidents-capitol-riot-claims-manifestly-false.md",
-      "title": "Former Trump chief of staff calls ex-President's Capitol riot claims 'manifestly false'",
-      "excerpt": "The former chief of staff to ex-President Donald Trump on Saturday pushed back against his former boss' recent attempt to whitewash the history of the January 6 Capitol riot.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210327183851-mick-mulvaney-january-6-riot-trump-comments-intv-nr-vpx-00001330-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
-      "publishedDateTime": "2021-03-27T17:19:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-maine-gop-rejects-censure-of-sen-susan-collins-after-her-vote-to-convict-trump.md",
-      "title": "Maine GOP rejects censure of Sen. Susan Collins after her vote to convict Trump",
-      "excerpt": "The Maine Republican Party's state committee on Saturday rejected a censure measure against Sen. Susan Collins, following her vote earlier this year to convict former President Donald Trump in his Senate impeachment trial.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUnzNcONxoY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUnzNcONxoY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210327143212-susan-collins-0224-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/maine-gop-votes-against-censure-susan-collins/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/maine-gop-votes-against-censure-susan-collins/index.html",
-      "publishedDateTime": "2021-03-27T12:34:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

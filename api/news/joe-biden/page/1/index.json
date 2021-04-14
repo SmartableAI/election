@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-14-can-this-latina-law-professor-tapped-by-biden-help-reform-the-supreme-court.md",
+      "title": "Can this Latina law professor tapped by Biden help reform the Supreme Court?",
+      "excerpt": "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672",
+      "originalUrl": "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna672",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672",
+      "publishedDateTime": "2021-04-14T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-biden-911-cannot-explain-keeping-troops-in-afghanistan.md",
       "title": "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan",
       "excerpt": "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today.",
@@ -10,7 +67,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -938,7 +995,7 @@
       "originalUrl": "https://www.cbsnews.com/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -1042,7 +1099,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1187,54 +1244,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-will-joe-bidens-jim-crow-big-lie-boomerang.md",
-      "title": "Will Joe Biden's Jim Crow Big Lie Boomerang?",
-      "excerpt": "The big lie works -- until it doesn't. The big lie in this case is Joe Biden's charge that the changes in Georgia election law passed by",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/540038_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.amp.html",
-      "publishedDateTime": "2021-04-09T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {

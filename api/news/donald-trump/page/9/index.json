@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-21-trump-to-give-first-big-speech-since-presidency-at-conservative-conference-in-florida.md",
+      "title": "Trump to Give First Big Speech Since Presidency at Conservative Conference in Florida",
+      "excerpt": "The former president will make his first major public appearance at the Conservative Political Action Conference (CPAC) in Orlando, Florida, on Sunday, February 28.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785",
+      "originalUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1739496/donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785?amp=1",
+      "publishedDateTime": "2021-02-20T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-lindsey-graham-said-count-me-out-after-the-capitol-riot-but-hes-all-in-with-trump-again.md",
       "title": "Lindsey Graham said ‘Count me out’ after the Capitol riot. But he’s all in with Trump again.",
       "excerpt": "The South Carolina Republican senator is positioning himself as a leader of the pro-Trump wing of a party that is increasingly divided about how to reckon with the divisive 45th president.",
@@ -1540,58 +1592,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-the-daily-202-trump-said-the-system-is-rigged-democrats-say-his-acquittal-will-prove-it.md",
-      "title": "The Daily 202: Trump said the system is ‘rigged.’ Democrats say his acquittal will prove it.",
-      "excerpt": "Donald Trump used popular resentment against elites as political rocket fuel to propel his unlikely 2016 presidential campaign, describing America’s economy and politics as “rigged” against the middle class and railing against a “rigged system” of justice in favor of the powerful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZREF5QDNH4I6XJTO4JYEN2PITA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/?outputType=amp",
-      "publishedDateTime": "2021-02-12T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

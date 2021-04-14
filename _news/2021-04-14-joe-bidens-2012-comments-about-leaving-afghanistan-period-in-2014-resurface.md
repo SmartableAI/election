@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden Won't Let 9/11 Attacks Justify U.S. Continuing Afghanistan Deployment"
+    excerpt: "President Joe Biden is scheduled to announce a full withdrawal of troops from Afghanistan by September 11, a decision he says will not be influenced by the nearly 20-year-old terrorist attacks. Excerpts released by the White House ahead of Biden's ..."
+    publishedDateTime: 2021-04-14T16:25:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1777900/afghanistan-2021.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden to say in Afghanistan speech ‘it’s time to end America’s longest war’ – live"
     excerpt: "Lawmakers of both parties have criticized Joe Biden’s plan to withdraw all US troops from Afghanistan, with some accusing the president of abandoning America’s commitment to the Afghan people. In his speech this afternoon, Biden will emphasize that ..."
     publishedDateTime: 2021-04-14T14:56:00Z

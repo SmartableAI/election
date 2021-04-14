@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden to address Congress under security, COVID restrictions"
+    excerpt: "President Joe Biden's first address to a joint session of Congress will look like no other in recent memory. The traditional speech for the new president, set for April 28, will unfold against the backdrop of heightened security in the aftermath of the deadly Jan."
+    publishedDateTime: 2021-04-14T16:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-address-congress-security-covid-restrictions-77070235"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-address-congress-security-covid-restrictions-77070235"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-address-congress-security-covid-restrictions-77070235"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_33e7de99fc924b6eb9cbbbe3afd78f44_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden insists he’s willing to negotiate with Republicans on infrastructure"
     excerpt: "also took issue with the price tag and the tax increases Biden has put forward to pay for it. Some Democrats, including centrist Sen. Joe Manchin III of West Virginia, have raised their own objections to the tax hikes. Manchin also warned the Biden ..."
     publishedDateTime: 2021-04-12T23:33:00Z

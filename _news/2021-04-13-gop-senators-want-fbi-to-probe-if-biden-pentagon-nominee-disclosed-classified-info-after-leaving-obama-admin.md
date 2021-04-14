@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden DOJ nominee Kristin Clarke defends past controversial writings on race"
+    excerpt: "Justice Department nominee Kristen Clarke defended her past writings and said an op-ed she wrote while in college stating that Black people are superior was satirical, after Sen. John Cornyn, R-Texas, raised concerns over the piece."
+    publishedDateTime: 2021-04-14T17:46:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sRNhMDTnO8I/biden-doj-nominee-kristin-clarke-race"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-nominee-kristin-clarke-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-nominee-kristin-clarke-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Democrats, Biden push limits of infrastructure definition as fight over spending plan takes shape"
     excerpt: "Democrats are pushing the limits of what can be defined as \"infrastructure\" as they aim to sell President Biden's $2 trillion-plus spending plan to the American people. "
     publishedDateTime: 2021-04-07T16:45:10Z

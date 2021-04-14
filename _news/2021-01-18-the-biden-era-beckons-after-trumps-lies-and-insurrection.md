@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 4370
+heat: 4390
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928092023-03-trump-biden-split--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration moves to reverse Trump-era abortion referral rule "
+    excerpt: "The Biden administration said Wednesday it will replace a Trump-era rule barring certain federally funded health care providers from referring patients for abortions, a step long demanded by abortion rights groups.\n    \n"
+    publishedDateTime: 2021-04-14T16:16:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMVo1Bh-MC8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/abortion-title-x-biden-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/abortion-title-x-biden-rule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310215341-abortion-protest-file-012420-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

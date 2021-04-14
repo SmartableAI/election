@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nationalreview.com/news/kamala-harris-folks-will-keep-dy
 cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/kamala-harris-folks-will-keep-dying-if-country-does-not-address-racial-injustice/amp/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     width: 1200
     height: 700
     isCached: true
-
-related:
-  - title: "Essential Politics: Kamala Harris’ online fans are intense. They’re just the beginning"
-    excerpt: "It remains nasty and brutish at times. Good morning and welcome to Essential Politics, Kamala Harris edition. This week, I’ll talk about my takeaways from reporting on the vice president’s biggest online cheerleaders, the KHive, a loose-knit network of ..."
-    publishedDateTime: 2021-04-14T13:44:00Z
-    webUrl: "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harris-khive-newsletter-essential-politics"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 97
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/720d527/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F67%2F80d853e04d5f9bb18a623b08fdd4%2F742517-la-na-deniro-jones-04.JPG"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "VP Harris announces trip to Mexico, Guatemala"
-    excerpt: "Vice President Kamala Harris announces travel to Northern Triangle countries and said progress on the migration issue 'will not be obvious overnight.'"
-    publishedDateTime: 2021-04-14T15:54:00Z
-    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/14/vp-harris-announces-trip-mexico-guatemala/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 55
-    images:
-      - url: "https://www.hawaiinewsnow.com/resizer/mCyqJD0q70x-95JFE4yF8ocvHgs=/1200x0/d1acid63ghtydj.cloudfront.net/04-14-2021/t_07ce704295344215b3cef8fed3fd2a9d_name_file_1280x720_2000_v3_1_.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "2YOs4lsP7D/K1WfVNMC5GwKL++i8u0Rze5LXYYyHFtlc+IcCdhrLRtVj+uCbvI1/rjGgu6ftN5UAGATtV3ZkiYBzLbISwfpiinUjKdO1Th9GX9v4z5tHhy8dT1Up0BH8VutwOLn7MAy/uY8/n0Dl5K6ARXuXniou8q4WdB3jUctUoVjkTj20GHHXptnp6Z6wCiw2UA55nGlIh7om2ghTvGgMpftmgbiJlQAmIgbeSUrN5QO5Q3sFkOfHJ+7gYRKP8+WbetTgIbSQZDCY3DOLVz0z5Q6LnZpai4be7POmbPUTliDNzzZM/GqMBr7tVoirwQ3ZAHyYYz30WKuVAlVqJYNRyaXTAtjvfTzEOXiw2LCDHC79eoq15shH8ps4IY6uhTRpjwJjPpW0bXOOPcCGeoOh17TAIVLi+pOq4dSktd1Lrbpl3YQgjLnKyRRw/eg6QGPXyuUkG6OjjNf/sxqC/xBwpmXZaMYCwahHYePgempM+i6bOBP/U7QMgCrJLtv5DYxkVVR7t5NqD+QVW0b7LQ==;5up0ICOwcFxIs++Aq/mcuA=="
 ---

@@ -2,6 +2,118 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-28-former-trump-chief-of-staff-calls-ex-presidents-capitol-riot-claims-manifestly-false.md",
+      "title": "Former Trump chief of staff calls ex-President's Capitol riot claims 'manifestly false'",
+      "excerpt": "The former chief of staff to ex-President Donald Trump on Saturday pushed back against his former boss' recent attempt to whitewash the history of the January 6 Capitol riot.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210327183851-mick-mulvaney-january-6-riot-trump-comments-intv-nr-vpx-00001330-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
+      "publishedDateTime": "2021-03-27T17:19:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-maine-gop-rejects-censure-of-sen-susan-collins-after-her-vote-to-convict-trump.md",
+      "title": "Maine GOP rejects censure of Sen. Susan Collins after her vote to convict Trump",
+      "excerpt": "The Maine Republican Party's state committee on Saturday rejected a censure measure against Sen. Susan Collins, following her vote earlier this year to convict former President Donald Trump in his Senate impeachment trial.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUnzNcONxoY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUnzNcONxoY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210327143212-susan-collins-0224-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/maine-gop-votes-against-censure-susan-collins/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/maine-gop-votes-against-censure-susan-collins/index.html",
+      "publishedDateTime": "2021-03-27T12:34:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-after-two-months-in-office-kamala-harris-is-still-living-out-of-suitcases-and-shes-getting-frustrated-with-it.md",
       "title": "After two months in office, Kamala Harris is still living out of suitcases -- and she's getting frustrated with it",
       "excerpt": "It has been more than two months since Kamala Harris was sworn in as vice president of the United States, a historic moment for the country, as Harris is the first woman and the first woman of color to hold the second highest office in the land. Yet, Harris -- along with her husband, Georgetown Law professor",
@@ -1553,118 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/joe-biden-vladimir-putin-price-to-pay/index.html",
       "publishedDateTime": "2021-03-17T05:41:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-new-us-intel-report-shows-russia-trump-and-gop-acolytes-have-same-goals.md",
-      "title": "New US intel report shows Russia, Trump and GOP acolytes have same goals",
-      "excerpt": "A new US intelligence report that finds Russia interfered in the 2020 election to help Donald Trump and hurt Joe Biden also underscores a fundamental truth: The gravest threat to US democracy comes from within.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l_bcpu7-1uU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l_bcpu7-1uU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/index.html",
-      "publishedDateTime": "2021-03-17T04:19:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-to-celebrate-st-patricks-day-virtually-with-irelands-prime-minister.md",
-      "title": "Biden to celebrate St. Patrick's Day virtually with Ireland's prime minister",
-      "excerpt": "President Joe Biden will host Taioseach Micheál Martin of Ireland for a virtual bilateral meeting on Wednesday to celebrate St. Patrick's Day, the White House says, in yet another traditional head of state visit changed by the pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wCIaVSpJak8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wCIaVSpJak8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311182531-01-joe-biden-0210-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/biden-virtual-st-patricks-day/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/biden-virtual-st-patricks-day/index.html",
-      "publishedDateTime": "2021-03-17T02:02:12-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

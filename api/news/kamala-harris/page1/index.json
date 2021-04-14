@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-14-essential-politics-kamala-harris-online-fans-are-intense-theyre-just-the-beginning.md",
-      "title": "Essential Politics: Kamala Harris’ online fans are intense. They’re just the beginning",
-      "excerpt": "It remains nasty and brutish at times. Good morning and welcome to Essential Politics, Kamala Harris edition. This week, I’ll talk about my takeaways from reporting on the vice president’s biggest online cheerleaders, the KHive, a loose-knit network of ...",
+      "path": "_news/2021-04-15-kamala-harris-again-says-she-has-no-plans-to-visit-us-mexico-border.md",
+      "title": "Kamala Harris Again Says She Has No Plans to Visit U.S.-Mexico Border",
+      "excerpt": "Ahead of a planned visit to Mexico and Guatemala, Vice President Kamala Harris reiterated to reporters on Wednesday that she will not travel to the southern border, which continues to experience an overwhelming increase in migrants. Harris said that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harris-khive-newsletter-essential-politics",
-      "originalUrl": "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harris-khive-newsletter-essential-politics",
+      "webUrl": "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 285,
       "tags": null,
       "images": [
         {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/720d527/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F67%2F80d853e04d5f9bb18a623b08fdd4%2F742517-la-na-deniro-jones-04.JPG",
-          "width": 1200,
-          "height": 630,
+          "url": "https://d.newsweek.com/en/full/1777938/harris-border.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T06:44:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1",
+      "publishedDateTime": "2021-04-14T10:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -278,101 +278,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-after-kamala-harris-visit-sparks-bakery-vs-border-debate-brown-sugar-bakery-gets-caught-in-the-crossfire.md",
-      "title": "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Brown Sugar Bakery gets caught in the crossfire",
-      "excerpt": "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/f80KcHyN02ys1DUVgempWW8QoG0=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2JNAWLAZUVGVXDCBJCXY5VUQNU.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/dining/ct-kamala-harris-brown-sugar-bakery-border-20210409-bzekagfcwbefbcwu4pg3g3wecm-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-09T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-chris-wallace-kamala-harris-seems-to-want-zero-fingerprints-on-bidens-migrant-mess-at-border.md",
-      "title": "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border",
-      "excerpt": "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/",
-      "publishedDateTime": "2021-04-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -1618,6 +1523,115 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-biden-calls-his-second-in-command-president-harris.md",
+      "title": "Biden calls his second-in-command 'President Harris'",
+      "excerpt": "President Biden appeared to misspeak in a speech Thursday offering updates on an update on vaccination progress in the U.S., referring to his vice president as “President Harris.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsCl0lpI7qI/biden-calls-his-vp-president-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZsCl0lpI7qI/biden-calls-his-vp-president-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1920,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-vp-president-harris.amp",
+      "publishedDateTime": "2021-03-18T12:58:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-mitch-mcconnell-swipes-at-kamala-harris-senate-role-if-filibuster-ends-in-wsj-op-ed.md",
+      "title": "Mitch McConnell Swipes at Kamala Harris' Senate Role If Filibuster Ends in WSJ Op-Ed",
+      "excerpt": "Senate Minority Leader Mitch McConnell of Kentucky took a jab at Vice President Kamala Harris's role in the Senate if the filibuster were to end, in an op-ed published in the Wall Street Journal on Wednesday. In the op-ed, titled \"The Scorched Earth Senate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
+      "originalUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1758570/senate-minority-leader-mitch-mcconnell-r-ky-talks.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-swipes-kamala-harris-senate-role-if-filibuster-ends-wsj-op-ed-1577105?amp=1",
+      "publishedDateTime": "2021-03-18T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Kamala Harris"
       ]
     }

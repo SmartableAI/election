@@ -2,6 +2,279 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-15-kamala-harris-again-says-she-has-no-plans-to-visit-us-mexico-border.md",
+      "title": "Kamala Harris Again Says She Has No Plans to Visit U.S.-Mexico Border",
+      "excerpt": "Ahead of a planned visit to Mexico and Guatemala, Vice President Kamala Harris reiterated to reporters on Wednesday that she will not travel to the southern border, which continues to experience an overwhelming increase in migrants. Harris said that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777938/harris-border.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1",
+      "publishedDateTime": "2021-04-14T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-youtube-bans-channel-of-former-trump-aide-sebastian-gorka-over-election-claims.md",
+      "title": "YouTube bans channel of former Trump aide Sebastian Gorka over election claims",
+      "excerpt": "YouTube has banned the channel of Sebastian Gorka, a former aide to President Donald Trump, saying it violated the video platform's presidential election integrity policy. In a statement obtained by USA TODAY, YouTube spokesperson Ivy Choi said Gorka's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2021/04/14/sebastian-gorka-youtube-bans-former-trump-aide-over-election-claims/7220169002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2021/04/14/sebastian-gorka-youtube-bans-former-trump-aide-over-election-claims/7220169002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/c6bc48b495fab2380a07dd86d526eb4ed339ce87/c=0-0-3000-1695/local/-/media/2018/03/28/USATODAY/USATODAY/636578654959683524-GORKA001.JPG?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7220169002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7220169002",
+      "publishedDateTime": "2021-04-14T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-biden-parts-of-us-backsliding-into-jim-crow-days.md",
+      "title": "Biden: Parts of US 'backsliding' into Jim Crow days",
+      "excerpt": "President Biden said parts of the United States are \"backsliding\" into \"the days of Jim Crow,\" during remarks Wednesday at the National Action Network's national convention – one of the largest civil rights conferences in the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp",
+      "publishedDateTime": "2021-04-14T09:48:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-biden-says-parts-of-us-are-backsliding-into-the-days-of-jim-crow.md",
+      "title": "Biden says parts of US are 'backsliding into the days of Jim Crow' ",
+      "excerpt": "President Joe Biden said Wednesday that parts of the United States are \"backsliding into the days of Jim Crow\" by passing laws he says are reminiscent of when Black Americans had to pay poll taxes and pass other tests before casting their vote.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YI9trfReLkI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YI9trfReLkI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210412151138-01-biden-jobs-plan-0412-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/biden-us-backsliding-jim-crow/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/biden-us-backsliding-jim-crow/index.html",
+      "publishedDateTime": "2021-04-14T09:29:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-can-this-latina-law-professor-tapped-by-biden-help-reform-the-supreme-court.md",
+      "title": "Can this Latina law professor tapped by Biden help reform the Supreme Court?",
+      "excerpt": "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672",
+      "originalUrl": "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna672",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672",
+      "publishedDateTime": "2021-04-14T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-229-photographer-taken-down-by-secret-service-at-trump-rally-navy-seal-presented-with-medal-of-honor.md",
       "title": "2/29: Photographer taken down by Secret Service at Trump rally; Navy SEAL presented with Medal of Honor",
       "excerpt": "A photographer was slammed to the ground by a member of Donald Trump's security detail at a campaign rally on Monday; he was awarded the Medal of Honor at the White House Monday for his courageous actions.",
@@ -118,7 +391,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -159,58 +432,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-essential-politics-kamala-harris-online-fans-are-intense-theyre-just-the-beginning.md",
-      "title": "Essential Politics: Kamala Harris’ online fans are intense. They’re just the beginning",
-      "excerpt": "It remains nasty and brutish at times. Good morning and welcome to Essential Politics, Kamala Harris edition. This week, I’ll talk about my takeaways from reporting on the vice president’s biggest online cheerleaders, the KHive, a loose-knit network of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harris-khive-newsletter-essential-politics",
-      "originalUrl": "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harris-khive-newsletter-essential-politics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/720d527/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F67%2F80d853e04d5f9bb18a623b08fdd4%2F742517-la-na-deniro-jones-04.JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -278,7 +499,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1122,222 +1343,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-with-russia-white-house-says.md",
-      "title": "Joe Biden, Vladmir Putin Summit Doesn't Signal New Friendliness with Russia, White House Says",
-      "excerpt": "U.S. President Joe Biden and Russian President Vladmir Putin have agreed to take their icy relationship to the next level in the coming months—a face-to-face meeting in a third country. But the White House insists it's not a signal that the two are on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363",
-      "originalUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1777226/putin-biden.jpg",
-          "width": 3477,
-          "height": 1775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1",
-      "publishedDateTime": "2021-04-13T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-biden-needs-to-send-message-to-migrants-that-border-is-not-open-national-border-patrol-council-vp.md",
-      "title": "Biden needs to send message to migrants that border 'is not open': National Border Patrol Council VP",
-      "excerpt": "National Border Patrol Council Vice President Hector Garza argued on “America’s Newsroom” on Tuesday that more needs to be done to “stem the flow of illegal immigration” and offered solutions that he argued will be more effective than sending payments to Central American nations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nz7gE73YvJE/biden-message-border-not-open-border-patrol-council-vp",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nz7gE73YvJE/biden-message-border-not-open-border-patrol-council-vp",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp",
-      "publishedDateTime": "2021-04-13T10:55:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-austin-us-adds-500-troops-in-germany-despite-trump-pledge.md",
-      "title": "Austin: US adds 500 troops in Germany, despite Trump pledge",
-      "excerpt": "Last year, President Donald Trump ordered the withdrawal of 12,000 troops from Germany as retribution for what he considered Germany’s refusal to spend more on its own defense. Austin suspended ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_fce94cb13e4c444581fabcdd20b6585a_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
-      "publishedDateTime": "2021-04-13T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-biden-proposes-meeting-with-putin-amid-rising-ukraine-tensions.md",
-      "title": "Biden proposes meeting with Putin amid rising Ukraine tensions",
-      "excerpt": "President Joe Biden spoke with Russian President Vladimir Putin on Tuesday and proposed a meeting in a third country in the coming months as tensions between Russia and Ukraine rise in eastern Europe.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N95__0UZOs4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N95__0UZOs4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin-meeting-proposal/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-vladimir-putin-meeting-proposal/index.html",
-      "publishedDateTime": "2021-04-13T10:10:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

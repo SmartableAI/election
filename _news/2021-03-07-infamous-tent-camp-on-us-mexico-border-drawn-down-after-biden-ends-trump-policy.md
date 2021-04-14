@@ -381,6 +381,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration moves to reverse Trump-era abortion referral rule "
+    excerpt: "The Biden administration said Wednesday it will replace a Trump-era rule barring certain federally funded health care providers from referring patients for abortions, a step long demanded by abortion rights groups.\n    \n"
+    publishedDateTime: 2021-04-14T16:16:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMVo1Bh-MC8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/abortion-title-x-biden-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/abortion-title-x-biden-rule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310215341-abortion-protest-file-012420-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z

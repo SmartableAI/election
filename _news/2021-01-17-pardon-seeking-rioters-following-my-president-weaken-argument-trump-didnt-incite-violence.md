@@ -175,22 +175,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "YouTube ban: Google extends suspension of former President Trump's channel"
-    excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
-    publishedDateTime: 2021-01-27T07:16:00Z
-    webUrl: "https://www.usatoday.com/story/tech/news/2021/01/26/youtube-ban-former-president-trumps-channel-remain-suspended/4265336001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4265336001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4265336001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/96480bcf-d324-4a80-869b-9f23606fdcc3-VPC_TRUMP_FINAL_ADDRESS_IN_OFFICE_DESK.00_00_17_15.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency"
     excerpt: "Supreme Court dismisses as moot lawsuits over whether Donald Trump illegally profited off his presidency. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
     publishedDateTime: 2021-01-25T19:52:00Z

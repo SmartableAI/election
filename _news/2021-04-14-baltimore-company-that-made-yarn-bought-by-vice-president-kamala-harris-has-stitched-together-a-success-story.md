@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris Again Says She Has No Plans to Visit U.S.-Mexico Border"
+    excerpt: "Ahead of a planned visit to Mexico and Guatemala, Vice President Kamala Harris reiterated to reporters on Wednesday that she will not travel to the southern border, which continues to experience an overwhelming increase in migrants. Harris said that ..."
+    publishedDateTime: 2021-04-14T17:53:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1777938/harris-border.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T18:40:00Z
@@ -43,6 +59,52 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Essential Politics: Kamala Harris’ online fans are intense. They’re just the beginning"
+    excerpt: "It remains nasty and brutish at times. Good morning and welcome to Essential Politics, Kamala Harris edition. This week, I’ll talk about my takeaways from reporting on the vice president’s biggest online cheerleaders, the KHive, a loose-knit network of ..."
+    publishedDateTime: 2021-04-14T13:44:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-04-14/kamala-harris-khive-newsletter-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 97
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/720d527/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F67%2F80d853e04d5f9bb18a623b08fdd4%2F742517-la-na-deniro-jones-04.JPG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border"
+    excerpt: "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”"
+    publishedDateTime: 2021-04-09T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/9/chris-wallace-kamala-harris-seems-to-want-zero-fin/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 76
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
+    excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."
+    publishedDateTime: 2021-04-13T17:44:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/13/kamala-harris-says-us-needs-fix-implicit-bias-poli/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/13/kamala-harris-says-us-needs-fix-implicit-bias-poli/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/13/kamala-harris-says-us-needs-fix-implicit-bias-poli/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/13/aptopix_police_shooting_minnesota_48122_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
     excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
     publishedDateTime: 2021-04-14T15:44:00Z
@@ -58,6 +120,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/14/Harris_98547.jpg-c7f77_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200
         height: 700
+        isCached: true
+  - title: "VP Harris announces trip to Mexico, Guatemala"
+    excerpt: "Vice President Kamala Harris announces travel to Northern Triangle countries and said progress on the migration issue 'will not be obvious overnight.'"
+    publishedDateTime: 2021-04-14T15:54:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/14/vp-harris-announces-trip-mexico-guatemala/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 55
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/mCyqJD0q70x-95JFE4yF8ocvHgs=/1200x0/d1acid63ghtydj.cloudfront.net/04-14-2021/t_07ce704295344215b3cef8fed3fd2a9d_name_file_1280x720_2000_v3_1_.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."

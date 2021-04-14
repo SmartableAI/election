@@ -2,6 +2,63 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-13-trumps-top-bankers-deutsche-banks-and-signature-cut-future-ties.md",
+      "title": "Trump's top bankers Deutsche Banks and Signature cut future ties",
+      "excerpt": "In the wake of the deadly riots on Capitol Hill last week, Deutsche Bank and Signature Bank have said they are cutting future ties with President Donald Trump. That could leave the president personally on the hook for millions of dollars when several large loans he has personally guaranteed come due in the next two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_02/3441493/210112-deutsche-bank-se-1035a_81623fdd8acbbe2a62e11ba9b949db39.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253895",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253895",
+      "publishedDateTime": "2021-01-12T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt.md",
       "title": "Trump dropped by biggest lender Deutsche Bank for future business: NYT",
       "excerpt": "Deutsche Bank will not do business in the future with U.S. President Donald Trump or his companies in the wake of his supporters' assault on the U.S. Capitol, the New York Times reported.",
@@ -1506,49 +1563,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.md",
-      "title": "The ‘treason finale’ of the Donald Trump era: Late night hosts react to U.S. Capitol riots",
-      "excerpt": "Late night television hosts often give their take the days events with humor. But Wednesday night was no laughing matter as Jimmy Fallon, Stephen Colbert and their fellow network hosts reacted to the mob of violent Trump supporters storming the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
-      "originalUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RUUVL3H7NBD4LDLRK2P52HXIQI.PNG",
-          "width": 718,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
-      "publishedDateTime": "2021-01-07T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

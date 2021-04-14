@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-24-biden-says-100-million-relief-checks-to-be-distributed-by-wednesday.md",
+      "title": "Biden says 100 million relief checks to be distributed by Wednesday",
+      "excerpt": "The Biden administration will have distributed 100 million relief checks by Wednesday as part of a $1.9 trillion coronavirus stimulus package, President Joe Biden said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-treasury-payments-biden-idUSKBN2BF2ZZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210323&t=2&i=1555951880&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2M1N6",
+          "width": 737,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2ZZ",
+      "publishedDateTime": "2021-03-23T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-bernie-sanders-not-comfortable-with-trump-twitter-ban.md",
       "title": "Bernie Sanders not ‘comfortable’ with Trump Twitter ban",
       "excerpt": "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political",
@@ -1282,59 +1334,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-didnt-include-mike-pence-in-his-list-of-very-good-republicans-and-possible-2024-presidential-candidates.md",
-      "title": "Trump didn't include Mike Pence in his list of 'very good' Republicans and possible 2024 presidential candidates",
-      "excerpt": "During the interview, Trump also repeated his false claims that Pence could have rejected certain states' Electoral College votes during the Jan. 6 joint session of Congress. \"It's too bad Mike Pence didn't go back, because you would have had a much ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "originalUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6058bad6138e680019ad92eb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "publishedDateTime": "2021-03-22T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Donald Trump"
       ]
     }

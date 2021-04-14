@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdra
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_040721upi_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Joe Biden Won't Let 9/11 Attacks Justify U.S. Continuing Afghanistan Deployment"
+    excerpt: "President Joe Biden is scheduled to announce a full withdrawal of troops from Afghanistan by September 11, a decision he says will not be influenced by the nearly 20-year-old terrorist attacks. Excerpts released by the White House ahead of Biden's ..."
+    publishedDateTime: 2021-04-14T16:25:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1777900/afghanistan-2021.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Joe Biden's 2012 Comments About Leaving Afghanistan 'Period' in 2014 Resurface"
     excerpt: "After news broke that President Joe Biden plans to withdraw U.S. troops from Afghanistan by September, people began sharing 2012 comments from Biden vowing that America's military would be withdrawn from the country in 2014. Although Biden has repeatedly ..."

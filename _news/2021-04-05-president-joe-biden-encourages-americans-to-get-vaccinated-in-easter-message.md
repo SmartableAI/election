@@ -91,6 +91,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden picks Obama alum for No.2 spot at Interior"
+    excerpt: "President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot response, report finds Biden to accompany first ..."
+    publishedDateTime: 2021-04-14T16:09:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/548188-biden-picks-obama-alum-for-no2-spot-at-interior"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/548188-biden-picks-obama-alum-for-no2-spot-at-interior?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/548188-biden-picks-obama-alum-for-no2-spot-at-interior?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
+        width: 580
+        height: 326
+        isCached: true
   - title: "McConnell's home state bridge symbol of infrastructure standoff with Biden"
     excerpt: "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ..."
     publishedDateTime: 2021-04-08T19:50:00Z

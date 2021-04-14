@@ -9,8 +9,8 @@ ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/09/will_joe_biden
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/will_joe_bidens_jim_crow_big_lie_boomerang_145557.amp.html"
 type: article
 quality: 85
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: RealClearPolitics
@@ -26,6 +26,40 @@ images:
     width: 750
     height: 500
     isCached: true
+
+related:
+  - title: "Biden: Parts of US 'backsliding' into Jim Crow days"
+    excerpt: "President Biden said parts of the United States are \"backsliding\" into \"the days of Jim Crow,\" during remarks Wednesday at the National Action Network's national convention – one of the largest civil rights conferences in the country."
+    publishedDateTime: 2021-04-14T16:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "CDC 'doing the bidding' of the Biden administration by making health disparities a race issue: Paris Dennard"
+    excerpt: "Republican National Committee national spokesperson Paris Dennard said the Centers For Disease Control is \"doing the bidding\" of the Biden administration by making health disparities a race issue."
+    publishedDateTime: 2021-04-09T19:56:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S5PutjBxaCU/cdc-biden-administration-health-disparities-race"
+    ampWebUrl: "https://www.foxnews.com/politics/cdc-biden-administration-health-disparities-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cdc-biden-administration-health-disparities-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "yfSJxnJLJ4KLJ/2R+jQolbhyeYmXCKwZXyG4/Z+HZvD64mI6nshehKHf0QT2/wr0ayuCLOxd7sByyB9MJ+dtLMftUu1+SUiAiLxqOXYSDCxyhbsRVSpz5oBwJNPR5EtdB0C32HmoNDD4STDvSDWSPcArz/hBLvYlvWJNf9PPAi4D98sENR27iiJaJGv2QcXScGmAz0pUu8WBPNI+/Tb3lmstOjb7W5zK4VLmvpz3yY3TsS3By+0dIz+JTvtdESrP4clDpNCVrpCfjO8YqwlHsPc0E7V67GyEnUen6kjvLlXdf2wlBmnKiGYoM0dt+aIVRPWYO5dZPEv+kADlGmUiPoNsN7/GEkCquHQ4bC7txrg1IA5SGmEhgxwrj6ZWkI/vg88hqYmxsJU9QjFVmuDILetbD2gyEGBMATb3GHwu1X9ycAP4gY8HHb5UjGeS+E1uc5twmfPefMeG7nG9m3ehbK3gKpulqChICl5E9Q74pcHhzphf1DnI+iQdaMmFViOmn3j1l/RmTC2yjQjbJQCAKQ==;1G0yvZRivp8DW8yD8g52lA=="
 ---

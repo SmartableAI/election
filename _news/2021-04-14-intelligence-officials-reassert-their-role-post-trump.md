@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Intelligence officials reassert their role post-Trump"
-excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school.\"\n    \n"
-publishedDateTime: 2021-04-14T09:12:26Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I7Daj6EUhzc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I7Daj6EUhzc/index.html"
+excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school."
+publishedDateTime: 2021-04-14T09:12:00Z
+originalUrl: "https://www.cnn.com/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+webUrl: "https://www.cnn.com/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -60,6 +61,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Intelligence officials reassert role post-Trump"
+    excerpt: "The last time the top three intelligence officials testified in front of Congress, they were publicly criticized by the President, who lashed out at them in a series of tweets calling them passive and naive and saying that they should \"go back to school.\"\n    \n"
+    publishedDateTime: 2021-04-14T09:12:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I7Daj6EUhzc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/intelligence-officials-reassert-post-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190225105707-01-cia-symbol-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump is building a shadow Republican Party"
+    excerpt: "On Monday, a cohort of former Trump administration officials launched the America First Policy Institute, a think tank organization aimed at promoting \"liberty, free enterprise, national greatness, American military superiority, foreign-policy engagement in the American interest, and the primacy of American"
+    publishedDateTime: 2021-04-14T16:00:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pmzrGKeX1BI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/donald-trump-2024/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190412085826-trump-for-lockhart-op-ed-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -358,6 +391,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Dh3nNhcHQUN1k9s891PXsMcrwPIXMc+hdtXkpv4+nSc1zOTe72tDMjl4+w3PHP0a054KFUGM644uteDELRSHDNFxXL37Zo373bgmzbDwNvNBys5GN1xK0+md9unIGfXeLLgPMesbt4t29rLbZ49qewcBi8dT5p437t2mHO1MguIELbRBcDQAZSMaKZ7enIb1/+YxkOsQUKvCSHPWvngqqpEdg0gbly2302CeNw9QnNZu2KqarkwAbw1wBJknLES0NUJ33S49v3+5KSJnH8nesYpKNfN7BQTuKo3NxSk8g3mphcGNhZjv69qIvH89I/y6MFquNjBwYwGnzyxcxXBgCOxaqibO+5kUhxdATTQwix0=;pkb3Wkm0Ojg3Cj5xtVgJGw=="
+secured: "F57xgfylUd5gK9dK0HUAI/Ls3poGYjhYieAadWKjCLBT9fcvSkU3ZoRsVqOLP0BleVCNEdVaa1OdhmQr9SA/9MWOlvJV7DFOuaNP7uy6KAp/lfYxKe1AToWX5hcEV90gCzWO5r1VwGUq+Ae3S+BmRWPocwN/UWoJ4yyfGMRCsrdZKAdbJUkKhyvIqXrbaGLj3mpF8cNmUIgyi+zHb32Ume0iZVZIXTnihiIeF3dql0w1JSG1N8/TSi2kn101WL81djVHYTytdwHFpHhPiO/TyQrQmJ1EfKfrc23LyEXwz4t+pdBr8mQof1GkIITBrdtDr+eM47F2i5FFGtj9UUusM3MWa5M1wUz8ynaNWGUMwDc=;/yiZEXTbtYs+cFqFiiVMjQ=="
 ---
 

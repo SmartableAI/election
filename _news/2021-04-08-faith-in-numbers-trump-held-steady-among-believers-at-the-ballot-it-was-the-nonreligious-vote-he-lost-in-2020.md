@@ -43,6 +43,20 @@ related:
         width: 1440
         height: 918
         isCached: true
+  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
+    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
+    publishedDateTime: 2021-04-14T16:49:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SU65FUblZ4m3gHZff7hKmlXQNrd/0zUYbD/zEO4mxLNmTQC2kIpkxoY2WwiQ9vgnDTho7g8zziD9UDP0LyvWLR8F+zUsffIyTZ0/YRxvk5sivXQmf+kMdLnD1jPHkzVb4fgHT6fLsoP97MrYO2R41GpJBfTqH+r24lEeUHxW6jWhi+QOXFjvOAbLdp+kbaNV+rI54rmB49jTYAYXea+fCERgR1hm7rCkMJeATzSsJwAy4RjvY25s5KMICdpgBSZRe6rtILobIL7kopD0k3iE4TsQjetez5JhJ3tNCgDnJLdnWZHzb3sV3W6wHz1oQQmhfbs6c0t6tn3KJTNv3wGhImBML/+T5CDlrRnrjT4NiC4=;3ThLRbpPe1O+k871l9W5sg=="
 ---

@@ -2,6 +2,62 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-02-21-arkansas-gop-governor-says-he-wouldnt-support-a-trump-2024-reelection-bid.md",
+      "title": "Arkansas GOP governor says he wouldn't support a Trump 2024 reelection bid",
+      "excerpt": "The Republican governor of Arkansas, who had previously supported Donald Trump's reelection bid, said Sunday that he would not back the former President if he decided to run in 2024.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCtCCCPvzfE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCtCCCPvzfE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 768,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210221100458-hutchinson-sotu-vpx-2-21-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html",
+      "publishedDateTime": "2021-02-21T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-full-hurd-interview-trump-should-have-very-little-influence-on-gop.md",
       "title": "Full Hurd Interview: Trump should have 'very little' influence on GOP",
       "excerpt": "Former Rep. Will Hurd (R-Texas) talks about storm recover in Texas and the future of the Republican party, during an exclusive interview with Meet the Press.",
@@ -1294,62 +1350,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-as-trumps-latest-intra-party-feud-rages-graham-heads-to-mar-a-lago-on-a-peace-mission.md",
-      "title": "As Trump's latest intra-party feud rages, Graham heads to Mar-a-Lago on a peace mission",
-      "excerpt": "Sen. Lindsey Graham is heading to Mar-a-Lago this weekend to meet with Donald Trump in hopes of bridging a growing rift in the top echelon of the Republican Party, CNN has learned.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9N17SFn70hs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9N17SFn70hs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210212211855-lindsey-graham-0107-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/politics/lindsey-graham-mar-a-lago-trump-gop-feud/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/lindsey-graham-mar-a-lago-trump-gop-feud/index.html",
-      "publishedDateTime": "2021-02-19T05:20:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
