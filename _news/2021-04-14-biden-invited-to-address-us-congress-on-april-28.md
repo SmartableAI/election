@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden hands toy back to child at service for fallen Capitol officer"
-excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
-publishedDateTime: 2021-04-13T15:46:00Z
-originalUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer"
-webUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer"
-ampWebUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
+title: "Biden invited to address U.S. Congress on April 28"
+excerpt: "WASHINGTON (Reuters) - U.S. House Speaker Nancy Pelosi on Tuesday invited President Joe Biden to address a joint session of Congress on April 28. “I am writing to invite you to address a Joint Session of Congress on Wednesday, April 28, to share your ..."
+publishedDateTime: 2021-04-13T23:27:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-congress-biden-idUSKBN2C101G"
+webUrl: "https://www.reuters.com/article/us-usa-congress-biden-idUSKBN2C101G"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C101G"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C101G"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/evanswilliam_capitol_getty041321.jpg"
-    width: 980
-    height: 551
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558349728&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D00M"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 940
         isCached: true
+  - title: "Biden hands toy back to child at service for fallen Capitol officer"
+    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
+    publishedDateTime: 2021-04-13T15:46:00Z
+    webUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer"
+    ampWebUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/evanswilliam_capitol_getty041321.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden, lawmakers pay tribute to slain Capitol Police officer"
     excerpt: "Slain U.S. Capitol Police Officer William “Billy” Evans was lauded for his dedication to country, love for his job and for a mischievous sense of humor as President Joe Biden and congressional leaders"
     publishedDateTime: 2021-04-13T16:44:00Z
@@ -110,22 +126,6 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_7756f1f499fd4c2db64c28e4e3802213_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden invited to address U.S. Congress on April 28"
-    excerpt: "WASHINGTON (Reuters) - U.S. House Speaker Nancy Pelosi on Tuesday invited President Joe Biden to address a joint session of Congress on April 28. “I am writing to invite you to address a Joint Session of Congress on Wednesday, April 28, to share your ..."
-    publishedDateTime: 2021-04-13T23:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-biden-idUSKBN2C101G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C101G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C101G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558349728&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D00M"
-        width: 817
-        height: 545
         isCached: true
   - title: "Biden works to balance civil rights and criminal justice"
     excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours Tuesday as he tries to navigate criminal justice and civil rights WASHINGTON ..."
@@ -236,6 +236,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "4ItE1zbRrYOfopniiEWUeFTVk9HPYZVoAoSOIwxVlUSMNL0FN2fMXEyJz4HxRtJAKuZbRuV5v+t8ZX8mpmrlL45dOtOqd9Gl3zfEhO7nurIoQsygA4RX+nnNoG8ASIyAU6CWRm3zZr+EKY1olU/XB57bSFyYIg0P8A/CT9abyoSH5rO9J46ByG7UO8xYEssvr1Ai8eakP8GbbsxiF0wASwwHFyWZdhRIYLEt5vuI3ppKjPIC5RSS27pE5UE9Y3bEqKfEk/mGVuXpoVOwh9rPaHoUYdHo7FIUAkqyMfI52sP65u7L5fovKdFuEMmwkUbOU12aVc+CfWAfqCrUqGP61tQG68ICi05RA2tMJzdq7rtvd7tWFXCKviTTSRAsezoJ5mTCowl7GV7KSXNzyeBuBJFgLKnGVi1TUUdijPNl8MXc2rSF0gjzmu0ed6oy5kjdb2pxUjfOc4V7sAnKoEDq1l1yyZSwmst+SFbuXLtpOcvZfg/TOxt9rWDHTSAQfPyWDmGx7eKMa/W8xYFuW7kChg==;b4LxIwhMiUfVxiVr8RrrIg=="
+secured: "jT3BX96vDG52Bjq5IaNwbOjC4YbrNiFVBjM9ReCFN6S1tiATfEEj0UsX4jf7dNFhr+GkSsFXIFA9VWe/xfkNM5Akcnste/j5MjPVTzDNg9OWaG1ennFRc6UmPAhJJtKRZHK5KOPMETiSxt6r99Fxn2ZcL008hwzvIZAo09etwKnQ8JPgIa6AfDFzEtRpwFIYWbXUj62iobtTw8cHNAevglGZ/XfSiWJ9R55y758n8blXiabuwE60ryEF+GGbkXmW8Y1v+d/Ny5f74sFcn6slGS/SAoRjdLIVwkohmsADw4E5C6Y+42ACuys0+B/IQlQcZLRKnlkUJl1xcZnoNzjNEy7ywKRTDfoCDU7303jyJBw=;Hsk68bdp6bBUlvCw/Mwqhw=="
 ---
 

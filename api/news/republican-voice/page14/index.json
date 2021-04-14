@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-08-bidens-ban-on-oil-and-gas-leases-on-federal-lands-a-direct-attack-on-wyoming-says-governor.md",
+      "title": "Biden’s ban on oil and gas leases on federal lands a 'direct attack' on Wyoming, says governor",
+      "excerpt": "Wyoming Governor Mark Gordon called President Joe Biden’s executive order restricting the oil and gas industry a \"direct attack\" on Wyoming that will lead to a significant revenue loss for his state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
+      "publishedDateTime": "2021-02-08T09:39:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-cotton-bidens-liberal-media-friends-finally-coming-around-to-calling-for-wuhan-lab-investigation.md",
       "title": "Cotton: Biden's liberal media 'friends' finally coming around to calling for Wuhan lab investigation",
       "excerpt": "Ark., said Monday that he was \"glad to see Joe Biden singing a different tune\" in regards to the US' foreign policy stance on China, but criticized the President for not outlining what the specifics of his strategy might be.",
@@ -1604,62 +1660,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp",
       "publishedDateTime": "2021-02-02T08:20:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-new-doj-hire-is-former-colleague-of-hunter-biden-defense-attorney.md",
-      "title": "New DOJ hire is former colleague of Hunter Biden defense attorney",
-      "excerpt": "The newly selected acting head of the Justice Department's criminal division is a former colleague of the attorney now representing Hunter Biden in the face of a DOJ investigation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Hunter-Biden-Joe-Biden-Inauguration-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp",
-      "publishedDateTime": "2021-02-02T06:44:56-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

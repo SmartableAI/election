@@ -2,6 +2,62 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-03-19-biden-stumbles-multiple-times-falls-as-he-scales-air-force-one-stairs.md",
+      "title": "Biden stumbles multiple times, falls as he scales Air Force One stairs",
+      "excerpt": "President Biden stumbled twice and fell as he scaled the stairs to Air Force One on Friday at Joint Base Andrews. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
+      "publishedDateTime": "2021-03-19T09:12:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-mary-trump-scoffs-at-idea-ex-presidents-children-will-run-for-office-they-have-no-skills.md",
       "title": "Mary Trump Scoffs at Idea Ex-President's Children Will Run for Office: 'They Have No Skills'",
       "excerpt": "Mary Trump, the niece of Donald Trump and a ferocious critic of her family, scoffed at the idea that the former president's children could become elected officials and said that \"they have no skills.\" Asked if they should run for office,",
@@ -1293,62 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-trumps-mar-a-lago-stays-busy-as-republican-candidates-make-fundraising-pilgrimages.md",
-      "title": "Trump's Mar-a-Lago stays busy as Republican candidates make fundraising pilgrimages",
-      "excerpt": "Former Trump White House aide Max Miller is the latest Republican candidate to flock to former President Trump's Mar-a-Lago resort to court influential donors and rainmakers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7O1ZUNkQ9w/trump-mar-a-lago-fundraising-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans.amp",
-      "publishedDateTime": "2021-03-18T03:27:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

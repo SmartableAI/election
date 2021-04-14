@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-02-pompeo-regrets-trump-administration-didnt-make-more-progress-with-north-korea.md",
+      "title": "Pompeo regrets Trump administration ‘didn’t make more progress’ with North Korea",
+      "excerpt": "Secretary of State Mike Pompeo said his “regret” under the Trump administration was not convincing North Korea to give up its nuclear program. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAYTSdqkFkI/pompeo-regrets-didnt-make-more-progress-north-korea",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAYTSdqkFkI/pompeo-regrets-didnt-make-more-progress-north-korea",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/GettyImages-1205319274.jpg",
+          "width": 3201,
+          "height": 2134,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
+      "publishedDateTime": "2021-04-01T19:27:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-biden-hhs-ad-campaign-mirrors-dem-super-pac-ads.md",
       "title": "Biden HHS ad campaign mirrors Dem super PAC ads",
       "excerpt": "While it is normal for ad blitzes promoting legislation to happen, the ads coincided with a polling memo put out by Priorities USA after the release of the initial ads saying that voters needed to witness Democrats “deliver on policies that provide real benefits to their lives.”",
@@ -1613,63 +1669,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-white-house-lists-biden-harris-administration-on-official-website.md",
-      "title": "White House lists ‘Biden-Harris administration’ on official website",
-      "excerpt": "The White House, breaking with tradition, now lists the “Biden-Harris Administration” on its website rather than simply, “the Biden Administration.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/azyRyJ0e1IQ/white-house-lists-biden-harris-administration-on-official-website",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/azyRyJ0e1IQ/white-house-lists-biden-harris-administration-on-official-website",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 900,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Harris-Administration.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp",
-      "publishedDateTime": "2021-03-28T17:13:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

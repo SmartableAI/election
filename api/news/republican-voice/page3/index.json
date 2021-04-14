@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-06-texas-louisiana-sue-biden-administration-for-refusing-to-take-criminal-illegal-immigrants.md",
+      "title": "Texas, Louisiana sue Biden administration for ‘refusing’ to take criminal illegal immigrants",
+      "excerpt": "Texas and Louisiana are suing the Department of Homeland Security for its alleged refusal to take criminal illegal immigrants into custody, after rules that narrowed enforcement priorities.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d25Twkn2otc/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d25Twkn2otc/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a48f6aaf-e0b0-49f9-92dd-87f61649de6c/d9464a8a-51b4-4d7c-a6a2-fa5d67add6d0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
+      "publishedDateTime": "2021-04-06T14:51:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-biden-tells-georgia-to-smarten-up-to-avoid-losing-business-over-new-election-law.md",
       "title": "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law",
       "excerpt": "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. ",
@@ -1587,62 +1643,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/greg-abbott-texas-biden-violating-federal-law-migrant-shelters.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-texas-biden-violating-federal-law-migrant-shelters.amp",
       "publishedDateTime": "2021-04-01T20:14:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-pompeo-regrets-trump-administration-didnt-make-more-progress-with-north-korea.md",
-      "title": "Pompeo regrets Trump administration ‘didn’t make more progress’ with North Korea",
-      "excerpt": "Secretary of State Mike Pompeo said his “regret” under the Trump administration was not convincing North Korea to give up its nuclear program. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAYTSdqkFkI/pompeo-regrets-didnt-make-more-progress-north-korea",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAYTSdqkFkI/pompeo-regrets-didnt-make-more-progress-north-korea",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/GettyImages-1205319274.jpg",
-          "width": 3201,
-          "height": 2134,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-regrets-didnt-make-more-progress-north-korea.amp",
-      "publishedDateTime": "2021-04-01T19:27:08-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

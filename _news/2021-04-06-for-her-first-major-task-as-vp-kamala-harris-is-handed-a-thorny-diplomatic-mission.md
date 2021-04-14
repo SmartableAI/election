@@ -396,15 +396,15 @@ related:
         height: 700
         isCached: true
   - title: "Harris highlights pregnancy difficulties facing Black women"
-    excerpt: "“It's the unexpected way we lost her.” To mark Black Maternal Health Week, Vice President Kamala Harris led a discussion Tuesday of the issues that make African American women two to three times more likely than other women to die because of childbirt"
-    publishedDateTime: 2021-04-13T23:46:00Z
-    webUrl: "https://www.ctpost.com/news/article/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+    excerpt: "Stewart, the grandmother, said at a White House-sponsored discussion on the health of Black mothers. “It's the unexpected way we lost her.” To mark Black Maternal Health Week, Vice President Kamala Harris led a discussion Tuesday of the issues that make African American women two to three times more likely than other women to die because of childbirth."
+    publishedDateTime: 2021-04-14T03:40:00Z
+    webUrl: "https://www.chron.com/news/article/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

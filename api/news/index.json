@@ -214,6 +214,54 @@
       ]
     },
     {
+      "path": "_news/2021-04-14-cnn-staffer-boasts-to-project-veritas-that-network-peddled-anti-trump-propaganda.md",
+      "title": "CNN staffer boasts to Project Veritas that network peddled anti-Trump ‘propaganda’",
+      "excerpt": "A CNN staffer admitted in a secretly recorded video that his network produced “propaganda” to oust former President Donald Trump during the 2020 presidential election — and",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "originalUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cnn-project-veritas-60.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "publishedDateTime": "2021-04-13T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-pollsters-say-they-undercounted-republicans-trump-supporters-in-2020.md",
       "title": "Pollsters Say They Undercounted Republicans, Trump Supporters in 2020",
       "excerpt": "One report, released Tuesday by five Democratic polling firms, finds that their surveys undercounted voters who viewed former President Donald Trump as “presidential.’’ Another, by the nonpartisan Pew Research Center, concluded that obtaining the ...",
@@ -1293,62 +1341,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-south-dakotas-noem-asks-biden-to-reverse-ban-on-mount-rushmore-fireworks-display.md",
-      "title": "South Dakota's Noem asks Biden to reverse ban on Mount Rushmore fireworks display",
-      "excerpt": "South Dakota Gov. Kristi Noem sent a letter Tuesday requesting that President Biden reverse his administration's ban on an Independence Day fireworks celebration at Mount Rushmore this year, arguing doing so would be in keeping with an agreement the federal government made with her state last year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHdhDa7JdB4/biden-mount-rushmore-fireworks-ban-south-dakota-noem",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHdhDa7JdB4/biden-mount-rushmore-fireworks-ban-south-dakota-noem",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/597cc29d-971d-4c45-bea4-94b1bb269ef7/b444c0d4-0e4f-4b88-b49d-d9a73622ebbb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
-      "publishedDateTime": "2021-04-13T06:37:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

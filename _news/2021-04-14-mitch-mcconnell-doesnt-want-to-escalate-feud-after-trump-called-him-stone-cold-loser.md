@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Senate Republicans gave a brand new award to Trump the same weekend he called Mitch McConnell a 'dumb son of a b----h'"
-excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Senate Republicans' campaign arm announced on Monday that it had presented former President Donald Trump with a new award over the weekend. Trump spent part of the same weekend attacking the top Republican in ..."
-publishedDateTime: 2021-04-12T16:58:00Z
-originalUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4"
-webUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4"
-ampWebUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+title: "Mitch McConnell Doesn't Want to Escalate Feud After Trump Called Him 'Stone Cold Loser'"
+excerpt: "Senate Minority Leader Mitch McConnell of Kentucky chose not to escalate tensions between himself and former President Donald Trump when asked about Trump's recent insults towards him. Trump called McConnell a \"dumb son of a bitch\" and a \"stone-cold loser ..."
+publishedDateTime: 2021-04-14T03:38:00Z
+originalUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
+webUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
+ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
 type: article
-quality: 101
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60746bd23e3fe7001882a1d6?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://d.newsweek.com/en/full/1777388/mcconnell-trump-loser-comment-response-rnc-speech.jpg"
+    width: 3108
+    height: 2072
     isCached: true
 
 related:
@@ -303,22 +303,6 @@ related:
         width: 1072
         height: 667
         isCached: true
-  - title: "Mitch McConnell Doesn't Want to Escalate Feud After Trump Called Him 'Stone Cold Loser'"
-    excerpt: "Senate Minority Leader Mitch McConnell of Kentucky chose not to escalate tensions between himself and former President Donald Trump when asked about Trump's recent insults towards him. Trump called McConnell a \"dumb son of a bitch\" and a \"stone-cold loser ..."
-    publishedDateTime: 2021-04-14T03:38:00Z
-    webUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
-    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1777388/mcconnell-trump-loser-comment-response-rnc-speech.jpg"
-        width: 3108
-        height: 2072
-        isCached: true
   - title: "Republican McConnell proposes Trump get two weeks to prepare for Senate impeachment trial"
     excerpt: "U.S. Senate Republican leader Mitch McConnell on Thursday proposed a timeline that would delay the start of the Senate impeachment trial of former President Donald Trump until mid-February."
     publishedDateTime: 2021-01-22T04:17:00Z
@@ -366,6 +350,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1775605/asa-hutchinson.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Senate Republicans gave a brand new award to Trump the same weekend he called Mitch McConnell a 'dumb son of a b----h'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Senate Republicans' campaign arm announced on Monday that it had presented former President Donald Trump with a new award over the weekend. Trump spent part of the same weekend attacking the top Republican in ..."
+    publishedDateTime: 2021-04-12T16:58:00Z
+    webUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/60746bd23e3fe7001882a1d6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump says he's optimistic that the GOP will take back Congress in 2022 midterm elections and the White House in 2024"
     excerpt: "Former President Trump said at the Republican National Committee's donor retreat over the weekend that he's optimistic Republicans will retake Congress in 2022 and reclaim the White House in 2024 and reiterated falsehoods about voter fraud in 2020."
@@ -478,6 +478,6 @@ related:
         height: 800
         isCached: true
 
-secured: "kVG6PrCAfxlgJMcRKowBiqzuamvkj5VcWPFvdSt/J/BCY4Pzn+K1PwCQpSIGIoJTmaUuI/7aeSq6M1E3aBYBHsjQHJwBMcNLXkW2Ii07V8I8vGxW3nkuHI93Azpl4W/B1PKOxDEv21FPNEP6tF0SNiscqAqn9mTE+CH/BBSIJfF8/E8LowiUvKvvF05LWZFXGUS4a4gaIsvl4yQzzAjUG3nwQRTbHxmVKGYnyXa4FBLgI2zEIi41la3O4zNuMJgShfJnz6S2B372dXiTHtYkp6m0eKO8YAvWYrCEcsBh0X0qpUZwt27m1xXGVmCiDecviSLoQ+/brFdH1chQVLqebjaTI5kQRydhGdwf6zwStceQ26rj/EiSlB3bcNHO8Mx5w1cY238OyVhwl1I1irJV5G1vUadleZV5rE3oY5gZOfN35Y9AOTJTcXNoZEVGH77PwUkuNkX7ozrfBr6B2lVDbhcLV2eYq0wMV9shFDcfdvlG8oDMANtx3D4WFQhqiiYmDZIUH6dMsXmZuWHUkGKBXg==;9e7+2/9pKLfQrqTLV3bIBQ=="
+secured: "+6NxyiHpISdUcwiDw3LfGoRodLfiHcaz4bQmFbT8U0VyyB9DlgOzXQxxUMxA3fUI3o5tPc0cpCzTJ08YoGIp6N7GCea6g8WQ/Hk1G3URiUeEE5D+hEMHdbblXQHOAwRRLlpvNcZZBJ2UiLUiDdqQA2g4+Je1JX+rIBm5Xfat8dN6/j4LVdr4M6qGpiTIdJu/YSxGJAdpYEHE4g1sfWz7JsetoYdKN+Lcn1/ftDr11rV95LwLekSC/eJ2g50WB00V5HpGMFdis6qxmad9Gymw7raEXuzzEYTY5yBBXTKFTMfQBNrTNPEYQ/hvzemRFl+T+LlZlv/lefpXz4iRRX60hvnYiP+1ueLR1C/yY58mdz4=;XX9xsWvISlciXxiOlV/rJg=="
 ---
 

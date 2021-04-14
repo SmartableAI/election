@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Harris highlights pregnancy difficulties facing Black women"
-excerpt: "“It's the unexpected way we lost her.” To mark Black Maternal Health Week, Vice President Kamala Harris led a discussion Tuesday of the issues that make African American women two to three times more likely than other women to die because of childbirt"
-publishedDateTime: 2021-04-13T23:46:00Z
-originalUrl: "https://www.ctpost.com/news/article/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
-webUrl: "https://www.ctpost.com/news/article/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
-ampWebUrl: "https://www.ctpost.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+excerpt: "Stewart, the grandmother, said at a White House-sponsored discussion on the health of Black mothers. “It's the unexpected way we lost her.” To mark Black Maternal Health Week, Vice President Kamala Harris led a discussion Tuesday of the issues that make African American women two to three times more likely than other women to die because of childbirth."
+publishedDateTime: 2021-04-14T03:40:00Z
+originalUrl: "https://www.chron.com/news/article/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+webUrl: "https://www.chron.com/news/article/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+ampWebUrl: "https://www.chron.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
@@ -726,6 +726,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "bQ28b3RlVOagTcC7jff4pg8gjOfCKLxIVc4HEqTR+dh1EnwyQQGjNYRwtYVd452CjABOpD1Zu7g10goD/CsudeVzwLrrkXFlXHNe6oW1DGJ4yjomzCrg4OKuL2UdGPEnxuqFUEY2b+65f3HvkU240FupIiVjXxoOMd9xwy4nHgHs8ceeQ2JX9Uoeogt+zL3GckyrwUkAh3MYN0mZ8LU8LOO+KQKMxcGael2nlhJugd6o7wYRKH+tFQ7rP1YCWUE9axgQKqtiORei8Sbh0WNukEuQazxyLBMnhGsjgsWbSA/7Xs10FZnOYTWAVguujpde0kyC2Z1dS5aSxOQaISf1p0mfxL5PkkCmCnWEcHPeLmg=;hw2OSNvnVRBEx49/bQLeDg=="
+secured: "ZIDzZUxCtGmY7HzHjp+7tbiw3PRtIW7eg9m7zTAKw78N60ZsfbPdPH6wuA7bcGGXdMu4wC8UnIMVj2ARsr7pcbTIWqzT40xkUh9yawdjPCEew8qtJGIKRmB2Lg8NGwni/5wJfd1v7CxsQHIVdXK1QMT+Xs0f/eHv0a+c2So/8MzfToxOfWuKcLNWjeMaBJvi0RLka54bS1SNugYBwr65c8pH23z4ggnvSt40u9o8k6GRFZRuLRxJbehqfrgQD/vukR/Wzzt0KgzgawhjkCo0tH0M6+nNTxvvF4qzYlIxyBOkH0x0JDtysL2Gob6v0ysmtQWpf2xQ2CNvQ3iujGRb0nDfKdPp/rUPmAgx2Kh/pQU=;mDPvEpRbH1VRm7pF/yinBw=="
 ---
 

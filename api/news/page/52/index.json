@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-01-21-in-the-end-mike-pence-showed-both-his-guts-and-class.md",
+      "title": "In the end, Mike Pence showed both his guts, and class",
+      "excerpt": "The appalling Jan. 6 insurrection at the Capitol also targeted then-Vice President Mike Pence’s life, yet he still rose to the occasion to fulfill his duty with great courage, and he demonstrated class in attending Wednesday’s inauguration of Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland.com/letters/2021/01/in-the-end-mike-pence-showed-both-his-guts-and-class.html",
+      "originalUrl": "https://www.cleveland.com/letters/2021/01/in-the-end-mike-pence-showed-both-his-guts-and-class.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Y2S7CU23NZATHL5UBZLO6H5N4Q.jpg",
+          "width": 3794,
+          "height": 2529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cleveland.com/letters/2021/01/in-the-end-mike-pence-showed-both-his-guts-and-class.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2021/01/in-the-end-mike-pence-showed-both-his-guts-and-class.html?outputType=amp",
+      "publishedDateTime": "2021-01-21T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-live-updates-rand-paul-says-trump-impeachment-would-destroy-republican-party.md",
       "title": "LIVE UPDATES: Rand Paul says Trump impeachment would 'destroy' Republican Party",
       "excerpt": "Follow for the latest updates on Trump's impeachment.",
@@ -1333,63 +1376,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-do-latino-voters-think-joe-biden-can-unite-the-country.md",
-      "title": "Do Latino voters think Joe Biden can unite the country?",
-      "excerpt": "\"It's going to be hard, because there's still going to be people that think the election was a fraud,\" said Yumaira Saavedra of Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "originalUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_03/3443384/210119-washington-capitol-inauguration-prep-2x1-ac-1055p_febc111051f1ce6e390fc8d524eb2182.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254800",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254800",
-      "publishedDateTime": "2021-01-20T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

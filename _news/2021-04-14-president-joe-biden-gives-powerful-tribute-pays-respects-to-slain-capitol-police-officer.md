@@ -121,6 +121,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden invited to address U.S. Congress on April 28"
+    excerpt: "WASHINGTON (Reuters) - U.S. House Speaker Nancy Pelosi on Tuesday invited President Joe Biden to address a joint session of Congress on April 28. “I am writing to invite you to address a Joint Session of Congress on Wednesday, April 28, to share your ..."
+    publishedDateTime: 2021-04-13T23:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-biden-idUSKBN2C101G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C101G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C101G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558349728&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D00M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden works to balance civil rights and criminal justice"
     excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours Tuesday as he tries to navigate criminal justice and civil rights WASHINGTON ..."
     publishedDateTime: 2021-04-13T22:08:00Z

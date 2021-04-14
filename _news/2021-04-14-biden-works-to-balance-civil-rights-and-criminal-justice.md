@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden invited to address U.S. Congress on April 28"
+    excerpt: "WASHINGTON (Reuters) - U.S. House Speaker Nancy Pelosi on Tuesday invited President Joe Biden to address a joint session of Congress on April 28. “I am writing to invite you to address a Joint Session of Congress on Wednesday, April 28, to share your ..."
+    publishedDateTime: 2021-04-13T23:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-biden-idUSKBN2C101G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C101G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C101G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558349728&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D00M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden family dog Major to get 'off-site, private training' after two biting incidents"
     excerpt: "He added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. Major and the Bidens other dog Champ moved in to the White House a few days after Joe Biden's inauguration ..."
     publishedDateTime: 2021-04-12T12:59:00Z

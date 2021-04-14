@@ -301,6 +301,22 @@ related:
         width: 1072
         height: 667
         isCached: true
+  - title: "Mitch McConnell Doesn't Want to Escalate Feud After Trump Called Him 'Stone Cold Loser'"
+    excerpt: "Senate Minority Leader Mitch McConnell of Kentucky chose not to escalate tensions between himself and former President Donald Trump when asked about Trump's recent insults towards him. Trump called McConnell a \"dumb son of a bitch\" and a \"stone-cold loser ..."
+    publishedDateTime: 2021-04-14T03:38:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1777388/mcconnell-trump-loser-comment-response-rnc-speech.jpg"
+        width: 3108
+        height: 2072
+        isCached: true
   - title: "Republican McConnell proposes Trump get two weeks to prepare for Senate impeachment trial"
     excerpt: "U.S. Senate Republican leader Mitch McConnell on Thursday proposed a timeline that would delay the start of the Senate impeachment trial of former President Donald Trump until mid-February."
     publishedDateTime: 2021-01-22T04:17:00Z

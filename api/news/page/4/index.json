@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-09-biden-border-coordinator-roberta-jacobson-stepping-down.md",
+      "title": "Biden Border Coordinator Roberta Jacobson stepping down",
+      "excerpt": "The Biden administration's Southern Border coordinator will step down at the end of the month as officials continue to struggle with a large influx of migrants trying to enter the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcKbD4dJH8Q/biden-border-roberta-jacobson-step",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcKbD4dJH8Q/biden-border-roberta-jacobson-step",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Roberta-Jacobson-REUTERS.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp",
+      "publishedDateTime": "2021-04-09T13:50:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-biden-administration-will-not-shut-down-dakota-access-pipeline-during-environmental-review-doj-lawyer-tells-court.md",
       "title": "Biden administration will not shut down Dakota Access Pipeline during environmental review, DOJ lawyer tells court",
       "excerpt": "The Biden administration will not shut down the controversial Dakota Access Pipeline while an environmental review is conducted, a blow to the environmental and tribal groups that have rallied against the project for years.\n    \n",
@@ -1273,58 +1329,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-haaland-meets-with-utah-politicians-tribes-as-biden-weighs-monument-changes.md",
-      "title": "Haaland meets with Utah politicians, tribes as Biden weighs monument changes",
-      "excerpt": "tribal leaders and other stakeholders Wednesday and Thursday as President Biden Joe Biden Anne Frank's stepsister: Trump 'obviously admired Hitler' Biden-GOP infrastructure talks off to rocky ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
-      "originalUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bearsearsmonument.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
-      "publishedDateTime": "2021-04-08T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
