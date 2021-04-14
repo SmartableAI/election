@@ -111,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden to withdraw all US troops from Afghanistan by Sept. 11"
+    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform MOR ..."
+    publishedDateTime: 2021-04-13T20:31:00Z
+    webUrl: "https://thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report"
+    ampWebUrl: "https://thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04122021getty_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden to withdraw all US forces from Afghanistan by 9/11: Defense official"
     excerpt: "On Location: April 13, 2021 A U.S. defense official confirmed to ABC News Tuesday that President Joe Biden will withdraw all U.S. forces from Afghanistan by Sept. 11, the 20th anniversary of ..."
     publishedDateTime: 2021-04-13T16:38:00Z

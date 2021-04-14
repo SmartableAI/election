@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
+      "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
+      "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac-repubs1/26cpac-repubs1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
+      "publishedDateTime": "2021-02-26T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-biden-promises-to-help-winter-storm-battered-texas-recover-were-in-it-for-the-long-haul.md",
       "title": "Biden promises to help winter storm-battered Texas recover: 'We're in it for the long haul'",
       "excerpt": "President Joe Biden will embrace a familiar role on his trip to Houston Friday as he seeks to offer both comfort and federal support after a severe winter storm-battered Texas and left millions without power, heat or water.\n    \n",
@@ -1630,63 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-rush-limbaughs-legacy-of-venom-as-trump-rose-it-all-sounded-familiar.md",
-      "title": "Rush Limbaugh’s Legacy of Venom: As Trump Rose, ‘It All Sounded Familiar’",
-      "excerpt": "Weaponizing conspiracy theories and bigotry long before Donald Trump’s ascent, the radio giant helped usher in the political style that came to dominate the Republican Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/17/us/politics/17limbaugh-politics1/17limbaugh-politics1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
-      "publishedDateTime": "2021-02-17T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

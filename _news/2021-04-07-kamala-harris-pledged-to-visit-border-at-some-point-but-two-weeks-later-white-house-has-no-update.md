@@ -224,6 +224,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Texas nonprofit lands huge contract after hiring former Biden official: report"
+    excerpt: "Family Endeavors, a nonprofit in Texas, won a contract worth up to $530 million to help the Biden administration during the crisis unfolding along the southern border, according to a report."
+    publishedDateTime: 2021-04-14T05:46:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDu2YcBIVKI/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Mayorkas 'knows there's a crisis' at border, but has to convince Biden: Troy Nehls"
     excerpt: "Department of Homeland Security Secretary Alejandro Mayorkas has to convince President Biden that there is a crisis at the southern border, Rep. Troy Nehls, R-Texas, told \"Fox & Friends\" on Friday."
     publishedDateTime: 2021-04-09T14:24:37Z

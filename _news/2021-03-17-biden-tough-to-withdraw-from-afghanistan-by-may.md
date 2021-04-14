@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-fr
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/ustroopsafghanistan_092417getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to withdraw all US troops from Afghanistan by Sept. 11"
+    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform MOR ..."
+    publishedDateTime: 2021-04-13T20:31:00Z
+    webUrl: "https://thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report"
+    ampWebUrl: "https://thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04122021getty_0.jpg"
         width: 980
         height: 551
         isCached: true

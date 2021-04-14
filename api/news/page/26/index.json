@@ -2,6 +2,62 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-03-04-alcee-hastings-once-impeached-from-bench-leads-screening-of-judicial-appointments-to-biden.md",
+      "title": "Alcee Hastings, once impeached from bench, leads screening of judicial appointments to Biden",
+      "excerpt": "Rep. Alcee Hastings, D-Fla., announced Thursday that he and Rep. Debbie Wasserman Schultz, D-Fla., formed three screening conferences that will recommend candidates to fill federal judicial openings as well as vacant U.S. Attorney and U.S. Marshal positions in their state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQirE7bFJgM/alcee-hastings-impeached-from-bench-biden-judicial-appointments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uQirE7bFJgM/alcee-hastings-impeached-from-bench-biden-judicial-appointments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp",
+      "publishedDateTime": "2021-03-04T11:16:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-de-blasio-compares-cuomo-to-trump-after-governors-apology.md",
       "title": "De Blasio compares Cuomo to Trump after governor's apology",
       "excerpt": "Mayor Bill de Blasio compared Gov. Andrew Cuomo to Donald Trump Thursday, panning his attempt to fend off calls for his resignation by criticizing conditions in New York City. “To paint an apocalyptic picture [of the city] — that’s what Donald Trump would have done.",
@@ -1295,63 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pence-rails-against-hr-1-laments-capitol-riot-prevented-substantive-discussion-on-election-integrity.md",
-      "title": "Pence rails against HR 1, laments Capitol riot prevented 'substantive discussion' on election integrity",
-      "excerpt": "Former Vice President Mike Pence offered harsh criticism for a Democrat-proposed voting reform legislation while condemning the Capitol protest on Jan. 6 that, he said, interrupted what would have been a worthwhile discussion of election integrity.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
-      "publishedDateTime": "2021-03-03T09:19:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

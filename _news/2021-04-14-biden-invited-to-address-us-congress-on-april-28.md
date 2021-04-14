@@ -3,8 +3,8 @@ category: news
 title: "Biden invited to address U.S. Congress on April 28"
 excerpt: "WASHINGTON (Reuters) - U.S. House Speaker Nancy Pelosi on Tuesday invited President Joe Biden to address a joint session of Congress on April 28. “I am writing to invite you to address a Joint Session of Congress on Wednesday, April 28, to share your ..."
 publishedDateTime: 2021-04-13T23:27:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-congress-biden-idUSKBN2C101G"
-webUrl: "https://www.reuters.com/article/us-usa-congress-biden-idUSKBN2C101G"
+originalUrl: "https://www.reuters.com/article/us-usa-congress-biden/biden-invited-to-address-u-s-congress-on-april-28-idUSKBN2C101G?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/us-usa-congress-biden/biden-invited-to-address-u-s-congress-on-april-28-idUSKBN2C101G?edition-redirect=uk"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C101G"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C101G"
 type: article
@@ -128,20 +128,20 @@ related:
         height: 558
         isCached: true
   - title: "Biden works to balance civil rights and criminal justice"
-    excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours Tuesday as he tries to navigate criminal justice and civil rights WASHINGTON ..."
-    publishedDateTime: 2021-04-13T22:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
+    excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours as he tries to navigate criminal justice and civil rights"
+    publishedDateTime: 2021-04-14T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_99f980c46c4841c3a390081547ef8795_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden family dog Major to get 'off-site, private training' after two biting incidents"
     excerpt: "He added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. Major and the Bidens other dog Champ moved in to the White House a few days after Joe Biden's inauguration ..."
@@ -236,6 +236,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "jT3BX96vDG52Bjq5IaNwbOjC4YbrNiFVBjM9ReCFN6S1tiATfEEj0UsX4jf7dNFhr+GkSsFXIFA9VWe/xfkNM5Akcnste/j5MjPVTzDNg9OWaG1ennFRc6UmPAhJJtKRZHK5KOPMETiSxt6r99Fxn2ZcL008hwzvIZAo09etwKnQ8JPgIa6AfDFzEtRpwFIYWbXUj62iobtTw8cHNAevglGZ/XfSiWJ9R55y758n8blXiabuwE60ryEF+GGbkXmW8Y1v+d/Ny5f74sFcn6slGS/SAoRjdLIVwkohmsADw4E5C6Y+42ACuys0+B/IQlQcZLRKnlkUJl1xcZnoNzjNEy7ywKRTDfoCDU7303jyJBw=;Hsk68bdp6bBUlvCw/Mwqhw=="
+secured: "HXO+jexWQ+fFCtAJvIXRRQf/vrl7C2AhFEnqEJqzbj634MG0PqGY/soMggs+hG4ttrZSuaIWWXUTNk9EPq8RV8+q+p75uMNtHV5hXAcMV+u66hWuRnjdDmo0qVHPq2HU8D1j4FVcc3ICqcbVVQKQal/QuUzsPk3VIcMfWV9w15bVZnPM6wtKE9KlHAhxBHJEAX1swnyE07dVViKYflPoXoAmOlyZeDf74RJ6QakKZq/3OfoOB/mCo9zyzXXzIrLnMLh+Wrj06KEqw2gn9U1GNCZQkE0BJOCRvqzycns0jMoQuJqEN+Ki6KBVM1Fj6XQyPA7CBjfXbDEelRFZLFn7JKaDK1VjRIX46i4ODSrk6os=;RKGFimLFl5E/8TAtIxIwTg=="
 ---
 

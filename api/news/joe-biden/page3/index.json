@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-30-true-local-control-more-than-100-mayors-urge-biden-to-bypass-states-provide-covid-19-vaccines-directly-to-cites.md",
+      "title": "'True local control': More than 100 mayors urge Biden to bypass states, provide COVID-19 vaccines directly to cites",
+      "excerpt": "Over 100 mayors urged President Joe Biden's administration Monday to start sending COVID-19 vaccines directly to cities, bypassing states that have controlled the allocation of doses to local communities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/29/over-100-mayors-ask-biden-give-covid-19-vaccines-directly-cities/7047879002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/29/over-100-mayors-ask-biden-give-covid-19-vaccines-directly-cities/7047879002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/a250c0b13543d13feb9fa4cc1fd9381208ddf4bf/c=0-62-3000-1750/local/-/media/2021/03/29/NewBern/gda-covid-19-state-2021-03-29-nc-nsuj.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7047879002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7047879002",
+      "publishedDateTime": "2021-03-29T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim.md",
       "title": "White house says Biden does not intend to meet with North Korea's Kim",
       "excerpt": "U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday.",
@@ -1389,7 +1441,7 @@
       "originalUrl": "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1517,58 +1569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-swings-by-pennsylvania-in-covid-relief-tour-and-promises-more-help.md",
-      "title": "Biden swings by Pennsylvania in Covid relief tour and promises ‘more help’",
-      "excerpt": "President stopped by unionized, Black-owned company to highlight how $1.9tn package will lift small businesses Last modified on Tue 16 Mar 2021 18.36 EDT Joe Biden stopped by a unionized, Black-owned flooring company in the battleground state of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/cbbdd38aaa534703e2351104e4b147bc6657d5a7/0_85_3187_1912/master/3187.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6854b7cf8fc8ae24db44335aaedf3fe",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
-      "publishedDateTime": "2021-03-16T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

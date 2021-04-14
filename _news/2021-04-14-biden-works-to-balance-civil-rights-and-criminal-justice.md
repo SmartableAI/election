@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Biden works to balance civil rights and criminal justice"
-excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours Tuesday as he tries to navigate criminal justice and civil rights WASHINGTON ..."
-publishedDateTime: 2021-04-13T22:08:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-works-balance-civil-rights-criminal-justice-77053804"
+excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours as he tries to navigate criminal justice and civil rights"
+publishedDateTime: 2021-04-14T04:09:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-works-to-balance-civil-rights-and-criminal-justice/2021/04/14/3572ea48-9cd7-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_99f980c46c4841c3a390081547ef8795_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -130,7 +130,7 @@ related:
   - title: "Biden invited to address U.S. Congress on April 28"
     excerpt: "WASHINGTON (Reuters) - U.S. House Speaker Nancy Pelosi on Tuesday invited President Joe Biden to address a joint session of Congress on April 28. “I am writing to invite you to address a Joint Session of Congress on Wednesday, April 28, to share your ..."
     publishedDateTime: 2021-04-13T23:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-biden-idUSKBN2C101G"
+    webUrl: "https://www.reuters.com/article/us-usa-congress-biden/biden-invited-to-address-u-s-congress-on-april-28-idUSKBN2C101G?edition-redirect=uk"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C101G"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C101G"
     type: article
@@ -236,6 +236,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "30TqSS1aruGdFFBtrHSJhVTUmkRV50MZhlCNlPu9n4TyAd36pY07GSpEz4oeO1V6aqiWjLlDIBgBHVqBnB0C/mPVgRz7jHAKtb2G9/e7seW7x1xxOQIV6OhY/IoJef2dYIPDj0yxscmgsOiuUPAKJHqjymMb3J3EOk1OG1G3vbDp6fcG51CXzW/rsBQqOWGHs2GNxb2ji4ks/n+MeIjPTGDrfTtQDnXy5wCsj3iBukNx5X9Jln/IpRldakZI+zxQVl9W2ZZRC02fwdC7NtOyn/dVPDwMXvcpa4bBZwB8KLIRx5NfDwLpsp7jUONnrf1M3zzxfnF3PvgX9AfGYfv+uCQM/r1BzGHqxZsyIbq0l7M=;iLuwMtIfzSEwsBY6Xs2sqw=="
+secured: "2oAII1Jkhfg7kJNRzOhRwP+L++wWVnPpBvrwC/q73qmn1PTvQpUTAaltiITW3ZpbmB6VZvPBOIOLypCgTT5/joRHIhHZxzWWhJOUqjQdIhaTy62pZHlWG7F8DWdVA2aPzbr5XignBtrio1ITEvbsBQCrhml+fG8lM1RIZpn0U+SjfkSUaGFLzxZelt6ZY+thqLS14qMY1MigqRQkdRUt8Cfz5dEKf7SDRH8iiolPhy1cY1i/2cZkF5vhT6htM9vZUop2JcnXpfurNNkRvHJrlOqut3VbCB3w7nibwwlf8SKyjdP+6IkSEUZCKENCP+ODE0xkgh2xOXEoBC86enjWF87LF2QVqma8YbiTqEMrfSo=;DB2xaazZdfodGHtdg+Ee0Q=="
 ---
 

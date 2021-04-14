@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Concha on Kamala Harris' 'media blackout' on border crisis: Biden admin 'acting more like Pyongyang'"
-excerpt: "Fox News contributor Joe Concha told \"Fox & Friends\" on Tuesday that Vice President Kamala Harris is more of a \"chronic complainer,\" instead of a \"doer,\" because she has not yet visited nor addressed to the media the issues on the southern border."
-publishedDateTime: 2021-04-13T14:22:00Z
-originalUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis"
-webUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis"
-ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
+title: "Texas nonprofit lands huge contract after hiring former Biden official: report"
+excerpt: "Family Endeavors, a nonprofit in Texas, won a contract worth up to $530 million to help the Biden administration during the crisis unfolding along the southern border, according to a report."
+publishedDateTime: 2021-04-14T05:46:01Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDu2YcBIVKI/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDu2YcBIVKI/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report"
+ampWebUrl: "https://www.foxnews.com/politics/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report.amp"
 type: article
-quality: 135
+quality: 171
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
@@ -224,22 +223,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Texas nonprofit lands huge contract after hiring former Biden official: report"
-    excerpt: "Family Endeavors, a nonprofit in Texas, won a contract worth up to $530 million to help the Biden administration during the crisis unfolding along the southern border, according to a report."
-    publishedDateTime: 2021-04-14T05:46:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDu2YcBIVKI/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
     excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen."
     publishedDateTime: 2021-04-07T19:39:40Z
@@ -365,6 +348,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-mark-brnovich-001.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Concha on Kamala Harris' 'media blackout' on border crisis: Biden admin 'acting more like Pyongyang'"
+    excerpt: "Fox News contributor Joe Concha told \"Fox & Friends\" on Tuesday that Vice President Kamala Harris is more of a \"chronic complainer,\" instead of a \"doer,\" because she has not yet visited nor addressed to the media the issues on the southern border."
+    publishedDateTime: 2021-04-13T14:22:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Texas Gov. Abbott writes to VP Kamala Harris, demanding answers on border crisis"
     excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President ."
@@ -518,6 +517,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "qfNTlghXTycfAgCCtUTc00JQYxuk0FbuMjOCDOU/sxoJm4w59owMWbQ6ejYTyQVgijvhE+S8QK8mJjz2gjFY6q8KH7zIEeGrNHUeVEBGp3Cl61jv1TbKAU3JK2KpyTM+J6ZbRS8WGsCYnFYtsKmCZooF7md4RFbmuyD2EqatuYnpMwGBrqaBDuLxyIIH2O5FO8qzKs/OSHDiRaCb4/E2zOArlwxO8r80e0a/kdZf6NBhcD6cKu4rj8L0illkJaugdBwfkiAvOtR55OPsiY0BE6HVsWierowTuQPHZ0qhwgP/HCcm6WqPqLd6jHGUi3WT2FgULNp93R82D6LXGloQle6KasEqVacl9TO7m3h3OSg=;mMxjbyGB+29JGxmlmPw2dQ=="
+secured: "w5QSc4t38KtIXoRRfPXDOyHfYf8Mv513cGTkpGfkG9PW//r6iuD0sUoTEHmvY91HhsgFcKuW5HFk6xhAYyOzclQhRjStBEsnkOlNVBbeehPyWHyPl3gTrV/lQhefb0KD/HktPlL8D3++RnHqcDkaR62wzcwpsACHtiP5FdOqGBDC5RhBKYWBksVP1Ny9DP3O/UU71feSzHwtxicboAK9yrnJdKy3xfpm5HrZhWr1+xjO6aUA+9RNAzYT3tqz2kQnA23OtFLC5jPXO8RdsQj4ewD9k0X171oDw29tsL64MzIABs2FL/qki1v4Z3ZpCWPHTgM8/l4KlEZO7L0yjaw7IWRBBldv4bsUMFADpqKq0P8=;ZQa8AFJnepfxHlFrz2oOSA=="
 ---
 
