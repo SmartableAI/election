@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden police reform pledge faces limits of presidential power"
+    excerpt: "WASHINGTON (Reuters) - Nearly a year after President Joe Biden called for “real action” on police brutality as part of a pledge to fix U.S. racial inequality, he is coming up against the limits of presidential power. The White House shelved a proposed ..."
+    publishedDateTime: 2021-04-14T09:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-police-idUSKBN2C1186"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C1186"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C1186"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KB"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden praises settlement in dispute between electric vehicle battery makers"
     excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
     publishedDateTime: 2021-04-11T13:06:00Z
@@ -103,6 +119,6 @@ related:
         height: 360
         isCached: true
 
-secured: "O19aNvbq03R+AgBcX0E00oqyGeBVj+jFzwmA1wK+jaGN69TVBeRFcWPIOlEDTMcLqpL20OBmC5V0bEg29/B1WCr/RlWOg3vEen4lfXysNfVMrg6pLqTtyHnujIDMLN3uMXCf678NLAzDCQ8OLsJAA65Q3aVjGqrGCHlNfspC0sdNg8EuzjwpdGJROsRWL6wsM0E+RlWveSUJbBIbEOh/ky6BFGIg9eMwRFyEny884nkzi4yR/+g587dNugzNDHvdScPDtvpKaS6Lnv6iFP/814nSP2BZf+n+nQ5XO8Mx9SXFJNmG6oIbYWOHKdyJe5UysNm4+CenToIvU1TXpoMJzCq5OUswefIXLjrmYNCZ8Hw=;tnBA+Qpmsd5+mBA7JHEasA=="
+secured: "izb3KrubpgQQGK+Wtbig5DEAKauRQKx6HZbtuFiGK3AV+1RWcgniWprCfyFSuuEYBwT/f9vw+duq/qiDhAQ3ToyJdumvQf7e5+iSKgW2vkc1baaXmEZuV4AJILFZ9NyFX/P+XUWqnNA6G78OJmqUKwMoCjaK6bYGygoLJ/xwTO/BZf3rDhVjn4mgzAw7GzFEdXxH4vnu8UC+6Z9xMp7zlVvvPkjgGMLU0mlc+UHUsDrZoWbNfinjM3G03sAzp09pjmbBuar80UR50/K+nNqGwWjDE58BXn6+PCTWBrECBKJKczIPW1Ksra1SDJui1hE2+PEfryJzCaqM7IOMf24w7mCYhFLTzPiSC5nvUlyAwiYRQrdsX4TexNUfMv9n3x+0AAdQ4yx8dPPND0uPi4Rpnl6P/NklvvrsVqExTclnj7bVFXVZ4UWUNzL9i2Cvqzaa+B15lX8fwTgYy0GjKf71J0KqBOFUrzoX3FgC3kFBaqidq81aCy1zdMIDPcX33Wqxvqlj5RhduoS65RnxTG57hg==;OIG+bOBFXZXg7oEhFxHj0A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 4350
+heat: 4370
 published: true
 
 provider:
@@ -3216,6 +3216,20 @@ related:
       - url: "https://static.politico.com/e7/9f/0eecbef1490ab25474c0fdb7c398/gettyimages-1311488628.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden moves to undo Trump legacy on fair housing"
+    excerpt: "The Department of Housing and Urban Development is moving to reinstate two Obama-era fair housing rules weakened under President Donald Trump, marking one of HUD Secretary Marcia Fudge’s most significant steps since she was sworn in last month."
+    publishedDateTime: 2021-04-14T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/04/14/biden-moves-to-undo-trump-legacy-on-fair-housing-794650"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "New Jersey Playbook Q&A: Phil Murphy on Joe Biden, the pandemic and Trump"
     excerpt: "New Jersey Playbook writer Matt Friedman spoke to Murphy briefly over the phone about his relationship with the new administration, former President Donald Trump and how vaccine distribution is going in New Jersey."

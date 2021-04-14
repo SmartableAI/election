@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-27-jake-tapper-says-joe-biden-is-like-donald-trump-on-saudi-prince-save-mbs-ass.md",
+      "title": "Jake Tapper Says Joe Biden Is Like Donald Trump on Saudi Prince: 'Save MBS' Ass'",
+      "excerpt": "CNN's Jake Tapper compared President Joe Biden to former President Donald Trump on Friday following the administration's decision not to sanction Saudi. A U.S. intelligence report published on Friday concluded that bin Salman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561",
+      "originalUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1744714/saudi-arabias-crown-prince-mohammed-bin-salman.jpg",
+          "width": 2500,
+          "height": 1658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1",
+      "publishedDateTime": "2021-02-27T00:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
       "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
       "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
@@ -1510,58 +1563,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
       "publishedDateTime": "2021-02-20T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-un-experts-trump-ally-uae-firms-violated-libya-sanctions.md",
-      "title": "UN experts: Trump ally, UAE firms violated Libya sanctions",
-      "excerpt": "U.N. experts say American security contractor Erik Prince, a close ally of former President Donald Trump, violated the U.N. arms embargo against Libya along with three United Arab Emirates-based compa",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/africa/un-experts-trump-ally-uae-firms-violated-libya-sanctions/2021/02/20/a3cc7a7a-73b7-11eb-8651-6d3091eac63f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/africa/un-experts-trump-ally-uae-firms-violated-libya-sanctions/2021/02/20/a3cc7a7a-73b7-11eb-8651-6d3091eac63f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/africa/un-experts-trump-ally-uae-firms-violated-libya-sanctions/2021/02/20/a3cc7a7a-73b7-11eb-8651-6d3091eac63f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/africa/un-experts-trump-ally-uae-firms-violated-libya-sanctions/2021/02/20/a3cc7a7a-73b7-11eb-8651-6d3091eac63f_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-20T12:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

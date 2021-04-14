@@ -39,6 +39,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden police reform pledge faces limits of presidential power"
+    excerpt: "WASHINGTON (Reuters) - Nearly a year after President Joe Biden called for “real action” on police brutality as part of a pledge to fix U.S. racial inequality, he is coming up against the limits of presidential power. The White House shelved a proposed ..."
+    publishedDateTime: 2021-04-14T09:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-police-idUSKBN2C1186"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C1186"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C1186"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KB"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden praises settlement in dispute between electric vehicle battery makers"
     excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
     publishedDateTime: 2021-04-11T13:06:00Z

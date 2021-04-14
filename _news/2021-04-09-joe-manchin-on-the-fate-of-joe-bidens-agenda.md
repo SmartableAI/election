@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-gu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html"
 type: article
 quality: 175
-heat: 715
+heat: 735
 published: true
 
 provider:
@@ -333,6 +333,22 @@ related:
     images:
       - url: "https://static.politico.com/fe/a1/543f87804c9b96e555228ae53c5a/gettyimages-1311496365-1.jpg"
         width: 1159
+        height: 773
+        isCached: true
+  - title: "Biden moves to leverage corporate America's falling out with GOP"
+    excerpt: "The business community doesn’t dislike President Joe Biden’s proposal to hike corporate taxes to pay for a massive $2 trillion-plus infrastructure plan. They detest it. But there are some reasons to think corporate leaders are warming to Biden ..."
+    publishedDateTime: 2021-04-14T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/14/biden-corporate-america-gop-481338"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/14/biden-corporate-america-gop-481338"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/14/biden-corporate-america-gop-481338"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/40/e0/b52e32944a6bacf6d39b674ad197/gettyimages-1312349187-1.jpg"
+        width: 1160
         height: 773
         isCached: true
   - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."

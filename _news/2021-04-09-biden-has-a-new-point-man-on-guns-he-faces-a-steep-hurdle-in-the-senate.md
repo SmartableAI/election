@@ -352,6 +352,22 @@ related:
         width: 1159
         height: 773
         isCached: true
+  - title: "Biden moves to leverage corporate America's falling out with GOP"
+    excerpt: "The business community doesn’t dislike President Joe Biden’s proposal to hike corporate taxes to pay for a massive $2 trillion-plus infrastructure plan. They detest it. But there are some reasons to think corporate leaders are warming to Biden ..."
+    publishedDateTime: 2021-04-14T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/14/biden-corporate-america-gop-481338"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/14/biden-corporate-america-gop-481338"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/14/biden-corporate-america-gop-481338"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/40/e0/b52e32944a6bacf6d39b674ad197/gettyimages-1312349187-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Frustrated military officials want Biden to make a decision on Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden's lack of a final decision on the future status of U.S. troops in Afghanistan just three weeks before a deadline for their complete withdrawal has begun to frustrate some military officials, according to current and ..."
     publishedDateTime: 2021-04-08T16:33:00Z

@@ -3232,6 +3232,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden moves to undo Trump legacy on fair housing"
+    excerpt: "The Department of Housing and Urban Development is moving to reinstate two Obama-era fair housing rules weakened under President Donald Trump, marking one of HUD Secretary Marcia Fudge’s most significant steps since she was sworn in last month."
+    publishedDateTime: 2021-04-14T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/04/14/biden-moves-to-undo-trump-legacy-on-fair-housing-794650"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
     excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
     publishedDateTime: 2021-01-15T21:55:00Z

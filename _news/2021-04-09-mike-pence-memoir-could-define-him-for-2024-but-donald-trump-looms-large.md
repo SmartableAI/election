@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2169
+heat: 2189
 published: true
 
 provider:
@@ -1519,6 +1519,22 @@ related:
       - url: "https://hot-town-images.s3.amazonaws.com/kwtv/production/2020/May/11/president-trump--vp-pence.1589216378947.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump, defying custom, hasn't given the National Archives records of his speeches at political rallies"
+    excerpt: "In the case of modern presidents, for the official record, we rely upon transcriptions of all their speeches collected by the national government. But in the case of Donald Trump, that historical record is likely to have a big gap."
+    publishedDateTime: 2021-04-14T13:02:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-defying-custom-hasn-t-given-the-National-16099829.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-defying-custom-hasn-t-given-the-National-16099829.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-defying-custom-hasn-t-given-the-National-16099829.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "US Lifts Trump-imposed Sanctions On ICC Prosecutor"
     excerpt: "The United States said Friday it would lift sanctions imposed by former president Donald Trump's administration on the top prosecutor of the International Criminal Court, calling for a more cooperative relationship. Former secretary of state Mike Pompeo ..."

@@ -1533,6 +1533,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump, defying custom, hasn't given the National Archives records of his speeches at political rallies"
+    excerpt: "In the case of modern presidents, for the official record, we rely upon transcriptions of all their speeches collected by the national government. But in the case of Donald Trump, that historical record is likely to have a big gap."
+    publishedDateTime: 2021-04-14T13:02:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-defying-custom-hasn-t-given-the-National-16099829.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-defying-custom-hasn-t-given-the-National-16099829.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-defying-custom-hasn-t-given-the-National-16099829.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "US Lifts Trump Sanctions On Hague Prosecutor, Seeking Cooperation"
     excerpt: "US President Joe Biden on Friday revoked sanctions imposed by Donald Trump on the top prosecutor of the International Criminal Court as the new administration seeks a more cooperative approach on a row that has alienated allies."
     publishedDateTime: 2021-04-02T20:35:00Z
