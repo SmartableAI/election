@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden Races to Deliver Gun Reform Plan as U.S. Fears Violent Re-opening"
+    excerpt: "Gun control advocates hailed President Joe Biden for pushing ahead with long-promised gun ownership reforms after a spate of mass shootings re-energized the partisan debate ahead of what many people fear will be another summer of violence. The president's ..."
+    publishedDateTime: 2021-04-14T09:10:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1777549/guns-sale-illinois-shop.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
   - title: "Biden's actions on guns, Chauvin trial, The Masters: 5 things to know Thursday"
     excerpt: "President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act upon the president's long-held campaign promise to tackle gun control."
     publishedDateTime: 2021-04-08T07:57:00Z

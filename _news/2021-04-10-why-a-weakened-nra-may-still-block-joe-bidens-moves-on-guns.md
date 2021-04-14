@@ -135,6 +135,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden Races to Deliver Gun Reform Plan as U.S. Fears Violent Re-opening"
+    excerpt: "Gun control advocates hailed President Joe Biden for pushing ahead with long-promised gun ownership reforms after a spate of mass shootings re-energized the partisan debate ahead of what many people fear will be another summer of violence. The president's ..."
+    publishedDateTime: 2021-04-14T09:10:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1777549/guns-sale-illinois-shop.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
   - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
     excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
     publishedDateTime: 2021-04-08T00:46:00Z

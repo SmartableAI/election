@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden meets with bipartisan group on $2.3 trillion infrastructure plan, saying he's open to negotiate"
-excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% For the first time since unveiling his $2.3 trillion infrastructure package two weeks ago, President Joe Biden met with a bipartisan group of lawmakers on Monday to discuss the proposal. Eight lawmakers ..."
-publishedDateTime: 2021-04-13T15:45:00Z
-originalUrl: "https://www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4"
-webUrl: "https://www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4"
-ampWebUrl: "https://www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4?amp"
+title: "Joe Biden Races to Deliver Gun Reform Plan as U.S. Fears Violent Re-opening"
+excerpt: "Gun control advocates hailed President Joe Biden for pushing ahead with long-promised gun ownership reforms after a spate of mass shootings re-energized the partisan debate ahead of what many people fear will be another summer of violence. The president's ..."
+publishedDateTime: 2021-04-14T09:10:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287"
+webUrl: "https://www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287"
+ampWebUrl: "https://www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287?amp=1"
 type: article
-quality: 110
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/6074a5fb2cc1ef0018da14cf?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://d.newsweek.com/en/full/1777549/guns-sale-illinois-shop.jpg"
+    width: 3000
+    height: 2001
     isCached: true
 
 related:
@@ -143,22 +143,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Joe Biden Races to Deliver Gun Reform Plan as U.S. Fears Violent Re-opening"
-    excerpt: "Gun control advocates hailed President Joe Biden for pushing ahead with long-promised gun ownership reforms after a spate of mass shootings re-energized the partisan debate ahead of what many people fear will be another summer of violence. The president's ..."
-    publishedDateTime: 2021-04-14T09:10:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-races-deliver-gun-reform-plan-us-fears-violent-re-opening-1582287?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1777549/guns-sale-illinois-shop.jpg"
-        width: 3000
-        height: 2001
-        isCached: true
   - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
     excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
     publishedDateTime: 2021-04-08T00:46:00Z
@@ -270,6 +254,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f"
         width: 600
         height: 400
+        isCached: true
+  - title: "Biden meets with bipartisan group on $2.3 trillion infrastructure plan, saying he's open to negotiate"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% For the first time since unveiling his $2.3 trillion infrastructure package two weeks ago, President Joe Biden met with a bipartisan group of lawmakers on Monday to discuss the proposal. Eight lawmakers ..."
+    publishedDateTime: 2021-04-13T15:45:00Z
+    webUrl: "https://www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/6074a5fb2cc1ef0018da14cf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden says gun violence in the US is an 'international embarrassment' as he announces new executive actions"
     excerpt: "The letter F. An envelope. It indicates the ability to send an email. President Joe Biden on Thursday announced his first executive actions amid renewed pressure to address gun violence in the US following a slew of mass shootings. \"We're taking steps to ..."
@@ -408,6 +408,6 @@ related:
       domain: politifact.com
     quality: 35
 
-secured: "2tW4Xi4EG5tC5FAOvsfVJft9JBIQ4mmxc9rGkQY1J9Y7oh8i3q8JLDUJIngQxbj0ZcVGYkG2RA1FzVJ1nc58f4CoCusui88R0l8wtcRHSXUye1g7wgvJZMWnf97NkQCRpoaHY6IFyEoupnUZAksIJyWEvUDlOnn3SWveXASldtra3kdl+agX5EEXIlMAe9UIF3ceYrxPI0MtEIFKTNtoXMSOTMXWMh0KOrIgWljRdErC9Y2HOHEOS/W0tVGlHh0qZAuAFn6U5raQecqx8UWhrQLmEv4OSy/bUlMIbxUvNULo5vKb7Jkb2Hw6wDZH/h010sPh0Vl2sKnnBAxzN3ZWCuYtYsFAWjUNtFb3whjKLayn98jHjGDoifcTomCiavnZEtIs/Way9CntHxwAmRaGNylNxBI+22WTsrv3mOQ3mvNyDyH7oOk5c99bUe6vXfcWHHnjuDbXLiBKpIlXdLYkqwcdqIPaG0CoYNoxLDDAqJser/9Niy6XVMekHPpCoBYSO4O4a/NFpOrdchplK3B3lg==;Uz9ftQ0RWOdtLCG7+Wk+1Q=="
+secured: "F8LwS4Uyn5PEz3H8BAGN5nuT4NIEA5+x+9+saXsDgKI15MJdM4thcMZXO9IIAO3QlPoXNOZmzVv7C4ooweArTO9XquRwd/8SdFsViuIdtcDSLeD6BKsxNsFS1PtVd0xRhGWPrJOjwl32Vgp1bQzPO1qfoR7BZGHX5AtYzr+uG+PS6iCbV55+lBV7WNbAGHQEmA5FUaSSNbWpEnFo1uqNKM26i1qkBOa03ro0gn5i1qWn9N9xOfGXLr91AmupbHBdyFowoCyx6jGHNP82KouxpFtArsind00+Q9F3ueBYmp+jmyEvhxkfhAH8xxbNETg++3zzsNiPLbJdY1/Zqmw6gwFmyJWCV6r5RL7xVLdcJJg=;N6sEM2SzP3bnA8AemgFMdA=="
 ---
 
