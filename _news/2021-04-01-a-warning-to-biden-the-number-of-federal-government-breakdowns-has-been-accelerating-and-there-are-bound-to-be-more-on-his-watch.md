@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "What Joe Biden has said about bipartisanship"
+    excerpt: "As president, Joe Biden has pushed for bipartisanship even as congressional Democrats have signaled that they may push through his agenda items without Republican votes."
+    publishedDateTime: 2021-04-12T22:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/what-joe-biden-has-said-about-bipartisanship/2021/04/12/03eec4b7-99da-42fc-a8bd-169c35777c90_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-12-2021/t_1db0f83bf5e747958c94072676431b10_name_cbff5b0c_9892_11eb_8f0a_3384cf4fb399_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
 
 secured: "eHURCpBEJ0W7J9t7MgNsgbARoqO3fkUcqJ4Cebi9A6mwO904TWmioRl51VSlpLwzGdAa7TFZKvEH0m1xfeeytj6M3ZC1ph2PEnKbpN+eRc7QwqtWOXckNkmukYkkAR8NyiCkg/o0uEbuwx74siTDsINu3mFeEVJSCiEhUZKQVonjBu4zg2vihg4S+J8mLTiCIn00I2DoXhK0FUwTwnhCw4i3HXAvUniF4MxG+IrtiUZLQCjg40Pqj+4WWFkXKxyKfXSA9AdQW/wVbS+tKsPAd7cDfHFlej8HJyCkTsm/UfiMlZFpTc0zCvwD7coEUY1hUXdsT9KOabW10uLOcj+Tj9hKb/zWU3J9dR0cXsMDbpvDrhFyuLQWW+1dMSUP5nDKM3usj8reaFXalBZXSIe7CeEq3qBmFjQvxg11OiHukmRNnuXj+mFkr60r24dLkmwwiBR9Hy+0rFUR0hzPJHZUPtSElw1Kctx3LUiZ7L+dT8zUVanCHM1qM9IPe2o2iAfj+ZPM07IBRCe5sU7672mgig==;873clbUUM0qdNOOEqpowRQ=="
 ---

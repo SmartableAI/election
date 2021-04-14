@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "HUD moves to restore fair housing rules weakened under Trump"
+    excerpt: "The Trump administration suspended its implementation in 2018. Officials then proposed a watered-down revision before scrapping it altogether last summer as former President Donald Trump campaigned on the warning that Democrats were trying to ruin the ..."
+    publishedDateTime: 2021-04-13T21:39:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/hud-housing-rules-481209"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5b/29/9978ad914a6ba3b696ae59f53459/ap21077605779705-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden pushes sweeping jobs plan in meeting with bipartisan group of lawmakers"
     excerpt: "President Joe Biden is working to build bipartisan support for his sweeping $2 trillion American Jobs Plan and met Monday at the White House with a bipartisan group of lawmakers. The president wants to see Congress pass the proposal,"
     publishedDateTime: 2021-04-12T22:05:00Z

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-14-russell-wilson-co-hosting-nbc-vaccination-special-featuring-joe-biden.md",
+      "title": "Russell Wilson co-hosting NBC vaccination special featuring Joe Biden",
+      "excerpt": "Seattle Seahawks quarterback Russell Wilson and his wife, Ciara, will host a vaccination special on NBC with President Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/12/10/man_of_the_year_award_football_49511_c0-125-3000-1875_s1200x700.jpg?5df86175492ddcdc04d9d2b6261257b2d49617ee",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
+      "publishedDateTime": "2021-04-13T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-joe-bidens-2012-comments-about-leaving-afghanistan-period-in-2014-resurface.md",
+      "title": "Joe Biden's 2012 Comments About Leaving Afghanistan 'Period' in 2014 Resurface",
+      "excerpt": "After news broke that President Joe Biden plans to withdraw U.S. troops from Afghanistan by September, people began sharing 2012 comments from Biden vowing that America's military would be withdrawn from the country in 2014. Although Biden has repeatedly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394",
+      "originalUrl": "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777278/president-joe-biden.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1",
+      "publishedDateTime": "2021-04-13T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-tara-reade-rips-new-york-times-columnists-for-classifying-biden-assault-claim-as-sex-scandal.md",
       "title": "Tara Reade rips New York Times columnists for classifying Biden assault claim as 'sex scandal'",
       "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, scolded The New York Times Tuesday for putting her claims in the same category as the controversy surrounding Rep.",
@@ -119,7 +214,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -163,38 +258,29 @@
       ]
     },
     {
-      "path": "_news/2021-04-13-president-joe-biden-to-nominate-christine-wormuth-as-first-woman-secretary-of-the-army.md",
-      "title": "President Joe Biden to nominate Christine Wormuth as first woman secretary of the Army",
-      "excerpt": "WASHINGTON — A woman may serve as secretary of the Army in the Department of Defense for the first time. President Joe Biden will tap Christine Wormuth, a former adviser for the Defense Department during former President Barack Obama's terms in office ...",
+      "path": "_news/2021-04-13-bidens-pick-for-top-us-civil-rights-lawyer-kristen-clarke-faces-fraught-task.md",
+      "title": "Biden's pick for top U.S. civil rights lawyer, Kristen Clarke, faces fraught task",
+      "excerpt": "WASHINGTON (Reuters) - President Joe Biden’s nominee to lead the Justice Department’s Civil Rights Division, Kristen Clarke, is poised to take on the role at a fraught time in American history. Clarke will face a Senate hearing this week as hate crimes ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/",
+      "webUrl": "https://www.reuters.com/article/us-usa-justice-clarke/bidens-pick-for-top-u-s-civil-rights-lawyer-kristen-clarke-faces-fraught-task-idUSKBN2C0141?edition-redirect=in",
+      "originalUrl": "https://www.reuters.com/article/us-usa-justice-clarke/bidens-pick-for-top-u-s-civil-rights-lawyer-kristen-clarke-faces-fraught-task-idUSKBN2C0141?edition-redirect=in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 120,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/13/USAT/217f9850-162d-403f-818d-bd378662f75a-GettyImages-465166476.jpg?auto=webp&crop=6015,3383,x0,y238&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7196062002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7196062002",
-      "publishedDateTime": "2021-04-12T19:24:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T02:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -351,58 +437,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-biden-is-expected-to-name-a-former-top-obama-era-federal-prosecutor-to-lead-the-justice-departments-criminal-division-sources-say.md",
-      "title": "Biden is expected to name a former top Obama-era federal prosecutor to lead the Justice Department's criminal division, sources say",
-      "excerpt": "Sources tell Insider that Kenneth Polite is expected to be Biden's pick to run the Justice Department office responsible for federal criminal probes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/doj-criminal-division-kenneth-polite-biden-nominee-justice-department-2021-4",
-      "originalUrl": "https://www.businessinsider.com/doj-criminal-division-kenneth-polite-biden-nominee-justice-department-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6073ad1aa451820019b3a79c?width=700",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -685,10 +719,10 @@
     {
       "path": "_news/2021-04-11-joe-biden-could-his-tax-plan-affect-us-investment-in-ireland.md",
       "title": "Joe Biden: Could his tax plan affect US investment in Ireland?",
-      "excerpt": "But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules. In among those tech company HQs in Dublin's docklands, you will also find the offices of the lawyers and ...",
+      "excerpt": "The head of the country's inward investment agency, Martin Shanahan, described the Stripe investment as a \"phenomenal signal from Ireland and about Ireland\". But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-56692865",
-      "originalUrl": "https://www.bbc.com/news/world-europe-56692865",
+      "webUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
       "heat": 125,
@@ -707,7 +741,7 @@
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/amp/world-europe-56692865",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865",
-      "publishedDateTime": "2021-04-10T23:11:00-07:00",
+      "publishedDateTime": "2021-04-10T23:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -1523,63 +1557,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-the-mauritanian-star-benedict-cumberbatch-calls-on-joe-biden-to-close-down-guantanamo-bay.md",
-      "title": "'The Mauritanian' star Benedict Cumberbatch calls on Joe Biden to close down Guantanamo Bay",
-      "excerpt": "Benedict Cumberbatch says he plans to call on Joe Biden to close Guantanamo Bay following his latest movie \"The Mauritanian.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/mauritanian-benedict-cumberbatch-calls-joe-biden-close-guantanamo-bay",
-      "originalUrl": "https://www.foxnews.com/entertainment/mauritanian-benedict-cumberbatch-calls-joe-biden-close-guantanamo-bay",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Britain-Cumberbatch-blue-eyes-ap-660.jpg",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/mauritanian-benedict-cumberbatch-calls-joe-biden-close-guantanamo-bay.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/mauritanian-benedict-cumberbatch-calls-joe-biden-close-guantanamo-bay.amp",
-      "publishedDateTime": "2021-04-07T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

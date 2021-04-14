@@ -189,6 +189,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden gives powerful tribute, pays respects to slain Capitol police officer"
+    excerpt: "President Joe Biden gave an emotional tribute and paid his respects to slain U.S. Capitol Police Officer William “Billy” Evans."
+    publishedDateTime: 2021-04-13T23:24:00Z
+    webUrl: "https://www.indystar.com/videos/news/nation/2021/04/13/president-biden-pays-respects-slain-capitol-police-officer/7212635002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 46
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/c8029d0e-d69e-4994-accc-b4eee06c60e5-DESK.00_00_41_02.Still004.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "xglCzXgYd3MX7oX5+tMNZujsOoONGpW9PJSMHJv8ubWip5P7yVD5djuCYHj9AMMhLuojMpS10dHKjtkx7kfDpaPrWDzOFpEcu8fvPuu0absiggY7Kqsy7TtVUHggzfS1jqoNtbg2MPNzB0GMTVCbA3dFWT7+OGAN3aRbtSj+K6ndWSEgnLdSslGCjn/sNyPhvTvuDl4jWWsnytTXzMOw+6V5wmhP0PHc5l2beuERB8ek6bud+F37gt/DvXng4EGZbxQ0JPXf6QNayD+1tDjXiz6P6dxZc5WxHwJ4qnfOkvsXt8yIbtvo0jLjdac5uTUqvi76RnA0CQ0a60eXn19mit9C94OVvhsPKxvj7qeMwSw=;/6kG1HuxrS9fND1tdS8mjQ=="
 ---

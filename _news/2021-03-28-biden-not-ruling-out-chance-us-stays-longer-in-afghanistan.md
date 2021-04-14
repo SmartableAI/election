@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden sets new target for US troop withdrawal from Afghanistan: 20th anniversary of 9/11"
+    excerpt: "President Joe Biden has decided to leave American troops in Afghanistan beyond the May 1 deadline negotiated with the Taliban by the Trump administration, and has set the 20th anniversary of the Sept. 11 attacks as the new goal, a U.S. official said Tuesday."
+    publishedDateTime: 2021-04-13T16:41:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-sets-new-target-for-us-troop-withdrawal-from-afghanistan-20th-anniversary-of-911.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-sets-new-target-for-us-troop-withdrawal-from-afghanistan-20th-anniversary-of-911.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-biden-sets-new-target-for-us-troop-withdrawal-from-afghanistan-20th-anniversary-of-911.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UUBCGQS7UNA33MIQ7EM4662YNU.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
     publishedDateTime: 2021-03-27T11:51:00Z

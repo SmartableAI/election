@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-14-fox-news-hosts-joined-forces-with-giuliani-to-spread-trump-voter-fraud-lies-lawsuit-says.md",
+      "title": "Fox News Hosts 'Joined Forces' With Giuliani to Spread Trump Voter Fraud Lies, Lawsuit Says",
+      "excerpt": "Smartmatic's motion states that Fox News and its hosts \"joined forces\" with Rudy Giuliani and Sidney Powell, two attorneys representing the re-election campaign of then-President Donald Trump, knowing that the attorneys would make false claims against ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425",
+      "originalUrl": "https://www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777348/symantec-fox-news-lawsuit-giuliana-trump-election.jpg",
+          "width": 3000,
+          "height": 1996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425?amp=1",
+      "publishedDateTime": "2021-04-13T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-pastor-jeff-jansen-says-trump-is-still-president-people-will-be-dancing-in-the-streets-in-april.md",
       "title": "Pastor Jeff Jansen Says Trump Is 'Still President,' People Will Be 'Dancing in the Streets' in April",
       "excerpt": "Pastor Jeff Jansen, a self-described \"prophet,\" still believes former President Donald Trump is in office and advised people to \"watch what the Lord does\" this month. Jansen, who leads the Global Fire Ministries International in Murfreesboro, Tennessee ...",
@@ -1527,58 +1579,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-the-earth-holds-so-much-power-deb-haaland-visits-sacred-site-trump-shrank.md",
-      "title": "‘The earth holds so much power’: Deb Haaland visits sacred site Trump shrank",
-      "excerpt": "Photograph: Rick Bowmer/AP The interior secretary, Deb Haaland, paid a historic visit on Thursday to Bears Ears national monument, the Utah site sacred to Native Americans that was downsized by President Donald Trump. Haaland is a member of the Laguna ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c081fe5915e7b5f4b9590e9b737d83b3a89b07f3/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7154eb957ef61d7f99d2d9cbb511f48",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "publishedDateTime": "2021-04-08T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

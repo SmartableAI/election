@@ -1202,6 +1202,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Mike Pence launches new conservative organization to advance Trump-era policies"
+    excerpt: "Former Vice President Mike Pence has created a conservative advocacy group to advance policies that were championed during the Trump administration. Known as Advancing American Freedom, the launch of the conservative policy group was announced last week ..."
+    publishedDateTime: 2021-04-13T11:32:00Z
+    webUrl: "https://www.christianpost.com/news/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
+    ampWebUrl: "https://www.christianpost.com/amp/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 86
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/11/141145_w_450_315.jpg"
+        width: 450
+        height: 315
+        isCached: true
   - title: "Trump digs in on attacks against Republican leaders"
     excerpt: "Former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump calling him 'dumb son ..."
     publishedDateTime: 2021-04-13T10:01:00Z
@@ -1551,15 +1567,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Mike Pence launches new conservative organization to advance Trump-era policies"
-    excerpt: "Former Vice President Mike Pence has created a conservative advocacy group to advance policies that were championed during the Trump administration. Known as Advancing American Freedom, the launch of the conservative policy group was announced last week ..."
-    publishedDateTime: 2021-04-13T11:32:00Z
-    webUrl: "https://www.christianpost.com/news/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
-    type: article
-    provider:
-      name: The Christian Post
-      domain: christianpost.com
-    quality: 46
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z
@@ -1570,6 +1577,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XGBiYK5PN1FWzjKSapAuHCWBb4lO6OFjtiIZiehnZlfQaiSaREUFyF1oR+abc2nh8xg3rtIkUtrJbNJnh9wlk++CJvTwS6VkPnHxiPRiGT/Z+ZKrBbVxWj969qIvrjPseiWk69W9jb79oZdA87QjuB11H34z30u9vO6dGWtkNVTeI5r+TMX9fCQoe6cwIR3tz4xTD0hK8+2rsvdHDYe9toiQGoZT67EKkXWDs6ivzOTtit/RCkvLnRDy47RuwfT2By+TW6Vbm1I3UiihkTlB6arbl1gGWfFkHNfI1tZFD+MVjkpppSb/EJpP/uQDTobwyGH6T1inALQ6vl0mipTow1q+KfS/CggXXLHG+WoQPUc=;0T+pzI7HLQlpBhmfkFu/fw=="
+secured: "vYVuERTSMdeXENMIFAVNsbevklxnkYsczx7nRyDYGlCLp6xoRvc2Qt+sQL7YdI3o+NZsXbiz94UjB+o/U8GiLiKZvSjs1OWyllrhyUfQP7eLGPm5q4do5uG6tPfwoDdSxX+bPtd6BBZYnY8vOE/dZOh/rHGVpvrvNQCH2vsklRa7wb1qf4YM+CwKQ1alleIHiNZYoweGeKoIQMuD2XcHerUH3AEWVJSmE+3HYsler2e15ICqvr6fm1MDu8nQsd4OuxXkXOjcKEKUnT5BQoV9yYmsdVZ32XoXTq1Z2nhXKFWvfpZindyQtPvYDmsmlYVApPP8P2EbcAC+vNFSXfq1qeivMxT0LXeJubTCcXuPjXmD5gQmx+ad7xgEaZL3u+r5NI41EcnMMwWB9NQAFydtN/Rvw92w4xfP5Kn+mldzu6UhV3xJhSouj6IqmIT9Ywe+I1bqkPGqpzvUR8xlKdsj8m2Xsv0XhbLodYFQphhPmiMcmAGrCl+Jr6fdMRpQY/qqDjZ7MRwbo1xtC7oRC1Hbfw==;sIzQ9neF9Id6A5UgBmJwSA=="
 ---
 

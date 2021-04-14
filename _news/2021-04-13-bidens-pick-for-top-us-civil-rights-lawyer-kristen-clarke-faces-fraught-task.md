@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/us-usa-justice-clarke/bidens-pick-
 webUrl: "https://www.reuters.com/article/us-usa-justice-clarke/bidens-pick-for-top-u-s-civil-rights-lawyer-kristen-clarke-faces-fraught-task-idUSKBN2C0141?edition-redirect=in"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 120
+published: true
 
 provider:
   name: Reuters
@@ -23,17 +23,31 @@ topics:
   - Joe Biden
 
 related:
+  - title: "Biden is expected to name a former top Obama-era federal prosecutor to lead the Justice Department's criminal division, sources say"
+    excerpt: "Sources tell Insider that Kenneth Polite is expected to be Biden's pick to run the Justice Department office responsible for federal criminal probes."
+    publishedDateTime: 2021-04-12T15:42:00Z
+    webUrl: "https://www.businessinsider.com/doj-criminal-division-kenneth-polite-biden-nominee-justice-department-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6073ad1aa451820019b3a79c?width=700"
+        width: 700
+        height: 467
+        isCached: true
   - title: "President Joe Biden to nominate Christine Wormuth as first woman secretary of the Army"
     excerpt: "WASHINGTON — A woman may serve as secretary of the Army in the Department of Defense for the first time. President Joe Biden will tap Christine Wormuth, a former adviser for the Defense Department during former President Barack Obama's terms in office ..."
     publishedDateTime: 2021-04-13T02:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7196062002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7196062002"
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7196062002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7196062002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 67
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/217f9850-162d-403f-818d-bd378662f75a-GettyImages-465166476.jpg?auto=webp&crop=6015,3383,x0,y238&format=pjpg&width=1200"
         width: 1200

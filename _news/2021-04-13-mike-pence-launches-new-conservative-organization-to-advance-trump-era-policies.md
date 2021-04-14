@@ -5,8 +5,10 @@ excerpt: "Former Vice President Mike Pence has created a conservative advocacy g
 publishedDateTime: 2021-04-13T11:32:00Z
 originalUrl: "https://www.christianpost.com/news/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
 webUrl: "https://www.christianpost.com/news/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
+ampWebUrl: "https://www.christianpost.com/amp/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
+cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
 type: article
-quality: 46
+quality: 86
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://cdn.christianpost.com/files/cache/image/14/11/141145_w_450_315.jpg"
+    width: 450
+    height: 315
+    isCached: true
 
 related:
   - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
@@ -1565,6 +1573,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "gmtxo1vG5sYpArA4AOii8VXFDOJxmf1EXKn+uHFPtvcBLWagtDAwxj9ys5QWrHhZNsgl9DFLXkqJAel4KYj94YbCyEGHbrZQASdxn/SJwY0xJsKnN7n9EqOZfOx+5l9wM6eH8e7YZM+WcSTQOt8cP/sKzplc7u3JS18P7hEhl42/GJQDCfFms/92GJE0tLDwYGeOApt/zfSk1KlspGHuqXiHFSy55qhmIkqTggmsGqJzxVktsiVMidA9ZfxYABep3l5OlxUYg4DcOS58cIukVbUw/EBNbkfh84XrCXrBot9fJhBXmyE20lR5ZilH3YvgtmRGx1ssWv1hkUf2Jg9rY/rddj997AK7vO7R2L7hYHA=;UkJy15BL3emk7oxSZRZlRA=="
+secured: "aT4wgQ2Er8Artprd54xQHXzKJX2O05ye9w/HnI1kutC++IvFy8Q9SQ5rhSeED/3zx/+fTDzlK1v6CpG3W3qq7+6lUmND6KsE1b9gtm9c7u38yZ5nSNUkukvMjPZxb/ThkmraOz2ZufFvswtZYR6zj2Vl2vIqwx2WXcTa426w9sD8sFqQmQTEFPUFYbNwrvgmWj0TB4fq/InrQg9Tlvco6Wj9wlvRzhCDFG6CIoVKJf7B282Ufyegb8GMUWndEUEVBOnZCahz4krEVRSz81W2ium8T9w/ibcl3k3kombmW2r8J4pMcUPxlnWwywWGsiAFfI2VEc/xZiliU6RDu2tEDoXqcTP7ECWy0buEzKInhNs=;gbhpZ8IfZx2b03jZg2wt3Q=="
 ---
 

@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Harris, Biden schedules place little emphasis on immigration despite border crisis"
+    excerpt: "President Biden and Vice President Harris' public schedules have placed little emphasis on the southern border as authorities struggle to provide shelter for all of the migrants crossing into the U.S."
+    publishedDateTime: 2021-04-13T22:22:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ev9zddv5RbY/harris-biden-schedules-border-crisis-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-biden-schedules-border-crisis-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-biden-schedules-border-crisis-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 194
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21099800629179.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
     excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
     publishedDateTime: 2021-01-16T22:04:53Z

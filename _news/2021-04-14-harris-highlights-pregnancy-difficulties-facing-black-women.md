@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Harris Highlights Pregnancy Difficulties Facing Black Women"
-excerpt: "Vice President Kamala Harris has marked Black Maternal Health Week by leading a White House discussion of the issues that make African American women two to three times more likely than other women to die because of childbirth. WASHINGTON (AP ..."
-publishedDateTime: 2021-04-13T20:43:00Z
-originalUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women"
-webUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women"
-ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women?context=amp"
+title: "Harris highlights pregnancy difficulties facing Black women"
+excerpt: "“It's the unexpected way we lost her.” To mark Black Maternal Health Week, Vice President Kamala Harris led a discussion Tuesday of the issues that make African American women two to three times more likely than other women to die because of childbirt"
+publishedDateTime: 2021-04-13T23:46:00Z
+originalUrl: "https://www.ctpost.com/news/article/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+webUrl: "https://www.ctpost.com/news/article/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+ampWebUrl: "https://www.ctpost.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Connecticut Post
+  domain: ctpost.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Kamala Harris Backs Gavin Newsom As He Faces Recall Election"
@@ -383,6 +385,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "GOP asks 'Where's Kamala' as Harris avoids trip to view border crisis"
+    excerpt: "Where’s Vice President Kamala D. Harris? She’s at a bakery in Chicago, at a yarn shop in Alexandria, at a White House health care roundtable on Tuesday — anywhere but at the southern border."
+    publishedDateTime: 2021-04-13T19:58:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/13/gop-asks-wheres-kamala-harris-avoids-trip-view-bor/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/13/gop-asks-wheres-kamala-harris-avoids-trip-view-bor/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/13/gop-asks-wheres-kamala-harris-avoids-trip-view-bor/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/13/Harris_Black_Women_Maternal_Health_56336.jpg-9a3fc_c0-233-5604-3502_s1200x700.jpg?76df3e8b2efbeaa8aa1c9514bc42099e2bf6fd37"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
     publishedDateTime: 2021-04-05T19:41:00Z
@@ -708,6 +726,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "E5bHEMP6qfvm/zrRNzrFRqgoqwDCvzvEVsaL4YmkDltDCG9vvecTqzbxOz1rPHhQ59AtT4WLX0dHzLjZARuK6P2blEUfKygzM2uVLR4+GJ87ay79bRYRMjNsTpJtvWP/djFRabmYf1BhqRd9sJoWKYoLaqzewJL+GSF1fj7n/P3wz7yRL4PkK9URmWQitRsJD5JMdqB4oulLta6LusH5u8MLjFpm8u0/9OVomFCu0ryiSmhgIDzEH1glROJs8gPABgUL2lhUUmNLU9M1HpaBlLbO7jR6wU1Tk2dWPav4WPGlq0C+l5tJgi132zP3F1WQTUQpLU8Z+nk7V0phZfW42npEc/TJES4dcGwnskNmAsAq9dlQ16wzrJ1n7xuu8n4g7pI7kLM8gQp9fnViW2zaCnANRpi6hhnJIVunM7smHsQ6jy96dj+ZPw3xNdbZa73jJ05MyLo5clHwvrpJLsCZZSvbsXqeeeQiN4ETiXpitXJe5dZ7LZwBAk9+Q/cH6U9FDxmZMo9LcK0mfDLxGnPAdA==;Je0KByIAzdMJ8+MNZlvKVw=="
+secured: "bQ28b3RlVOagTcC7jff4pg8gjOfCKLxIVc4HEqTR+dh1EnwyQQGjNYRwtYVd452CjABOpD1Zu7g10goD/CsudeVzwLrrkXFlXHNe6oW1DGJ4yjomzCrg4OKuL2UdGPEnxuqFUEY2b+65f3HvkU240FupIiVjXxoOMd9xwy4nHgHs8ceeQ2JX9Uoeogt+zL3GckyrwUkAh3MYN0mZ8LU8LOO+KQKMxcGael2nlhJugd6o7wYRKH+tFQ7rP1YCWUE9axgQKqtiORei8Sbh0WNukEuQazxyLBMnhGsjgsWbSA/7Xs10FZnOYTWAVguujpde0kyC2Z1dS5aSxOQaISf1p0mfxL5PkkCmCnWEcHPeLmg=;hw2OSNvnVRBEx49/bQLeDg=="
 ---
 

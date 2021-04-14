@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://i.insider.com/60709dbc4943790018bb1b19?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "What Joe Biden has said about bipartisanship"
+    excerpt: "As president, Joe Biden has pushed for bipartisanship even as congressional Democrats have signaled that they may push through his agenda items without Republican votes."
+    publishedDateTime: 2021-04-12T22:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/what-joe-biden-has-said-about-bipartisanship/2021/04/12/03eec4b7-99da-42fc-a8bd-169c35777c90_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-12-2021/t_1db0f83bf5e747958c94072676431b10_name_cbff5b0c_9892_11eb_8f0a_3384cf4fb399_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "A warning to Biden: The number of federal government breakdowns has been accelerating, and there are bound to be more on his watch"
     excerpt: "Research by New York University professor Paul Light found an increasing number of government failures in recent years, driven by “decades of neglect.”"

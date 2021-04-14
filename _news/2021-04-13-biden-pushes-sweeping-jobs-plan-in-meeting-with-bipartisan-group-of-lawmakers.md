@@ -288,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "HUD moves to restore fair housing rules weakened under Trump"
+    excerpt: "The Trump administration suspended its implementation in 2018. Officials then proposed a watered-down revision before scrapping it altogether last summer as former President Donald Trump campaigned on the warning that Democrats were trying to ruin the ..."
+    publishedDateTime: 2021-04-13T21:39:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/hud-housing-rules-481209"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5b/29/9978ad914a6ba3b696ae59f53459/ap21077605779705-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Dam safety advocates feel forgotten in Biden's $2 trillion infrastructure plan"
     excerpt: "“It’s one of those ticking time bombs that can really devastate a community,” said a Michigan woman who was rescued from a dam collapse last year. When President Joe Biden last week introduced a sweeping $2 trillion infrastructure plan, the details ..."
     publishedDateTime: 2021-04-09T08:30:00Z

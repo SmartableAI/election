@@ -373,6 +373,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP asks 'Where's Kamala' as Harris avoids trip to view border crisis"
+    excerpt: "Where’s Vice President Kamala D. Harris? She’s at a bakery in Chicago, at a yarn shop in Alexandria, at a White House health care roundtable on Tuesday — anywhere but at the southern border."
+    publishedDateTime: 2021-04-13T19:58:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/13/gop-asks-wheres-kamala-harris-avoids-trip-view-bor/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/13/gop-asks-wheres-kamala-harris-avoids-trip-view-bor/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/13/gop-asks-wheres-kamala-harris-avoids-trip-view-bor/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/13/Harris_Black_Women_Maternal_Health_56336.jpg-9a3fc_c0-233-5604-3502_s1200x700.jpg?76df3e8b2efbeaa8aa1c9514bc42099e2bf6fd37"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Harris highlights pregnancy difficulties facing Black women"
+    excerpt: "“It's the unexpected way we lost her.” To mark Black Maternal Health Week, Vice President Kamala Harris led a discussion Tuesday of the issues that make African American women two to three times more likely than other women to die because of childbirt"
+    publishedDateTime: 2021-04-13T23:46:00Z
+    webUrl: "https://www.ctpost.com/news/article/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-highlights-pregnancy-difficulties-facing-16098321.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Kamala Harris comes to Oakland to promote $2 trillion infrastructure plan"
     excerpt: "Kamala Harris returned to Oakland for the first time as vice president Monday to tout the Biden administration’s $2 trillion infrastructure plan. She was greeted on the tarmac at Oakland International Airport by California Democratic Sen. Alex Padilla ..."
     publishedDateTime: 2021-04-05T19:41:00Z
@@ -621,17 +653,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Harris Highlights Pregnancy Difficulties Facing Black Women"
-    excerpt: "Vice President Kamala Harris has marked Black Maternal Health Week by leading a White House discussion of the issues that make African American women two to three times more likely than other women to die because of childbirth. WASHINGTON (AP ..."
-    publishedDateTime: 2021-04-13T20:43:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-04-13/harris-highlights-pregnancy-difficulties-facing-black-women?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Vice President Kamala Harris Holds Roundtable on Black Maternal Health"
     excerpt: "Vice President Kamala Harris delivers remarks on Black maternal health during a roundtable discussion in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Vice President Harris is joined by White House Domestic Policy Advisor ..."
     publishedDateTime: 2021-04-13T18:08:00Z

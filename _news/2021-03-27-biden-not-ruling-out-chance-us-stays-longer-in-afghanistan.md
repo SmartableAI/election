@@ -185,6 +185,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "President Joe Biden sets new target for US troop withdrawal from Afghanistan: 20th anniversary of 9/11"
+    excerpt: "President Joe Biden has decided to leave American troops in Afghanistan beyond the May 1 deadline negotiated with the Taliban by the Trump administration, and has set the 20th anniversary of the Sept. 11 attacks as the new goal, a U.S. official said Tuesday."
+    publishedDateTime: 2021-04-13T16:41:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-sets-new-target-for-us-troop-withdrawal-from-afghanistan-20th-anniversary-of-911.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-sets-new-target-for-us-troop-withdrawal-from-afghanistan-20th-anniversary-of-911.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-biden-sets-new-target-for-us-troop-withdrawal-from-afghanistan-20th-anniversary-of-911.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UUBCGQS7UNA33MIQ7EM4662YNU.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
 
 secured: "j5A1/l333iOszIJG74ekeKDgHZn1AEvpkOtzxt9+OiTMTjF06A2g8bUpKjoNGl3cGlVyAhPUs5OExbZaZ2/3C59qDqssZwut5ryKtfllTNKkGfUZPsKvaAyAUNMmBvulB3iQW87MztuSqzPSmwxK9jHuP4rfij+baeo5kcDl0gcvkx0gfrTVra5hpMujEg9xNe72tTToXVmrWh+oljhgzRfAFon6R2U0Gfr0T9Sc8loHu7x8iUBWaa2XzSfgZpnjkaXqVWZe4KxO2kSceZICgUF4WgIaPnH+nf9suNeCtyOFFIc3J9GXkL6bZ6aHKfzmkvAb7BoaczhDiBo9X4Uzv7lXRrkMQeudLELPUOazd2w=;Ekmu0op53MHCbi1RM4pK+g=="
 ---

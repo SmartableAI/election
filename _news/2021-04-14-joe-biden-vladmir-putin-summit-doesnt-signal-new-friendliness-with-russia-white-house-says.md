@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signa
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1"
 type: article
 quality: 114
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 3477
     height: 1775
     isCached: true
+
+related:
+  - title: "Joe Biden Proposes Summit With Russia’s Vladimir Putin"
+    excerpt: "Biden and Putin have now spoken twice by phone since Biden took office in late January. But the proposed meeting, which Biden suggested should happen in a \"third country,\" would be the first between them as tensions escalate between the two countries. The ..."
+    publishedDateTime: 2021-04-13T17:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "bYxux7WwWcT3Bna3eu1sM5t3+yp1Xk8d70NqGsDP1Q9wis5PXGDrn2pYvu5mrS6etyn/RRb4bR65ClyWaLtb/Mp72xg0zN0J2JBEk0IJzpU5kogaPM/dNqPy6wZapI1lshpETW6zNoO1ze2ku9jK+e0uPVNAJ8ug0NMIzsx6ZfuGuq02w7Mt+CXSAP6WJpui1oBUN9PYuXBNIni3GDj/8S1ONYaEdAQRgr+0rEFK6xpSLRhIBqTmHfm5hryL23Sd7HSKiK+IBnMivpAxaH4PKJD0xVNita6e+el4yktgtNdOe42z/6MxXmAovJOAhkiJLtjxcX4fApuPr2Iywc9mq8W2BBHSO4LDO1Ch/B02bf0=;fU9jypPR6IZ1McXoTCQqVA=="
 ---

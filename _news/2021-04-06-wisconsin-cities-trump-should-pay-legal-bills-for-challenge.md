@@ -1210,6 +1210,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Mike Pence launches new conservative organization to advance Trump-era policies"
+    excerpt: "Former Vice President Mike Pence has created a conservative advocacy group to advance policies that were championed during the Trump administration. Known as Advancing American Freedom, the launch of the conservative policy group was announced last week ..."
+    publishedDateTime: 2021-04-13T11:32:00Z
+    webUrl: "https://www.christianpost.com/news/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
+    ampWebUrl: "https://www.christianpost.com/amp/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 86
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/14/11/141145_w_450_315.jpg"
+        width: 450
+        height: 315
+        isCached: true
   - title: "Trump digs in on attacks against Republican leaders"
     excerpt: "Former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump calling him 'dumb son ..."
     publishedDateTime: 2021-04-13T10:01:00Z
@@ -1559,15 +1575,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Mike Pence launches new conservative organization to advance Trump-era policies"
-    excerpt: "Former Vice President Mike Pence has created a conservative advocacy group to advance policies that were championed during the Trump administration. Known as Advancing American Freedom, the launch of the conservative policy group was announced last week ..."
-    publishedDateTime: 2021-04-13T11:32:00Z
-    webUrl: "https://www.christianpost.com/news/mike-pence-launches-new-advocacy-group-advancing-american-freedom.html"
-    type: article
-    provider:
-      name: The Christian Post
-      domain: christianpost.com
-    quality: 46
 
 secured: "U39kaydWW/I50SWd6RRMmTdwR4ZzmMEvKTQ+vnkIquzkjTLo2jckudSM/BBKoENxGY+W6pOXlVXI/Vb/KVXjdqTMWsCpVKdo3fXuV8lzCY6QRMCHzIGhw8vlrf1hkhEh3TpRKMN28y5Yu/0I2oc3OGRtt5DIU7fmeJGAO4TzvclxhBKiwZTiKC6a+wSxmSr2eHQWd5euJlYr5qB4iHZkqNIgPmcXZrG27ufybPLpYO9IAsbroBxzSjTdJ/Q8/Kx1PB1TeDcL8JiofMUALALDaeOqrtz1wEVwtPgwmzhyda/jslnG94Y6dhgnIOKSKF9xa/Zh+LgBHxoAumlBi1eZg+cWVpLj8Q6jOArrahgY53nUYEL92JypzCXSOTtyXwD8odzO5VPcMmOQQiNYyeDGOpQm+yu0WjoDJW8DgEq/oVerNVS35SNh07SgssI1KEWZyxM4OfSezfNAnPYliuPzJ/aZOeacvFGklwUK2lPNBdxB3Ug6VCh6OB3eaMDRqRRCRwjoZk5lmeaJesp0Uh4okw==;iBatfiNbunRcpogFKXTVbQ=="
 ---
