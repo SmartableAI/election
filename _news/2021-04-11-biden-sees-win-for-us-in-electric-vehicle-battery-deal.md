@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-elec
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html"
     ampWebUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden taps ex-Obama official as Interior Department deputy"
+    excerpt: "The White House is naming a former Obama administration official to be deputy secretary at the Interior Department after dropping plans for a more liberal nominee who faced key Senate opposition"
+    publishedDateTime: 2021-04-14T20:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

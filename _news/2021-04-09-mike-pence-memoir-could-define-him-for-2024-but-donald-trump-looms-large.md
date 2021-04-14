@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2209
+heat: 2229
 published: true
 
 provider:
@@ -1507,6 +1507,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
         width: 1024
         height: 731
+        isCached: true
+  - title: "Will Lara Trump Be The Next Family Member In Office? Donald's Daughter-In-Law Leads In NC Poll"
+    excerpt: "Lara Trump stands well ahead of potential rivals despite not even committing to run. That's left other Republicans in campaign limbo."
+    publishedDateTime: 2021-04-14T20:14:00Z
+    webUrl: "https://www.ibtimes.com/will-lara-trump-be-next-family-member-office-donalds-daughter-law-leads-nc-poll-3181016"
+    ampWebUrl: "https://www.ibtimes.com/will-lara-trump-be-next-family-member-office-donalds-daughter-law-leads-nc-poll-3181016?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-lara-trump-be-next-family-member-office-donalds-daughter-law-leads-nc-poll-3181016?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Pence launches group to defend Trump record, promote agenda as he eyes presidential bid"
     excerpt: "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ..."

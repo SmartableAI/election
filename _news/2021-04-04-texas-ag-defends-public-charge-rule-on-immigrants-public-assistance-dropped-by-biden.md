@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dems urge Biden to include amnesty for some illegal immigrants in second spending bill"
+    excerpt: "Democrats in both the House and Senate are urging President Biden to include a path to citizenship for millions of illegal immigrants in the second part of his spending package -- just as similar amnesty efforts are stalling elsewhere in Congress."
+    publishedDateTime: 2021-04-14T21:11:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shk2OxMQme4/dems-biden-amnesty-some-illegal-immigrants-second-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-biden-amnesty-some-illegal-immigrants-second-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-biden-amnesty-some-illegal-immigrants-second-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/69146bf5-9b71-4697-8ecb-eaeed1b92714/73b89420-27db-48b9-8af9-015dc54b4ce4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Giroir calls on Biden to 'surge' COVID vaccines, tests to Michigan in response to rise in cases"
     excerpt: "Former HHS Assistant Secretary for Health Brett Giror urged President Biden Monday to rush additional supplies of COVID vaccines to Michigan to fight a rise in cases, telling \"Your World\" it’s the best way to \"put out the blaze.\""
     publishedDateTime: 2021-04-12T23:20:44Z

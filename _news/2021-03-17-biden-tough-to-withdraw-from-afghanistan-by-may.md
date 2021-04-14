@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-fr
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -220,6 +220,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/14/73b6e7a8-5f74-4843-8299-0328663774ce/thumbnail/1200x630/0201f6f756a295d088f665fab65a402d/cbsn-fusion-biden-announces-withdrawal-of-all-us-troops-from-afghanistan-by-911-thumbnail-692680-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden salutes war dead after Afghanistan decision"
+    excerpt: "President Joe Biden salutes the graves of U.S. troops who died in recent conflicts, buried at Arlington National Cemetery on Wednesday. The visit came, after Biden pledges to withdraw remaining U.S. troops from the “forever war” in Afghanistan."
+    publishedDateTime: 2021-04-14T21:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-salutes-war-dead-after-afghanistan-decision/7227953002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/93dd08f0-7e68-4947-9f9a-1e641f55ab55_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."

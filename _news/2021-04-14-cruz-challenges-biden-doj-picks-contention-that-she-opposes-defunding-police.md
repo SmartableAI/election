@@ -3,8 +3,8 @@ category: news
 title: "Cruz challenges Biden DOJ pick's contention that she opposes defunding police"
 excerpt: "President Biden's Justice Department Civil Rights Division nominee Kristen Clarke insisted during her Wednesday confirmation hearing that she does not support defunding police, but Sen. Ted Cruz, R-Texas, confronted her with a recent article she wrote that, he claimed, proves otherwise."
 publishedDateTime: 2021-04-14T19:54:07Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H5Ghcv1RNGU/biden-doj-pick-says-she-does-not-support-defunding-police-but-cruz-challenges-her-on-past-op-ed"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H5Ghcv1RNGU/biden-doj-pick-says-she-does-not-support-defunding-police-but-cruz-challenges-her-on-past-op-ed"
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UwcUfNYaG3s/cruz-challenges-kristen-clarke-defund-police"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UwcUfNYaG3s/cruz-challenges-kristen-clarke-defund-police"
 ampWebUrl: "https://www.foxnews.com/politics/cruz-challenges-kristen-clarke-defund-police.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-challenges-kristen-clarke-defund-police.amp"
 type: article
@@ -142,6 +142,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ggJy3iFEdgzpjfM8RfZAicJeN29G1PTd8rU9IKRXifZWBcDqbEuUEajKOOMQezoxiYLZn1aSGqAFnUg9q8zaKIzJsA8d+KvywHcCiJDEwae+SuMKPuv09loI0cj5QXrlcpzePjpWhWCiAtSDPNn8HuHMA1/xovYDk4ioSpBLfeBX2Y7NJd5bHDbAv6shfHrkaTq7A9PhWEA8Lqg7AXiMvxvqzkY8996Szi+QejodKLuwtgY/xlsUCYol7H4cadfADLoboJAn/QkMk91pD1I9pdXaaX24UaiTSXStftMZxxucUhOV9Mg782x0/fbGDxcey5bbz++4J3i5pGBxRowNoPCDk4wM7dRMcL1hBG0kL/g=;5CgjZqxf2HF/xF4z3ldesg=="
+secured: "+Nf0n4lFYFkfMCjTuQDg5LKETLhLYBxy8QhMIZ30FEJsB4SDnmNX1vDs1wiMookJ7fkFrF0NGojbK0GRYPLLcXw4FWu3+diWlELG7g9nHpdYFDDHWo5jLZEUzujX1Ljbjub43YICzTwr1Nz0tPyZ5F228G7gXvdwnw2oKGEWiBIxtQoXHsJSWVMrnHL+TPAgoHUKnRFVLtaOuC8Z+kArl6oP6JYDuiPm3c2uZ/9O4FOEwQiHcdl7Uho1tHeevkw1AF42w+NAuG5VbMvoyWnNFazXLXpYQzNK8Yn5+JTp21BwX+anV1ZYWQrkTR3dass6HRTW9VbPjDVzPQyEpefXmqcI+yjDDzyy/7c7QkAjIJY=;Gqk6Z05omnpOGunLEa9+rQ=="
 ---
 

@@ -1587,6 +1587,17 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Biden Begins to Undo Trump's Ban on Abortion Referrals"
+    excerpt: "The Biden administration is beginning to undo a Trump-era ban on clinics referring women for abortions, a policy directive that led to Planned Parenthood leaving the federal family planning program."
+    publishedDateTime: 2021-04-14T12:46:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2021-04-14/biden-begins-to-undo-trumps-ban-on-abortion-referrals"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-04-14/biden-begins-to-undo-trumps-ban-on-abortion-referrals?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-04-14/biden-begins-to-undo-trumps-ban-on-abortion-referrals?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Biden Expected to End Trump Ban on Temporary Foreign Workers"
     excerpt: "U.S. President Joe Biden is expected to allow a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday,"
     publishedDateTime: 2021-03-31T00:24:00Z

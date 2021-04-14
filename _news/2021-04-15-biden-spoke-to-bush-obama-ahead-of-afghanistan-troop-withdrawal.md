@@ -221,6 +221,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden salutes war dead after Afghanistan decision"
+    excerpt: "President Joe Biden salutes the graves of U.S. troops who died in recent conflicts, buried at Arlington National Cemetery on Wednesday. The visit came, after Biden pledges to withdraw remaining U.S. troops from the “forever war” in Afghanistan."
+    publishedDateTime: 2021-04-14T21:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-salutes-war-dead-after-afghanistan-decision/7227953002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/93dd08f0-7e68-4947-9f9a-1e641f55ab55_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
     publishedDateTime: 2021-03-27T19:32:00Z
@@ -268,6 +282,6 @@ related:
         height: 427
         isCached: true
 
-secured: "kQS3I9sPj2+9MLgqq/7irln2LChdnDwSbtcwAqOy5h39xGzIHc9ZH26Os1QMo/SemMDwsPyn5shtIJPx2wAJHgFTq4coUwDkxvRvySdvbO/VJNYDiv7DRTqAgfUmw36bp62ssirAi/RwuACGJnpkbGQ3051DwBm8Tc0CbKVAt7MFK3MH+vH94Pj5iHPtVuOfjVL2PgoOJ70eQ2dxyZH1H/pE3z7w4qOMfZjdaA1A1vZIQ5+UxGHmQSTaR6xN85Z+NNnqMD8q2R/SLT3zruM3WTZ6okD8EgXPaVWJwNTMHbA81G8RzEnL1hnDmJyzBFM9eF/xn9Ebx/LzZ6wQQQ++UUEU9mlxqQ/EdpeDCssDIL0=;LD1H0/X+eXjHJvdf7emR7w=="
+secured: "dlaRejTnHL5gYCbsvolccZ2rw/IjAoBYiLjUgpfvIPRmQynbtFcjKVOCR/3/FUi+SP9Zu5PgpSao/2IESzb663FFJdpvdQEki6D0C/A1AEnf0r5LNmwFfxReYSko/1O5I9It3anNaI9EOZ5JHo76wNfj5K4c2727Q2AvPQCSJg7WN77Wwxgp8tJnSb6dWO26H7SPugaZTIPBSbT2Z3XdMa917PJH+9XZUo6czcHO0b0JdRAX01SaGTex5vPDI857qs9tyc8aWPgjFnHXrmRKTGW/vEWQQ0MZ0eXP2Ur+JH7GORy72mPQmtZBq3Ti6Qnp4CkMGY9u0G10Iptr1kq5DOLPRfHh9Vl/y4jawWWXBDzRlUuwl70etg+y7pwcATX6tdZPV4MvsnSkgxmkBlwMtd+2nKb2ABH8QUISoeZsTODvKIc8hst/UoYPA8LIYQbuC4WkBrLtAJ+rv/X9TiC1pfXOBcVtsGdlKYyOGbN/BEo62eqXLJG/i44Ld2Ua1KDzjqjXqN+ViQd8Iv7fJKusYw==;1pO1IE0bVwJE53300Wt7Aw=="
 ---
 

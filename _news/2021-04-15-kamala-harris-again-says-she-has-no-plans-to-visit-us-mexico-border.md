@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 285
+heat: 325
 published: true
 
 provider:
@@ -108,6 +108,38 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/14/Harris_98547.jpg-c7f77_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris receives 'Missing Children'-inspired milk carton roast for absence on border crisis"
+    excerpt: "Vice President Kamala Harris’ absence from the crisis at the southern U.S. border with Mexico has landed her on a “Missing Children”-inspired milk carton."
+    publishedDateTime: 2021-04-14T20:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 62
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/14/Kamala_Harris_milk_bottle_Twitter_c0-21-1000-604_s1200x700.jpg?1bd6308b50035d8151fb6fd665d256075e4fdde9"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Vice President Kamala Harris to talk about jobs, economy during visit Monday to Greensboro, High Point"
+    excerpt: "Vice President Kamala Harris will visit both Greensboro and High Point to talk about the American Jobs Plan, growing the economy and creating jobs, a White House official said. It"
+    publishedDateTime: 2021-04-14T20:53:00Z
+    webUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.html"
+    ampWebUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
+    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/a/34/a3403fc8-9d61-11eb-8fd2-37d200b852fc/5d6326a0d5f19.image.jpg?resize=1024%2C807"
+        width: 1024
+        height: 807
         isCached: true
   - title: "Baltimore company that made yarn bought by Vice President Kamala Harris has stitched together a success story"
     excerpt: "In March during a visit at Fibre Space in Alexandria, Vice President Kamala Harris purchased a hand-dyed yarn that’s the color of the Observatory Circle — the residence of the vice president ― made by Neighborhood Fiber to celebrate Harris ..."

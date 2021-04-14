@@ -1596,6 +1596,17 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Biden Begins to Undo Trump's Ban on Abortion Referrals"
+    excerpt: "The Biden administration is beginning to undo a Trump-era ban on clinics referring women for abortions, a policy directive that led to Planned Parenthood leaving the federal family planning program."
+    publishedDateTime: 2021-04-14T12:46:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2021-04-14/biden-begins-to-undo-trumps-ban-on-abortion-referrals"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2021-04-14/biden-begins-to-undo-trumps-ban-on-abortion-referrals?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2021-04-14/biden-begins-to-undo-trumps-ban-on-abortion-referrals?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Biden Seeks U.S. Supreme Court Dismissal of Trump Immigration Rule Dispute"
     excerpt: "Biden, who has criticized Trump's immigration approach, is widely expected to dump the policy known as the \"public charge\" rule. The justices on Feb. 22 had agreed to hear an appeal filed by Trump's administration of a lower court ruling that found the rule likely violated federal immigration and administrative law by impermissibly expanding the definition of who counts as a \"public charge\" and greatly increasing the number of people who would be rejected for residency."
     publishedDateTime: 2021-03-09T11:37:00Z

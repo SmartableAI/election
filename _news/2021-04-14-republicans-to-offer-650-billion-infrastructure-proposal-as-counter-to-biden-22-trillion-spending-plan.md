@@ -82,7 +82,7 @@ related:
   - title: "Cruz challenges Biden DOJ pick's contention that she opposes defunding police"
     excerpt: "President Biden's Justice Department Civil Rights Division nominee Kristen Clarke insisted during her Wednesday confirmation hearing that she does not support defunding police, but Sen. Ted Cruz, R-Texas, confronted her with a recent article she wrote that, he claimed, proves otherwise."
     publishedDateTime: 2021-04-14T19:54:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H5Ghcv1RNGU/biden-doj-pick-says-she-does-not-support-defunding-police-but-cruz-challenges-her-on-past-op-ed"
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UwcUfNYaG3s/cruz-challenges-kristen-clarke-defund-police"
     ampWebUrl: "https://www.foxnews.com/politics/cruz-challenges-kristen-clarke-defund-police.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-challenges-kristen-clarke-defund-police.amp"
     type: article

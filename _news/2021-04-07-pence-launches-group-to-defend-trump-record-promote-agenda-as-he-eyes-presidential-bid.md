@@ -1517,6 +1517,22 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Will Lara Trump Be The Next Family Member In Office? Donald's Daughter-In-Law Leads In NC Poll"
+    excerpt: "Lara Trump stands well ahead of potential rivals despite not even committing to run. That's left other Republicans in campaign limbo."
+    publishedDateTime: 2021-04-14T20:14:00Z
+    webUrl: "https://www.ibtimes.com/will-lara-trump-be-next-family-member-office-donalds-daughter-law-leads-nc-poll-3181016"
+    ampWebUrl: "https://www.ibtimes.com/will-lara-trump-be-next-family-member-office-donalds-daughter-law-leads-nc-poll-3181016?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/will-lara-trump-be-next-family-member-office-donalds-daughter-law-leads-nc-poll-3181016?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Pence Launches Group To Defend Trump-Era Policies From 'Liberal Attacks & Media Distortions'"
     excerpt: "Former Vice President Mike Pence is beginning to reemerge after the end of the Trump administration with the launch of a new group to counter the policies of the Biden administration and the Democratic-controlled Congress. The former vice president has ..."
     publishedDateTime: 2021-04-07T16:59:00Z

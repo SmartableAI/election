@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden taps ex-Obama official as Interior Department deputy"
+    excerpt: "The White House is naming a former Obama administration official to be deputy secretary at the Interior Department after dropping plans for a more liberal nominee who faced key Senate opposition"
+    publishedDateTime: 2021-04-14T20:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "M9lL+cFXvQ+0TcrRP1EtwqAhwjWS8O65IkdFxDC4W7klmZ64ZxOq+H67wUEAdnbG6tGTmLcvK3TU2d0T1rOGo8Ywp/6f6F5mDuImBFqoDGdAUMIZYhh8mc6wEkTkXjW4e9Kd1uZteWj6zbOixhS0uJavBh0+tfKfLbR/STu066xvwL9xrW94mEHgiV5bIrwIg/+0c24WMUvcJXzRZ4l8F7kF2YEeZCC+OUlDGxdV1bP5d4r601PY7buMSckpXUM4l8vWNS5kAT7XzoChomnTu5V9LbWR1JdAcMElCmgA2fdOp3U9q2k8qbe7Bs20uWSY4atLrG4E7jCh/9xb/B5GXiZvlHUgf5GL8nZi3LKVXuE=;X0x6rYixoqUiyV00CABuQA=="
 ---
