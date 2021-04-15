@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden aims to redefine word ‘bipartisan’ as Dems work to push spending bill without any GOP votes"
-    excerpt: "President Biden vowed to bridge the partisan political divide but, struggling to garner Republican support for major bills, his administration appears to be changing the narrative by redefinining what \"bipartisan\" means."
-    publishedDateTime: 2021-04-12T13:10:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiJ0cferris/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp"
+  - title: "Sen. Graham slams Biden, Dems for court-packing attempt: They are 'really drunk with power'"
+    excerpt: "Senator Lindsey Graham responds to Democrats' legislation to pack the Supreme Court, and U.S. troops leaving Afghanistan on 'The Story'"
+    publishedDateTime: 2021-04-15T21:16:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsVq0EZNuMs/graham-slams-biden-dems-drunk-with-power"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Texas Gov. Abbott warns border woes 'will get worse,' points to 'bipartisan response' to Biden admin"
-    excerpt: "Texas Gov. Greg Abbott said Sunday that in his state it's not just Republicans who are pushing back against the Biden administration as migrants surge to the southern border in record numbers."
-    publishedDateTime: 2021-04-11T15:14:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NcOTrAncMyg/texas-gov-abbott-border-crisis-will-get-worse"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-border-crisis-will-get-worse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-border-crisis-will-get-worse.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

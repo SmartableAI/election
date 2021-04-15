@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2180
+heat: 2200
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3BRZFU3BYI6XAAFX76DUOPW2M.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Under Trump-era border rule that Biden has kept, few asylum-seekers can seek U.S. refuge"
+    excerpt: "Just 0.3% of more than 600,000 migrants expelled by U.S. border officials under a pandemic-era policy have been allowed to pursue U.S. refuge."
+    publishedDateTime: 2021-04-15T01:45:00Z
+    webUrl: "https://www.cbsnews.com/news/refugee-asylum-seekers-immigration-limit-trump-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/refugee-asylum-seekers-immigration-limit-trump-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/refugee-asylum-seekers-immigration-limit-trump-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 131
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/13/ae4b346d-f26d-40f3-a421-2bccd84215d7/thumbnail/1200x630/93bee2ec456a49be318db8067832ab82/gettyimages-1232136400.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump's DHS Head Chad Wolf Thinks Biden Is Under Pressure to Finish Sections of Border Wall"
     excerpt: "In a photo taken on March 28 ranch owner Tony Sandoval (67) stands before a portion of the unfinished border wall that former president Donald Trump tried to build, near the southern Texas border city of Roma. Ed Jones/AFP/Getty Images Newsweek reached out ..."

@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden puts his stamp on foreign policy with series of momentous decisions"
+    excerpt: "After President Joe Biden declared Wednesday that the US must shift focus from a bloody and intractable war to more modern-day pursuits, it took less than 24 hours for him to put his words into practice.\n    \n"
+    publishedDateTime: 2021-04-15T20:25:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UEvlCy6tDuE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/foreign-policy-joe-biden-russia-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/foreign-policy-joe-biden-russia-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150627-05-biden-afghanistan-remarks-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Manchin on his veto power over Biden agenda: 'It's not a good place to be'"
     excerpt: "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n"
     publishedDateTime: 2021-03-11T00:49:42Z

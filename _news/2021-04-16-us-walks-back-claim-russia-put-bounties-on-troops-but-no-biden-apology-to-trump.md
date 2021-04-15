@@ -140,6 +140,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump mocks Biden for ‘PC’ military: ‘They’re laughing at us like never before’"
+    excerpt: "Former President Donald Trump mocked President Biden in a podcast, saying he forced the nation’s armed forces to become “politically correct” with progressive and gender-inclusive policies."
+    publishedDateTime: 2021-04-15T21:49:00Z
+    webUrl: "https://nypost.com/2021/04/15/trump-mocks-biden-for-pc-military-theyre-laughing-at-us-like-never-before/"
+    ampWebUrl: "https://nypost.com/2021/04/15/trump-mocks-biden-for-pc-military-theyre-laughing-at-us-like-never-before/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/15/trump-mocks-biden-for-pc-military-theyre-laughing-at-us-like-never-before/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/joe-biden-donald-trump-0056.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden strikes Trump-esque deal with Northern Triangle countries amid migrant surge"
     excerpt: "The Biden administration is taking a page out of former President Donald Trump’s book, striking an agreement with the Northern Triangle countries to militarize their borders in an effort to curb ..."
     publishedDateTime: 2021-04-12T19:57:00Z
@@ -171,6 +187,6 @@ related:
         height: 500
         isCached: true
 
-secured: "yidrxTkNoUEY0tD2Pn+eGoBSijYeZew3avUXdbRr58kqri7McXmABB49YQ4+Fy+vUBPOG4UzuDZ8YlonsL4klkmRkgoYZe+qdUed5X5vD6cfzxOH8iEtli33XBZBByYlCc6gAGK5PyXJg6j+Pk674CYrYLpdfubngEAF5UtsrauAR6sM9so6uNVEcEwFl6xFDZ1PmIQso7vtX2uEGudZA56IKu8CRGypNV6cUa5W3dS6qDY8A3XapfYosU5QtKlAQ5xA3ENd6klaGAvKHbSZLEKV8hA81XTGrxISqu50koABBdxkzaIt0ObEOlvMGe/DqiENmK607FJFA5cQib4WrrsM9tW7yNhG+/+nFbJwIhU=;i8TNMRJy0NsVIFr3IZ8byg=="
+secured: "oQ62NUykpIVA1kWbUbYmjmffFS96re5stKsePYES30EMTBQJEQlqYVX+++p1/mLVjBlzLAP2o+mraN8GvgI2hWwnR4537e5ad8jUejAYj5Uor7Qv55WY9uckesPqdzZIuclY+8Gvchv3vdhwxynXm5SvSAVK9nfgj3GSQM6QXgf1bwjGFMDFpf3wwQH2wxCCoOb9oH3otOydz99pmQ8lA2gGLmHZdzlQR0FEioTcZcwC2grk6bGW1t6N5fYjCqRpJcQgX5tApYMCfbm+W1ujyFz/GDwmePfJAXq06WNsUJOBUFxbONdTCPCTyhZ1wZaXxv5MOt0iZN+F3uDeNh/opI6nxp+cvdDwhpPlwCoSXT3sofhSGm9IUkXFxUYSZhzz0E4lwDwV4GnFHFPn048IJCjV+qWv6UIzUZr31rhdBtHWMNdPPH5gz4+9sZFDcHSVloJPzkRCpqPWUWo4HTRXn2UVKvly0F2+WZ4AuboePWd/uDsRbGy4TZOiljtr1APajbqliuu/fZUHZwDmHJG56w==;qOZmxqhoK4EbWnnS6jn+Xw=="
 ---
 

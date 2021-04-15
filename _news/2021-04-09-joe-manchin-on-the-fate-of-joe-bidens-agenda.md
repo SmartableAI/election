@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-gu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-manchin-joe-biden-guns-filibuster-voting-rights/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182608-01-joe-biden-0310-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden puts his stamp on foreign policy with series of momentous decisions"
+    excerpt: "After President Joe Biden declared Wednesday that the US must shift focus from a bloody and intractable war to more modern-day pursuits, it took less than 24 hours for him to put his words into practice.\n    \n"
+    publishedDateTime: 2021-04-15T20:25:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UEvlCy6tDuE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/foreign-policy-joe-biden-russia-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/foreign-policy-joe-biden-russia-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150627-05-biden-afghanistan-remarks-0414-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Americans give Biden a thumbs-down on border crisis: poll"
+    excerpt: "As President Biden nears his 100th day in office, his overall approval ratings remain well above water and he scores high marks with Americans on how he’s handling the coronavirus pandemic."
+    publishedDateTime: 2021-04-15T20:56:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHicUALiP4k/biden-approval-immigration-border-crisis-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-immigration-border-crisis-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-immigration-border-crisis-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden’s reported plans to kill Keystone XL pipeline alarm Canadian officials"
     excerpt: "President-elect Joe Biden is considering canceling the cross-border permit for TC energy’s Keystone XL pipeline -- and Canadian officials are worried."
     publishedDateTime: 2021-01-18T18:37:25Z

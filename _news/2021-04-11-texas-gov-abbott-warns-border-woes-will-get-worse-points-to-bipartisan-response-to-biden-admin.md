@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden meeting Dems with Farrakhan ties the same day as funeral for officer killed by Farrakhan supporter"
-    excerpt: "President Biden is meeting Tuesday with the Congressional Black Caucus (CBC), which includes several members with strong ties to outspoken anti-Semite Louis Farrakhan, on the same day he attended a memorial service for the Capitol Police officer who was killed by a 25-year-old Farrakhan supporter."
-    publishedDateTime: 2021-04-13T17:23:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dcHeShG0MDo/biden-billy-evans-funeral-meeting-democrats-farrakhan-ties"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-billy-evans-funeral-meeting-democrats-farrakhan-ties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-billy-evans-funeral-meeting-democrats-farrakhan-ties.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/10/18/694940094001_5850345304001_5850334093001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Sz2Q/BWR+DlU+FSVb+mW6ODErgFVdnQ+akUHRi16YRp4AMHleHPFZz9EqxPFAy8hS+dRU7H4RDMBu7K9K8Y1Pz9uzfsGOFzlN/XoitIoTFAHmj7RljadTawsmai5c/fLxD509oEgAEK41wFrBIhsZtEOO6oWYvWJx9/6doZS16B+Ka8FVvbLCtIg6yV1P7SgOr4lshywq6d+wx/bFhTWhFwPBdwxgRv2ym+pU4Fb3kYRga4QiSqGM4Z05GvNfnEfiwazodCQJJuOK+UP6KWvFVi8L5bo8slgv1leoPoXKhv0qkuIqEiih1gqyEyeKrv32Ec1YhtNLxLhB+WOagCt8PtkAGB0TD93/TcVjVygTnQ=;KNnrdUDaLex5+6bvlQeWiw=="
 ---

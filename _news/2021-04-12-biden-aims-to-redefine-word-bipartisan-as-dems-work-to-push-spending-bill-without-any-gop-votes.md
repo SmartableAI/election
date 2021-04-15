@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-redefine-bipartisan-dems-push
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp"
 type: article
 quality: 162
-heat: 202
+heat: 182
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden meeting Dems with Farrakhan ties the same day as funeral for officer killed by Farrakhan supporter"
-    excerpt: "President Biden is meeting Tuesday with the Congressional Black Caucus (CBC), which includes several members with strong ties to outspoken anti-Semite Louis Farrakhan, on the same day he attended a memorial service for the Capitol Police officer who was killed by a 25-year-old Farrakhan supporter."
-    publishedDateTime: 2021-04-13T17:23:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dcHeShG0MDo/biden-billy-evans-funeral-meeting-democrats-farrakhan-ties"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-billy-evans-funeral-meeting-democrats-farrakhan-ties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-billy-evans-funeral-meeting-democrats-farrakhan-ties.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/10/18/694940094001_5850345304001_5850334093001-vs.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "aJ2cqfb0yhH9QuqiO2GKVn1Ol7d29CSxGMJ0CJn3f8oeA5DOMKm1w3a9npaPXcj+4O4tHQ8LjQQ1DBf8L4hlHZXEpE93eT5cuX+60Ldkamvaz2Wj24WiuxOxIV5/4OwM5OoRK8IiwojAlOEPUI7qtQWmO8gfOFLLFfYcyvXt0lD1ByHM+weg3wr5tfq0IEMRFUQ8AIspcDBMLdKdC7Fc8WNx1k6id+Ez316VnH3y6ug0oNabF0go45PLbkPjwg3rSZ/Zppo3SR75Jw6a55FErvaM3NxB/anhbyYAZBFz/s4b4R4zVDEc6qOv3gLTnwUS4yYVS5yfbw7joNV5GnIWn6hNNp4zp3kaqKbxbrI1rX0=;QrzC2C6iVbU1JJzG1pi17w=="

@@ -124,6 +124,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump mocks Biden for ‘PC’ military: ‘They’re laughing at us like never before’"
+    excerpt: "Former President Donald Trump mocked President Biden in a podcast, saying he forced the nation’s armed forces to become “politically correct” with progressive and gender-inclusive policies."
+    publishedDateTime: 2021-04-15T21:49:00Z
+    webUrl: "https://nypost.com/2021/04/15/trump-mocks-biden-for-pc-military-theyre-laughing-at-us-like-never-before/"
+    ampWebUrl: "https://nypost.com/2021/04/15/trump-mocks-biden-for-pc-military-theyre-laughing-at-us-like-never-before/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/15/trump-mocks-biden-for-pc-military-theyre-laughing-at-us-like-never-before/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/joe-biden-donald-trump-0056.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "US walks back claim Russia put bounties on troops — but no Biden apology to Trump"
     excerpt: "The US government on Thursday downplayed a bombshell report that Russia may have placed bounties on US troops in Afghanistan — but White House press secretary Jen Psaki dodged questions about"
     publishedDateTime: 2021-04-15T19:17:00Z
