@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Kamala Harris weighs in on gun vs. taser debate in Daunte Wright shooting"
+    excerpt: "In an interview with theGrio, Kamala Harris called for \"full accountability\" in the Chauvin trial and said Wright \"should still be alive.\""
+    publishedDateTime: 2021-04-15T02:01:00Z
+    webUrl: "https://thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/"
+    ampWebUrl: "https://thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 66
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/03/280320211616957436-1-scaled.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Baltimore maker of yarn purchased by Vice President Kamala Harris has stitched together a success story"
     excerpt: "Karida Collins' Neighborhood Fiber Co., a Baltimore-based hand-dyed yarn company, has a famous customer in Kamala Harris and a history that has unrolled over 15 years."
     publishedDateTime: 2021-04-15T00:24:00Z

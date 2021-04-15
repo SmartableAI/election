@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Kamala Harris weighs in on gun vs. taser debate in Daunte Wright shooting"
+    excerpt: "In an interview with theGrio, Kamala Harris called for \"full accountability\" in the Chauvin trial and said Wright \"should still be alive.\""
+    publishedDateTime: 2021-04-15T02:01:00Z
+    webUrl: "https://thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/"
+    ampWebUrl: "https://thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 66
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/03/280320211616957436-1-scaled.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Kamala Harris receives 'Missing Children'-inspired milk carton roast for absence on border crisis"
     excerpt: "Vice President Kamala Harris’ absence from the crisis at the southern U.S. border with Mexico has landed her on a “Missing Children”-inspired milk carton."
     publishedDateTime: 2021-04-14T20:20:00Z
@@ -200,6 +216,6 @@ related:
         height: 682
         isCached: true
 
-secured: "Tie2+yQh1b78qaIINV+NXJSClkx2OawSCDfhvqmUIirYYhhJIclwK/KQJoXRpPWYWDoFvrLl3Bt+LMR6Ne1DEYGlCnZ1PILM83RZlilfPvuCJYskuMYSe4vp7qzyh94/Icxxw13Llsl07fyqwzuqsNwqdb5EEh5V28S//eBSO0+VlSDe6JKq+gzxYcKNpINxHIcVDgc68l0SeC5SYL+FU93Ou+Ph5yHsmbu8VSW+NKH32czu39rEUyrY3le5bmqD9GfBGmO/WYCvLPW3Wzruj97JLpaGoOxj+lLE3lQqho4lfvCVhIzqfTlGUzZM7vcVQgh/CLD7czEOYVTwSdVMN6JS6lixQBz4zHvUhc6w40g=;QAm7onjTYdaVOXfGdss4gA=="
+secured: "iGqG5NLDW+LpWIOUuaZ0YHWKtCA1oU88vi0716hcEdwRPLAzztbfuIwFTtolzeNxCfq4ajgD05KwEbN/A8hD5a4W3Wgz3fgg9BPo0xKLneZkuTIXKhbSIAmDB4on2V9PQXGLFOpnDp4LUcai5OUoPmLbC6lGBCrPMvGsZF+zQKmpRL9ngpEZ/YdV2Ca0P/fzWP0VMD8x5VA7DGAtU3YJDoCialobGEc/PdgruEJPqUo6Iosx1nHnNDc/au02FZAS4hrc6V9dS3mVJxU6lL6QS17Iz7sibTIv0QEyn7E5qODw7j62X0h9qF+4XHOOxNpeR2ditW/GMbbICpXzt6DiSW1wn+oSrC8+DMs80hJyIITXL4kcCvjC0yF/XBvoSf892LIShRJbjGAaVgqpkaE1RNIIYOA42rBv/NKHA41hjNai5EMmUW0fWTm6iEzhzdL56LG1hME/oE8+pHD9SgRlDin+Y44Ev4Y2GKDouVcVvSQDCXNBiDu7aWRoSg5cZ4OEZslV4cbuJSb3tYsSd36Oyg==;GnwjLCQ87E9bsO3Ul97nNg=="
 ---
 

@@ -207,6 +207,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "SD Gov. Noem says state won't take undocumented migrants Biden administration wants to relocate"
+    excerpt: "South Dakota Republican Gov. Kristi Noem made her position on the migrant crisis at the southern border clear Wednesday, telling the Biden administration she will not allow any undocumented migrants to be relocated to her state."
+    publishedDateTime: 2021-04-15T02:25:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_XxPS6lE9A/sd-gov-says-she-wont-take-any-undocumented-migrants-biden-administration-wants-to-relocate"
+    ampWebUrl: "https://www.foxnews.com/politics/sd-gov-says-she-wont-take-any-undocumented-migrants-biden-administration-wants-to-relocate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sd-gov-says-she-wont-take-any-undocumented-migrants-biden-administration-wants-to-relocate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2344bc88-67d0-4d70-bb83-909ce9c5f045/51df357b-3052-41cb-8900-f7624e1bcd93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
     excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."
     publishedDateTime: 2021-04-12T19:53:16Z
