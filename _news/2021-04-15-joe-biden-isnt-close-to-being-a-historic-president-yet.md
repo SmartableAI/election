@@ -105,6 +105,20 @@ related:
         width: 3000
         height: 2002
         isCached: true
+  - title: "Biden imposes tough new sanctions on Russia"
+    excerpt: "President Joe Biden has imposed new sanctions on Moscow over recent cyberattacks, aggression along the Ukrainian border and bounties placed on U.S. troops overseas. This comes as Secretary of State Antony Blinken makes a surprise visit to Afghanistan,"
+    publishedDateTime: 2021-04-15T14:48:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-imposes-tough-new-sanctions-on-russia/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/15/9a1f7c96-34f0-4e9e-8887-fd3727b4b6f6/thumbnail/1200x630/1160a8a8a2d30b9420856cd08d129baa/cbsn-fusion-biden-imposes-tough-new-sanctions-on-russia-thumbnail-693428-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gOrQINMkYxZRUwdplkk/vJxoPlr9Tw8LDcHo4eE0xueXxnlD0NcBerQnKz8kWCE36z/K4hnASt5fb31EgtUjXmcx1Zwp+IpEmlM4SY6gLjCu+zw2p/iNdj2IhG2dcpVcFfIuGYGRU/mRGpaMAsWu1XAXicp4SzuKUrSiwinMRQJQcUscb5SVywUxiykc17o09Q7gQJM8Qm/4qWAl8ybBMBrR4n18wrUXeQmS5h+CS+w0BJXu27rFrJU3///tEn1KjCjJghJhb9UmfLLvmC1+GRn5f6UXkN/BolXE9my/pbieCMiLg+MKLyRV1XlqLRgSH+l46C2zhU44RYs8StRxjgCcku9l6i/0y22Z+Xnr57w=;apWj4EIJCcuM+g98JioWTw=="
 ---

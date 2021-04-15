@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-158195
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952?amp=1"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1774167/lauren-boebert-gun-control-2nd-amendment-biden.jpg"
         width: 3000
         height: 2002
+        isCached: true
+  - title: "Biden imposes tough new sanctions on Russia"
+    excerpt: "President Joe Biden has imposed new sanctions on Moscow over recent cyberattacks, aggression along the Ukrainian border and bounties placed on U.S. troops overseas. This comes as Secretary of State Antony Blinken makes a surprise visit to Afghanistan,"
+    publishedDateTime: 2021-04-15T14:48:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-imposes-tough-new-sanctions-on-russia/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/15/9a1f7c96-34f0-4e9e-8887-fd3727b4b6f6/thumbnail/1200x630/1160a8a8a2d30b9420856cd08d129baa/cbsn-fusion-biden-imposes-tough-new-sanctions-on-russia-thumbnail-693428-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden Isn’t Close to Being a Historic President Yet"
     excerpt: "It’s not clear that the president even has a plan to pass the kind of legislation that would earn him comparisons to FDR."

@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration confirms Russian agent shared 2016 Trump polling data as part of election interference efforts"
+    excerpt: "The Biden administration on Thursday revealed new details about Russia's extensive interference in the 2016 and 2020 US elections, including disclosing for the first time that a Russian agent who received internal polling data from the Trump campaign in 2016 passed it along to Russia's intelligence services.\n"
+    publishedDateTime: 2021-04-15T15:23:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xnZ24B1pyEg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-russia-election-interference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/biden-russia-election-interference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200318190038-panorama-kremlin-ue-campana-covid-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's planned pick for ATF director a fierce advocate for gun control"
     excerpt: "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n"
     publishedDateTime: 2021-04-08T01:30:50Z
@@ -377,6 +393,20 @@ related:
       - url: "https://static.politico.com/94/35/d9b5668842989748d2d49dbd92dc/210409-nyc-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden tries to rally global leaders"
+    excerpt: "The Biden administration is pressing for new climate pledges from countries that will participate in his summit next week, but the effort seems to be falling flat. — Congress digs into a host of hearings on climate and infrastructure today,"
+    publishedDateTime: 2021-04-15T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/04/15/biden-tries-to-rally-global-leaders-794680"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
     excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."

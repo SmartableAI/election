@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration confirms Russian agent shared 2016 Trump polling data as part of election interference efforts"
+    excerpt: "The Biden administration on Thursday revealed new details about Russia's extensive interference in the 2016 and 2020 US elections, including disclosing for the first time that a Russian agent who received internal polling data from the Trump campaign in 2016 passed it along to Russia's intelligence services.\n"
+    publishedDateTime: 2021-04-15T15:23:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xnZ24B1pyEg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-russia-election-interference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/biden-russia-election-interference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200318190038-panorama-kremlin-ue-campana-covid-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's border coordinator stepping down at end of the month"
     excerpt: "President Joe Biden's border coordinator is stepping down at the end of the month, the White House announced Friday -- an unusual time given the administration is dealing with record numbers of unaccompanied migrant children at the US southern border.\n    \n"
     publishedDateTime: 2021-04-09T21:31:27Z
@@ -367,6 +383,20 @@ related:
     excerpt: "Even Donald Trump, the Triumph the Insult Comic Dog of electoral politics, has had troubles landing a punch. His latest nickname for the president — “Saintly Joe Biden” — was debuted to donors over the weekend. It was meant as derisive … we think."
     publishedDateTime: 2021-04-14T00:00:00Z
     webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/04/13/how-trump-prevents-a-new-tea-party-from-brewing-492461"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden tries to rally global leaders"
+    excerpt: "The Biden administration is pressing for new climate pledges from countries that will participate in his summit next week, but the effort seems to be falling flat. — Congress digs into a host of hearings on climate and infrastructure today,"
+    publishedDateTime: 2021-04-15T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/04/15/biden-tries-to-rally-global-leaders-794680"
     type: article
     provider:
       name: Politico

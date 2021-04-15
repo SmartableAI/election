@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's decision to withdraw from Afghanistan is personal for this lawmaker"
+    excerpt: "Rep. Jason Crow (D-CO) shares the personal reason Biden's decision to withdraw from Afghanistan has impacted him.\n    \n"
+    publishedDateTime: 2021-04-15T13:31:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XdwtpCxHpwA/jason-crow-biden-afghanistan-withdrawal-reaction-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/15/jason-crow-biden-afghanistan-withdrawal-reaction-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/15/jason-crow-biden-afghanistan-withdrawal-reaction-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415091427-jason-crow-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
     excerpt: "President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some strange bedfellows over what to do about America's longest"
     publishedDateTime: 2021-04-13T19:12:19Z

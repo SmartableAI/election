@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: Biden's executive order imposing new sanctions on Russia"
+    excerpt: "The Biden administration on Thursday imposed new sanctions on Russia and expelled diplomatic personnel in response to election interference and cyber hacks by the country.\n    \n"
+    publishedDateTime: 2021-04-15T14:30:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rOC4qcygpOQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/russia-sanctions-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/russia-sanctions-executive-order/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318215447-biden-putin-longobardi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
     excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
     publishedDateTime: 2021-02-23T18:22:05Z

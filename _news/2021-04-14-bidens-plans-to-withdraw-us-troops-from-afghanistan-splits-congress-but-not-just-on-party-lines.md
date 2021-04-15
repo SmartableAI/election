@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's decision to withdraw from Afghanistan is personal for this lawmaker"
+    excerpt: "Rep. Jason Crow (D-CO) shares the personal reason Biden's decision to withdraw from Afghanistan has impacted him.\n    \n"
+    publishedDateTime: 2021-04-15T13:31:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XdwtpCxHpwA/jason-crow-biden-afghanistan-withdrawal-reaction-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/15/jason-crow-biden-afghanistan-withdrawal-reaction-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/15/jason-crow-biden-afghanistan-withdrawal-reaction-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415091427-jason-crow-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
     excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
     publishedDateTime: 2021-04-15T02:37:32Z
