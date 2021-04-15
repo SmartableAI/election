@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Rep. Ilhan Omar slams Biden's 'shameful' plan to restart construction on Trump's 'xenophobic and racist' wall"
-excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Rep. Ilhan Omar has criticized President Joe Biden for continuing the construction of Donald Trump's \"xenophobic and racist\" southern border wall. \"It's shameful and unacceptable for @POTUS to continue the ..."
-publishedDateTime: 2021-04-08T11:00:00Z
-originalUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4"
-webUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4"
-ampWebUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
+title: "Analysis: Biden takes a risk pulling troops from Afghanistan"
+excerpt: "At its start, America’s war in Afghanistan was about retribution for 9/11. Then it was about shoring up a weak government and its weak army so that Osama bin Laden's al-Qaida could never again threaten the United States."
+publishedDateTime: 2021-04-15T04:10:00Z
+originalUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4"
+webUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4"
+ampWebUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
 type: article
-quality: 121
+quality: 105
 heat: -1
 published: false
 
@@ -22,13 +22,7 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
-
-images:
-  - url: "https://i.insider.com/606ee08430004b0019b2694b?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
+  - Joe Biden
 
 related:
   - title: "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules"
@@ -287,6 +281,22 @@ related:
         width: 594
         height: 395
         isCached: true
+  - title: "Rep. Ilhan Omar slams Biden's 'shameful' plan to restart construction on Trump's 'xenophobic and racist' wall"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Rep. Ilhan Omar has criticized President Joe Biden for continuing the construction of Donald Trump's \"xenophobic and racist\" southern border wall. \"It's shameful and unacceptable for @POTUS to continue the ..."
+    publishedDateTime: 2021-04-08T11:00:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/606ee08430004b0019b2694b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
     excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
     publishedDateTime: 2021-04-02T10:12:00Z
@@ -319,17 +329,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Analysis: Biden takes a risk pulling troops from Afghanistan"
-    excerpt: "At its start, America’s war in Afghanistan was about retribution for 9/11. Then it was about shoring up a weak government and its weak army so that Osama bin Laden's al-Qaida could never again threaten the United States."
-    publishedDateTime: 2021-04-15T04:10:00Z
-    webUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "U.S. willing to lift sanctions imposed on Iran by Trump that are ‘inconsistent’ with 2015 nuclear deal, senior Biden administration official says"
     excerpt: "The official described the negotiations as \"complicated,\" and said the initial round had centered on the specifics of what each side is prepared to do to return to compliance with the agreement, from which President Donald Trump withdrew three years ago."
     publishedDateTime: 2021-04-09T23:31:00Z
@@ -391,6 +390,6 @@ related:
         height: 433
         isCached: true
 
-secured: "sCZKWJXSYKBbSUzZXpPdvYOEcVIB5UHeJi+yKhBqtOeaj2aExTz45YtnsQ+O6o/HJLejwn0AQO0Z5Z2JnXYoUATl9i04rtJ+XjxWFwNo0kF3a9IuOBRMixMZyfHC2BpOInCOETc12kBLXvqt7rp32IfavzvNY2hrBNiwDKZmmPtrnesqhSIL2p/lTs66w6Nb5VVhepsxZfHQmpbiHmpRiRY4yOXJra3l6FfTqT90AqOdTQ37ORkIU0HXt050stw3GwI9UnDZg1uGf7vf9poyV0u4Ozlgs+tKp1E6ssA1dYCBv+vHpM0fkecmsLw0NrlEjHzYTML79k5KFPfjXcdsWHhEhNE438B9KurKesVRlVDcClZlj6ZuBKit7Bv7nBJXsDWNYXkmaNWRD1FW4A1jGsojV62pilNsqc+8hL9pfEkaI05AY5KdmzxxxjVvam6/FIHvXg+frzdy8mL0kuBOeZzW1pjDoXfSNwCub+NTGop4PQsWVK4PpxYOH94lKgDSNYib/ascqRmN9DeeLKVPnw==;uvX8mZa5KU0lund6XbQujw=="
+secured: "QNQK10uWqlF1kT2AF7J0zt9bL36YFEerxpFznuI4XoPw/v5esY4yCU0wMnET7w4ukwKKkhdQYksV2A35OwGOPd66M+U3TEY6i6dKqCmV5csdKgN+y/ob6qeOrlKO165oX76nOwQttP/kHe+9DOyKayElUUAZZN/exO0nSL8J5/Zpa6GCEIrjdqZ9Fm0LoLexNQgJh3kFX4fgkrCW4IraczXih+Je6VIfLMqOhaP0dCryJot6+a/NtFfZ9+iKP7jYxp32S/+AhFTUs0fJ0L9Rmv0PQTQayDsEueUgrf842fdHbsLFwCgSG8bKAOQoGxcEef2phyzZLYRswiqPKh/rg1w6uSoDKQVnvGatbOVU5C0=;wE58YT7KhhD/CuNlJq4xAQ=="
 ---
 

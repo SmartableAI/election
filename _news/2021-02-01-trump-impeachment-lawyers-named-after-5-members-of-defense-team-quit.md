@@ -1493,6 +1493,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden begins to undo Trump-era ban on abortion referrals"
+    excerpt: "The Biden administration on Wednesday began to undo a Trump-era ban on clinics referring women for abortions, a policy that drove Planned Parenthood from the federal family planning program and created new complications for women trying to get birth control."
+    publishedDateTime: 2021-04-14T19:29:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Publix Supermarkets Under Fire After Heiress Reportedly Donates $300,000 To Trump Rally"
     excerpt: "The Publix supermarket chain is facing backlash after a bombshell report revealed the chain's heiress donated money to the infamous Trump rally that preceded the Capitol riots."
     publishedDateTime: 2021-01-30T17:38:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2160
+heat: 2180
 published: true
 
 provider:
@@ -1476,6 +1476,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/09/b1156740-0165-41df-9855-9ba84c034b2f/thumbnail/1200x630/78bf9eb7037e5161786da0c1a6b314ee/cbsn-fusion-capitol-security-ramps-up-during-former-president-trumps-second-impeachment-trial-thumbnail-642779-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden begins to undo Trump-era ban on abortion referrals"
+    excerpt: "The Biden administration on Wednesday began to undo a Trump-era ban on clinics referring women for abortions, a policy that drove Planned Parenthood from the federal family planning program and created new complications for women trying to get birth control."
+    publishedDateTime: 2021-04-14T19:29:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
     excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."

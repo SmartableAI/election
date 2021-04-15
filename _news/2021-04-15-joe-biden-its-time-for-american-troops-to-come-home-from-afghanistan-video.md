@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Biden salutes war dead after Afghanistan decision"
-excerpt: "President Joe Biden salutes the graves of U.S. troops who died in recent conflicts, buried at Arlington National Cemetery on Wednesday. The visit came, after Biden pledges to withdraw remaining U.S. troops from the “forever war” in Afghanistan."
-publishedDateTime: 2021-04-14T21:09:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-salutes-war-dead-after-afghanistan-decision/7227953002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-salutes-war-dead-after-afghanistan-decision/7227953002/"
+title: "Joe Biden: 'It's time for American troops to come home from Afghanistan' – video"
+excerpt: "The US president has declared that it is time ‘to end America’s longest war’, announcing that nearly 10,000 US and Nato troops would return home in the run-up to the 20th anniversary of 9/11. Joe Biden is the fourth US president to preside over the US-led fight against the Taliban."
+publishedDateTime: 2021-04-14T19:19:00Z
+originalUrl: "https://www.theguardian.com/us-news/video/2021/apr/14/joe-biden-its-time-for-american-troops-to-come-home-from-afghanistan-video"
+webUrl: "https://www.theguardian.com/us-news/video/2021/apr/14/joe-biden-its-time-for-american-troops-to-come-home-from-afghanistan-video"
 type: article
-quality: 105
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/93dd08f0-7e68-4947-9f9a-1e641f55ab55_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://i.guim.co.uk/img/media/fc6f8e92a2e22ef62d608e9438b40f465323f896/391_116_2640_1585/master/2640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=389c7c03ec0ce5faaa9ef7c16e825ed5"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -235,19 +235,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden: 'It's time for American troops to come home from Afghanistan' – video"
-    excerpt: "The US president has declared that it is time ‘to end America’s longest war’, announcing that nearly 10,000 US and Nato troops would return home in the run-up to the 20th anniversary of 9/11. Joe Biden is the fourth US president to preside over the US-led fight against the Taliban."
-    publishedDateTime: 2021-04-14T19:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/14/joe-biden-its-time-for-american-troops-to-come-home-from-afghanistan-video"
+  - title: "Biden salutes war dead after Afghanistan decision"
+    excerpt: "President Joe Biden salutes the graves of U.S. troops who died in recent conflicts, buried at Arlington National Cemetery on Wednesday. The visit came, after Biden pledges to withdraw remaining U.S. troops from the “forever war” in Afghanistan."
+    publishedDateTime: 2021-04-14T21:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-salutes-war-dead-after-afghanistan-decision/7227953002/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 100
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/fc6f8e92a2e22ef62d608e9438b40f465323f896/391_116_2640_1585/master/2640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=389c7c03ec0ce5faaa9ef7c16e825ed5"
-        width: 1200
-        height: 630
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/93dd08f0-7e68-4947-9f9a-1e641f55ab55_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden not ruling out chance US stays longer in Afghanistan"
     excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
@@ -296,6 +296,6 @@ related:
         height: 427
         isCached: true
 
-secured: "T4YN0QxmlAHcsXf7+3INNW11PJlRIn6tn/MeHA9uWhRf2GXlGxh5sZ9HWuloc6uI0rvXDQlc50BWxxH5IYVvjVIsQpTtsuH+ZZeM+TKrHU1qCFv/Gggx2wuAldsdi/La7pfImuAhik7wU7zRgwP8zvTL9JFL8MEB0ERVDB4wzZm70ruvshp2L+Kw6zDbpBAjMY9Oaqay2OmCwPnpfWs1hbb/cgoidQnm8Xn2vfuuNYk1XOyP5i1qnw80x+RU/cj/BkZzSrhecqiEo8GfeYJtlBhVcSaq8Dj08SU856CxDvWVayAA/qCnjhYiCxWPRM/VFuxZrkAE06u5PttLfnCHwV3P533RRFQNXm1KO6iGpSdg96n3XhnIwGm1KU0Ai+k6uSx5ryn09oxxrgDzO6uw2hGZitLp3NNT9EQyACgLEEsnOAHnHUWfLSPwH+5bVY4LCvmdtiZuHHFuPQjfg0ChLBN0tgllqQs9lbcfWElBnJMihuXe/iklgRFvnGT0GNV8/743vNvw0KKlLYCRrLbbZw==;iDaVW49ul2rg5s3i62cLiw=="
+secured: "zkzhFFLPALjtV2SExAwivfhdKFolukDu7lj7NGzjNHRm0rdJVN5krxZ1AFxAw0DMJfK2ydAeqpoLnlJ6vQR6iCv9Dr0HhO6rRbDQwPEPQ8CjAs0oZ0heAYYZq2R8f1hEfHnRYTft5M0GqjJcvzBeoNiGz1Q0nip929HQMLHs/c5WKKsYU85Sq+dC1U56VmXno732uzbEd8R1sMreInpUIjcdKXeo+UIabVNGED28ffb9aYZeuGUXgynBD/HtgkMfRS+PDEyq5uMLcR4nuqwITwO4DjDID6HfwogvdpVuxtKepZwRyaZBzJroX+0I8Ro1gbDH8VOhfxiX6r+SYdyoIToQCc0FFM68w60aGbi2JJI=;3Gp5X4+h4UNpP2LxZr1hYA=="
 ---
 

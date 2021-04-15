@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Trump rejects Dems' request to testify at impeachment trial"
-excerpt: "Former President Donald Trump is rejecting a request by House Democrats to testify under oath for his Senate impeachment trial"
-publishedDateTime: 2021-02-05T10:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+title: "Biden begins to undo Trump-era ban on abortion referrals"
+excerpt: "The Biden administration on Wednesday began to undo a Trump-era ban on clinics referring women for abortions, a policy that drove Planned Parenthood from the federal family planning program and created new complications for women trying to get birth control."
+publishedDateTime: 2021-04-14T19:29:00Z
+originalUrl: "https://www.chron.com/news/article/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+webUrl: "https://www.chron.com/news/article/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+ampWebUrl: "https://www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
 type: article
-quality: 125
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -398,6 +394,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_biden_123120getty_1.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Trump rejects Dems' request to testify at impeachment trial"
+    excerpt: "Former President Donald Trump is rejecting a request by House Democrats to testify under oath for his Senate impeachment trial"
+    publishedDateTime: 2021-02-05T10:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-rejects-dems-request-testify-impeachment-trial-75700760"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4bcb100f12b94da7aa82370a80b6db6f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "U.S. Senate committee backs Biden nominee to be U.N. ambassador"
     excerpt: "The U.S. Senate Foreign Relations Committee on Thursday backed President Joe Biden's nomination of veteran diplomat Linda Thomas-Greenfield to be the U.S. ambassador to the United Nations, steering her toward confirmation by the full Senate."
@@ -1477,22 +1489,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden begins to undo Trump-era ban on abortion referrals"
-    excerpt: "The Biden administration on Wednesday began to undo a Trump-era ban on clinics referring women for abortions, a policy that drove Planned Parenthood from the federal family planning program and created new complications for women trying to get birth control."
-    publishedDateTime: 2021-04-14T19:29:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Trump Impeachment Lawyers Named After 5 Members Of Defense Team Quit"
     excerpt: "Five of Trump's impeachment lawyers had left his legal team after he refused to steer away from using mass election fraud as his defense strategy."
     publishedDateTime: 2021-02-01T02:36:00Z
@@ -1586,6 +1582,6 @@ related:
         height: 433
         isCached: true
 
-secured: "lOrYisj8pnJ2fGdhc7Fj4iDFGZD1v3QCJpEMoREYFy0mX0AFT6zu9Tjh7tmd8yuBNwRYfEN0hph4DmqdLcDYrySYeS9kQ/bL+xvKsFEZXyRkwX+8iW1VSOn/TNwbzuERR3kqwzDct/Gq6kl++ILUuzRiQDLXJK/z2EDRAc+2ZVoLfXGGE0PwmnTYqXxtodMP2mjb22pr+G1aBTcDfohSMyZi50dxiS4Pdm99SrFC6HYxfI58hT1j3uMEBWSYJK2+O6rHGiqdmFh21VRUpVtQDbipm5+7+gNMHlo1P7T/Lplwx4vbMjvzVJkNvo/V1HnvoSm0yiT+ZkPz61AtdE325ZM5D6Zso8ex+BL36IDfze6YNTmW9tE+1S5d33lMKgH13akEYJoLnyZhsVNd7iQOwVBfYK7titREb57mXt6tBPreqqRMAhNs+aqjAhO/bOBHPD612ryDujywLr+WQnz69CeMPILZ2WCgC1LDVXKbsBLWWcVzap7RJyE/MJl+psVy+o/o5VAqqzopDYJVGY/+GA==;/SCZCIHkvh71HhPZwb0+GA=="
+secured: "2aDzbWBNLUXYEBci/GV1cMNvatejXbqapECyuKAwkzDEVwSXKOP2+uaEKgSr3s/3bd1iC+DvDdabs0v2/tRt30JYRIprHdOnqbB5uDjsWQVsGyEoQHeIDCFP/xdlURIeVVGaBaFEVu/iLCTCOfJhk3yR9Un8LQR4Ig7RoMndy3usJF2CiSpcyURx6HVlodzP7PX+EFuy+xZMKRfnWAqDVZ8+VOUdITtuim0J2iRNP+uMZ3srGxxSZhdLdCKeSOHU5Cr5lZUnHlw1zVvodt9C4p/A9mSatTlgP4NXsm+5VSnuxA18FzXSSvI0CdrHc4HLTHz3A/o19mwjcsxXV/kKOtFoJ5NKl5IuPsjdzYEOpk0=;WiHietYa5TPWvdhmnRuIKA=="
 ---
 

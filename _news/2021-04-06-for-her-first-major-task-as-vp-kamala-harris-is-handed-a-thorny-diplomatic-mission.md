@@ -660,16 +660,16 @@ related:
         height: 1365
         isCached: true
   - title: "Vice President Kamala Harris Holds Roundtable on Black Maternal Health"
-    excerpt: "Erica McAfee, Founder and CEO of Sisters in Loss, speaks during a roundtable discussion on Black maternal health hosted by Vice President Kamala Harris and White House Domestic Policy Advisor Susan Rice in the South Court Auditorium in Washington,"
+    excerpt: "Vice President Kamala Harris delivers remarks on Black maternal health during a roundtable discussion in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Vice President Harris is joined by White House Domestic Policy Advisor Susan Rice and maternal health advocates."
     publishedDateTime: 2021-04-13T18:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9bed628083626554843cd5dbe17a1e24/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/64bfe18950701ca935307868bce3165f/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9bed628083626554843cd5dbe17a1e24/HARRIS-BLACK-HEALTH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/64bfe18950701ca935307868bce3165f/HARRIS-BLACK-HEALTH.jpg"
         width: 650
         height: 433
         isCached: true
