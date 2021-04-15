@@ -2,6 +2,174 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-09-mike-lee-senate-impeachment-trial-will-end-in-trumps-acquittal.md",
+      "title": "Mike Lee: Senate impeachment trial will end in Trump's acquittal",
+      "excerpt": "Sen. Mike Lee, R-Utah, speculated that while former President Donald Trump will undergo a \"lengthy\" impeachment trial in the Senate, he will ultimately be acquitted of inciting an insurrection against the government.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXg0IDKM2vw/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXg0IDKM2vw/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 2135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f588e6a6-8583-41e4-bca4-a5e461109c67/32606c3b-9f9d-4572-b4d1-7c156dfad540/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp",
+      "publishedDateTime": "2021-02-09T09:25:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-biden-omb-pick-tanden-called-out-during-confirmation-hearing-for-anti-gop-tweets-says-im-sorry.md",
+      "title": "Biden OMB pick Tanden called out during confirmation hearing for anti-GOP tweets, says 'I'm sorry'",
+      "excerpt": "Minutes into her confirmation hearing, President Biden's nominee for director of the White House Office of Management and Budget Neera Tanden had to address concerns over hostile tweets she has posted against various Republican lawmakers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo_05fBHJPI/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Neera-Tanden-Biden-OMB-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
+      "publishedDateTime": "2021-02-09T08:33:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-gingrich-senators-who-vote-to-convict-trump-take-part-in-profound-attack-on-the-american-system.md",
+      "title": "Gingrich: Senators who vote to convict Trump take part in 'profound attack on the American system'",
+      "excerpt": "Lawmakers who vote to convict former President Donald Trump of incitement of insurrection and bar him from holding office again would be engaged in a \"profound attack on the American system,\" former House Speaker Newt Gingrich told \"Hannity\" Monday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nWYcLn8hW7s/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nWYcLn8hW7s/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1df69c8-949a-4ca1-818e-e46caea0d7a0/c71de4c2-118c-44a0-9cac-465393f03e74/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system.amp",
+      "publishedDateTime": "2021-02-08T21:08:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-texas-sheriff-claims-biden-defunding-ice-by-memo-we-have-a-full-nullification-of-the-law-going-on-here.md",
       "title": "Texas sheriff claims Biden 'defunding ICE by memo': 'We have a full nullification of the law going on here'",
       "excerpt": "Reports that illegal aliens are being released from custody into the United States without being tested for COVID-19 are \"absolutely true,\" Jackson County, Texas Sheriff A.J. Louderback told \"Tucker Carlson Tonight\" Monday.",
@@ -1494,174 +1662,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
       "publishedDateTime": "2021-02-03T13:44:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-iranian-resistance-leader-says-regime-at-its-weakest-point-urges-biden-to-hold-it-to-account.md",
-      "title": "Iranian resistance leader says regime 'at its weakest point,' urges Biden to hold it to account",
-      "excerpt": "EXCLUSIVE: The leader of the main Iranian resistance group tells Fox News that the regime in Tehran is at its \"weakest point\" in its history, and is calling on the Biden administration to hold the regime accountable for its human rights violations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c52d3d03-5b47-4b7b-a81a-36d41b8f487f/29abb516-f723-4a67-a993-03437bed65cf/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
-      "publishedDateTime": "2021-02-03T11:12:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-biden-says-no-one-in-our-family-will-be-involved-in-government-decisions.md",
-      "title": "Biden says ‘no one in our family’ will be involved in government decisions",
-      "excerpt": "President Biden said he intends to keep his family and his administration separate as reports surrounding the business dealings of his son and brother raised questions of potential impropriety.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314f29b6-b9c9-4c05-b3d2-ae7a2ac645a0/68c889cf-b668-4b8c-a9f0-a272442f7d6f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
-      "publishedDateTime": "2021-02-03T06:07:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-sen-kennedy-blasts-immeasurably-foolish-biden-orders-that-will-gut-louisiana-like-a-fish.md",
-      "title": "Sen. Kennedy blasts 'immeasurably foolish' Biden orders that will 'gut Louisiana like a fish'",
-      "excerpt": "Sen. John Kennedy, R-La., warned Tuesday that President Biden's sweeping executive orders related to the industrial energy sector and immigration will be detrimental to both the nation and, in the former case, his home state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad91f5b6-ed4f-41ac-b105-9fd686d6b5e1/e06686e2-9266-4384-8b53-bd22c3418899/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
-      "publishedDateTime": "2021-02-02T17:16:25-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-called-bush-obama-afghanistan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-called-bush-obama-afghanistan-troop-withdrawal.amp"
 type: article
 quality: 173
-heat: 373
+heat: 353
 published: true
 
 provider:
@@ -175,15 +175,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden Making a Major Mistake on Afghanistan"
-    excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
-    publishedDateTime: 2021-04-14T11:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "sJ/hElXc1VtaOKZmHA5OYO46aFKDWx1tcecEd4bGOOIeGxXrSO7Mlhpi/z+PC6owIsU1eyn4E1blY9sGoVNvgz88Xx+lhkRAoGBaMRVEf2G11JexXgozsXlLnYcq+ZShbX+oLwg5h6ZmNEDI94aUjTiJPnOV6d5jwqg+zXz8eG95D5lT6882ZkeJUdC9uIfFgYKni28e6RscmRRulCY8MikeGh4xDsFZq204X8PkvU/SOGPF/W3kk5sGOByDQqhon07tr8DIb2bNCLl1OM7T1medhQKPNbdGddoB3IMLNetqfPGDXSj8gNlPxQEBDj7bXf6ZWFafkBJDAHjRc18zchzJgZxFLErnK8A/gtLIXPE=;1i/HHcBiQJV6FMggWgsa9Q=="
 ---

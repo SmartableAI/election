@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/morita.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden administration will not require COVID-19 vaccine passports, White House says"
+    excerpt: "The White House said Tuesday that the Biden administration will not support a system requiring Americans to carry so-called COVID-19 \"vaccine passports,\" press secretary Jen Psaki said Tuesday."
+    publishedDateTime: 2021-04-06T17:55:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aFpQXXMIGqg/biden-admin-covid-vaccine-passports-not-required"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

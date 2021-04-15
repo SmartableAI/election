@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-budget-request-discretionary-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-budget-request-discretionary-funding/"
 type: article
 quality: 113
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,22 +31,61 @@ images:
     isCached: true
 
 related:
-  - title: "National Reaction: President Joe Biden, Robert Griffin III, others congratulate Baylor on its first national championship"
-    excerpt: "Find more Baylor coverage from The Dallas Morning News here."
-    publishedDateTime: 2021-04-06T04:54:00Z
-    webUrl: "https://www.dallasnews.com/sports/baylor-bears/2021/04/06/national-reaction-president-joe-biden-robert-griffin-iii-others-congratulate-baylor-on-its-first-national-championship/"
-    ampWebUrl: "https://www.dallasnews.com/sports/baylor-bears/2021/04/06/national-reaction-president-joe-biden-robert-griffin-iii-others-congratulate-baylor-on-its-first-national-championship/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/sports/baylor-bears/2021/04/06/national-reaction-president-joe-biden-robert-griffin-iii-others-congratulate-baylor-on-its-first-national-championship/?outputType=amp"
+  - title: "Biden civil rights nominee fends off Republican attacks at hearing"
+    excerpt: "Kristen Clarke, President Joe Biden's nominee to lead the Justice Department's civil rights division, fended off attacks from Republicans during her confirmation hearing on Wednesday, saying she does not support defunding the police while promising to find common"
+    publishedDateTime: 2021-04-15T14:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2C118D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C118D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C118D"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 50
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/y7RD0fC7kTOLTBYj56ugRBLXv4U=/1200x630/filters:focal(2230x1854:2240x1844):no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/NF23SSXXVTSE4KW7ESAYBHIIFQ.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KH"
+        width: 825
+        height: 545
         isCached: true
+  - title: "Biden budget provides funding for DOJ to address 'national reckoning on racial inequality'"
+    excerpt: "President Biden’s first budget includes significant investments in policing reforms and civil rights, calling on the Department of Justice (DOJ) to spearhead efforts to address systemic racism along w"
+    publishedDateTime: 2021-04-09T16:07:00Z
+    webUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter"
+    ampWebUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 115
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_garlandemotionalhearing_022221getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
+    excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
+    publishedDateTime: 2021-04-10T15:01:00Z
+    webUrl: "https://www.businessinsider.com/amtrak-joe-brief-history-of-bidens-history-americas-railroad-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60648df3daf0f10018f99339?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden's pick for top U.S. civil rights lawyer, Kristen Clarke, faces fraught task"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden’s nominee to lead the Justice Department’s Civil Rights Division, Kristen Clarke, is poised to take on the role at a fraught time in American history. Clarke will face a Senate hearing this week as hate crimes ..."
+    publishedDateTime: 2021-04-13T09:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-clarke/bidens-pick-for-top-u-s-civil-rights-lawyer-kristen-clarke-faces-fraught-task-idUSKBN2C0141?edition-redirect=in"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 80
 
 secured: "2UjO4jtL9b9N3ZBClBVP5nIJfglEvQQcUBq5+HqcT9Qmn0Ro3T734sOuzvisZAgq4FxkOubGQzCZUzDSXEgT5OdBqB4mtgnHqBiuJuLN7eVvppxTVV8XJ/7VW3YFI8tHI0uO6XJ3WDIzMC+jZKJtFfvvQ7lkjuIWCSVCmdmkf1TvL++CO4aWwPmtzNdDf4WwkkRaePteddxls+7Ko0AAZiUDtI3t2xIaP35kg2XwfQwTuZdUmRwSsX1PTrV/CDS6PmSBZiBDLPG3HNzJ1sXIkjJ9fcaqXBuqOFuIdBw7cdcTKWcsXMyNibgL79AGFuzZdYy3BHg7SBFUg97+/xlYfYQ1Mn3yd6DfaiijIp/LoQI=;oNF1VsABApS50y2PL9A+nQ=="
 ---

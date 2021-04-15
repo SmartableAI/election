@@ -197,6 +197,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 90
+  - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
+    excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
+    publishedDateTime: 2021-04-15T17:46:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Joe-Biden-2.jpg?fit=1200%2C675&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "I16t9Ul6WU1ShV+trbHsF1H0XVIzStTzbsUEo2Ui759Brqb7BjrdnioHi/ds7oGzAKuponS2zAZ+Qd2YCv3WAGv8+TQ+JIlD2eBbhiw8TFOGhYMk6dLFIsM6XUAtYIedV7jxnVOH4/IVqvQ1ZeM/lv15GulCcdqz0L2uGaSixQHjMSBiGHmRqqVdoa16JZfcx9GazxNaseADwepfGLXQKcRb5aIoRrN5eaYLOaAHmKNxmnmCqGVdD87GnF4qZ4bcuiklR4OmyBE1joWC7gxVNx+m5DUUsaAgA3yb0Qmyvf+QW+q8YLfO2U6yViTqIx6MK5NHFgHlrdMLfcy0pdnChPX4PDbIbSrza6Rh5Lvf7CY=;fhOq3zD5ey+kkeoG4Ypw2Q=="
 ---

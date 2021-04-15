@@ -110,6 +110,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Former Trump aide Stephen Miller launches group targeting Biden’s policies"
+    excerpt: "Former President Donald Trump’s senior aide Stephen Miller has launched a new organization that aims to challenge the Biden administration’s policies in courts."
+    publishedDateTime: 2021-04-07T13:06:00Z
+    webUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/"
+    ampWebUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/stephen-miller-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump takes shot at Hunter Biden, says kids must stay from drugs, booze, cigs"
     excerpt: "Father Trump knows best. Former President Donald Trump took a thinly veiled shot at his White House successor, saying the key to good parenting is keeping kids away from drugs, cigarettes and"
     publishedDateTime: 2021-04-02T16:51:00Z
@@ -141,6 +157,36 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump says he doubts Biden ‘making the decisions,’ calls border wall chatter ‘positive step’: report"
+    excerpt: "Former President Trump expressed doubts Tuesday that his successor was \"making most of the decisions\" in the White House, noting from experience that being president is \"a lot of work.\" Trump also reacted positively to reports that the Biden administration ..."
+    publishedDateTime: 2021-04-07T07:49:00Z
+    webUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report"
+    ampWebUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "All-Star rumble, with Biden and Trump, shows corporate America breaking with GOP"
+    excerpt: "Business support for taking the All-Star Game out of Atlanta because of the Georgia voting law is emblematic of Corporate America's break from the GOP"
+    publishedDateTime: 2021-04-06T07:12:00Z
+    webUrl: "https://www.foxnews.com/media/all-star-rumble-with-biden-and-trump-shows-corporate-america-breaking-with-gop"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden-green-thumb.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "As Biden Stands Down at the Border, America Suffers"
     excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."

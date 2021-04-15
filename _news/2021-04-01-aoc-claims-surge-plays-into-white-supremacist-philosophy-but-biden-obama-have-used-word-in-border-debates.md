@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP lawmaker wants answers on massive border contract that went to nonprofit with ties to ex-Biden adviser"
+    excerpt: "Republican Rep. Jim Banks is demanding answers from the head of the Administration for Children and Families after revelations that a nearly $530 million contract was awarded to a Texas nonprofit to help manage the influx of migrant children at the U.S. southern border — after the organization hired"
+    publishedDateTime: 2021-04-14T18:15:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XG07RMxTBrA/gop-lawmaker-massive-border-contract-nonprofit-biden-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmaker-massive-border-contract-nonprofit-biden-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmaker-massive-border-contract-nonprofit-biden-adviser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "VgCuXbQmKi8gGi6O1LHWwInvjczMb5PQOTovQsHZvPQG02R14hOmrrtQ6U6uiMTZfhG9thIaoWaBpKt0/VehM0dptWo22WB0j9xLj9pAzfv237d1aEBHJy1GlUK8FqBHHyuduFXG05k8uzo5Usw1Hlbn9faSZwl+r/oDdHt8PE428LqT/m5mpZ3EwyOTY1dl6h7/OywfpflWLGLehnSEr2WsmgBWNstROU6N2MauXuSJXFr4ntqB5DWnpJ+4w/rj9a3eGdPvfNZ6jPRzq5SZmWY7OgzVAFPjDXtUL08DGWrzMd6pDqcY9KMCoQvnzoNw+wJLHxSckoj/ZU5M12hASQRCblsknnFmqCBpI4BDFwY=;W3YNijevgnriP3M6KM6dzQ=="
 ---

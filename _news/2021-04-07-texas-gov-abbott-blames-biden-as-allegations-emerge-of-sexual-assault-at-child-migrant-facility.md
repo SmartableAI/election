@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Texas, Missouri sue Biden administration over scrapping of 'Remain-in-Mexico' policy"
+    excerpt: "Texas and Missouri on Tuesday sued the Biden administration for its scrapping of the Migrant Protection Protocols (MPP) – demanding the program, which kept migrants in Mexico while their immigration hearings played out, be restored."
+    publishedDateTime: 2021-04-13T17:08:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywynGyngX-A/texas-missouri-sue-biden-administration-remain-in-mexico-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1eb67794-4d8f-4d9f-a776-7df7951f5ad9/12a23b16-a8f4-4a44-840c-9252568a16b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas, Louisiana sue Biden administration for ‘refusing’ to take criminal illegal immigrants"
     excerpt: "Texas and Louisiana are suing the Department of Homeland Security for its alleged refusal to take criminal illegal immigrants into custody, after rules that narrowed enforcement priorities."
     publishedDateTime: 2021-04-06T21:51:21Z

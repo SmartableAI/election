@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-russia-threat-national-emerge
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
 type: article
 quality: 171
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
+    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
+    publishedDateTime: 2021-04-12T23:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "8WzBijeV4snkaWGJ4a84XyJEP13TMJj+ZP7W9D7sXyYYzYQyN/Br6xuSF8K81Yl8gCAs1KVy66mFTE9X9mLmN0vjbmoywJiFrEmKoh/Dyhd7ongMPqnkQ9KTVyeKWInEdsdwyiDOnLf2Tcak4PsnFCUBT+qC64VlB5dK7mzaOS2rXQO/QTMihtNLFgCxUa3t8Op846TMNtKLlg9cCU7UDRBvUzLayJiNnbIkIJ9DBC64zicttEYxeZd0PZ69ZwiU3srs53CRAnn9eHxFdccwZiAjnqh/1xfCY922nDilEWS3j/XlmNoySxg44kXe+YnNdOLhBANGnKmfTxnjfAuoetV9sa4FRg2Adi4URZI3xyY=;WkB3yWSUafbfQP5zOhXxow=="

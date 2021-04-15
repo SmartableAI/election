@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration will not require COVID-19 vaccine passports, White House says"
+    excerpt: "The White House said Tuesday that the Biden administration will not support a system requiring Americans to carry so-called COVID-19 \"vaccine passports,\" press secretary Jen Psaki said Tuesday."
+    publishedDateTime: 2021-04-06T17:55:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aFpQXXMIGqg/biden-admin-covid-vaccine-passports-not-required"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Pi6LAFjZSXxJl5vGLqbzrkNoegwkO6+5lbAXuvSdmLhLjXBmdx6T1Uba2ddYPIqPoigYyLNr1Nu3Cp/A2MIDR9BqF8yQQ/QrrgTsqqYX9ByWwy/ECCXTP/lym6te+50ni8j9LzHvwjVlOoAYDXxAHf/WrMyL8A4fc/Xc7PK6kM26RSZpGLMQ2zlVVqnbRSX+ZMBfpxFichlAWExIdDUkteiK2VgxfFXJu+DvxHahb3DvOeJDS7QrM8UN2uLJvAQ4p5AibbZHgMiz4v7egedmN4T/glWzWCwOsGwevukMwmU3CJem7jJ6uI61CpCvqcMdD4w3WHK3BBpwnqo9ymTgPsR6q+7biCsbTFhD4tPGXlI=;S57w53uIhLiZaIBY/9Iy1A=="
 ---

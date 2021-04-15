@@ -396,6 +396,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden Pushes Gun Control, But Legislation Is Unlikely"
+    excerpt: "(In certain states, even the private sale of legal firearms also requires a background check.) “Joe Biden is either lying, never bought a gun at a gun show, or both,” Donald Trump’s former chief of staff, Mark Meadows, tweeted. And others were quick ..."
+    publishedDateTime: 2021-04-09T10:47:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Biden's Weakness On World Stage Is Dangerous"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-03-30T18:59:00Z

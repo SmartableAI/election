@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp"
 type: article
 quality: 175
-heat: 315
+heat: 355
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
+    excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."
+    publishedDateTime: 2021-04-12T19:53:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ZF22LaBpVI/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chris-Magnus.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Republicans to offer $650 billion infrastructure proposal as counter to Biden $2.2 trillion spending plan"
     excerpt: "Republicans plan to offer an infrastructure bill of their own that would spend about $650 billion, a GOP source tells Fox News, as the Biden administration and congressional Democrats continue to push President Biden's $2 trillion-plus spending plan. "
     publishedDateTime: 2021-04-14T18:58:47Z
@@ -141,6 +157,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
+    excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
+    publishedDateTime: 2021-04-11T11:26:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/bidens_gun-control_policies_would_treat_everyone_like_a_criminal_540241.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "0MeyjieXY9i/2VBEumFCtl3TKIz7R9sdwVwrIdGgRxncSzjSGCvAYjnE93f2OblKDbSuMdBeTrjGMipdbOD243Qdya6V3it/Zh7y8nh+wHiv5GvSlYZfZS4R0aVj0RBHIOOt+btSQb6zBEt2kZBW1yKAwESRF3Gl/XzlNvav3Qb4zeJ9wiUD7iiGIJ74e1XP+j5LfLI8WvitK/kLayQc3m+SsDpO4/CGvdvlJWeRxVNbGEMscbkML1S/tingbEQQcHQQUw+Ov8k2fpqwJ0exHPE0+39bSuSRaGiy/pluoRzwl0Gk/3b5bi0Btq5UTfPgSoeJF2eBoSjCkk2chRYg95PqtX7PMSAEdHMFXYDZ9Js=;DexO0NmpP4EJoPkdlNCsDw=="
 ---

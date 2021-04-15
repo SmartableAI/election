@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expected to announce nine career diplomats will be US ambassadors"
+    excerpt: "The Biden administration plans to announce the nominations of nine career diplomats to be United States ambassadors as soon as Thursday, marking the first selection of overseas envoys since President Joe Biden took office, according to an internal list reviewed by CNN.\n    \n"
+    publishedDateTime: 2021-04-15T17:14:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WsT4lRtI9rM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-ambassador-nominations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/biden-ambassador-nominations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180502113209-president-trump-state-department-5-2-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "2 Dem senators balk at Biden's new spending plan"
     excerpt: "Joe Manchin wants his party's leaders and President Joe Biden to make significant changes to their sweeping new tax-and-spend legislation — and he’s got other Democratic senators with him. The West Virginia Democrat is readying for his second act after ..."
     publishedDateTime: 2021-04-05T19:12:00Z

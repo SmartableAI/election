@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chris Christie turns into Biden attack dog in early days of administration"
+    excerpt: "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of"
+    publishedDateTime: 2021-04-12T17:34:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'"
     excerpt: "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare."
     publishedDateTime: 2021-04-12T15:44:56Z
@@ -47,19 +63,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden To Congress On Infrastructure: \"I'm Prepared To Negotiate\""
-    excerpt: "President Joe Biden said he is “prepared to negotiate” the size of his infrastructure plan and how to pay for it during a meeting with a bipartisan group of lawmakers on Monday. \"I’m prepared to negotiate as to the extent of my infrastructure project ..."
-    publishedDateTime: 2021-04-13T12:52:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
+  - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
+    excerpt: "He is doing exactly what he sat around in the campaign and the transition and accused Donald Trump of doing. He is lying to cause racial divisions in this country. That’s what he accused Donald Trump of doing, and he’s a liar and a hypocrite this morning.\""
+    publishedDateTime: 2021-04-05T13:08:00Z
+    webUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions"
+    ampWebUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/54/540323.jpg"
-        width: 4871
-        height: 3248
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "6AbhRLu5JRkPoaOQGuD4FP4r9AFo0kfpESorP9QT3yhncnwYwa0S+zG/ukW3d645GyLkEbMKGgFihM0kfKsLmX7VcX22uufysLEr3+r8nF7C1axiAQBkGTWl1MJn3ZDv5xC9zsNL/aEAH6Sg7hndYA21iVFvt+0a3Tt9sMpwrztfaVwIpVEJtk2nEDuHsNEPsUZla8alhg0LR+MIQDoJi+RPaI/NoYUGRNpXFinl3pIgBzXVvQpWF6koCWo+xbH5gRFYbB3JKPYUTc2b5+HGWTXTleWXwqiY1BCuK749CUsVQPJ4GE/HwpOfDZusaBD2qHqZEsk0f3dJ2e/ID2KmjGuxGVmPqg136QN8z54A/IA=;pnglJVKMHu0qGkIw96JdRw=="

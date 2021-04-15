@@ -127,6 +127,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
+    excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."
+    publishedDateTime: 2021-04-12T19:53:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ZF22LaBpVI/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cbp-nominee-chris-magnus-sanctuary-city-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chris-Magnus.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "GOP senators want FBI to probe if Biden Pentagon nominee disclosed classified info after leaving Obama admin"
     excerpt: "A group of Republican senators Tuesday asked FBI Director Christopher Wray to investigate one of President Biden's Pentagon nominees over whether he allegedly disclosed classified information on social media after leaving the Obama administration. "
     publishedDateTime: 2021-04-13T12:53:40Z
@@ -141,6 +157,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
+    excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
+    publishedDateTime: 2021-04-11T11:26:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/bidens_gun-control_policies_would_treat_everyone_like_a_criminal_540241.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "K0ydh+mmyDKi/d+87P6iJDY2JHyATDIPaImaqn1wpxAAzSxab1qKwBO3hpFCO5db7G9urQh8g3kSTJonumGHOhUf3UitW52uChMXTO4dJPTvskOSOFByi0QV/m668VUosdN06q7MJYax//kEhd0Ehea3LPLVXBHwY2RbwHqfFioW2/kAlxLTQWNTnNWydstqVTPAdNbKmFrzWXU8+uyz49PmO7jIElsvy8pJk/P/kyDNQPAz3tKOUzNRlK4K2c5odE9NWc5xeeFckZXN5iX9eLAhA17KQDihFF3d3aJM9gZ38sEPkomydbpp2sn8lfwrhrg/aWRNiEaMq2G7Z1dwHYn9ogNIlgjkBPP52lrsLC4=;La26CwHLCmW9330vEDlY8Q=="
 ---

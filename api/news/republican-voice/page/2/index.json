@@ -2,6 +2,175 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-11-trump-goes-after-mcconnell-fauci-in-off-script-mar-a-lago-speech.md",
+      "title": "Trump goes after McConnell, Fauci in off-script Mar-a-Lago speech",
+      "excerpt": "Former President Trump blasted Senate GOP Leader Mitch McConnell, calling him a \"dumb son of a b----,\" in decidely off-script remarks at a major Republican National Committee donor gathering Saturday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mext-fM1ChA/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mext-fM1ChA/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21100770302113.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
+      "publishedDateTime": "2021-04-11T03:22:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better.md",
+      "title": "Sean Spicer bashes CBS reporter calling revival of Trump press custom 'new tradition': 'Try to fake it better'",
+      "excerpt": "Former White House Press Secretary Sean Spicer took to Twitter Friday after a CBS News reporter pointed to the return of a Trump-era White House briefing room feature as a \"new tradition.\" During Friday's briefing, White House Press Secretary Jennifer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better",
+      "originalUrl": "https://www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45631ae7-72bf-428d-a7b5-1667c7e27db5/91b96f6d-24dd-4164-901d-e775e4998bc7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better.amp",
+      "publishedDateTime": "2021-04-09T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-rick-perry-biden-sending-message-to-cartels-that-its-ok-to-sexually-traffic-children-across-border.md",
+      "title": "Rick Perry: Biden sending message to cartels that 'it's OK to sexually traffic children' across border",
+      "excerpt": "The Biden White House has sent a permissive message to human traffickers with its response to the southern border crisis, former Texas Gov. Rick Perry told \"Your World\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c53d43-e79a-4a8e-a985-aa410067de8f/b0cb4377-d387-44e3-9597-1615ba4f25d0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
+      "publishedDateTime": "2021-04-09T15:50:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.md",
       "title": "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'",
       "excerpt": "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'",
@@ -70,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -182,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 409,
+      "heat": 389,
       "tags": null,
       "images": [
         {
@@ -743,7 +912,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -967,7 +1136,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1506,167 +1675,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-nikki-haley-blasts-harris-as-missing-in-action-on-border-god-help-us-if-she-ever-becomes-president.md",
-      "title": "Nikki Haley blasts Harris as 'missing in action' on border: 'God help us if she ever becomes president'",
-      "excerpt": "President Biden's \"obsession\" with reversing former President Donald Trump's policies is \"unacceptable,\" former U.S. Ambassador to the United Nations Nikki Haley told \"America Reports\" Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp",
-      "publishedDateTime": "2021-04-07T14:33:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-mcconnell-again-slams-biden-as-a-leftist-bernie-sanders-is-really-happy.md",
-      "title": "McConnell again slams Biden as a leftist: 'Bernie Sanders is really happy'",
-      "excerpt": "Sen. Mitch McConnell doubled down on calling President Biden “far-left,” after the administration shot back, saying Wednesday there is “nothing at all moderate about the administration so far.” ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38a79d73-0f3e-4976-86c1-df8b65cc7425/1a5adb29-437a-423f-b1a7-862019efd686/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
-      "publishedDateTime": "2021-04-07T12:50:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-nasty-notes-left-for-trump-staffers-came-from-celebs-not-obama-aides-dave-chappelle-says.md",
-      "title": "Nasty notes left for Trump staffers came from celebs, not Obama aides, Dave Chappelle says",
-      "excerpt": "When former President Donald Trump first moved into the White House in January 2017, his staffers said they found nasty notes stuffed into the drawers and cabinets — a claim President Barack",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/",
-      "originalUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-dave-chappelle.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/amp/",
-      "publishedDateTime": "2021-04-07T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

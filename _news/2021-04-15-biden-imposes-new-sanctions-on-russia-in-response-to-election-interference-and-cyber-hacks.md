@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
 type: article
 quality: 180
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318215447-biden-putin-longobardi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Six key takeaways from Biden's Russia sanctions announcement"
+    excerpt: "The Biden administration slapped sweeping sanctions on Russia Thursday over Moscow's alleged interference in the 2020 election, the massive SolarWinds hack and the ongoing occupation of Crimea, signaling it is adopting a tougher posture toward the Kremlin and Russian President Vladimir Putin.\n    \n"
+    publishedDateTime: 2021-04-15T17:20:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dxRVYhB6cDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/russia-sanctions-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/russia-sanctions-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

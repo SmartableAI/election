@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-roberta-jacobson-step.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5144237a-7755-428b-9b86-49aff786be96/d14cf159-b8c6-433d-8a09-e62e3d6c4905/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Stephen Miller: 'Joe Biden has shut down ICE,' leading to a 'travesty' at the southern border"
+    excerpt: "In addition to the disaster on the border, Joe Biden has shut down ICE. ICE is now disabled from removing most criminally-convicted illegal immigrants that they were removing under the Trump administration. So you have an open sieve at the border ..."
+    publishedDateTime: 2021-04-10T02:55:00Z
+    webUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-joe-biden-has-shut-down-ice-leading-to-a-travesty-at-the-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8672e02b-26a9-457c-b738-289f837dfbd2/421cf8ba-c813-4014-9378-0f530551ffe7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

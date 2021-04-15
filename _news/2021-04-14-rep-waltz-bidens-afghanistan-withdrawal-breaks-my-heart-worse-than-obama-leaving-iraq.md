@@ -175,15 +175,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden Making a Major Mistake on Afghanistan"
-    excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
-    publishedDateTime: 2021-04-14T11:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "TwOry/GpaUSdmux+C4hmTl7R+rCE6syxA4piaZBA4STt3d0lUIXZspAH3yy/Oc+6XJ6/GTYVDq0Z0VT9WMP2ZFyOhwzLx7QkADFo4X01Q7JCb1yVmoINCvOBFdqdDBWLX8Lf7Xb+EfPNE8pKztLPXPxMspjmzwWNZSc8JmkaH+JECsilWRgLGxFVxRhh+uYmcusbIItarWArSKaTyTpkvaHaUhzPjKobkTXI0CAKTR4JTq6GuD3RLFwQQuD9C2Qksi5zgqltKNroNHML33bOgF2f8ZEHlPpXMOjhmGuvrToYPBrgs4kh6aMgmcfh70/ingF7sUyXC1tcagJqLR6PGjeF+AzhUw0orQFuH5XtUGM=;hqSosj/cIxLbHzzB4DADyg=="
 ---

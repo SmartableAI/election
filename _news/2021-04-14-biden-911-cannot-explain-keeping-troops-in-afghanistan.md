@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdra
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -197,6 +197,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 90
+  - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
+    excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
+    publishedDateTime: 2021-04-15T17:46:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Joe-Biden-2.jpg?fit=1200%2C675&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "hA80mDnNm0nugz0IXajcqFfq6dv+eTugdWv/aT2DlAeEpHhcLynyElu4bpU1TQRQ2mMrRJHxPKOesnN8KQJCL46P1/ej+WmVs2ID2ZwFYlU40vSpJlzgxAOqOENUnMfpdHPfc9i4AnCk7MEYNmjvfaXOtu6Z4LFWpnAt8JxUhIhCTNuH1y4vxOThiXWAI9VgsiXisrH35DuX7RZ2YX33EPKV8Q2l9CDfnXnrChdim9MgHQpllAPMjtm2i8jFma/4SYLw8/qPkDuUPvwFGHo0XmaLAVH2QrEbl2BecrXQLBArFalL6tkkhzIQaWjSn2w0BNwhU+OWkYRrBIPyBA97SJWlAlJg4P/eec/ev5eEyhE=;+zEPmt89CwuFMSHDERn/nQ=="
 ---

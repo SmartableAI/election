@@ -1138,6 +1138,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Allies Work to Craft a Platform Going Beyond Fealty to Him"
+    excerpt: "Former cabinet members and top officials in Donald Trump’s administration, including economic adviser Larry Kudlow, have launched a new think tank in an effort to create a policy platform out of the former president’s chaotic approach to governing."
+    publishedDateTime: 2021-04-15T15:54:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-allies-work-to-craft-a-platform-going-beyond-fealty-to-him/2021/04/15/77016ff4-9e0b-11eb-b2f5-7d2f0182750d_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C5ZNCRE6BQI6XMXVPUXQDATVBU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump expected to affirm commitment to GOP, raise possibility of other Republican nominee in 2024 at closed-door speech"
     excerpt: "PALM BEACH, FLA. — Former President Donald Trump plans to affirm his commitment to the Republican Party — and raise the possibility that someone else will be the GOP’s next presidential nominee — in a closed-door speech to donors Saturday night."
     publishedDateTime: 2021-04-10T21:31:00Z

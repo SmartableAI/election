@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/us-usa-justice-clarke/bidens-pick-
 webUrl: "https://www.reuters.com/article/us-usa-justice-clarke/bidens-pick-for-top-u-s-civil-rights-lawyer-kristen-clarke-faces-fraught-task-idUSKBN2C0141?edition-redirect=in"
 type: article
 quality: 80
-heat: 120
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -23,35 +23,67 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden is expected to name a former top Obama-era federal prosecutor to lead the Justice Department's criminal division, sources say"
-    excerpt: "Sources tell Insider that Kenneth Polite is expected to be Biden's pick to run the Justice Department office responsible for federal criminal probes."
-    publishedDateTime: 2021-04-12T15:42:00Z
-    webUrl: "https://www.businessinsider.com/doj-criminal-division-kenneth-polite-biden-nominee-justice-department-2021-4"
+  - title: "Biden civil rights nominee fends off Republican attacks at hearing"
+    excerpt: "Kristen Clarke, President Joe Biden's nominee to lead the Justice Department's civil rights division, fended off attacks from Republicans during her confirmation hearing on Wednesday, saying she does not support defunding the police while promising to find common"
+    publishedDateTime: 2021-04-15T14:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2C118D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C118D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C118D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KH"
+        width: 825
+        height: 545
+        isCached: true
+  - title: "Biden budget provides funding for DOJ to address 'national reckoning on racial inequality'"
+    excerpt: "President Biden’s first budget includes significant investments in policing reforms and civil rights, calling on the Department of Justice (DOJ) to spearhead efforts to address systemic racism along w"
+    publishedDateTime: 2021-04-09T16:07:00Z
+    webUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter"
+    ampWebUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 115
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_garlandemotionalhearing_022221getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Biden administration reveals first 2022 budget request: $1.5 trillion in discretionary funding"
+    excerpt: "The Biden administration on Friday sent Congress its first budget request for the 2022 fiscal year, outlining a set of priorities including funding for medical research, education, housing, civil rights, combating gun violence, tackling climate change and ..."
+    publishedDateTime: 2021-04-09T15:10:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-budget-request-discretionary-funding/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-budget-request-discretionary-funding/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-budget-request-discretionary-funding/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/08/8ce16aee-fe28-4b74-a2f8-5e091f99d5d6/thumbnail/1200x630/eb7537e8543836c4309b4bc04c54c1ee/cbsn-fusion-biden-set-to-unveil-executive-actions-addressing-gun-violence-thumbnail-687952-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
+    excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
+    publishedDateTime: 2021-04-10T15:01:00Z
+    webUrl: "https://www.businessinsider.com/amtrak-joe-brief-history-of-bidens-history-americas-railroad-2021-4"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 75
+    quality: 96
     images:
-      - url: "https://i.insider.com/6073ad1aa451820019b3a79c?width=700"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "President Joe Biden to nominate Christine Wormuth as first woman secretary of the Army"
-    excerpt: "WASHINGTON — A woman may serve as secretary of the Army in the Department of Defense for the first time. President Joe Biden will tap Christine Wormuth, a former adviser for the Defense Department during former President Barack Obama's terms in office ..."
-    publishedDateTime: 2021-04-13T02:24:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/12/joe-biden-nominate-christine-wormuth-first-woman-secretary-army/7196062002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7196062002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7196062002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/217f9850-162d-403f-818d-bd378662f75a-GettyImages-465166476.jpg?auto=webp&crop=6015,3383,x0,y238&format=pjpg&width=1200"
+      - url: "https://i.insider.com/60648df3daf0f10018f99339?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "gd5mKbyWWXIolptZN/G4S7HoD9ifKO3DC3pMmcnw2468kzkhOxhsQUOtjx8pLzss+mpMTkBxg7aNNihnYOh4/qUQtEAsjaDa9PCeZeKuEmuqnF0vQDzyzAWjS+6JrlUz/U5sS6TkYV6f0eLQ4IZnGfh0DvUyWgs+5TkDr0e6e8SqgTl5dZBGAodSD0TxxPZEHut42MEErYuXI6+VRnGqzMeoctRMGITOxA+B1zyHtbEaNWQGHOJmJzDH26L/5M9fi2kznYZWV0hBA3Ivo7F5ZUD+vAO+vX8zdv6Br31Lhir4a8xqikq6tZ+RUcwiNcpK8ZQLSWxnNa9Q4YcsK7iiv5565yeH3WCWmGEHofnhNUAn34zSppZ62ecB+aFUPrs7WihaL+qEF7hCIuntfYnsmmG176xzJurgu9+q7+KLfNyKx0BwV0lU8rHFR/mmxfu1dCV97idwlGuluvvNhEzOe/1f+gffN9SmlPiOTwQwzv+V91sqtly8flQymK6iOcdBZIpa6i+ondAl5rPEVidPLQ==;o6fZG8HTa34YbAXJbImDLg=="

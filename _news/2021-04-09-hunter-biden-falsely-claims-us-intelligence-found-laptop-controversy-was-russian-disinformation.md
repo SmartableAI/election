@@ -63,6 +63,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
+    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
+    publishedDateTime: 2021-04-12T23:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SWGJC8t4GNbTS9HwjoQf4HJl6ADPiV90lDlZIOp0SofzyhHxUdRYWxhLYuvPyYmAQ31QZnCuy9v7AyGHCQE+V0wBRumu2q529NEO+jolObP8WRE+SiHO4vFMebk72BuEbTqNley0GIOt9LRCiyQN4q5dBznkB6Agwo1AbE4Pu36lt2kUC7FMRqVPWa2eyjnfxv23V6v+2GIqdQLiAPeqjYRgqynFYvuAD2V9FTqpCviWC4GuAMIZQuC5uvNbz56vVknhOvTDVt2fCWv1IrU6FC+0ylE4FL37P4fnL0r9VKVxT8urfEbKXcSqurLHnCOcN3teP0P40BzhnoKZhkwq0OEDYZ+i3hki6oq3B8U3JoI=;CI8TELB6Yh2EYETw9J5kgw=="
 ---

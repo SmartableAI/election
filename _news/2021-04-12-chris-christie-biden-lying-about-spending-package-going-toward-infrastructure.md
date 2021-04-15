@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/chris-christie-biden-lying-about-sp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
 type: article
 quality: 169
-heat: 209
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chris Christie turns into Biden attack dog in early days of administration"
+    excerpt: "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of"
+    publishedDateTime: 2021-04-12T17:34:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Chris Wallace: Biden administration 'doesn't have much of an answer' to border crisis"
     excerpt: "'Fox News Sunday' host Chris Wallace joined Bill Hemmer and Dana Perino on 'America's Newsroom' on Friday to discuss the Biden administration's response to the crisis at the border"
     publishedDateTime: 2021-04-09T21:24:57Z
@@ -47,19 +63,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden To Congress On Infrastructure: \"I'm Prepared To Negotiate\""
-    excerpt: "President Joe Biden said he is “prepared to negotiate” the size of his infrastructure plan and how to pay for it during a meeting with a bipartisan group of lawmakers on Monday. \"I’m prepared to negotiate as to the extent of my infrastructure project ..."
-    publishedDateTime: 2021-04-13T12:52:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
+  - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
+    excerpt: "He is doing exactly what he sat around in the campaign and the transition and accused Donald Trump of doing. He is lying to cause racial divisions in this country. That’s what he accused Donald Trump of doing, and he’s a liar and a hypocrite this morning.\""
+    publishedDateTime: 2021-04-05T13:08:00Z
+    webUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions"
+    ampWebUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/54/540323.jpg"
-        width: 4871
-        height: 3248
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "U+2iIIpmzBlos6tvsrnaV5R7pSf5UfntTWHvnnmeKMQ5pVDPqaJqrBsj78YzAlYv5hYuFdL19vs8Fi/cDAFegLbHQzucvcl1TJUcEXiTQ7/FZqPCKdQiCQKCT2HBjo2Y+aToQ09lDeqsD00tRTjM5xw4BV16JUZjl/SB+oqKcPWjUhskkvxPM1Z+vOD9anadu7TN6n8+uXZEiEFm0IiV5NAqjQ81Y8wexuReJRInksKK6B+PKfRHfklmsbkiFDbbpXW/NkKIZ4tcJ1DmaNW6a/lEvIk6fbS3UGkyIqJmVtzYf95kTVVR/bEZ1FXRDdWV5y1O1fnhaffqBj++IhGqZbO0wCZoduF14scUh+KO6J4=;olkDlssBhpF+QoaFVMXWvg=="

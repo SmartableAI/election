@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "El Salvador president refuses to meet with Biden envoy on immigration crisis"
+    excerpt: "El Salvador’s President Nayib Bukele refused to meet with a visiting senior U.S. diplomat this week over what he sees as a pattern of slights from Democrats and the Biden administration, according to two aides of the Central American leader."
+    publishedDateTime: 2021-04-08T20:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wso7x-_6DJ8/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say"
+    ampWebUrl: "https://www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65de96da-f543-4865-a9c9-92eb3c5e2d16/f46278d2-4dc8-479d-af48-2112da2131dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden details 2019 family drug intervention a month before father announced presidential campaign"
     excerpt: "In his forthcoming book \"Beautiful Things,\" Hunter Biden delves into his struggles with addiction, including a dramatic intervention that his family staged for him in March 2019."
     publishedDateTime: 2021-04-05T11:46:30Z

@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump alumni launch 'America First' nonprofit with $20M to promote populist conservatism"
-    excerpt: "A cadre of Trump-era officials launched Tuesday a new nonprofit group called the America First Policy Institute, with a mission of boosting a populist agenda similar to that of former President Trump."
-    publishedDateTime: 2021-04-14T00:05:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IC8VsSLmPEY/trump-alumni-launch-america-first-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-alumni-launch-america-first-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-alumni-launch-america-first-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e03dcb35-9610-4403-b1bb-58ab8180424f/9278f5e9-05d5-412b-97b8-08b9d15b4642/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
     excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. "
     publishedDateTime: 2021-04-13T19:44:17Z

@@ -410,6 +410,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden Pushes Gun Control, But Legislation Is Unlikely"
+    excerpt: "(In certain states, even the private sale of legal firearms also requires a background check.) “Joe Biden is either lying, never bought a gun at a gun show, or both,” Donald Trump’s former chief of staff, Mark Meadows, tweeted. And others were quick ..."
+    publishedDateTime: 2021-04-09T10:47:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Joe Biden Is About to Lock Up a Lot of Black People"
     excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial \"equity\" it's been hyping."
     publishedDateTime: 2021-04-01T11:25:00Z

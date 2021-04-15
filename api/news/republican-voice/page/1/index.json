@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-15-rep-mace-hits-biden-for-giving-first-joint-address-to-an-empty-room.md",
+      "title": "Rep. Mace hits Biden for giving first joint address to an 'empty room'",
+      "excerpt": "President Biden has accepted House Speaker Nancy Pelosi's invitation to deliver his first joint session of Congress address on Wednesday, April 28.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UeRSwox8GUU/rep-mace-biden-state-of-the-union-address-empty-room",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UeRSwox8GUU/rep-mace-biden-state-of-the-union-address-empty-room",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd344368-8532-4513-b2d1-a2efb623f115/dfd26a02-8311-4908-944a-cb8c76d596ef/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp",
+      "publishedDateTime": "2021-04-15T10:06:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-biden-deconstructing-last-4-years-in-record-time-trump-alumni-say.md",
+      "title": "Biden 'deconstructing' last 4 years in record time, Trump alumni say",
+      "excerpt": "President Biden is deconstructing former President Trump's policies at breakneck speed, the president of America First Policy Institute told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fn6AKZksK54/biden-trump-america-first-policy-institute-brooke-rollins",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fn6AKZksK54/biden-trump-america-first-policy-institute-brooke-rollins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 350,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rtsu2ii.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp",
+      "publishedDateTime": "2021-04-15T09:30:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-georgia-election-official-warns-biden-to-stop-lies-about-voting-law-someone-is-going-to-get-hurt.md",
       "title": "Georgia election official warns Biden to stop 'lies' about voting law: 'Someone is going to get hurt'",
       "excerpt": "Gabriel Sterling, the chief operating officer and chief financial officer for the Georgia secretary of state's office, said he has the same sense of \"foreboding\" he had after November's election in the months leading up to the Jan. 6 Capitol riot. ",
@@ -70,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 211,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -182,7 +294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -238,7 +350,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 373,
+      "heat": 353,
       "tags": null,
       "images": [
         {
@@ -454,7 +566,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -528,62 +640,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
       "publishedDateTime": "2021-04-13T14:24:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-biden-administration-expands-entry-of-migrants-kept-in-mexico-under-trump.md",
-      "title": "Biden administration expands entry of migrants kept in Mexico under Trump",
-      "excerpt": "The Biden administration announced Tuesday that it is expanding the entry of migrants into the U.S. who had been kept in Mexico as part of the Trump-era Migrant Protection Protocol (MPP) – even as migrants continue to surge toward the border in record numbers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GiUGzRlAwfA/biden-administration-expands-entry-migrants-kept-mexico-under-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GiUGzRlAwfA/biden-administration-expands-entry-migrants-kept-mexico-under-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 749,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/957280e9-87e8-4078-8fd9-44d22936d4ed/0e00f1bb-477e-4226-b3ed-4d7e3ef5fcfb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-expands-entry-migrants-kept-mexico-under-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-expands-entry-migrants-kept-mexico-under-trump.amp",
-      "publishedDateTime": "2021-04-13T13:53:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -781,6 +837,62 @@
       ]
     },
     {
+      "path": "_news/2021-04-13-texas-missouri-sue-biden-administration-over-scrapping-of-remain-in-mexico-policy.md",
+      "title": "Texas, Missouri sue Biden administration over scrapping of 'Remain-in-Mexico' policy",
+      "excerpt": "Texas and Missouri on Tuesday sued the Biden administration for its scrapping of the Migrant Protection Protocols (MPP) – demanding the program, which kept migrants in Mexico while their immigration hearings played out, be restored.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywynGyngX-A/texas-missouri-sue-biden-administration-remain-in-mexico-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ywynGyngX-A/texas-missouri-sue-biden-administration-remain-in-mexico-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1eb67794-4d8f-4d9f-a776-7df7951f5ad9/12a23b16-a8f4-4a44-840c-9252568a16b4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-missouri-sue-biden-administration-remain-in-mexico-policy.amp",
+      "publishedDateTime": "2021-04-13T10:08:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-biden-proposes-summit-with-putin-in-coming-months.md",
       "title": "Biden proposes summit with Putin in coming months ",
       "excerpt": "President Biden on Tuesday proposed a summit with Russian President Vladimir Putin in the coming months, but suggested it take place in a third country – outside of the United States and Russia.",
@@ -793,7 +905,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -961,7 +1073,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -1074,7 +1186,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1118,25 +1230,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.md",
-      "title": "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'",
-      "excerpt": "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare.",
+      "path": "_news/2021-04-12-bidens-dog-major-to-undergo-additional-training-to-help-adjust-to-white-house-life-after-biting-people.md",
+      "title": "Biden's dog Major to undergo 'additional training' to help adjust to White House life after biting people",
+      "excerpt": "The younger Biden family dog, Major, will undergo \"additional training\" as he tries to adjust to life in the White House, a  spokesperson told Fox News.   ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xenHxgrYuuQ/biden-dog-major-training-white-house-biting",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xenHxgrYuuQ/biden-dog-major-training-white-house-biting",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 209,
+      "heat": 158,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/458e1351-a334-436c-a243-c5de219cc253/ba8d7be5-8ec3-40ae-85ca-a697844886d5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1232039308.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1144,9 +1256,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp",
-      "publishedDateTime": "2021-04-12T08:44:56-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp",
+      "publishedDateTime": "2021-04-12T14:28:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-chris-christie-turns-into-biden-attack-dog-in-early-days-of-administration.md",
+      "title": "Chris Christie turns into Biden attack dog in early days of administration",
+      "excerpt": "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp",
+      "publishedDateTime": "2021-04-12T10:34:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1501,175 +1669,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-trump-goes-after-mcconnell-fauci-in-off-script-mar-a-lago-speech.md",
-      "title": "Trump goes after McConnell, Fauci in off-script Mar-a-Lago speech",
-      "excerpt": "Former President Trump blasted Senate GOP Leader Mitch McConnell, calling him a \"dumb son of a b----,\" in decidely off-script remarks at a major Republican National Committee donor gathering Saturday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mext-fM1ChA/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mext-fM1ChA/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21100770302113.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
-      "publishedDateTime": "2021-04-11T03:22:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better.md",
-      "title": "Sean Spicer bashes CBS reporter calling revival of Trump press custom 'new tradition': 'Try to fake it better'",
-      "excerpt": "Former White House Press Secretary Sean Spicer took to Twitter Friday after a CBS News reporter pointed to the return of a Trump-era White House briefing room feature as a \"new tradition.\" During Friday's briefing, White House Press Secretary Jennifer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better",
-      "originalUrl": "https://www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45631ae7-72bf-428d-a7b5-1667c7e27db5/91b96f6d-24dd-4164-901d-e775e4998bc7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/sean-spicer-bashes-cbs-reporter-calling-revival-of-trump-press-custom-new-tradition-try-to-fake-it-better.amp",
-      "publishedDateTime": "2021-04-09T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-rick-perry-biden-sending-message-to-cartels-that-its-ok-to-sexually-traffic-children-across-border.md",
-      "title": "Rick Perry: Biden sending message to cartels that 'it's OK to sexually traffic children' across border",
-      "excerpt": "The Biden White House has sent a permissive message to human traffickers with its response to the southern border crisis, former Texas Gov. Rick Perry told \"Your World\" Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c53d43-e79a-4a8e-a985-aa410067de8f/b0cb4377-d387-44e3-9597-1615ba4f25d0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
-      "publishedDateTime": "2021-04-09T15:50:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

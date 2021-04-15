@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/pollsters-say-they-undercounted-rep
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Historians’ Evaluation of Trump Is Underway"
+    excerpt: "The historians' evaluation of Donald J. Trump is underway.... Read Full Article »"
+    publishedDateTime: 2021-04-11T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/historiansrsquo_evaluation_of_trump_is_underway_540245.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "HZJQ9Ywd1ZuQK39f+9quipJE0WKRLLrlYPExLsAb6qYfGZ6zOUVm6iu9aWFaEpoGOE9J62xfrPPZCd2XK40jUzGbMgpLkoQS2fciEReOZKIjHXU9IKoictQpjMil8OWHxZvKC2uc+4UsPUH/ErOLPHzANUIo6HmRz6eQ9FenhumXkpX3vqQGcsGPONkdWwZsMSMm3mdDAO5Esp/J3M0whxDFJFcJ0IftqjIPQZKT7+yhZewb1wONp5gVpn5EyUIbUQ60AUjTpYAMVW6M4B5eQUZYfornsfgkxY4dJTC5QePjx+f+YaTuCrQITW82rMjN58L2zmSZWA6QwjRqVWP4BGSLO63npAqkOrXK9vzyXOcoll/aB1Wqf5UEBLmfk771E9bA/50RdLU8/1y3cg8If+UZb4LnrD3iT4WB3TGzWhE3H357VVoRp4kSKbSyVddxFPR78ZGtBAqetZhsDzrqt5LyQOBUn5pkmGhMydXfxRtzmqcgEG7Ss8HPKEV+lNPGIU1lg1Lluj6OEJUqtpO3SA==;+0yA1QqOcFFcfDrqK+QP6A=="
 ---

@@ -2,6 +2,175 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-25-harris-acknowledges-righteous-skepticism-over-covid-19-vaccine-but-says-it-will-save-your-life.md",
+      "title": "Harris acknowledges 'righteous skepticism' over COVID-19 vaccine, but says 'it will save your life'",
+      "excerpt": "Vice President Kamala Harris is urging Americans to get vaccinated for coronavirus while acknowledging the mistrust some have for medical research and development.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a7DNSERocQg/harris-covid-vaccine-skepticism-save-your-life",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a7DNSERocQg/harris-covid-vaccine-skepticism-save-your-life",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Kamala-Harris-COVID-19-Vaccine-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-covid-vaccine-skepticism-save-your-life.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-covid-vaccine-skepticism-save-your-life.amp",
+      "publishedDateTime": "2021-02-25T06:13:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-nikki-haley-slams-biden-push-for-seat-on-sham-human-rights-council-with-tyrants-dictators.md",
+      "title": "Nikki Haley slams Biden push for seat on ‘sham’ Human Rights Council with ‘tyrants,' 'dictators’",
+      "excerpt": "Former U.N. Ambassador Nikki Haley on Wednesday slammed the Biden administration’s move to reclaim a seat on the controversial Human Rights Council – noting that the Geneva-based body’s table includes human rights abusers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/By1QX7aFjcY/haley-biden-sham-human-rights-council-tyrants-dictators",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/By1QX7aFjcY/haley-biden-sham-human-rights-council-tyrants-dictators",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f8e7427-4d69-4533-a736-d7151e217b10/5054fe18-4741-4167-8a75-983f033a5534/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/haley-biden-sham-human-rights-council-tyrants-dictators.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-biden-sham-human-rights-council-tyrants-dictators.amp",
+      "publishedDateTime": "2021-02-24T12:06:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-bidens-100-day-deportation-moratorium-indefinitely-banned-by-judge.md",
+      "title": "Biden’s 100-day deportation moratorium indefinitely banned by judge",
+      "excerpt": "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
+      "publishedDateTime": "2021-02-24T05:53:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-live-updates-joe-biden-has-yet-to-declare-uighur-abuses-genocide.md",
       "title": "LIVE UPDATES: Joe Biden has yet to declare Uighur abuses genocide",
       "excerpt": "Biden, who vowed to be tough on China while on the campaign trail, has been careful not to classify the human rights abuses against the Uighurs since entering office.",
@@ -1514,174 +1683,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-scalise-rips-biden-school-reopening-goal-youre-afraid-of-standing-up-to-the-teachers-union.md",
-      "title": "Scalise rips Biden school-reopening goal: 'You're afraid of standing up to the teachers union'",
-      "excerpt": "Rep. Steve Scalise, R-La., said President Biden's goal to open the majority of K-8 schools by April 30 falls way short of what school children need, and the Republican Whip urged Biden to choose science over teacher unions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p_vSPVbXqeo/rep-scalise-rips-bidens-school-reopening-goal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p_vSPVbXqeo/rep-scalise-rips-bidens-school-reopening-goal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Steve-Scalise-headshot.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-scalise-rips-bidens-school-reopening-goal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-scalise-rips-bidens-school-reopening-goal.amp",
-      "publishedDateTime": "2021-02-18T15:43:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-trump-mcconnell-spat-leads-rick-scott-senate-gop-reelection-chair-to-seek-unity.md",
-      "title": "Trump-McConnell spat leads Rick Scott, Senate GOP reelection chair, to seek unity",
-      "excerpt": "Amid a very vocal war of words between the most powerful GOP leader in Congress and the most popular and influential Republican politician among the party’s base, the chair of the reelection arm of the Senate GOP is calling for unity as Republicans aim to win back the chamber’s majority next year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qkQ8V032UE/trump-mcconnell-spat-rick-scott-seeks-unity",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qkQ8V032UE/trump-mcconnell-spat-rick-scott-seeks-unity",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 785,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp",
-      "publishedDateTime": "2021-02-18T13:08:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.md",
-      "title": "Bill Gates says Trump should 'probably' be allowed to return to social media",
-      "excerpt": "Microsoft co-founder Bill Gates said Thursday that social media companies should let President Trump back on their platforms, despite his \"corrosive\" election fraud claims. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N5_MoNGs7yU/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N5_MoNGs7yU/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
-      "publishedDateTime": "2021-02-18T11:39:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

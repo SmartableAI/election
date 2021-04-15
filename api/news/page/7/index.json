@@ -2,6 +2,175 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-07-biden-chief-of-staff-once-said-roads-and-bridges-are-what-most-americans-think-infrastructure-is.md",
+      "title": "Biden chief of staff once said roads and bridges are what 'most Americans think' infrastructure is",
+      "excerpt": "As Democrats continue to expand their definition of infrastructure, White House chief of staff Ron Klain reined in what qualified as infrastructure in 2017 under the Trump administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fEnpR3gFeMU/bidens-chief-of-staff-roads-bridges-what-most-americans-think-infrastructure-is",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fEnpR3gFeMU/bidens-chief-of-staff-roads-bridges-what-most-americans-think-infrastructure-is",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/ron-klain.png",
+          "width": 1418,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-chief-of-staff-roads-bridges-what-most-americans-think-infrastructure-is.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-chief-of-staff-roads-bridges-what-most-americans-think-infrastructure-is.amp",
+      "publishedDateTime": "2021-04-07T15:49:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children.md",
+      "title": "Rep. McCaul says Biden's immigration policies a 'victory' for traffickers and 'very bad defeat' for children",
+      "excerpt": "Rep. Michael McCaul, R-Texas, slammed President Biden's border policies Wednesday on \"The Story,\" calling them a \"victory\" for traffickers, who separate children from their parents and bring them on a \"very dangerous journey\" to the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dQQ7S3jDOI/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dQQ7S3jDOI/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children.amp",
+      "publishedDateTime": "2021-04-07T14:43:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-nikki-haley-blasts-harris-as-missing-in-action-on-border-god-help-us-if-she-ever-becomes-president.md",
+      "title": "Nikki Haley blasts Harris as 'missing in action' on border: 'God help us if she ever becomes president'",
+      "excerpt": "President Biden's \"obsession\" with reversing former President Donald Trump's policies is \"unacceptable,\" former U.S. Ambassador to the United Nations Nikki Haley told \"America Reports\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp",
+      "publishedDateTime": "2021-04-07T14:33:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-mike-pences-advocacy-group-to-hone-in-unaccompanied-minor-surge-at-border.md",
       "title": "Mike Pence's Advocacy Group to Hone in Unaccompanied Minor Surge at Border",
       "excerpt": "Former Vice President Mike Pence launched an advocacy organization on Wednesday that said its goal is to \"promote the pro-freedom policies\" in place during former President Donald Trump's administration and protect those policies from individuals on the ...",
@@ -211,6 +380,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-omar-says-its-shameful-and-unacceptable-for-biden-to-continue-the-construction-of-trump-border-wall.md",
+      "title": "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall",
+      "excerpt": "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
+      "publishedDateTime": "2021-04-07T12:27:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -1133,231 +1358,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-joe-biden-is-not-planning-to-solve-the-israeli-palestinian-conflict.md",
-      "title": "Joe Biden is not planning to solve the Israeli-Palestinian conflict",
-      "excerpt": "Joe Biden, though, isn’t all that interested. Unlike Barack Obama and Donald Trump, Biden hasn’t named a special envoy to focus on the Israeli-Palestinian portfolio. Unlike Bill Clinton, Biden has no plans for any sort of peace conference, or even a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "originalUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/52/24/4d5812e541128852ed8c3d89e2db/210406-biden-israel-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "publishedDateTime": "2021-04-06T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-to-nominate-robin-carnahan-as-administrator-of-general-services-administration.md",
-      "title": "Biden to nominate Robin Carnahan as administrator of General Services Administration",
-      "excerpt": "President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed transition to the presidency.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_wbbYPHnvg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_wbbYPHnvg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html",
-      "publishedDateTime": "2021-04-06T14:51:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-texas-louisiana-sue-biden-administration-for-refusing-to-take-criminal-illegal-immigrants.md",
-      "title": "Texas, Louisiana sue Biden administration for ‘refusing’ to take criminal illegal immigrants",
-      "excerpt": "Texas and Louisiana are suing the Department of Homeland Security for its alleged refusal to take criminal illegal immigrants into custody, after rules that narrowed enforcement priorities.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d25Twkn2otc/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d25Twkn2otc/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a48f6aaf-e0b0-49f9-92dd-87f61649de6c/d9464a8a-51b4-4d7c-a6a2-fa5d67add6d0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-louisiana-sue-biden-dhs-criminal-illegal-immigrants.amp",
-      "publishedDateTime": "2021-04-06T14:51:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-tells-georgia-to-smarten-up-to-avoid-losing-business-over-new-election-law.md",
-      "title": "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law",
-      "excerpt": "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 744,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21037480732952-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp",
-      "publishedDateTime": "2021-04-06T14:46:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

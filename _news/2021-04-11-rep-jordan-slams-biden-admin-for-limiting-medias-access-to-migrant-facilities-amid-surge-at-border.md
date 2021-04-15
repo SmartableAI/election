@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP lawmaker wants answers on massive border contract that went to nonprofit with ties to ex-Biden adviser"
+    excerpt: "Republican Rep. Jim Banks is demanding answers from the head of the Administration for Children and Families after revelations that a nearly $530 million contract was awarded to a Texas nonprofit to help manage the influx of migrant children at the U.S. southern border — after the organization hired"
+    publishedDateTime: 2021-04-14T18:15:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XG07RMxTBrA/gop-lawmaker-massive-border-contract-nonprofit-biden-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmaker-massive-border-contract-nonprofit-biden-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmaker-massive-border-contract-nonprofit-biden-adviser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC claims 'surge' plays into White supremacist philosophy – but Biden, Obama have used word in border debates"
     excerpt: "The two most recent Democratic presidents have used militaristic language regarding the border crisis that plays into a White supremacist philosophy, according to a standard laid out by Rep. Alexandria Ocasio-Cortez, D-N.Y."
     publishedDateTime: 2021-04-01T19:01:42Z
