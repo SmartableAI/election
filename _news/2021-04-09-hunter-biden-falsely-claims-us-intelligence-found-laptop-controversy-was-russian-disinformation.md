@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden holds first call with Ukrainian president amid Russian 'aggression' in the region"
-    excerpt: "President Biden spoke with Ukrainian President Volodymyr Zelensky on Friday in their first conversation since Biden took office."
-    publishedDateTime: 2021-04-04T09:55:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sj5MIv4Zgwo/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.amp"
+  - title: "Biden declares Russia threat 'national emergency,' lobs sanctions; 10 diplomats booted over election meddling"
+    excerpt: "President Biden on Thursday signed an executive order declaring a “national emergency” over the threat from Russia, as his administration slapped new sanctions on the country."
+    publishedDateTime: 2021-04-15T12:44:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WidxUv4PyHA/biden-russia-threat-national-emergency-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa3f8eb2-5375-45fe-bfdf-5366d85fca76/52aa9f2c-4ae7-4169-91f0-e1e4ea9892ae/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden needs to send message to migrants that border 'is not open': National Border Patrol Council VP"
+    excerpt: "National Border Patrol Council Vice President Hector Garza argued on “America’s Newsroom” on Tuesday that more needs to be done to “stem the flow of illegal immigration” and offered solutions that he argued will be more effective than sending payments to Central American nations."
+    publishedDateTime: 2021-04-13T17:55:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nz7gE73YvJE/biden-message-border-not-open-border-patrol-council-vp"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "SWGJC8t4GNbTS9HwjoQf4HJl6ADPiV90lDlZIOp0SofzyhHxUdRYWxhLYuvPyYmAQ31QZnCuy9v7AyGHCQE+V0wBRumu2q529NEO+jolObP8WRE+SiHO4vFMebk72BuEbTqNley0GIOt9LRCiyQN4q5dBznkB6Agwo1AbE4Pu36lt2kUC7FMRqVPWa2eyjnfxv23V6v+2GIqdQLiAPeqjYRgqynFYvuAD2V9FTqpCviWC4GuAMIZQuC5uvNbz56vVknhOvTDVt2fCWv1IrU6FC+0ylE4FL37P4fnL0r9VKVxT8urfEbKXcSqurLHnCOcN3teP0P40BzhnoKZhkwq0OEDYZ+i3hki6oq3B8U3JoI=;CI8TELB6Yh2EYETw9J5kgw=="

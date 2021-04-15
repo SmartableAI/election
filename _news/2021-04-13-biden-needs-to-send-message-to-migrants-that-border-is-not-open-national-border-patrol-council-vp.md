@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-message-border-not-open-borde
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp"
 type: article
 quality: 160
-heat: 180
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Rick Perry: Biden sending message to cartels that 'it's OK to sexually traffic children' across border"
-    excerpt: "The Biden White House has sent a permissive message to human traffickers with its response to the southern border crisis, former Texas Gov. Rick Perry told \"Your World\" Friday."
-    publishedDateTime: 2021-04-09T22:50:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp"
+  - title: "Biden declares Russia threat 'national emergency,' lobs sanctions; 10 diplomats booted over election meddling"
+    excerpt: "President Biden on Thursday signed an executive order declaring a “national emergency” over the threat from Russia, as his administration slapped new sanctions on the country."
+    publishedDateTime: 2021-04-15T12:44:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WidxUv4PyHA/biden-russia-threat-national-emergency-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c53d43-e79a-4a8e-a985-aa410067de8f/b0cb4377-d387-44e3-9597-1615ba4f25d0/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Hunter Biden falsely claims US intelligence found laptop controversy was 'Russian disinformation'"
+    excerpt: "Hunter Biden claimed this week that the intelligence community had concluded the laptop saga surrounding him was the product of \"Russian disinformation,\" adding again that he has \"done nothing wrong.\""
+    publishedDateTime: 2021-04-09T19:14:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/reEtE-xBHu0/hunter-biden-laptop-russian-disinformation"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-laptop-russian-disinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-laptop-russian-disinformation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230697183.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's gun actions could have a positive, if limited, impact, experts say"
-    excerpt: "One of the executive actions President Joe Biden announced to curb gun violence could make it more difficult to obtain such accessories. The move was one of several executive actions Biden rolled out last week, which he signaled he would pursue in the wake ..."
-    publishedDateTime: 2021-04-13T08:32:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-gun-actions-could-have-positive-if-limited-impact-n1263535"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263535"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263535"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_14/3463179/210408-ghost-guns-jm-1621_4be9381540e40b9637d56fd9d4c378f1.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "i20192d+HQG+8Zv9PlOS8xLZk2InEEn3ZTsu1L7gz123omcQ2qPHBtl2FVeZiDLqQbSnmJLhw50LrWkJoHPfqs5NwvIT0mKOSxK+NEF1pik+qySwNUd2Uf11mLLkyGvQDG4nnT/uyOPunmKx//PlKY1HE3UAnkJKjJsarItTQX+B1sE+qirPQobUX8/STuJGFAu8nz0xAl73K/txXKo0KMy+pw+id8ANddFb5MSydQ3HPNCW13UjkgU9SNa86h0PPQdbo8THT4JdBvAs3YHzX8Er96uYeXmyfLP0yb/94byfXacImDrYsi4bvALpgZwEYHZJdksLONPRo5IwYBDRut0eQR8U5yN6C2/+sNHeVBw=;5qHLEhi7tYj/TP5wPARIlw=="
 ---

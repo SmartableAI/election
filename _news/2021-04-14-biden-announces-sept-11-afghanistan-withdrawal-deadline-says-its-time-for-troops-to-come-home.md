@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Secretary of State Blinken visits Afghanistan in surprise trip after Biden troop announcement"
+    excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Afghanistan on Thursday to sell Afghan leaders and a wary public on President Joe Biden’s decision to withdraw all American troops from the country and end America’s longest war."
+    publishedDateTime: 2021-04-15T12:28:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_6coFj4Z9A/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement"
+    ampWebUrl: "https://www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/02/640/320/AP19030745305241.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z

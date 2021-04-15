@@ -3278,6 +3278,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Exclusive: Why Trump went hard on China, and Biden will follow"
+    excerpt: "As with other framing sessions that initiated the development of integrated strategies in that first year of the Trump administration, the paper and the Principals’ discussion focused on understanding the emotions,"
+    publishedDateTime: 2021-04-15T12:38:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-china-watcher/2021/04/15/exclusive-how-trump-dramatically-shifted-us-china-policy-492476"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
     excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
     publishedDateTime: 2021-01-15T21:55:00Z

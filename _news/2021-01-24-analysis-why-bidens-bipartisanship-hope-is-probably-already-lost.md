@@ -3263,6 +3263,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Exclusive: Why Trump went hard on China, and Biden will follow"
+    excerpt: "As with other framing sessions that initiated the development of integrated strategies in that first year of the Trump administration, the paper and the Principals’ discussion focused on understanding the emotions,"
+    publishedDateTime: 2021-04-15T12:38:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-china-watcher/2021/04/15/exclusive-how-trump-dramatically-shifted-us-china-policy-492476"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "New Jersey Playbook Q&A: Phil Murphy on Joe Biden, the pandemic and Trump"
     excerpt: "New Jersey Playbook writer Matt Friedman spoke to Murphy briefly over the phone about his relationship with the new administration, former President Donald Trump and how vaccine distribution is going in New Jersey."
     publishedDateTime: 2021-01-21T12:01:00Z

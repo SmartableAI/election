@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talk
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talks/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 475
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221115959-anthony-fauci-mask-210121-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
-    excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
-    publishedDateTime: 2021-02-23T18:22:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TvKJJADikGg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

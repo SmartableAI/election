@@ -175,22 +175,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "What's happening in Myanmar and what the Biden administration is trying to do about it"
-    excerpt: "The US policy on the Myanmar military's crackdown on peaceful pro-democracy demonstrators has been bipartisan -- but that hasn't helped stop the conflict in the Southeast Asian nation. At a time of rare bipartisan action, the Biden administration's position on Myanmar's violence won praise from Senate"
-    publishedDateTime: 2021-04-13T22:34:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FFx1ajGd4E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/myanmar-explainer-us/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/myanmar-explainer-us/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411213734-01-myanmar-unrest-0411-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration to use Defense Production Act for Pfizer supplies, at-home tests and masks"
     excerpt: "The Biden administration is making use of the Defense Production Act in three key areas, the top official tasked with supplies announced Friday, including equipment and supplies for Pfizer vaccine production, an increase in at-home or point of care testing, and personal protective equipment, particularly"
     publishedDateTime: 2021-02-05T17:20:00Z

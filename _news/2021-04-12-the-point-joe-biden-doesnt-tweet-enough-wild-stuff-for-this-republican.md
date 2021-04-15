@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to name Chris Inglis as new national cyber director"
-    excerpt: "President Joe Biden is expected on Monday to name Chris Inglis to the new position of national cyber director, an official familiar with the matter confirmed to CNN.\n    \n"
-    publishedDateTime: 2021-04-12T14:42:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3EGGqAIlJKg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-chris-inglis-national-cyber-director/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-chris-inglis-national-cyber-director/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to nominate first woman secretary of the Army"
     excerpt: "President Joe Biden has picked Christine Wormuth to be the next secretary of the Army, the White House announced Monday, making her the first woman to hold the position if confirmed by the Senate.\n    \n"
     publishedDateTime: 2021-04-12T21:54:29Z
@@ -140,22 +124,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409090427-01-pete-buttigieg-0330-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democrats send letter to Biden requesting immigration bill in second part of infrastructure package"
-    excerpt: "A bicameral group of Democratic lawmakers sent a letter to President Joe Biden on Tuesday requesting he prioritize legislation that would offer a pathway to citizenship to undocumented essential workers in the second part of his two-part infrastructure package set to address education and childcare.\n"
-    publishedDateTime: 2021-04-13T18:01:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/epHni426BU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-infrastructure-biden-essential-workers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-infrastructure-biden-essential-workers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413125118-castro-warren-padilla-lieu-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -359,20 +327,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/07/us/07vid-Biden-Live/merlin_185831562_dc56174f-44a6-4589-bedc-b73641340bf2-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden goes where Congress won’t on guns"
-    excerpt: "That’s how President JOE BIDEN started off the Rose Garden speech where he unveiled his newest moves to curb gun violence. It’s both an encapsulation of the way his administration thinks about the issue and a preemptive defense against accusations from the right that he’s undermining the Second Amendment."
-    publishedDateTime: 2021-04-08T17:48:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/08/biden-goes-where-congress-wont-on-guns-492409"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/9f/32/ed70672a45a2a5ae285458df2790/210408-biden-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Pelosi invites Biden to address Congress"
     excerpt: "House Speaker Nancy Pelosi on Tuesday night formally invited President Joe Biden to address a joint session of Congress on April 28, his first speech to both chambers as president. In a brief letter to Biden, Pelosi said she invited him “to share your ..."

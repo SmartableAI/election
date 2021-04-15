@@ -268,22 +268,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden to sign executive order on Supreme Court reform commission"
-    excerpt: "President Joe Biden will sign an executive order empaneling a commission to examine possible reforms to the Supreme Court and federal judiciary, the White House announced Friday. Biden first floated the idea of such a commission last fall on the campaign trail following the death of Justice Ruth Bader Ginsburg — whose seat on the high court was quickly filled by Amy Coney Barrett,"
-    publishedDateTime: 2021-04-09T16:22:00Z
-    webUrl: "https://www.politico.com/news/2021/04/09/biden-supreme-court-reform-commission-480582"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/32/18/07eab8e849d9865a2c770a28d4fe/210409-supreme-court-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "iXi9h6Zi5UBX9y4M9Pdm3LD0LP48WkHgK3iwBCFPGoQf3KNvX9KmNxP7QYG8zQ9U0qVmeaD0Kl7gWp8oSUK+8bCY6HnkVlVLtPWiTk5EQn9oEvhCZPkTe+c1x2PyNBNIcWjJZmpOwDvdjRSev8JGpQDQ/p5/c3+3AZLj0SpATiAdFAyTKrLCkKebj5s1rl09mbd0vnUZCBFxmq9wUCPy5JYp/Qu6EhhkZzpSjQV5Me1Pidvxwse5YNkr3UXpWxttG64qBdG7FzQStLgWI9bz4zKUiTszqbiNQvBpMQPm+AH5pVCqStcay8PoTFgON+MVNhPGn9up/w6BcWzQx9hJzka0yR1kXgbitckA9iJ8GrKPZQT673Q3rt9ZtvJnmUTWTM+Xq+6dOL/DN5ZxMaxgGKdPbDmt+riltqfnoh1tShBeTt0WtjNz4BD5jmagaT7aYEiF4ZFRPwssNH4IAaRw6HYqT1u96QOyVZLN7CZWscoCwRL09gUbx7zZYPiv6osobJxSDNendukDyinzWGnYZg==;4mLYB176kyUTNLD/MKZk6Q=="
 ---

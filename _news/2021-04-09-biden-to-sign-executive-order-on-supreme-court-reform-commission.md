@@ -32,257 +32,273 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to sign executive orders related to 'equity'"
-    excerpt: "President Joe Biden is slated to sign a series of executive actions revolving around \"equity\" policy on Tuesday, focusing on policing reform, prison reform and public housing, according to a draft of a calendar document sent to administration allies and viewed by CNN.\n    \n"
-    publishedDateTime: 2021-01-26T12:38:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AAEMCVqw04/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
+  - title: "Biden imposes new sanctions on Russia in response to election interference and cyber hacks"
+    excerpt: "The Biden administration is expected to announce sanctions as soon as Thursday targeting Russian individuals and entities, in addition to the expulsion of as many as a dozen Russian diplomats from the US in response to the hack of SolarWinds and election interference, according to two sources familiar"
+    publishedDateTime: 2021-04-15T12:25:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218161649-solarwinds-headquarters---stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to name Chris Inglis as new national cyber director"
+    excerpt: "President Joe Biden is expected on Monday to name Chris Inglis to the new position of national cyber director, an official familiar with the matter confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-04-12T14:42:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3EGGqAIlJKg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-chris-inglis-national-cyber-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-chris-inglis-national-cyber-director/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden wants millions of clean-energy related jobs. Can it happen? "
-    excerpt: "Last week, President Joe Biden reaffirmed his commitment to addressing climate change by creating green energy jobs, building out a \"modern and sustainable infrastructure\" toward his continued goal of reaching a carbon-free energy sector in the US by 2035.\n    \n"
-    publishedDateTime: 2021-02-01T20:16:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uYvQs1v4g6U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-green-energy-jobs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-green-energy-jobs/index.html"
+  - title: "Biden to name nominees to lead two key immigration agencies "
+    excerpt: "President Joe Biden plans to nominate Tucson, Arizona, police chief Chris Magnus to serve as commissioner of US Customs and Border Protection and Ur Jaddou to serve as director of US Citizenship and Immigration Services, according to four sources familiar with the selections.\n    \n"
+    publishedDateTime: 2021-04-12T14:34:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qX54x4Axqos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127161713-biden-signs-executive-actions-climate-crisis-coronavirus-collins-dnt-lead-vpx-00005210-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218111150-ice-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to sign executive order expanding voting access"
-    excerpt: "President Joe Biden is expected to sign an executive order Sunday expanding voting access in what the White House calls \"an initial step in this Administration's efforts to protect the right to vote and ensure all eligible citizens can freely participate in the electoral process.\"\n    \n"
-    publishedDateTime: 2021-03-07T13:37:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMW_OHGWQec/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/voting-access-executive-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/voting-access-executive-order/index.html"
+  - title: "Biden admin intends to move forward with $23B UAE weapons sales"
+    excerpt: "The Biden administration intends to move forward with $23 billion in proposed arms sales to the United Arab Emirates even as it continues its review of pending weapons transfers, a State Department spokesperson told CNN Wednesday.\n    \n"
+    publishedDateTime: 2021-04-14T14:31:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z3lxHUqgCT4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301153953-03-voting-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Homeland Security gives TSA workers authority to enforce Biden's mask mandate"
-    excerpt: "The Department of Homeland Security said Sunday that Transportation Security Administration workers now have the authority to enforce President Joe Biden's transportation mask mandate \"at TSA screening checkpoints and throughout the commercial and public transportation system.\"\n    \n"
-    publishedDateTime: 2021-01-31T19:44:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NjBVwL6lKtw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/biden-mask-mandate-enforcement-tsa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/biden-mask-mandate-enforcement-tsa/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124230345-tsa-chicago-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration prepares to open overflow facility for migrant children"
-    excerpt: "The Biden administration is opening an overflow facility for unaccompanied migrant children apprehended at the US-Mexico border, the federal agency tasked with the children's care told CNN in a statement.\n    \n"
-    publishedDateTime: 2021-02-02T21:59:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5pdeB-2WZx8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/migrant-children-facility-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/migrant-children-facility-immigration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127205123-migrant-children-carizzo-springs-tx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Defeat in Texas shows how the conservative judiciary can thwart Biden's agenda"
-    excerpt: "A federal judge's action Tuesday preventing President Joe Biden's 100-day pause in deportations demonstrated the land mines that await the new administration in the nation's courts.\n    \n"
-    publishedDateTime: 2021-01-27T02:30:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pghmpvJeRZ8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-agenda-conservative-judges-texas/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-agenda-conservative-judges-texas/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration expected to announce direct vaccine shipments to pharmacies"
-    excerpt: "The Biden administration is set to announce it will soon begin direct shipments of coronavirus vaccines to retail pharmacies, according to an official familiar with the matter, expanding points of access for Americans to receive shots.\n    \n"
-    publishedDateTime: 2021-02-02T16:46:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dxQB0iyPx3U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/vaccine-shipments-white-house/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112552-01-vaccine-denver-0130-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden seeks to intensify public lobbying for Covid-19 relief bill amid the pandemic"
-    excerpt: "When President Joe Biden intensifies his attention next week to selling Republicans and Democrats on his coronavirus relief bill, he won't be relying on some of the presidency's most symbolic powers.\n    \n"
-    publishedDateTime: 2021-01-30T00:20:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8a3ctX5h8Yw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/29/politics/joe-biden-covid-19-relief-negotiations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/29/politics/joe-biden-covid-19-relief-negotiations/index.html"
+  - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
+    excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
+    publishedDateTime: 2021-02-23T18:22:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TvKJJADikGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126200125-joe-biden-210126-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "First lady Jill Biden expected to take active role in immigrant family reunification"
-    excerpt: "The Biden administration's planned task force aimed at reuniting children who were separated from their parents at the border under the Trump-era enforcement policies will include input from first lady Jill Biden, according to three sources familiar with the planning.\n    \n"
-    publishedDateTime: 2021-01-27T19:35:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bCjKXOKosHk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/jill-biden-immigration-family-separation/index.html"
+  - title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
+    excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
+    publishedDateTime: 2021-04-08T14:47:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yutP2X6Bk9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170601091326-jill-biden-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to implement new ethics rules banning 'golden parachute' bonuses for appointees    "
-    excerpt: "President-elect Joe Biden plans to impose a slew of new ethics restrictions on his incoming administration, a source familiar with the plan tells CNN, including barring his appointees from accepting \"golden parachute\" bonuses from their former employees when they join the government.\n    \n"
-    publishedDateTime: 2021-01-19T17:52:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cxm7ryPpBso/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/ethics-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/ethics-biden-administration/index.html"
+  - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
+    excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-04-08T17:02:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118154054-01-biden-cabinet-nominations-1211-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Group of Democratic lawmakers urge Biden to commute the sentences of death row prisoners"
-    excerpt: "Democratic Reps. Ayanna Pressley of Massachusetts and Cori Bush of Missouri on Friday led a group of 35 lawmakers in urging President Joe Biden to commute the sentences of all federal prisoners on death row.\n    \n"
-    publishedDateTime: 2021-01-23T01:04:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z_p7hGaCq1I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/democrats-urge-biden-commute-death-row-sentences/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/democrats-urge-biden-commute-death-row-sentences/index.html"
+  - title: "What's happening in Myanmar and what the Biden administration is trying to do about it"
+    excerpt: "The US policy on the Myanmar military's crackdown on peaceful pro-democracy demonstrators has been bipartisan -- but that hasn't helped stop the conflict in the Southeast Asian nation. At a time of rare bipartisan action, the Biden administration's position on Myanmar's violence won praise from Senate"
+    publishedDateTime: 2021-04-13T22:34:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FFx1ajGd4E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/myanmar-explainer-us/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/myanmar-explainer-us/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828115424-06-march-on-washington-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411213734-01-myanmar-unrest-0411-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden signs immigration executive orders and establishes task force to reunite separated families"
-    excerpt: "President Joe Biden will sign three executive orders Tuesday that take aim at his predecessor's hardline immigration policies and try to rectify the consequences of those policies, including by establishing a task force designed to reunite families separated at the US-Mexico border, according to senior"
-    publishedDateTime: 2021-02-03T00:11:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VRyDApIOzDE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/02/politics/biden-immigration-executive-orders/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/biden-immigration-executive-orders/index.html"
+  - title: "Biden administration stands down on policing commission, focuses on legislative route instead"
+    excerpt: "The Biden administration is standing down on a campaign promise to create a White House-led commission and instead moving forward with its efforts toward passing police reform through legislative channels.\n    \n"
+    publishedDateTime: 2021-04-12T18:18:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WST906Khm2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925174822-trup-v-biden-immigration-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: No, Biden didn't say that signing lots of executive orders makes you a dictator "
-    excerpt: "President Joe Biden has signed more than 35 executive orders, actions and memorandums in his first week-and-a-half in the Oval Office. And some of Biden's critics are saying or suggesting that his frequent early use of the presidential pen contradicts a dramatic statement he made on the campaign trail"
-    publishedDateTime: 2021-01-29T18:42:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_SsXIAXU6Zk/index.html"
+  - title: "Hawley raised $3 million in 2021's first quarter after objecting to electoral votes Biden won"
+    excerpt: "Missouri Sen. Josh Hawley raised $3 million in the first quarter of 2021, a person familiar with his fundraising said -- a total that showcases how the Republican base is rewarding loyalty to former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-12T20:14:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcrLNE8UC8s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 144
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124643-biden-signs-executive-order-transgender-military-ban-repeal-vpx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228161942-hawley-cpac-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'It's time to act': Biden moves to address racial inequity"
-    excerpt: "(CNN)President Joe Biden signed a series of executive actions revolving around racial equity policy on Tuesday, focusing on nondiscrimination policy, prison reform and public housing, saying it is ..."
-    publishedDateTime: 2021-01-26T11:05:00Z
-    webUrl: "https://www.cnn.com/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
+  - title: "Democrats send letter to Biden requesting immigration bill in second part of infrastructure package"
+    excerpt: "A bicameral group of Democratic lawmakers sent a letter to President Joe Biden on Tuesday requesting he prioritize legislation that would offer a pathway to citizenship to undocumented essential workers in the second part of his two-part infrastructure package set to address education and childcare.\n"
+    publishedDateTime: 2021-04-13T18:01:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/epHni426BU4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-infrastructure-biden-essential-workers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-infrastructure-biden-essential-workers/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413125118-castro-warren-padilla-lieu-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'Fragile change': Biden signs executive orders but many lack force"
-    excerpt: "President Joe Biden has signed a series of executive orders on a wide range of issues almost every day he’s been in office — from climate change to racial equality to curtailing the spread of Covid-19."
-    publishedDateTime: 2021-01-30T02:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/fragile-change-biden-inks-executive-orders-many-lack-force-n1256165"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256165"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256165"
+  - title: "Biden to form commission to study Supreme Court changes"
+    excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-commission-study-overhauling-supreme-court-n1263644"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263644"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263644"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_04/3446095/210129-joe-biden-al-1130_8b7ef0f8dd606f328e7395d942f22111.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463454/210409-supreme-court-justices-building-file-se-1133a_cf6b5e577800884dae7568bb70dfe9fe.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden agrees to meeting with GOP senators on Covid relief"
-    excerpt: "President Joe Biden has agreed to hear out a group of Republicans senators who made a last-ditch effort Sunday to engage him on the next coronavirus relief package. After 10 Republican senators requested a meeting with Biden to begin bipartisan negotiations on the next coronavirus relief bill,"
-    publishedDateTime: 2021-02-01T23:10:00Z
-    webUrl: "https://www.politico.com/news/2021/01/31/biden-senate-republicans-covid-relief-464057"
+  - title: "Biden White House puts its police oversight commission on ice"
+    excerpt: "The White House is putting the creation of a national police oversight commission on hold, nixing a campaign pledge made by President Joe Biden to establish one within his first 100 days. “Based on close, respectful consultation with partners in the ..."
+    publishedDateTime: 2021-04-12T02:36:00Z
+    webUrl: "https://www.politico.com/news/2021/04/11/biden-police-oversight-commission-480931"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/22/6c/e8c7a90a42398e77f1d7b9d4b22c/gettyimages-1230800786-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."
+    excerpt: "Joe Biden’s choice to lead the federal agency that will play a crucial role in his firearms policy is a gun owner and longtime law enforcement official. But David Chipman, whom Biden nominated Thursday as director of the Bureau of Alcohol, Tobacco ..."
+    publishedDateTime: 2021-04-09T00:43:00Z
+    webUrl: "https://www.politico.com/news/2021/04/08/biden-guns-folo-senate-480494"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/3e/cc/2008787447bc93440acf4ee1626d/4-8-21-david-chipman-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden's gun actions could have a positive, if limited, impact, experts say"
+    excerpt: "One of the executive actions President Joe Biden announced to curb gun violence could make it more difficult to obtain such accessories. The move was one of several executive actions Biden rolled out last week, which he signaled he would pursue in the wake ..."
+    publishedDateTime: 2021-04-13T08:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-gun-actions-could-have-positive-if-limited-impact-n1263535"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263535"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263535"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_14/3463179/210408-ghost-guns-jm-1621_4be9381540e40b9637d56fd9d4c378f1.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden goes where Congress won’t on guns"
+    excerpt: "That’s how President JOE BIDEN started off the Rose Garden speech where he unveiled his newest moves to curb gun violence. It’s both an encapsulation of the way his administration thinks about the issue and a preemptive defense against accusations from the right that he’s undermining the Second Amendment."
+    publishedDateTime: 2021-04-08T17:48:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/08/biden-goes-where-congress-wont-on-guns-492409"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/cdd8a132-6dba-45bb-9822-db9993331ff7/798ca165-cd76-4bbe-b29d-1fcf57355621/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://static.politico.com/9f/32/ed70672a45a2a5ae285458df2790/210408-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "POLITICO Playbook PM: Biden makes moves on immigration"
+    excerpt: "Minnesota police chief says officer who fired single shot that killed a Black man intended to discharge a Taser.” IMMIGRATION FILES — “Biden admin secures agreements with Mexico, Honduras and Guatemala to secure borders,"
+    publishedDateTime: 2021-04-12T17:33:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/12/biden-makes-moves-on-immigration-492445"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/1c/09/1bc21c6f42ea86e778c4d96a66cb/gettyimages-1311687851.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "fOlYfVRSmtzuBZpMWlvcrWBpHDEAknjGOczRbgwhxC1tNR9cVjoh6Gqve2se6wUSjYudOZ73I5bWmSU8KTqZbmpeuMS9Qz1YxQmmtefT0degU7pq9ZIHIJkZO4rrgYJDQoYvwGb0BAMKPJFvo7hKrSfYxAHcwejrhVf6FcNg52NFu3IwAyTdfroeEWeCcPEn+73FmXJ5ZWMjxu2D5FYyyN7pgt1k8pgPXR2NWe3ca1s03RfzKXxZQLVK8FwcyoTKbMd8PDASGdY7zYduDcM7AMIP934lynQUY3p9p1nhXy8HgSHt+dVVlGwGW9PWQc9VzvfOuoxr8erK5cyFmcvK/mCjUvYqNcWPbQDU4HyTj8s=;tYsIev3Azd6gFaHci7YAIw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 4410
+heat: 4430
 published: true
 
 provider:
@@ -3253,6 +3253,20 @@ related:
     excerpt: "The Department of Housing and Urban Development is moving to reinstate two Obama-era fair housing rules weakened under President Donald Trump, marking one of HUD Secretary Marcia Fudge’s most significant steps since she was sworn in last month."
     publishedDateTime: 2021-04-14T12:00:00Z
     webUrl: "https://www.politico.com/newsletters/morning-money/2021/04/14/biden-moves-to-undo-trump-legacy-on-fair-housing-794650"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Exclusive: Why Trump went hard on China, and Biden will follow"
+    excerpt: "As with other framing sessions that initiated the development of integrated strategies in that first year of the Trump administration, the paper and the Principals’ discussion focused on understanding the emotions,"
+    publishedDateTime: 2021-04-15T12:38:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-china-watcher/2021/04/15/exclusive-how-trump-dramatically-shifted-us-china-policy-492476"
     type: article
     provider:
       name: Politico

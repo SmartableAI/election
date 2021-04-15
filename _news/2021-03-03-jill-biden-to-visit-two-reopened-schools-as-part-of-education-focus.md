@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
-    excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
-    publishedDateTime: 2021-02-23T18:22:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TvKJJADikGg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration preparing to sanction Russia over Navalny treatment this week"
     excerpt: "The Biden administration is preparing to impose sanctions on Russia over the poisoning and jailing of Russian opposition leader Alexey Navalny this week, two administration officials tell CNN.\n    \n"
     publishedDateTime: 2021-03-01T15:35:29Z

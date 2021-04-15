@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html"
 type: article
 quality: 164
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 133
     images:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463010/210408-joe-biden-se-1040a_293240327619717702ae0fcd649d9d31.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden's gun actions could have a positive, if limited, impact, experts say"
-    excerpt: "One of the executive actions President Joe Biden announced to curb gun violence could make it more difficult to obtain such accessories. The move was one of several executive actions Biden rolled out last week, which he signaled he would pursue in the wake ..."
-    publishedDateTime: 2021-04-13T08:32:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-gun-actions-could-have-positive-if-limited-impact-n1263535"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263535"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263535"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_14/3463179/210408-ghost-guns-jm-1621_4be9381540e40b9637d56fd9d4c378f1.jpg"
         width: 2500
         height: 1667
         isCached: true

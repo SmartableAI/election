@@ -208,6 +208,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Blinken visits Afghanistan after Biden announces U.S. troop withdrawal"
+    excerpt: "I wanted to demonstrate with my visit the ongoing commitment of the United States to the Islamic Republic and the people of Afghanistan,\" the secretary of state said."
+    publishedDateTime: 2021-04-15T13:12:00Z
+    webUrl: "https://www.nbcnews.com/news/world/blinken-visits-afghanistan-after-biden-announces-u-s-troop-withdrawal-n1264141"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264141"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264141"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464892/210415-anthony-blinken-mc-120427_0_1a83817b03f215ae8cc739d38746fac2.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "'It is time to end America's longest war': Biden to announce full withdrawal of troops in Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden is expected to say in a speech Wednesday announcing his plans to fully withdraw troops from Afghanistan by Sept. 11 that the country \"cannot continue the cycle of extending or expanding our military presence in ..."
     publishedDateTime: 2021-04-14T14:18:00Z

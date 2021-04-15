@@ -35,7 +35,7 @@ related:
   - title: "VP Kamala Harris: \"Root Causes\" Of Migrant Surge At The Border \"Not Going To Be Addressed Overnight\""
     excerpt: "Vice President Kamala Harris announced Tuesday that she plans to travel to Guatemala and Mexico to help identify the \"root causes\" of the migration crisis at the southern border."
     publishedDateTime: 2021-04-14T15:03:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/14/vp_kamala_harris_root_causes_of_migrant_surge_at_the_border_not_going_to_be_addressed_overnight.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/14/vp_kamala_harris_root_causes_of_migrant_surge_at_the_border_not_going_to_be_addressed_overnight.html"
     type: article
     provider:
       name: RealClearPolitics

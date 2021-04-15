@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to name nominees to lead two key immigration agencies "
-    excerpt: "President Joe Biden plans to nominate Tucson, Arizona, police chief Chris Magnus to serve as commissioner of US Customs and Border Protection and Ur Jaddou to serve as director of US Citizenship and Immigration Services, according to four sources familiar with the selections.\n    \n"
-    publishedDateTime: 2021-04-12T14:34:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qX54x4Axqos/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218111150-ice-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden dispatches unofficial delegation to Taiwan "
     excerpt: "President Joe Biden dispatched an unofficial delegation to Taiwan Tuesday in a show of support for the island, according to a senior administration official and a State Department spokesperson.\n    \n"
     publishedDateTime: 2021-04-13T21:36:29Z
@@ -109,22 +93,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408120329-01-biden-gun-violence-prevention-0408-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden admin intends to move forward with $23B UAE weapons sales"
-    excerpt: "The Biden administration intends to move forward with $23 billion in proposed arms sales to the United Arab Emirates even as it continues its review of pending weapons transfers, a State Department spokesperson told CNN Wednesday.\n    \n"
-    publishedDateTime: 2021-04-14T14:31:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z3lxHUqgCT4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -256,22 +224,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration stands down on policing commission, focuses on legislative route instead"
-    excerpt: "The Biden administration is standing down on a campaign promise to create a White House-led commission and instead moving forward with its efforts toward passing police reform through legislative channels.\n    \n"
-    publishedDateTime: 2021-04-12T18:18:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WST906Khm2I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's agenda hinges on new Senate push for bipartisan deals amid distrust between the parties"
     excerpt: "Major items on President Joe Biden's domestic agenda hang in the balance this month, hinging on Republicans' willingness to cut deals and whether Democrats agree to pare back their ambitions at the risk of causing a backlash on the left.\n    \n"
     publishedDateTime: 2021-04-14T21:13:21Z
@@ -320,22 +272,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden to form commission to study Supreme Court changes"
-    excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
-    publishedDateTime: 2021-04-09T16:55:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-commission-study-overhauling-supreme-court-n1263644"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263644"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263644"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463454/210409-supreme-court-justices-building-file-se-1133a_cf6b5e577800884dae7568bb70dfe9fe.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Down to the wire: Biden's green goals face a power grid reckoning"
     excerpt: "President Joe Biden's dream of a climate-friendly electric grid hangs on a slender wire: his administration's ability to speed the construction of thousands of miles of power lines. But he’ll have to contend with a major obstacle: Americans who hate ..."
     publishedDateTime: 2021-04-08T23:55:00Z
@@ -368,22 +304,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden White House puts its police oversight commission on ice"
-    excerpt: "The White House is putting the creation of a national police oversight commission on hold, nixing a campaign pledge made by President Joe Biden to establish one within his first 100 days. “Based on close, respectful consultation with partners in the ..."
-    publishedDateTime: 2021-04-12T02:36:00Z
-    webUrl: "https://www.politico.com/news/2021/04/11/biden-police-oversight-commission-480931"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/22/6c/e8c7a90a42398e77f1d7b9d4b22c/gettyimages-1230800786-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "The Biden White House media doctrine: Less can be more"
     excerpt: "Three months in, Joe Biden’s White House has settled on a firm press strategy: First, do no self-harm. The president is not doing cable news interviews. Tweets from his account are limited and, when they come, unimaginably conventional. The public ..."
     publishedDateTime: 2021-04-12T08:30:00Z
@@ -413,22 +333,6 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/40/e0/b52e32944a6bacf6d39b674ad197/gettyimages-1312349187-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."
-    excerpt: "Joe Biden’s choice to lead the federal agency that will play a crucial role in his firearms policy is a gun owner and longtime law enforcement official. But David Chipman, whom Biden nominated Thursday as director of the Bureau of Alcohol, Tobacco ..."
-    publishedDateTime: 2021-04-09T00:43:00Z
-    webUrl: "https://www.politico.com/news/2021/04/08/biden-guns-folo-senate-480494"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
-    images:
-      - url: "https://static.politico.com/3e/cc/2008787447bc93440acf4ee1626d/4-8-21-david-chipman-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -495,20 +399,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "POLITICO Playbook PM: Biden makes moves on immigration"
-    excerpt: "Minnesota police chief says officer who fired single shot that killed a Black man intended to discharge a Taser.” IMMIGRATION FILES — “Biden admin secures agreements with Mexico, Honduras and Guatemala to secure borders,"
-    publishedDateTime: 2021-04-12T17:33:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/12/biden-makes-moves-on-immigration-492445"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/1c/09/1bc21c6f42ea86e778c4d96a66cb/gettyimages-1311687851.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Clyburn doesn’t want Biden to be like FDR"
     excerpt: "“See I'm one who feels, contrary to some of our friends, that Joe Biden's legacy, if he's going to have credibility, must be much closer to Harry Truman than to Franklin Roosevelt,” Clyburn said. “I hear people talking about Joe Biden all the time ..."
