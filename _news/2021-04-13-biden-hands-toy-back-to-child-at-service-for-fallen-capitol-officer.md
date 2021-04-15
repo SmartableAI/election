@@ -251,6 +251,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "President Joe Biden will address a joint session of Congress for the first time on April 28"
+    excerpt: "Speaker of the House Nancy Pelosi extended the invite to Biden on Tuesday, “to share your vision for addressing the challenges and opportunities of this historic moment.” A documentary on Baltimore club music is coming to Netflix this week. We talked ..."
+    publishedDateTime: 2021-04-14T03:36:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-address-congress-april-20210414-rvc53gqm6bctpez3ccl5ya2m7e-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 45
+    images:
+      - url: "https://www.baltimoresun.com/resizer/rl9G2uqZvtQP3XumEQfylj_pw60=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3XJVCILI6LSBXHHTP5ECBBTCSA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "4ItE1zbRrYOfopniiEWUeFTVk9HPYZVoAoSOIwxVlUSMNL0FN2fMXEyJz4HxRtJAKuZbRuV5v+t8ZX8mpmrlL45dOtOqd9Gl3zfEhO7nurIoQsygA4RX+nnNoG8ASIyAU6CWRm3zZr+EKY1olU/XB57bSFyYIg0P8A/CT9abyoSH5rO9J46ByG7UO8xYEssvr1Ai8eakP8GbbsxiF0wASwwHFyWZdhRIYLEt5vuI3ppKjPIC5RSS27pE5UE9Y3bEqKfEk/mGVuXpoVOwh9rPaHoUYdHo7FIUAkqyMfI52sP65u7L5fovKdFuEMmwkUbOU12aVc+CfWAfqCrUqGP61tQG68ICi05RA2tMJzdq7rtvd7tWFXCKviTTSRAsezoJ5mTCowl7GV7KSXNzyeBuBJFgLKnGVi1TUUdijPNl8MXc2rSF0gjzmu0ed6oy5kjdb2pxUjfOc4V7sAnKoEDq1l1yyZSwmst+SFbuXLtpOcvZfg/TOxt9rWDHTSAQfPyWDmGx7eKMa/W8xYFuW7kChg==;b4LxIwhMiUfVxiVr8RrrIg=="
 ---

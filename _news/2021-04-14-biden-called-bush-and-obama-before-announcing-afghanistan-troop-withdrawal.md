@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-called-bush-obama-afghanistan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-called-bush-obama-afghanistan-troop-withdrawal.amp"
 type: article
 quality: 173
-heat: 313
+heat: 353
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7b903e-cc4e-4409-881b-9423960d9b52/94fa5bc2-c641-45fa-bead-1029cfadffec/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rep. Liz Cheney blasts Biden over 'reckless decision' to pull out of Afghanistan"
+    excerpt: "House Republican Conference Chair Liz Cheney joined \"Your World\" Wednesday to react to President Biden's announcement that U.S. forces would begin their final withdrawal from Afghanistan May 1."
+    publishedDateTime: 2021-04-14T22:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c-6VCYtlk-k/liz-cheney-biden-afghanistan-pullout-reckless-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Lindsey Graham: Biden 'paving the way' for another 9/11 with Afghanistan withdrawal"
     excerpt: "Sen. Lindsey Graham warned that President Biden is \"paving the way\" for another 9/11 with his commitment to fully withdraw all American troops from Afghanistan by September. "
@@ -95,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Gen. Jack Keane warns Biden 'forgetting lessons learned' with plan for Afghanistan withdrawal"
+    excerpt: "President Biden's decision to withdraw all remaining U.S. troops from Afghanistan beginning May 1 is \"reckless,\" Fox News senior strategic analyst and retired Army Gen. Jack Keane told \"The Story\" Wednesday."
+    publishedDateTime: 2021-04-14T22:58:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g3abEH03qXg/biden-afghanistan-withdrawal-forgetting-lessons-learned"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-withdrawal-forgetting-lessons-learned.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-withdrawal-forgetting-lessons-learned.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e104576-8983-420c-b963-ee2e9c1b8114/2ecc9932-0d5b-45d4-b308-b0bc34669c79/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep Waltz: Biden's Afghanistan withdrawal 'breaks my heart', 'worse' than Obama leaving Iraq"
     excerpt: "Former Green Beret and current U.S. Representative Michael Waltz, R-Fla, joined Fox News' Marth MacCallum on 'The Story' Wednesday to react to President Biden's decision to withdraw American troops from Afghanistan by September 11 this year"
     publishedDateTime: 2021-04-14T20:31:04Z
@@ -137,6 +169,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "k12isRvwriKvwHG20dafbPyFFlMxvsEllFTtf8hqs4a1gJfBHhKO6Tld0nCT4WeA6lApdlXG3COzYvUA/MR1H3g31gZZaRMV7frMPutNAPHWugmnoIli9vlYh84iEvrSNvu8sjZJCG0ceop2PxNr8NE8DiyxoFigpk9BSRW/HWKOKcBLWP9LJNZtA0STtjvMIN1+Ona/2szq/fzHH/RX1UNO9JryPuUWtRgeARKMpriNmUFLb3i6tn2Wm/Wb4JVh0qwpYZrx0tDc8wRuB7cDKe/O0jv4UnzgVS1f7b/p/FEEkMpp2pRY7EzCzvfImbXstpDo6itsl2xXnVFITvSzXc3pBXDEOMAdYwuywcN1Aok=;ju6sbBv+yJmDC37z8liwpw=="
+secured: "sJ/hElXc1VtaOKZmHA5OYO46aFKDWx1tcecEd4bGOOIeGxXrSO7Mlhpi/z+PC6owIsU1eyn4E1blY9sGoVNvgz88Xx+lhkRAoGBaMRVEf2G11JexXgozsXlLnYcq+ZShbX+oLwg5h6ZmNEDI94aUjTiJPnOV6d5jwqg+zXz8eG95D5lT6882ZkeJUdC9uIfFgYKni28e6RscmRRulCY8MikeGh4xDsFZq204X8PkvU/SOGPF/W3kk5sGOByDQqhon07tr8DIb2bNCLl1OM7T1medhQKPNbdGddoB3IMLNetqfPGDXSj8gNlPxQEBDj7bXf6ZWFafkBJDAHjRc18zchzJgZxFLErnK8A/gtLIXPE=;1i/HHcBiQJV6FMggWgsa9Q=="
 ---
 

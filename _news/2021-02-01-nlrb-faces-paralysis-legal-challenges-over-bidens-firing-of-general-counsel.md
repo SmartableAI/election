@@ -114,6 +114,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "Joe Biden visits Arlington National Cemetery in Washington"
+    excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-04-14T19:39:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b43143fa69e9271435129ebdaed4fbb4/BIDEN-ARLINGTON.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Mike Pence forced to wander the streets of Washington after coming out as un-reelected"
     excerpt: "HUMOR: “Don’t get me wrong, I don’t hate people who lose elections but watching it grosses me out. I like lots of election losers. My cousin lost an election once in college!"
     publishedDateTime: 2021-02-05T04:53:00Z

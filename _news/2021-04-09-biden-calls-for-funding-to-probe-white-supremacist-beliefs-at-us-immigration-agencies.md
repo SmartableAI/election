@@ -365,6 +365,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden speaks from the Treaty Room in the White House"
+    excerpt: "President Joe Biden puts a card into his pocket as he speaks from the Treaty Room in the White House on Wednesday, April 14, 2021 about the withdrawal of the remainder of U.S. troops from Afghanistan."
+    publishedDateTime: 2021-04-14T18:53:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/142068da062d4b6150e66a2987f13ced/President-Joe-Biden-speaks-from-the-Treaty-Room-in-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/142068da062d4b6150e66a2987f13ced/BIDEN-AFHGANISTAN.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "5/TuUv5sAQsP1ItjxH0y4niwyfrQQILUqpHjM9vmI+2Dp1KVqBSbCHjnCylazYFAZ24W+jTwDIq31mweVu5xcr+44SornW3zqRwqjdAWDLiiK5fdxL4wL81HzkleR10ej+16BaiY1rKQ4Ma8INYGDpM/gy+Jh84sHjnoNAQMoxhK0chEdXhS5IWCLDSkZIpAHh+yS70b7y5ByhQJ55DaqMC6ApgX0aecrCB5XKGa5WMeGiX0JafJpCA16iP6dBe5SWrJf//tGuOLmXug2pRIBjEay+mE9wqmZXCO24OlnGopOmzUPQK1hGhyhH2GLtHTF8doiBqxKXCMUCG6uhXF7oN6p3CBJ86/l1xWJIjKeQwYtYLMgLNEgdlxfQiwFcDk24ZyB41odJ3l/GVCtvfx7CmJ7Jp50Y3SSTMXBWXu7hvhxFx4iHHSAI1jL/bP1CA8lwwHe375nu9b+8d0giwsD9lGZUMSE70NrShMYZJKOxkCEOCbWZlZyFlV2F8pLsTF1rWIRen994DCnFSGUsdvcA==;j3vLjYDr2laQSibrDj3U8Q=="
 ---

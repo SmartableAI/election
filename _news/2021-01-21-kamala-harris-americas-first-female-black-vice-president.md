@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/news/2021/1/21/kamala-harris-americas-
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/1/21/kamala-harris-americas-first-woman-black-vice-president"
 type: article
 quality: 125
-heat: 845
+heat: 885
 published: true
 
 provider:
@@ -566,6 +566,24 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris will make her first trip to North Carolina since taking office next week to sell the American Jobs Plan. Harris is set to make stops in Greensboro and High Point on Monday,"
+    publishedDateTime: 2021-04-14T22:12:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250676884.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 29
+  - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris will be pitching the administration’s infrastructure package during two stops in North Carolina. Here’s where she’ll be."
+    publishedDateTime: 2021-04-14T22:12:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250676884.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 27
 
 secured: "zhjRj+/b4SZHD7vK6LMDmi6AHJTE/vvjCwGp9pl09TX5RuBLCLzjkxYqUT4xugRc2/1P3U0ozygSIO5S95giOb2TrQBJAFz6JTKaw/NGXqRSdmnbSafzNtLQCuu9gU3WVgzQDj5jvWnUt/s8NrRJO9yy8UcQUC9HA6/OvyUJGg4xR+wFCfC7E3fVdrvEYbfcdJgYQIyxpXm95cNY8qvPlt6OWq/Phk8n1MB3LBXYyjnQ6/YRLwM8ett7KQD4s4w7IX/0fvETb8RXZFA6dQWR3pgEs9Dn+FoOzv30a2kWk+UPuKmEUH22mbV0Vo+JYzsnomVWxKT+SOXhtSXPV/x5NuS/XODigUnoeNhH3/Z528A=;D+7vi2AfHxlbxEVFOwKwkw=="
 ---

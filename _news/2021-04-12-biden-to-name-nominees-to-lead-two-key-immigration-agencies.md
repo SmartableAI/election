@@ -523,6 +523,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Joe Biden's Modi operandi"
+    excerpt: "Narendra Modi must be so happy. Even though the Indian prime minister lost a powerful ally when voters booted Donald Trump — the kind of friend who attended a “Howdy Modi!” rally — Joe Biden is turning out to be a decent buddy,"
+    publishedDateTime: 2021-04-14T13:31:00Z
+    webUrl: "https://www.politico.com/newsletters/global-translations/2021/04/14/the-watches-and-the-time-492462"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/bc/89ed482f4862b339c70a33cc0fb0/politico-global-translations-shared-graphic.jpg"
+        width: 1201
+        height: 629
+        isCached: true
 
 secured: "2JQJxXyWnjQcQTeOC8xKD4DVX1ZoD7brABGdW2w4gRPZNM98uVurOnmMMh7YJY1TQlijKyXktfbVNL4dGo0F46hna7MoEnshUmRrHKPFsaZ1w0u7Hu8A1788ZMRZqvCwqm6RzMfInCj+NDSm0fj/fn6UUPxoLeRPthSTpwhtynZbmVOYVegOBAaY5i0J9wPTul7088Er/2YqcXCU4dVy6y+D5uaHt3VIh4toszQbAVqMo3ueVv9wvJwN0kh9PA/iITft9Cq6tQH472NW0xSVOmuwK5CByM5xRTR1Xs7bDX4KZYaFQNJFauEkoM8gX5B9c+z5+vSeEsOOxE9WmfsuEwy1Y/JA3XNx3UMMc7O0VQk=;NKvSwYocFYCIqllNSSvKkg=="
 ---

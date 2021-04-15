@@ -562,6 +562,24 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris will make her first trip to North Carolina since taking office next week to sell the American Jobs Plan. Harris is set to make stops in Greensboro and High Point on Monday,"
+    publishedDateTime: 2021-04-14T22:12:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250676884.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 29
+  - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris will be pitching the administration’s infrastructure package during two stops in North Carolina. Here’s where she’ll be."
+    publishedDateTime: 2021-04-14T22:12:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250676884.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 27
 
 secured: "EKW+LvSD0NCeHYhM/PeoMtBBKtx7CioF+MUtCYSg/gmRtm8NWhbh6XxKn97d/qdNhLf2NaMmG64z+NvSRmPW2ZZjecYaeibYFj8z44LpS13+trMcgy2evExMn90QnAif+9P4XpSrjcTGFc6/sEbfJCTilqCdNnnPEFgY0qZSDxVrHfRPh8wFofQxj5AwA2F81VOY1H9/DQF5rc3MeKxm8E/1k8sY3eoDstWbb31qYrl2qlTMmjrFkUnP3/oQbqFMw4UyQ7S+DoEYNcemMADiIcwfoUmkYbq2W0DkCc5ctmnzLa087ws7YB1ymggkPtbi12ArSQ9xdpqtJM7QTiFkUBDPdCRAo6AoNIZ7PL9NM20=;5yrKn9o22aAmV0opUwmNrw=="
 ---

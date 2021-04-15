@@ -79,6 +79,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fact Check-Joe Biden saying veterans ‘get enough handouts’ comes from satire site"
+    excerpt: "Posts containing a fabricated quote attributed to President Joe Biden about veterans originated from a satire article. Users on social media, however, are taking the claim seriously. A Google search of the text brings up an article here by the satirical website “America’s Last Line of Defense” with the same headline."
+    publishedDateTime: 2021-04-14T15:42:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-biden-veterans/fact-check-joe-biden-saying-veterans-get-enough-handouts-comes-from-satire-site-idUSL1N2M7211"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M7211"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M7211"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
   - title: "Prince Philip: US President Joe Biden describes him as 'a heck of a guy'"
     excerpt: "US President Joe Biden said the entire administration sent their condolences to the Queen on the loss of Prince Philip, saying he was a \"heck of a guy\". He paid tribute to the Duke of Edinburgh's \"lifetime of service\", his active duty during World War Two ..."
     publishedDateTime: 2021-04-09T20:39:00Z

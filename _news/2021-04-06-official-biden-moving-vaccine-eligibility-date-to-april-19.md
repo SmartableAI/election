@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-va
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -250,6 +250,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/c8029d0e-d69e-4994-accc-b4eee06c60e5-DESK.00_00_41_02.Still004.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "President Joe Biden will address a joint session of Congress for the first time on April 28"
+    excerpt: "Speaker of the House Nancy Pelosi extended the invite to Biden on Tuesday, “to share your vision for addressing the challenges and opportunities of this historic moment.” A documentary on Baltimore club music is coming to Netflix this week. We talked ..."
+    publishedDateTime: 2021-04-14T03:36:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-address-congress-april-20210414-rvc53gqm6bctpez3ccl5ya2m7e-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 45
+    images:
+      - url: "https://www.baltimoresun.com/resizer/rl9G2uqZvtQP3XumEQfylj_pw60=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3XJVCILI6LSBXHHTP5ECBBTCSA.aspx"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "9wI0I7+WzLuvAvPYwnVSBdy8Lsqrk3w/ByMkcsvV5WPzD9K6RgGgQJVVzPUlANh/ulR0krpyEj1SfLOfRSOqfO08+wwORnQZ7lG6iwWdihlOsOpPvqPBzU2xH4BU4oEpBJYLWkNMycNL+MgQw7Aqd19MPsz5q/ayZYtr+UjaYQIs8jnRwFzGC96QOuRfjAdyhF3rXb7nLJ0K00YwLyduU40Vow4JbMvJyXjx3HQSy9jKvrLwFnd9bLouwgwxYH1FBtGS+b6GB6zRaq/0eWrXi0AFLknHSDXjmUBTLq3znhOmqTDvlzuV5Mg+SV5ty1bV92GGIjzZa11OE5sLzfcP03Uz62TP0U+JCXS+BOaaGbumcAs6oyEQ21T8dFPtfMFGG5HtJRmG4PLzZ7chAmgrrqoSBFoGZFmD6iepwlbULvFxmpTvT4HaxS4qZY+MjALkOWIQRFUZ7N2jp/wvLe66yQqLHF/aohfm0N7ENHDE5XE4iC3ZBS7h3ml1dJR8tA+3JbvlxhaedSRgfJkgG1cFdQ==;rrYpikCvlDDe7MQcH23wcQ=="

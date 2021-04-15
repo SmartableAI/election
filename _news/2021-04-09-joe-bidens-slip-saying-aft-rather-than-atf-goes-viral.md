@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-15822
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fact Check-Joe Biden saying veterans ‘get enough handouts’ comes from satire site"
+    excerpt: "Posts containing a fabricated quote attributed to President Joe Biden about veterans originated from a satire article. Users on social media, however, are taking the claim seriously. A Google search of the text brings up an article here by the satirical website “America’s Last Line of Defense” with the same headline."
+    publishedDateTime: 2021-04-14T15:42:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-biden-veterans/fact-check-joe-biden-saying-veterans-get-enough-handouts-comes-from-satire-site-idUSL1N2M7211"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M7211"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M7211"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
   - title: "Republicans turn to the socialism playbook on Biden's infrastructure bill, labeling anything other than roads and bridges as 'Soviet'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Republican lawmakers are responding to President Joe Biden's $2 trillion infrastructure bill with a litany of misleading and even false statements. The GOP's longstanding strategy of attaching the socialism label ..."
     publishedDateTime: 2021-04-14T18:22:00Z

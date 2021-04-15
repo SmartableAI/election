@@ -251,6 +251,22 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 85
+  - title: "President Joe Biden and a whole lot of celebrities want you to get vaccinated against COVID-19"
+    excerpt: "A whole horde of celebrities, the president and former President Barack Obama are coming to your TV to encourage you to get the COVID-19 vaccine. PANDEMIC PLAYLIST: Mick Jagger and Dave Grohl team up for a pandemic anthem Vaccine hesitancy has become a growing problem as we try to finally make it to something resembling the before times."
+    publishedDateTime: 2021-04-14T19:12:00Z
+    webUrl: "https://www.chron.com/life/article/nbc-roll-up-sleeves-vaccine-special-biden-obama-16099959.php"
+    ampWebUrl: "https://www.chron.com/life/amp/nbc-roll-up-sleeves-vaccine-special-biden-obama-16099959.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/amp/nbc-roll-up-sleeves-vaccine-special-biden-obama-16099959.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 63
+    images:
+      - url: "https://s.hdnux.com/photos/01/02/42/54/17443598/3/rawImage.jpg"
+        width: 2048
+        height: 1472
+        isCached: true
 
 secured: "w1hMKWAho/2ZfXOifZBHWu1b44yIlTphE7lYjSHy4Hg5QrPeLeDGu2p9CipEANsBqBdu/uuCF1Gd2U1Ctz1VZiUI2dWTtWlznlV0n0CJVZKMl6DJk8+wEoywBOlAjKKcB52EdFknC9axzuBYVaBC7n3z073h8XYPNdokUuNN0yVQ8g345zsKXGkdrUrFQ3t8Mqs3+h8uutYtYRxCRw75dPTKDCEdIxFaLcm/XdZiitLk+SphzCngxaLHhZFtgujbm1heT84rk9CyuJ/9THzOCZt74SbgdWW2C1ridyHGQ+T8TfgKOx6dgtVh6WMWYsX1oFpdWngsuPiamZM5mZ7Nn7HvTblGFrhPbt9oPKFV5Cp/8xm66etLkIyC4R/cLeyB+iUIZkkN1YcmKk3zrCSNstrCYhRaWIEwLzq9m/JlBTmoTvtno+lvQHLTZW1hoGEIkO2Lhvs9POr2rT2loVPepJZRZmRRNArWq890BPN1E5er+ZVMxMY66gnb7sLa1mKc+DzwqmiH6wfWL7titD9sHw==;l+fk0lfkjqiMJisgMwRQjw=="
 ---
