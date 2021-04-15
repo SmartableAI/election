@@ -174,6 +174,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris Marks Black Maternal Health Week at White House"
+    excerpt: "The proclamation is part of a broader effort to address the vast racial disparities in pregnancy and childbirth-related deaths and complications in the United States."
+    publishedDateTime: 2021-04-13T18:25:00Z
+    webUrl: "https://www.nytimes.com/2021/04/13/us/politics/black-maternal-health-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/13/us/politics/black-maternal-health-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/13/us/politics/black-maternal-health-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/13/us/politics/13new-washington-briefing-harris/13new-washington-briefing-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "RNC funds NEWSOM recall — SF school woes — DIFI dives, HARRIS soars —— FACEBOOK swamped with TRUMP comments"
     excerpt: "Two days after the White House came to Newsom’s defense, the Republican National Committee is going on the offensive with a $250,000 contribution to the burgeoning recall effort, POLITICO’s Alex Isenstadt reports."
     publishedDateTime: 2021-02-12T14:14:00Z

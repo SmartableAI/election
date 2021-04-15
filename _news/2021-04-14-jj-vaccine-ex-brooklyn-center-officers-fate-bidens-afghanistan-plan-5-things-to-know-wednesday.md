@@ -143,6 +143,44 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
+    excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
+    publishedDateTime: 2021-04-14T21:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-time-to-end-americas-longest-war-in-afghanistan-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-time-to-end-americas-longest-war-in-afghanistan-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-time-to-end-americas-longest-war-in-afghanistan-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/60771e174206150018175773?width=1200&format=jpeg"
+        width: 702
+        height: 351
+        isCached: true
+  - title: "Biden outlines Afghanistan withdrawal: ‘It’s time for American troops to come home’ – live"
+    excerpt: "President says ‘only the Afghans have the right and responsibility to lead their country’ – follow all the latest politics news"
+    publishedDateTime: 2021-04-14T20:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest?page=with:block-607750598f0881c4146925a5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 95
+  - title: "Biden outlines Afghanistan withdrawal: ‘It’s time for American troops to come home’ – as it happened"
+    excerpt: "President says ‘only the Afghans have the right and responsibility to lead their country’ – follow all the latest politics news"
+    publishedDateTime: 2021-04-14T23:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest?page=with:block-607763838f08a91092687e25"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 90
 
 secured: "bKkZS3qafBgkioFFVbLV2DUywd8DhSBsrMp2J1D+s4QtV8Z2yG+ePOklCvyzMM4xgfv8ReelTxSW6PKtuaLf2L6F6JDqHQxo9fJouXty2b28lyukUGiNvZ6hUi+L70+KQepxP7L6zCS9w+CIPW46oXkS2Fkju1Xrw0I+Er4/McLl08Tuus2ushMCwx1996293HRdWzjj0iTAYWjeqIeL9UH/sshIarZ8I5soRJ1Jm9ynKr/NHeJ6K7HmnEVCLY2cGNku9WaBvh0KZhw8ROYRWbE1MmTVf3oersl3dNIRUYkqXhr1ivPMs4wwj7MwBu1f9hKdW570sMknUvPgUKxdYQtO1VbeUa7XCbO2ATZBmZM=;y1FVQAh/tc2WnjwX38K4sA=="
 ---
