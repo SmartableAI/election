@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2229
+heat: 2249
 published: true
 
 provider:
@@ -1417,6 +1417,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/78c/666/539760a198311d9d8dcc56142a8acc8152-trump-rally.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Ivanka Trump Breaks Social Media Silence For This Important Announcement"
+    excerpt: "Ivanka Trump, former President Donald Trump’s oldest daughter, on Wednesday broke her three-month silence on Twitter to announce that she has received the coronavirus vaccine. T"
+    publishedDateTime: 2021-04-15T03:45:00Z
+    webUrl: "https://www.ibtimes.com/ivanka-trump-breaks-social-media-silence-important-announcement-3181152"
+    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-breaks-social-media-silence-important-announcement-3181152?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-breaks-social-media-silence-important-announcement-3181152?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-05.jpg"
+        width: 760
+        height: 506
         isCached: true
   - title: "Trump goes after Mike Pence, Mitch McConnell in speech to party donors"
     excerpt: "Veering from his prepared remarks, Trump said he was “disappointed” in his vice president, Mike Pence, and used a profanity in assessing McConnell, according to multiple people in attendance ..."

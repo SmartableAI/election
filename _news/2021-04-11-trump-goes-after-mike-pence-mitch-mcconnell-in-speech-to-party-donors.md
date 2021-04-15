@@ -1427,6 +1427,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Ivanka Trump Breaks Social Media Silence For This Important Announcement"
+    excerpt: "Ivanka Trump, former President Donald Trump’s oldest daughter, on Wednesday broke her three-month silence on Twitter to announce that she has received the coronavirus vaccine. T"
+    publishedDateTime: 2021-04-15T03:45:00Z
+    webUrl: "https://www.ibtimes.com/ivanka-trump-breaks-social-media-silence-important-announcement-3181152"
+    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-breaks-social-media-silence-important-announcement-3181152?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-breaks-social-media-silence-important-announcement-3181152?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-05.jpg"
+        width: 760
+        height: 506
+        isCached: true
   - title: "Trump to give keynote speech to GOP donor meeting at his Mar-a-Lago home and club"
     excerpt: "Former President Donald Trump will be delivering the keynote speech at a Republican National Committee donor event on Saturday — and he won’t have to go far. Trump was to speak Saturday night at his Mar-a-Lago club in Palm Beach, Fla., where he has ..."
     publishedDateTime: 2021-04-10T19:36:00Z
