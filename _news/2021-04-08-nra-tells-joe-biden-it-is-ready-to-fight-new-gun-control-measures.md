@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-158195
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952?amp=1"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1774167/lauren-boebert-gun-control-2nd-amendment-biden.jpg"
         width: 3000
         height: 2002
+        isCached: true
+  - title: "Joe Biden Isn’t Close to Being a Historic President Yet"
+    excerpt: "It’s not clear that the president even has a plan to pass the kind of legislation that would earn him comparisons to FDR."
+    publishedDateTime: 2021-04-15T10:04:00Z
+    webUrl: "https://newrepublic.com/article/162047/biden-100-days-fdr-new-deal"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 55
+    images:
+      - url: "https://images.newrepublic.com/519a3798f8f82feb5bfa632f1248ad5610181b3f.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
         isCached: true
 
 secured: "nnPuuX1x08DlF22PIkM3DMVTtDGmbL/2lr+fQuukHDfIoOh4cMVikri+CPGjI8Y5ivCsM3n3B62SuA8jPyTGg4SokwQmd+e5C+1j9scEUCfZK9BgPvQYiw0mCJf7782Uf4GRAMLg7hC+sOF7cEOKEA2rWDmG+WVLZNQFgK7jyvzmgRSKX2u+cA04rXHzbQkYOBDC03n5UYN4pSeQU8ERgI7m+sSC5xPQxZSd/0tX8faBXlfqLAbjVMPHRKnNnimpUjIlojH0bHg/n7hpbp6217CfL4GAiHzMi7xiORsBDr7zli0f8ps/RxcD6sk7Ioh/ZuMqOvtOFcQlvrb1HzmbXUxm2KlZSedkO2ZCn4xb4FE=;07xQitq3HcD46VlTmk1aZA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 4390
+heat: 4410
 published: true
 
 provider:
@@ -620,6 +620,22 @@ related:
     quality: 180
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170127205253-trump-executive-orders-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden starts to execute on policies Trump abandoned by crossing off another campaign promise"
+    excerpt: "President Joe Biden is carrying out some of Donald Trump's biggest campaign promises by leaving America's longest war, targeting economic aid at forgotten Americans and building an infrastructure plan that may actually happen.\n    \n"
+    publishedDateTime: 2021-04-15T11:11:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2VKqYItMeiU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/joe-biden-afghanistan-troop-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/joe-biden-afghanistan-troop-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414154553-02-biden-arlington-national-cemetery-0414-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

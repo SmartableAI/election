@@ -111,6 +111,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden set to issue sweeping sanctions against Russia"
+    excerpt: "The sanctions, which may be issued as soon as Thursday, are expected to target over 30 Russian entities and include the expulsion of at least 10 Russian individuals."
+    publishedDateTime: 2021-04-15T11:07:00Z
+    webUrl: "https://www.cbsnews.com/news/russia-sanctions-us-biden-plans/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/15/57b60594-6a95-4159-b850-b005ab2e9db8/thumbnail/1200x630/5e310e510e58e3fb6a549696540f6fb3/gettyimages-1232304316.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "U.S. Senate panel to consider Biden Postal Board nominees April 22"
+    excerpt: "The U.S. Senate Homeland Security and Government Affairs Committee will hold an April 22 hearing on President Joe Biden's three nominees to serve on the U.S. Postal Board of Governors, the panel announced Wednesday."
+    publishedDateTime: 2021-04-15T02:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-post-office-idUSKBN2C2087"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C2087"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C2087"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210415&t=2&i=1558516848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3E03T"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden insists he’s willing to negotiate with Republicans on infrastructure"
     excerpt: "also took issue with the price tag and the tax increases Biden has put forward to pay for it. Some Democrats, including centrist Sen. Joe Manchin III of West Virginia, have raised their own objections to the tax hikes. Manchin also warned the Biden ..."
     publishedDateTime: 2021-04-12T23:33:00Z

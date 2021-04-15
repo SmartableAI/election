@@ -63,6 +63,22 @@ related:
         width: 3000
         height: 1982
         isCached: true
+  - title: "Biden's troop withdrawal plan marked by sobering concern: The Note"
+    excerpt: "While many allies of the president issued statements of support for Biden's decision, CIA Director William Burns warned withdrawal will inhibit intelligence gathering."
+    publishedDateTime: 2021-04-15T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-troop-withdrawal-plan-marked-sobering-concern-note/story?id=77072223"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-troop-withdrawal-plan-marked-sobering-concern-note/story?id=77072223"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-troop-withdrawal-plan-marked-sobering-concern-note/story?id=77072223"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-afghanistan-address-gty-jc-210414_1618437671570_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden \"doesn't have all the time in the world\" to act on gun violence, gun control advocate says"
     excerpt: "A prominent gun control advocacy group is urging President Joe Biden to act quickly on his proposed firearms legislation, after a week that saw 345 people killed by gun violence in the United States. \"He doesn't have all the time in the world. He needs to ..."
     publishedDateTime: 2021-04-09T18:26:00Z

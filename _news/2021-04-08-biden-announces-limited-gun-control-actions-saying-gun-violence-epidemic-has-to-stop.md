@@ -95,6 +95,20 @@ related:
         width: 3000
         height: 2002
         isCached: true
+  - title: "Joe Biden Isn’t Close to Being a Historic President Yet"
+    excerpt: "It’s not clear that the president even has a plan to pass the kind of legislation that would earn him comparisons to FDR."
+    publishedDateTime: 2021-04-15T10:04:00Z
+    webUrl: "https://newrepublic.com/article/162047/biden-100-days-fdr-new-deal"
+    type: article
+    provider:
+      name: New Republic
+      domain: newrepublic.com
+    quality: 55
+    images:
+      - url: "https://images.newrepublic.com/519a3798f8f82feb5bfa632f1248ad5610181b3f.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+        width: 1109
+        height: 577
+        isCached: true
 
 secured: "7s2V+aVDGGkl4HBE1P0mnAX+un49/s7RELMveKlGY+zgNZzB0VTSqQb38w9BMRlpB444OHbptMOHppeTI5nJOnv4e1uk/JK3tFuUdcqtEAghD3xqp+vEwPxYPaGpQ+/DsbECjrVtZothRH5DZ/hKQeVXyqE3hPZE8MUw7wRrd/l0omzDB7vQbY9JvdgsXOtP0hnfiiBQl5U1ElHtqPWCGdj0uyB77YrDx8MNi2NU+/xuLonheUTFPMnj+FqA9epMKq7ORpdX2hBn6YwL0LFmg84+TCjTIZWP86md4SG6MpMRimrlXecPhSmwZ6S9AkwkjWLNoOuxKxFdCu9UnK36crtJuuuBwsNoj/gqdJe0642zh24k9RVDPmJXGHLci8sSWOpxTg+EcvNFPeuxur4y4gF1Pdlia3kIcGGhlscAuAq+BLbaLRptAHkReHc6uZKDm4125Jvp5r8Hhb7kgmViZZ8rkqNX8VFMJVqDEoo/yoQKFLElvpIhM+60+z04mKP9l+Q7Ikc7MBWmdbb4pZTYcA==;WvdQ8mDUg1AhKNtqJn1cew=="
 ---

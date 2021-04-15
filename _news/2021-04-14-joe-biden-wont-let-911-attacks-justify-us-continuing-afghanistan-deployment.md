@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Obama: Biden made 'right decision' on Afghanistan"
+    excerpt: "Former President Obama on Wednesday praised President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot ..."
+    publishedDateTime: 2021-04-14T19:01:00Z
+    webUrl: "https://thehill.com/homenews/administration/548262-obama-biden-made-right-decision-on-afghanistan"
+    ampWebUrl: "https://thehill.com/homenews/administration/548262-obama-biden-made-right-decision-on-afghanistan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548262-obama-biden-made-right-decision-on-afghanistan?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/obamabarack_11022020_1_0.jpg"
+        width: 980
+        height: 552
+        isCached: true
   - title: "Joe Biden's 2012 Comments About Leaving Afghanistan 'Period' in 2014 Resurface"
     excerpt: "After news broke that President Joe Biden plans to withdraw U.S. troops from Afghanistan by September, people began sharing 2012 comments from Biden vowing that America's military would be withdrawn from the country in 2014. Although Biden has repeatedly ..."
     publishedDateTime: 2021-04-13T20:49:00Z

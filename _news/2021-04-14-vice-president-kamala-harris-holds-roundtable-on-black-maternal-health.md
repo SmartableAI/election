@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Holds Roundtable on Black Maternal Health"
 excerpt: "Vice President Kamala Harris delivers remarks on Black maternal health during a roundtable discussion in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Vice President Harris is joined by White House Domestic Policy Advisor Susan Rice and maternal health advocates."
 publishedDateTime: 2021-04-13T18:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/64bfe18950701ca935307868bce3165f/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/64bfe18950701ca935307868bce3165f/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/99865d9fe3b7f02766f2b30b740ab101/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/99865d9fe3b7f02766f2b30b740ab101/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/64bfe18950701ca935307868bce3165f/HARRIS-BLACK-HEALTH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/99865d9fe3b7f02766f2b30b740ab101/HARRIS-BLACK-HEALTH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -726,6 +726,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "kBMSUlDxbIVAsz1Dbnn7y47a/UYUv6Wgtayv/TXuFyMkCehRl3LuLRadjFZQxoDvQS6ApwiB8Pum7ydwbEIGMBcpsq3e6joTsfBBcgvSod26vQANpiugGfRS9mQm/sc64ly3rZVHYGMniTAWHEabZ6rzNEDIO41CopKHn7JJb5vdHduNt/PVCIwAbg0dvoQVl+KTYKH9/IFbLEeQ0b2NhnwP9kSgFMte08Qv7EavtG6SXL7MAB5sAXKOB5aenQiMAp+YqZrVv9trw63293vv6jBHrbdPkY2oVHcyYoL+kZ4aG4V53aH2GFKXNWDpbF+TVajR8jx5V3GYWlIUU2Jw6Fse+blR4w1rqYbHF0eq864=;3+cUtiDdrGkFwDDilUFFyg=="
+secured: "unTTv1RhlmKGCr7RXtesQIeyZxEhcUF0EoKzZBPsf91Hh4GQigY0gOLgMEGZd1aUFwsHdfM/5CI4Qq7bnkyuUkTkCzH1pJMz9c09okKbZ6CqMEporIO56mPSzLOYVIvC9s5bUVD5v2s6cURDljYizYv46MnuKNWxBSFabC2JGuIHRQmRsR7fqGc1FeVpxbIVKRHb9K+UmYfiiYYMbh+TVxcXns2mEOF9CBS7bCWbqq6BtjD2uBFKDsz46ScqlVXLrBTmUSIyxxw6SlzB6Dg7qSSUvv0x/t59ngIoKEdQQZ5LrA/l/unFpKaj71oI6U2Qb9RA5uCDU5aswS1XJEmDiCEBdsdFAVTOIXpbrNkeYns=;HPLDCeC4oCnNKxrgtvKvNw=="
 ---
 

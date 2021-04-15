@@ -2,6 +2,63 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-03-03-a-reality-check-for-bidens-agenda-more-allegations-against-floyd-officer-and-vaccine-vaccine-for-dolly-parton.md",
+      "title": "A reality check for Biden's agenda, more allegations against Floyd officer and 'vaccine, vaccine' for Dolly Parton",
+      "excerpt": "A reality check for Biden's agenda, more allegations against Floyd officer and 'vaccine, vaccine' for Dolly Parton Good morning, NBC News readers. The Biden administration is beginning to face the harsh realities of a split Senate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/morning-briefing/reality-check-biden-s-agenda-more-allegations-against-floyd-officer-n1259433",
+      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/reality-check-biden-s-agenda-more-allegations-against-floyd-officer-n1259433",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_09/3453524/210301-joe-biden-jm-1444_d38032cdcc81de1e6af02e6768b3ae86.jpg",
+          "width": 2500,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1259433",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259433",
+      "publishedDateTime": "2021-03-02T21:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-house-oversight-committee-subpoenas-trumps-accounting-firm-mazars-again.md",
       "title": "House Oversight Committee subpoenas Trump's accounting firm Mazars again",
       "excerpt": "The House Oversight Committee has issued a new subpoena to accounting firm Mazars USA for a wide swath of records related to former President Donald Trump, which would likely include the ex-President's tax returns.\n    \n",
@@ -1294,62 +1351,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-katrina-pierson-trump-presidential-campaign-veteran-moves-toward-congressional-bid-in-texas.md",
-      "title": "Katrina Pierson, Trump presidential campaign veteran, moves toward congressional bid in Texas",
-      "excerpt": "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign, two sources with knowledge of her planning confirmed to Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
-      "publishedDateTime": "2021-03-01T08:16:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

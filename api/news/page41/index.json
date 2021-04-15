@@ -2,6 +2,62 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-02-08-bidens-ban-on-oil-and-gas-leases-on-federal-lands-a-direct-attack-on-wyoming-says-governor.md",
+      "title": "Biden’s ban on oil and gas leases on federal lands a 'direct attack' on Wyoming, says governor",
+      "excerpt": "Wyoming Governor Mark Gordon called President Joe Biden’s executive order restricting the oil and gas industry a \"direct attack\" on Wyoming that will lead to a significant revenue loss for his state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
+      "publishedDateTime": "2021-02-08T09:39:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-biden-says-closed-schools-and-loss-of-women-in-workforce-is-a-national-emergency.md",
       "title": "Biden says closed schools and loss of women in workforce is a 'national emergency'",
       "excerpt": "President Joe Biden said in an interview aired Sunday it was a \"national emergency\" that many students have been kept out of classrooms and that there has been a staggering loss of women in the workforce because of the coronavirus pandemic.\n    \n",
@@ -1311,59 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-pences-plans-post-trump-administration-take-shape.md",
-      "title": "Pence's plans post-Trump administration take shape",
-      "excerpt": "Former Vice President Mike Pence's post-Trump administration life is now starting to take shape. He's planning to host a new podcast and will be joining two conservative think tanks. Pence will be launching a podcast with Young America's Foundation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
-      "originalUrl": "https://www.cbsnews.com/news/pences-post-trump-administration-plans-take-shape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 4910,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/2f065a4b-c323-4b75-a050-9741f82fa8c7/thumbnail/1200x630/9a39ef2588570d3035fb1e97f02eb586/gettyimages-1229222282.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/",
-      "publishedDateTime": "2021-02-05T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

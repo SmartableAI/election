@@ -623,6 +623,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden starts to execute on policies Trump abandoned by crossing off another campaign promise"
+    excerpt: "President Joe Biden is carrying out some of Donald Trump's biggest campaign promises by leaving America's longest war, targeting economic aid at forgotten Americans and building an infrastructure plan that may actually happen.\n    \n"
+    publishedDateTime: 2021-04-15T11:11:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2VKqYItMeiU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/joe-biden-afghanistan-troop-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/joe-biden-afghanistan-troop-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414154553-02-biden-arlington-national-cemetery-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment trial looms as Congress prepares for the arrival of the Biden administration"
     excerpt: "There are just days to go until President-elect Joe Biden is sworn in, Donald Trump is no longer President and Democrats take control of the US Senate, but rank-and-file members on Capitol Hill are still waiting for signals from leadership about what the first month of Biden's presidency will look like.\n"
     publishedDateTime: 2021-01-18T13:21:25Z
