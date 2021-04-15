@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden: Parts of US 'backsliding' into Jim Crow days"
-excerpt: "President Biden said parts of the United States are \"backsliding\" into \"the days of Jim Crow,\" during remarks Wednesday at the National Action Network's national convention – one of the largest civil rights conferences in the country."
-publishedDateTime: 2021-04-14T16:48:32Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow"
-ampWebUrl: "https://www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp"
+title: "FLASHBACK: That time Biden called court-packing a 'bonehead idea'"
+excerpt: "President Biden’s one-time opposition to the concept of “court-packing” could soon be put to the test as top Democrats introduce legislation to expand the Supreme Court."
+publishedDateTime: 2021-04-15T01:00:45Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9l84YnhZF4/flashback-biden-called-court-packing-a-bonehead-idea-in-1983"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9l84YnhZF4/flashback-biden-called-court-packing-a-bonehead-idea-in-1983"
+ampWebUrl: "https://www.foxnews.com/politics/flashback-biden-called-court-packing-a-bonehead-idea-in-1983.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-biden-called-court-packing-a-bonehead-idea-in-1983.amp"
 type: article
 quality: 175
-heat: 235
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5cb66fc0-6470-4d61-9ba0-a6917ddaf3bf/01338204-5f0b-4650-9535-384cca72244f/1280x720/match/image.jpg"
+    width: 1280
+    height: 719
     isCached: true
 
 related:
-  - title: "FLASHBACK: That time Biden called court-packing a 'bonehead idea'"
-    excerpt: "President Biden’s one-time opposition to the concept of “court-packing” could soon be put to the test as top Democrats introduce legislation to expand the Supreme Court."
-    publishedDateTime: 2021-04-15T01:00:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9l84YnhZF4/flashback-biden-called-court-packing-a-bonehead-idea-in-1983"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-biden-called-court-packing-a-bonehead-idea-in-1983.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-biden-called-court-packing-a-bonehead-idea-in-1983.amp"
+  - title: "Biden: Parts of US 'backsliding' into Jim Crow days"
+    excerpt: "President Biden said parts of the United States are \"backsliding\" into \"the days of Jim Crow,\" during remarks Wednesday at the National Action Network's national convention – one of the largest civil rights conferences in the country."
+    publishedDateTime: 2021-04-14T16:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLvFDgleK4E/biden-backsliding-into-jim-crow"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backsliding-into-jim-crow.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5cb66fc0-6470-4d61-9ba0-a6917ddaf3bf/01338204-5f0b-4650-9535-384cca72244f/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "CDC 'doing the bidding' of the Biden administration by making health disparities a race issue: Paris Dennard"
     excerpt: "Republican National Committee national spokesperson Paris Dennard said the Centers For Disease Control is \"doing the bidding\" of the Biden administration by making health disparities a race issue."
@@ -80,6 +80,6 @@ related:
         height: 500
         isCached: true
 
-secured: "jbJDBaesbcBqmNJGcP8L9/JUopHLY8YqJd7MuQTyafzAyuJktcM7Kakg+ge22PT0Sc8d2jpkw/KdTaF/EEBwK5elV32hfHUrLZI9IwQhupSLoibXxijJ9FCGL+mX9KJdM6IMkmoEfibjm30gkthhJALNLJ2d8bN/1paY/1tQ0aXH6lOikb9s1spzfrWcO7y2ovdmH9U9u4t1m+6bYX3/EBW6SLMVi0wbDEgwhG7j8AqU2vcDEtmDL8gNVJBUSnxsgvuI6AiDdYou4Du9Kqh5gWBH31cN5DUJKIVbUDMqw9GlWvcse0M9u+niMftLcQkApqMWBqnwexepoJ44t95s95v2G22qhAxHSLLGiImd2/Q=;t7IGI3BJSUvGSjkHmPDfpg=="
+secured: "vVwFX9MPbaFpcV02so3ZwuaypDwJJnALmNp86J7y3OoG/ZasWi3b0uy8eJAI+0OFVtxKfRP7ADoiYuF4wsnm6wX5aq2z2BswxqZskk06obr+SaaH9xJjQdoG3zpe1/QKw8NtCksHefisUvIC1/I1rJVb1ZtMXcwP3AlmP+uexocpG8JJfl3rkj3UON4YpqeYoTrLFxMaEwaHdgKgYvEQ2iWcLkP3ZYUNWVAX5SFYe5YCejQosARqDDpsLd3R1YJKUZweyvoj3R7sSGZ8H5cjJTULtL7AeLA5W6+jtRTuLOE/QvWPtd3UYE4J77PbjIBb1xYeNF2qV9yk6/A2yjEJyUWjoj11uN6r9QSGhsTubps=;LiJ09QKrF4/YtLNSyohTTQ=="
 ---
 

@@ -1,29 +1,31 @@
 ---
 category: news
-title: "President Joe Biden encourages Americans to get vaccinated in Easter message"
-excerpt: "President Joe Biden and first lady Jill Biden delivered a message of hope on Easter Sunday as they encouraged Americans to get vaccinated."
-publishedDateTime: 2021-04-04T20:30:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
-webUrl: "https://www.upi.com/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
+title: "Biden ends Afghan 'forever war' for US troops"
+excerpt: "President Joe Biden says he will withdraw remaining U.S. troops from the \"forever war” in Afghanistan, declaring that the Sept. 11 terror attacks of 20 years ago cannot justify American forces still dying in the nation's longest war."
+publishedDateTime: 2021-04-14T22:21:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-ends-afghan-forever-war-us-troops/7229266002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-ends-afghan-forever-war-us-troops/7229266002/"
 type: article
-quality: 72
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/ph/st/th/1631617565004/2021/upi/b629d37fd9d2a65f3d207a002d7889b8/v1.5/President-Joe-Biden-encourages-Americans-to-get-vaccinated-in-Easter-message.jpg?lg=2"
-    width: 800
-    height: 532
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5944f4b9-9a4b-4d74-ad97-bf1296a10810_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -261,20 +263,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Biden ends Afghan 'forever war' for US troops"
-    excerpt: "President Joe Biden says he will withdraw remaining U.S. troops from the \"forever war” in Afghanistan, declaring that the Sept. 11 terror attacks of 20 years ago cannot justify American forces still dying in the nation's longest war."
-    publishedDateTime: 2021-04-14T22:21:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-ends-afghan-forever-war-us-troops/7229266002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5944f4b9-9a4b-4d74-ad97-bf1296a10810_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "No, Joe Biden did not have a medical emergency Easter Sunday"
     excerpt: "This one is bogus, even though it was shared widely on social media. Here are the facts: CLAIM: President Joe Biden needed a special medical team at the White House and was taken to the hospital late Sunday. THE FACTS: Biden was not at the White House on ..."
     publishedDateTime: 2021-04-11T15:04:00Z
@@ -323,7 +311,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden encourages Americans to get vaccinated in Easter message"
+    excerpt: "President Joe Biden and first lady Jill Biden delivered a message of hope on Easter Sunday as they encouraged Americans to get vaccinated."
+    publishedDateTime: 2021-04-04T20:30:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/04/Joe-Biden-encourages-vaccinations-Easter-message/1631617565004/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/1631617565004/2021/upi/b629d37fd9d2a65f3d207a002d7889b8/v1.5/President-Joe-Biden-encourages-Americans-to-get-vaccinated-in-Easter-message.jpg?lg=2"
+        width: 800
+        height: 532
+        isCached: true
 
-secured: "y/65V6ZpBBOi2O3d0ZQYxi8NSvXGmu5mY4FrOsCd/BFU33ZeyChaSSNRwMvi3wcNzdS6FmdcWMQlJ9YTDmJz9gdy4Ox/0jj4Cy1pN2bwLNurc4VX5ZSKFcHqU0Q4D758ahlcBcjyDnzRRsi53McPTKHoG3Tt5MSNq93lUcUBUPIsvlkXT61ocwDE94iPZRyeEmopyTADMYoeVLFCBa8MQN7RBEhNA93RuPSiF2xAf/e1p4fOQcvCXfxsUYJc/VZb0wrnn+z0JJ4rNqGyOrkcdfn0mpbe/RYlLZE3UNXnQ3qpdibC4wsOjkEfQhG8sDPnEXSgcxCC1QFXFOQQsXORiszrHL89B7JEbWZ33mAsohtl7zgEuwJzAproBe0qYMsdwsTQgDT2eDznruEmQ+fse0abRZ0iGdjI0MPt7o7EJDmbuRPTT6FVT7TBEQMZoG2oOGpInnAxMvxg8lkKVQ2roowemYJWm7tIHuLA64zJZkfrjQVdkGShYS7E6WONZuZrt73hdMxWHUQ++iOvfWwElA==;O0lZ8ZkRDbM//68x0L7eTA=="
+secured: "A3hINiYluG343KitMQlR8+/dXMjuHoVVwEbIY3Ja+vE7et4t7Jdt3D6FX0Fvj78kJhNny1TPtiqq3o9Y24EylaBlAnebM1Fs8BucjAKfyEpaG8jxjhTIctS18shGCqutfoDDrhIkaTbAdz+3LqWLp1j8hys45nEOGQ57bugHYCre/6h+5ww0J5BILljCDW5v7lSJEtRVqXAL09VmtPA054/9pCb1Lo7GxzUwQPJH+nWUNThz28yviA94IaA+FvRtnAmfZN2gxBALsuJYcU7lRwSTJ/kQ5XZVhkOaRS86nv2KNU0yZ3MsCq0b7oribs4JFOwPj0OjDVA2OxBC7QAArO/fJ4DemaPwIemDV1wmIyE=;GDWw2AmtnHu2hDIeuuWa+w=="
 ---
 

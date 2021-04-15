@@ -1,29 +1,29 @@
 ---
 category: news
-title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
-excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
-publishedDateTime: 2021-04-09T20:49:00Z
-originalUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.html"
-webUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.html"
-ampWebUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
+title: "Baltimore maker of yarn purchased by Vice President Kamala Harris has stitched together a success story"
+excerpt: "Karida Collins' Neighborhood Fiber Co., a Baltimore-based hand-dyed yarn company, has a famous customer in Kamala Harris and a history that has unrolled over 15 years."
+publishedDateTime: 2021-04-15T00:24:00Z
+originalUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html"
+webUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html"
+ampWebUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
 type: article
-quality: 51
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/eb/6ebc8674-0d31-5378-a127-0b4b37ea4c3e/6070bdfc381b5.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://www.baltimoresun.com/resizer/lEvIxWbWG4WCehzMKTB_ZYq_W0Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U6H6Y3D22ZC65BWCKVPSBH53I4.jpg"
+    width: 1200
+    height: 920
     isCached: true
 
 related:
@@ -137,22 +137,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Baltimore maker of yarn purchased by Vice President Kamala Harris has stitched together a success story"
-    excerpt: "Karida Collins' Neighborhood Fiber Co., a Baltimore-based hand-dyed yarn company, has a famous customer in Kamala Harris and a history that has unrolled over 15 years."
-    publishedDateTime: 2021-04-15T00:24:00Z
-    webUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 59
-    images:
-      - url: "https://www.baltimoresun.com/resizer/lEvIxWbWG4WCehzMKTB_ZYq_W0Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U6H6Y3D22ZC65BWCKVPSBH53I4.jpg"
-        width: 1200
-        height: 920
-        isCached: true
   - title: "Vice President Kamala Harris to talk about jobs, economy during visit Monday to Greensboro, High Point"
     excerpt: "Vice President Kamala Harris will visit both Greensboro and High Point to talk about the American Jobs Plan, growing the economy and creating jobs, a White House official said. It"
     publishedDateTime: 2021-04-14T20:53:00Z
@@ -199,7 +183,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
+    excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
+    publishedDateTime: 2021-04-09T20:49:00Z
+    webUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.html"
+    ampWebUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 51
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/eb/6ebc8674-0d31-5378-a127-0b4b37ea4c3e/6070bdfc381b5.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "x1affJm4N/GiHvpiyQiQr3nOBRdgSvAW+v74ci1/pgvkGyVgs3CPLywefQX8HFjsuUFk7k2fn8McqC0PYFGdwgJ0f3uMdG+t8bvkenH4Y5KEzAJeoYbzNpZ3H4W0RtLt1C6m6DCjtje+/tQdjR9UfnVZ58SX0rT5nt7d38lJE4zOB3Kw1yW44i1+k/HKBwg5+37XvFqu4qfFmSKZasWedQkH54P1egQGgHNhxFDjJ4y2ZwiqNZbUPzjF4xkxRCn5OUepsCxTYbAmoAPAaqDV2oF7zqjQaxXWHdJsFVT0Qr3ONpK08WftlLIq6E1A9Z290uhpPff88ZiQ0F54tkzUgrkDAq0qvoi5Wo5APeZYnAvswT30YWm24ZGVYVmwm0oHW96tkEFlCepAndufM8t+gDmrpkzUEIFwhBdQixJHCRtVphJJKT8g0AZc01BgF4uyPOoO9wO1T13El+5SnADUlLpbRTIUwa1Ls/00Z39ZRbHO/AkjfN+l/ZMmapnmM7nvYjXD2fReCNsq45qprenUtQ==;5JIWcaR0+h/x5lMqXNyI2g=="
+secured: "Tie2+yQh1b78qaIINV+NXJSClkx2OawSCDfhvqmUIirYYhhJIclwK/KQJoXRpPWYWDoFvrLl3Bt+LMR6Ne1DEYGlCnZ1PILM83RZlilfPvuCJYskuMYSe4vp7qzyh94/Icxxw13Llsl07fyqwzuqsNwqdb5EEh5V28S//eBSO0+VlSDe6JKq+gzxYcKNpINxHIcVDgc68l0SeC5SYL+FU93Ou+Ph5yHsmbu8VSW+NKH32czu39rEUyrY3le5bmqD9GfBGmO/WYCvLPW3Wzruj97JLpaGoOxj+lLE3lQqho4lfvCVhIzqfTlGUzZM7vcVQgh/CLD7czEOYVTwSdVMN6JS6lixQBz4zHvUhc6w40g=;QAm7onjTYdaVOXfGdss4gA=="
 ---
 

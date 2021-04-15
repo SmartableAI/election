@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Liz Cheney says she won't support Trump if he runs in 2024"
+    excerpt: "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said Wednesday she would not support Donald Trump if he decided to launch another White House bid in 2024.\n    \n"
+    publishedDateTime: 2021-04-15T00:03:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump campaign says the President has not yet chosen impeachment defense team"
     excerpt: "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n"
     publishedDateTime: 2021-01-17T14:11:33Z

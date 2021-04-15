@@ -1,14 +1,14 @@
 ---
 category: news
-title: "The case for Mitch McConnell to vote to convict Donald Trump"
-excerpt: "On Wednesday afternoon, the House will impeach President Donald Trump for a second time. It is known. The only real drama will be to see how many House Republicans cross the aisle to vote with Democrats to impeach the President."
-publishedDateTime: 2021-01-13T16:29:00Z
-originalUrl: "https://www.cnn.com/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-webUrl: "https://www.cnn.com/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+title: "Liz Cheney says she won't support Trump if he runs in 2024"
+excerpt: "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said Wednesday she would not support Donald Trump if he decided to launch another White House bid in 2024.\n    \n"
+publishedDateTime: 2021-04-15T00:03:19Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215150551-mitch-mcconnell-1215-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -77,22 +76,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112943-lindsey-graham-liz-cheney-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Liz Cheney says she won't support Trump if he runs in 2024"
-    excerpt: "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said Wednesday she would not support Donald Trump if he decided to launch another White House bid in 2024.\n    \n"
-    publishedDateTime: 2021-04-15T00:03:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -256,6 +239,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The case for Mitch McConnell to vote to convict Donald Trump"
+    excerpt: "On Wednesday afternoon, the House will impeach President Donald Trump for a second time. It is known. The only real drama will be to see how many House Republicans cross the aisle to vote with Democrats to impeach the President."
+    publishedDateTime: 2021-01-13T16:29:00Z
+    webUrl: "https://www.cnn.com/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mitch-mcconnell-donald-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215150551-mitch-mcconnell-1215-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Spurning Calls to Resign, Liz Cheney Says G.O.P. Must Move Past Trump"
     excerpt: "Ms. Cheney, having fended off a challenge to her House leadership role, was defiant in defending her impeachment vote and called for Republicans to be “the party of truth.”"
     publishedDateTime: 2021-02-07T18:17:00Z
@@ -321,6 +320,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "C/SOfM5i3uc3iuvV4vn0Sb2pZdj/LPaavIuHbb+r47mzAouSB0ReFTqjWOYuatvo3x8fCI4XZDVBDY9RGrJGGxiA3YDaICZyJlLlRqKTlzkPaquXjqzrqkBo8800Tzf8LLza96u/1DibTFRkf2C7tk4UwfuVicdTx1NirayG6mXRzzYyisJ2QbKtbiBKNKphUVafAyzAMTNIrn2cg8KznMJlLDx1zpIlSsCuxJ0QoEwqvB6hsk7rS5frifaWjwhKZ1nBNhJXLIBLmXR3+/4iUDvIMjWnI3k09a8pqHAntq9//7v1rpYQBaFuNTID1CK9q72ewllwT+E+XR2jDPg+cy72KkCR4N75D7tTUKrqNNE=;6VkoZj/pDHXd96962ufV6w=="
+secured: "5S9hjaaGNWHq/7iEuZ9EVRoRorPBUMrIhKiQh5qr6BI9uQIO+dJcvOA8Km1q6BfkMbMZbJV8jbEMvsGX7Gi/TiU8goii9wj9LVxAp12U+kGjZUIBlncM68/CQ+NkGRppZ4LYXgUQSlgGS0sDtKOT1OJOlNHMjJO3wxFt3txkwjKWtohcaDq24BTzagFL6iYLUdMNYChilE+GQ73DghBoajP4TXPDGtJ4A+EwZIdjC/yDogOPMsykGBMvcE549BWHVdgX+E0+iWrkvsDWsgAljQxM7YHcX1AC0RGXnLjz41MUnBOR98AYG81LPWG7+SyFQWkGg9pmmgAjKptfo0UXGTsqfXRXlwZahj6PWceMNZ0=;uo6aRP+8A2kDePL4SDJc5w=="
 ---
 

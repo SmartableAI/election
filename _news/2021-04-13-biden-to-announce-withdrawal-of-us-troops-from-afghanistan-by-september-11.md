@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: Biden's remarks announcing Afghanistan troop withdrawal "
+    excerpt: "President Joe Biden on Wednesday formally announced his decision to withdraw US troops from Afghanistan by September 11.\n    \n"
+    publishedDateTime: 2021-04-15T01:25:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FnL_lXCtsDg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414160930-joe-biden-april-14-2021-05-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
     excerpt: "President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some strange bedfellows over what to do about America's longest"
     publishedDateTime: 2021-04-13T19:12:19Z

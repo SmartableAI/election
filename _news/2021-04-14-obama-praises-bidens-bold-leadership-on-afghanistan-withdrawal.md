@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414092514-screengrab-chuck-schumer-cnn-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Biden's remarks announcing Afghanistan troop withdrawal "
+    excerpt: "President Joe Biden on Wednesday formally announced his decision to withdraw US troops from Afghanistan by September 11.\n    \n"
+    publishedDateTime: 2021-04-15T01:25:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FnL_lXCtsDg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414160930-joe-biden-april-14-2021-05-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
-excerpt: "(CNN)President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some ..."
-publishedDateTime: 2021-04-13T19:11:00Z
-originalUrl: "https://www.cnn.com/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
-webUrl: "https://www.cnn.com/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+title: "READ: Biden's remarks announcing Afghanistan troop withdrawal "
+excerpt: "President Joe Biden on Wednesday formally announced his decision to withdraw US troops from Afghanistan by September 11.\n    \n"
+publishedDateTime: 2021-04-15T01:25:41Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FnL_lXCtsDg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FnL_lXCtsDg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
 type: article
-quality: 121
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414160930-joe-biden-april-14-2021-05-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -61,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414092514-screengrab-chuck-schumer-cnn-0414-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "READ: Biden's remarks announcing Afghanistan troop withdrawal "
-    excerpt: "President Joe Biden on Wednesday formally announced his decision to withdraw US troops from Afghanistan by September 11.\n    \n"
-    publishedDateTime: 2021-04-15T01:25:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FnL_lXCtsDg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414160930-joe-biden-april-14-2021-05-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -176,6 +159,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
+    excerpt: "(CNN)President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some ..."
+    publishedDateTime: 2021-04-13T19:11:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 121
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'It is time to end America's longest war': Biden to announce full withdrawal of troops in Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden is expected to say in a speech Wednesday announcing his plans to fully withdraw troops from Afghanistan by Sept. 11 that the country \"cannot continue the cycle of extending or expanding our military presence in ..."
     publishedDateTime: 2021-04-14T14:18:00Z
@@ -193,6 +192,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "ktYpYnxZgGkLTQrN0yxu/Wj96UDBjOwuGQ8tXj8P5rzxlTifyOe9mQWObeihgbF3kT8wH1jGv6tr0xR3/Tbm6kJkI/9XJ9EjwEYN7QdpvKZBreviOB0pzntX2cHgD076hSNenAVhvjp5AiXzOkfarNrIjyRcaMRO+/2j+dtlv0/VOR5YIKtC58DhT2D66jSm5NhGQmhIIFw3A1jGqMuFIFr+kZn2F3t5YVrdVJUmvfdroGFky5UP9M8kHUjhAl4bYOzxiLaSSluUjO1S6fu+5L50sEBgJDM8qzyTJCtQQEOk+q072nKOBYaSpaYV35Pr0lrjjKJoyGMO9EWUqDo9xi4v2+2pviwyJdPZduw7rErc1fuHKMY6zFIg37yjvujtS7CxCHeXa8W5R6BbllIZFScyGpOKEZEPJTjeVvf4qNAuewCRuSSgbn8AF62Y6gdL7lq/XDFLcnJwxRMigup2Oo6x2fcMYKpboDJ43QD4GLT930QXkDQvuWG2CB0a0FWLN5BYeRVNkRURroLGO6ZKUQ==;Vi2cjiEHoDGTaOP2ZnJAcw=="
+secured: "BLCWM7uc2DW1SPheQ1d819NOAwfEq+eDQk8PEQGFFyWPhj0pV5G/RHFbWdmvoa29Thvn9B/D82bpJopeeTD0VpozSIej4EspfGjaOPiTJuQ6uc7LafTRbSaS8kb/YdHTOOqq4z78oFEvAmH/p88uV1JvK1nVQS9m6QG3abep1E1hbFD3S0dpPVb3JElTK8/61NOfHi6tkiLCvYbMWQyWh4tJuBAwcYyoyuBn+sBixw2Dawn12wKRaUR1SllSgB3A/RyjOZHHVyau2hcF7DDdDUJ0q/tZABC7fuA/O5fkS6kqmuJb07q8r+nCJE0FH2oSqlLnpvfM9Z+KLmG1oXklGNmyjusrGjJJeeDIh0FEyWo=;Ix9weZjrpjTfivz/WM5fCA=="
 ---
 

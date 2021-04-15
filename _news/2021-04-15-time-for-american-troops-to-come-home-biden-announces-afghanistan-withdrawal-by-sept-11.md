@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Joe Biden's 2012 Comments About Leaving Afghanistan 'Period' in 2014 Resurface"
-excerpt: "After news broke that President Joe Biden plans to withdraw U.S. troops from Afghanistan by September, people began sharing 2012 comments from Biden vowing that America's military would be withdrawn from the country in 2014. Although Biden has repeatedly ..."
-publishedDateTime: 2021-04-13T20:49:00Z
-originalUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394"
-webUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394"
-ampWebUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1"
+title: "'Time for American troops to come home': Biden announces Afghanistan withdrawal by Sept. 11"
+excerpt: "The war in Afghanistan has cost more than $2 trillion and more than 2,300 American lives. More than 38,000 Afghan civilians have been killed."
+publishedDateTime: 2021-04-14T23:21:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-announces-afghanistan-troop-withdrawal-sept-11/7219176002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-announces-afghanistan-troop-withdrawal-sept-11/7219176002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7219176002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7219176002"
 type: article
-quality: 121
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1777278/president-joe-biden.jpg"
-    width: 1024
-    height: 683
+  - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/48cd77d6-d669-4a97-9964-60c6ef952c50-AFP_AFP_1N99IM.JPG?auto=webp&crop=6000,3375,x0,y446&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden's 2012 Comments About Leaving Afghanistan 'Period' in 2014 Resurface"
+    excerpt: "After news broke that President Joe Biden plans to withdraw U.S. troops from Afghanistan by September, people began sharing 2012 comments from Biden vowing that America's military would be withdrawn from the country in 2014. Although Biden has repeatedly ..."
+    publishedDateTime: 2021-04-13T20:49:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1777278/president-joe-biden.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden to say in Afghanistan speech ‘it’s time to end America’s longest war’ – live"
     excerpt: "Lawmakers of both parties have criticized Joe Biden’s plan to withdraw all US troops from Afghanistan, with some accusing the president of abandoning America’s commitment to the Afghan people. In his speech this afternoon, Biden will emphasize that ..."
     publishedDateTime: 2021-04-14T14:56:00Z
@@ -94,22 +110,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/6787b5cbf19fa76e68505561539e063ff63cc6d6/0_31_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8f06c37fe345cbe74e3b82b57bb71003"
         width: 600
         height: 360
-        isCached: true
-  - title: "'Time for American troops to come home': Biden announces Afghanistan withdrawal by Sept. 11"
-    excerpt: "The war in Afghanistan has cost more than $2 trillion and more than 2,300 American lives. More than 38,000 Afghan civilians have been killed."
-    publishedDateTime: 2021-04-14T23:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-announces-afghanistan-troop-withdrawal-sept-11/7219176002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7219176002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7219176002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/48cd77d6-d669-4a97-9964-60c6ef952c50-AFP_AFP_1N99IM.JPG?auto=webp&crop=6000,3375,x0,y446&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "J&J vaccine, ex-Brooklyn Center officer's fate, Biden's Afghanistan plan: 5 things to know Wednesday"
     excerpt: "President Joe Biden will on Wednesday announce his plans to move all U.S. military forces out of Afghanistan. All military presence will be pulled by Sept. 11 – the 20th anniversary of the 9/11 attacks that spurred America's longest war – and more ..."
@@ -144,6 +144,6 @@ related:
         height: 960
         isCached: true
 
-secured: "Bw09UxpabaT9Oyeh1Q3NHTzto+97/D8NlMe1XgvIuqOz4PAKIoUi268iOfRxFBv7d7kE5Har5zSMJamjdLBjXjGLlsDnWruXeVQhNKXHfkOvEcPJJN9KT+sHirp8Qg+itXJcsl5w6y5ZxJIJ6Hlghma4m7RZ5MBtOv/RxX29SiPk2kDzBzYGOQnB+om4XJsC3Fx6fqAd8aSaK1cnubK2Kahu0ZbdBEkOr2LkdRd4cucxlEKpiHu8Da9zdESKTP7t5xy3ZjoAhB5fxUSuZJpbXbDrAaj8jJxuSOfKfINWzZlV91myAFFxOYUJFu5O3DvzMtK4b1nyO2EVeDxDrFEoRVvRghghZt18Pk9whQb4DZs=;9Czs/xwDHEfGY3hGXmQnJA=="
+secured: "jGHHlfBdm2TOc4wPs5V0XJ9Qsu5Tefk7HfxQEexrKw8KwwnQ0vCiBBjLoLinvzdXF3l4LvE6+9HxtD/WmgVB2bG5TCPHgLFOzn6Dg4kmdYnKmjCb5Sx7c6RZq/qzsWKj3AIe+Hy/TPy5POH6+YV4uehWdBjwghXTZRugfKLV7c9yLFWjzkAkdh/eV02Iz4YmrbbDicIapYl+wkKVPjuhE2815aq8OZsjGjfiCBt+sNiC5SVX4L9utv/y0flhtlN1GPBYOXziN7n11Tl9Nlxa4FnsdmEyENALK+LsiE9GQLztD/SYnsQ5f1oeICNAe/ziPoDbKNVBQ6+fE111UiyBcC2VFuWrS1b/w4w3ZGI/NDo=;/sV6t8jOJntyjADNdFuEjQ=="
 ---
 

@@ -135,6 +135,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Baltimore maker of yarn purchased by Vice President Kamala Harris has stitched together a success story"
+    excerpt: "Karida Collins' Neighborhood Fiber Co., a Baltimore-based hand-dyed yarn company, has a famous customer in Kamala Harris and a history that has unrolled over 15 years."
+    publishedDateTime: 2021-04-15T00:24:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/baltimore-city/bs-md-pol-kamala-harris-yarn-neighborhood-fiber-20210414-h2zgpwv6cngs5oecqwcahmzfly-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
+    images:
+      - url: "https://www.baltimoresun.com/resizer/lEvIxWbWG4WCehzMKTB_ZYq_W0Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U6H6Y3D22ZC65BWCKVPSBH53I4.jpg"
+        width: 1200
+        height: 920
+        isCached: true
   - title: "Vice President Kamala Harris to talk about jobs, economy during visit Monday to Greensboro, High Point"
     excerpt: "Vice President Kamala Harris will visit both Greensboro and High Point to talk about the American Jobs Plan, growing the economy and creating jobs, a White House official said. It"
     publishedDateTime: 2021-04-14T20:53:00Z

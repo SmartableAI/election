@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "'Time for American troops to come home': Biden announces Afghanistan withdrawal by Sept. 11"
+    excerpt: "The war in Afghanistan has cost more than $2 trillion and more than 2,300 American lives. More than 38,000 Afghan civilians have been killed."
+    publishedDateTime: 2021-04-14T23:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-announces-afghanistan-troop-withdrawal-sept-11/7219176002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7219176002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7219176002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/48cd77d6-d669-4a97-9964-60c6ef952c50-AFP_AFP_1N99IM.JPG?auto=webp&crop=6000,3375,x0,y446&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden tells Americans ‘we cannot continue the cycle’ in Afghanistan as he announces troop withdrawal"
     excerpt: "President Biden formally announced Wednesday that the United States will withdraw all troops from Afghanistan by Sept. 11, saying in a speech from the White House that more time and more troops have failed to end the conflict and that is now time to close down America’s longest war."
     publishedDateTime: 2021-04-14T19:25:00Z

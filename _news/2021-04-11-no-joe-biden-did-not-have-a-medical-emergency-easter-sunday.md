@@ -261,6 +261,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Biden ends Afghan 'forever war' for US troops"
+    excerpt: "President Joe Biden says he will withdraw remaining U.S. troops from the \"forever war” in Afghanistan, declaring that the Sept. 11 terror attacks of 20 years ago cannot justify American forces still dying in the nation's longest war."
+    publishedDateTime: 2021-04-14T22:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-ends-afghan-forever-war-us-troops/7229266002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5944f4b9-9a4b-4d74-ad97-bf1296a10810_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "No, Joe Biden did not have a medical emergency Easter Sunday"
     excerpt: "Some social media users shared a video clip of what appeared to be reporters running on White House grounds to attend a press conference, but the video was filmed during the Trump administration."
     publishedDateTime: 2021-04-11T18:02:00Z

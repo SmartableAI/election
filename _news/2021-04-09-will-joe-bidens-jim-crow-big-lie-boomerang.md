@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "FLASHBACK: That time Biden called court-packing a 'bonehead idea'"
+    excerpt: "President Biden’s one-time opposition to the concept of “court-packing” could soon be put to the test as top Democrats introduce legislation to expand the Supreme Court."
+    publishedDateTime: 2021-04-15T01:00:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K9l84YnhZF4/flashback-biden-called-court-packing-a-bonehead-idea-in-1983"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-biden-called-court-packing-a-bonehead-idea-in-1983.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-biden-called-court-packing-a-bonehead-idea-in-1983.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5cb66fc0-6470-4d61-9ba0-a6917ddaf3bf/01338204-5f0b-4650-9535-384cca72244f/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "CDC 'doing the bidding' of the Biden administration by making health disparities a race issue: Paris Dennard"
     excerpt: "Republican National Committee national spokesperson Paris Dennard said the Centers For Disease Control is \"doing the bidding\" of the Biden administration by making health disparities a race issue."
     publishedDateTime: 2021-04-09T19:56:05Z
