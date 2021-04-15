@@ -106,6 +106,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden--Once a Fraud, Always a Fraud"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-04-15T18:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/15/biden--once_a_fraud_always_a_fraud_540553.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540594_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "QyMr0h+8JknplXAvIGn5m2WHBD7HxfnZwwdjv/siNG78sves8C7q/JK3weTq0RtefNHm/lXU5IxysJ+tTWa9x63FJPQXhxyxHFgmizQGicpRG6UNCBHLWvKXHcgK15FvS6GRptu8hHzN1PlTOBf1TIAZzgQmO0jQetOsBoZZAzB1y77SiXvBA2Kkbe7Xyb6e5hoMJycNdITk9/4B+/utq4P9mhm+eSbyC8ic3JUbJIpfIrjpDz/pWNsc5zvSUalNZqz0E9iMk1Pa4UO71WavIG3Tm5hnu7Qk3BLQmnDFBvmg9RWu8/ee8o+5WU8gftWvSy/YAvdkqbVH8jwsaZVscwD4ZPL5+GumgZ2vjnjMYhDlHLyJKbS58aV32T/ajAcpRpQxO6D05saO7Jg/6ddMuzViJguVkPKTECpKe0vY4MPwb8II87pYi/mb0G+haHoJN7UTl+WmX/ZGEjVY8QFvPIRUYjFfSS6X4N3G0cYSk+Wyr7hNnHhQX3b6m22jV5jmCjrxlWETfcsJM2z/KL7ZKg==;PiM4UFFZtdhA06R6z4QLnw=="
 ---

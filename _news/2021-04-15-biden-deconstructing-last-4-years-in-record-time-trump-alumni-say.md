@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-america-first-policy-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp"
 type: article
 quality: 190
-heat: 350
+heat: 370
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/chris-magnus.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "US walks back claim Russia put bounties on troops — but no Biden apology to Trump"
+    excerpt: "The US government on Thursday downplayed a bombshell report that Russia may have placed bounties on US troops in Afghanistan — but White House press secretary Jen Psaki dodged questions about"
+    publishedDateTime: 2021-04-15T19:17:00Z
+    webUrl: "https://nypost.com/2021/04/15/us-walks-back-claim-russia-put-bounties-on-troops/"
+    ampWebUrl: "https://nypost.com/2021/04/15/us-walks-back-claim-russia-put-bounties-on-troops/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/15/us-walks-back-claim-russia-put-bounties-on-troops/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/russian-afghan-bounties-hp.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

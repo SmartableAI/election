@@ -1,29 +1,33 @@
 ---
 category: news
 title: "The Latest: Ivanka Trump receives 1st dose of Pfizer vaccine"
-excerpt: "WASHINGTON — Ivanka Trump has received her first COVID-19 shot and is encouraging others to get vaccinated as quickly as they can. Two people familiar with Ivanka Trump’s plans say she was eligible to get vaccinated along with other White House staff when she worked as a senior adviser,"
-publishedDateTime: 2021-04-15T02:00:00Z
-originalUrl: "https://www.chron.com/news/article/The-Latest-South-Korea-reports-highest-jump-in-3-16099279.php"
-webUrl: "https://www.chron.com/news/article/The-Latest-South-Korea-reports-highest-jump-in-3-16099279.php"
-ampWebUrl: "https://www.chron.com/news/amp/The-Latest-South-Korea-reports-highest-jump-in-3-16099279.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-South-Korea-reports-highest-jump-in-3-16099279.php"
+excerpt: "Ivanka Trump has received her first COVID-19 shot and is encouraging others to get vaccinated as quickly as they can"
+publishedDateTime: 2021-04-14T21:02:00Z
+originalUrl: "https://www.washingtonpost.com/health/the-latest-south-korea-reports-highest-jump-in-3-months/2021/04/14/81663194-9cdc-11eb-b2f5-7d2f0182750d_story.html"
+webUrl: "https://www.washingtonpost.com/health/the-latest-south-korea-reports-highest-jump-in-3-months/2021/04/14/81663194-9cdc-11eb-b2f5-7d2f0182750d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/the-latest-south-korea-reports-highest-jump-in-3-months/2021/04/14/81663194-9cdc-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/the-latest-south-korea-reports-highest-jump-in-3-months/2021/04/14/81663194-9cdc-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -44,6 +48,6 @@ related:
         height: 1657
         isCached: true
 
-secured: "WI4xmZ60PQDNij9IV9f/YS3D1+uvPIHXK52IJwaygD/aAmzeCb1uXv0YGGe+iDsRuUjGohrK6AkHeoYPjTGBEwrTdfwAqNEkBtraiT8xndG1qdF7WQlIaKnvhi/YgJymXOOnllNWAsX5WuPWNdvXnlOhkWdCQUv1Em8eYv0oapd9TeybjnZunY/OD4oOQOETmLiX2FTEbY1jYQKHG6hu6eArTVRcH+aZp7F3sn2gxfG/RpQXGgu1soliI/379/elOsURaA84B+HsXj4Vph3yGEJaD0L2lzW6Bfsu3NqhkwBitL2ZawnmzP424R/PBaBe6r9Esl/Yoz5teQnawxNFchdTZkuTGYRhdkTqsbQfuFc=;39LPIM/5wKH9vGHchVE35Q=="
+secured: "cERKY0XYoxDPLxof08mpnUiDdKcyJEWLPo+2p0LMijL9l63e/p3fYmvTcgi/8gx7oALdTUluW4bZz6t0K9hZe5Je2PbDbEZY6fhHQOiCVsDDrUNueGKxKztPOu4a8rjiPa+WgAH8xSEqVdYfHJl3kNSbtRwlqTXGCrxtxUfvTW52e4IBAvktNu7LjT0OI3YaEMaMenlePyRaljJhm2Gmcgp5wBxbKagMI6DTDu6XpNJ34kJd5JYOCIzzwVZJhUdL+C3o3xrhbxIGm99JjR8BC190wO8QHDlfYwxiyHjypOLy9VNFjjQ7UybZ3AWeis3F+bQrvOfVa2lNbgdK7yV5zJu7XSYtLTXd0JuEMWSZ/uw=;5rBGm6/hKN0WnMMS/rxhWg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-gun-control-atf-david-chipman
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden--Once a Fraud, Always a Fraud"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-04-15T18:19:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/15/biden--once_a_fraud_always_a_fraud_540553.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540594_5_.jpg"
         width: 750
         height: 500
         isCached: true

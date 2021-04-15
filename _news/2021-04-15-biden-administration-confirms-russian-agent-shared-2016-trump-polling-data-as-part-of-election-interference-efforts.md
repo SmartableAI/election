@@ -2,7 +2,7 @@
 category: news
 title: "Biden administration confirms Russian agent shared 2016 Trump polling data as part of election interference efforts"
 excerpt: "The Biden administration on Thursday revealed new details about Russia's extensive interference in the 2016 and 2020 US elections, including disclosing for the first time that a Russian agent who received internal polling data from the Trump campaign in 2016 passed it along to Russia's intelligence services.\n"
-publishedDateTime: 2021-04-15T15:23:29Z
+publishedDateTime: 2021-04-15T17:29:09Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xnZ24B1pyEg/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xnZ24B1pyEg/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-russia-election-interference/index.html"
@@ -433,6 +433,6 @@ related:
       domain: nytimes.com
     quality: 108
 
-secured: "UGGtZ3AmbNFAP0XEtMJuwLinhmEikLMuYANHP9/9VMqaHVANBdyexh4lHTujRKN2XSH6nKs7KPvKZDzQJabL33W3b7w2VgGEE5g7do1iyOoj7aH622h0+cRcHBOaCQ5R87pLJElzdJ93OSiCFeoACkixURN6esgE6rec7ZH3bnBJDF8UBa/QsfHuZc0WjUP5c8gvWgonOwiriNEnBM8fXnyajQy3xkTxmle0xuwxD21ZmtcwrINd0AiSnkoFx1VKRsjIqI2hhIeolyqPV8b8AhTExwUaZe92tn3inq6Igu2hV6FzKbeTC8g9RxecKYvetEo4VJ4dI2chkqC1VYYcvrs9EP//pqFaXQojqDAUnzY=;zIE04kupMP/QI6Z/JMyjZg=="
+secured: "Aw1ab7G/++Py0FpSaX8YxfCoZM7CXg23ITxRgwOp4HIf3ZQIJ+ZUooGZZPYUEo0iUhYzl7UbhpYbPcxTcDPk44Hs41qAYooc1KguiZ3e/Bi6lNWdMDTX+zpVnVR0YRrrD4Ws0SYwNRsvrn/pRsldOuXuQKWjIRwWfn0Q/1FB35dWUbGIY10xdRnt43hwOn52ZmxacrWvq5JF/LuvDsc6xWkKswsuLby8HJ04NckhQzjcyzE63Pz2O67Zvwk68PSXu8YXacvSoYfnu2dFr2/hqf8v5JBIGLHD9PpnCrc7hOInMgrnAKu+MAPwLQVaYkctjKwZX06Yf/JoLNvyLTnZyscwn+BLeSvDxZ4UU0Ol5KM=;aNWwSo7UumkwkaC32p5iPg=="
 ---
 

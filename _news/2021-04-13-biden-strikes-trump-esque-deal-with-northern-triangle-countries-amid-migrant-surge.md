@@ -140,6 +140,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US walks back claim Russia put bounties on troops — but no Biden apology to Trump"
+    excerpt: "The US government on Thursday downplayed a bombshell report that Russia may have placed bounties on US troops in Afghanistan — but White House press secretary Jen Psaki dodged questions about"
+    publishedDateTime: 2021-04-15T19:17:00Z
+    webUrl: "https://nypost.com/2021/04/15/us-walks-back-claim-russia-put-bounties-on-troops/"
+    ampWebUrl: "https://nypost.com/2021/04/15/us-walks-back-claim-russia-put-bounties-on-troops/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/15/us-walks-back-claim-russia-put-bounties-on-troops/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/russian-afghan-bounties-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Press Is Infrastructure for Biden"
     excerpt: "John Cornyn came under blistering attack from Washington Post scribe Aaron Blake for having wondered whether President Joe Biden is really in charge, since he's kept an extremely low profile with the press."
     publishedDateTime: 2021-04-14T18:51:00Z

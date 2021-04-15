@@ -49,7 +49,7 @@ related:
         isCached: true
   - title: "Biden administration confirms Russian agent shared 2016 Trump polling data as part of election interference efforts"
     excerpt: "The Biden administration on Thursday revealed new details about Russia's extensive interference in the 2016 and 2020 US elections, including disclosing for the first time that a Russian agent who received internal polling data from the Trump campaign in 2016 passed it along to Russia's intelligence services.\n"
-    publishedDateTime: 2021-04-15T15:23:29Z
+    publishedDateTime: 2021-04-15T17:29:09Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xnZ24B1pyEg/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-russia-election-interference/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/biden-russia-election-interference/index.html"

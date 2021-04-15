@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-un-ambassador-says-white-supr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-un-ambassador-says-white-supremacy-weaved-into-americas-founding-documents.amp"
 type: article
 quality: 168
-heat: 168
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Nikki Haley calls Biden UN ambassador's US criticism 'a win for our enemies'"
+    excerpt: "Nikki Haley on Thursday tore into the claim by U.S. Ambassador to the U.N. Linda Thomas-Greenfield that White supremacy was \"weaved\" into U.S. founding documents and principles – with Haley saying the criticism was a \"win for our enemies.\""
+    publishedDateTime: 2021-04-15T19:52:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fpLTW2A25SM/nikki-haley-biden-un-ambassadors-us-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8d534a1-f1fb-40a2-8e20-6ef865bf5a8f/389b01d1-f2ed-4a86-9a21-9abec5550598/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "elfCJL8nBVziFMqWlcNoMzuzFjqyA66J5h9WdDac9nzI5F+pdcv4wHOBc2RH/K8TLDiYWcjOfFfAn2X0xEF9hfipNrsi8Be50HWKN0ZoGmjE+L/7WUrXki7TGH1NfxOfhMf7ftDB4wpMdIWtGC+x3YBdQId8yR5ctTO5h6Eo1GAyFZy/0+suUt6CkNCZFmcn/mb9NcxIwODUJiPkG0JTz7T8Hm/YV+hiY3nXizDnTfmJvcel9/1uPWQeN/Q8ENHqzaYwZAkzicSFCdLGTPDhYHYVpbWFV8yyRrculnvAOKAGy7dCVyDnJrFngPXCwG0Y4WNaRR81KWdUpsLFiZnkb/ylK4cXLZ3YNw9CHs4EKgc=;hF1LxA8gy7CYwSORTNqLIg=="
 ---

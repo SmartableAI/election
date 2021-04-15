@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Biden not ready to say whether he backs Dem court-packing legislation: White House"
+    excerpt: "President Biden is not ready to say whether he supports legislation introduced by House and Senate Democrats that would expand the Supreme Court and is waiting for the findings of a bipartisan commission he impaneled last week that will be reviewing a range of proposed potential reforms to the high court,"
+    publishedDateTime: 2021-04-15T18:41:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S3pqByIguVk/biden-not-ready-to-say-whether-he-backs-dem-court-packing-legislation-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-not-ready-to-say-whether-he-backs-dem-court-packing-legislation-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-ready-to-say-whether-he-backs-dem-court-packing-legislation-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Will Joe Biden's Jim Crow Big Lie Boomerang?"
     excerpt: "The big lie works -- until it doesn't. The big lie in this case is Joe Biden's charge that the changes in Georgia election law passed by"
     publishedDateTime: 2021-04-09T10:41:00Z
