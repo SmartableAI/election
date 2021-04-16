@@ -745,6 +745,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Facebook panel's Trump ruling delayed as comments flood in"
+    excerpt: "Facebook’s quasi-independent Oversight Board says it will take longer than expected to decide on whether or not the suspension of former president Donald Trump should be upheld because it needs more t"
+    publishedDateTime: 2021-04-16T15:30:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77117921"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77117921"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77117921"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_81d1a60f82164f3b912e3fb4fa8759af_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Republican leaders diverge on Trump, putting party in limbo"
+    excerpt: "Republican leaders of Congress have been making the trip to Mar-a-Lago to see Donald Trump, with the notable exception of Mitch McConnell."
+    publishedDateTime: 2021-04-16T14:56:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-04-16/gop-leaders-diverge-on-trump-putting-party-in-limbo"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-04-16/gop-leaders-diverge-on-trump-putting-party-in-limbo?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-04-16/gop-leaders-diverge-on-trump-putting-party-in-limbo?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/562e0c6/2147483647/strip/true/crop/6000x3975+0+13/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9b%2Fbd%2Fbcafc555def25f1c9b020abc8e07%2Fadf2de08c39b4733af2001dd4871dbb5"
+        width: 320
+        height: 212
+        isCached: true
   - title: "US says Russia was given Trump campaign polling data in 2016"
     excerpt: "The Treasury Department says Konstantin Kilimnik, a Russian and Ukrainian political consultant, shared sensitive information from Donald Trump’s 2016 presidential campaign with Russian intelligence se"
     publishedDateTime: 2021-04-16T05:15:00Z
@@ -1584,6 +1616,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "House Republicans Who Voted to Back Trump's False Election Claims Lag in Fundraising"
+    excerpt: "House of Representatives Republicans who supported former President Donald Trump's attempt to overturn his election defeat on average raised less in campaign funds in the first three months of the year than those who opposed it,"
+    publishedDateTime: 2021-04-16T15:40:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/house-republicans-who-voted-to-back-trumps-false-election-claims-lag-in-fundraising"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/house-republicans-who-voted-to-back-trumps-false-election-claims-lag-in-fundraising?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-16/house-republicans-who-voted-to-back-trumps-false-election-claims-lag-in-fundraising?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
   - title: "Pence launches group to defend Trump record, promote agenda as he eyes presidential bid"
     excerpt: "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ..."
     publishedDateTime: 2021-04-07T15:21:00Z
@@ -1706,6 +1749,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Facebook Oversight Board Extends Timeline to Decide on Trump Ban"
+    excerpt: "Facebook Inc's independent oversight board said on Friday it had extended the timeline for deciding whether to uphold former U.S. President Donald Trump's indefinite suspension from Facebook and Instagram."
+    publishedDateTime: 2021-04-16T14:48:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-16/facebook-oversight-board-extends-timeline-to-decide-on-trump-ban"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-04-16/facebook-oversight-board-extends-timeline-to-decide-on-trump-ban?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-16/facebook-oversight-board-extends-timeline-to-decide-on-trump-ban?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z

@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-21-moncef-slaoui-trumps-vaccine-chief-very-concerned-about-gop-vaccine-hesitancy.md",
+      "title": "Moncef Slaoui, Trump's vaccine chief, \"very concerned\" about GOP vaccine hesitancy",
+      "excerpt": "the former scientific head of Operation Warp Speed during the Trump administration, said he's \"very concerned\" and perplexed by hesitancy among some Republicans to take COVID-19 vaccines, and encouraged former President Donald Trump and GOP leaders to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "originalUrl": "https://www.cbsnews.com/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/21/ba6799a6-7b65-4da7-984d-2a4c936daaab/thumbnail/1200x630/ecff0ddb891220417838e9230d224413/moncef2.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/moncef-slaoui-vaccine-hesitancy-trump-face-the-nation/",
+      "publishedDateTime": "2021-03-21T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-biden-response-to-border-crisis-isnt-incompetence-but-is-by-design-tom-homan-tells-mark-levin.md",
       "title": "Biden response to border crisis 'isn't incompetence', but 'is by design', Tom Homan tells Mark Levin",
       "excerpt": "President Biden \"sold out this country to the progressive left to win an election,\" former Immigration and Customs Enforcement Acting Director Tom Homan told \"Life, Liberty & Levin\" in an interview airing Sunday.",
@@ -1302,58 +1354,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-biden-meets-with-un-security-council-members-to-talk-climate.md",
-      "title": "Biden meets with UN Security Council members to talk climate",
-      "excerpt": "President Joe Biden has told the permanent representatives of the U.N. Security Council that the United States will join the international body’s Group of Friends on Climate and Society ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 605,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_cb93cfce0f6f4c5a8e4aed32c7515b59_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meets-security-council-members-talk-climate-76549205",
-      "publishedDateTime": "2021-03-18T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

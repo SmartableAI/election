@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
     quality: 157
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Chuck-Fleischmann-Kamala-Harris.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "WaPo mocked for fawning feature on Kamala Harris' crocheting: 'How's the border going?'"
+    excerpt: "Vice President Kamala Harris loves to crochet, the Washington Post reported this week, in its latest glowing feature of the VP. The paper followed Harris to Fibre Space, a boutique yarn shop in Alexandria,"
+    publishedDateTime: 2021-04-14T14:49:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-crochet-scene-wapo-fawns"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-crochet-scene-wapo-fawns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-crochet-scene-wapo-fawns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/235ea290-a0b8-43c9-98fa-8c54bef9113d/ec81bd07-418e-415b-815a-769716618d4e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

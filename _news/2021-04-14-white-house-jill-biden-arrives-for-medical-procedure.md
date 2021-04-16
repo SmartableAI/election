@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden hosts Japan’s Suga as first foreign leader at the White House"
+    excerpt: "President Biden is making a point as he welcomes Japanese Prime Minister Yoshihide Suga to the White House on Friday, using the first in-person visit by a foreign leader to emphasize that his administration sees Asia as its highest priority."
+    publishedDateTime: 2021-04-16T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-hosts-japans-suga-as-first-foreign-leader-at-the-white-house/2021/04/15/cd56f946-9e1a-11eb-b7a8-014b14aeb9e4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hosts-japans-suga-as-first-foreign-leader-at-the-white-house/2021/04/15/cd56f946-9e1a-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hosts-japans-suga-as-first-foreign-leader-at-the-white-house/2021/04/15/cd56f946-9e1a-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XYYPGMU6L4I6XAAFX76DUOPW2M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "rUVOi3ui8TVXxZps9J8sVqkzsAJfONNkHcwDzAcChjl0kXdBENaojZjrnKCfw6O4wumkWyZLZRlzttFRXjc09yEUwEZmi7fOsJKyAikZntRMOxQz+0JkHhssvzRttYWbcvfUSFQJUcELQIix2tpx0xF0MycsURVRYp+IHXU5gR25O6NL3f4Hz2Hf9G1Q9ZnV6TjsjdoAVh3a3JouT/O24UybhAMQhw29tOr6mkRDOFcceHoN3/eOTnbJkiO0s1OTZ925VDjYiLeVNMC9VgCKrtLdP2ADl7VkWhTD5ODyIGpxpBmP4pS+fT4HelYK0FUOK8EtsNaSTlKoQRoTI4dWRULM3bepuVEFCu3ZIkVMw+Q=;GGEMIvliCXhubF8M+DQ6tQ=="
 ---

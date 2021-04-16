@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-03-05-hiring-surged-in-february-the-first-full-month-of-bidens-presidency.md",
+      "title": "Hiring surged in February, the first full month of Biden's presidency",
+      "excerpt": "Hiring around the U.S. sped up in February, the first full month of the Biden presidency, in a sign that the labor market is gathering strength. Employers added 379,000 jobs last month, the Labor Department said Friday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
+      "originalUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 645,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/04/bc169c75-f742-42c5-b2a8-649e4a44e148/thumbnail/1200x630/ec0c83d0aabe7014635179e56c95ef66/hiring-gettyimages-1229892232.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/",
+      "publishedDateTime": "2021-03-05T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.md",
       "title": "Supreme Court drops 'sanctuary city' cases following Biden DOJ request",
       "excerpt": "The Supreme Court on Thursday dismissed a number of cases testing the Trump administration’s plan to withhold law-enforcement grants from cities that refused to cooperate with Department of Homeland Security efforts to deport noncitizens arrested by local police.",
@@ -1296,49 +1348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-criminal-investigation-into-trump-organization-aimed-at-flipping-cfo-report.md",
-      "title": "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report",
-      "excerpt": "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html",
-      "publishedDateTime": "2021-03-04T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

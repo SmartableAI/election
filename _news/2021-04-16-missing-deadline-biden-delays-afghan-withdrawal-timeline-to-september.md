@@ -2,9 +2,9 @@
 category: news
 title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
 excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
-publishedDateTime: 2021-04-16T13:17:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.html#!"
+publishedDateTime: 2021-04-16T11:16:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
 type: article
@@ -205,6 +205,6 @@ related:
         height: 320
         isCached: true
 
-secured: "D8J+/zSwZ30tjC+VaWwQRQUy/ToIz8+RQ92bjDiSZj3Ef5nSo4cWXe7ChCl1BBp3+o0oetqe69jxFp7FS4cp8vmNsO7v3tthVp6gHs4t5wkV9/u3IYbRKFKAG0f6fe/UnyOawVDekajPfcpCRx2Ua+GOS/0IWJgBWnHJKMI14g3CojuikKytXHv1cwJN7+HVcbH34fv6eXwPYQaxHC3vgh8h2/v8fvwuLZInQfB997QApV68huMMamzfRF9QTAGseefrRGpHHNmkVLPR7anXthWYMlLtHadO9IhUHVew2FxEHAt0mV5ZVB0tpk1p5erCRlzVoDuZeaG2mjgOgqY9nyKPUhtLMor6hGxUixYqJFc=;qDIlCEWbrqcYhJKtylteqQ=="
+secured: "axeU2ZYw4BnpSxp88Ouhjcsx8WeixiQQdW5gGIR0yIprPxzUqvWAGPTxkp5oG7Y2yjAvnhHZOh2ad++0JS4fOhuuR2IR1ItTTMSj3M9rtvQFXVYtLYcpLpHOma0DNtRQmI/Cby1HJp+p1C1scRG4W/zXH3ZsVKIuMGPJevSdIBdSsN2SLEPkumwrIEGQabPsYETpBNix0dmyymU1WCTeZMTAKSCNMA1WUTWEat+ho+DVeBBnC2DeOccUJZnmeXMsqylDqvoP6leVpod2S7hPOWCfVEMYpXjqS8JUggsUmOOwNhnCQivST+67hQuH261yGFtenLCLJvXSbd8mqEJOWUZuqfzFrtmNmbJsly+jsAs=;oI2hsmsYH48v6jhtabSqsw=="
 ---
 
