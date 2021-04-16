@@ -346,6 +346,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "How Joe Biden escapes life in the White House bubble"
+    excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
+    publishedDateTime: 2021-04-15T15:23:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60776f334206150018175938?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Analysis: Chronicling Donald Trump’s 10 worst abuses of power"
     excerpt: "Former President Donald Trump flouted the limits of presidential power unlike any of his recent predecessors, leaving behind a legacy of unmatched abuses that range from violations of longstanding"
     publishedDateTime: 2021-01-24T14:50:00Z
