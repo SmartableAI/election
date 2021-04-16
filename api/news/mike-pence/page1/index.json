@@ -159,6 +159,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-15-document-reveals-new-details-of-dramatic-mike-pence-call-during-capitol-attack-building-not-secure.md",
+      "title": "Document reveals new details of dramatic Mike Pence call during Capitol attack: \"Building not secure\"",
+      "excerpt": "Friday marks 100 days since the January 6 attack on the Capitol building. New numbers from the Justice Department show more than 400 suspects have been arrested from at least 45 states. CBS News obtained a copy of the Capitol Police inspector general's findings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/capitol-attack-watchdog-report-call-mike-pence/",
+      "originalUrl": "https://www.cbsnews.com/news/capitol-attack-watchdog-report-call-mike-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/15/7065816f-dc4b-4570-af84-f131edffa472/thumbnail/1200x630/e72edcb19f6d93d91df181f37694a9f2/cbsn-fusion-capitol-police-watchdog-set-to-testify-new-document-reveals-details-of-lead-up-to-january-6-riot-thumbnail-693345-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/capitol-attack-watchdog-report-call-mike-pence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-attack-watchdog-report-call-mike-pence/",
+      "publishedDateTime": "2021-04-15T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-as-riot-raged-pence-pleaded-with-the-military-to-clear-the-capitol.md",
       "title": "As riot raged, Pence pleaded with the military to ‘clear the Capitol’",
       "excerpt": "About two hours after a pro-Trump mob shattered windows and smashed doors to enter the Capitol on Jan. 6, then-Vice President Mike Pence called the acting defense secretary urgently seeki ...",
@@ -1502,49 +1554,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-fox-nation-to-premiere-new-series-on-rush-limbaugh-narrated-by-mike-pence.md",
-      "title": "Fox Nation to premiere new series on Rush Limbaugh, narrated by Mike Pence",
-      "excerpt": "It is an ambitious and affectionate salute to a man who regularly drew 15 million talk radio listeners for three hours of conservative thought each day. Fox Nation is set to premiere “The Age of Rush,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/04/1_4_2021_beltway8202_c0-0-2500-1458_s1200x700.jpg?99c7ae3bdbf327c408533720fb3c8c1f3a8a793f",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
-      "publishedDateTime": "2021-03-06T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
