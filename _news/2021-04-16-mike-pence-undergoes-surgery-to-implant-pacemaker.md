@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Vice President Mike Pence has pacemaker installed"
+    excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
+    publishedDateTime: 2021-04-15T22:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2291618523024/2021/1/ba1077f3870cc8a125397f00953147e2/v1.5/Former-Vice-President-Mike-Pence-has-pacemaker-installed.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
     excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
     publishedDateTime: 2021-04-15T19:10:00Z

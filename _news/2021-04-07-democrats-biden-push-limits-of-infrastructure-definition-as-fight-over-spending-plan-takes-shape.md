@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden invites Russia to a summer summit in Europe amid sanctions"
+    excerpt: "President Biden on Thursday told reporters that despite newly instated sanctions on Russia, he hopes President Vladimir Putin joins him for a summit in Europe this summer."
+    publishedDateTime: 2021-04-15T23:06:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eaoBnqDYoUs/biden-extends-invitation-to-russia-for-europe-summer-summit-amid-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-extends-invitation-to-russia-for-europe-summer-summit-amid-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-extends-invitation-to-russia-for-europe-summer-summit-amid-sanctions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b9ac759-5944-4eae-a66a-9543f7b07e79/4d7bc46b-988a-4b72-8a6a-96c59393937f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
     excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
     publishedDateTime: 2021-04-08T00:02:07Z

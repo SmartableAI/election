@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Administration Says Russian Intelligence Obtained Trump Campaign Data"
+    excerpt: "The Biden administration revealed on Thursday that a business associate of Trump campaign officials in 2016 provided campaign polling data to Russian intelligence services, the strongest evidence to date that Russian spies had penetrated the inner workings of the Trump campaign."
+    publishedDateTime: 2021-04-15T22:55:00Z
+    webUrl: "https://www.nytimes.com/2021/04/15/us/politics/russian-intelligence-trump-campaign.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/15/us/politics/russian-intelligence-trump-campaign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/15/us/politics/russian-intelligence-trump-campaign.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/15/us/politics/15dc-kilimnik/merlin_153673992_034f294e-d00f-486c-b0b8-b12b907e0ca4-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "NYT: Trump campaign duped donors into repeat donations"
     excerpt: "The New York Times is reporting that former President Donald Trump's campaign tried to make up a fundraising gap during the 2020 election cycle by signing up one-time online donors for repeat donations without their knowledge."
     publishedDateTime: 2021-04-05T13:23:00Z

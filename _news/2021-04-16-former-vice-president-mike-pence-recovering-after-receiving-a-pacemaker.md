@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surger
 cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
 type: article
 quality: 75
-heat: 195
-published: true
+heat: -1
+published: false
 
 provider:
   name: KHOU 11
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Vice President Mike Pence has pacemaker installed"
+    excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
+    publishedDateTime: 2021-04-15T22:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2291618523024/2021/1/ba1077f3870cc8a125397f00953147e2/v1.5/Former-Vice-President-Mike-Pence-has-pacemaker-installed.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Former VP Mike Pence undergoes surgery to implant pacemaker"
     excerpt: "The 61-year-old former vice president had previously been diagnosed with a heart condition called asymptomatic left bundle branch block."
     publishedDateTime: 2021-04-15T21:03:00Z

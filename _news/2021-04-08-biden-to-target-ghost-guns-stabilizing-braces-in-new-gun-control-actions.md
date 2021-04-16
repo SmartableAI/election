@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden invites Russia to a summer summit in Europe amid sanctions"
+    excerpt: "President Biden on Thursday told reporters that despite newly instated sanctions on Russia, he hopes President Vladimir Putin joins him for a summit in Europe this summer."
+    publishedDateTime: 2021-04-15T23:06:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eaoBnqDYoUs/biden-extends-invitation-to-russia-for-europe-summer-summit-amid-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-extends-invitation-to-russia-for-europe-summer-summit-amid-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-extends-invitation-to-russia-for-europe-summer-summit-amid-sanctions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b9ac759-5944-4eae-a66a-9543f7b07e79/4d7bc46b-988a-4b72-8a6a-96c59393937f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden DOJ nominee Kristin Clarke defends past controversial writings on race"
     excerpt: "Justice Department nominee Kristen Clarke defended her past writings and said an op-ed she wrote while in college stating that Black people are superior was satirical, after Sen. John Cornyn, R-Texas, raised concerns over the piece."
     publishedDateTime: 2021-04-14T17:46:03Z

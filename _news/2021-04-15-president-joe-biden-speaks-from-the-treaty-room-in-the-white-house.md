@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden speaks from the Treaty Room in the White House"
-excerpt: "President Joe Biden puts a card into his pocket as he speaks from the Treaty Room in the White House on Wednesday, April 14, 2021 about the withdrawal of the remainder of U.S. troops from Afghanistan."
+excerpt: "President Joe Biden removes his mask to speak from the Treaty Room in the White House on Wednesday, April 14, 2021 about the withdrawal of the remainder of U.S. troops from Afghanistan. Pool Photo by"
 publishedDateTime: 2021-04-14T18:53:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/142068da062d4b6150e66a2987f13ced/President-Joe-Biden-speaks-from-the-Treaty-Room-in-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/142068da062d4b6150e66a2987f13ced/President-Joe-Biden-speaks-from-the-Treaty-Room-in-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4bfee34e00e76fa6a93aff450e9e3d9a/President-Joe-Biden-speaks-from-the-Treaty-Room-in-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4bfee34e00e76fa6a93aff450e9e3d9a/President-Joe-Biden-speaks-from-the-Treaty-Room-in-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/142068da062d4b6150e66a2987f13ced/BIDEN-AFHGANISTAN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4bfee34e00e76fa6a93aff450e9e3d9a/BIDEN-AFHGANISTAN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -387,6 +387,6 @@ related:
         height: 433
         isCached: true
 
-secured: "a+rjInAtgR2YmGib43Bok0IU3Gw5/MhhtPG4TmIQ+6IE1lFu8T1IDY1CebVNwRxjYK3JfruNOh+avFXHuQOurQCAT7SmYtTmBj7Gv3Ut8JLGpl854FzM/ZCFej7eW0y40Rk1UukpnZjyo4ltb3MxlLs1X/KG2rMArd8R09dYdFUBc3/mAZAphmVBul7n48Zho92AltH2VF2Hr4PZR7K4+Z0Sl+R1VIrWVx7LGA8Yp+RrprAGwwttVu9pEFzUho64Lz1hZ5TOl5o5xKGb9Da7E286H1L5YgAiLaS5WbT7KZzqL1aa6FuoOA0spcIzsrx8JBDqwD/NEqHe6O2MtlXhAzbj+P2EUomi82Z89tzfUOU=;RZ5PYIlP9dBvb0U2Ce9qfQ=="
+secured: "bEMTPUrAUOFcUJnqkDAESEQCeCCTF1aU5zCkpTJVOoq8BVXQIau4gxqE37uFty5ev7/wt4RGQzjJ9RveO+2G8JsyWpG2SUYLzvaGfra4dCxLpNFeBZ+0M/ZvggxPYN02x/xoeagF4pBDlFEVH4XEHQ80nX7/TOk9haCjC2eM9Q8yrpt0NJlTqew+hPkWa6yDJ1MGsctSOVqRNJjyi0XD2/ZRDpzC1cVMdC8zOixYcb1r903n7ehNQyxTbjp80tmIFsX6M2IfjKJaSsdtFOcymBQjgzyFX5RIs5FUt23f0/ckUyRE2ZKhxlw6yrm2WoxiC5oGbk0c687c7qMWF2NQp7U49/WUHNeggy7zHBCfJBI=;TEn3hZR0cofvWI0mXy/IFw=="
 ---
 

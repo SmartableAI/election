@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Vice President Mike Pence has pacemaker installed"
+    excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
+    publishedDateTime: 2021-04-15T22:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2291618523024/2021/1/ba1077f3870cc8a125397f00953147e2/v1.5/Former-Vice-President-Mike-Pence-has-pacemaker-installed.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
     excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
     publishedDateTime: 2021-04-15T19:10:00Z
@@ -118,6 +134,6 @@ related:
         height: 889
         isCached: true
 
-secured: "ojOsZmdazZB7MTiiE8zAOVkRFRM44w8p7Txt+cz6ak5m10vzQFkGxyaQWPAVifObybiFow0cblgTODm4UcZQCsAVU1aAfxpESPrwWu6Iguipg2GM8OzaFc0fQITeLvsJkiW+efPwH0P9sAaqMzVBiTxedvaqLls+Y39zOY3Lp9/YyLpykdEnGak7eftMZfh6EFjwIOSMpTs3Zfc/F0R9FkpGsp/w+uo4ajqkEQK3lBRNPkgScyVl9MITjrwZmrYoULvSga4CL8wX2Vc/AMLbN4GO4Z3y+7mDDMsXLK7B3lgivTY1pVNusW/nDqrFd0MCEZrpCVjr9R94hYLCyrB8vtrN1+iAlec6VEFDdMOF5GE=;hYPCXbl3tR+YScTJq2Dvzg=="
+secured: "Xp8btCa6rXZRL+xIEmb1Qit8VKHgseYynPjrYybWfHQdSjP/q5znu05JHOgKINu06KfNsrmJ3aSh7T4vg66gE7F1Rx9dOv5cw4GVNWgsD4NXb+hzp5G2VMVNv8K/rp9jnr29kPYU3RH2hgf4NGDX8p5HUyviCh3w9XWqzwjqhzz2El9S9XPB9m+ZyCFX0B9FoHPooLSjRtNw+MAIyEVzbqgKUfJe0wQoKUiCvgTkqshCcaRFbjLNHA14UmR23OwObCh4yyeQee+YI3BwBpkMMu6amCkn65kPB7/dI1/TFdLebKSPP/NwRzP8Cj6MKd0EhTxmsepyRWIpAZpINaLIZaivD8HVT69dv1jUhD/3pvUMPw01A+Yb+te8t3FU4wh9d/eTA6DpjwrHpTRssf3J+0eV7IJQw95dA0vlLGGgwhSZmq5pP2TktF59pOUgnNJYG0qy1P3dXhL4XDRAFmcisRKPvc8OC2GnCM8Ymr7+8wmULYaRAl5sRv/bkUALvkvqrgwc12qvRp6zK4MIsERe/Q==;mppiS0F+nPlrZZV4CemZYw=="
 ---
 

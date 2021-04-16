@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says sanctions against Russia are proportionate response: 'Now is the time to de-escalate'"
+    excerpt: "President Joe Biden said Thursday that the sanctions he announced on Russia are a proportionate response to cyber-attacks against the US and interference in two different presidential elections, and said, \"Now is the time to de-escalate\"\n    \n"
+    publishedDateTime: 2021-04-15T22:41:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JY6ZcRLTSWY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/russia-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/russia-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170518-01-biden-russia-comments-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats send letter to Biden requesting immigration bill in second part of infrastructure package"
     excerpt: "A bicameral group of Democratic lawmakers sent a letter to President Joe Biden on Tuesday requesting he prioritize legislation that would offer a pathway to citizenship to undocumented essential workers in the second part of his two-part infrastructure package set to address education and childcare.\n"
     publishedDateTime: 2021-04-13T18:01:58Z
