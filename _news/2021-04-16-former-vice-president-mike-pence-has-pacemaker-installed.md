@@ -77,17 +77,17 @@ related:
         isCached: true
   - title: "Former Vice President Mike Pence received pacemaker, full recovery expected"
     excerpt: "Former Vice President Mike Pence received a heart pacemaker device during a routine surgery on Wednesday and is expected to fully recover, a spokesman said on Thursday."
-    publishedDateTime: 2021-04-15T19:33:00Z
-    webUrl: "https://www.mytwintiers.com/news-cat/us-politics/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
-    ampWebUrl: "https://www.mytwintiers.com/news-cat/us-politics/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
-    cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/us-politics/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
+    publishedDateTime: 2021-04-15T19:14:00Z
+    webUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
+    ampWebUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
+    cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
     type: article
     provider:
-      name: MyTwinTiers.com
-      domain: mytwintiers.com
+      name: KNWA News
+      domain: nwahomepage.com
     quality: 73
     images:
-      - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2021/04/AP20245798042239-e1618513616944.jpg?w=1280"
+      - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2021/04/AP20245798042239-e1618513616944.jpg?w=1280"
         width: 1280
         height: 755
         isCached: true
@@ -134,6 +134,6 @@ related:
         height: 889
         isCached: true
 
-secured: "HFAHIlRHXmZXuetykEqfx1/6vcW4bCyjcRyoTRLNiNMSNGddD+l5TzmBTNRSpFlRvQ9ZYJh5ubucZS+V+q+HOevkJ7S6seOS3+CWsAss/DG4IWBGEg5S4NM0+neclMicczkuYhPD9GU6JKMaikrR8ODNV5pW0HsGhIsWjDvng6+FlMosIjH5HT9qk3gBAuIGRUWcF2eqRo6czXrhvTCTitGiP3X0lsbyEEcofjMkKmMA7RzU5QnqsoUVG/5MR8fdeWiVjEjOZuHjtA6rNczx63RtSakafNJxU8oVV/PoPiEzcQdA0bQDzBYq8oLSjCpsrAxXVrydi/XuxwUSMBRUAM64pnmfuXyuShuid0mYGHQ=;ZrrQUe5x1RrdwJmxOf/zxQ=="
+secured: "P0bGF47MQBqKjLcLX8xEiU9lhqIBAS0nJJJvkKQHQFuKtUdK8xmThNwsrkeEHWAk9dSPtg42gUkpVU6XsF+iv50/k6bn8+us0gFO6Wnyxk0EEqhzFT2bNOteR/2fVXvbpMLbEiFksVt/TkOdGZPF0+cXP7i6la+6YBoNQj8s75VXHfDj9YWva9lhnnMGskXVmCBt4SVtPXtlva/0nuyIkf1N0YBYN8SUox6v1/GMGQsbk/yGntSayz8tAO29bJKHnXqw5BI56FpEegMs67TRhYqIrgBNh9J9WpbHWuvZM3FQ/77eE9jB2G/MB/Wcy1fzkxl4pKRyfOqqs9QX+K2AG3NJYaEgtOWimVjZz3CC0pGX1nsSGOPaqH6cTL7w1GoC3WE6H0rtiSlo4LYPtnu8hITRjAPM4ezALPukfABVBwJsLzHGU1W8ZGYp0fmWQKko2NgpYP9SMxht1TjM9ZIfFJ/3Lp8/arwpmPA30th5kzhjNbEFYPMCo3KCNSh3twCxOtdSSVJ7bfXqpPbQWFppdQ==;J8ltHSYyVhR4wfOwDiBKDA=="
 ---
 

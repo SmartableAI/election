@@ -2,26 +2,26 @@
 category: news
 title: "Former Vice President Mike Pence received pacemaker, full recovery expected"
 excerpt: "Former Vice President Mike Pence received a heart pacemaker device during a routine surgery on Wednesday and is expected to fully recover, a spokesman said on Thursday."
-publishedDateTime: 2021-04-15T19:33:00Z
-originalUrl: "https://www.mytwintiers.com/news-cat/us-politics/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
-webUrl: "https://www.mytwintiers.com/news-cat/us-politics/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
-ampWebUrl: "https://www.mytwintiers.com/news-cat/us-politics/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
-cdnAmpWebUrl: "https://www-mytwintiers-com.cdn.ampproject.org/c/s/www.mytwintiers.com/news-cat/us-politics/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
+publishedDateTime: 2021-04-15T19:14:00Z
+originalUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
+webUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
+ampWebUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
+cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: MyTwinTiers.com
-  domain: mytwintiers.com
+  name: KNWA News
+  domain: nwahomepage.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.mytwintiers.com/wp-content/uploads/sites/89/2021/04/AP20245798042239-e1618513616944.jpg?w=1280"
+  - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2021/04/AP20245798042239-e1618513616944.jpg?w=1280"
     width: 1280
     height: 755
     isCached: true
@@ -134,6 +134,6 @@ related:
         height: 889
         isCached: true
 
-secured: "Xp8btCa6rXZRL+xIEmb1Qit8VKHgseYynPjrYybWfHQdSjP/q5znu05JHOgKINu06KfNsrmJ3aSh7T4vg66gE7F1Rx9dOv5cw4GVNWgsD4NXb+hzp5G2VMVNv8K/rp9jnr29kPYU3RH2hgf4NGDX8p5HUyviCh3w9XWqzwjqhzz2El9S9XPB9m+ZyCFX0B9FoHPooLSjRtNw+MAIyEVzbqgKUfJe0wQoKUiCvgTkqshCcaRFbjLNHA14UmR23OwObCh4yyeQee+YI3BwBpkMMu6amCkn65kPB7/dI1/TFdLebKSPP/NwRzP8Cj6MKd0EhTxmsepyRWIpAZpINaLIZaivD8HVT69dv1jUhD/3pvUMPw01A+Yb+te8t3FU4wh9d/eTA6DpjwrHpTRssf3J+0eV7IJQw95dA0vlLGGgwhSZmq5pP2TktF59pOUgnNJYG0qy1P3dXhL4XDRAFmcisRKPvc8OC2GnCM8Ymr7+8wmULYaRAl5sRv/bkUALvkvqrgwc12qvRp6zK4MIsERe/Q==;mppiS0F+nPlrZZV4CemZYw=="
+secured: "DAHzf7hClItVq3Ui/0F5oDo1u9IXMLN4GUofsjyYdJh2c1l0ZgAkC608/Tmau9EInNpk2YJp4zoLq683CiTCIbZU0qNsJSsy1jcqA05Ew33Mqry7+JeDV2AeTEzmYadFGB81bINabZuA4gGgZFIMGWIrvwtWkDdgQJsF0E8lUO5K4R6Gt61sotlHgln+5AXHpIecmPd0jrk1X+xicdkV/HR6mLAmiLPCGhRXFxPvU8Zf9LDFSSBURvC5QrshsQKH8834KmMBl0GRfIyw4pr1ymDuOyyzicsu7kNn9bnWagEQJmd2UWZmwUKeYKulo2tbt5fX8+3RtX2cK1IUh2WODg4xgOCqrHnvHJ4UdnwsuS4=;Dm/5ajOtitajlXPW1gNxUg=="
 ---
 

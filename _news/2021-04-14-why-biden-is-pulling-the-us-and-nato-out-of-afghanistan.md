@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden is taking a calculated risk in Afghanistan"
+    excerpt: "While the US is leaving the war, the people of Afghanistan can't. The President's decision could hasten the Taliban's toppling of Afghanistan's tenuous democracy, ushering in a new fundamentalist dark age."
+    publishedDateTime: 2021-04-15T23:19:00Z
+    webUrl: "https://www.cnn.com/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150627-05-biden-afghanistan-remarks-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden gets his chance on Afghanistan"
     excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN wanted out of Afghanistan. In"
     publishedDateTime: 2021-03-19T23:03:00Z

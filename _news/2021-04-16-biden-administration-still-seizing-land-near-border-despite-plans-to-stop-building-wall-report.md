@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden set to issue sweeping sanctions against Russia"
-excerpt: "The sanctions, which may be issued as soon as Thursday, are expected to target over 30 Russian entities and include the expulsion of at least 10 Russian individuals."
-publishedDateTime: 2021-04-15T11:07:00Z
-originalUrl: "https://www.cbsnews.com/news/russia-sanctions-us-biden-plans/"
-webUrl: "https://www.cbsnews.com/news/russia-sanctions-us-biden-plans/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
+title: "Biden administration still seizing land near border despite plans to stop building wall: report"
+excerpt: "President Biden’s administration is still seizing land near the U.S.- Mexico border to be used to continue building a wall, according to an"
+publishedDateTime: 2021-04-16T01:13:00Z
+originalUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop"
+webUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop"
+ampWebUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
 type: article
-quality: 125
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/15/57b60594-6a95-4159-b850-b005ab2e9db8/thumbnail/1200x630/5e310e510e58e3fb6a549696540f6fb3/gettyimages-1232304316.jpg"
-    width: 1200
-    height: 630
+  - url: "https://thehill.com/sites/default/files/bidenjoe2_04152021getty.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -110,6 +110,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_33e7de99fc924b6eb9cbbbe3afd78f44_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden set to issue sweeping sanctions against Russia"
+    excerpt: "The sanctions, which may be issued as soon as Thursday, are expected to target over 30 Russian entities and include the expulsion of at least 10 Russian individuals."
+    publishedDateTime: 2021-04-15T11:07:00Z
+    webUrl: "https://www.cbsnews.com/news/russia-sanctions-us-biden-plans/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/15/57b60594-6a95-4159-b850-b005ab2e9db8/thumbnail/1200x630/5e310e510e58e3fb6a549696540f6fb3/gettyimages-1232304316.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Japan’s Suga heads to US for China-focused talks with Biden"
     excerpt: "Japanese Prime Minister Yoshihide Suga has left for Washington for talks with President Joe Biden meant to show the strength of their security alliance at a time when both nations are concerned with C"
@@ -206,22 +222,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1765531/immigration.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Biden administration still seizing land near border despite plans to stop building wall: report"
-    excerpt: "President Biden’s administration is still seizing land near the U.S.- Mexico border to be used to continue building a wall, according to an"
-    publishedDateTime: 2021-04-16T01:13:00Z
-    webUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop"
-    ampWebUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 113
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_04152021getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Biden visits vaccination site in Virginia"
     excerpt: "President Joe Biden headed to Virginia Tuesday to visit a COVID-19 vaccination site at Immanuel Chapel at Virginia Theological Seminary in Alexandria. (April 6)"
@@ -332,6 +332,6 @@ related:
         height: 1472
         isCached: true
 
-secured: "Adw8GzYjKA/xUUKY9LbDHxutLQI5nmpvsO6zR6isuaeYxJR3CoXbHJE1z/0QB5ypPIRnjn/v2q7LjkItXHCvOT1wYiJfKx4ZoktzOzGmnD8rgm8lHxTkWuX8Y+WSbmNsvUILfHkFP9c7R8rEQmysdha0AdNhwcAIlGjcCaoNKxX67zo1smfY/mwGHK+jHXQLqul2sVWDIYmB5X/BrsEA6rVSvBDJdGFbIK9s80JQ8SN+sMO0HZ0tAwl39vLRdWHxaoH4KG+6bGac4mXGeN01Ys27nj/eBFMIWihAAyTvC3a+HIQLU8Uic47gS0+suyjB0wny5G67q6e7xskRVQ1IkSYsdlVEhrt67/6h8rn6vgw=;dHVi7MUkS8eEnxFGesLeTA=="
+secured: "xeD7MLiZip5KvEEaNj3mz1HAeZWvGEYetcM9+hmdgEgDVF9yY7rqjVDpcPpN50HbVXpL+9JhuYLEQXOEbV9+9RtleG07/arZLINeswl+o/3zYgkfnrot3nQcu+hJNaaaoZKgnKA84cDvH63/gWIadtBLEy8PCSNEMBfoGZ7qgBldI1gRd7/LUE2JBFey0ioCKPpEUdVg7a4Ji5kI8SuXL0jprD3tHmcXUKAPOSBLhFlXIGu8eEgMq+tnFUh7pnhZbd4hRI8qeTHezv2gW1VUDlHNibZ+wNoC4wRPIYnhNldAnXde/RThiHRrDS61tYZrmP8mi5HP3p/9YEx8VyXXi/Ff25mCe1cwTij+q1Lafj0=;YTkF9IUSNGf9V/20jfdRpA=="
 ---
 

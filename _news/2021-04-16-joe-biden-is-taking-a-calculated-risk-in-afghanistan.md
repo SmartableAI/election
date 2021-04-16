@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden sets Afghanistan pullout"
-excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
-publishedDateTime: 2021-04-14T14:01:00Z
-originalUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
-webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
+title: "Joe Biden is taking a calculated risk in Afghanistan"
+excerpt: "While the US is leaving the war, the people of Afghanistan can't. The President's decision could hasten the Taliban's toppling of Afghanistan's tenuous democracy, ushering in a new fundamentalist dark age."
+publishedDateTime: 2021-04-15T23:19:00Z
+originalUrl: "https://www.cnn.com/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+webUrl: "https://www.cnn.com/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150627-05-biden-afghanistan-remarks-0414-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -94,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden is taking a calculated risk in Afghanistan"
-    excerpt: "While the US is leaving the war, the people of Afghanistan can't. The President's decision could hasten the Taliban's toppling of Afghanistan's tenuous democracy, ushering in a new fundamentalist dark age."
-    publishedDateTime: 2021-04-15T23:19:00Z
-    webUrl: "https://www.cnn.com/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150627-05-biden-afghanistan-remarks-0414-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden gets his chance on Afghanistan"
     excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN wanted out of Afghanistan. In"
     publishedDateTime: 2021-03-19T23:03:00Z
@@ -124,7 +110,21 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden sets Afghanistan pullout"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
+    publishedDateTime: 2021-04-14T14:01:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "EPcQkRLe/TZuof0DThsBNVQrXJAEQAzEay4QdhyJqFCP+EapC4MkVDHMMh6gpN5Mi5HiulqefiaLcRYP9/d/8DipFm/iwcXVUEkozhH4MAANFqFb7KX8w9a240rTi9FciWo5vLE8SmlwLMWLKu58WYKF8vk5/nQm2ijTjA2VqN9LRIgdh4b057FIklxaHmBCnpI5AkWzZlkI+iaw1D2Z96waUJA73iTFRFR0XwSzmGrUh8BugTFNQLnlVTmkSi1kDvc9v+EYJusqVpYEqocImKMvoaoc91mqaThKbmHxKv28Wcb+O42Wu8uJfh8ov7yj8iEZHEBFaRceY7QB9dZRgSjcB9d+JHIuHV0AOMo5glQ=;uNCE24TV/T0sdjww2/oSNQ=="
+secured: "CXW63Qsbpvq3egciaaEXogMeQGnPYmng2YOZFKe7alFkVxtywMcscPpvkoYYARjCPMi0l3vIF62lx528q1WX9XcS+jwQUh4f3pknub4+gzwrnU+utgOBPnm2ANMtQn4v5TegnFJd88Q/N2DRF8z0wTE0wz5bqxHTbafqQRBcTQNjvpwTH93Ozh+eqmLAxJRo+dDqagPezDIwDI2IzuLWK97KyLEUubYZNqDu10pSAClP0kMNQE/qVtOlrLxEP5mCO8HeTO6eYlU1gYshWSiZilWAJuEtZmSIiSmvRJcPLwM7qZgGoe7lttxocqiAkzBS/ftBo4TRruAEzTobKiWbq5xC7cA/LCWmqbBH4sm3Wng=;NpwGckGggOcerkhJ1Huznw=="
 ---
 

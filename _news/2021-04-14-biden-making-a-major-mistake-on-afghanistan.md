@@ -36,6 +36,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "China enraged as Biden sends unofficial delegates to Taiwan"
+    excerpt: "Former Sen. Chris Dodd and two former U.S. deputy secretaries of state are visiting Taiwan at the request of President Joe Biden to celebrate the 42nd anniversary of the Taiwan Relations Act, which Biden voted for when he was a senator."
+    publishedDateTime: 2021-04-16T00:21:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeQqrzFB3v8/china-enraged-biden-sends-unofficial-delegates-taiwan"
+    ampWebUrl: "https://www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104375855660.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "f3bLgmbObKJ9c/3WjnXamNGXWDy2zoCbZZHaf06t1xN0jHq6DhGzhDTr6+qsVz98IPagzmoKuJ45nD1BgbycyNUmrJj9UvLIS3AnBSZHWmCrclmFxobeGmkTnbxj6CWp59CbGZYEGOi/a+Z7Tc8M7fnRC07Llk9tr2im26WV7nmVb9ARYy1mHU8Q4gcimKih952Swo/Y0JeZj0W61cL+GtTvXaMADltrvgiB+1XpTbsmOPAnVrN7jUpYSMaKVMRP2g0cAGA6EhROHMdsEgB8ZVfcZb35BNBuXCCZ/4wMhesj9pQZyb6EpA9i+bCFu20ROntmkVqeBRujjSnvb60KIZtYEaFVYJQEidbicEPkGxo=;lOSvJJx62gMkzybCc/EooA=="
 ---

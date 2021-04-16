@@ -1,14 +1,14 @@
 ---
 category: news
-title: "'The Senate has discovered water': How the parliamentarian could reshape the Biden agenda"
-excerpt: "(CNN)A crucial decision this week by the Senate's parliamentarian could have sweeping ramifications for Joe Biden and future presidents to ram their agendas through the chamber along straight party-lines, putting Democrats on the cusp of pushing the rules ..."
-publishedDateTime: 2021-04-06T22:47:00Z
-originalUrl: "https://www.cnn.com/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-webUrl: "https://www.cnn.com/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
+title: "Biden to use meeting with Japan's prime minister to send 'clear signal' to China"
+excerpt: "President Joe Biden plans to use his meeting with Prime Minister Yoshihide Suga on Friday to send a signal to China that the countries are united in their opposition to recent aggression against Taiwan as the US seeks to refocus its foreign policy in East Asia.\n    \n"
+publishedDateTime: 2021-04-16T00:00:19Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ibToB_rP0X4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ibToB_rP0X4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/japan-prime-minister-white-house-visit/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/japan-prime-minister-white-house-visit/index.html"
 type: article
-quality: 126
+quality: 170
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415165919-biden-suga-split-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -189,22 +188,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324190144-07-hhs-children-facility-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to use meeting with Japan's prime minister to send 'clear signal' to China"
-    excerpt: "President Joe Biden plans to use his meeting with Prime Minister Yoshihide Suga on Friday to send a signal to China that the countries are united in their opposition to recent aggression against Taiwan as the US seeks to refocus its foreign policy in East Asia.\n    \n"
-    publishedDateTime: 2021-04-16T00:00:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ibToB_rP0X4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/japan-prime-minister-white-house-visit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/japan-prime-minister-white-house-visit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415165919-biden-suga-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -432,6 +415,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "'The Senate has discovered water': How the parliamentarian could reshape the Biden agenda"
+    excerpt: "(CNN)A crucial decision this week by the Senate's parliamentarian could have sweeping ramifications for Joe Biden and future presidents to ram their agendas through the chamber along straight party-lines, putting Democrats on the cusp of pushing the rules ..."
+    publishedDateTime: 2021-04-06T22:47:00Z
+    webUrl: "https://www.cnn.com/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/senate-parliamentarian-biden-agenda/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 126
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Clyburn doesn’t want Biden to be like FDR"
     excerpt: "“See I'm one who feels, contrary to some of our friends, that Joe Biden's legacy, if he's going to have credibility, must be much closer to Harry Truman than to Franklin Roosevelt,” Clyburn said. “I hear people talking about Joe Biden all the time ..."
     publishedDateTime: 2021-04-13T22:45:00Z
@@ -461,6 +460,6 @@ related:
         height: 629
         isCached: true
 
-secured: "T2CrIIWr2Eli4K/TIZyDLIOwE0oIikix1X9flmgpQWG+bPBkCuc5lWfYn3y8AxIduQCzMoGhGIfJ0ezEwreXJ4MJfx0Jzyp9VkfUsLLfljWMK08HV3q1GLq/+cNGV964JZmL55asHmik+0eh36GoAfwyOwQARXvE8Wpiz+3RH+elDUmHGHh40RbfZ2Iw4AVzfLvLol8qhCvsiW2ZIaHw2cCjKfTP5tiA6X2zj7felM4U2wp5xUqUTNDPMcmZjece9OD+cl2PbGieQbpixadZbXr9piROHUbRnfOOlNbbAC+tNEsRztvhjbiOWcsLPy/V1EqxLVXN3zNWmWZlU9iNv6l9TrxkU0/rl/xaM8jjY986J5uUyu1eE1m3eE+FqM8K4dw1+E9YyTFuZyqMkkZtgz/RgntNRc3YrVFxWGjZ1jim/NTfqKC1cChmW8GGbLFCk1cVIodetYA8m2PL3H5cJUNJWrm/kYnVYURq068JWbvVHPRKhmP42angQkBV684owVOpGGqu3m23OfHGa6Oowg==;Fo0VxMwBfephKIb3g7yymg=="
+secured: "/wXb8EEP9vMucETkOe4przZU41tC9kq4N6rAY9ir5t+h4ZCZDfbhJ4qTNJ24f/nFGr0udhNlWK6YkgYBleWd680E6elUg2IFnHL0ag3AuD5zmUVd/fwsy3QOKqWCtAkqPE5UVMmuOwb3ohbn4OUTmlWDI0U5NOAj2k31Gt8do+bbdbcg2sdYNEmuMHTq1BYOGjXA2VVutDDqmzKc5/Dykws2fjMMfwwzVq7CvodO/KnXu4l2MMXosDXm8y3eZpUWRxojMVZc+pe4Owu3PJETc5i5XmPmUQJTOQh3CPXq67ByZhH6tPQ2U0PuiLOCsEDGVB02gUxH8DWSLXUTkW4jn+tusMSj7OsG3p/SWoctaAA=;YvO7eDqI2GpMSgZbbAFIpg=="
 ---
 

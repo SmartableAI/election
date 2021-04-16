@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to use meeting with Japan's prime minister to send 'clear signal' to China"
+    excerpt: "President Joe Biden plans to use his meeting with Prime Minister Yoshihide Suga on Friday to send a signal to China that the countries are united in their opposition to recent aggression against Taiwan as the US seeks to refocus its foreign policy in East Asia.\n    \n"
+    publishedDateTime: 2021-04-16T00:00:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ibToB_rP0X4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/japan-prime-minister-white-house-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/japan-prime-minister-white-house-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415165919-biden-suga-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to nominate first person of color to serve as permanent Census Bureau director"
     excerpt: "President Joe Biden has picked statistician Robert Santos as the next Census Bureau director, the White House announced Tuesday, setting the stage for the first person of color to permanently head the agency if confirmed by the Senate.\n    \n"
     publishedDateTime: 2021-04-13T21:17:12Z

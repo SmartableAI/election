@@ -221,6 +221,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden administration still seizing land near border despite plans to stop building wall: report"
+    excerpt: "President Biden’s administration is still seizing land near the U.S.- Mexico border to be used to continue building a wall, according to an"
+    publishedDateTime: 2021-04-16T01:13:00Z
+    webUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop"
+    ampWebUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 113
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04152021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "'A heck of a guy': Joe Biden pays tribute to Prince Philip – video"
     excerpt: "The US president on Friday paid tribute to the Duke of Edinburgh, Prince Philip, and sent condolences to Queen Elizabeth II."
     publishedDateTime: 2021-04-09T21:34:00Z
