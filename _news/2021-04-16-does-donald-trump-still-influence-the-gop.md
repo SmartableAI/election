@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Colbert mocks Gaetz after Trump denies he asked for a pardon"
-excerpt: "30 Report - Presented by ExxonMobil - Pence sets the stage for 2024 MORE after former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar ..."
-publishedDateTime: 2021-04-08T14:35:00Z
-originalUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon"
-webUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon"
-ampWebUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
+title: "Does Donald Trump still influence the GOP?"
+excerpt: "An unconventional president and an unconventional life post-presidency, that's what experts say lies in store for Donald Trump. In 2020, Barack Obama took a more overtly political role than we"
+publishedDateTime: 2021-04-16T02:30:00Z
+originalUrl: "https://tulsaworld.com/news/national/govt-and-politics/does-donald-trump-still-influence-the-gop/article_15eb0173-8285-5db3-b2c5-ccefaff7dad1.html"
+webUrl: "https://tulsaworld.com/news/national/govt-and-politics/does-donald-trump-still-influence-the-gop/article_15eb0173-8285-5db3-b2c5-ccefaff7dad1.html"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/colbert_stephen_gaetz_matt040821.jpg"
-    width: 980
-    height: 551
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/5e/15eb0173-8285-5db3-b2c5-ccefaff7dad1/6078db0383ad9.preview.jpg?resize=640%2C360"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -396,6 +390,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/brooksmo_113017gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Colbert mocks Gaetz after Trump denies he asked for a pardon"
+    excerpt: "30 Report - Presented by ExxonMobil - Pence sets the stage for 2024 MORE after former President Trump Donald Trump Gaetz trip to Bahamas part of federal sex trafficking investigation: report Omar ..."
+    publishedDateTime: 2021-04-08T14:35:00Z
+    webUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon"
+    ampWebUrl: "https://thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547111-colbert-mocks-gaetz-after-trump-denies-he-asked-for-a-pardon?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/colbert_stephen_gaetz_matt040821.jpg"
         width: 980
         height: 551
         isCached: true
@@ -1661,20 +1671,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Does Donald Trump still influence the GOP?"
-    excerpt: "An unconventional president and an unconventional life post-presidency, that's what experts say lies in store for Donald Trump. In 2020, Barack Obama took a more overtly political role than we"
-    publishedDateTime: 2021-04-16T02:30:00Z
-    webUrl: "https://tulsaworld.com/news/national/govt-and-politics/does-donald-trump-still-influence-the-gop/article_15eb0173-8285-5db3-b2c5-ccefaff7dad1.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/5e/15eb0173-8285-5db3-b2c5-ccefaff7dad1/6078db0383ad9.preview.jpg?resize=640%2C360"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z
@@ -1685,6 +1681,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "rxTyxSdrNiPFCkmzKYRM5pcifLwxQCHRpaObNpuzN/XlijLQQJOEO5RDgAHg/LCY4hkwuOasQ3Z0JsxKp0LCyVDG/JShR6epjXiuxAzm+AG5T+l+xQBQcds1WNwct1QhW+0/eK2JqFfoxXgPfoeLWBGUco3Rs0jzcGv/cHzpdOeNlJWCMJtX872O2ODhdUfqOjL+HIhku0HsGjkxEI91NbW/LFTcN9jwiWGZntuceZVQdJS7dzNm2npAsCo7XaWlFmohNw3+KZ/FDuImgVWLC6ukfBCwdaeh97lDlmeg5QaoOpAzFr1slQN+bAtj6pIYLv3seMFdTLjTFpFFpNC+1v8Jv/+vlUOetLD0bcby6pc=;DrPgt+lEqoqTxwxbfvl2IQ=="
+secured: "KPJTiyB6KBC7awCD4l3mXsStTf+JDGvCGkpzjJPXh34l9c4Qs+WFCZIjc7Hw/Z8tGOWSFviTCCzQQlRmZStRJEEc2H9QietrXQpzowU1tuUMN66SlMl63VNAP+NG6pf/D2iGVNtdBfIj/WWpAGz/lTNuZbD31OlLqDAdiT7tnsJAPxV4eLcB+GtwEDLTqJtzjOrotcTT79G2ugHYJHZRU+U9FeQn7FjDJLhhK1WMal+lYKalJYcV2ejRMC8ymReMGrwjtig9RwysABFFVoW6H2Pi6Ne7xzeW22jnzO/ExyibyXWNOFegTKBwrqm2GLRxULTFjbGHtOAr0q2jMLAuGHYMRM8gZ2K0fHR0OGsvIao=;bh3LbKHAeOsXy7qq1Ndldw=="
 ---
 

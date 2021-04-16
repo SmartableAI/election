@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris says migrant crisis won’t ‘be fixed overnight,’ hasn't spoken with El Salvador, Honduras leaders"
+    excerpt: "The migrant crisis at the U.S.-Mexico border is one that \"is not going to be fixed overnight,\" according to Vice President Kamala Harris, who last month was appointed by President Biden to manage the U.S. response to the crisis."
+    publishedDateTime: 2021-04-16T03:23:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rav_o9jOin8/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden urges calm after Daunte Wright shooting, says 'no justification' for looting, violence"
     excerpt: "President Biden urged “peace and calm” on Monday as authorities investigate what led to the fatal police-involved shooting of a Black man during a traffic stop in the Minneapolis suburb of Brooklyn Center, Minnesota."
     publishedDateTime: 2021-04-12T20:31:22Z

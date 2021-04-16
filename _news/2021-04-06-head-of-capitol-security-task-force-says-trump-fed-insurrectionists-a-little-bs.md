@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Some Trump congressional backers see big campaign windfalls in 1st quarter"
+    excerpt: "Rep. Matt Gaetz of Florida raised more than $1.8 million during the first three months of the year, largely driven by small donations as the Republican mounted a vigorous defense of former President Donald Trump, a new filing shows.\n    \n"
+    publishedDateTime: 2021-04-16T03:13:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7OlYDPx_wNk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/matt-gaetz-trump-loyalists-campaign-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/matt-gaetz-trump-loyalists-campaign-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415230526-cruz-gaez-greene-hawley-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump rips McConnell in lengthy statement after being acquitted in impeachment trial"
     excerpt: "Former President Donald Trump went after Senate Minority Leader Mitch McConnell on Tuesday, calling him \"a dour, sullen, and unsmiling political hack\" in a broadside attack just days after the Kentucky Republican voted to acquit Trump in his second impeachment trial.\n    \n"
     publishedDateTime: 2021-02-16T22:55:07Z

@@ -1662,6 +1662,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Does Donald Trump still influence the GOP?"
+    excerpt: "An unconventional president and an unconventional life post-presidency, that's what experts say lies in store for Donald Trump. In 2020, Barack Obama took a more overtly political role than we"
+    publishedDateTime: 2021-04-16T02:30:00Z
+    webUrl: "https://tulsaworld.com/news/national/govt-and-politics/does-donald-trump-still-influence-the-gop/article_15eb0173-8285-5db3-b2c5-ccefaff7dad1.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/5e/15eb0173-8285-5db3-b2c5-ccefaff7dad1/6078db0383ad9.preview.jpg?resize=640%2C360"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z

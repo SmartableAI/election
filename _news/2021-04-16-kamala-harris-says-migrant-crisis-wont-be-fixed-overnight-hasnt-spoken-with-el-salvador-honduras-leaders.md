@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden urges calm after Daunte Wright shooting, says 'no justification' for looting, violence"
-excerpt: "President Biden urged “peace and calm” on Monday as authorities investigate what led to the fatal police-involved shooting of a Black man during a traffic stop in the Minneapolis suburb of Brooklyn Center, Minnesota."
-publishedDateTime: 2021-04-12T20:31:22Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence"
-ampWebUrl: "https://www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
+title: "Kamala Harris says migrant crisis won’t ‘be fixed overnight,’ hasn't spoken with El Salvador, Honduras leaders"
+excerpt: "The migrant crisis at the U.S.-Mexico border is one that \"is not going to be fixed overnight,\" according to Vice President Kamala Harris, who last month was appointed by President Biden to manage the U.S. response to the crisis."
+publishedDateTime: 2021-04-16T03:23:29Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rav_o9jOin8/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rav_o9jOin8/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
 type: article
-quality: 164
+quality: 165
 heat: -1
 published: false
 
@@ -23,9 +23,10 @@ provider:
 topics:
   - Election
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ada110c-7331-40cd-a281-b8345420ab7d/6ec9a2e0-4688-40b3-b7bb-b7216727bf5a/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -47,19 +48,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Kamala Harris says migrant crisis won’t ‘be fixed overnight,’ hasn't spoken with El Salvador, Honduras leaders"
-    excerpt: "The migrant crisis at the U.S.-Mexico border is one that \"is not going to be fixed overnight,\" according to Vice President Kamala Harris, who last month was appointed by President Biden to manage the U.S. response to the crisis."
-    publishedDateTime: 2021-04-16T03:23:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rav_o9jOin8/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
+  - title: "Biden urges calm after Daunte Wright shooting, says 'no justification' for looting, violence"
+    excerpt: "President Biden urged “peace and calm” on Monday as authorities investigate what led to the fatal police-involved shooting of a Black man during a traffic stop in the Minneapolis suburb of Brooklyn Center, Minnesota."
+    publishedDateTime: 2021-04-12T20:31:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ada110c-7331-40cd-a281-b8345420ab7d/6ec9a2e0-4688-40b3-b7bb-b7216727bf5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -126,6 +127,6 @@ related:
         height: 3782
         isCached: true
 
-secured: "hE055vZAAJWBae+k8N2dtb7+WGejKD4RNqB3xWqZB78JpXDjdBlh6x2XYazhrazJxYoMGJ7/gKqrXdyzMdejFdPrRpinN2iJoQMkcQ++gwveuZZ43sg4SDvnGHnI00pPkFXQOfLzqrsX3kSL6wNctBA/T7pPKrPDFXd2zxAQcCu+2c+zgxZyMD+iYPTx0HaRo5E/ljiCmlu025s7+gCWZrdre19kC2IAgKIenQX0GqJnIJanbIZwGjgW1PJVRmBuLBJSxlkeRmT79kOTbW3nonvdP6QHc53hMQhHJ4i8Fb88nT+h06+/41++GcuERLWTT3ZIsL2FKNu+lCs9MfNFMiPn/63r87MuttezMwL2/Zo=;a3BTIwxJCXX3di4cZP5Bcg=="
+secured: "5Vju2qaKJvzOuqKvE/JTwkt368twn9XTuFrn37YtRKCQaFrxBNDU/v8j3bEFj0pTCIyTVzGz6qE/uJUhXryI1eSCeeNhv9bFfL2I8MeAwTHD7Tb31kb4OtNTdM0wD/qCW97TjyhcxZ2fVDTIGlpdhsj9v3Ulr16nbCTGSn43qHPUyK10Qilh2m8hhNkdac1xaKU36Yv/aimqxWt9j1DP9wsoetax9sAhycuK6RKXx2Cizpe+wzwHFd3/9MKSbuRJugmLyAZlmhJY2KDkfIHjPBebkNa4B+Eozm69N2YDew2azNwNnydrojkLExsj9vt3UFICmqZcMFOt1ae844/SdzlWjztzmQSSroxlZducK8A=;CmI1Ebhu+wPuD5sMHIKE3g=="
 ---
 

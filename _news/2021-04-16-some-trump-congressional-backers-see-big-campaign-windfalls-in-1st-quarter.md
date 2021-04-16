@@ -1,14 +1,14 @@
 ---
 category: news
-title: "McConnell will vote to acquit Trump in second impeachment trial"
-excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
-publishedDateTime: 2021-02-13T14:47:02Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+title: "Some Trump congressional backers see big campaign windfalls in 1st quarter"
+excerpt: "Rep. Matt Gaetz of Florida raised more than $1.8 million during the first three months of the year, largely driven by small donations as the Republican mounted a vigorous defense of former President Donald Trump, a new filing shows.\n    \n"
+publishedDateTime: 2021-04-16T03:13:04Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7OlYDPx_wNk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7OlYDPx_wNk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/matt-gaetz-trump-loyalists-campaign-fundraising/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/matt-gaetz-trump-loyalists-campaign-fundraising/index.html"
 type: article
-quality: 175
+quality: 173
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415230526-cruz-gaez-greene-hawley-split-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 182
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200103144837-trump-sobre-ataque-qasem-suleimani-hoy-el-mundo-es-mejor-sot-00010015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell will vote to acquit Trump in second impeachment trial"
+    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
+    publishedDateTime: 2021-02-13T14:47:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -76,22 +92,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407134450-trump-mo-brooks-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Some Trump congressional backers see big campaign windfalls in 1st quarter"
-    excerpt: "Rep. Matt Gaetz of Florida raised more than $1.8 million during the first three months of the year, largely driven by small donations as the Republican mounted a vigorous defense of former President Donald Trump, a new filing shows.\n    \n"
-    publishedDateTime: 2021-04-16T03:13:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7OlYDPx_wNk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/matt-gaetz-trump-loyalists-campaign-fundraising/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/matt-gaetz-trump-loyalists-campaign-fundraising/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415230526-cruz-gaez-greene-hawley-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -330,6 +330,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "qYTrxjRu26JAw4sqPv18FG/MZwvKCSD6sb7ka+Tq+SlqjE/DU38bq6tRXR46CxXwhSAvHS/oQMD2VDsSNGdrA0p/Gbs/iNS8QjlKwiLc0+SaJKmpanbdo2RCgh3XJf/aoCPK7/6CqcI6HxsawfDXeVfMDG5y0Tt1LJESzX39corUe3l7H051wReU/iPCkcUicepBrX0ekur/VmCawmGGcUqy80VNKvHM6b74Nn87Gkd1m30dSQwNv+ztTSQptvOZpKxNL8fMUOnJiunp0BipOv5fvBXyNwyRU0QNWMfQErJzZ//Y+wD2iuGo3NoBVPSqvG5hAYpCuyT5+WGaCEmgYXX9pqKyl1VrDLwOsBPaTLY=;HbFl+iLhnfXcbTRoCASjKA=="
+secured: "Lb/TaacC5EoxhUNC9Cvndq76GNFrBte4hej1hzoRPPk1L3t07gZoBQ0+bswB7BV+Ql964eQipme4zzWqPBXxj6/0MWupFNBxe0toJWb98F6Ym/42VyMSBURBweqKu41wYmoWQp66SfKpnHIbaZVfWRLe21IrCM5cCRUnFzX3btLJbyIrLX+E9+YttHl7u3G8A3B9h3fiUzdmNXWyNgEbZ7iTNNfs3smPITHJOoj8DY61DXo5MegEEFZlKXUwJD383427gnNt9bKrxqZPbifOOJk/tglWkPlWmV3fisJ6CkSHl60c5R247mc+H92I4Xf/xEi1CSnsYk84OICyphdGEiAUc0V4Fs72lwwKKUPH5Ro=;SmCVriNiO8e13DwYnkHm9w=="
 ---
 

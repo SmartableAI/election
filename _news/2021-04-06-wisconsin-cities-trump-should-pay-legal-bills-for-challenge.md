@@ -1669,6 +1669,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Does Donald Trump still influence the GOP?"
+    excerpt: "An unconventional president and an unconventional life post-presidency, that's what experts say lies in store for Donald Trump. In 2020, Barack Obama took a more overtly political role than we"
+    publishedDateTime: 2021-04-16T02:30:00Z
+    webUrl: "https://tulsaworld.com/news/national/govt-and-politics/does-donald-trump-still-influence-the-gop/article_15eb0173-8285-5db3-b2c5-ccefaff7dad1.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/5e/15eb0173-8285-5db3-b2c5-ccefaff7dad1/6078db0383ad9.preview.jpg?resize=640%2C360"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "U39kaydWW/I50SWd6RRMmTdwR4ZzmMEvKTQ+vnkIquzkjTLo2jckudSM/BBKoENxGY+W6pOXlVXI/Vb/KVXjdqTMWsCpVKdo3fXuV8lzCY6QRMCHzIGhw8vlrf1hkhEh3TpRKMN28y5Yu/0I2oc3OGRtt5DIU7fmeJGAO4TzvclxhBKiwZTiKC6a+wSxmSr2eHQWd5euJlYr5qB4iHZkqNIgPmcXZrG27ufybPLpYO9IAsbroBxzSjTdJ/Q8/Kx1PB1TeDcL8JiofMUALALDaeOqrtz1wEVwtPgwmzhyda/jslnG94Y6dhgnIOKSKF9xa/Zh+LgBHxoAumlBi1eZg+cWVpLj8Q6jOArrahgY53nUYEL92JypzCXSOTtyXwD8odzO5VPcMmOQQiNYyeDGOpQm+yu0WjoDJW8DgEq/oVerNVS35SNh07SgssI1KEWZyxM4OfSezfNAnPYliuPzJ/aZOeacvFGklwUK2lPNBdxB3Ug6VCh6OB3eaMDRqRRCRwjoZk5lmeaJesp0Uh4okw==;iBatfiNbunRcpogFKXTVbQ=="
 ---

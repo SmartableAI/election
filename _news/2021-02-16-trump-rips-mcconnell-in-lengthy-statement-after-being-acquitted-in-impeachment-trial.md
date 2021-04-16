@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Some Trump congressional backers see big campaign windfalls in 1st quarter"
+    excerpt: "Rep. Matt Gaetz of Florida raised more than $1.8 million during the first three months of the year, largely driven by small donations as the Republican mounted a vigorous defense of former President Donald Trump, a new filing shows.\n    \n"
+    publishedDateTime: 2021-04-16T03:13:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7OlYDPx_wNk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/matt-gaetz-trump-loyalists-campaign-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/matt-gaetz-trump-loyalists-campaign-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415230526-cruz-gaez-greene-hawley-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Head of Capitol security task force says Trump fed insurrectionists 'a little BS'"
     excerpt: "Retired Lt. Gen. Russel Honoré, who led a review of security failures around the January 6 insurrection, said Tuesday that the US Capitol attack was fueled by a \"information operation\" led by former President Donald Trump that involved feeding Americans \"a little BS\" and then allowing them to act on"
     publishedDateTime: 2021-04-06T22:38:50Z
