@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-former-nsa-deputy-dir
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden Bids Farewell to a 'Forever War'"
+    excerpt: "\"It is time to end the forever war.\" So said President Joe Biden in his announcement that, as of Sept. 11, the 20th anniversary of the attacks on the World Trade Center and Pentagon, all U.S. troops will be gone from Afghanistan."
+    publishedDateTime: 2021-04-16T11:07:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/16/biden_bids_farewell_to_a_forever_war_145599.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/16/biden_bids_farewell_to_a_forever_war_145599.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/16/biden_bids_farewell_to_a_forever_war_145599.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/536464_5_.jpg"
+        width: 750
+        height: 492
+        isCached: true
   - title: "Missing Deadline, Biden to Delay Afghan Troop Withdrawal Until September"
     excerpt: "WASHINGTON (AP) — President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on America that were coordinated from that country, several U.S. officials said. Biden will lay out his vision ..."
     publishedDateTime: 2021-04-14T13:33:00Z

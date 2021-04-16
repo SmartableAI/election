@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Mike Pence undergoes surgery to implant pacemaker"
-excerpt: "His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days.”"
-publishedDateTime: 2021-04-15T20:59:00Z
-originalUrl: "https://www.tampabay.com/news/nation-world/2021/04/15/mike-pence-undergoes-surgery-to-implant-pacemaker/"
-webUrl: "https://www.tampabay.com/news/nation-world/2021/04/15/mike-pence-undergoes-surgery-to-implant-pacemaker/"
-ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/04/15/mike-pence-undergoes-surgery-to-implant-pacemaker/?outputType=amp"
-cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/04/15/mike-pence-undergoes-surgery-to-implant-pacemaker/?outputType=amp"
+excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office said that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
+publishedDateTime: 2021-04-16T10:01:00Z
+originalUrl: "https://bangordailynews.com/2021/04/16/national-politics/mike-pence-undergoes-surgery-to-implant-pacemaker/"
+webUrl: "https://bangordailynews.com/2021/04/16/national-politics/mike-pence-undergoes-surgery-to-implant-pacemaker/"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Tampa Bay Times
-  domain: tampabay.com
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.tampabay.com/resizer/zygxlpiUMTYfKMI-Sr0wkHN22K4=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/EJVLKQN572ZXLXYM4RXLLTCR6U.jpg"
-    width: 800
-    height: 450
+  - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/04/Mike-Pence.jpg?fit=1024%2C758&#038;ssl=1"
+    width: 1024
+    height: 758
     isCached: true
 
 related:
@@ -134,6 +132,6 @@ related:
         height: 889
         isCached: true
 
-secured: "nfgXviRwYc/xIoFGk589SIlfJirw+waCQ1tONeC4mvhMNlEdpddxQIatHNY/kA7DBmlQiH0Isx6TUH/E5JYPUG+k1Yj8aGqSHjSnY6jTIWM/IQuMJFgGOHQLK+ilBHN+dls7JQF+KP5pADhlKSmgtSF8e1eL84r9Ik4gq2UhQUWsHVmyBzBQt/4ghFEEfq0iwUObYqTIlJZM+G+zgf/pyGBjwuG69rGp5vSgmxiP1IZD5q96pZrOylqFG4EJ1c9tIrMywo87DHN/EQ+YIkK8PSS4dozAGTEJDZ/FyTIS2pIQXT2niP5OIC2c7K/eFL9fyBJUUZEGZSYbWWAP1MJlKLddFLMCOfb+Bhubd2SBk2M=;6lMsoTo+BBT2UHpUic38tA=="
+secured: "ZjRlra/5K3ETnxeLi5P5Xy0WV2fTqNkF7M7I1FU18T4QTXvuG2jZu1haCAnxFVgGc+25wy7NfzDUWH4j065WBCGAb50P24nEJpPAbrhLIaALy+V6LqcpxPLk3Qp5om/5tlGfCNZn2/ZJqNeMczyaP3qS0r4d8Ka3DAMvnWyCry9qaKdu/6AAK9A59NrzaKaG3afwRkjMVF2LXkKFmWDmcFOJMPswq7la4N4QvboD/vEsGU8pBEh/QK6XyR+AX0GR9wsoPZSpH/6SVGC0BBsM0AVzCArqK7ef6vRF/j4iEueb3jI8LjN9ACTuUMhHvHQwggwSsmOOaNVufxXM8H3qBOYWxlTIY6DXBpj5lLqKYuw=;nhXdgpL5fDjVJbnI2elwqA=="
 ---
 

@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden stands down at a critical juncture for police reform"
+    excerpt: "Nearly a year after the police killing of George Floyd, pressure is mounting on President Joe Biden and members of Congress to show they are committed to holding police officers accountable for misconduct, excessive force and negligence after yet another agonizing week that has demonstrated how Americans"
+    publishedDateTime: 2021-04-16T11:33:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IzRIuawahuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/joe-biden-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/joe-biden-police-reform/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170125-01-biden-harris-asian-pacific-american-caucus-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republicans mobilize for showdown that will help define the Biden presidency"
     excerpt: "A defining political clash took shape Sunday over Joe Biden's latest effort to reshape the US economy, with Republicans mobilizing against a massive infrastructure plan that could put the President in historic Democratic company.\n    \n"
     publishedDateTime: 2021-04-05T10:18:55Z

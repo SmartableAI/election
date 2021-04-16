@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2309
+heat: 2329
 published: true
 
 provider:
@@ -733,6 +733,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/International/WireAP_a04df8fa0413470e90547a8e116fc562_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "US says Russia was given Trump campaign polling data in 2016"
+    excerpt: "The Treasury Department says Konstantin Kilimnik, a Russian and Ukrainian political consultant, shared sensitive information from Donald Trump’s 2016 presidential campaign with Russian intelligence se"
+    publishedDateTime: 2021-04-16T05:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-russia-trump-campaign-polling-data-2016-77110439"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-russia-trump-campaign-polling-data-2016-77110439"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-russia-trump-campaign-polling-data-2016-77110439"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_adf2de08c39b4733af2001dd4871dbb5_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden stands down at a critical juncture for police reform"
+    excerpt: "Nearly a year after the police killing of George Floyd, pressure is mounting on President Joe Biden and members of Congress to show they are committed to holding police officers accountable for misconduct, excessive force and negligence after yet another agonizing week that has demonstrated how Americans"
+    publishedDateTime: 2021-04-16T11:33:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IzRIuawahuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/joe-biden-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/joe-biden-police-reform/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170125-01-biden-harris-asian-pacific-american-caucus-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What to watch as Congress gears up for work on Biden's infrastructure plan"
     excerpt: "President Joe Biden has said he's willing to negotiate over infrastructure, a key legislative priority for the White House. There are signs, however, that Republican opposition remains as strong as ever, underscoring the challenge that awaits Democrats who face their own internal divisions over policy"
     publishedDateTime: 2021-04-13T09:20:31Z

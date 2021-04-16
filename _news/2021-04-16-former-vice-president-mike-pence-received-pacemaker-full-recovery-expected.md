@@ -75,22 +75,6 @@ related:
         width: 1199
         height: 888
         isCached: true
-  - title: "Mike Pence undergoes surgery to implant pacemaker"
-    excerpt: "His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days.”"
-    publishedDateTime: 2021-04-15T20:59:00Z
-    webUrl: "https://www.tampabay.com/news/nation-world/2021/04/15/mike-pence-undergoes-surgery-to-implant-pacemaker/"
-    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/04/15/mike-pence-undergoes-surgery-to-implant-pacemaker/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/04/15/mike-pence-undergoes-surgery-to-implant-pacemaker/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
-    images:
-      - url: "https://www.tampabay.com/resizer/zygxlpiUMTYfKMI-Sr0wkHN22K4=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/EJVLKQN572ZXLXYM4RXLLTCR6U.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Former Vice President Mike Pence undergoes heart procedure"
     excerpt: "Former Vice President Mike Pence received a pacemaker Wednesday. Pence underwent the procedure at Inova Fairfax Medical Campus in Falls Church, Virginia, according to a statement. He is expected to fully recover and return to normal activity soon,"
     publishedDateTime: 2021-04-15T20:01:00Z
@@ -104,6 +88,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mike Pence undergoes surgery to implant pacemaker"
+    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office said that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
+    publishedDateTime: 2021-04-16T10:01:00Z
+    webUrl: "https://bangordailynews.com/2021/04/16/national-politics/mike-pence-undergoes-surgery-to-implant-pacemaker/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/04/Mike-Pence.jpg?fit=1024%2C758&#038;ssl=1"
+        width: 1024
+        height: 758
         isCached: true
   - title: "Mike Pence underwent surgery to have pacemaker implanted"
     excerpt: "Former Vice President Mike Pence underwent successful surgery to have a pacemaker implanted, according to his office. CNN reported Pence began experiencing symptoms associated with a slow heartrate about two weeks and underwent surgery on Wednesday."

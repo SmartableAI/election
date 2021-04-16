@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-john-sullivan-mosc
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-john-sullivan-moscow/index.html"
 type: article
 quality: 190
-heat: 730
+heat: 750
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden stands down at a critical juncture for police reform"
+    excerpt: "Nearly a year after the police killing of George Floyd, pressure is mounting on President Joe Biden and members of Congress to show they are committed to holding police officers accountable for misconduct, excessive force and negligence after yet another agonizing week that has demonstrated how Americans"
+    publishedDateTime: 2021-04-16T11:33:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IzRIuawahuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/joe-biden-police-reform/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/joe-biden-police-reform/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170125-01-biden-harris-asian-pacific-american-caucus-0415-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

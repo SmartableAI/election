@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden Bids Farewell to a 'Forever War'"
+    excerpt: "\"It is time to end the forever war.\" So said President Joe Biden in his announcement that, as of Sept. 11, the 20th anniversary of the attacks on the World Trade Center and Pentagon, all U.S. troops will be gone from Afghanistan."
+    publishedDateTime: 2021-04-16T11:07:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/16/biden_bids_farewell_to_a_forever_war_145599.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/16/biden_bids_farewell_to_a_forever_war_145599.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/16/biden_bids_farewell_to_a_forever_war_145599.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/536464_5_.jpg"
+        width: 750
+        height: 492
+        isCached: true
 
 secured: "ESXHttbl/P63LUnncB1T70g8fUusUSwM73AKcOooAbgWCNietqDSrNKvzF8kTMiSX8/jQWz1veGj34kDZhQEo0ePDm4WOtfIKIJ8NnQ/Ks5CxXyi3/QhdpYJhBv+zlUWIydvT8gDXRXGbN6mLqqZhr2MudRIfklpxcVcaCrrrVd+5msMCxvCePpMoaQT+Tx5kLLVDhtdJh+/W50yhv0GhrQRBAygga/X1o7fgmKUzpg8BQ0GA0F77LumAjnSredYFWaAisnKZJtcKn+6BNWWgMKvrLSNRBg0fk6Kv68+CKs41EAdlBhHqH+iNXN1RwrduHpaOY8KXTnTU6UuykruC16pFEP6NGGH6rmEE6hBsds=;a1cINLaxRQLS+PilUp17VA=="
 ---

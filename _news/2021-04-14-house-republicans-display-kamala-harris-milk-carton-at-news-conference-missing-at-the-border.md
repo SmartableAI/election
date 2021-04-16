@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris' Failed Leadership Test"
+    excerpt: "It's been an inexplicable 22 days and counting that Vice President Kamala Harris has not visited the U.S. southern border or detention facilities"
+    publishedDateTime: 2021-04-16T10:51:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540621_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "Z17ieeTZH3Ag/oYN4WwCU2ncLpWQj1Up+eHmBfEKgiWiGr1HHsdYyWRAi6py5c6rpvoaYCI9O7Xf02gAKkq2eGPtbxIT1e+yaqIYdNh9cB/phkUZU/ezubeEK0s/0DyxIg4TRjA96T0tbT9HgiKRyvoFR8B/nun12rpNd2iVgfWkXqgbncQ//zNXlqYHBs0k4tdGDNqWUiEd2p3zMHV83XIEYKIv0u1o7iBNP3LC/SSmIsHVzx/+7Cd6or4iVfVSgHwBOKv08qcl/hjBU2RbPNYvmL5Z4oUow3jTa4ueqXvdM40dqyUX4WptCHNc9gk26Z6KueUKDMs/6f1oxlMsVreWsEz6jRJ4axUlV/1hf5lvCaRlGMSsy9uH8a7P5lUmpCyS6xugBIjSKvqijDNlFQXGAzP18S/DwTAHMJ7ogOkAyLNssdCpW8GCocec8Wrqz2t8UUahPf1Ay0M8nekfYh1KoknOfRMhVRy2bvDl3e22uyHVCrMZI1sB9ZNuLTaodfvNkJ7yHE1oOZnb5v/cYg==;2Po6RSP470VkpVDMb5wu5g=="
 ---

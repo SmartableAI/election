@@ -741,6 +741,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "US says Russia was given Trump campaign polling data in 2016"
+    excerpt: "The Treasury Department says Konstantin Kilimnik, a Russian and Ukrainian political consultant, shared sensitive information from Donald Trump’s 2016 presidential campaign with Russian intelligence se"
+    publishedDateTime: 2021-04-16T05:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-russia-trump-campaign-polling-data-2016-77110439"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-russia-trump-campaign-polling-data-2016-77110439"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-russia-trump-campaign-polling-data-2016-77110439"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_adf2de08c39b4733af2001dd4871dbb5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z

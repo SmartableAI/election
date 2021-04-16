@@ -191,6 +191,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
+    excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
+    publishedDateTime: 2021-04-16T11:16:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539938_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "X3L1iEWlSkMaAWvvavAJbO0gNsPsmdZeMRRI/LQ6tMKR5YYutQDbr13okPVdh58jg4gGOXd8kvNtD/Q4M46b1Obn3O3Wn0p2YKI8gjoMRPBogtz/EKeChQQXUM0R7rJ8NHTg46gBJIuP7JhjZ78VlI+Vbl4Mmpu7ST7jL/MMRcFjdEw9BrzBSaQbI+fnFcfEDuPdDvbDo96Q2+blUqzMqCnSs3ZKJNGc7KF7uDXDFaBbwUecgyxY/7Sh1yI7LAT2dcluiu+A+7qLXeOGIZ9E/tAg/ojIqBdVHRLufT6hWpQ3YRkxaHdOSpBTqiylMiaphGnaXkn2wZ0p3Jxx5cEZuN5aBeIEl5MrCc9221Yh7Lw=;1ara+n0JDe3aSVZg7E86hw=="
 ---
