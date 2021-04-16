@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden aims to redefine word ‘bipartisan’ as Dems work to push spending bill without any GOP votes"
-    excerpt: "President Biden vowed to bridge the partisan political divide but, struggling to garner Republican support for major bills, his administration appears to be changing the narrative by redefinining what \"bipartisan\" means."
-    publishedDateTime: 2021-04-12T13:10:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiJ0cferris/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp"
+  - title: "Texas Gov. Abbott calls on Biden, Harris to apply ‘terrorist’ label to Mexican cartels: report"
+    excerpt: "Texas Gov. Greg Abbott wants the Biden administration to declare Mexico’s drug cartels to be terrorist organizations."
+    publishedDateTime: 2021-04-16T04:58:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OLDUYa775UI/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 188
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b7e0d43-01ac-4ea4-9373-689fb8848fe4/418929e4-8d25-4f2b-bc61-6d784c399913/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Sz2Q/BWR+DlU+FSVb+mW6ODErgFVdnQ+akUHRi16YRp4AMHleHPFZz9EqxPFAy8hS+dRU7H4RDMBu7K9K8Y1Pz9uzfsGOFzlN/XoitIoTFAHmj7RljadTawsmai5c/fLxD509oEgAEK41wFrBIhsZtEOO6oWYvWJx9/6doZS16B+Ka8FVvbLCtIg6yV1P7SgOr4lshywq6d+wx/bFhTWhFwPBdwxgRv2ym+pU4Fb3kYRga4QiSqGM4Z05GvNfnEfiwazodCQJJuOK+UP6KWvFVi8L5bo8slgv1leoPoXKhv0qkuIqEiih1gqyEyeKrv32Ec1YhtNLxLhB+WOagCt8PtkAGB0TD93/TcVjVygTnQ=;KNnrdUDaLex5+6bvlQeWiw=="

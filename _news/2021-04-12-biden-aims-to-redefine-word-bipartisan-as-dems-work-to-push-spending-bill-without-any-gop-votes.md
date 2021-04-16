@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-redefine-bipartisan-dems-push
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-redefine-bipartisan-dems-push-spending-bill-without-gop-votes.amp"
 type: article
 quality: 162
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Texas Gov. Abbott warns border woes 'will get worse,' points to 'bipartisan response' to Biden admin"
-    excerpt: "Texas Gov. Greg Abbott said Sunday that in his state it's not just Republicans who are pushing back against the Biden administration as migrants surge to the southern border in record numbers."
-    publishedDateTime: 2021-04-11T15:14:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NcOTrAncMyg/texas-gov-abbott-border-crisis-will-get-worse"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-border-crisis-will-get-worse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-border-crisis-will-get-worse.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "aJ2cqfb0yhH9QuqiO2GKVn1Ol7d29CSxGMJ0CJn3f8oeA5DOMKm1w3a9npaPXcj+4O4tHQ8LjQQ1DBf8L4hlHZXEpE93eT5cuX+60Ldkamvaz2Wj24WiuxOxIV5/4OwM5OoRK8IiwojAlOEPUI7qtQWmO8gfOFLLFfYcyvXt0lD1ByHM+weg3wr5tfq0IEMRFUQ8AIspcDBMLdKdC7Fc8WNx1k6id+Ez316VnH3y6ug0oNabF0go45PLbkPjwg3rSZ/Zppo3SR75Jw6a55FErvaM3NxB/anhbyYAZBFz/s4b4R4zVDEc6qOv3gLTnwUS4yYVS5yfbw7joNV5GnIWn6hNNp4zp3kaqKbxbrI1rX0=;QrzC2C6iVbU1JJzG1pi17w=="
 ---

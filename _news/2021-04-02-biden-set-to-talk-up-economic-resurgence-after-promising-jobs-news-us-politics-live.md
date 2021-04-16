@@ -261,6 +261,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden announces tough new sanctions on Russia"
+    excerpt: "President Joe Biden announces tough new sanctions on Russia, expelling 10 diplomats and imposing sanctions against dozens of companies and people. The US holds the Kremlin accountable for interference in the 2020 presidential election hacking."
+    publishedDateTime: 2021-04-15T23:06:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/15/biden-announces-tough-new-sanctions-russia/7245271002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/772e29b1-6845-449c-816c-d6d58ede2602_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'Opportunity is coming': Joe Biden celebrates latest jobs report – video"
     excerpt: "Joe Biden has encouraged Americans to ‘buckle down’ as coronavirus cases rise but he was optimistic on the state of the economy and celebrated the latest jobs report. The US economy added 916,000 jobs last month according to the report which Biden ..."
     publishedDateTime: 2021-04-02T16:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2289
+heat: 2309
 published: true
 
 provider:
@@ -1431,6 +1431,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/78c/666/539760a198311d9d8dcc56142a8acc8152-trump-rally.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "GOP leaders diverge on Trump, putting party in limbo"
+    excerpt: "The very public pilgrimages, and the noticeable refusal to make one, have placed c Republicans at a crossroads, with one branch of the party keeping close to Trump, hoping to harness the power of his political brand and loyal voters for their campaigns,"
+    publishedDateTime: 2021-04-16T05:51:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-leaders-diverge-on-Trump-putting-party-in-16105367.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-leaders-diverge-on-Trump-putting-party-in-16105367.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-leaders-diverge-on-Trump-putting-party-in-16105367.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Ivanka Trump Breaks Social Media Silence For This Important Announcement"
     excerpt: "Ivanka Trump, former President Donald Trump’s oldest daughter, on Wednesday broke her three-month silence on Twitter to announce that she has received the coronavirus vaccine. T"

@@ -63,6 +63,22 @@ related:
         width: 3000
         height: 1982
         isCached: true
+  - title: "Blinken visits Afghanistan in show of support after Biden announces withdrawal"
+    excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Kabul on Thursday to show support for the Afghan government and civil society a day after President Joe Biden said he was pulling out American forces after nearly 20 years of war."
+    publishedDateTime: 2021-04-15T19:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-blinken-idAFKBN2C21HU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2C21HU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2C21HU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210415&t=2&i=1558579629&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3E0R5"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden \"doesn't have all the time in the world\" to act on gun violence, gun control advocate says"
     excerpt: "A prominent gun control advocacy group is urging President Joe Biden to act quickly on his proposed firearms legislation, after a week that saw 345 people killed by gun violence in the United States. \"He doesn't have all the time in the world. He needs to ..."
     publishedDateTime: 2021-04-09T18:26:00Z

@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-03-04-trump-talking-to-allies-about-2024-run-without-pence-report.md",
+      "title": "Trump talking to allies about 2024 run without Pence: report",
+      "excerpt": "Former President Donald Trump is considering running for the presidency again in 2024 without former Vice President Mike Pence as his running mate,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report",
+      "originalUrl": "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 560,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/mreportpence_2.jpg",
+          "width": 580,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp",
+      "publishedDateTime": "2021-03-03T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-ronny-jackson-under-obama-and-trump-from-tremendous-asset-to-tyrant.md",
       "title": "Ronny Jackson under Obama and Trump: From 'tremendous asset' to 'tyrant'",
       "excerpt": "An inspector general report detailing allegations of \"sexual and denigrating\" comments made by former White House physician Rep. Ronny Jackson, along with accounts of drinking and taking prescription sleep aids on the job while overseas, come after a lengthy tenure across three administrations.\n    \n",
@@ -1276,62 +1328,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-states-prioritize-educators-vaccine-rollout.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-states-prioritize-educators-vaccine-rollout.amp",
       "publishedDateTime": "2021-03-02T15:01:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.md",
-      "title": "Trump ally Rep. Lee Zeldin exploring NY governor bid amid Cuomo controversies",
-      "excerpt": "Republican Rep. Lee Zeldin of New York says he’s “actively exploring” a run for governor next year as embattled Democratic Gov. Andrew Cuomo faces multiple allegations of sexual harassment as well as a federal probe into the state’s handling of COVID deaths at nursing homes amid the coronavirus pandemic",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAVmxHPCx14/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAVmxHPCx14/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
-      "publishedDateTime": "2021-03-02T14:50:53-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

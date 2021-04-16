@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "'CNN Tonight' host claims he would rather have low ratings without Trump in office than vice versa"
+    excerpt: "CNN anchor Don Lemon appears unfazed by the network's dramatic ratings slump since former President Donald Trump left office."
+    publishedDateTime: 2021-04-16T04:40:00Z
+    webUrl: "https://www.foxnews.com/media/don-lemon-cnn-ratings-dive-worth-it-better-trump-not-potus"
+    ampWebUrl: "https://www.foxnews.com/media/don-lemon-cnn-ratings-dive-worth-it-better-trump-not-potus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/don-lemon-cnn-ratings-dive-worth-it-better-trump-not-potus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/don-lemon-CNN.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "VwzjLadjF6jQ+XLgDqqThjBgudBDJHf5DtokUrygFiZJG52fGhb4k/nBJCUn03cvTHVBkBOIByU1ReA2a4C/cKXyDsDl3vxU6skuUx+C0yhqgwqBLTixB6sKGd6o0Ksu+1qKMYeY+uxyVjdKFpIz0OlYvmsxPzEPbP1eKKHgqEgPuV2jPdYBkbK7Lo/QQFs4WGovvXoFYi8QL5/KmirKGJDvrQxOFeeXVpP1UDxYiHv9Voh3CZvtn7HYzW6ssnFx2P7iAM5e1Qozxgnuyr/tdpGpA+bfMsEXW+KhUKfzk5C8VS5EooQlx8Y7Lsj0K5F3K3fLHKTCE9MuM8MxglruGrxyc0WwsmQATF1ABet5bzIy8Z1mRhDzcfenuoS/yP63J0IJhkG6CVhKiKFZi2vDI69IF3fArlHo1ze4fhDIYPCIDfVy0EZ3tvsHhUEHn4ZfSAnEkQvGPsshW8jBX1j3AhAfrkWWF9JyLDo5LCBmNSVFBQqdWmCDqZAXQ6oMB4YZieBLdSN5pSOdRomFja2Itg==;z0m+4VoudlW4au73e9MIFA=="
 ---
