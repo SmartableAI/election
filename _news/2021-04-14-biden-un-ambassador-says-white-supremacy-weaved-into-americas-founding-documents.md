@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Psaki defends Biden UN ambassador who said founding documents 'weaved' with racism"
+    excerpt: "White House press secretary Jen Psaki on Friday defended United Nations Ambassador Linda Thomas-Greenfield amid criticism over comments that the American founding documents are \"weaved\" with White supremacy. "
+    publishedDateTime: 2021-04-16T17:15:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/soU5zpsCSHQ/psaki-biden-un-ambassador-founding-documents-weaved-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-un-ambassador-founding-documents-weaved-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-un-ambassador-founding-documents-weaved-racism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "elfCJL8nBVziFMqWlcNoMzuzFjqyA66J5h9WdDac9nzI5F+pdcv4wHOBc2RH/K8TLDiYWcjOfFfAn2X0xEF9hfipNrsi8Be50HWKN0ZoGmjE+L/7WUrXki7TGH1NfxOfhMf7ftDB4wpMdIWtGC+x3YBdQId8yR5ctTO5h6Eo1GAyFZy/0+suUt6CkNCZFmcn/mb9NcxIwODUJiPkG0JTz7T8Hm/YV+hiY3nXizDnTfmJvcel9/1uPWQeN/Q8ENHqzaYwZAkzicSFCdLGTPDhYHYVpbWFV8yyRrculnvAOKAGy7dCVyDnJrFngPXCwG0Y4WNaRR81KWdUpsLFiZnkb/ylK4cXLZ3YNw9CHs4EKgc=;hF1LxA8gy7CYwSORTNqLIg=="
 ---

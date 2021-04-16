@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 1490
+heat: 1510
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
     quality: 180
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/358d4a83-2ffa-4864-b18b-0493c55dcc60/c53febf6-d8fa-447e-87bf-c7cab81cf429/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to keep refugee admissions at Trump-era levels, despite earlier moves to increase it"
+    excerpt: "President Biden is keeping refugee admissions at 15,000 this fiscal year -- the level set at the end of the Trump administration -- despite earlier proposals to dramatically increase it to over 60,000."
+    publishedDateTime: 2021-04-16T17:36:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0eNJnNG6w/biden-keep-refugee-admissions-trump-era-levels"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keep-refugee-admissions-trump-era-levels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keep-refugee-admissions-trump-era-levels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd344368-8532-4513-b2d1-a2efb623f115/dfd26a02-8311-4908-944a-cb8c76d596ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

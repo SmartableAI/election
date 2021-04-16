@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2409
+heat: 2429
 published: true
 
 provider:
@@ -1762,6 +1762,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "U.S. Interior Dept Revokes Trump Policies, Puts Climate at Center of Decisions"
+    excerpt: "The U.S. Interior Department on Friday sought to erase the Trump administration's pro-fossil fuels legacy from the nation's public lands by revoking a suite of policies that boosted drilling and mining and ordering that climate change be put at the forefront in future agency decisions."
+    publishedDateTime: 2021-04-16T17:50:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z

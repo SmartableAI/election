@@ -190,6 +190,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Russia retaliates against Biden's sanctions by announcing it will expel 10 US diplomats"
+    excerpt: "Russian Foreign Minister Sergey Lavrov said on Friday that Russia will expel 10 US diplomats, part of a series of measures meant to retaliate for President Joe Biden's sweeping sanctions against the Kremlin Thursday.\n    \n"
+    publishedDateTime: 2021-04-16T17:35:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ca9irw7CVwc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/russia-retaliate-us-diplomats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/russia-retaliate-us-diplomats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415121852-moscow-russia-sanctions-0415-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration stands down on policing commission, focuses on legislative route instead"
     excerpt: "The Biden administration is standing down on a campaign promise to create a White House-led commission and instead moving forward with its efforts toward passing police reform through legislative channels.\n    \n"
     publishedDateTime: 2021-04-12T18:18:20Z

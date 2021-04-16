@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-calls-on-biden-har
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report.amp"
 type: article
 quality: 188
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Open borders' are Democratic Party policy, Biden-Harris fulfilling campaign promise: Gov. Abbott"
+    excerpt: "Texas Gov. Greg Abbott told \"Fox & Friends\" on Friday that the Biden administration is fulfilling the Democratic Party's open borders platform."
+    publishedDateTime: 2021-04-16T16:58:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FiE7tq7OamI/open-borders-democratic-party-policy-biden-harris-promises-abbott"
+    ampWebUrl: "https://www.foxnews.com/politics/open-borders-democratic-party-policy-biden-harris-promises-abbott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/open-borders-democratic-party-policy-biden-harris-promises-abbott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas Gov. Abbott warns border woes 'will get worse,' points to 'bipartisan response' to Biden admin"
     excerpt: "Texas Gov. Greg Abbott said Sunday that in his state it's not just Republicans who are pushing back against the Biden administration as migrants surge to the southern border in record numbers."
     publishedDateTime: 2021-04-11T15:14:57Z

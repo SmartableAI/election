@@ -1769,6 +1769,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "U.S. Interior Dept Revokes Trump Policies, Puts Climate at Center of Decisions"
+    excerpt: "The U.S. Interior Department on Friday sought to erase the Trump administration's pro-fossil fuels legacy from the nation's public lands by revoking a suite of policies that boosted drilling and mining and ordering that climate change be put at the forefront in future agency decisions."
+    publishedDateTime: 2021-04-16T17:50:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "U39kaydWW/I50SWd6RRMmTdwR4ZzmMEvKTQ+vnkIquzkjTLo2jckudSM/BBKoENxGY+W6pOXlVXI/Vb/KVXjdqTMWsCpVKdo3fXuV8lzCY6QRMCHzIGhw8vlrf1hkhEh3TpRKMN28y5Yu/0I2oc3OGRtt5DIU7fmeJGAO4TzvclxhBKiwZTiKC6a+wSxmSr2eHQWd5euJlYr5qB4iHZkqNIgPmcXZrG27ufybPLpYO9IAsbroBxzSjTdJ/Q8/Kx1PB1TeDcL8JiofMUALALDaeOqrtz1wEVwtPgwmzhyda/jslnG94Y6dhgnIOKSKF9xa/Zh+LgBHxoAumlBi1eZg+cWVpLj8Q6jOArrahgY53nUYEL92JypzCXSOTtyXwD8odzO5VPcMmOQQiNYyeDGOpQm+yu0WjoDJW8DgEq/oVerNVS35SNh07SgssI1KEWZyxM4OfSezfNAnPYliuPzJ/aZOeacvFGklwUK2lPNBdxB3Ug6VCh6OB3eaMDRqRRCRwjoZk5lmeaJesp0Uh4okw==;iBatfiNbunRcpogFKXTVbQ=="
 ---

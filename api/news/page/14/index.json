@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-30-best-and-brightest-biden-announces-trailblazing-slate-of-judicial-nominees.md",
+      "title": "'Best and brightest': Biden announces 'trailblazing' slate of judicial nominees",
+      "excerpt": "Photograph: Lloyd DeGrane/Wikimedia Commons Last modified on Tue 30 Mar 2021 07.39 EDT Joe Biden has announced a “trailblazing” set of federal judicial nominees, 11 picks including three Black women. Ketanji Brown Jackson, a US district judge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a6d2ab7a2e08976af370ac51bf97b267552399f5/0_147_4403_2934/master/4403.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d96a1e7e4fcd8c9f860f4e8ccf360f96",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
+      "publishedDateTime": "2021-03-30T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
       "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
       "excerpt": "Former President Donald Trump recently rattled off the names of those he viewed as future leaders of the Republican Party, including Sens. Josh Hawley and Ted Cruz along with Florida Gov. Ron DeSantis",
@@ -1278,62 +1330,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-may-visit-us-mexico-border-region-soon-former-aide-says.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-may-visit-us-mexico-border-region-soon-former-aide-says.amp",
       "publishedDateTime": "2021-03-27T02:07:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-marine-corps-reservist-warns-that-biden-pentagons-woke-rules-and-priorities-endangering-us-security.md",
-      "title": "Marine Corps reservist warns that Biden Pentagon's 'woke' rules and priorities endangering US security",
-      "excerpt": "Marine Corps Reservist Aaron Reitz warned Friday that the increasingly woke dictates coming from the Biden Defense Department are a sign the Pentagon leadership has its priorities backward.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xscbc2R85rU/marine-corps-reservist-warns-biden-woke-pentagon",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xscbc2R85rU/marine-corps-reservist-warns-biden-woke-pentagon",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e22e27ef-4aa1-4453-8264-3d69d494b006/097683f4-e2f8-48cf-8a17-8a75c68350cc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/marine-corps-reservist-warns-biden-woke-pentagon.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marine-corps-reservist-warns-biden-woke-pentagon.amp",
-      "publishedDateTime": "2021-03-26T20:23:47-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

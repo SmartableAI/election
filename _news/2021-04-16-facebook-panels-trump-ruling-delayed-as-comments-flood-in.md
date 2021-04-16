@@ -1761,6 +1761,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "U.S. Interior Dept Revokes Trump Policies, Puts Climate at Center of Decisions"
+    excerpt: "The U.S. Interior Department on Friday sought to erase the Trump administration's pro-fossil fuels legacy from the nation's public lands by revoking a suite of policies that boosted drilling and mining and ordering that climate change be put at the forefront in future agency decisions."
+    publishedDateTime: 2021-04-16T17:50:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z
@@ -1771,6 +1782,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UQKnji+KLR9SXi/tZjHrvi58LKyVC6UhfJBix5vgzubJMAK6CghRICPBUdkiBweBq6Qef1zogVZaBD6cDk3jQf15zSz7AyHNV9jWACh773PFv2Ck1ARLz+WMOkIeNYi67zHmnEOdbVMbGtNuu9gPMjtCJXntInFsSj5Jy6E2ThTcF/zi53tP2ALgoUu5P1jOkMGgiNJeFVI1vq8wfm1PRupuWrJhQR0P+GhLqTpS+ENplRuFk6RhJFFoRVMzaCB28oe679RVye6w58SJVybwA9DY+i79pao3ahmJ4IXwFWIPhZBIDpBOwZamXL29/g3xCN8AqphsseOdrLg2ZF7CuhEmQ3Cvrm/SEcZ0chKp06I=;Mufmphah7hkfOhKf3Zu+vw=="
+secured: "Zh1YzcgCAAAFBtT1g7Z8SEB4YjX859Dhv2hr/YhsR6En6gaR7VQULglEGZjFuMNKyZAt0RtI2zU6nua4bF7Ijv6GoHZ4KKpvHAWfaRPh/eG6q/I7OY9K7W94Zr3+ZXGlXnr2QWD5Fn5fBocm/SsACXhiu7XiRBjg0l1zJjfGP47H+YetBd5mugTLEoKaDyg5i/yfZ7Hl7HNLwByoSwhPdgMjKDu4A34PB0Mf4MSMVRLaegAIBDhl9Cb7ZJMlvCosw9x6Rn5L0+4CXXerzZkYzSewq4nCuABs3anXbcxxqEn/zrdCqfTP4pr1dzNYqzNEf6EQhJOpDQMcomQjOtC/mY1rNdDbbBT82PGIt/5yHgedxDMO5XqoHBd5calxBgj46ddxgvyX1JXBUe1i86JmAJDvCbEOfJNYge4dA8VPOtNF1Z4PSk2Sdxx2YXyDgaIn4/WTa6PqsSdFEvhq0+zr3ACrxKeBHL8kmrfnpK+PXZc/tA32Uc6pON9BEDsbDmhLoIiA2B0E+NVPsrPTYgrBkg==;beuiE40IszVtlZeazNbkeQ=="
 ---
 

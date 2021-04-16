@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-proced
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1"
 type: article
 quality: 124
-heat: 264
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence undergoes surgery to have pacemaker implanted"
+    excerpt: "\"The routine surgery was successful, and he is expected to fully recover and return to normal activity in the coming days,\" Pence's office said."
+    publishedDateTime: 2021-04-16T11:20:00Z
+    webUrl: "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Former Vice President Mike Pence has pacemaker installed"
     excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
     publishedDateTime: 2021-04-15T22:08:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/2291618523024/2021/1/ba1077f3870cc8a125397f00953147e2/v1.5/Former-Vice-President-Mike-Pence-has-pacemaker-installed.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
+    excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
+    publishedDateTime: 2021-04-15T19:10:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Former VP Mike Pence undergoes surgery to implant pacemaker"
     excerpt: "The 61-year-old former vice president had previously been diagnosed with a heart condition called asymptomatic left bundle branch block."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us-criticism.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Psaki defends Biden UN ambassador who said founding documents 'weaved' with racism"
+    excerpt: "White House press secretary Jen Psaki on Friday defended United Nations Ambassador Linda Thomas-Greenfield amid criticism over comments that the American founding documents are \"weaved\" with White supremacy. "
+    publishedDateTime: 2021-04-16T17:15:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/soU5zpsCSHQ/psaki-biden-un-ambassador-founding-documents-weaved-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-un-ambassador-founding-documents-weaved-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-un-ambassador-founding-documents-weaved-racism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden UN ambassador says white supremacy 'weaved' into America's 'founding documents'"
     excerpt: "U.S. Ambassador to the United Nations Linda Thomas-Greenfield pledged Wednesday to prioritize efforts to combat racism at home and abroad, arguing at an event that America’s history of slavery “weaved white supremacy into our founding documents and principles.”"
     publishedDateTime: 2021-04-14T23:15:05Z

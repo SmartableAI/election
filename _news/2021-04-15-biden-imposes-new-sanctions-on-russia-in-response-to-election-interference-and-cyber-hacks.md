@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
 type: article
 quality: 180
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411213734-01-myanmar-unrest-0411-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Russia retaliates against Biden's sanctions by announcing it will expel 10 US diplomats"
+    excerpt: "Russian Foreign Minister Sergey Lavrov said on Friday that Russia will expel 10 US diplomats, part of a series of measures meant to retaliate for President Joe Biden's sweeping sanctions against the Kremlin Thursday.\n    \n"
+    publishedDateTime: 2021-04-16T17:35:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ca9irw7CVwc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/russia-retaliate-us-diplomats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/russia-retaliate-us-diplomats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415121852-moscow-russia-sanctions-0415-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

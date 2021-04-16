@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-america-first-policy-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp"
 type: article
 quality: 190
-heat: 390
+heat: 430
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden used Russian bounty story against Trump in 2020 campaign"
+    excerpt: "Then-presidential candidate Joe Biden, along with other Democrats, accused former President Trump during the 2020 campaign of having a soft spot for President Vladimir Putin following a New York Times report last year that Russia placed bounties on the heads of American soldiers."
+    publishedDateTime: 2021-04-16T17:46:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eHpYuavU6TQ/russian-bounty-trump-2020-presidential-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/russian-bounty-trump-2020-presidential-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russian-bounty-trump-2020-presidential-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration expands entry of migrants kept in Mexico under Trump"
     excerpt: "The Biden administration announced Tuesday that it is expanding the entry of migrants into the U.S. who had been kept in Mexico as part of the Trump-era Migrant Protection Protocol (MPP) – even as migrants continue to surge toward the border in record numbers."
     publishedDateTime: 2021-04-13T20:53:06Z
@@ -126,6 +142,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/chris-magnus.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden used Russian bounty story against Trump in 2020 campaign"
+    excerpt: "Then-presidential candidate Joe Biden, along with other Democrats, accused former President Trump during the 2020 campaign of having a soft spot for President Vladimir Putin following a New York Times report last year that Russia placed bounties on the heads of American soldiers."
+    publishedDateTime: 2021-04-16T17:46:00Z
+    webUrl: "https://www.foxnews.com/politics/russian-bounty-trump-2020-presidential-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/russian-bounty-trump-2020-presidential-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russian-bounty-trump-2020-presidential-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump mocks Biden for ‘PC’ military: ‘They’re laughing at us like never before’"
     excerpt: "Former President Donald Trump mocked President Biden in a podcast, saying he forced the nation’s armed forces to become “politically correct” with progressive and gender-inclusive policies."
