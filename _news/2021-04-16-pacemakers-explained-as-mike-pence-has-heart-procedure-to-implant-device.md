@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Mike Pence underwent surgery to have pacemaker implanted"
-excerpt: "Former Vice President Mike Pence underwent successful surgery to have a pacemaker implanted, according to his office. CNN reported Pence began experiencing symptoms associated with a slow heartrate about two weeks and underwent surgery on Wednesday."
-publishedDateTime: 2021-04-15T17:49:00Z
-originalUrl: "https://www.hawaiinewsnow.com/2021/04/15/mike-pence-underwent-surgery-have-pacemaker-implanted/"
-webUrl: "https://www.hawaiinewsnow.com/2021/04/15/mike-pence-underwent-surgery-have-pacemaker-implanted/"
+title: "Pacemakers Explained As Mike Pence Has Heart Procedure To Implant Device"
+excerpt: "The former vice president's medical history includes a diagnosis of a heart condition known as left bundle branch block."
+publishedDateTime: 2021-04-16T12:58:00Z
+originalUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157"
+webUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157"
+ampWebUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 124
+heat: 264
+published: true
 
 provider:
-  name: KHNL
-  domain: hawaiinewsnow.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.hawaiinewsnow.com/resizer/ULCkz1RgzS4TZ4BRJuVbbYY8p_Q=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/RFKZZCVLWJCSTJQRFSOEJJV43Y.jpg"
-    width: 1200
-    height: 800
+  - url: "https://d.newsweek.com/en/full/1778960/mike-pence-joe-bidens-inauguration.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
-  - title: "Pacemakers Explained As Mike Pence Has Heart Procedure To Implant Device"
-    excerpt: "The former vice president's medical history includes a diagnosis of a heart condition known as left bundle branch block."
-    publishedDateTime: 2021-04-16T12:58:00Z
-    webUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157"
-    ampWebUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1778960/mike-pence-joe-bidens-inauguration.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Former Vice President Mike Pence has pacemaker installed"
     excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
     publishedDateTime: 2021-04-15T22:08:00Z
@@ -117,6 +107,20 @@ related:
         width: 1024
         height: 758
         isCached: true
+  - title: "Mike Pence underwent surgery to have pacemaker implanted"
+    excerpt: "Former Vice President Mike Pence underwent successful surgery to have a pacemaker implanted, according to his office. CNN reported Pence began experiencing symptoms associated with a slow heartrate about two weeks and underwent surgery on Wednesday."
+    publishedDateTime: 2021-04-15T17:49:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2021/04/15/mike-pence-underwent-surgery-have-pacemaker-implanted/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 55
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/ULCkz1RgzS4TZ4BRJuVbbYY8p_Q=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/RFKZZCVLWJCSTJQRFSOEJJV43Y.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
     excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
     publishedDateTime: 2021-04-15T20:12:00Z
@@ -132,6 +136,6 @@ related:
         height: 889
         isCached: true
 
-secured: "xzU2vFyDA2hukODXgRkvO6yUwe+7aYDFUP9Br71PT11yhqyk0FeMifrX8LGFt66au909HobchvXeq8Uu46nkk/9GIuYxvvvQq51JGmCK4yG7LwEi/Mh0c1Z4cKWaGmYdCXQihkNb96TSslaqinsVyt89S8Igcqx3V6ASdQ7FXiiaOZKirZLqkdCO6rYTWku0bnUdmocXyu/s1QxPoSdvxQS+j6ApCcd6z8ExXXdbffhlbY+l32l90K+Yfya48AlG8pojOQ7XHedorQQHlaJx3nJ8B8JjQMHoAq2twGk60nSZ/BEhNCxEK4CoYgMffvopc5imkZw/tjErBBHoDCET4IRhBlvgFTio0Ssdz5P8V1E=;fd6WGbtA7qX79uN8HUewew=="
+secured: "VfqlUEije8Q6CIDROQH+4RR4mmUwUR0ClZRsfKO8w19bI56nxc+MfTgky8rfH3iWC4CGSfwQdZfgFDnPJy6sSPBrvanVXz+5377eu/GWHgIPs/8A4ahrb8fBa++Sv8RGebvLpclHJ/KFqMYku58RwcNnIo12zw4G76Y4UEFyBoV/T0+9enR+uQTB6BQ4/r3h4LFPODebi/0dlGGEf0xT7tSGIeD8z3MCSnsDH430drAehgqWg2jP+YAF4I+tCLvpL5VZ12g5lFL5fw124pkBS+pYWSefE4Ahk8iTc/+9kaMUhI1HXh26SBgaStaq7eKXO6mJJc8hF9RJ5rgDOfkZ0dgIhgHqviwXIaiHUKYJMbY=;IU1ctFrva9+W8RxfjnPE3Q=="
 ---
 

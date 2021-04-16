@@ -1,0 +1,35 @@
+---
+category: news
+title: "Biden to be briefed on Indianapolis shooting"
+excerpt: "President Joe Biden will be briefed Friday morning on a shooting at an Indianapolis FedEx facility that left at least eight people dead, a White House official told CNN.\n    \n"
+publishedDateTime: 2021-04-16T12:07:49Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tT1KgMKeqrM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tT1KgMKeqrM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html"
+type: article
+quality: 175
+heat: 175
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416010826-02-indianapolis-fedex-shooting-0416-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+secured: "A7kZiNpJHyCTKadBZ8W/Qni29JuIpHnNstMsPvVrYEbuEbtekrCit3D8OxOVrk6CNHx3H4r4bN4dGvwHZEiW1VMT4QLTg9xpxYszZPOwVIXYmAChjiKqUQy2ZxmGOo0f+2uldQ0keh7wq6LsgBXkxwg0/0QX5VOYma+i74GAvKoWVgmGtJw4Il8lW+hOjMATwslMiVNaGuNyFEKG0WkVx3n0M9DPk/o3bcDDSJ7ykXoVhi+bGBsufxOL8iATHFJ6dlPv0vu17AmKPZh15jIOQeQwcSwunWW7Coi6icXNQDdqhjsoIUWLTk7n/pa7OjRYm0jN4Tpe+rAtVhI+RIzYiY0NNc+Ek5UO0k3KE6dNTgE=;jQ+5B0E4/47RmOdnSAVKYw=="
+---
+

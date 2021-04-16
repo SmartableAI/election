@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-16-pacemakers-explained-as-mike-pence-has-heart-procedure-to-implant-device.md",
+      "title": "Pacemakers Explained As Mike Pence Has Heart Procedure To Implant Device",
+      "excerpt": "The former vice president's medical history includes a diagnosis of a heart condition known as left bundle branch block.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157",
+      "originalUrl": "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1778960/mike-pence-joe-bidens-inauguration.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1",
+      "publishedDateTime": "2021-04-16T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-biden-to-be-briefed-on-indianapolis-shooting.md",
+      "title": "Biden to be briefed on Indianapolis shooting",
+      "excerpt": "President Joe Biden will be briefed Friday morning on a shooting at an Indianapolis FedEx facility that left at least eight people dead, a White House official told CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tT1KgMKeqrM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tT1KgMKeqrM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210416010826-02-indianapolis-fedex-shooting-0416-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html",
+      "publishedDateTime": "2021-04-16T05:07:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-senators-to-biden-waive-vaccine-intellectual-property-rules.md",
       "title": "Senators to Biden: Waive vaccine intellectual property rules",
       "excerpt": "A waiver would pave the way for poorer nations struggling to inoculate their populations from the coronavirus to make the vaccines.",
@@ -384,49 +492,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-16-former-vice-president-mike-pence-has-pacemaker-installed.md",
-      "title": "Former Vice President Mike Pence has pacemaker installed",
-      "excerpt": "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/2291618523024/2021/1/ba1077f3870cc8a125397f00953147e2/v1.5/Former-Vice-President-Mike-Pence-has-pacemaker-installed.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/",
-      "publishedDateTime": "2021-04-15T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-04-15-sen-graham-slams-biden-dems-for-court-packing-attempt-they-are-really-drunk-with-power.md",
       "title": "Sen. Graham slams Biden, Dems for court-packing attempt: They are 'really drunk with power'",
       "excerpt": "Senator Lindsey Graham responds to Democrats' legislation to pack the Supreme Court, and U.S. troops leaving Afghanistan on 'The Story'",
@@ -705,6 +770,49 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-former-vice-president-mike-pence-recovering-after-receiving-a-pacemaker.md",
+      "title": "Former Vice President Mike Pence recovering after receiving a pacemaker",
+      "excerpt": "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54",
+      "originalUrl": "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54",
+      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54",
+      "publishedDateTime": "2021-04-15T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },
@@ -1252,114 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-biden-imposes-new-sanctions-on-russia-in-response-to-election-interference-and-cyber-hacks.md",
-      "title": "Biden imposes new sanctions on Russia in response to election interference and cyber hacks",
-      "excerpt": "The Biden administration is expected to announce sanctions as soon as Thursday targeting Russian individuals and entities, in addition to the expulsion of as many as a dozen Russian diplomats from the US in response to the hack of SolarWinds and election interference, according to two sources familiar",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 580,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218161649-solarwinds-headquarters---stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html",
-      "publishedDateTime": "2021-04-15T05:25:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-qanon-supporters-think-ivanka-trump-vaccine-picture-was-photoshopped.md",
-      "title": "QAnon Supporters Think Ivanka Trump Vaccine Picture Was Photoshopped",
-      "excerpt": "The conspiracy theorists suggest that an image of former President Donald Trump's eldest daughter was staged, or that it is not her in the photo she tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753",
-      "originalUrl": "https://www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1778191/qanon.jpg",
-          "width": 2491,
-          "height": 1657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-ivanka-trump-covid-vaccine-1583753?amp=1",
-      "publishedDateTime": "2021-04-15T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

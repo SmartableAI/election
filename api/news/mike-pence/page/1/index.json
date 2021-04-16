@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-16-pacemakers-explained-as-mike-pence-has-heart-procedure-to-implant-device.md",
+      "title": "Pacemakers Explained As Mike Pence Has Heart Procedure To Implant Device",
+      "excerpt": "The former vice president's medical history includes a diagnosis of a heart condition known as left bundle branch block.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157",
+      "originalUrl": "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1778960/mike-pence-joe-bidens-inauguration.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1",
+      "publishedDateTime": "2021-04-16T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-franklin-grahams-prayer-call-for-mike-pence-receives-traitor-responses-from-followers.md",
       "title": "Franklin Graham's Prayer Call for Mike Pence Receives 'Traitor' Responses From Followers",
       "excerpt": "Gab users refused to wish the former VP a speedy recovery and continued to criticize him for not helping Donald Trump overturn the 2020 presidential election results.",
@@ -41,49 +93,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-former-vice-president-mike-pence-has-pacemaker-installed.md",
-      "title": "Former Vice President Mike Pence has pacemaker installed",
-      "excerpt": "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/2291618523024/2021/1/ba1077f3870cc8a125397f00953147e2/v1.5/Former-Vice-President-Mike-Pence-has-pacemaker-installed.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/",
-      "publishedDateTime": "2021-04-15T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -150,6 +159,49 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-former-vice-president-mike-pence-recovering-after-receiving-a-pacemaker.md",
+      "title": "Former Vice President Mike Pence recovering after receiving a pacemaker",
+      "excerpt": "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54",
+      "originalUrl": "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54",
+      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54",
+      "publishedDateTime": "2021-04-15T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHOU 11",
+        "domain": "khou.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },
@@ -1507,63 +1559,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-pence-to-deliver-first-post-vp-speech-in-south-carolina-as-he-eyes-political-future.md",
-      "title": "Pence to deliver first post-VP speech in South Carolina as he eyes political future",
-      "excerpt": "Former Vice President Mike Pence will head to South Carolina next month to deliver his first public address since the end of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "publishedDateTime": "2021-03-08T07:07:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

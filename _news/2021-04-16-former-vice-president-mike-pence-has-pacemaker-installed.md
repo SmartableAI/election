@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/15/former-Vice-President-Mike-Pence-pacemaker-surgery/2291618523024/"
 type: article
 quality: 75
-heat: 215
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
-    excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
-    publishedDateTime: 2021-04-15T19:10:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+  - title: "Pacemakers Explained As Mike Pence Has Heart Procedure To Implant Device"
+    excerpt: "The former vice president's medical history includes a diagnosis of a heart condition known as left bundle branch block."
+    publishedDateTime: 2021-04-16T12:58:00Z
+    webUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157"
+    ampWebUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
     images:
-      - url: "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://d.newsweek.com/en/full/1778960/mike-pence-joe-bidens-inauguration.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Former VP Mike Pence undergoes surgery to implant pacemaker"
     excerpt: "The 61-year-old former vice president had previously been diagnosed with a heart condition called asymptomatic left bundle branch block."

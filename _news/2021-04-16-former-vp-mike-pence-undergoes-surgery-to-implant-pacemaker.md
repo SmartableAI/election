@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pacemakers Explained As Mike Pence Has Heart Procedure To Implant Device"
+    excerpt: "The former vice president's medical history includes a diagnosis of a heart condition known as left bundle branch block."
+    publishedDateTime: 2021-04-16T12:58:00Z
+    webUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157"
+    ampWebUrl: "https://www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pacemaker-explained-mike-pence-heart-procedure-implant-1584157?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1778960/mike-pence-joe-bidens-inauguration.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Former Vice President Mike Pence has pacemaker installed"
     excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
     publishedDateTime: 2021-04-15T22:08:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/2291618523024/2021/1/ba1077f3870cc8a125397f00953147e2/v1.5/Former-Vice-President-Mike-Pence-has-pacemaker-installed.jpg"
         width: 800
         height: 532
-        isCached: true
-  - title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
-    excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
-    publishedDateTime: 2021-04-15T19:10:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 75
-    images:
-      - url: "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Former Vice President Mike Pence received pacemaker, full recovery expected"
     excerpt: "Former Vice President Mike Pence received a heart pacemaker device during a routine surgery on Wednesday and is expected to fully recover, a spokesman said on Thursday."
