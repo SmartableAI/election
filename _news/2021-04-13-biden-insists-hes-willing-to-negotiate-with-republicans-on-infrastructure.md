@@ -159,6 +159,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "After outcry, WH says Biden will lift refugee cap in May"
+    excerpt: "Facing swift blowback from allies and aid groups, the White House says President Joe Biden plans to lift in the next month his predecessor’s historically low cap on refugees, after initially moving on"
+    publishedDateTime: 2021-04-16T20:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-speeds-refugees-admissions-but-doesnt-lift-trump-cap/2021/04/16/56a23502-9ed0-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-speeds-refugees-admissions-but-doesnt-lift-trump-cap/2021/04/16/56a23502-9ed0-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-speeds-refugees-admissions-but-doesnt-lift-trump-cap/2021/04/16/56a23502-9ed0-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden welcomes Japan's prime minister to White House as he tries to counter China"
+    excerpt: "Japan is one of the few industrialized nations not sanctioning China for human rights abuses. The U.S. would like that to change."
+    publishedDateTime: 2021-04-16T21:46:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-china-xinjiang-human-rights-sanctions-japan-prime-minister-suga-live-stream-today-2021-04-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-china-xinjiang-human-rights-sanctions-japan-prime-minister-suga-live-stream-today-2021-04-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-china-xinjiang-human-rights-sanctions-japan-prime-minister-suga-live-stream-today-2021-04-16/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/16/2d9f7820-890e-4117-aed2-1887ae9d5e42/thumbnail/1200x630/f26b663185e1b3ae61c1bc3818ce0a1f/screen-shot-2021-04-16-at-5-46-09-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden Decision to Delay Afghanistan Withdrawal to 9/11 Could Escalate Taliban Conflict"
     excerpt: "President Joe Biden's plan to delay the withdrawal of U.S. troops from Afghanistan until September 11 could escalate tensions with the Taliban. According to the Associated Press, Biden is scheduled to announce the delayed withdrawal date in the upcoming ..."
     publishedDateTime: 2021-04-13T17:11:00Z

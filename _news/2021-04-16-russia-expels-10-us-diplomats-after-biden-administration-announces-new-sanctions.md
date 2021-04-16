@@ -31,69 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Chris Christie turns into Biden attack dog in early days of administration"
-    excerpt: "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of"
-    publishedDateTime: 2021-04-12T17:34:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp"
+  - title: "Trump National Security Advisor commends Biden Administration: 'No more important alliance' than Japan"
+    excerpt: "Former National Security Advisor under President Trump, Robert O'Brien, discusses Biden's response to tension with China and Russia."
+    publishedDateTime: 2021-04-16T20:45:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china"
+    ampWebUrl: "https://www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Chris Christie: Biden 'lying' about spending package going toward 'infrastructure'"
-    excerpt: "Chris Christie on Sunday accused President Biden of \"lying\" about his nearly $2 trillion infrastructure package — saying he’s calling a \"dog a cat\" because it goes far beyond rebuilding roads and bridges to include Democratic priorities like healthcare."
-    publishedDateTime: 2021-04-12T15:44:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hHd_PHUK-E/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-lying-about-spending-package-going-toward-infrastructure.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/458e1351-a334-436c-a243-c5de219cc253/ba8d7be5-8ec3-40ae-85ca-a697844886d5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Chris Wallace: Biden administration 'doesn't have much of an answer' to border crisis"
-    excerpt: "'Fox News Sunday' host Chris Wallace joined Bill Hemmer and Dana Perino on 'America's Newsroom' on Friday to discuss the Biden administration's response to the crisis at the border"
-    publishedDateTime: 2021-04-09T21:24:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CAZoeahzr0E/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-biden-administration-doesnt-have-much-of-an-answer-to-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
+    quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
-    excerpt: "He is doing exactly what he sat around in the campaign and the transition and accused Donald Trump of doing. He is lying to cause racial divisions in this country. That’s what he accused Donald Trump of doing, and he’s a liar and a hypocrite this morning.\""
-    publishedDateTime: 2021-04-05T13:08:00Z
-    webUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions"
-    ampWebUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
+  - title: "Biden declares Russia threat 'national emergency,' lobs sanctions; 10 diplomats booted over election meddling"
+    excerpt: "President Biden on Thursday signed an executive order declaring a “national emergency” over the threat from Russia, as his administration slapped new sanctions on the country."
+    publishedDateTime: 2021-04-15T12:44:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WidxUv4PyHA/biden-russia-threat-national-emergency-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rep. Malliotakis: Biden administration can stop migrant surge by reversing border policies"
+    excerpt: "New York Rep. Nicole Malliotakis slammed the Biden administration’s policies on “Fox & Friends Weekend” Sunday for “turning over our borders to the cartels,” after she traveled to Texas to witness the migrant surge."
+    publishedDateTime: 2021-04-11T17:32:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wTq3JBlnwYo/malliotakis-biden-administration-migrant-surge-border"
+    ampWebUrl: "https://www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
+    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
+    publishedDateTime: 2021-04-12T23:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Alyssa Milano, Chelsea Handler call on Joe Biden to take action on federal slavery reparations"
+    excerpt: "Alyssa Milano and Chelsea Handler lent their voices to a call for President Joe Biden to implement federal slavery reparations for the Black community."
+    publishedDateTime: 2021-04-15T16:22:00Z
+    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations"
+    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Milano-Handler-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "pVk2PxtZMWD2zFB+W/adDlYIDP5DNJ4bCixPFHEfL1Hp892u6BXFBun9MiXO+2VSrNnIeU2i72YCuLAvBBgN6HlF+q1BxGUMQtBnXtu+ubXfD3ELinqH5Lv77TJrNMGQoSQZWfDVOdu3yQGR/dz7wgs7v0zfHqwQOhe3muhJGiDurrc7zQHHx9u+M9TOF53zhbRWHqnck2bzyIZwdwDuK2KivAuAmVXpkxMDvkHUc9W6v+x84ZMwBI3ybdAGCjDIo58C2znjM9H2p6fsB3cp2mB+6DjiVs6Jg7YBM4y7gU5yxFjVVNyz/UqCj4fAYTlLVDqQIBg9eWJtAeQwkB6znRXCmFgxaWGR4pU+L02v4WM=;il7BgeDahBH8q1IVEkaTmA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-st
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 4032
         height: 3024
         isCached: true
+  - title: "Donald who? Lower-profile Trump still has grip on GOP."
+    excerpt: "Trump’s popularity with the base makes him odds-on favorite to be the GOP nominee, should he choose to run again. For now, the focus is on 2022."
+    publishedDateTime: 2021-04-16T19:29:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
 
 secured: "Wzw5+kGG8t+rQFuxekGFamWqgAEPR6yYeLfduYV/N7G+fbWEzAp5f+BdPBX+/8HaIHXbP0SVs6e34k0+NOZcXeXbwgJB0Ydd++MrmONbVPQivsm24ofDJqn5/DP4ZgPQPvk38n/a6bAM/oPEtDDZ2rYsMJAojF4vwS0oakssry23waQA+PIkC3GOcG67K7mL3+WjTyU8QRk5o17M3f+0uWr/cO1hQcBmk8HdaXiCCq4Hl58aUCxRzGdrULI/520MDxkZVCyf0ZwkFBi0LoL+s8SQK5ZnkmcJEnk+mgjLtmzA7GsCAU1iT70G5JorL8tM9W4Als/0lvv3sevrsqKRl4eOqpwKSP7xYAXSfxr6BeS/5bCFjbM7EQOjmgD0qyimKfWy3sxCx0cnD5LFfFA1OnssAbU8w9/qabv/Xk1Cvz+Dt+m7ZntBIiHpwfcfm69fWrNObAhE2dHGT0PSFx66A1mYEWCYOZIRxtgX7qX0Xw3MlszmPE5IKgVbfmT+XAu1+E4T57WSkECsOge92ee+jQ==;rEuamx29TEwyV/XDEo8N8Q=="
 ---

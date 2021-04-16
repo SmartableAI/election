@@ -2,6 +2,174 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-boehner-on-fox-friends-biden-infrastructure-bill-a-new-word-for-the-green-new-deal.md",
+      "title": "Boehner on 'Fox & Friends': Biden infrastructure bill a 'new word for the Green New Deal'",
+      "excerpt": "Former House Speaker John Boehner calls President Biden's infrastructure plan a 'new word for the Green New Deal' on 'Fox & Friends.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H60vXvNBMUw/john-boehner-biden-infrastructure-bill-fox-friends",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H60vXvNBMUw/john-boehner-biden-infrastructure-bill-fox-friends",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab1bf457-1339-4a5f-8fb3-a11d1dae0812/872588d7-6f3d-4545-bcb4-715442d38b78/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-boehner-biden-infrastructure-bill-fox-friends.amp",
+      "publishedDateTime": "2021-04-13T07:56:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-south-dakotas-noem-asks-biden-to-reverse-ban-on-mount-rushmore-fireworks-display.md",
+      "title": "South Dakota's Noem asks Biden to reverse ban on Mount Rushmore fireworks display",
+      "excerpt": "South Dakota Gov. Kristi Noem sent a letter Tuesday requesting that President Biden reverse his administration's ban on an Independence Day fireworks celebration at Mount Rushmore this year, arguing doing so would be in keeping with an agreement the federal government made with her state last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHdhDa7JdB4/biden-mount-rushmore-fireworks-ban-south-dakota-noem",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHdhDa7JdB4/biden-mount-rushmore-fireworks-ban-south-dakota-noem",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/597cc29d-971d-4c45-bea4-94b1bb269ef7/b444c0d4-0e4f-4b88-b49d-d9a73622ebbb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
+      "publishedDateTime": "2021-04-13T06:37:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.md",
+      "title": "Sen. Wicker on infrastructure meeting with Biden: We made good points but 'there is a lot of space between us'",
+      "excerpt": "Senator Roger Wicker (R-MS) joined Fox Business' 'Kudlow' on Monday following his Oval Office meeting with President Biden and says he and his Republican colleagues made 'good points' but noted there remains 'a lot of space between' the two parties",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
+      "publishedDateTime": "2021-04-12T15:31:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-bidens-dog-major-to-undergo-additional-training-to-help-adjust-to-white-house-life-after-biting-people.md",
       "title": "Biden's dog Major to undergo 'additional training' to help adjust to White House life after biting people",
       "excerpt": "The younger Biden family dog, Major, will undergo \"additional training\" as he tries to adjust to life in the White House, a  spokesperson told Fox News.   ",
@@ -70,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 253,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -554,62 +722,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-rick-perry-biden-sending-message-to-cartels-that-its-ok-to-sexually-traffic-children-across-border.md",
-      "title": "Rick Perry: Biden sending message to cartels that 'it's OK to sexually traffic children' across border",
-      "excerpt": "The Biden White House has sent a permissive message to human traffickers with its response to the southern border crisis, former Texas Gov. Rick Perry told \"Your World\" Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c53d43-e79a-4a8e-a985-aa410067de8f/b0cb4377-d387-44e3-9597-1615ba4f25d0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
-      "publishedDateTime": "2021-04-09T15:50:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1355,7 +1467,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 192,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1540,118 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp",
       "publishedDateTime": "2021-04-08T08:42:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-bidens-epa-chief-slammed-for-firing-science-advisers-in-purge.md",
-      "title": "Biden's EPA chief slammed for firing science advisers in 'purge'",
-      "excerpt": "Two House Republicans are demanding that the Environmental Protection Agency provide records related to a decision by the agency’s new leader to remove dozens of scientists and other experts from two key advisory boards.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y5e7U93tusA/epa-chief-slammed-firing-science-advisers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y5e7U93tusA/epa-chief-slammed-firing-science-advisers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Michael-Regan-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp",
-      "publishedDateTime": "2021-04-08T07:10:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-doj-slow-to-act-on-opioid-crisis-despite-ag-garland-saying-it-should-be-high-priority.md",
-      "title": "Biden DOJ slow to act on opioid crisis despite AG Garland saying it should be 'high priority'",
-      "excerpt": "Attorney General Merrick Garland pledged to make the opioid crisis still plaguing America a \"high priority\" for the Department of Justice (DOJ), but it seems as though the Biden administration has put the situation on the backburner.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9791ea4e-28cf-44ee-8e5e-eaf4871bac13/6e5b12ba-498f-4f5a-8725-881901e745e5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
-      "publishedDateTime": "2021-04-08T07:06:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -31,65 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden declares Russia threat 'national emergency,' lobs sanctions; 10 diplomats booted over election meddling"
-    excerpt: "President Biden on Thursday signed an executive order declaring a “national emergency” over the threat from Russia, as his administration slapped new sanctions on the country."
-    publishedDateTime: 2021-04-15T12:44:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WidxUv4PyHA/biden-russia-threat-national-emergency-sanctions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
+  - title: "Biden holds first call with Ukrainian president amid Russian 'aggression' in the region"
+    excerpt: "President Biden spoke with Ukrainian President Volodymyr Zelensky on Friday in their first conversation since Biden took office."
+    publishedDateTime: 2021-04-04T09:55:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sj5MIv4Zgwo/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-holds-first-call-with-ukrainian-president-amid-russian-aggression-in-the-region.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Tom Cotton: Intel on Russia bounties 'selectively leaked' to media to help Biden campaign"
-    excerpt: "Sen. Tom Cotton, a Republican member of the Senate Judiciary Committee, told “The Faulkner Focus” Friday that Russia bounty intel “selectively leaked” information to the media to help the Biden campaign, after a senior Biden administration official said the intelligence community only had “low to moderate”"
-    publishedDateTime: 2021-04-16T18:17:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1kmkK4Qw5M/tom-cotton-russia-bounty-intel-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden needs to send message to migrants that border 'is not open': National Border Patrol Council VP"
-    excerpt: "National Border Patrol Council Vice President Hector Garza argued on “America’s Newsroom” on Tuesday that more needs to be done to “stem the flow of illegal immigration” and offered solutions that he argued will be more effective than sending payments to Central American nations."
-    publishedDateTime: 2021-04-13T17:55:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nz7gE73YvJE/biden-message-border-not-open-border-patrol-council-vp"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
-    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
-    publishedDateTime: 2021-04-12T23:55:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa3f8eb2-5375-45fe-bfdf-5366d85fca76/52aa9f2c-4ae7-4169-91f0-e1e4ea9892ae/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

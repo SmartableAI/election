@@ -368,6 +368,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Why Biden Isn’t Getting Flamed as Being Soft on Terror"
+    excerpt: "As Joe Biden announced the withdrawal of troops from Afghanistan, one of the most notable things is what did not happen in the next 24 hours. My inbox wasn't immediately filled with anxious notes from old Democratic campaign hands."
+    publishedDateTime: 2021-04-16T21:46:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/04/16/why-biden-isnt-getting-flamed-as-being-soft-on-terror-482545"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/04/16/why-biden-isnt-getting-flamed-as-being-soft-on-terror-482545"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/04/16/why-biden-isnt-getting-flamed-as-being-soft-on-terror-482545"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c7/4f/c843deb543ab8cb31771d261b134/ap21104703703896-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Dam safety advocates feel forgotten in Biden's $2 trillion infrastructure plan"
     excerpt: "“It’s one of those ticking time bombs that can really devastate a community,” said a Michigan woman who was rescued from a dam collapse last year. When President Joe Biden last week introduced a sweeping $2 trillion infrastructure plan, the details ..."
     publishedDateTime: 2021-04-09T08:30:00Z

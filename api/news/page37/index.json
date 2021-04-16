@@ -2,6 +2,114 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-02-17-biden-dismisses-a-democratic-plan-to-wipe-out-50000-in-federal-student-loan-debt.md",
+      "title": "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt",
+      "excerpt": "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
+      "originalUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602c8abf2edd0f001a8d60be?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-biden-says-he-feels-a-sense-of-history-living-at-white-house.md",
+      "title": "Biden says he feels 'a sense of history' living at White House",
+      "excerpt": "President Joe Biden on Tuesday described the \"sense of history\" he feels residing at the White House and all the ways living in the historic building is an adjustment, including being waited on by White House staff.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vW-UB_0SL3M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vW-UB_0SL3M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210216220131-15-biden-town-hall-0216-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html",
+      "publishedDateTime": "2021-02-16T21:37:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-trump-ex-campaign-manager-brad-parscale-meet-at-mar-a-lago-source.md",
       "title": "Trump, ex-campaign manager Brad Parscale, meet at Mar-a-Lago: Source",
       "excerpt": "Former President Donald Trump met Tuesday with former campaign manager Brad Parscale at his Mar-a-Lago resort in Palm Beach, Florida, a source familiar with the matter told Fox News.",
@@ -1252,115 +1360,6 @@
         "Election",
         "Kamala Harris",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-bidens-special-obamacare-enrollment-period-opens-monday-heres-what-you-need-to-know.md",
-      "title": "Biden's special Obamacare enrollment period opens Monday. Here's what you need to know",
-      "excerpt": "Uninsured Americans who want to buy Affordable Care Act coverage have another three months to do so, thanks to an executive order President Joe Biden signed last month.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3Y_EqdxQ6E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3Y_EqdxQ6E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html",
-      "publishedDateTime": "2021-02-15T03:02:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-kamala-harris-said-parts-of-the-trump-administrations-pandemic-response-left-biden-starting-from-scratch.md",
-      "title": "Kamala Harris said parts of the Trump administration's pandemic response left Biden 'starting from scratch'",
-      "excerpt": "Harris told \"Axios on HBO\" that the Trump administration left the country with no vaccine stockpile and no national strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
-      "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1067,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602a48982edd0f001a8d5c4c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-biden-starting-from-scratch-covid-19-after-trump-2021-2?amp",
-      "publishedDateTime": "2021-02-15T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Donald Trump"
       ]
     }
   ],

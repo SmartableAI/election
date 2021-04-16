@@ -63,6 +63,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Imagine a 20-car motorcade taking you to dinner. That's the White House bubble Joe Biden now finds himself living in."
+    excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
+    publishedDateTime: 2021-04-16T19:59:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/6079ec3674da0300181e23a3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "rUVOi3ui8TVXxZps9J8sVqkzsAJfONNkHcwDzAcChjl0kXdBENaojZjrnKCfw6O4wumkWyZLZRlzttFRXjc09yEUwEZmi7fOsJKyAikZntRMOxQz+0JkHhssvzRttYWbcvfUSFQJUcELQIix2tpx0xF0MycsURVRYp+IHXU5gR25O6NL3f4Hz2Hf9G1Q9ZnV6TjsjdoAVh3a3JouT/O24UybhAMQhw29tOr6mkRDOFcceHoN3/eOTnbJkiO0s1OTZ925VDjYiLeVNMC9VgCKrtLdP2ADl7VkWhTD5ODyIGpxpBmP4pS+fT4HelYK0FUOK8EtsNaSTlKoQRoTI4dWRULM3bepuVEFCu3ZIkVMw+Q=;GGEMIvliCXhubF8M+DQ6tQ=="
 ---

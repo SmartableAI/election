@@ -151,15 +151,15 @@ related:
         isCached: true
   - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
     excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
-    publishedDateTime: 2021-04-15T20:12:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+    publishedDateTime: 2021-04-15T23:12:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 48
     images:
-      - url: "https://www.courant.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
+      - url: "https://www.baltimoresun.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
         width: 1200
         height: 889
         isCached: true

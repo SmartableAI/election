@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "AOC rips into Biden for keeping ‘racist’ Trump-era refugee cap"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-NY, on Friday tore into President Biden for keeping refugee admissions at 15,000 for this fiscal year, the same levels set by the Trump administration -- with the Democratic congressman calling the levels \"xenophobic and racist.\""
+    publishedDateTime: 2021-04-16T20:53:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m9TGyJfZ31M/aoc-rips-into-biden-for-keeping-racist-trump-era-refugee-cap"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-rips-into-biden-for-keeping-racist-trump-era-refugee-cap.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-rips-into-biden-for-keeping-racist-trump-era-refugee-cap.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/485b14c0-ef2b-488c-a9fe-42465ed200ce/124767e5-b7f5-4881-9dbd-42f3a58f3a46/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration expands entry of migrants kept in Mexico under Trump"
     excerpt: "The Biden administration announced Tuesday that it is expanding the entry of migrants into the U.S. who had been kept in Mexico as part of the Trump-era Migrant Protection Protocol (MPP) – even as migrants continue to surge toward the border in record numbers."
     publishedDateTime: 2021-04-13T20:53:06Z
@@ -110,6 +126,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Joe-Biden-Abortion-Referral-Planned-Parenthood-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump-era NSA appointee resigns after Biden admin placed him on monthslong administrative leave"
+    excerpt: "Trump appointee and National Security Agency General Counsel Michael Ellis on Friday announced his resignation."
+    publishedDateTime: 2021-04-16T20:21:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fe3T1bWPk6I/trump-nsa-appointee-ellis-resigns-administrative-leave"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Michael-Ellis-JEOPARDY2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden pick to lead CBP reportedly balked at Trump immigration policies"
     excerpt: "President Biden’s nominee to head up Customs and Border Protection has backed Black Lives Matter, defended sanctuary cities and pushed back at Trump administration orders to round up and"

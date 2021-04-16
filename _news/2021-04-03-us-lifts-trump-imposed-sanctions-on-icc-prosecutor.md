@@ -1555,6 +1555,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "U.S. Rep. Jason Smith plans fundraiser at Trump's resort"
+    excerpt: "U.S. Rep. Jason Smith, who is considering running for the U.S. Senate, plans to hold a fundraising event at former President Donald Trump’s Mar-a-Lago resort in Florida. An invitation to the April 30 event lists Missouri Gov."
+    publishedDateTime: 2021-04-16T21:49:00Z
+    webUrl: "https://www.timesunion.com/news/article/U-S-Rep-Jason-Smith-plans-fundraiser-at-Trump-s-16107399.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/U-S-Rep-Jason-Smith-plans-fundraiser-at-Trump-s-16107399.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/U-S-Rep-Jason-Smith-plans-fundraiser-at-Trump-s-16107399.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Ivanka Trump Breaks Social Media Silence For This Important Announcement"
     excerpt: "Ivanka Trump, former President Donald Trump’s oldest daughter, on Wednesday broke her three-month silence on Twitter to announce that she has received the coronavirus vaccine. T"
     publishedDateTime: 2021-04-15T03:45:00Z
@@ -1785,14 +1801,14 @@ related:
   - title: "Does Donald Trump still influence the GOP?"
     excerpt: "An unconventional president and an unconventional life post-presidency, that's what experts say lies in store for Donald Trump. In 2020, Barack Obama took a more overtly political role than we"
     publishedDateTime: 2021-04-16T02:30:00Z
-    webUrl: "https://tulsaworld.com/news/national/govt-and-politics/does-donald-trump-still-influence-the-gop/article_15eb0173-8285-5db3-b2c5-ccefaff7dad1.html"
+    webUrl: "https://omaha.com/news/national/govt-and-politics/does-donald-trump-still-influence-the-gop/article_7da7d85b-10be-5871-a1b9-e954b909fb0e.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/1/5e/15eb0173-8285-5db3-b2c5-ccefaff7dad1/6078db0383ad9.preview.jpg?resize=640%2C360"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/7/da/7da7d85b-10be-5871-a1b9-e954b909fb0e/6078dadd259eb.preview.jpg?resize=640%2C360"
         width: 640
         height: 360
         isCached: true

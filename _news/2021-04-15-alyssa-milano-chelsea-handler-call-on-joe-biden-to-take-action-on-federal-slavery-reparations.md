@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
 type: article
 quality: 123
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,86 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Trump National Security Advisor commends Biden Administration: 'No more important alliance' than Japan"
+    excerpt: "Former National Security Advisor under President Trump, Robert O'Brien, discusses Biden's response to tension with China and Russia."
+    publishedDateTime: 2021-04-16T20:45:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china"
+    ampWebUrl: "https://www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden declares Russia threat 'national emergency,' lobs sanctions; 10 diplomats booted over election meddling"
+    excerpt: "President Biden on Thursday signed an executive order declaring a “national emergency” over the threat from Russia, as his administration slapped new sanctions on the country."
+    publishedDateTime: 2021-04-15T12:44:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WidxUv4PyHA/biden-russia-threat-national-emergency-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Russia expels 10 US diplomats after Biden administration announces new sanctions"
+    excerpt: "Russia on Friday responded in kind to a barrage of new U.S. sanctions, saying it would expel 10 U.S. diplomats and take other retaliatory moves in a tense showdown with Washington"
+    publishedDateTime: 2021-04-16T17:15:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gpr5a2Gxs54/russia-expels-10-us-diplomats-biden-announces-new-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20340464541350.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rep. Malliotakis: Biden administration can stop migrant surge by reversing border policies"
+    excerpt: "New York Rep. Nicole Malliotakis slammed the Biden administration’s policies on “Fox & Friends Weekend” Sunday for “turning over our borders to the cartels,” after she traveled to Texas to witness the migrant surge."
+    publishedDateTime: 2021-04-11T17:32:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wTq3JBlnwYo/malliotakis-biden-administration-migrant-surge-border"
+    ampWebUrl: "https://www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
+    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
+    publishedDateTime: 2021-04-12T23:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7HMEPkpA+aXvaovsxtrKncRZugJ3wSpjBAtAECH0+eMrimrTeoWUGa/ezQGJmbN0FS+Aw38H+xrmVlK/y3JHryjUw6RO3UQ8RHl5NgB9mpDTsBcjDYC6XPrrEjn/zfxVuAbXGQJi9u/lSxADzxTQ1Es/nsoZqISIR6j/9hRnMwJjPdqlfoY3fzCSUgsXE1Ops1IOlNfpwP7QqN4GzN0MKjsu9kh2ixw4P1W2E+RdVNPk8nglyirpTRBNiEn0jB9nvg8CG3FITlwqC+JC9No4YmhS7yUi2EKuT2q4jE9fIaYTOA53qOXNHJjq0r1CLvFVWyZ/o9qIHtrntqJmmyCBgB+7YTp2gkJFJg8IBWpmD16NsmaFAmaBB0g1V3/4yE7Soc00sZSSqBIdsLD8yiKyYGuojrLBvnr5BK/VaivXJxBQbMc2k3CP+qkvu/scAOVdMbjnWn6i0n1sRenEry2k0CjRZFAwTyJEii5qOJ0hIDO/pJkNyy/Ajw/y5LR6cTzPDM2ftrcKRafVxg+KI8WfJA==;jKjpFynpRkEJ2nNmKfz6Yw=="
 ---

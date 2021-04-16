@@ -2,6 +2,118 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-22-biden-moves-rapidly-to-shore-up-obamacare-and-erase-trumps-changes.md",
+      "title": "Biden moves rapidly to shore up Obamacare and erase Trump's changes",
+      "excerpt": "President Joe Biden is wasting no time establishing his vision for the Affordable Care Act and reversing many Trump-era measures aimed at weakening it.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d1ynPVLQVx4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d1ynPVLQVx4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 590,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210216142504-20210216-obamacare-repair-bandaid-illustration-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/biden-health-care-trump-affordable-care-act/index.html",
+      "publishedDateTime": "2021-03-22T03:00:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-trump-slams-biden-over-border-crisis-accused-him-of-causing-death-and-human-tragedy.md",
+      "title": "Trump slams Biden over border 'crisis', accused him of causing 'death and human tragedy'",
+      "excerpt": "President Biden said Sunday that he intends to travel to the southern border \"at some point,\" telling reporters that he is in no rush to visit because \"I know what's going in those facilities.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p6BXYHL7SK4/biden-borde-rsurge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p6BXYHL7SK4/biden-borde-rsurge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 521,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee18c3-9624-4a8c-9989-aaf5c43b13c5/156a5fbe-4114-4b4a-aca4-34af35a3257c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-borde-rsurge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-borde-rsurge.amp",
+      "publishedDateTime": "2021-03-21T15:32:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-vice-president-harris-will-travel-to-jacksonville-monday-for-help-is-here-tour-touting-relief-bill.md",
       "title": "Vice President Harris will travel to Jacksonville Monday for 'Help is Here' tour touting relief bill",
       "excerpt": "American Rescue Plan will bring about $17 billion to Florida, according to estimates Vice President Kamala Harris will travel to Jacksonville, Florida, on Monday to tout the administration's $1.9 trillion coronavirus stimulus plan, according to an ...",
@@ -1236,114 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-trump-wax-figure-removed-from-san-antonio-museum-after-customers-kept-punching-and-scratching-it.md",
-      "title": "Trump wax figure removed from San Antonio museum after customers kept punching and scratching it",
-      "excerpt": "A wax figure of former President Donald Trump was temporarily removed from Louis Tussaud's Waxworks in San Antonio, Texas, after sustaining damage from customers. The decision to put the figure in storage came after patrons at the wax museum kept punching ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation-now/2021/03/19/donald-trump-wax-figure-removed-museum-after-customers-punched/4763313001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation-now/2021/03/19/donald-trump-wax-figure-removed-museum-after-customers-punched/4763313001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/9aa99cc22011782e4f05a1684074bb2b09e2ef96/c=0-2241-3985-4492/local/-/media/2016/11/11/Brevard/Brevard/636144729050694649-Trumpwax14.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4763313001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4763313001",
-      "publishedDateTime": "2021-03-19T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-biden-administration-importing-coronavirus-into-texas-by-not-securing-border-gov-abbott.md",
-      "title": "Biden administration 'importing' coronavirus into Texas by not securing border: Gov. Abbott",
-      "excerpt": "Texas Gov. Greg Abbott, R., told \"America's Newsroom\" Friday that the Biden administration is effectively importing coronavirus into the United States by not adequately securing the southern border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CZOpF_xlbQ/biden-importing-coronavirus-securing-border-abbott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CZOpF_xlbQ/biden-importing-coronavirus-securing-border-abbott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-importing-coronavirus-securing-border-abbott.amp",
-      "publishedDateTime": "2021-03-19T07:32:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

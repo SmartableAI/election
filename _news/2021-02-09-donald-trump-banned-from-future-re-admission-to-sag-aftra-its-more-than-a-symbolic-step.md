@@ -1569,6 +1569,17 @@ related:
         width: 1200
         height: 847
         isCached: true
+  - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
+    excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
+    publishedDateTime: 2021-04-16T21:45:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/16/nation/biden-speeds-refugee-admission-doesnt-lift-trump-cap/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/16/nation/biden-speeds-refugee-admission-doesnt-lift-trump-cap/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/16/nation/biden-speeds-refugee-admission-doesnt-lift-trump-cap/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 66
   - title: "WATCH LIVE: Impeachment managers set to screen ‘heinous’ video of Capitol attack as Trump trial resumes"
     excerpt: "It will provide new insight into both the extreme violence that everyone suffered (and) the threat that it could have led to further violence and death,” a Democratic aide said."
     publishedDateTime: 2021-02-10T16:50:00Z

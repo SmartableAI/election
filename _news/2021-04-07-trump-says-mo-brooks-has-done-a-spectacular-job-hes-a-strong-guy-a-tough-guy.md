@@ -75,6 +75,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Donald who? Lower-profile Trump still has grip on GOP."
+    excerpt: "Trump’s popularity with the base makes him odds-on favorite to be the GOP nominee, should he choose to run again. For now, the focus is on 2022."
+    publishedDateTime: 2021-04-16T19:29:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
 
 secured: "vfTmASYaM0YNySglLZjykEHFjMIrrswxLB3d3M/8s3rEsyu/laS2xYBiIWNwY36I9QHjGBVaXsjonRyebhrFNQ9h3oisX9+cXByXVZhuCkJRsQitIlTdNrOX1uyX7EzbHsk6/URcVCiNJoz385zyrFFHDDRa5OvUSPlAhA0r673KA74JOHpDnu/ln2a3HSF8sjmeayFCdM/DhC5mcvj7vQODYiYxMt2R7YdIiLM+ynOZHwP3P8ONiR7FB6piks+Ojdcj2H9+jAz3LAJ+PCO1BSgbcqFsPV/mJovDeS0wvqFNHykO4dp7u647Qhuu1Ghe4pb5DykwchAqCSoOdwdPEZ0Uj3KDvafWo3VBMGeokfXvNwO3M+63VbeAEg7vtZLE44MelRDeiDPCIinS4OGooQCwVvopgj8ghJVYpPvIgoFAW4xuIDJgGtk5wf1xuVN2SA8kWbJ4s1vlI6G/rYbn/oWkmLjkH+e4dA0X+a/iY1Jvbk42tz3scohZaUabCYgkKCUsr1suGznxudSMk++xgQ==;UmMncab2AKuG4kKKesE4CA=="
 ---

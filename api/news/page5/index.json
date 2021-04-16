@@ -2,6 +2,166 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-12-biden-to-name-former-nsa-deputy-director-to-lead-cisa-report.md",
+      "title": "Biden to name former NSA deputy director to lead CISA: report",
+      "excerpt": "John C. Inglis, the former deputy director of the National Security Agency, is expected to be tapped by President Biden to head the Department of Homeland Security’s cybersecurity agency, according to a report late Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCzW5eQ_oe8/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCzW5eQ_oe8/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report.amp",
+      "publishedDateTime": "2021-04-11T20:51:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are-unhelpful.md",
+      "title": "Arkansas governor says 'divisive' Trump attacks on GOP officials are 'unhelpful'",
+      "excerpt": "on Sunday said he was concerned about the divisions in the GOP and criticized former President Trump Donald Trump Harry Reid reacts to Boehner book excerpt: 'We didn't mince words' Man arrested ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are",
+      "originalUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/hutchinsonasa_getty_03252021.jpg",
+          "width": 788,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/news-by-subject/other/547608-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are?amp",
+      "publishedDateTime": "2021-04-11T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-michigan-governor-vows-to-push-biden-for-more-vaccines-as-covid-cases-surge.md",
+      "title": "Michigan governor vows to push Biden for more vaccines as Covid cases surge",
+      "excerpt": "Gretchen Whitmer, the governor of Michigan, vowed on Sunday to push the Biden administration for more Covid-19 vaccines as her state experiences a worrying spike in cases. Canada ski resort linked to largest outbreak of P1 Covid variant outside Brazil Joe ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fd6c6bc2252ac2f148634994ab479994867cf65d/0_416_6240_3744/master/6240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4ec91eaf77cc644f8de22a21440c61",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
+      "publishedDateTime": "2021-04-11T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-arizona-ag-its-important-kamala-harris-health-sec-becerra-visit-border-amid-immigration-crisis.md",
       "title": "Arizona AG: 'It's important' Kamala Harris, Health Sec. Becerra visit border amid immigration crisis",
       "excerpt": "Arizona Attorney General Mark Brnovich discusses the developing immigration crisis at the border and further probes the Biden administration to act on it.",
@@ -1023,62 +1183,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-rick-perry-biden-sending-message-to-cartels-that-its-ok-to-sexually-traffic-children-across-border.md",
-      "title": "Rick Perry: Biden sending message to cartels that 'it's OK to sexually traffic children' across border",
-      "excerpt": "The Biden White House has sent a permissive message to human traffickers with its response to the southern border crisis, former Texas Gov. Rick Perry told \"Your World\" Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gqzx9UASuyA/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c53d43-e79a-4a8e-a985-aa410067de8f/b0cb4377-d387-44e3-9597-1615ba4f25d0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-perry-biden-cartels-ok-sexually-traffic-children-across-border.amp",
-      "publishedDateTime": "2021-04-09T15:50:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.md",
       "title": "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'",
       "excerpt": "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'",
@@ -1216,114 +1320,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp",
       "publishedDateTime": "2021-04-09T13:50:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-donald-trump-jr-and-kimberly-guilfoyle-buy-south-florida-mansion-for-97m.md",
-      "title": "Donald Trump Jr. and Kimberly Guilfoyle buy South Florida mansion for $9.7M",
-      "excerpt": "Donald Trump Jr. and his partner, the TV personality Kimberly Guilfoyle, have reportedly picked up a waterfront mansion in Jupiter, FL.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/eY5MetWHg1EM4BGDFmOEQ8BBUUU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSTH2KLA2VC2VOE5P64ONHJS4A.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/real-estate/luxury-real-estate/ct-aud-rdc-donald-trump-jr-kimberly-guilfoyle-florida-home-20210409-fezln6n52vcuvp5pcahhiayrqm-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-09T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-trump-says-prince-philips-death-is-irreplaceable-loss-for-great-britain.md",
-      "title": "Trump says Prince Philip's death is 'irreplaceable loss for Great Britain'",
-      "excerpt": "Former President Donald Trump remembered the late Prince Philip on Friday as \"a man who embodied the noble soul and proud spirit\" of the United Kingdom.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B066RT089tM/trump-prince-philip-irreplaceable-loss-great-britain",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B066RT089tM/trump-prince-philip-irreplaceable-loss-great-britain",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/queenphilip.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prince-philip-irreplaceable-loss-great-britain.amp",
-      "publishedDateTime": "2021-04-09T11:33:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

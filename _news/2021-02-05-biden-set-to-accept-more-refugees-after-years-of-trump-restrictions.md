@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2220
+heat: 2240
 published: true
 
 provider:
@@ -1557,6 +1557,17 @@ related:
         width: 1200
         height: 847
         isCached: true
+  - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
+    excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
+    publishedDateTime: 2021-04-16T21:45:00Z
+    webUrl: "https://www.bostonglobe.com/2021/04/16/nation/biden-speeds-refugee-admission-doesnt-lift-trump-cap/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/04/16/nation/biden-speeds-refugee-admission-doesnt-lift-trump-cap/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/04/16/nation/biden-speeds-refugee-admission-doesnt-lift-trump-cap/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 66
   - title: "Donald Trump Banned from Future Re-Admission to SAG-AFTRA: It's 'More Than a Symbolic Step'"
     excerpt: "The SAG-AFTRA National Board has voted to ban former President Donald Trump from future re-admission into the union. The resolution was passed via Zoom videoconference on Saturday, citing ..."
     publishedDateTime: 2021-02-09T05:32:00Z

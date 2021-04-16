@@ -351,6 +351,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Why Biden Isn’t Getting Flamed as Being Soft on Terror"
+    excerpt: "As Joe Biden announced the withdrawal of troops from Afghanistan, one of the most notable things is what did not happen in the next 24 hours. My inbox wasn't immediately filled with anxious notes from old Democratic campaign hands."
+    publishedDateTime: 2021-04-16T21:46:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/04/16/why-biden-isnt-getting-flamed-as-being-soft-on-terror-482545"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/04/16/why-biden-isnt-getting-flamed-as-being-soft-on-terror-482545"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/04/16/why-biden-isnt-getting-flamed-as-being-soft-on-terror-482545"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c7/4f/c843deb543ab8cb31771d261b134/ap21104703703896-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden pushes sweeping jobs plan in meeting with bipartisan group of lawmakers"
     excerpt: "President Joe Biden is working to build bipartisan support for his sweeping $2 trillion American Jobs Plan and met Monday at the White House with a bipartisan group of lawmakers. The president wants to see Congress pass the proposal,"
     publishedDateTime: 2021-04-12T22:05:00Z

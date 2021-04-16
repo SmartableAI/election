@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Abbott tells 'The Story' Biden admin 'standing by' while Texans are 'terrorized' by drug cartels"
+    excerpt: "The Biden administration is \"standing by while people in South Texas are terrorized\" by Mexican drug cartels, Texas Republican Gov. Greg Abbott told \"The Story\" Friday."
+    publishedDateTime: 2021-04-16T21:46:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FRqiEDyhoMU/biden-drug-cartels-mexico-terrorizing-people-greg-abbott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-drug-cartels-mexico-terrorizing-people-greg-abbott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-drug-cartels-mexico-terrorizing-people-greg-abbott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/462686c6-80b8-4eef-b1d6-3151becd6caa/923840dc-f70f-4aa9-9519-581c3de8addb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Sz2Q/BWR+DlU+FSVb+mW6ODErgFVdnQ+akUHRi16YRp4AMHleHPFZz9EqxPFAy8hS+dRU7H4RDMBu7K9K8Y1Pz9uzfsGOFzlN/XoitIoTFAHmj7RljadTawsmai5c/fLxD509oEgAEK41wFrBIhsZtEOO6oWYvWJx9/6doZS16B+Ka8FVvbLCtIg6yV1P7SgOr4lshywq6d+wx/bFhTWhFwPBdwxgRv2ym+pU4Fb3kYRga4QiSqGM4Z05GvNfnEfiwazodCQJJuOK+UP6KWvFVi8L5bo8slgv1leoPoXKhv0qkuIqEiih1gqyEyeKrv32Ec1YhtNLxLhB+WOagCt8PtkAGB0TD93/TcVjVygTnQ=;KNnrdUDaLex5+6bvlQeWiw=="
 ---

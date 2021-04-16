@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-russia-threat-national-emerge
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
 type: article
 quality: 171
-heat: 251
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,51 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Tom Cotton: Intel on Russia bounties 'selectively leaked' to media to help Biden campaign"
-    excerpt: "Sen. Tom Cotton, a Republican member of the Senate Judiciary Committee, told “The Faulkner Focus” Friday that Russia bounty intel “selectively leaked” information to the media to help the Biden campaign, after a senior Biden administration official said the intelligence community only had “low to moderate”"
-    publishedDateTime: 2021-04-16T18:17:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1kmkK4Qw5M/tom-cotton-russia-bounty-intel-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp"
+  - title: "Trump National Security Advisor commends Biden Administration: 'No more important alliance' than Japan"
+    excerpt: "Former National Security Advisor under President Trump, Robert O'Brien, discusses Biden's response to tension with China and Russia."
+    publishedDateTime: 2021-04-16T20:45:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china"
+    ampWebUrl: "https://www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Hunter Biden falsely claims US intelligence found laptop controversy was 'Russian disinformation'"
-    excerpt: "Hunter Biden claimed this week that the intelligence community had concluded the laptop saga surrounding him was the product of \"Russian disinformation,\" adding again that he has \"done nothing wrong.\""
-    publishedDateTime: 2021-04-09T19:14:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/reEtE-xBHu0/hunter-biden-laptop-russian-disinformation"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-laptop-russian-disinformation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-laptop-russian-disinformation.amp"
+  - title: "Russia expels 10 US diplomats after Biden administration announces new sanctions"
+    excerpt: "Russia on Friday responded in kind to a barrage of new U.S. sanctions, saying it would expel 10 U.S. diplomats and take other retaliatory moves in a tense showdown with Washington"
+    publishedDateTime: 2021-04-16T17:15:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gpr5a2Gxs54/russia-expels-10-us-diplomats-biden-announces-new-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 170
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230697183.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20340464541350.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden needs to send message to migrants that border 'is not open': National Border Patrol Council VP"
-    excerpt: "National Border Patrol Council Vice President Hector Garza argued on “America’s Newsroom” on Tuesday that more needs to be done to “stem the flow of illegal immigration” and offered solutions that he argued will be more effective than sending payments to Central American nations."
-    publishedDateTime: 2021-04-13T17:55:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nz7gE73YvJE/biden-message-border-not-open-border-patrol-council-vp"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-message-border-not-open-border-patrol-council-vp.amp"
+  - title: "Rep. Malliotakis: Biden administration can stop migrant surge by reversing border policies"
+    excerpt: "New York Rep. Nicole Malliotakis slammed the Biden administration’s policies on “Fox & Friends Weekend” Sunday for “turning over our borders to the cartels,” after she traveled to Texas to witness the migrant surge."
+    publishedDateTime: 2021-04-11T17:32:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wTq3JBlnwYo/malliotakis-biden-administration-migrant-surge-border"
+    ampWebUrl: "https://www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -92,6 +92,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Alyssa Milano, Chelsea Handler call on Joe Biden to take action on federal slavery reparations"
+    excerpt: "Alyssa Milano and Chelsea Handler lent their voices to a call for President Joe Biden to implement federal slavery reparations for the Black community."
+    publishedDateTime: 2021-04-15T16:22:00Z
+    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations"
+    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Milano-Handler-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "8WzBijeV4snkaWGJ4a84XyJEP13TMJj+ZP7W9D7sXyYYzYQyN/Br6xuSF8K81Yl8gCAs1KVy66mFTE9X9mLmN0vjbmoywJiFrEmKoh/Dyhd7ongMPqnkQ9KTVyeKWInEdsdwyiDOnLf2Tcak4PsnFCUBT+qC64VlB5dK7mzaOS2rXQO/QTMihtNLFgCxUa3t8Op846TMNtKLlg9cCU7UDRBvUzLayJiNnbIkIJ9DBC64zicttEYxeZd0PZ69ZwiU3srs53CRAnn9eHxFdccwZiAjnqh/1xfCY922nDilEWS3j/XlmNoySxg44kXe+YnNdOLhBANGnKmfTxnjfAuoetV9sa4FRg2Adi4URZI3xyY=;WkB3yWSUafbfQP5zOhXxow=="
