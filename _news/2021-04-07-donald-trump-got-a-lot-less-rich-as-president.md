@@ -32,37 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump State Department appointee facing Capitol riot charges ordered released from jail"
-    excerpt: "A Trump State Department official who was charged in the Capitol insurrection will be released from jail, a federal judge said Monday, overturning a previous ruling that the man was too dangerous to release.\n    \n"
-    publishedDateTime: 2021-04-12T21:43:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-lPt2EsGVc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/trump-state-department-capitol-riot-released/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/trump-state-department-capitol-riot-released/index.html"
+  - title: "Ivanka Trump's flagship policy program slammed by government auditors"
+    excerpt: "The Government Accountability Office has issued a damning report about Ivanka Trump’s pet project during her time as an adviser to her father, President Donald Trump. As Ivanka Trump traveled the world talking up the Women’s Global Development and ..."
+    publishedDateTime: 2021-03-31T17:34:00Z
+    webUrl: "https://www.politico.com/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305141522-frederico-klein-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/c8/c4/dd2581fb4799a6a66ebf77333c62/20210331-ivanka-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Parents of 445 migrant children separated at border under Trump still have not been found, court filing says"
-    excerpt: "The parents of 445 migrant children separated from their families due to Trump administration policies at the US-Mexico border between 2017 and 2018 have still not been located, down from 506, according to a Wednesday court filing.\n    \n"
-    publishedDateTime: 2021-04-07T22:23:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNtJ2oFnMmI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
+  - title: "A global aid program championed by Ivanka Trump has serious problems, a report finds."
+    excerpt: "So haphazard was management of the program that an independent watchdog was unable to determine whether it actually worked."
+    publishedDateTime: 2021-04-01T19:54:00Z
+    webUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/01/us/ivanka-trump-gao-women.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 156
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180625234239-deportaciones-sin-proceso-juridico-eunice-rendon-omar-silva-intvw-aristegui-00030023-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/04/01/us/01new-washington-briefing-IvankaGAO/01new-washington-briefing-IvankaGAO-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations"
+    excerpt: "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ..."
+    publishedDateTime: 2021-03-24T16:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261914"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261914"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459180/210324-moncef-slaoui-jm-0934_dda6551a87edc9aa2311df3b313f08ce.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "n626XTfbyEwhyixggGUOdGlZ/o7jaMIXl5p67yRN2E4zaYYOSHgdl8GsWQ4dCdoIJsraohbpKH0h/tKdKd3pCH8LDVsr0gZVFNrtGdcV/sVxtv1T9lsI0lw57SAeLw6cMrXmeIeqj3HzGAhl8FQ53TYfi/QPsqp7gsD19De9hGvhweX86IkuTZhWSQKJJMUTn3JQxG/B//mHhtKxI7evMmRdGss/JGemfS/km/D4Jx5VdLTWdqltUgwKXGu12Eiu/2lJRSsobGxQRRBrak4dUBiOnXki3gwqUQVYYTOYH7di717cVIGwL9pM9YN416udOxtY82NEUMco6iLqPofh40eylpu6bdIBiPmOxOecnik9kwEr+sRseTOCscTDoFi1jV2OI1+0r62T2kOJhdVvahI1oiEzDkLmsOZiRVn/ngXutCt6+vAHuEHCIkjsblnV+Wi0cfEg093Re7y5gmeoWbcCntgpnWP7IAqryHICNva1SPpt8COZNcum/yPtLQvatu30f1OOMo0k+On53nk/xA==;s3gadnwT8bk1JV1pftNY3Q=="

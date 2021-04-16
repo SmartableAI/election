@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Tom Cotton: Intel on Russia bounties 'selectively leaked' to media to help Biden campaign"
+    excerpt: "Sen. Tom Cotton, a Republican member of the Senate Judiciary Committee, told “The Faulkner Focus” Friday that Russia bounty intel “selectively leaked” information to the media to help the Biden campaign, after a senior Biden administration official said the intelligence community only had “low to moderate”"
+    publishedDateTime: 2021-04-16T18:17:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1kmkK4Qw5M/tom-cotton-russia-bounty-intel-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-russia-bounty-intel-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hunter Biden falsely claims US intelligence found laptop controversy was 'Russian disinformation'"
     excerpt: "Hunter Biden claimed this week that the intelligence community had concluded the laptop saga surrounding him was the product of \"Russian disinformation,\" adding again that he has \"done nothing wrong.\""
     publishedDateTime: 2021-04-09T19:14:13Z

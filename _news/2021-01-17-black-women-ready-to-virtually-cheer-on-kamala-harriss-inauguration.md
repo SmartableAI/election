@@ -80,22 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Harris, Biden schedules place little emphasis on immigration despite border crisis"
-    excerpt: "President Biden and Vice President Harris' public schedules have placed little emphasis on the southern border as authorities struggle to provide shelter for all of the migrants crossing into the U.S."
-    publishedDateTime: 2021-04-13T22:22:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ev9zddv5RbY/harris-biden-schedules-border-crisis-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-biden-schedules-border-crisis-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-biden-schedules-border-crisis-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 194
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21099800629179.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden's 'humane' immigration plan gives green cards to TPS, DACA recipients, Harris says"
     excerpt: "Vice President-elect Kamala Harris Tuesday said the Biden administration will take a more \"humane\" approach to immigration when the president-elect takes office next week."
     publishedDateTime: 2021-01-13T11:07:07Z
@@ -255,22 +239,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec8afdd6-cb78-46b9-8092-b13d4027cd82/e08a3fca-f5fc-4fbd-be75-497015133a56/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden touts relationship with Harris as she takes heat in border czar role"
-    excerpt: "President Biden elevated his relationship with embattled border czar Vice President Kamala Harris in a Twitter post on Monday, saying she is “the last voice in the room.” ​”​When"
-    publishedDateTime: 2021-04-12T20:28:00Z
-    webUrl: "https://nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/"
-    ampWebUrl: "https://nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 148
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/biden-harris-001.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "'CBS Sunday Morning' fawns over Kamala Harris with 'cozy' interview"
     excerpt: "CBS fawned over Vice President-elect Kamala Harris on Sunday with a glowing feature that could indicate how the incoming administration will be treated by the mainstream media."

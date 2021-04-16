@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-harris-border-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-harris-border-political-hot-potato.amp"
 type: article
 quality: 185
-heat: 285
+heat: 245
 published: true
 
 provider:
@@ -79,38 +79,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abb66e53-4ffe-4749-bfa4-7c5a9e5312a3/136d60fa-cca1-4e13-a21f-fd66ca526a31/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
-    excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing. House Minority Whip Rep."
-    publishedDateTime: 2021-04-14T15:28:00Z
-    webUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border"
-    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-border-.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Kamala Harris' Failed Leadership Test"
-    excerpt: "It's been an inexplicable 22 days and counting that Vice President Kamala Harris has not visited the U.S. southern border or detention facilities"
-    publishedDateTime: 2021-04-16T10:51:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/540621_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "Qa8aSNrfkmce2M9nXxtKcYcQCvuauYHByUutXTf4X2qBok+1TQ4aul0IAkAP9HP7jtq/5ySVmK+1AXE2bfdzNuoPwIJhQ3FWdnb1Eg7UuKh+K/9ZzXiFOSI6VlYPreivf+RypLpXruak8qyP9I6f4AvmKGmX6vYy7d7N/njKMeaNDENZ2vmL3dTzjMFJRaLJ6kWNggUpbI6QEtI9AuqbUpSUb5llbebVwIVQWBMWT3h2tM3whwyVgZvkasor8ZNeduf7YdfEd9ZJ36kcFP3Rz0JWJ/P3tCSe4ZP1fXoyRxT5hmMKY/xT/mf2Sn9bouro22ywPS6YNqiMEz3KRvlyonrze7ppQI4Q1UmzwpInok8=;hWWjYQox8yn5uMEKCuJ4ew=="

@@ -142,6 +142,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Attorney General Garland rescinds Trump-era memo curtailing consent decrees"
+    excerpt: "The Justice Department didn’t totally ban pattern or practice investigations under Trump, but former Attorney General William Barr suggested they may have been previously overused."
+    publishedDateTime: 2021-04-16T19:03:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/attorney-general-garland-rescinds-trump-era-memo-curtailing-consent-decrees-n1264335"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264335"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264335"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_09/3453499/210301-merrick-garland-jm-1328_27a23571e6066c81722f51e0de49e9a3.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Matt Gaetz, Loyal for Years to Trump, Is Said to Have Sought a Blanket Pardon"
     excerpt: "The congressman was at the time under investigation over whether he violated sex trafficking laws, though it was unclear what he knew of the inquiry."
     publishedDateTime: 2021-04-06T23:44:00Z

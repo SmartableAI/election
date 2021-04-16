@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/schumer-vows-vote
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/schumer-vows-vote-on-background-checks-after-latest-shooting/2021/03/23/9412459c-8bf4-11eb-a33e-da28941cb9ac_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'We must act,' Biden says, after yet another mass shooting"
+    excerpt: "Biden said that he has been briefed on the shooting at the FedEx facility in Indianapolis, and ordered flags lowered to half-staff in honor of those who died."
+    publishedDateTime: 2021-04-16T18:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/act-biden-mass-shooting/story?id=77118883"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/act-biden-mass-shooting/story?id=77118883"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/act-biden-mass-shooting/story?id=77118883"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-4-rt-er-210415_1618531431040_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden in touch with Boulder, Colorado mayor after shootings: White House"
     excerpt: "U.S. President Joe Biden spoke with the mayor of Boulder, Colorado earlier on Wednesday in the wake of a deadly shooting there, White House press secretary Jen Psaki said, noting any travel to the region would be done in consultation with local officials."
     publishedDateTime: 2021-03-24T16:45:00Z

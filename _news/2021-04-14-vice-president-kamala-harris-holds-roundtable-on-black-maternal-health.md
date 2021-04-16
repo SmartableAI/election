@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Holds Roundtable on Black Maternal Health"
 excerpt: "Vice President Kamala Harris delivers remarks on Black maternal health during a roundtable discussion in the South Court Auditorium in Washington, D.C., on Tuesday, April 13, 2021. Vice President Harris is joined by White House Domestic Policy Advisor Susan Rice and maternal health advocates."
 publishedDateTime: 2021-04-13T18:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/99865d9fe3b7f02766f2b30b740ab101/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/99865d9fe3b7f02766f2b30b740ab101/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/1cf5791693d29998dd6616a4443822a0/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/1cf5791693d29998dd6616a4443822a0/Vice-President-Kamala-Harris-Holds-Roundtable-on-Black-Maternal-Health/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/99865d9fe3b7f02766f2b30b740ab101/HARRIS-BLACK-HEALTH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/1cf5791693d29998dd6616a4443822a0/HARRIS-BLACK-HEALTH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -726,6 +726,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "09TABf0Nr+u4OSWolfhE0AFRDj85SgeREvBREPjxrfACyGZYyz4pVRiHlNezkdBr+Dm+JDZJFTNkVUlQi3jubQUlA/3vfGADy/0EPTRD7Zk1BcE7vM6rcijs0pUJ47RJU0QcuJx8n6lx4nGOeewS52ekh9C7jXi0H+kAx5ngYnzOMuztgw9TDZVm3t/7gNpjtnWaeJl/e3FT5opDqveT9X19Fda4wG+eoKIxWlUXZserJFyit4Qi7AgVqzZsiVcFQyh4xfQ9YM09OE4QH+sy9/11Lb8nSdjG59Pjr6b5hYN4htkaORWKA6aw+8FUgBsE1Slg0rrmXfJTmRfmUJGnifRxGFrOo1B6PMuuSNm0C8Bpp6IB0P43Z3W7+/i0kgtczAiriCVdZF9kF1B4wUlt9J91nVD+x3kFlnzxOoc1H1VcYmjMM7C7oQuE4suD20Dj7O9UFgPyZLOYiDiSiGCNIqqaUMZKvtyWpAFKAN8wnmiPovoXNTWC5aNCjZr7Ve0Nx5C/ieXh8idET4MRfkeTGA==;FLpD1vK6tMZUgLC6TCGQOA=="
+secured: "Ep5SbgUHBBPFrS9MviHB6ue3hnmHaiUMP78qRGD5DDhTjLS0EKPOEak8Izv7ps92gYDqhP9JJco0YU9ofkQqxzlqF/V6BYiTOUETwVLJK2FrzKzGfPkhloykKJEG9IFNazqseoEjYJ6BncY/h1HmdBnIl/pvdQpg89x+XfB1NcFhZcUW/qSrq2BRhWkjzj6UPrXlPSr996lZIGP7T2JkllIiEjsoBAnOKPdTv8vb4F8iYEpBidFI1embJUCged7SCOUDG04PpgyyP8rm/sAQGxFry+HaMB/M1Wmm6znSewBef93YikoW/FiXoJJ00pbWv78s1INErBNXaFlixok5DgCgbQmVN4SrzsstAFxI+/M=;D3nJ45ycSQO4s3d0SHqQjw=="
 ---
 

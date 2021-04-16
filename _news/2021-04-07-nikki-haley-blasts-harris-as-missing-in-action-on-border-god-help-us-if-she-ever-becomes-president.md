@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-missing-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp"
 type: article
 quality: 169
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1cf9b75-bdd8-4751-b0a7-bdb396837917/d58167fb-cb91-4558-9cc7-fd257fe0a319/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "VP Kamala Harris On Gun Control Executive Order: \"The Solutions Already Exist\""
+    excerpt: "And President Joe Biden has the will and the courage to act. — Vice President Kamala Harris (@VP) April 8, 2021 THE VICE PRESIDENT: Good morning. Over the course of my career, I have seen gun violence up close. I have looked at autopsy photographs."
+    publishedDateTime: 2021-04-08T18:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/08/vp_kamala_harris_on_gun_control_executive_order_the_solutions_already_exist.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 61
+    images:
+      - url: "https://assets.realclear.com/images/54/540011.jpg"
+        width: 5673
+        height: 3782
         isCached: true
 
 secured: "RgM9fNmTJZ352GOfUmpmPbxBcgKbemceptev80YsSNxqTmFN3VuEVx1NQpjre7RcVZRnpm8pFgqwecDBjkhkMd7TGSLbJ0yvSgbBlOCIBVsEJWVV3svvOqpOnzU74tvpNc6NAVkB2bX2RNIedb3xwlB1s+8cGJ6TaXRhXsoIvw2fLphtKwYZRh98fxYM2Eq7bMYFZrujJ02KFlWl9yDGdPEPq04bqdtcJAMMJd4BGZiwY4kJXac7+JBvnXMnokp0ROmWuxYt3KsI8zCwOBVSOEltOWZLSTrWVyzixwZZlI1NBnFoSX5S3Ggg2xoPiu4c0Qtu+HB4A9Chn3xJU8yHzpCW9ctly7mWeUOEWuj04F4=;gn8VGbMqSrt8rlBc7dqeVg=="

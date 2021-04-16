@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden urges calm after Daunte Wright shooting, says 'no justification' for looting, violence"
+    excerpt: "President Biden urged “peace and calm” on Monday as authorities investigate what led to the fatal police-involved shooting of a Black man during a traffic stop in the Minneapolis suburb of Brooklyn Center, Minnesota."
+    publishedDateTime: 2021-04-12T20:31:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ada110c-7331-40cd-a281-b8345420ab7d/6ec9a2e0-4688-40b3-b7bb-b7216727bf5a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "g3IZNzn4QK+CNyZgBCuQDtim/+nGfpYvgxv79AiGWMDv3/bIuzvD+jGWQ/y2ndo3bvPaaVA75C54xMtT4PdTSQj4RBS1X8AIDt/l42w3UJGjHYKZF5OJFVhTqWuc+X3avOt1hdKZ5NH0oIa30uMDrdeipW4fo9vueMQ6Vw1RC+K4WlSl1cSvuAQtT/gzJYmSDVL+aRd6FSfSifw1ZdREmmqXSR1GZ4K8gdK4loZaAYP1Xq8uKwKNe9zdpOGWkjEtO8FksjhKr5dRmM4WkwPB579dJZMzS21+FWxvJ64kJrPONhfqGXVEqW9A7XjMaWfVmH9idLu5ovHp5Qg35QB/C1fUwN0INIRJWk3MKt9Hq8I=;H+J3D5t2shCDNqTcE5FMMA=="
 ---

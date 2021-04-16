@@ -757,6 +757,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Garland rescinds Trump-era memo curtailing consent decrees"
+    excerpt: "Attorney General Merrick Garland has rescinded a Trump-era memo that curtailed the use of consent decrees that federal prosecutors have used in sweeping investigations of police departments"
+    publishedDateTime: 2021-04-16T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/garland-rescinds-trump-era-memo-curtailing-consent-decrees-77118681"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/garland-rescinds-trump-era-memo-curtailing-consent-decrees-77118681"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/garland-rescinds-trump-era-memo-curtailing-consent-decrees-77118681"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f681409a6baf4a16ab0676e29771f494_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Republican leaders diverge on Trump, putting party in limbo"
     excerpt: "Republican leaders of Congress have been making the trip to Mar-a-Lago to see Donald Trump, with the notable exception of Mitch McConnell."
     publishedDateTime: 2021-04-16T14:56:00Z
@@ -788,6 +804,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_adf2de08c39b4733af2001dd4871dbb5_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Fauci becomes the political scapegoat Trump always wanted him to be"
+    excerpt: "When do Americans get their freedom back?” Ignoring the way in which the question was loaded, Fauci explained that he would not advocate scaling back mask-wearing or distancing with infections at their current level."
+    publishedDateTime: 2021-04-16T17:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/16/fauci-becomes-political-scapegoat-trump-always-wanted-him-be/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/16/fauci-becomes-political-scapegoat-trump-always-wanted-him-be/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/16/fauci-becomes-political-scapegoat-trump-always-wanted-him-be/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MZF4BWU6AQI6XMXVPUXQDATVBU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
@@ -927,6 +959,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-07-2021/t_e2b3b27c520d4e0c82f8b4a130782d96_name_20210406_GOP_DEBT_V4.png&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Biden Accelerates Refugee Admissions, But Won't Raise Trump's Low Cap"
+    excerpt: "Joe Biden signed an emergency determination that would speed refugee admissions to the U.S., but he did not lift Trump's low cap of 15,000 refugees."
+    publishedDateTime: 2021-04-16T18:17:00Z
+    webUrl: "https://time.com/5955707/biden-refugee-admissions/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/04/biden-refugee-admissions.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Ex-Trump aide Stephen Miller launches legal group to fight Democrats in the courts"
     excerpt: "Washington — Stephen Miller, who was a top aide to former President Donald Trump and the driving force behind his hardline immigration policies, has launched a new legal group that aims to take the fight against President Biden and Democrats' agenda to ..."

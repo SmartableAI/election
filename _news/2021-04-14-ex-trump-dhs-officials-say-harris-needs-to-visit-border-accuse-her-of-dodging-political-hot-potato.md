@@ -80,38 +80,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
-    excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing. House Minority Whip Rep."
-    publishedDateTime: 2021-04-14T15:28:00Z
-    webUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border"
-    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-border-.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Kamala Harris' Failed Leadership Test"
-    excerpt: "It's been an inexplicable 22 days and counting that Vice President Kamala Harris has not visited the U.S. southern border or detention facilities"
-    publishedDateTime: 2021-04-16T10:51:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/540621_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "OdlF5gYuYejQu//AEVsk4zQMft8CrRHcAQ2dF0/UVMwUN4OocU++lzRjCdFPZKCSLZXpyz6SNk/40cy0CKUb/7oxNCCZJVQsdqHzcZ5lwfYmaybFrPVtY1H6SeNELFyXGsO3/Phsv++euaAWuD9ieIwp2VAkX/ckMPJTe63+zAlf6sMjG1SQVRiyyhTMbBo1KR8E3Qpxd37S13n0OrfchBsWaCdQSVzzoSAa1ozh9Pw/nXu1WdsknIxvDpEoyEsfmD28ypMyhFgu0Nb8joSw5iT/o6DOLZNgRwud9DGRyg+8MvT6U/ROcXGkElLKKjXG8xKIEZAxJvwpWaJRMUL4v6hzJiC59y8hnQQ1/bITZyk=;RzQCEaLD4TisJd8Yv9TnzA=="
 ---

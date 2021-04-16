@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Stinging rebuke': Clapper reacts to Biden's sanctions on Russia"
+    excerpt: "Former US Director of National Intelligence, James Clapper, explains to CNN's Jim Sciutto why President Biden's sanctions against Russia are significant.\n    \n"
+    publishedDateTime: 2021-04-16T15:37:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q-Mq5zhm5C0/biden-sanctions-russia-clapper-intv-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/16/biden-sanctions-russia-clapper-intv-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/16/biden-sanctions-russia-clapper-intv-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416113008-james-clapper-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
     excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
     publishedDateTime: 2021-04-08T14:47:59Z

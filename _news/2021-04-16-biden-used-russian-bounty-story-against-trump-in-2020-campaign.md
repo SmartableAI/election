@@ -31,117 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Biden 'deconstructing' last 4 years in record time, Trump alumni say"
-    excerpt: "President Biden is deconstructing former President Trump's policies at breakneck speed, the president of America First Policy Institute told Fox News."
-    publishedDateTime: 2021-04-15T16:30:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fn6AKZksK54/biden-trump-america-first-policy-institute-brooke-rollins"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp"
+  - title: "Kamala Harris cited Russian bounty story in general election debate with Pence"
+    excerpt: "Vice President Harris cited the now-backpedaled report of Russia placing bounties on the heads of U.S. soldiers during a general election debate in October with former Vice President Mike Pence."
+    publishedDateTime: 2021-04-16T18:13:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpyuhO0_-WE/kamala-harris-cited-russian-bounty-story-debate-pence"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 221
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rtsu2ii.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Harris, Biden schedules place little emphasis on immigration despite border crisis"
+    excerpt: "President Biden and Vice President Harris' public schedules have placed little emphasis on the southern border as authorities struggle to provide shelter for all of the migrants crossing into the U.S."
+    publishedDateTime: 2021-04-13T22:22:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ev9zddv5RbY/harris-biden-schedules-border-crisis-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-biden-schedules-border-crisis-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-biden-schedules-border-crisis-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 194
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21099800629179.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden administration expands entry of migrants kept in Mexico under Trump"
-    excerpt: "The Biden administration announced Tuesday that it is expanding the entry of migrants into the U.S. who had been kept in Mexico as part of the Trump-era Migrant Protection Protocol (MPP) – even as migrants continue to surge toward the border in record numbers."
-    publishedDateTime: 2021-04-13T20:53:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GiUGzRlAwfA/biden-administration-expands-entry-migrants-kept-mexico-under-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-expands-entry-migrants-kept-mexico-under-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-expands-entry-migrants-kept-mexico-under-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/957280e9-87e8-4078-8fd9-44d22936d4ed/0e00f1bb-477e-4226-b3ed-4d7e3ef5fcfb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden on pace to allow fewer refugees into US than Trump, humanitarian group says"
-    excerpt: "President Biden's administration is on track to admit a record low number of refugees into the United States, according to a report by the International Rescue Committee."
-    publishedDateTime: 2021-04-12T16:48:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a3GAX3d4s60/biden-refugees-admitted-trump-comparison-humanitarian-group"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-refugees-admitted-trump-comparison-humanitarian-group.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-refugees-admitted-trump-comparison-humanitarian-group.amp"
+  - title: "Harris comments on Daunte Wright shooting, says family deserves answers"
+    excerpt: "Vice President Kamala Harris took to Twitter late Monday to comment on the Daunte Wright shooting and said his family needs “justice and healing” as the investigation plays out."
+    publishedDateTime: 2021-04-13T03:52:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YNwn8aDHZl4/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-comments-on-daunte-wright-shooting-says-family-deserves-answers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e63c96c-1b17-4d3b-b75f-1b419f4c56cd/d5527c0b-a96e-4bc2-a46b-26416e13e295/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Tragic' to see Biden admin 'flip switch' and reverse Trump policies at border: Mike Pompeo"
-    excerpt: "Former Trump secretary of state and new Fox News contributor Mike Pompeo speaks out on the crisis at the southern border on 'Fox & Friends.'"
-    publishedDateTime: 2021-04-12T14:45:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ntXjETn0h_U/tragic-to-see-biden-admin-reverse-trump-policies-at-border-pompeo"
-    ampWebUrl: "https://www.foxnews.com/politics/tragic-to-see-biden-admin-reverse-trump-policies-at-border-pompeo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tragic-to-see-biden-admin-reverse-trump-policies-at-border-pompeo.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden moves to roll back Trump-era ban on funding for abortion providers like Planned Parenthood"
-    excerpt: "President Biden's administration has begun the process of restoring family planning grants to abortion providers like Planned Parenthood Federation of America (PPFA), which forfeited millions of dollars in response to Trump-era restrictions on family planning grants."
-    publishedDateTime: 2021-04-14T14:22:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CeBkVlZnVMI/biden-abortion-provider-funding-trump-ban-rollback"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-abortion-provider-funding-trump-ban-rollback.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-abortion-provider-funding-trump-ban-rollback.amp"
+  - title: "Harris to travel to Guatemala, Mexico amid criticism over border crisis"
+    excerpt: "Vice President Kamala Harris said on Wednesday that she will travel to Guatemala and Mexico as part of her role in tackling the \"root causes\" of the swirling migration crisis at the southern border -- as she faces intense criticism for her alleged lack of action on the crisis."
+    publishedDateTime: 2021-04-14T14:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pue2-RecnWc/harris-guatemala-and-mexico-criticism-over-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-guatemala-and-mexico-criticism-over-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-guatemala-and-mexico-criticism-over-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 177
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Joe-Biden-Abortion-Referral-Planned-Parenthood-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump alumni launch 'America First' nonprofit with $20M to promote populist conservatism"
-    excerpt: "A cadre of Trump-era officials launched Tuesday a new nonprofit group called the America First Policy Institute, with a mission of boosting a populist agenda similar to that of former President Trump."
-    publishedDateTime: 2021-04-14T00:05:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IC8VsSLmPEY/trump-alumni-launch-america-first-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-alumni-launch-america-first-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-alumni-launch-america-first-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e03dcb35-9610-4403-b1bb-58ab8180424f/9278f5e9-05d5-412b-97b8-08b9d15b4642/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden pick to lead CBP reportedly balked at Trump immigration policies"
-    excerpt: "President Biden’s nominee to head up Customs and Border Protection has backed Black Lives Matter, defended sanctuary cities and pushed back at Trump administration orders to round up and"
-    publishedDateTime: 2021-04-13T14:03:00Z
-    webUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/"
-    ampWebUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
+  - title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
+    excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
+    publishedDateTime: 2021-04-10T01:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WBb_fS1xvXQ/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-sends-letter-to-vp-harris-demanding-migrant-facility-shutdown.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/chris-magnus.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45631ae7-72bf-428d-a7b5-1667c7e27db5/91b96f6d-24dd-4164-901d-e775e4998bc7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Arizona AG says Kamala Harris hasn't responded to his invitation to tour the border"
+    excerpt: "Vice President Kamala Harris and the Biden administration haven't responded to his invitation for her to tour Arizona's border region, the state's attorney general claimed Thursday."
+    publishedDateTime: 2021-04-09T07:55:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Rg5_yYsI8w/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-says-kamala-harris-hasnt-responded-to-his-invitation-to-tour-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/20e79242-7e28-4c81-92e7-513dff51f664/31d8ef3b-1411-4c39-81f8-f951c37cac09/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "US intel backpedals on Russian bounty story that Trump called a 'hoax'"
+    excerpt: "U.S. intelligence backpedaled Thursday on reports of Russians placing bounties on the heads of U.S. soldiers. "
+    publishedDateTime: 2021-04-15T19:40:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zHxRHB8IQ8U/us-intel-back-pedals-russian-bounty-story"
+    ampWebUrl: "https://www.foxnews.com/politics/us-intel-back-pedals-russian-bounty-story.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-intel-back-pedals-russian-bounty-story.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden-putin.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris says migrant crisis won’t ‘be fixed overnight,’ hasn't spoken with El Salvador, Honduras leaders"
+    excerpt: "The migrant crisis at the U.S.-Mexico border is one that \"is not going to be fixed overnight,\" according to Vice President Kamala Harris, who last month was appointed by President Biden to manage the U.S. response to the crisis."
+    publishedDateTime: 2021-04-16T03:23:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rav_o9jOin8/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden used Russian bounty story against Trump in 2020 campaign"
     excerpt: "Then-presidential candidate Joe Biden, along with other Democrats, accused former President Trump during the 2020 campaign of having a soft spot for President Vladimir Putin following a New York Times report last year that Russia placed bounties on the heads of American soldiers."
@@ -159,65 +175,99 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump mocks Biden for ‘PC’ military: ‘They’re laughing at us like never before’"
-    excerpt: "Former President Donald Trump mocked President Biden in a podcast, saying he forced the nation’s armed forces to become “politically correct” with progressive and gender-inclusive policies."
-    publishedDateTime: 2021-04-15T21:49:00Z
-    webUrl: "https://nypost.com/2021/04/15/trump-mocks-biden-for-pc-military-theyre-laughing-at-us-like-never-before/"
-    ampWebUrl: "https://nypost.com/2021/04/15/trump-mocks-biden-for-pc-military-theyre-laughing-at-us-like-never-before/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/15/trump-mocks-biden-for-pc-military-theyre-laughing-at-us-like-never-before/amp/"
+  - title: "Biden touts relationship with Harris as she takes heat in border czar role"
+    excerpt: "President Biden elevated his relationship with embattled border czar Vice President Kamala Harris in a Twitter post on Monday, saying she is “the last voice in the room.” ​”​When"
+    publishedDateTime: 2021-04-12T20:28:00Z
+    webUrl: "https://nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/"
+    ampWebUrl: "https://nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/biden-touts-relationship-with-harris-amid-border-czar-role/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 146
+    quality: 148
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/joe-biden-donald-trump-0056.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/biden-harris-001.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "US walks back claim Russia put bounties on troops — but no Biden apology to Trump"
-    excerpt: "The US government on Thursday downplayed a bombshell report that Russia may have placed bounties on US troops in Afghanistan — but White House press secretary Jen Psaki dodged questions about"
-    publishedDateTime: 2021-04-15T19:17:00Z
-    webUrl: "https://nypost.com/2021/04/15/us-walks-back-claim-russia-put-bounties-on-troops/"
-    ampWebUrl: "https://nypost.com/2021/04/15/us-walks-back-claim-russia-put-bounties-on-troops/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/15/us-walks-back-claim-russia-put-bounties-on-troops/amp/"
+  - title: "Kamala Harris still hasn’t responded to Arizona AG’s border invite"
+    excerpt: "Arizona’s Attorney General Mark Brnovich spoke about the “disappointing” lack of communication from Vice President Kamala Harris and the Biden administration. Ross D. Franklin/AP In a ..."
+    publishedDateTime: 2021-04-09T17:19:00Z
+    webUrl: "https://nypost.com/2021/04/09/kamala-harris-hasnt-responded-to-arizona-ags-border-invite/"
+    ampWebUrl: "https://nypost.com/2021/04/09/kamala-harris-hasnt-responded-to-arizona-ags-border-invite/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/09/kamala-harris-hasnt-responded-to-arizona-ags-border-invite/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 145
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/russian-afghan-bounties-hp.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-mark-brnovich-001.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden strikes Trump-esque deal with Northern Triangle countries amid migrant surge"
-    excerpt: "The Biden administration is taking a page out of former President Donald Trump’s book, striking an agreement with the Northern Triangle countries to militarize their borders in an effort to curb ..."
-    publishedDateTime: 2021-04-12T19:57:00Z
-    webUrl: "https://nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/"
-    ampWebUrl: "https://nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/biden-strikes-deal-with-northern-triangle-countries/amp/"
+  - title: "Low-flying jets interrupt Harris and Psaki pressers, scare DC residents"
+    excerpt: "Two F-22 Raptors flew over downtown DC shortly after 11 am to celebrate the opening of the National World War I Memorial — startling many people who weren’t aware of the plans."
+    publishedDateTime: 2021-04-16T19:23:00Z
+    webUrl: "https://nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/"
+    ampWebUrl: "https://nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 144
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/psaki-border-northern-triangle-02.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/harris-psaki-0078.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "The Press Is Infrastructure for Biden"
-    excerpt: "John Cornyn came under blistering attack from Washington Post scribe Aaron Blake for having wondered whether President Joe Biden is really in charge, since he's kept an extremely low profile with the press."
-    publishedDateTime: 2021-04-14T18:51:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/14/the_press_is_infrastructure_for_biden_540485.html"
+  - title: "Kamala Harris to travel to Mexico and Guatemala amid ongoing migrant crisis"
+    excerpt: "Vice President Kamala Harris will travel to Mexico and Guatemala amid the ongoing migrant crisis on the southern border, but has no plans to visit the states affected by the havoc, she revealed."
+    publishedDateTime: 2021-04-14T15:09:00Z
+    webUrl: "https://nypost.com/2021/04/14/kamala-harris-to-travel-to-mexico-guatemala-amid-migrant-crisis/"
+    ampWebUrl: "https://nypost.com/2021/04/14/kamala-harris-to-travel-to-mexico-guatemala-amid-migrant-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/14/kamala-harris-to-travel-to-mexico-guatemala-amid-migrant-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
+    excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing. House Minority Whip Rep."
+    publishedDateTime: 2021-04-14T15:28:00Z
+    webUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-kamala-harris-milk-carton-missing-at-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-border-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Kamala Harris' Failed Leadership Test"
+    excerpt: "It's been an inexplicable 22 days and counting that Vice President Kamala Harris has not visited the U.S. southern border or detention facilities"
+    publishedDateTime: 2021-04-16T10:51:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/540496_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/540621_5_.jpg"
         width: 750
         height: 500
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/trump-state-department-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/trump-state-department-capitol-riot-released/index.html"
 type: article
 quality: 167
-heat: 207
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Parents of 445 migrant children separated at border under Trump still have not been found, court filing says"
-    excerpt: "The parents of 445 migrant children separated from their families due to Trump administration policies at the US-Mexico border between 2017 and 2018 have still not been located, down from 506, according to a Wednesday court filing.\n    \n"
-    publishedDateTime: 2021-04-07T22:23:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNtJ2oFnMmI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/family-separation-court-filing/index.html"
+  - title: "Trump EPA appointee blocked public release of cancer danger, inspector general says"
+    excerpt: "Trump administration political appointees at the Environmental Protection Agency repeatedly squashed efforts to warn the public about a cancer-causing gas in their neighborhood, according to a new review.\n    \n"
+    publishedDateTime: 2021-04-16T19:03:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywfjBkNVdiw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/epa-cancer-ethylene-oxide/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/epa-cancer-ethylene-oxide/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 156
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180625234239-deportaciones-sin-proceso-juridico-eunice-rendon-omar-silva-intvw-aristegui-00030023-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Donald Trump got a *lot* less rich as president"
-    excerpt: "(CNN)During his four years as president, Donald Trump loved to remind people that being president was costing him a whole bunch of money. \"I said to one of my friends, a very wealthy friend, I said, 'You know, I'll bet you it cost me $2 or 3 billion and it ..."
-    publishedDateTime: 2021-04-07T14:12:00Z
-    webUrl: "https://www.cnn.com/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
+  - title: "Trump appointee 'bragged' about influencing CDC reports on Covid-19, House committee says"
+    excerpt: "A former Trump administration appointee privately boasted last year about influencing Centers for Disease Control and Prevention's scientific reports about Covid-19 and attacked the agency's guidance while advocating for a herd immunity strategy, according to a House select committee investigating the"
+    publishedDateTime: 2021-04-09T14:37:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vt8rf4VgLps/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/house-covid-committee-trump-cdc-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/house-covid-committee-trump-cdc-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200424174956-trump-hands-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222195207-capitol-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

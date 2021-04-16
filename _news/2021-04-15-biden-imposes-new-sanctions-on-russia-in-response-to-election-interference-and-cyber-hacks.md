@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
 type: article
 quality: 180
-heat: 600
+heat: 620
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Stinging rebuke': Clapper reacts to Biden's sanctions on Russia"
+    excerpt: "Former US Director of National Intelligence, James Clapper, explains to CNN's Jim Sciutto why President Biden's sanctions against Russia are significant.\n    \n"
+    publishedDateTime: 2021-04-16T15:37:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q-Mq5zhm5C0/biden-sanctions-russia-clapper-intv-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/16/biden-sanctions-russia-clapper-intv-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/16/biden-sanctions-russia-clapper-intv-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416113008-james-clapper-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

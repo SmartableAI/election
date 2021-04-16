@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 2670
+heat: 2690
 published: true
 
 provider:
@@ -1690,6 +1690,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/15/biden_98707_c0-56-4283-2554_s1200x700.jpg?7897f04f4bfd20cf7092543d1282ed26691c7283"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Biden keeps Trump's record-low cap on refugees"
+    excerpt: "President Joe Biden on Friday stuck with his predecessor’s historically low cap of 15,000 refugees for this year and instead moved to accelerate admissions, triggering an outcry from resettlement agencies and even Biden allies that he was backpedaling on a key promise."
+    publishedDateTime: 2021-04-16T18:26:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-speeds-refugees-admissions-but-doesn-t-16106454.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-speeds-refugees-admissions-but-doesn-t-16106454.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-speeds-refugees-admissions-but-doesn-t-16106454.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Meet the Republican governor who is already on the attack against President Biden. Democrats have tagged him as 'Trump's errand boy.'"
     excerpt: "DeSantis is leading the pack of Republicans attacking Joe Biden, a plan that could help his 2022 reelection or, if he runs, 2024 presidential bid."
