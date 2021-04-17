@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/niviane-petit-phelps-cha
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/niviane-petit-phelps-charged-threatening-kamala-harris/index.html"
 type: article
 quality: 185
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Florida nurse accused of threatening to kill Vice President Kamala Harris"
+    excerpt: "Niviane Petit Phelps made the threats in a series of videos sent to her husband in prison, according to a Secret Service complaint."
+    publishedDateTime: 2021-04-17T19:49:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/florida-nurse-accused-threatening-kill-vice-president-kamala-harris-n1264402"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264402"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264402"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_15/3465656/210417-miami-kamala-harris-mb-1747_b29a1b7cc10c510a24684af1bd63da77.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
 
 secured: "rgSJNZFR4QHn08o3WNr31gefV1OD6/L37FtRNRU/znaAmbeknpP14KGUp5NN3t0ba5+oJ9P9hClIX8btWtTKyuj/df3ChOfmcZMLObzWZeaeOmx8QowUxnUT3iegIRUf0du17e4Q+P+HH6UdnT0rsMzuhxw/h1NctaDoEKl3C0+ZbZkybJHubDaegUkRaZ1f478IXiINjR+st33WOHKqS2EKWXAsngdxGF0P+LGbKin5eihByexc4g93tWfeF/6z2YW7L5lHCRwAxu8rpifyzemMz70zRU5eEMGJE5iSyjS/y1KFf/wALbQenDIH0Qf/wiaPeodra4mlH0q/hd1U7qRTTa9pZM4gvj7lR85Rhu8=;0uNWRhbF4sLLM+maZqK3Kg=="
 ---

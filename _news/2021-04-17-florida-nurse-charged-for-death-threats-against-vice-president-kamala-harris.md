@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vice President Kamala Harris to talk about jobs, economy during visit Monday to Greensboro, High Point"
-excerpt: "Vice President Kamala Harris will visit both Greensboro and High Point to talk about the American Jobs Plan, growing the economy and creating jobs, a White House official said. It"
-publishedDateTime: 2021-04-14T20:53:00Z
-originalUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.html"
-webUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.html"
-ampWebUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
-cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
+title: "Florida nurse charged for death threats against Vice President Kamala Harris"
+excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
+publishedDateTime: 2021-04-17T16:27:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7268355002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7268355002"
 type: article
-quality: 59
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: News & Record
-  domain: greensboro.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/a/34/a3403fc8-9d61-11eb-8fd2-37d200b852fc/5d6326a0d5f19.image.jpg?resize=1024%2C807"
-    width: 1024
-    height: 807
+  - url: "https://www.gannett-cdn.com/presto/2021/04/15/USAT/8a802859-42db-40cb-9b7c-39de0c7d31ec-Harris.jpg?auto=webp&crop=5111,2875,x0,y170&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -104,22 +104,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
-    excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
-    publishedDateTime: 2021-04-17T16:27:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7268355002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7268355002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/15/USAT/8a802859-42db-40cb-9b7c-39de0c7d31ec-Harris.jpg?auto=webp&crop=5111,2875,x0,y170&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "South Florida Nurse Arrested, Accused of Threatening to Kill VP Kamala Harris"
     excerpt: "A longtime South Florida nurse accused of making videos threatening Vice President Kamala Harris’ life has been arrested on federal charges. Niviane Petit Phelps, of Miami Gardens, was arrested following an investigation by the U."
@@ -217,6 +201,22 @@ related:
         width: 1200
         height: 920
         isCached: true
+  - title: "Vice President Kamala Harris to talk about jobs, economy during visit Monday to Greensboro, High Point"
+    excerpt: "Vice President Kamala Harris will visit both Greensboro and High Point to talk about the American Jobs Plan, growing the economy and creating jobs, a White House official said. It"
+    publishedDateTime: 2021-04-14T20:53:00Z
+    webUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.html"
+    ampWebUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
+    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/a/34/a3403fc8-9d61-11eb-8fd2-37d200b852fc/5d6326a0d5f19.image.jpg?resize=1024%2C807"
+        width: 1024
+        height: 807
+        isCached: true
   - title: "Baltimore company that made yarn bought by Vice President Kamala Harris has stitched together a success story"
     excerpt: "In March during a visit at Fibre Space in Alexandria, Vice President Kamala Harris purchased a hand-dyed yarn that’s the color of the Observatory Circle — the residence of the vice president ― made by Neighborhood Fiber to celebrate Harris ..."
     publishedDateTime: 2021-04-14T10:00:00Z
@@ -264,6 +264,6 @@ related:
         height: 682
         isCached: true
 
-secured: "CN2HdD+vZ95RLUp9DuS1/wvKJmUWGP3AzdToa7Q4shQF2w3UQsnZ3464Z289Zi5VgNWhP6k5wbVHcla2oihpzWSbX26C06UpSYEFX3xL1rc0oWz4Wo9SSCnzv6v/gkAHercFocf6KcEf+dC5vKPmQLrninitwT2RxhTha58tiktx0SWxnlI7CkDSsq8iTZhyOLfqYwQGSOUzKTLCDYe/E1qdJ4oWUaJDO/TZLmUzqd/M1hUd9bUHfArAWhWD42zn43oRw/8y3QO8skjxU7+rnxBFou/7Ci8WiaRRLolej3tfujkd0/Vwlp4kP/APUExVguhDCEA0OqqmDzghhWlEveRowI6m9aeEa0VbObG7TTIozz4U1d7a/bM6A7THPeXk4rSKlK7uK3NuCulZgl4BXg/6d0adThNArq0rtgg0loJqSM0Sdki77VrwBecKwQuAR2xz62np1ZbfdoQIj58nVxwvxeIUcmm6ytLwoZ6udNm9ArFXM8yHFAAIj/9a01Ejl+ivKLCSakkxnF0MXxOH8Q==;XI4VS+8BnizeKuEyuZdEDA=="
+secured: "nFAut99Xh+oej6iLRMkvuxdoJcBYw4pGEsQd/OvfPKyCUYKH3pqUZovWXOmJf9QDfjYqH0hitzKKfGL5qniezHo9HWe9VVf5sWrhQeOTwzPB1MUtdfWcr3P32f4i1s7xf+ZaQlWWBGcgs1CnWlRvN6CSFHZ8TQdNY032rILWBAutW6G18RM8c8GNEf5bDFRzwNaNEy+NDZ+Xug+IztqkbwklkwWsptfUi+Z3SaePd2PRq3Bem1CWv3wvBA0JW5JbPbRbYgp3NV0pCCo/kJx9tI0y/fiDom8jIX55C4XFjjGQmbokRjF+HeensjDhEH1JTzOW/OQtNCjhNd00Lav+mJEZzViwOgwDZ5yjqG/T6SI=;YFcbaYGDrjGLyMwB8YL1dA=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vice President Kamala Harris to talk about jobs, economy during visit Monday to Greensboro, High Point"
-excerpt: "Vice President Kamala Harris will visit both Greensboro and High Point to talk about the American Jobs Plan, growing the economy and creating jobs, a White House official said. It"
-publishedDateTime: 2021-04-14T20:53:00Z
-originalUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.html"
-webUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.html"
-ampWebUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
-cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
+title: "Florida woman charged for death threats against Kamala Harris"
+excerpt: "A woman was charged for alleged death threats against VP Kamala Harris, according to a criminal complaint filed in the U.S. District Court."
+publishedDateTime: 2021-04-17T18:10:00Z
+originalUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/"
+webUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/"
+ampWebUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
+cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
 type: article
-quality: 59
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: News & Record
-  domain: greensboro.com
+  name: The Grio
+  domain: thegrio.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/a/34/a3403fc8-9d61-11eb-8fd2-37d200b852fc/5d6326a0d5f19.image.jpg?resize=1024%2C807"
-    width: 1024
-    height: 807
+  - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -88,22 +88,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Florida woman charged for death threats against Kamala Harris"
-    excerpt: "A woman was charged for alleged death threats against VP Kamala Harris, according to a criminal complaint filed in the U.S. District Court."
-    publishedDateTime: 2021-04-17T18:10:00Z
-    webUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/"
-    ampWebUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 75
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
     excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
@@ -217,6 +201,22 @@ related:
         width: 1200
         height: 920
         isCached: true
+  - title: "Vice President Kamala Harris to talk about jobs, economy during visit Monday to Greensboro, High Point"
+    excerpt: "Vice President Kamala Harris will visit both Greensboro and High Point to talk about the American Jobs Plan, growing the economy and creating jobs, a White House official said. It"
+    publishedDateTime: 2021-04-14T20:53:00Z
+    webUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.html"
+    ampWebUrl: "https://greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
+    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/govt-and-politics/vice-president-kamala-harris-to-talk-about-jobs-economy-during-visit-monday-to-greensboro-high/article_49c24d74-9d61-11eb-a813-1f7a0e0f350e.amp.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/a/34/a3403fc8-9d61-11eb-8fd2-37d200b852fc/5d6326a0d5f19.image.jpg?resize=1024%2C807"
+        width: 1024
+        height: 807
+        isCached: true
   - title: "Baltimore company that made yarn bought by Vice President Kamala Harris has stitched together a success story"
     excerpt: "In March during a visit at Fibre Space in Alexandria, Vice President Kamala Harris purchased a hand-dyed yarn that’s the color of the Observatory Circle — the residence of the vice president ― made by Neighborhood Fiber to celebrate Harris ..."
     publishedDateTime: 2021-04-14T10:00:00Z
@@ -264,6 +264,6 @@ related:
         height: 682
         isCached: true
 
-secured: "CN2HdD+vZ95RLUp9DuS1/wvKJmUWGP3AzdToa7Q4shQF2w3UQsnZ3464Z289Zi5VgNWhP6k5wbVHcla2oihpzWSbX26C06UpSYEFX3xL1rc0oWz4Wo9SSCnzv6v/gkAHercFocf6KcEf+dC5vKPmQLrninitwT2RxhTha58tiktx0SWxnlI7CkDSsq8iTZhyOLfqYwQGSOUzKTLCDYe/E1qdJ4oWUaJDO/TZLmUzqd/M1hUd9bUHfArAWhWD42zn43oRw/8y3QO8skjxU7+rnxBFou/7Ci8WiaRRLolej3tfujkd0/Vwlp4kP/APUExVguhDCEA0OqqmDzghhWlEveRowI6m9aeEa0VbObG7TTIozz4U1d7a/bM6A7THPeXk4rSKlK7uK3NuCulZgl4BXg/6d0adThNArq0rtgg0loJqSM0Sdki77VrwBecKwQuAR2xz62np1ZbfdoQIj58nVxwvxeIUcmm6ytLwoZ6udNm9ArFXM8yHFAAIj/9a01Ejl+ivKLCSakkxnF0MXxOH8Q==;XI4VS+8BnizeKuEyuZdEDA=="
+secured: "y0x1FPyuXtZsxFqqsy0dUUwAy18DwhSaqoC7Sa22ZRJqni8wNkh+KWbNyzOqe+PPH7SVTMLRs8+oLVHC9ysZ+PdAxsfM1nS1R1Y9rYcjudV08zoZax3ut7wXnnFsmxInCMWst5vcxUDmSKD2elFvL0+H3q1+W2YRieZLw2badgg2A/rlB2/eNt1wHnVbaqt9C1IvUFXN+V5UgNLl+lhUsnKp+fqyw/K4LyiS6RcTB/6s1NRNJLt22S4H2gx2syw3M1GBQTZkc3WSJ+U5kCnHTAI5TPlT/yBJXURteX5V7lcY/CyTLFOypaxpwkico/gKU7moRy/L2p4wXVmltzSaLt0YrXUVGXn3iPGl3pVtEXw=;Asgs+kWENnLwS6aXQQ3iSA=="
 ---
 

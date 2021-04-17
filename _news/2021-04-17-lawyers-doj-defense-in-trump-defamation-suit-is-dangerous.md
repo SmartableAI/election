@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyers-doj-defense-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump rape accuser E. Jean Carroll's lawyers call DOJ defense 'dangerous'"
+    excerpt: "The Justice Department made a “dangerous” argument seeking to defend Donald Trump against E. Jean Carroll's claim that he defamed her when he denied her allegation of rape, her lawyers said."
+    publishedDateTime: 2021-04-17T17:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/17/trump-rape-accuser-e-jean-carrolls-lawyers-call-doj-defense-wrong/7268421002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7268421002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7268421002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/06/24/USAT/898c2a42-b49d-454f-a78a-3f579f1c99c6-VPC_WHO_IS_E_JEAN_CARROLL_DESK_THUMB.jpg?auto=webp&crop=1648,927,x271,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Jack Dorsey defends banning Trump but admits it sets 'dangerous' precedent"
     excerpt: "Jack Dorsey opened up about the decision to ban President Donald Trump from the platform in a thread, saying he feels the action sets a \"dangerous\" precedent."
     publishedDateTime: 2021-01-14T20:14:00Z
