@@ -1,30 +1,34 @@
 ---
 category: news
-title: "Kamala Harris' Failed Leadership Test"
-excerpt: "It's been an inexplicable 22 days and counting that Vice President Kamala Harris has not visited the U.S. southern border or detention facilities"
-publishedDateTime: 2021-04-16T10:51:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.html#!"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
+title: "Washington Post stands by 'Four Pinocchios' rating for Trump claim Russian bounty intel was 'fake news'"
+excerpt: "The Washington Post is standing by a \"Four Pinocchios\" fact-check rating it gave then-President Donald Trump last year, even after U.S. intelligence backed away from reports that Russia placed bounties on the heads of American soldiers in Afghanistan."
+publishedDateTime: 2021-04-16T22:51:00Z
+originalUrl: "https://www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan"
+webUrl: "https://www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan"
+ampWebUrl: "https://www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan.amp"
 type: article
-quality: 85
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/540621_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b30fe30-8193-4998-901c-c7d1c2ad1416/0989fb65-3be0-4983-9c64-acb0c363223e/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -268,23 +272,23 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Washington Post stands by 'Four Pinocchios' rating for Trump claim Russian bounty intel was 'fake news'"
-    excerpt: "The Washington Post is standing by a \"Four Pinocchios\" fact-check rating it gave then-President Donald Trump last year, even after U.S. intelligence backed away from reports that Russia placed bounties on the heads of American soldiers in Afghanistan."
-    publishedDateTime: 2021-04-16T22:51:00Z
-    webUrl: "https://www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan.amp"
+  - title: "Kamala Harris' Failed Leadership Test"
+    excerpt: "It's been an inexplicable 22 days and counting that Vice President Kamala Harris has not visited the U.S. southern border or detention facilities"
+    publishedDateTime: 2021-04-16T10:51:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/16/kamala_harris_failed_leadership_test_145602.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b30fe30-8193-4998-901c-c7d1c2ad1416/0989fb65-3be0-4983-9c64-acb0c363223e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/54/540621_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
-secured: "Zya+hKhYZaXWWUoZWkoBlMQS5ZvQ3xIbv9iMXVLvPMnKJOfO+N3Mnv1e6W3k5rXnR8YceVhJaf2ZrpcW05nY5QX75zKULQlNCk1MygmtngaoroOaB6L8GVClgOKBKo8/Tvp1L9WTKK6D2Pk5Abus1DWxP59tlSc1pnQw4ZimtMnp58gTmyQEc39HEwFeyFhsCPTV01+EdPxntnmDUYubC9xWA8wF0/E2it4z5iXMzffuMJSnXvsoeGqJAbB8mtxZk33BQBhBT5uk9HItWkiH1rPJvW0XPDS4V1aX4Az7kZK3EXirPX8vGAQa1FXN7Gq9jphkVfElhJOrRW+fawEaHdFTLB6LZhb48lyHtvyJnIM6PlneJExE906bnO0uE0XJSy1Ws5DqS81nEADFibFgoe/zQr+af24whXMQSWiPneFO1rUQyOAw0BkrvhNxIzsYemlRFUwa0ip74loqY1q3jGYzfNvJmTJZ93W+Ya6pEyV8FYYFjLSJZkUe4JJrPvqTvlz85NR9N8u31ppf3f/d0w==;vt2eNfuBbhq0gUUGYlYpjg=="
+secured: "K1dxhTd3EA1ULrhKDuKqw/joPGY9dKW1yG+kuODhTSzvR3ubIdF8eIoSgB8KpQiXDOx7oEVqG6lXkq0qcZjHLJnQNIPSkkChkCQv4cjuilJ+/6vgishLqeHakHyLIGQeMLYqnQ5o1qdtTUa20+j6kQVedicNt8HefNfOMJ4+Frlqxd/NT+tNSmDdawM8vvWQHuTckTjaVtDPaMMW7tQQIw6vWfXIVKgh1FoydIJ20p9cdJrdZLLcaNSJyYG7XJ2kFa4etWMVDqKHwA0UTxGJiRzXBrkY29CwWP4T1jmXMAg9wY8Trq886t0JEsEkA8OPqP4jye2fyN0d83Ci95VWtDNk8gjmbpn+zSfICZDJj6k=;AcPk3UrD73QpdZHtbKnnrQ=="
 ---
 

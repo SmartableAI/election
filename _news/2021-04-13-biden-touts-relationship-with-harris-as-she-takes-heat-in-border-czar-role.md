@@ -252,6 +252,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Washington Post stands by 'Four Pinocchios' rating for Trump claim Russian bounty intel was 'fake news'"
+    excerpt: "The Washington Post is standing by a \"Four Pinocchios\" fact-check rating it gave then-President Donald Trump last year, even after U.S. intelligence backed away from reports that Russia placed bounties on the heads of American soldiers in Afghanistan."
+    publishedDateTime: 2021-04-16T22:51:00Z
+    webUrl: "https://www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-trump-bounty-intel-russia-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b30fe30-8193-4998-901c-c7d1c2ad1416/0989fb65-3be0-4983-9c64-acb0c363223e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris' Failed Leadership Test"
     excerpt: "It's been an inexplicable 22 days and counting that Vice President Kamala Harris has not visited the U.S. southern border or detention facilities"
     publishedDateTime: 2021-04-16T10:51:00Z

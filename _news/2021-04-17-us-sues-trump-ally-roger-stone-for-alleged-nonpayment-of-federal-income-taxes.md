@@ -1,34 +1,28 @@
 ---
 category: news
-title: "The staggering scale of the Trump campaign’s opt-out fundraising scheme"
-excerpt: "That’s what the Trump campaign did, too, except instead of a “sign me up for your hourly newsletters,” the checkboxes focused on encouraging people to demonstrate their fervent support for former president Donald Trump — by making their one-time ..."
-publishedDateTime: 2021-04-05T20:10:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/"
-webUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
+title: "U.S. Sues Trump Ally Roger Stone for Alleged Nonpayment of Federal Income Taxes"
+excerpt: "The U.S. Department of Justice on Friday sued Roger Stone, saying the close ally of former President Donald Trump owes about $2 million in unpaid federal income taxes, according to a court document seen by Reuters."
+publishedDateTime: 2021-04-16T21:58:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
 type: article
-quality: 125
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIPFG7OWPRCMVDX44YIPVUIDCM.png&w=1440"
-    width: 1440
-    height: 573
-    isCached: true
 
 related:
   - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
@@ -270,6 +264,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1772025/vaccine-passport-gop-trump-jr.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "The staggering scale of the Trump campaign’s opt-out fundraising scheme"
+    excerpt: "That’s what the Trump campaign did, too, except instead of a “sign me up for your hourly newsletters,” the checkboxes focused on encouraging people to demonstrate their fervent support for former president Donald Trump — by making their one-time ..."
+    publishedDateTime: 2021-04-05T20:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/05/staggering-scale-trump-campaigns-opt-out-fundraising-scheme/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIPFG7OWPRCMVDX44YIPVUIDCM.png&w=1440"
+        width: 1440
+        height: 573
         isCached: true
   - title: "Trump pushes back on NYT story on campaign refunds"
     excerpt: "Former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports will backfire on ..."
@@ -1877,17 +1887,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 51
-  - title: "U.S. Sues Trump Ally Roger Stone for Alleged Nonpayment of Federal Income Taxes"
-    excerpt: "The U.S. Department of Justice on Friday sued Roger Stone, saying the close ally of former President Donald Trump owes about $2 million in unpaid federal income taxes, according to a court document seen by Reuters."
-    publishedDateTime: 2021-04-16T21:58:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 51
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z
@@ -1898,6 +1897,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "EghdAgHW49ZekSXCp398A6vqQhaHDkLw1S6yxfbIJUHjVAVHhBk1ne6BAQ5vjqU76oeDEuXyE76qMgBjeee9vNlwHFfFYaErs8RjzvOGRuD9VmXmA8cRoto7J4crPoAMGXzsqspYFat0qw8cZMb6ay0GATgYWqtdUiFnc1FkFUxyyoR5bZb5Obv+R3p2WGcIIe/SRPQcYE1kWDnXTHL/RnGOiQkZlY7zePIwb88QZ2ua/CQdoJFvaxfDdOMYKcyboexcwY68r+yPbayi1hDTkP3BezH25X4+SubYLaaYXWXZXOybsSh4AkaDhD6YP3yTceDPuxlBEYr+AzFuo03D1/RQnb2Pe3xIm+vS4E4P2IPpppBEhNYRTHF3TarIi9CM4TrpiknKncpXchuCpvOKcT+buHckMeFtnwo+4i59HDLfDVurCLTWXfI4+nfGq5hbHP0nf2gHdAK0FHSfwgzqg+SlTjRW4wJ25pY00RBLcu7aBhUOmwFvPSe8c6k6vNsOnEBGLu1qbB7n4R6neEqsbg==;QhmJ52v9/2JGbYCbRWxrsQ=="
+secured: "BEV0LfbPTUcHwexyQEi+AbWEko67cIcWnpuLNL7N3vSzZ79nsqtAePlzITdZ0kAey+EuXgjdwf9SwOxTlX247sajPi5Cx0etI+RGYHqVi7whLhgHAMaGHD2tc4wnxMwFTOqVSN4IwgWqGlEwYsQtfjugDtS7JPrzmnpKhlMdS5MBETvNxvMiotksdiEuuQTIXXDOhBe7R8k43GLRMcjeRSIT0KHle7kJtGovgPfOeG069dsZT6xBJF+M0e9OtOCANkD9P/jd5LQpDj5PaYnQL52/hCNZe/MqaXp964cVLxTJ+5Vf84F42S5+tniFBVvkex4YMdiiIsQm2DGOjIU6v6d0jz/p1yQThRokEMqrzGkYUOlqLD9LnxaHvSE+Rkd/OCPhn0nrcP2y6Ht/wBMnzYEbTZUvLhIggF83EB5vgZD23M5LDcAx76xnMY6INCcdX9PyVMb42oxZhZWWo0dgFqGjzGhRBUwB0iT8zl6hM4M0czpQkRbFq0Qyad6GSkrikA8xUPkpx+j2zGehcVLfSA==;y6ecmwqdMDPelaBIMT9dfg=="
 ---
 

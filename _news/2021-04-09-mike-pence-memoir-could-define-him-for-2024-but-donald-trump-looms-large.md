@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2569
+heat: 2589
 published: true
 
 provider:
@@ -1873,6 +1873,17 @@ related:
     webUrl: "https://www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions"
     ampWebUrl: "https://www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-04-16/us-interior-dept-revokes-trump-policies-puts-climate-at-center-of-decisions?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
+  - title: "U.S. Sues Trump Ally Roger Stone for Alleged Nonpayment of Federal Income Taxes"
+    excerpt: "The U.S. Department of Justice on Friday sued Roger Stone, saying the close ally of former President Donald Trump owes about $2 million in unpaid federal income taxes, according to a court document seen by Reuters."
+    publishedDateTime: 2021-04-16T21:58:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

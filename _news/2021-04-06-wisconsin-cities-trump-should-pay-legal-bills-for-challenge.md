@@ -1885,6 +1885,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 51
+  - title: "U.S. Sues Trump Ally Roger Stone for Alleged Nonpayment of Federal Income Taxes"
+    excerpt: "The U.S. Department of Justice on Friday sued Roger Stone, saying the close ally of former President Donald Trump owes about $2 million in unpaid federal income taxes, according to a court document seen by Reuters."
+    publishedDateTime: 2021-04-16T21:58:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "U39kaydWW/I50SWd6RRMmTdwR4ZzmMEvKTQ+vnkIquzkjTLo2jckudSM/BBKoENxGY+W6pOXlVXI/Vb/KVXjdqTMWsCpVKdo3fXuV8lzCY6QRMCHzIGhw8vlrf1hkhEh3TpRKMN28y5Yu/0I2oc3OGRtt5DIU7fmeJGAO4TzvclxhBKiwZTiKC6a+wSxmSr2eHQWd5euJlYr5qB4iHZkqNIgPmcXZrG27ufybPLpYO9IAsbroBxzSjTdJ/Q8/Kx1PB1TeDcL8JiofMUALALDaeOqrtz1wEVwtPgwmzhyda/jslnG94Y6dhgnIOKSKF9xa/Zh+LgBHxoAumlBi1eZg+cWVpLj8Q6jOArrahgY53nUYEL92JypzCXSOTtyXwD8odzO5VPcMmOQQiNYyeDGOpQm+yu0WjoDJW8DgEq/oVerNVS35SNh07SgssI1KEWZyxM4OfSezfNAnPYliuPzJ/aZOeacvFGklwUK2lPNBdxB3Ug6VCh6OB3eaMDRqRRCRwjoZk5lmeaJesp0Uh4okw==;iBatfiNbunRcpogFKXTVbQ=="
 ---

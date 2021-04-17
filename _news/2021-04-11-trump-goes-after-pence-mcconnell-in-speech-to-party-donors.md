@@ -1874,6 +1874,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 51
+  - title: "U.S. Sues Trump Ally Roger Stone for Alleged Nonpayment of Federal Income Taxes"
+    excerpt: "The U.S. Department of Justice on Friday sued Roger Stone, saying the close ally of former President Donald Trump owes about $2 million in unpaid federal income taxes, according to a court document seen by Reuters."
+    publishedDateTime: 2021-04-16T21:58:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-16/us-sues-trump-ally-roger-stone-for-alleged-nonpayment-of-federal-income-taxes-court-filing?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
   - title: "Wisconsin Cities: Trump Should Pay Legal Bills for Challenge"
     excerpt: "The cities of Green Bay, Kenosha and Racine are asking a federal judge to make former President Donald Trump pay more than $42,000 in legal fees in a case he brought challenging Wisconsin’s presidential election results."
     publishedDateTime: 2021-04-05T21:51:00Z

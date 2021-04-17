@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/no-more-important-alliance-than-jap
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
 type: article
 quality: 174
-heat: 274
+heat: 294
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump takes jab at ‘lunacy’ of Johnson & Johnson vaccination pause"
+    excerpt: "Former President Donald Trump took aim at the Biden administration on Friday evening for allowing for a pause in the Johnson & Johnson coronavirus vaccine, accusing them of allowing “insanely"
+    publishedDateTime: 2021-04-17T00:41:00Z
+    webUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/"
+    ampWebUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-calls-out-biden-jandj-pause-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Alyssa Milano, Chelsea Handler call on Joe Biden to take action on federal slavery reparations"
     excerpt: "Alyssa Milano and Chelsea Handler lent their voices to a call for President Joe Biden to implement federal slavery reparations for the Black community."

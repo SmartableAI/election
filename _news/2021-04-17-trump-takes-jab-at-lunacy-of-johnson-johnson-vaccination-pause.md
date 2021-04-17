@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Alyssa Milano, Chelsea Handler call on Joe Biden to take action on federal slavery reparations"
-excerpt: "Alyssa Milano and Chelsea Handler lent their voices to a call for President Joe Biden to implement federal slavery reparations for the Black community."
-publishedDateTime: 2021-04-15T16:22:00Z
-originalUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations"
-webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations"
-ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
+title: "Trump takes jab at ‘lunacy’ of Johnson & Johnson vaccination pause"
+excerpt: "Former President Donald Trump took aim at the Biden administration on Friday evening for allowing for a pause in the Johnson & Johnson coronavirus vaccine, accusing them of allowing “insanely"
+publishedDateTime: 2021-04-17T00:41:00Z
+originalUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/"
+webUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/"
+ampWebUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
 type: article
-quality: 123
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Milano-Handler-Getty.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-calls-out-biden-jandj-pause-index.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -110,23 +106,23 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump takes jab at ‘lunacy’ of Johnson & Johnson vaccination pause"
-    excerpt: "Former President Donald Trump took aim at the Biden administration on Friday evening for allowing for a pause in the Johnson & Johnson coronavirus vaccine, accusing them of allowing “insanely"
-    publishedDateTime: 2021-04-17T00:41:00Z
-    webUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/"
-    ampWebUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
+  - title: "Alyssa Milano, Chelsea Handler call on Joe Biden to take action on federal slavery reparations"
+    excerpt: "Alyssa Milano and Chelsea Handler lent their voices to a call for President Joe Biden to implement federal slavery reparations for the Black community."
+    publishedDateTime: 2021-04-15T16:22:00Z
+    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations"
+    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-calls-out-biden-jandj-pause-index.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Milano-Handler-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
-secured: "7HMEPkpA+aXvaovsxtrKncRZugJ3wSpjBAtAECH0+eMrimrTeoWUGa/ezQGJmbN0FS+Aw38H+xrmVlK/y3JHryjUw6RO3UQ8RHl5NgB9mpDTsBcjDYC6XPrrEjn/zfxVuAbXGQJi9u/lSxADzxTQ1Es/nsoZqISIR6j/9hRnMwJjPdqlfoY3fzCSUgsXE1Ops1IOlNfpwP7QqN4GzN0MKjsu9kh2ixw4P1W2E+RdVNPk8nglyirpTRBNiEn0jB9nvg8CG3FITlwqC+JC9No4YmhS7yUi2EKuT2q4jE9fIaYTOA53qOXNHJjq0r1CLvFVWyZ/o9qIHtrntqJmmyCBgB+7YTp2gkJFJg8IBWpmD16NsmaFAmaBB0g1V3/4yE7Soc00sZSSqBIdsLD8yiKyYGuojrLBvnr5BK/VaivXJxBQbMc2k3CP+qkvu/scAOVdMbjnWn6i0n1sRenEry2k0CjRZFAwTyJEii5qOJ0hIDO/pJkNyy/Ajw/y5LR6cTzPDM2ftrcKRafVxg+KI8WfJA==;jKjpFynpRkEJ2nNmKfz6Yw=="
+secured: "vf2JmLzZh0m/TmD6SW8qiKhYwHbE35oFWRRFB1DIffPMv6eFOuCt3ojLSef6JSw9zwPiiFgY0K5LMu/XSwKmz8Pqdend9XNnOXC/IbzU5EA4kBjff8jCJPbYsfvHDpKH3nRFO+JTOtWxsTZe90w877SQ6gYv6Ne0uUpLebzZf94/uDKEZ81jACaVyLVdoV90syTCo/LR8mq0/gyYsySFVN9VLZC1gTlbCq8oYHDbt3mEFkmki0uzFQE+jiPies8N4FsbOLX8+GiZLLV5IZLCoq+/Xby1uGtmXz3BSlv8Xr4RNb4IgOupnFG43B1p2Wo61PrmMu4o+8JEEcl9PrQO3Iv506spPDLh7VofPAXFhg8=;qXF//Q9LI3eptzSWRoaOXg=="
 ---
 
