@@ -2350,6 +2350,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden to raise Trump's refugee cap after blowback"
+    excerpt: "The president has been facing heat in recent days for not following through on his February announcement to raise the previous administration's limit."
+    publishedDateTime: 2021-04-16T18:26:00Z
+    webUrl: "https://www.politico.com/news/2021/04/16/biden-to-keep-in-place-trumps-refugee-cap-482424"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/16/biden-refugee-cap-482424"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/16/biden-refugee-cap-482424"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/60/55/6487ef904d6187a72299b8504fd8/210416-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
     publishedDateTime: 2021-01-19T03:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2509
+heat: 2529
 published: true
 
 provider:
@@ -968,6 +968,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2021/04/biden-refugee-admissions.jpg"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "Merrick Garland rolls back Trump-era restrictions on forcing local police reforms"
+    excerpt: "The Justice Department’s new policy is likely to be welcomed by civil liberties advocates, but face criticism from conservatives wary of government overreach."
+    publishedDateTime: 2021-04-16T19:33:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/merrick-garland-police-consent-decrees/2021/04/16/d1586b26-9ecc-11eb-9d05-ae06f4529ece_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/merrick-garland-police-consent-decrees/2021/04/16/d1586b26-9ecc-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/merrick-garland-police-consent-decrees/2021/04/16/d1586b26-9ecc-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CJPNT7U62AI6XHIFVYDPIUU6ZY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Ex-Trump aide Stephen Miller launches legal group to fight Democrats in the courts"
     excerpt: "Washington — Stephen Miller, who was a top aide to former President Donald Trump and the driving force behind his hardline immigration policies, has launched a new legal group that aims to take the fight against President Biden and Democrats' agenda to ..."

@@ -368,6 +368,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden defends his gun reform strategy"
+    excerpt: "President Joe Biden on Friday defended his push for Congress to take action on gun legislation, saying he can work on guns and other legislative priorities at the same time. “I’ve never not prioritized this."
+    publishedDateTime: 2021-04-16T22:17:00Z
+    webUrl: "https://www.politico.com/news/2021/04/16/biden-gun-control-482549"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/16/biden-gun-control-482549"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/16/biden-gun-control-482549"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fd/1a/cbd7f1744ffcb0783b74bf202041/210416-biden-2-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden pushes sweeping jobs plan in meeting with bipartisan group of lawmakers"
     excerpt: "President Joe Biden is working to build bipartisan support for his sweeping $2 trillion American Jobs Plan and met Monday at the White House with a bipartisan group of lawmakers. The president wants to see Congress pass the proposal,"
     publishedDateTime: 2021-04-12T22:05:00Z

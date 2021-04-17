@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden demands Republicans move on gun background check bill"
+    excerpt: "President Biden Friday demanded the Republicans in the Senate move on passing gun background check legislation, calling the string of mass shootings and gun violence a \"national embarrassment.\""
+    publishedDateTime: 2021-04-16T21:54:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8sKCH661Mk0/biden-says-gun-violence-is-a-national-embarrassment-demands-gop-move-on-background-check-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-gun-violence-is-a-national-embarrassment-demands-gop-move-on-background-check-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-gun-violence-is-a-national-embarrassment-demands-gop-move-on-background-check-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/2021-04-16T211408Z_671046438_RC29XM9I4RTX_RTRMADP_3_USA-JAPAN.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pelosi still thinks Biden has southern border under control, despite record-breaking numbers"
     excerpt: "House Speaker Nancy Pelosi still backs President Biden's handling of the southern border despite new data out showing a record-breaking number of unaccompanied minors making the dangerous trek to the United States, her spokesman told Fox News Thursday. "
     publishedDateTime: 2021-04-08T20:43:16Z

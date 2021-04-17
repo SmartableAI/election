@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-america-first-policy-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp"
 type: article
 quality: 190
-heat: 430
+heat: 450
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e63c96c-1b17-4d3b-b75f-1b419f4c56cd/d5527c0b-a96e-4bc2-a46b-26416e13e295/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democratic Sen. Menendez rips Biden for keeping Trump's 15K refugee admissions limit"
+    excerpt: "Democratic New Jersey Sen. Bob Menendez ripped President Biden on Friday to maintain a limit of 15,000 refugee admissions for fiscal 2021, warning in a letter that the move “threatens U.S. leadership on forced migration.”"
+    publishedDateTime: 2021-04-16T22:55:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/othjm3jFcC4/democratic-sen-menendez-rips-biden-for-keeping-trumps-15k-refugee-admissions-limit"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-sen-menendez-rips-biden-for-keeping-trumps-15k-refugee-admissions-limit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-sen-menendez-rips-biden-for-keeping-trumps-15k-refugee-admissions-limit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fafa7c7-f2c1-423c-8677-65ff44771132/66a5cf32-90cf-4fbc-92e6-1353f8e561b8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

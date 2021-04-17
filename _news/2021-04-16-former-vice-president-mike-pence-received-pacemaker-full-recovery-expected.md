@@ -59,6 +59,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
+    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
+    publishedDateTime: 2021-04-15T22:12:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
+        width: 1200
+        height: 889
+        isCached: true
   - title: "Former Vice President Mike Pence has pacemaker installed"
     excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
     publishedDateTime: 2021-04-15T22:08:00Z
@@ -148,20 +162,6 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/ULCkz1RgzS4TZ4BRJuVbbYY8p_Q=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/RFKZZCVLWJCSTJQRFSOEJJV43Y.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
-    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
-    publishedDateTime: 2021-04-15T23:12:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 48
-    images:
-      - url: "https://www.baltimoresun.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
-        width: 1200
-        height: 889
         isCached: true
 
 secured: "gkFG+hGNiJkxHM/0rAP9pIfpcPHM3iWAnCjGKUfTpceG5Rph9zTCICSlC6IdZCpJRl46hFuapgLg5/VqCvT86sLn+I3lchTxOx3423mxtI9oSORGF3ijvtUl/8Qyl6NoLWItH00XURqWlSk28QD/DX12cWhTigjRwsvL2S3fNHIwLCCqi8LhLY19Yj5F8602erCoRhDHJ3N+gpIMxN8919bJkMLcxSDbeMBACgRMRIPrv/IT4VUA3klxfu3odRFoMR0+Y7cWoZDQUGxZ7eGVHm49qARw1/AYT3PND7mO5+VUQbvFahpmHaHTP1Gu9f4AqM3eoHdb2s6zwZ02G8a29aw2KdmhWLEXv4EV8kQ5Lnn3uAdTScCQT0g/uiYVXGB56le3HwukrkMySKPAQtb/LE0XlMxpSFbF4QyjMs6/dKj0SlsjMzYgWx53a4StlHvrbnP7B6oTHH8tdITzFqynqCbmSj7R3OrmO/H+UpG9k7QWgwBgn+4GmRsGavwunPincFVuu/BM49pcBGPlOmYvxQ==;Bys/e3LqmGcBDZP+fdJqag=="

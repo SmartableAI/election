@@ -176,6 +176,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Outcry as Biden breaks pledge to lift Trump-era cap on refugee admissions"
+    excerpt: "President condemned by progressives and advocacy groups despite ending ban on arrivals from Somalia, Syria and Yemen"
+    publishedDateTime: 2021-04-16T19:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/16/joe-biden-refugee-admissions-trump-us-immigration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/16/joe-biden-refugee-admissions-trump-us-immigration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/16/joe-biden-refugee-admissions-trump-us-immigration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/96919741d2beb8c31ce19ebfcb2c34cbd930a7e6/0_116_4096_2458/master/4096.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5fda0d5918f813b5087935a0f28c80e9"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden budget seeks to flip script on Trump administration’s spending priorities"
     excerpt: "President Biden’s first budget request to Congress includes $1.5 trillion in federal spending that turbocharges funding for education, health and environmental protections — flipping the script on the very programs the Trump administration long ..."
     publishedDateTime: 2021-04-09T15:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 4430
+heat: 4450
 published: true
 
 provider:
@@ -2348,6 +2348,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/02/us/politics/02dc-icc/merlin_185256909_6ba50a46-da01-42bb-bb97-16b6e30b6336-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Biden to raise Trump's refugee cap after blowback"
+    excerpt: "The president has been facing heat in recent days for not following through on his February announcement to raise the previous administration's limit."
+    publishedDateTime: 2021-04-16T18:26:00Z
+    webUrl: "https://www.politico.com/news/2021/04/16/biden-to-keep-in-place-trumps-refugee-cap-482424"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/16/biden-refugee-cap-482424"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/16/biden-refugee-cap-482424"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/60/55/6487ef904d6187a72299b8504fd8/210416-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."

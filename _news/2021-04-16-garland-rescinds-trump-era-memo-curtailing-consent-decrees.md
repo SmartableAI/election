@@ -968,6 +968,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Merrick Garland rolls back Trump-era restrictions on forcing local police reforms"
+    excerpt: "The Justice Department’s new policy is likely to be welcomed by civil liberties advocates, but face criticism from conservatives wary of government overreach."
+    publishedDateTime: 2021-04-16T19:33:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/merrick-garland-police-consent-decrees/2021/04/16/d1586b26-9ecc-11eb-9d05-ae06f4529ece_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/merrick-garland-police-consent-decrees/2021/04/16/d1586b26-9ecc-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/merrick-garland-police-consent-decrees/2021/04/16/d1586b26-9ecc-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CJPNT7U62AI6XHIFVYDPIUU6ZY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Ex-Trump aide Stephen Miller launches legal group to fight Democrats in the courts"
     excerpt: "Washington — Stephen Miller, who was a top aide to former President Donald Trump and the driving force behind his hardline immigration policies, has launched a new legal group that aims to take the fight against President Biden and Democrats' agenda to ..."
     publishedDateTime: 2021-04-07T19:06:00Z
@@ -1844,6 +1860,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "jU+bP9DnqTzoVbBnOSLxFEu2iW22xhRVEkIBhO1VxlOxsOY3XY/TpJlidNepurR6EzuuKwErW3dTokYhop12UxuM3sW0DEO46tryOvcjx93gvEHr7F4wx9tO66bNe3uu+TCofcm+3isn2u6wpb4x0a3xpgrhNPpcqK3Ug83zm8TgtVjEk3EMITTfOW4AxgG8VX+xZk4DiFVX/QSPUU6lk82UKmqFIYr55+IjzLjwlO6i8DdGynB1jYmxgjPgNqyusl69ZcKwzA/DK+zn78JCZnk0DWywv8ZSZFZ/x91MfxoryqVDe2bp1aZaww+rVfcj1PXAn9JHzODcw3khl3r7vV/u4a+GIe0HrAj0fGPVHhk=;TeoOhjUbs4hgqJkAbDbYWg=="
+secured: "r2NyjVwc1jccS4tZQyjBKeroa8n/ooGdGJdYkBrtIqcRmilkRuqsrOV17S7vzICJ5YZ+2xNzIohWM9jde9eDmCG/G6a3UNYJsAGiJzoUZLBy8919qh7uJYHPSfhjXmZ+eCuFe5Em4aNYRFDEhsOKWKOrOv6UJOaJaKbXrGJxlMLiGHh4hUctanA9L+H8ezMbZzzemkmkV0A/V06t8VIPYW8AS5JOIhehU1TAi7EqEawsxQstKvB+9clc+F/OQcRMw6KxAJ/UqOLtzvDbwHt3weHXL2EHWpTDDvQ0hr8GXUnui13wvmtZLo6aiRg12Q253m5LlV8DTqG7bT2oT/Bu5qmswW3uLNtymtHNZ4S13ciRhYgulXsJA5xEkWDwmSoVuyrCQ42QuFRdqta1Vs1WaKIpp887GucyUlI5jzz+4qvUXr/g3D9Q4DGe3DAs3UZu+RvYxvRaYcA8Phxeajs6rzuvHVE3Y2A5DlfFTt4nFdxT9EKUEiEEUfrzWecNcwwgjP/HkEkIyarzs+ThkDEKXw==;9BREteKrt/TETkah18PxsA=="
 ---
 

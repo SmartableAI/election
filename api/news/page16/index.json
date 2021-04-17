@@ -2,6 +2,62 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-03-25-us-to-resume-diplomatic-ties-with-palestinians-that-were-cut-under-trump.md",
+      "title": "US to resume diplomatic ties with Palestinians that were cut under Trump",
+      "excerpt": "The US will resume diplomatic ties with Palestinians that were cut under the Trump administration, the US ambassador to the United Nations, Linda Thomas-Greenfield, told the Security Council Thursday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZvE_ovFllw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DZvE_ovFllw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319143652-linda-thomas-greenfield-0301-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/us-palestinians-diplomatic-ties-two-states/index.html",
+      "publishedDateTime": "2021-03-25T13:07:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-biden-warns-north-korea-of-responses-if-they-continue-to-test-ballistic-missiles.md",
       "title": "Biden warns North Korea of 'responses' if they continue to test ballistic missiles",
       "excerpt": "President Joe Biden warned that there would be \"responses\" if North Korea continues to fire ballistic missiles following the hermit kingdom's second launch in less than a week.\n    \n",
@@ -1307,49 +1363,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-fired-yale-doc-says-her-tweet-diagnosing-trump-dershowitz-as-psychotic-was-free-speech.md",
-      "title": "Fired Yale doc says her tweet diagnosing Trump, Dershowitz as psychotic was free speech",
-      "excerpt": "who defended former President Donald Trump at his first impeachment trial. Bandy Lee, in a complaint filed in Connecticut federal court on Monday, accused Yale of breach of contract and wrongful termination, and said her tweet claiming Dershowitz had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/employment-yale-idUSL1N2LL2BR",
-      "originalUrl": "https://www.reuters.com/article/employment-yale-idUSL1N2LL2BR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LL2BR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LL2BR",
-      "publishedDateTime": "2021-03-23T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

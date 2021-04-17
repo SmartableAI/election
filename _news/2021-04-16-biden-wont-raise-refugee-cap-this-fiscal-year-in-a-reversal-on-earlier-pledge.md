@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says Iran enriching uranium at 60% is not helpful, but is pleased country engaging in indirect talks"
+    excerpt: "President Joe Biden on Friday said Iran's decision to enrich uranium at 60% is not helpful and counter to the agreement the countries made under the Iran nuclear deal, but said he is pleased the country continues to engage in indirect talks with the United States.\n    \n"
+    publishedDateTime: 2021-04-16T22:24:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8rV8u9MjRy4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411114711-file-01-iran-natanz-nuclear-facility-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "NsqS2BV2h3jOQUFl4FUblF1sH1renotp6oksumQXxqpAhHOMJekyWrwtbYVZF2p0zxgncUoW3kED9Q5OmOCgZk64Bp9buxaaYrYb+SqU1WP6piBw4AOU2hbdrNlhMpumj0VAeZTtZQTYOT1+L58+3yHLYEo0F/jrTJNecDn2QUvAjRDA8JBFcIrq1LZI6PSXgCe2z6gicvo4ffv4yokc0EYSsZol0UPy05dsWpEfvdP8MyBY6f0h7lyO8hm2hfzmIT4eTPPsmwpaL8xXl5fMEfhk5u6Cl2LKCMQ8LHKzpFH0P+gw639v5gnMJzMIW1tK0RZsrVEtjjuSGOIMk+rwrtPjhPGpCNCccEQo+WGoZLo=;4aHqPHKwn1oIHwtYEkr30A=="
 ---

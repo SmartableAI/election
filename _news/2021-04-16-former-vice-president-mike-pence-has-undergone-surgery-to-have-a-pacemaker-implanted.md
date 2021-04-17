@@ -2,24 +2,28 @@
 category: news
 title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
 excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
-publishedDateTime: 2021-04-15T23:12:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+publishedDateTime: 2021-04-15T22:12:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
 type: article
-quality: 48
+quality: 98
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
+  - url: "https://www.chicagotribune.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
     width: 1200
     height: 889
     isCached: true
@@ -164,6 +168,6 @@ related:
         height: 800
         isCached: true
 
-secured: "w/YxbCt3XWsAIyjLFAA5KqdBX0rkBJqFUSgnHGEqsfE5n+f5MTS8IU6Smla882zrlNJRQP7vpgtTlJZ2GDyB5JiBCRcqM3YKtt1UhCyD+eoH6bCAgTYgCx0QNrP0OsXZTNZtfRQeCY6RkW8DHCesQh0qsFaF4ROh4ed9FTw3lFKqp5ZWSCNBHJl56dlSjWJS92yjVX7oksEVBgju6WBITdMS688cxwMDPHeurs5cYQjYvsQDWzam3+ylgi5DRy7YSuqu2xumdVeQCyFw4hrEkUd+bzbOtUspuaCOH8f9bzHxzdTtrj+3P5vwPERbe1fCRtTewrcJIqhIyaNWgQB5MzWGDaL9ArJob6JzqcSpQBY=;C++VDqJ7RyBeUkW+4zDmcw=="
+secured: "2zRSZ/n/T5mBX+echqZlDvGdJesM25TRUkSnkFLcXfcBz57DShXd0ovuw1lp5+GDIed+ynQtZIAMDGI/0Ki8BLjTAl6JZUGzreAnX+QSWAo4BVolBHoBMp0FURVkl0+lac5Qb41h3Qrib2LrQ8u2il3m38w7bfjLyocfC0xtkwM/+gr6yFz1lyagR0t9HbBorw7umRDGb1TC+cKljXpBFF19/7dP/jiCkgDb879JKRrNUTuvvQwOvmAKvVNiHNeeJWmEmKqdvWG8uEXOpuZMykpQ/zH72msPiEIWCoWKoY6qzaZueRzyX2K4e6wuyV/8WbIuwOglyfSiLA3spnoN1FOQdZu3V9lM9z9pc5GEJL0=;z03xwJxi3FIKlWClLN6vOw=="
 ---
 

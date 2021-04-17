@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
 type: article
-quality: 113
+quality: 123
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://i.guim.co.uk/img/media/7817b7be04dd2137db9e6559de71b3b27fe0c791/0_195_3008_1805/master/3008.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa400964ddbbb8c6cb25902b044b5ad2"
@@ -394,6 +395,6 @@ related:
         height: 1472
         isCached: true
 
-secured: "N8r/yKeorZ/J2Mu5FcU7S54D+yFOIz972qku3Dfc/abXg2XT1LlU8rM0lb5dJjBQCXZDva8gJdp4wmgIhziy7dGQGVEcPSlbv6LvTHeOm1u7z7+O8cmwz0MQeA13jCfDJfXHomrHY6IG2hjmC2Fx9i5u7nqfMDhGTzy8i/U5wGoxGOw6KNooTPRNBnwFPtzujismycnnp5G0tmWPD2h2wcv58/FhJjZDSf+yylrwTX2f5ruY2B/Mn4KzKyInvJBlpMegndlf4L44rhzr7PAsSFdoEFg+UkO+JdRX+pUV7HU9fQ39TqVES2ljimCyIWyRdvzIBodUy81gbLSlQ7BapGZlab6fLV7VzhV6fNN4wOk=;Hz90/DLroQk2NyPOINUZQQ=="
+secured: "rJmqiKz1tgPGiCQJWvzeB1MmnCfFDM/3LdvUZROYdqyLT5es6aR15JxaFQJ9oeo/uB9Qj+Io93Xr7gqNj16Lb9808OAUa/Kwikq0FwmkvGoYtyQpLqtzUzfNyvXnrYK+QJoRcgbRqBoDD9A+MGId1vWlj0YK72JtvXeEycrcaV+iQQcs4QhMFT3ZLeQUGijTZ8HehsEGQp6uM1A2aWrGs5fDEJjnJIBxMZgrjmWpQejuBelatukKn7rjruy8Gd2d2VLgv0WRWmSK23u8fRHuv0goIm49Yhtbs51nxGA+0elM+M4HbjqDbc6wJMK1SCR9LjJOIXRTDoy6s3jm53/wMYo9wqpHKFrljWxHWgbGnkZJAVjDXO9GJjImGojHmMMqy3nq5+rsKE38NZAjatd01RXy4Y1b8nli6fRXRqK3XhCvCWxHEQ+p4vAt0fgP9kfrXdoSBBpTzvdaiv9CkqXj4w2JlN+ifOt4+yEsQhGigDeva/eCTNQk3w7xuiLJg4hgUgzyc7MKIzTWv87AwimQAA==;PIm091zYaUclaHcYtlsocw=="
 ---
 

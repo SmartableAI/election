@@ -351,6 +351,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden defends his gun reform strategy"
+    excerpt: "President Joe Biden on Friday defended his push for Congress to take action on gun legislation, saying he can work on guns and other legislative priorities at the same time. “I’ve never not prioritized this."
+    publishedDateTime: 2021-04-16T22:17:00Z
+    webUrl: "https://www.politico.com/news/2021/04/16/biden-gun-control-482549"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/16/biden-gun-control-482549"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/16/biden-gun-control-482549"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fd/1a/cbd7f1744ffcb0783b74bf202041/210416-biden-2-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Why Biden Isn’t Getting Flamed as Being Soft on Terror"
     excerpt: "As Joe Biden announced the withdrawal of troops from Afghanistan, one of the most notable things is what did not happen in the next 24 hours. My inbox wasn't immediately filled with anxious notes from old Democratic campaign hands."
     publishedDateTime: 2021-04-16T21:46:00Z
