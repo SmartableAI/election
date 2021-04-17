@@ -2,6 +2,62 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-02-23-cruz-opposes-xavier-becerra-as-absurd-biden-pick-for-hhs-secretary-hes-not-a-doctor.md",
+      "title": "Cruz opposes Xavier Becerra as 'absurd' Biden pick for HHS secretary: 'He's not a doctor'",
+      "excerpt": "Attorney General nominee Merrick Garland repeatedly \"dodged\" questions from Republican senators during his confirmation hearing before the Senate Judiciary Committee, Sen. Ted Cruz, R-Texas, told \"Hannity\" Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts_PjIFcvTM/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts_PjIFcvTM/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bd54b59-efda-450f-ac9c-2f7f53926495/1d8ab2cb-01ff-40f7-9614-c89cbd108e6c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp",
+      "publishedDateTime": "2021-02-22T20:13:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-pence-and-trumps-relationship-is-amicable-source-says.md",
       "title": "Pence and Trump's relationship is 'amicable,' source says",
       "excerpt": "Former Vice President Mike Pence and former President Donald Trump have spoken twice since the inauguration last month, according to a knowledgeable source, who described the pair's relationship as \"amicable.\"\n    \n",
@@ -1304,62 +1360,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.md",
-      "title": "Biden revival of immigration 'catch and release' won't work: former CBP chief",
-      "excerpt": "By reviving the so-called \"catch and release\" approach of the past, the Biden administration is \"facilitating illegal immigration,\" a former head of Customs and Border Protection argued Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rnq4rKqsh9s/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rnq4rKqsh9s/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp",
-      "publishedDateTime": "2021-02-20T17:36:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

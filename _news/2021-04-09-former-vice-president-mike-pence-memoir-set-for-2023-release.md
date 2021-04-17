@@ -1850,6 +1850,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Gov. Kemp Faces Next Test From Trump Loyalists in Georgia"
+    excerpt: "Georgia Gov. Brian Kemp and former President Donald Trump face key tests Saturday in Georgia as many local Republican committees consider proposals to censure the governor for not reversing President Joe Biden’s November victory over Trump. ATLANTA (AP) ..."
+    publishedDateTime: 2021-04-17T04:20:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "U.S. Interior Dept Revokes Trump Policies, Puts Climate at Center of Decisions"
     excerpt: "The U.S. Interior Department on Friday sought to erase the Trump administration's pro-fossil fuels legacy from the nation's public lands by revoking a suite of policies that boosted drilling and mining and ordering that climate change be put at the forefront in future agency decisions."
     publishedDateTime: 2021-04-16T17:50:00Z

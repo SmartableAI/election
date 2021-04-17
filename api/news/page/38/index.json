@@ -2,6 +2,62 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-02-15-trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.md",
+      "title": "Trump drives past jubilant supporters at impromptu rally in Florida",
+      "excerpt": "Former President Trump marked President’s Day by waiving to a throng of supporters gathered near his south Florida residence.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtN08aCAz_o/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtN08aCAz_o/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
+      "publishedDateTime": "2021-02-15T14:24:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-it-is-a-scandal-former-secretary-of-education-blasts-biden-administration-over-school-closures.md",
       "title": "‘It is a scandal’: Former Secretary of Education blasts Biden administration over school closures",
       "excerpt": "Former Secretary of Education Dr. Bill Bennet said Monday \"it is a scandal\" for many major public schools in the U.S. to continue to be shut down under President Joe Biden’s administration.",
@@ -1296,58 +1352,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-sen-blumenthal-calls-trumps-defense-an-insult-to-all-of-our-intelligence.md",
-      "title": "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'",
-      "excerpt": "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence",
-      "originalUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp",
-      "publishedDateTime": "2021-02-13T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

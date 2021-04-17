@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2549
+heat: 2569
 published: true
 
 provider:
@@ -1851,6 +1851,17 @@ related:
     webUrl: "https://www.usnews.com/news/technology/articles/2021-04-16/facebook-oversight-board-extends-timeline-to-decide-on-trump-ban"
     ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-04-16/facebook-oversight-board-extends-timeline-to-decide-on-trump-ban?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-16/facebook-oversight-board-extends-timeline-to-decide-on-trump-ban?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Gov. Kemp Faces Next Test From Trump Loyalists in Georgia"
+    excerpt: "Georgia Gov. Brian Kemp and former President Donald Trump face key tests Saturday in Georgia as many local Republican committees consider proposals to censure the governor for not reversing President Joe Biden’s November victory over Trump. ATLANTA (AP) ..."
+    publishedDateTime: 2021-04-17T04:20:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

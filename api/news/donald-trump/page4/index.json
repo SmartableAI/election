@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-31-trump-advisor-peter-navarro-went-on-a-wild-rant-on-fox-news-calling-fauci-the-father-of-the-coronavirus.md",
+      "title": "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus",
+      "excerpt": "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
+      "originalUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6064514b6183e1001981972d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
+      "publishedDateTime": "2021-03-31T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-two-capitol-police-officers-sue-trump-for-physical-and-emotional-injuries-suffered-in-riots.md",
       "title": "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots",
       "excerpt": "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today.",
@@ -1486,58 +1538,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns.md",
-      "title": "Morning mail: NSW floods worsen, Australia exports 'negative climate policy', Trump returns",
-      "excerpt": "After reviewing policies and procedures, Buckingham Palace has acknowledged that “more needs to be done”. Recently Donald Trump has released short, combative statements that many observers have likened to his tweets of old. Photograph: John Raoux/AP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
-      "originalUrl": "https://www.theguardian.com/australia-news/2021/mar/22/morning-mail-nsw-floods-worsen-australia-exports-negative-climate-policy-trump-returns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/72ddb0c4f51fe31a576cf63feefd1cd1050b93a3/0_80_1200_720/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b992d7764eb421318decccd865b4b8bc",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

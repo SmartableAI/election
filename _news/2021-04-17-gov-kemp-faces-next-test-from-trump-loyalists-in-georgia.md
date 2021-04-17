@@ -1,34 +1,28 @@
 ---
 category: news
-title: "McConnell seeks to end feud with Trump"
-excerpt: "is seeking to end his running feud with President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
-publishedDateTime: 2021-04-13T21:50:00Z
-originalUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump"
-webUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump"
-ampWebUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
+title: "Gov. Kemp Faces Next Test From Trump Loyalists in Georgia"
+excerpt: "Georgia Gov. Brian Kemp and former President Donald Trump face key tests Saturday in Georgia as many local Republican committees consider proposals to censure the governor for not reversing President Joe Biden’s November victory over Trump. ATLANTA (AP) ..."
+publishedDateTime: 2021-04-17T04:20:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://thehill.com/sites/default/files/mcconnelltrump1_101617getty.jpg"
-    width: 980
-    height: 551
-    isCached: true
 
 related:
   - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
@@ -718,6 +712,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1777571/former-president-trump-speaks-cpac.jpg"
         width: 3000
         height: 2177
+        isCached: true
+  - title: "McConnell seeks to end feud with Trump"
+    excerpt: "is seeking to end his running feud with President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
+    publishedDateTime: 2021-04-13T21:50:00Z
+    webUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump"
+    ampWebUrl: "https://thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548061-mcconnell-seeks-to-end-feud-with-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnelltrump1_101617getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump-era growth of settlement growth has only begun"
     excerpt: "An Associated Press investigation shows an aggressive Israeli settlement spree built over 9,000 homes in the occupied West Bank during the Trump era"
@@ -1855,17 +1865,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Gov. Kemp Faces Next Test From Trump Loyalists in Georgia"
-    excerpt: "Georgia Gov. Brian Kemp and former President Donald Trump face key tests Saturday in Georgia as many local Republican committees consider proposals to censure the governor for not reversing President Joe Biden’s November victory over Trump. ATLANTA (AP) ..."
-    publishedDateTime: 2021-04-17T04:20:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "U.S. Interior Dept Revokes Trump Policies, Puts Climate at Center of Decisions"
     excerpt: "The U.S. Interior Department on Friday sought to erase the Trump administration's pro-fossil fuels legacy from the nation's public lands by revoking a suite of policies that boosted drilling and mining and ordering that climate change be put at the forefront in future agency decisions."
     publishedDateTime: 2021-04-16T17:50:00Z
@@ -1887,6 +1886,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "vYVuERTSMdeXENMIFAVNsbevklxnkYsczx7nRyDYGlCLp6xoRvc2Qt+sQL7YdI3o+NZsXbiz94UjB+o/U8GiLiKZvSjs1OWyllrhyUfQP7eLGPm5q4do5uG6tPfwoDdSxX+bPtd6BBZYnY8vOE/dZOh/rHGVpvrvNQCH2vsklRa7wb1qf4YM+CwKQ1alleIHiNZYoweGeKoIQMuD2XcHerUH3AEWVJSmE+3HYsler2e15ICqvr6fm1MDu8nQsd4OuxXkXOjcKEKUnT5BQoV9yYmsdVZ32XoXTq1Z2nhXKFWvfpZindyQtPvYDmsmlYVApPP8P2EbcAC+vNFSXfq1qeivMxT0LXeJubTCcXuPjXmD5gQmx+ad7xgEaZL3u+r5NI41EcnMMwWB9NQAFydtN/Rvw92w4xfP5Kn+mldzu6UhV3xJhSouj6IqmIT9Ywe+I1bqkPGqpzvUR8xlKdsj8m2Xsv0XhbLodYFQphhPmiMcmAGrCl+Jr6fdMRpQY/qqDjZ7MRwbo1xtC7oRC1Hbfw==;sIzQ9neF9Id6A5UgBmJwSA=="
+secured: "6KCldA7icohhoPkKiLhvBk4XeyHuphHz2YSd2JjPJbe7DWxHkhfY8MY8LpYnQpXuEtRuIaqSaEfOXSEE1MIpQXqbvPhGY37YIpsYed1rq1Wy9CtzFxVeZn7c4hhc11utqtVUCWOrzIOIklGhmWirmpFaxpPGUduzPjnqvfaoJCOehIH0IJLsZf0wT2YWzd3NBWezexach4P54njbAjnEg5bh+Pb+6UoZuVc1MJ9nU+Z85/tTWJIPE//6h6gRsJfImNEibh3PtSDIxuH1LJXKoxjrQdTs0xV6AVvLIeDpZ+htGgSy0nm16N1A8t+AWQgDiww8j3n9c7rwHDTjYj2X7qv/rpV1vf+S3O72wwegqnbHSGLcjf8ml0F/sIUP+sPiMCCPR4/qQGU4PxxZaPgdpDF6OT98B/l2JEXR3X4RIAWIp9MZSZn5Ik+EvZwsSZVNtFgXXs/qSjt4CYbscJ0KDSTHoLtEdWCLZApT5qbP9KqD5y1qt3nzcz8K0UAC+WaAOoqDiK7DUVoDq+pVG/1ALQ==;Wq0U2yD9JqyNr7/RcOnPXQ=="
 ---
 

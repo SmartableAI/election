@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-17-white-house-to-raise-trump-era-refugee-cap-next-month-after-backlash-over-broken-pledge-live.md",
+      "title": "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live",
+      "excerpt": "Democrats had denounced president’s plan to maintain historically low levels set by predecessor",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-607a0b0a8f0881c4146948ee",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-607a0b0a8f0881c4146948ee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
+      "publishedDateTime": "2021-04-16T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions.md",
       "title": "Pro-Trump lawmakers form caucus to promote 'Anglo-Saxon political traditions'",
       "excerpt": "Marjorie Taylor Greene (Ga.) and Paul Gosar (Ariz.), are reportedly forming a caucus that calls for a \"common respect for uniquely Anglo-Saxon political traditions.\" A policy platform for the group, which calls itself the America First Caucus,",
@@ -1519,63 +1562,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-old-trump-health-team-rivalries-resurface-in-texas-house-race.md",
-      "title": "Old Trump health team rivalries resurface in Texas House race",
-      "excerpt": "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689",
-      "originalUrl": "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689",
-      "publishedDateTime": "2021-04-12T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],
