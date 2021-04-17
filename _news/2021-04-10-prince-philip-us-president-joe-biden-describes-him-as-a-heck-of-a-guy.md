@@ -146,6 +146,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Why Is Joe Biden Blocking Joe Biden from Raising the Refugee Cap?"
+    excerpt: "Jen Psaki had an almost comical inability to explain why Biden hadn’t signed an executive order he promised more than two months ago."
+    publishedDateTime: 2021-04-16T16:19:00Z
+    webUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/"
+    ampWebUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/President-Joe-Biden-2.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "W3a/jWtBWkGGnSY85NYsVKk+4Tde68+2IgSYMUz++h/Vgc6jlimy3/5o4f3pijR8l/KO9idLDM4VUGkj02lKuwgbgTEYlSNpTCSmrNvIvRe1bO85MZ7+4jeQtxVMHmf4cCRyWeLToh36AwEKJzMkuyyF+Fuk4g9aO5iBRDj/C8r1MhzK/Hs6BThPWFxMzSTiMeH/uMaV26dSA4E58h0FUuW3+aCayN7jhGskF93CornzS3+rcEE62baoiKvTuPQyGlnKUuCpHq8OpEQN7XdQ8gYfl5oW0EU1AdVOBCZIiFB4Ag1z0t4tydVeMisTaLX4Ey/RpAj8vTr+pS8PrWcXbT0LmHA9Dv36F5kaCIMLJu0=;Uk0b/86VZ2SsXyyBg77sQw=="
 ---

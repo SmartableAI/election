@@ -155,6 +155,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
+    excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
+    publishedDateTime: 2021-04-16T23:56:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/bd28193e88e83e91050bc266b436a2c4/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "50YjUaizY0Oo/Mw/2dolqgxltF+I2b4TN0IbKTzLcoauYhF9PZNav43GBkz4wmA4RibfK+f0z+oVtpF6tct1KJ6dSPMn914OQzJop5xFD9ja93GMcXdyS3NZAyGIz1IJS5I2J9qheHuHEw70YOnJ6oOpFgsznT37TTeo4XkXB0jCIsXm9IP5nyVIsEms+SCqayLIEvv1EXLOTLN9XX6M1BYHp0ozW0cSzz3BXLGgsoE4FRI1dSXL9cTXCJJtD4nUfFfVBk1nVBlW/2Sx8JQ8xmJDfRwe4LsRkWdWEVHNsM+HZd6qG0NN94Escc3vkRspf177IWL5AHfs77As1NfnMsCnOOaUGt2w3DaW/ULSXdcYk33WS1Q+9wHEj98v2mGwjhmc12G3f7ljH1Zt3d5X3XmX4ZcCKIppC4HmDOM4bovGoAAGe/lvqTydcVuhQK4Rtqi8K4BgZcQ67ddTrtuqOolOBA0QxRYn5UZuE0JcGBoYeG8ujlfVRcQrZAp8FSLyiFC3u/LtLOCieAH+hJmQhw==;E1L1jDhYsDPEIyZp1gyAxg=="
 ---

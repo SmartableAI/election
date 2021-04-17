@@ -1,33 +1,29 @@
 ---
 category: news
-title: "What David Chipman, Joe Biden's ATF Nominee, Allegedly Said About Waco"
-excerpt: "President Joe Biden's nominee to lead the Bureau of Alcohol, Tobacco and Firearms (ATF) may have falsely claimed that cult members at Waco shot down helicopters. Newsweek has contacted the White House for comment on this article. Newsweek has attempted to ..."
-publishedDateTime: 2021-04-09T12:12:00Z
-originalUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231"
-webUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231"
-ampWebUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
+title: "Why Is Joe Biden Blocking Joe Biden from Raising the Refugee Cap?"
+excerpt: "Jen Psaki had an almost comical inability to explain why Biden hadn’t signed an executive order he promised more than two months ago."
+publishedDateTime: 2021-04-16T16:19:00Z
+originalUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/"
+webUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/"
+ampWebUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
+cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: National Review
+  domain: nationalreview.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1774249/former-atf-special-agent-david-chipman.jpg"
-    width: 3000
-    height: 1982
+  - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/President-Joe-Biden-2.jpg?fit=1200%2C700&ssl=1"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -46,6 +42,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1774295/president-joe-biden.jpg"
         width: 1024
         height: 706
+        isCached: true
+  - title: "What David Chipman, Joe Biden's ATF Nominee, Allegedly Said About Waco"
+    excerpt: "President Joe Biden's nominee to lead the Bureau of Alcohol, Tobacco and Firearms (ATF) may have falsely claimed that cult members at Waco shot down helicopters. Newsweek has contacted the White House for comment on this article. Newsweek has attempted to ..."
+    publishedDateTime: 2021-04-09T12:12:00Z
+    webUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231"
+    ampWebUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1774249/former-atf-special-agent-david-chipman.jpg"
+        width: 3000
+        height: 1982
         isCached: true
   - title: "Biden's troop withdrawal plan marked by sobering concern: The Note"
     excerpt: "While many allies of the president issued statements of support for Biden's decision, CIA Director William Burns warned withdrawal will inhibit intelligence gathering."
@@ -136,22 +148,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Why Is Joe Biden Blocking Joe Biden from Raising the Refugee Cap?"
-    excerpt: "Jen Psaki had an almost comical inability to explain why Biden hadn’t signed an executive order he promised more than two months ago."
-    publishedDateTime: 2021-04-16T16:19:00Z
-    webUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/"
-    ampWebUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/President-Joe-Biden-2.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Prince Philip: US President Joe Biden describes him as 'a heck of a guy'"
     excerpt: "US President Joe Biden said the entire administration sent their condolences to the Queen on the loss of Prince Philip, saying he was a \"heck of a guy\". He paid tribute to the Duke of Edinburgh's \"lifetime of service\", his active duty during World War Two ..."
     publishedDateTime: 2021-04-09T20:39:00Z
@@ -167,6 +163,6 @@ related:
         height: 225
         isCached: true
 
-secured: "hMTSYo8YJix4VaC0u5i+ICVYxCYdJbXUDMAKp6/iK9cJFbQ9dm/hkaTAwyLkB6HC+mKFxBq9v7PQ4l5hsq4zbcwljumssS0jAlEg3mgm8gLqOLHRhI4LLPMiEP4QaHox+20kI9p+DX2TG2vGKE+EmTjCLShQy6Afb6PfsPoikl73SwZ91ncc4we/iee4PTuBW/9ZsNXLt57SDNpEL+Oz3qkaw9OywqBOMN8pC0Y/p6eUhuTjrDjITmjPlBOiXM1qOVk6VqUuUJE5r3vsW/e0LQwiLva2VGqvhIov6emiqlLzL65RtIIGUMX5oAhZAcerbJpijwQXPbmpn2E9nTC1EHbuIM1D0JYDjL/PvhptFci9X257+FuQcYo0xVe1N7quHlyfTmRdpzvOMPLvlnpqo1OF1fWC7X+i4RHK9hN30hFWpTzQcUZTfav4pkIv8T5aEOM+grwMCv2HUNb9FbjKMpcLU+/XsmVCsPcCwCP1XnmXqAr7XQntdUIj7b+66XJDN6QBwCEYtmbgvwpGdEcDxA==;0R1Q9a7QZgurslXGjZ6KXA=="
+secured: "NgvdknnP62b8m5oQtdtS/EIUJ/AnP/iGxSRrDIGfvPHEk0UHGm57gXk1LAA5jHr5GBaCKZ5vX6Ssh37f9Wd7xQVmIWT/xKlq1lZubCv7elFgh2OEbZGRVbVn5q2QAsiCS6CzU9dMFu44dv5dlLerJFO9C80IvEBrvpUorMtyD+LNMbMECeOi0Vbj1h8zSNmbTtXs/m+E4Pp9z3dmOTwzbH8bb5GcBAYGBKbUMozKwkzgv9pir/pLbrQqZUPlHWkJbSD0V61HSobpmqgQYVjKDVM6YWi29Yhqp1VezE55mqGJKmaAzp9O1YW6KTvjEsmodE/4/pGAgOazvTDpeagez1NBQ2PE/Grr9ecP2D3jAGo=;Vgj+2HQAP6T5Hlnmc2E9+g=="
 ---
 

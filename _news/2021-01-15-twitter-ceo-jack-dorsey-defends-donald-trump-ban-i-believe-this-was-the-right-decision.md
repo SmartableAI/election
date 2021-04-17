@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/4153641001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4153641001"
 type: article
 quality: 116
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: USA Today
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Jack Dorsey defends banning Trump but admits it sets 'dangerous' precedent"
-    excerpt: "Jack Dorsey opened up about the decision to ban President Donald Trump from the platform in a thread, saying he feels the action sets a \"dangerous\" precedent."
-    publishedDateTime: 2021-01-14T20:14:00Z
-    webUrl: "https://abcnews.go.com/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Business/jack-dorsey2-01-gty-iwb-210114_1610635295543_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "CAUg688w2px873wI/LGNr3jek3rGd31/KbLXGr7bV47e+MLAC6DZbfUtst+ysiJgmAnuRDvkCqqm9Q73KUCjZSySmOgs1SoaomyhyUYAUrXSgwkbI4PP7utvbKQncL6KElnJEUh1h0Dj+JxpIaI+smdZNd1V/TS58Szb4+dFR4bWQpZKY6NSKMfHJLCyK0PCQsO1pTs6KwHuHeCv8HG2+eIIxI4skbsfUwqs3SwhdUPfcWcxSTdWiqwS7Sej/H2szUpAbEI40H2MCVV6dkMR/ymbXWNZjT10rjhPQkcHNZRxLl/W9YRVIRPjrLR441QwNlu4Scov8ajsg/Xm9uM66wP0qtgeEekK8fvIluF48Lc=;Tn90pjUNJvBIeC0A/AEzuA=="
 ---

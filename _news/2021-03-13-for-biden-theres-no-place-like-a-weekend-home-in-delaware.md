@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-ho
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
       - url: "https://i.insider.com/604fb8023c6489001943b3ad?width=700"
         width: 700
         height: 525
+        isCached: true
+  - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
+    excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
+    publishedDateTime: 2021-04-16T23:56:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/bd28193e88e83e91050bc266b436a2c4/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "K2OnD+uiHpSOIub1QW/A802rsr/zlcOs92oCDEnmfMdXzQKm1fx7ujcPTDoA4J0QU+S+WQFAA9dBiHLyZtgr/F7MM9Kp7M4K8unSpWDDMgFenSSZ6CgzZLz6bgR5/3vqsVd+ZR5bfgtMmrh9nMlIH2zqT9uyXXQRcwOGOa543sAiiEvmUy96Bg2oLDrz+JjWWd3g+9riZljRgIrgZLyuYmX5NLgEk7BdmezNftXoBsFFXskZJL1IveUFkCXjGisKgJIYMFCJXTj+nmY6zCKZ4VkLjuwqV/aNS1Wk4+RrL/azG91MBcTRxdH6OvOM4Z8lqaRZsZDiw4g95YtKHDYWb8bi2wGliFzd2o/H83z/enY=;bWnPMZDp3gLrXIq149OkBg=="

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "For Biden, there’s no place like a weekend home in Delaware"
-excerpt: "WILMINGTON, Del. — As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured to the White House and said it’s a “magnificent building” to live in. Except on weekends. Support our journalism. Subscribe today."
-publishedDateTime: 2021-03-14T00:55:00Z
-originalUrl: "https://www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html?outputType=amp"
+title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
+excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
+publishedDateTime: 2021-04-16T23:56:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://cdnph.upi.com/pv/upi/bd28193e88e83e91050bc266b436a2c4/BIDEN-DEPARTS.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_3b0cbd70660341528ecdc742bc6d4056_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "For Biden, there’s no place like a weekend home in Delaware"
+    excerpt: "WILMINGTON, Del. — As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured to the White House and said it’s a “magnificent building” to live in. Except on weekends. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-03-14T00:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/for-biden-theres-no-place-like-a-weekend-home-in-delaware/2021/03/13/04b9c38e-8460-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden says political stability of Northern Ireland is important"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden expressed support on Wednesday for the Good Friday Agreement and said political stability in Northern Ireland is critically important as he marked St. Patrick’s Day with a virtual meeting with Irish Prime ..."
@@ -155,21 +165,7 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
-    excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
-    publishedDateTime: 2021-04-16T23:56:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/bd28193e88e83e91050bc266b436a2c4/BIDEN-DEPARTS.jpg"
-        width: 650
-        height: 433
-        isCached: true
 
-secured: "B4dgbMz9EjW6NgBqzskKgUG26KlVRIa7KpKLI+EudxiL4M6S2unkTTKrndDRr59KB0EXJVEwCU/mcpSVsm+/yEBtLmRO8Zm18usoIoQmhmwNNNlE8AAnmUQRyRZ9lUsVLPf8fj39c55thOff6mNyLhZ89bdJ7Blp8U+g7vto6uyZHoHRdzxA8MbxVRR2Wa1CXm7+cDmfFgpJYIlCzKN8DutQrQjlhTPzVmDz6x+7o2+4nNL8xVMpnMglCrOyKOFa4rl+MHjPbSpUE/5yGq6R3a3QYB4sewGJZaq9B9vxyrtuAFDOorqiFYDTCqpvM4tPvkqXBgQ8Z+y2p62xXvAcxOYK92SBJUvZj8wSQTaBfvY=;bjJWLTQL4giBw7ffoqY7BQ=="
+secured: "C3cGgtwBif1QcgVsqMhiTlXAR+sFjfH8Zn7vK7QxMifWvhpLRb8JY1vyRs7xiDBh/ED9nT+9YJnvALnLrDgLcAEIyGTbw2pywrG8sirsmkskVK2xikoVAGx8lpFcgDiTk1pxV7Ph5jZg1KbKmZeWkBtXcbt2462tMFDRbqJzr393yv1SYiLREBhNsgw5xVOn8/1xO7nvnIVqEbkVF80vZiLqYgvqHdk8LzYlzZWYz475Bx8btHFu2zD4TQ2lltPh6a+Z4AsZsW3JCPojXSWSCXQp0TwIqJuRmPFZAGO9ZC6ruAl95Tz6m8xJx7kZm90FgqHkeZ3PFzv65ZYniyLPeYbaYMlkmYkFZhYpHzx1Ng8=;j2nueD4t+HpDzwNX5BLjxA=="
 ---
 
