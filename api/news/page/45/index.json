@@ -2,6 +2,62 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-02-04-maxine-waters-says-trump-should-be-charged-with-premeditated-murder.md",
+      "title": "Maxine Waters says Trump should be charged with 'premeditated murder'",
+      "excerpt": "Democratic Rep. Maxine Waters of California Tuesday said she thinks former President Donald Trump should be charged with \"premeditated murder\" over the deadly riots at the U.S. Capitol on Jan. 6.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ahSL7zuaIsg/maxine-waters-says-trump-should-be-charged-with-premeditated-murder",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ahSL7zuaIsg/maxine-waters-says-trump-should-be-charged-with-premeditated-murder",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41f5f9a2-9772-491d-b8dd-ff4d84121c81/7e2245d5-dbec-4656-ad2f-da3415479f87/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/maxine-waters-says-trump-should-be-charged-with-premeditated-murder.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-says-trump-should-be-charged-with-premeditated-murder.amp",
+      "publishedDateTime": "2021-02-04T00:48:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-former-vp-pence-opens-transition-office-in-northern-virginia.md",
       "title": "Former VP Pence opens transition office in northern Virginia",
       "excerpt": "Former Vice President Mike Pence has opened a transition office in northern Virginia.",
@@ -1250,62 +1306,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
       "publishedDateTime": "2021-02-02T11:48:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-graham-urges-acting-ag-to-refrain-from-interfering-in-durham-hunter-biden-probes-amid-garland-confirmation.md",
-      "title": "Graham urges acting AG to 'refrain from interfering' in Durham, Hunter Biden probes amid Garland confirmation",
-      "excerpt": "Sen. Lindsey Graham, the top Republican on the Senate Judiciary Committee, on Tuesday urged acting Attorney General Monty Wilkinson to \"refrain from interfering\" in Special Counsel John Durham’s investigation and the federal investigation into Hunter Biden’s \"tax affairs\" while the Senate works to confirm",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g59enykWMkA/graham-acting-attorney-general-durham-hunter-biden-probes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g59enykWMkA/graham-acting-attorney-general-durham-hunter-biden-probes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-acting-attorney-general-durham-hunter-biden-probes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-acting-attorney-general-durham-hunter-biden-probes.amp",
-      "publishedDateTime": "2021-02-02T11:38:42-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

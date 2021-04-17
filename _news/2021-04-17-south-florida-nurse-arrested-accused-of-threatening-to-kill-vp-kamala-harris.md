@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Kamala Harris receives 'Missing Children'-inspired milk carton roast for absence on border crisis"
-excerpt: "Vice President Kamala Harris’ absence from the crisis at the southern U.S. border with Mexico has landed her on a “Missing Children”-inspired milk carton."
-publishedDateTime: 2021-04-14T20:20:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
-webUrl: "https://www.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
-ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
+title: "South Florida Nurse Arrested, Accused of Threatening to Kill VP Kamala Harris"
+excerpt: "A longtime South Florida nurse accused of making videos threatening Vice President Kamala Harris’ life has been arrested on federal charges. Niviane Petit Phelps, of Miami Gardens, was arrested following an investigation by the U."
+publishedDateTime: 2021-04-17T01:54:00Z
+originalUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
 type: article
-quality: 62
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/14/Kamala_Harris_milk_bottle_Twitter_c0-21-1000-604_s1200x700.jpg?1bd6308b50035d8151fb6fd665d256075e4fdde9"
+  - url: "https://i0.wp.com/media.nbcnewyork.com/2021/03/AP_21078788269498.jpeg?crop=933px%2C44px%2C4334px%2C2439px&quality=85&resize=1200%2C675&strip=all&ssl=1"
     width: 1200
-    height: 700
+    height: 675
     isCached: true
 
 related:
@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "South Florida Nurse Arrested, Accused of Threatening to Kill VP Kamala Harris"
-    excerpt: "A longtime South Florida nurse accused of making videos threatening Vice President Kamala Harris’ life has been arrested on federal charges. Niviane Petit Phelps, of Miami Gardens, was arrested following an investigation by the U."
-    publishedDateTime: 2021-04-17T01:54:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 72
-    images:
-      - url: "https://i0.wp.com/media.nbcnewyork.com/2021/03/AP_21078788269498.jpeg?crop=933px%2C44px%2C4334px%2C2439px&quality=85&resize=1200%2C675&strip=all&ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
     excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."
     publishedDateTime: 2021-04-13T17:44:00Z
@@ -152,6 +136,22 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/03/280320211616957436-1-scaled.jpg"
         width: 1280
         height: 854
+        isCached: true
+  - title: "Kamala Harris receives 'Missing Children'-inspired milk carton roast for absence on border crisis"
+    excerpt: "Vice President Kamala Harris’ absence from the crisis at the southern U.S. border with Mexico has landed her on a “Missing Children”-inspired milk carton."
+    publishedDateTime: 2021-04-14T20:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/14/kamala-harris-receives-missing-children-inspired-m/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 62
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/14/Kamala_Harris_milk_bottle_Twitter_c0-21-1000-604_s1200x700.jpg?1bd6308b50035d8151fb6fd665d256075e4fdde9"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Baltimore maker of yarn purchased by Vice President Kamala Harris has stitched together a success story"
     excerpt: "Karida Collins' Neighborhood Fiber Co., a Baltimore-based hand-dyed yarn company, has a famous customer in Kamala Harris and a history that has unrolled over 15 years."
@@ -232,6 +232,6 @@ related:
         height: 682
         isCached: true
 
-secured: "oMdJvsFgJ9N2dhNr1Iqty8kKr6lgBxewcD37TnadmFuCvVtHlENm02kqkWrl3NAjj+Q3TzSpmrTd3MT/cTDl+fUsF6ZYwKNpwD0gdx9mLqz67voCKaCmV31WpnF/J08GCKKSQsOVi+3WypiTv4QAvENwLmMoRSsAYP75QHRiELwtmnwxqB7MJ9oWfvaF3ay6G2ck8cDsMummhTGuTfmCyRO4IsopNuNcm+xVtiir8j7AgAnZSTa7JcOEhuYlQG6Iwf/ydjflaFQ4dGNfwddwNiAFr92bj6sknaQ77/VXI+Pz/ge/c9l9c67ezYXVpMJuPbmTaKNpoTGAOFixzl0fHnShnhtU3WUyvzP/nMCaDOORFo7HwI9IQX1uGVWgtSA2FsSq92jtp8AF99iE7MWDhyP4eYbl82Hk/Lt+OOQ6iBVHqDDeUo5kk1apm3Qm3buduEIBM6GRlsqbwrG0L9RUV8y4v0Uevqt8djUeZgkLN+eomWaWuBWEBmJY2qK89jWxzOLU6wRszPncmYOPei4kug==;CetSe3n8u15H5nchxcZS8Q=="
+secured: "ogHPuxxbl9VDdjPDtpvJgA1IqA6MCwkYHp0KL4L/uKhdoWGisxBclWk/nWMrxwtZfUnUG62TNlZnPiKc2+kYnDCA5RvswEYxBxaBqufOPl8LuEIeVBlE1AhOwrZHBhAqRz2OPrStvQnjMmRMvfWQzSw71L96NiS52jHIgQKazjHh4vgb80sGJGkROI7oGZo77nZOSkfA7ERcfY9XsJMbirO8X9fE0omx8nAWedZsUyHQ+EkZOHyTMtq82jgVhx+esdHS9gavB370dDNgub1Te8mQm2qFgxYabmOFIBOSLGUAea4zTOrxF0JzqkGlxxRoPCgQBGQA4X6rmHbcHONo/7xIwlrJkXTLN0uX7L6Jpo0=;EZ5l+8G+DUcx9w/kV+HIhQ=="
 ---
 

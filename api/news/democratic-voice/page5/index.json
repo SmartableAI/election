@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-11-trump-estranged-from-presidents-club-excluded-from-predecessors-psa.md",
+      "title": "Trump, estranged from Presidents Club, excluded from predecessors' PSA",
+      "excerpt": "When President Donald Trump received his Covid-19 vaccine at the White House in January, it was not recorded by official photographers or videographers, according to a person familiar with the matter, who said it wasn't clear there was any photographic documentation of the moment. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KxIrfiRdWoA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KxIrfiRdWoA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190423072847-donald-trump-04182019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/donald-trump-presidents-club-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/donald-trump-presidents-club-vaccine/index.html",
+      "publishedDateTime": "2021-03-11T12:54:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trump-expected-to-meet-with-sen-rick-scott-amid-gop-divide-over-former-president.md",
       "title": "Trump expected to meet with Sen. Rick Scott amid GOP divide over former President",
       "excerpt": "Former President Donald Trump is expected to meet with Republican Sen. Rick Scott this week, a source familiar with the meeting told CNN, at a time when the party is heatedly debating Trump's role in its future.\n    \n",
@@ -1611,62 +1667,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/03/politics/house-oversight-committee-subpoenas-trump-mazars/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/house-oversight-committee-subpoenas-trump-mazars/index.html",
       "publishedDateTime": "2021-03-02T21:07:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-murkowski-seeks-white-houses-attention-on-alaskas-economic-concerns-as-she-weighs-biden-budget-pick.md",
-      "title": "Murkowski seeks White House's 'attention' on Alaska's economic concerns as she weighs Biden budget pick",
-      "excerpt": "Republican Sen. Lisa Murkowski, who holds the key to President Joe Biden's nominee for budget director, is pushing the White House about some of the new administration's policies that have a direct impact on Alaska's economy, namely on energy matters, according to the second-ranking Senate Republican",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tp8QBsys7qA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tp8QBsys7qA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210208095505-lisa-murkowski-0204-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/politics/lisa-murkowski-tanden-nomination-latest/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/lisa-murkowski-tanden-nomination-latest/index.html",
-      "publishedDateTime": "2021-03-02T09:20:50-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

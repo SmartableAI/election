@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-14-austin-us-adds-500-troops-in-germany-despite-trump-pledge.md",
+      "title": "Austin: US adds 500 troops in Germany, despite Trump pledge",
+      "excerpt": "Last year, President Donald Trump ordered the withdrawal of 12,000 troops from Germany as retribution for what he considered Germany’s refusal to spend more on its own defense. Austin suspended ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_fce94cb13e4c444581fabcdd20b6585a_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "publishedDateTime": "2021-04-13T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-biden-proposes-meeting-with-putin-amid-rising-ukraine-tensions.md",
       "title": "Biden proposes meeting with Putin amid rising Ukraine tensions",
       "excerpt": "President Joe Biden spoke with Russian President Vladimir Putin on Tuesday and proposed a meeting in a third country in the coming months as tensions between Russia and Ukraine rise in eastern Europe.\n    \n",
@@ -1304,58 +1356,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-analysis-bidens-agencies-reverse-trumps-wall-street-friendly-rules.md",
-      "title": "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules",
-      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 640,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BZ16N",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ16N",
-      "publishedDateTime": "2021-04-12T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

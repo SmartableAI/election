@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
         width: 1200
         height: 700
+        isCached: true
+  - title: "South Florida Nurse Arrested, Accused of Threatening to Kill VP Kamala Harris"
+    excerpt: "A longtime South Florida nurse accused of making videos threatening Vice President Kamala Harris’ life has been arrested on federal charges. Niviane Petit Phelps, of Miami Gardens, was arrested following an investigation by the U."
+    publishedDateTime: 2021-04-17T01:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 72
+    images:
+      - url: "https://i0.wp.com/media.nbcnewyork.com/2021/03/AP_21078788269498.jpeg?crop=933px%2C44px%2C4334px%2C2439px&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
     excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."

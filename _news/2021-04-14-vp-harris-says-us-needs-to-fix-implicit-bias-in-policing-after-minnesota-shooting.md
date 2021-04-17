@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "South Florida Nurse Arrested, Accused of Threatening to Kill VP Kamala Harris"
+    excerpt: "A longtime South Florida nurse accused of making videos threatening Vice President Kamala Harris’ life has been arrested on federal charges. Niviane Petit Phelps, of Miami Gardens, was arrested following an investigation by the U."
+    publishedDateTime: 2021-04-17T01:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 72
+    images:
+      - url: "https://i0.wp.com/media.nbcnewyork.com/2021/03/AP_21078788269498.jpeg?crop=933px%2C44px%2C4334px%2C2439px&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
     excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
     publishedDateTime: 2021-04-14T15:44:00Z

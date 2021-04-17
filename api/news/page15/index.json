@@ -2,6 +2,62 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-29-biden-border-crisis-completely-out-of-control-former-border-patrol-official-warns-on-americas-newsroom.md",
+      "title": "Biden border crisis 'completely out of control,' former Border Patrol official warns on 'America's Newsroom'",
+      "excerpt": "The former acting chief of Border Patrol in Tuscon, Arizona, Jeff Self, said Monday that the situation at the border is 'completely out of control.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CG_LA_dUIk8/arizona-border-patrol-chief-border-crisis-out-control",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CG_LA_dUIk8/arizona-border-patrol-chief-border-crisis-out-control",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/arizona-border-patrol-chief-border-crisis-out-control.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-border-patrol-chief-border-crisis-out-control.amp",
+      "publishedDateTime": "2021-03-29T10:25:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-white-house-says-biden-does-not-intend-to-meet-with-north-koreas-kim.md",
       "title": "White house says Biden does not intend to meet with North Korea's Kim",
       "excerpt": "U.S. President Joe Biden does not intend to meet with North Korean leader Kim Jong Un, the White House said on Monday.",
@@ -1281,62 +1337,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp",
       "publishedDateTime": "2021-03-26T08:09:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-mike-lee-bidens-handling-of-migrant-surge-during-pandemic-absolutely-defies-reason-and-logic.md",
-      "title": "Mike Lee: Biden's handling of migrant surge during pandemic 'absolutely defies reason and logic'",
-      "excerpt": "Sen. Mike Lee, R-Utah, said Friday that the Biden administration's immigration policy regarding COVID-positive migrants 'absolutely defies reason and logic.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eVdR4d6IWoc/biden-border-crisis-covid-migrants-mike-lee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eVdR4d6IWoc/biden-border-crisis-covid-migrants-mike-lee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7358c99-18f0-4305-84f6-bcd084125526/ddf94192-1092-447f-af70-61e7d5bdba5b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-covid-migrants-mike-lee.amp",
-      "publishedDateTime": "2021-03-26T06:42:05-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
