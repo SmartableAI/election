@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden: US shootings 'a national embarrassment'"
+    excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting. While gun control appears to have taken a back seat, Biden on Friday insisted that wasn’t the case, saying “I’ve never not prioritized this."
+    publishedDateTime: 2021-04-17T01:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/17/biden-us-shootings-national-embarrassment/7263347002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4883882c-0e98-48ba-939c-48d309dfff89_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Republicans turn to the socialism playbook on Biden's infrastructure bill, labeling anything other than roads and bridges as 'Soviet'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Republican lawmakers are responding to President Joe Biden's $2 trillion infrastructure bill with a litany of misleading and even false statements. The GOP's longstanding strategy of attaching the socialism label ..."
     publishedDateTime: 2021-04-14T18:22:00Z

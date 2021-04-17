@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-17-swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific.md",
+      "title": "Swipes at China as Joe Biden and Japanese PM seek united front in Asia Pacific",
+      "excerpt": "In his first in-person summit since taking office, the US president hosts Yoshihide Suga as part of efforts to face down Beijing",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/62970e780e4e3dfcbbb8c7a43b722b32cf143d13/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f367ab421312de3408bd60c2ba0a1032",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "publishedDateTime": "2021-04-16T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-gun-violence-pierces-the-very-soul-of-our-nation-biden-says-after-indianapolis-shooting-live.md",
+      "title": "Gun violence ‘pierces the very soul of our nation’, Biden says after Indianapolis shooting – live",
+      "excerpt": "President says shooting at FedEx facility is ‘just the latest in a string of tragedies’ and ‘gun violence is an epidemic’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079c81a8f08a91092689de1",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079c81a8f08a91092689de1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
+      "publishedDateTime": "2021-04-16T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-senators-to-biden-waive-vaccine-intellectual-property-rules.md",
       "title": "Senators to Biden: Waive vaccine intellectual property rules",
       "excerpt": "A waiver would pave the way for poorer nations struggling to inoculate their populations from the coronavirus to make the vaccines.",
@@ -1369,7 +1464,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 605,
+      "heat": 645,
       "tags": null,
       "images": [
         {
@@ -1462,115 +1557,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-joe-bidens-slip-saying-aft-rather-than-atf-goes-viral.md",
-      "title": "Joe Biden's Slip Saying 'AFT' Rather Than 'ATF' Goes Viral",
-      "excerpt": "President Joe Biden's verbal stumble over the abbreviation for the Bureau of Alcohol, Tobacco, Firearms and Explosives was seized on by his right-wing opponents and shared widely online on Thursday as he moved to install a gun control advocate as head of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252",
-      "originalUrl": "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1774295/president-joe-biden.jpg",
-          "width": 1024,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1",
-      "publishedDateTime": "2021-04-09T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.md",
-      "title": "Mark Steyn pushes back on Biden's 'gun grab' by executive order",
-      "excerpt": "In practical terms, the measures include: restrictions on pistol stabilizing braces, which Joe Biden claims allow hand-guns to be used as high-accuracy low-recoil rifles and yet with easy concealability of a pistol. A new rule closing yet another supposed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
-      "originalUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a73d4e9-e32b-4f78-b01c-7836d4c075f1/1f2816d7-152b-46e5-bcfc-50912e6eb51e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
-      "publishedDateTime": "2021-04-08T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-15822
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden: US shootings 'a national embarrassment'"
+    excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting. While gun control appears to have taken a back seat, Biden on Friday insisted that wasn’t the case, saying “I’ve never not prioritized this."
+    publishedDateTime: 2021-04-17T01:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/17/biden-us-shootings-national-embarrassment/7263347002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4883882c-0e98-48ba-939c-48d309dfff89_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Fact Check-Joe Biden saying veterans ‘get enough handouts’ comes from satire site"
     excerpt: "Posts containing a fabricated quote attributed to President Joe Biden about veterans originated from a satire article. Users on social media, however, are taking the claim seriously. A Google search of the text brings up an article here by the satirical website “America’s Last Line of Defense” with the same headline."

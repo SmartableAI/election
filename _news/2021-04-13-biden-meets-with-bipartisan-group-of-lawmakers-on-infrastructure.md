@@ -167,6 +167,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden's appeals for action on guns, policing face reality"
+    excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting and faces a reckoning over the deaths of Black men at the hands of police"
+    publishedDateTime: 2021-04-17T00:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77128693"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77128693"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77128693"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cdfc1a13c1c74d47b437976ce9b093fa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden insists he’s willing to negotiate with Republicans on infrastructure"
     excerpt: "also took issue with the price tag and the tax increases Biden has put forward to pay for it. Some Democrats, including centrist Sen. Joe Manchin III of West Virginia, have raised their own objections to the tax hikes. Manchin also warned the Biden ..."
     publishedDateTime: 2021-04-12T23:33:00Z
@@ -198,6 +214,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7817b7be04dd2137db9e6559de71b3b27fe0c791/0_195_3008_1805/master/3008.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa400964ddbbb8c6cb25902b044b5ad2"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden says Japan and U.S. committed to working together to meet China challenge"
+    excerpt: "U.S. President Joe Biden said he had a productive summit with Japanese Prime Minister Yoshihide Suga on Friday and the two countries were committed to working together to meet the challenge posed by China and issues including North Korea."
+    publishedDateTime: 2021-04-16T22:03:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-japan-biden-idUKKBN2C32P6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2C32P6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C32P6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558812583&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3F1CK"
+        width: 837
+        height: 545
         isCached: true
   - title: "Biden welcomes Japan's prime minister to White House as he tries to counter China"
     excerpt: "Japan is one of the few industrialized nations not sanctioning China for human rights abuses. The U.S. would like that to change."

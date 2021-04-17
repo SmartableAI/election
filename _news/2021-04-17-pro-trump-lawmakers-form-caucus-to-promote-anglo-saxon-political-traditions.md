@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-c
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions?amp"
 type: article
 quality: 122
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Trump loyalists start America First Caucus to promote U.S. as ‘uniquely Anglo-Saxon’"
+    excerpt: "Reports of the caucus and its stated goals drew condemnation from Democrats and some Republicans for promoting nativist rhetoric and policies."
+    publishedDateTime: 2021-04-17T00:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/16/trump-loyalists-start-america-first-caucus-promote-us-uniquely-anglo-saxon/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/16/trump-loyalists-start-america-first-caucus-promote-us-uniquely-anglo-saxon/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/16/trump-loyalists-start-america-first-caucus-promote-us-uniquely-anglo-saxon/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5OBITWENTMI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "kIw1TzbWssPssS7TLe22bbJG+KuRUxTGwZW4SRqFgZ19c3fr0mHfF4NudvJN7ww8zXr4vLGUfYUKS8GON8SAR4rZBosP427lKN8EDMfwTamPxZjs066MJJOsRFlaOMKp2FDFRO7l9FfQD1OnS2qNrwUlAgBhWEmBSrUFAPudz0ODcBmtWUYw5Fly6DqLW2T8KPR7IClmpoA25Fo8b8OJRRa9lZAnguCpIAKx0ADuBzC5iAOwry2P51KOLFWOnPpkMwAorxwNq5DVFd3LLCzVYw5cWlIi7bPLG44D2LK9XFKaMdY8CvMufUo+206qPLI502CRmxuR9P5LT8WKWEsgdXMQuATmjvW7LB7uu2xM8zE=;8yxrEm2iO6wEX5fF3V2PWQ=="
 ---

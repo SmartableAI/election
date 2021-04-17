@@ -2,6 +2,114 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-22-trump-republicans-need-stronger-and-better-leadership-than-mcconnell.md",
+      "title": "Trump: Republicans need 'stronger' and 'better' leadership than McConnell",
+      "excerpt": "Former President Trump Donald Trump The Hill's Morning Report - Biden: Back to the future on immigration, Afghanistan, Iran Juan Williams: Biden flips the script The Memo: Two months in ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/state-watch/544281-trump-republicans-need-stronger-and-better-leadership-than-mcconnell",
+      "originalUrl": "https://thehill.com/homenews/state-watch/544281-trump-republicans-need-stronger-and-better-leadership-than-mcconnell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/544281-trump-republicans-need-stronger-and-better-leadership-than-mcconnell?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/544281-trump-republicans-need-stronger-and-better-leadership-than-mcconnell?amp",
+      "publishedDateTime": "2021-03-22T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-mccarthy-hires-trumps-white-house-political-director-to-lead-operation.md",
+      "title": "McCarthy hires Trump’s White House political director to lead operation",
+      "excerpt": "House Minority Leader Kevin McCarthy hired one of former President Trump's top staffers to lead his political operation, a source familiar with the hire told Fox News. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mRPHZVrGMmw/mccarthy-hires-trumps-white-house-political-director",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mRPHZVrGMmw/mccarthy-hires-trumps-white-house-political-director",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-hires-trumps-white-house-political-director.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-hires-trumps-white-house-political-director.amp",
+      "publishedDateTime": "2021-03-22T05:43:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-as-ivanka-trump-regroups-in-miami-speculation-bubbles-about-her-plans.md",
       "title": "As Ivanka Trump Regroups in Miami, Speculation Bubbles About Her Plans",
       "excerpt": "Rumors of Ivanka Trump's potential return to politics have swelled as the former White House adviser enjoys the Miami sunshine with her family.",
@@ -1240,114 +1348,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-see-the-list-of-florida-gop-websites-that-still-show-trump-as-president.md",
-      "title": "See the list of Florida GOP websites that still show Trump as president",
-      "excerpt": "Donald Trump lost the 2020 election, but some Florida GOP sites continue to show him as the winner and the current president of the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/19/list-florida-gop-sites-trump-still-president/4754798001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/18/PTCN/b18427b7-45f1-4200-bb10-9aa1adbbabb7-TCN_GOP_WEBSITES_TRUMP04.jpg?auto=webp&crop=1577,887,x5,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4754798001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4754798001",
-      "publishedDateTime": "2021-03-19T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-biden-stumbles-multiple-times-falls-as-he-scales-air-force-one-stairs.md",
-      "title": "Biden stumbles multiple times, falls as he scales Air Force One stairs",
-      "excerpt": "President Biden stumbled twice and fell as he scaled the stairs to Air Force One on Friday at Joint Base Andrews. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hq4M3z8PR9g/biden-stumbles-multiple-times-air-force-one-stairs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stumbles-multiple-times-air-force-one-stairs.amp",
-      "publishedDateTime": "2021-03-19T09:12:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

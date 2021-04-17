@@ -2,6 +2,114 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-01-24-return-of-the-technocrats-biden-aims-for-normal-after-four-years-of-tumult.md",
+      "title": "Return of the technocrats: Biden aims for ‘normal’ after four years of tumult",
+      "excerpt": "The first few days of Biden’s administration have produced a blizzard of fact sheets and memorandums — a veritable redwood worth of paperwork — with aspirations of a return to regular order.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJVT6RC47EI6XKCJN6KCHJ277U.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-23T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.md",
+      "title": "Biden, UK's Boris Johnson discuss Paris accord, trade, coronavirus",
+      "excerpt": "President Biden had his first phone call with British Prime Minister Boris Johnson on Saturday, where Johnson pressed the new president for a U.S.-U.K. trade deal. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zc_6kiHuKl8/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zc_6kiHuKl8/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Joe-Biden-Oval-Office-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp",
+      "publishedDateTime": "2021-01-23T17:20:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-24-two-former-trump-officials-to-be-investigated-for-posting-papers-denying-climate-change.md",
       "title": "Two former Trump officials to be investigated for posting papers denying climate change",
       "excerpt": "The Commerce Department's Office of Inspector General said it will investigate how two former Trump officials posted dubious papers questioning man-made climate change using government logos but without the approval of the Trump administration.\n    \n",
@@ -1272,114 +1380,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-biden-proposes-extending-nuclear-arms-treaty-with-russia-for-5-years.md",
-      "title": "Biden proposes extending nuclear arms treaty with Russia for 5 years",
-      "excerpt": "President Joe Biden has proposed extending a nuclear arms treaty with Russia before it expires next month, White House press secretary Jen Psaki said during a Thursday press conference.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqVh-Z9v3ws/biden-extending-nuclear-arms-treaty-russia-5-years",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqVh-Z9v3ws/biden-extending-nuclear-arms-treaty-russia-5-years",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021724549190.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-extending-nuclear-arms-treaty-russia-5-years.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-extending-nuclear-arms-treaty-russia-5-years.amp",
-      "publishedDateTime": "2021-01-21T19:45:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-justice-dept-watchdog-to-examine-abrupt-departure-of-atlanta-us-attorney-whom-trump-appeared-to-criticize.md",
-      "title": "Justice Dept. watchdog to examine abrupt departure of Atlanta U.S. attorney whom Trump appeared to criticize",
-      "excerpt": "Byung J. “BJay” Pak suddenly stepped down earlier this month as then-President Trump waged a pressure campaign on Georgia officials over the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFERJ5SPQ4I6XPNEMFNK57IFKU.jpg&w=1440",
-          "width": 1440,
-          "height": 992,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-21T18:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

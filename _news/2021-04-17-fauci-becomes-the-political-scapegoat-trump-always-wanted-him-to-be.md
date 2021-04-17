@@ -815,6 +815,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Facebook panel's Trump ruling delayed as comments flood in"
+    excerpt: "Facebook’s quasi-independent Oversight Board says it will take longer than expected to decide on whether or not the suspension of former president Donald Trump should be upheld because it needs more t"
+    publishedDateTime: 2021-04-16T20:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_81d1a60f82164f3b912e3fb4fa8759af_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z

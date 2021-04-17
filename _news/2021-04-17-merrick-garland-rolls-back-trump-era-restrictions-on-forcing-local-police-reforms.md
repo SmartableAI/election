@@ -815,6 +815,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Facebook panel's Trump ruling delayed as comments flood in"
+    excerpt: "Facebook’s quasi-independent Oversight Board says it will take longer than expected to decide on whether or not the suspension of former president Donald Trump should be upheld because it needs more t"
+    publishedDateTime: 2021-04-16T20:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_81d1a60f82164f3b912e3fb4fa8759af_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fauci becomes the political scapegoat Trump always wanted him to be"
     excerpt: "When do Americans get their freedom back?” Ignoring the way in which the question was loaded, Fauci explained that he would not advocate scaling back mask-wearing or distancing with infections at their current level."
     publishedDateTime: 2021-04-16T17:53:00Z
@@ -1860,6 +1876,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "94Krh+dLyCjesGV4GTTMhPbuSxdK+vTRSnkRryQP1Q1rPZ/b2J5AHUv2ZvGn9mzFjoA3r7PwEHyuCVXrkRzh8SxK0BEFfRRemeZcfFAP1asCqOl1Z+Vt95oIfYG05HWFiEqXUVwj0vUmyG4LySTMAPgm3RSnAZwp7CswPsCSdVx39KWipnW2bUz2xf8pcdIzzrJj2sW2ERVXeWOq8MW/u/2wvYS8/ARIr7k0nI6hdIfAgtNXLEAv+kwf6o/mzzbSHuW4KWZlwx+wQV2C6SGRcQ/E6/0ZQ/IwNdzHiqMFhQiGLrtYyDCNPGOfJoweGpLN2h+hkOUUNXjVfwsxND5TmOdcxvn3e/8/MUoUeJyq/7s=;gexibm4/FX5LcErFJOKpEw=="
+secured: "8MwvEdREv/N9n+2gvLb65gHv4PA0b4RWMgWnwg+4nE4rouBLT2DidzVmKl9EXdLYKNO+o64183sqQoqVKuuFGpFYQter5cUl34FI2iYciZsdxbRI4gU1wxKLnjvjdldMDZps1/WhqO9kk67arVxEhNnD4+KQOSffIOMyQreUom36qzJfWpRlrYZ502fB8WBSIVllIGSR9oTkaDMpyxDUKqYTZolXS7b34ChNoNeQYrPszIYrMgVV92Knza+wZVf891BX9OqP6O1Dtnfvo7k6TRVIMAG2LSjgVbcFj7Vye9WT8cG1aCZymwYHmsvB8INluoMCj3DcKBLnqwQSqLcxXMJjavu7JGl0/PszDRTu+FZEhR/D5LSFhhRA1Qi6AvDdoKUwraQSnetB3WMAUMEzFzd4tosgK1IcHWaEBkzxC3/Y5NDIYk8Fg9cRzxxry1GJdHBKLK6pJMEm6Kq3Txecg48JAkCWd0F8ym7lLbbMScLauWcWDzxPef4UNw5vOsgw+Ini26A+epgn/yLT/6NBxg==;jfC/0VZcnSwkPzMePXkYLA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2529
+heat: 2549
 published: true
 
 provider:
@@ -797,6 +797,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_adf2de08c39b4733af2001dd4871dbb5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Facebook panel's Trump ruling delayed as comments flood in"
+    excerpt: "Facebook’s quasi-independent Oversight Board says it will take longer than expected to decide on whether or not the suspension of former president Donald Trump should be upheld because it needs more t"
+    publishedDateTime: 2021-04-16T20:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_81d1a60f82164f3b912e3fb4fa8759af_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

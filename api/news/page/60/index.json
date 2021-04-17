@@ -2,6 +2,118 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-01-13-biden-campaign-bundlers-to-score-senior-white-house-positions.md",
+      "title": "Biden campaign bundlers to score senior White House positions",
+      "excerpt": "At least eight top Biden campaign bundlers will be appointed or nominated to senior White House positions, according to a Fox News count. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FRLWoy2KiVw/biden-campaign-bundlers-score-senior-wh-positions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FRLWoy2KiVw/biden-campaign-bundlers-score-senior-wh-positions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f85264f-0fda-4d16-a4ad-e7f0cb62ded0/33404f79-e7f8-42d0-8194-72b754a9a400/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-bundlers-score-senior-wh-positions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-bundlers-score-senior-wh-positions.amp",
+      "publishedDateTime": "2021-01-12T17:01:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-rep-kevin-mccarthy-is-open-to-censuring-trump-source.md",
+      "title": "Rep. Kevin McCarthy is open to censuring Trump: source",
+      "excerpt": "House Minority Leader Kevin McCarthy is open to censuring President Trump, a source familiar with his thinking told Fox News Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJ8hTccq63A/mccarthy-censuring-trump-capitol-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJ8hTccq63A/mccarthy-censuring-trump-capitol-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp",
+      "publishedDateTime": "2021-01-12T16:24:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-liz-cheney-no-3-house-republican-to-vote-to-impeach-trump.md",
       "title": "Liz Cheney, No. 3 House Republican, to vote to impeach Trump",
       "excerpt": "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol",
@@ -1262,118 +1374,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-washington-monument-closes-through-bidens-inauguration-due-to-credible-threats.md",
-      "title": "Washington monument closes through Biden's inauguration due to 'credible threats'",
-      "excerpt": "The National Park Service said Monday it is suspending tours of the Washington Monument until Jan. 24 or longer due to \"credible threats\" from groups involved in the violence at the U.S. Capitol on Jan. 6.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dajmyjyCwaA/washington-monument-biden-inauguration-threats-tours",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dajmyjyCwaA/washington-monument-biden-inauguration-threats-tours",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006605506135.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp",
-      "publishedDateTime": "2021-01-11T09:47:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-turley-democrats-impulse-buy-impeachment-of-trump-would-have-very-serious-implications.md",
-      "title": "Turley: Democrats 'impulse buy' impeachment of Trump would have 'very serious implications'",
-      "excerpt": "George Washington University law professor Jonathan Turley said he doesn’t think Democrats should go forward with a \"snap impeachment,\" explaining that the process is supposed be \"deliberative,\" not impulsive. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mpfK-g1g8Gk/democrats-impeachment-trump-impulse-buy-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mpfK-g1g8Gk/democrats-impeachment-trump-impulse-buy-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab14816a-305f-4d2b-b463-f796e2d1af61/8f02ab6d-4344-4f20-971f-0eb6b554ea4a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrats-impeachment-trump-impulse-buy-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-impeachment-trump-impulse-buy-turley.amp",
-      "publishedDateTime": "2021-01-11T07:29:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

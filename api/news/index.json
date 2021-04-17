@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-17-swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific.md",
+      "title": "Swipes at China as Joe Biden and Japanese PM seek united front in Asia Pacific",
+      "excerpt": "In his first in-person summit since taking office, the US president hosts Yoshihide Suga as part of efforts to face down Beijing",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/62970e780e4e3dfcbbb8c7a43b722b32cf143d13/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f367ab421312de3408bd60c2ba0a1032",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/17/swipes-at-china-as-joe-biden-and-japanese-pm-seek-united-front-in-asia-pacific",
+      "publishedDateTime": "2021-04-16T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones-have-shaped-the-taxation-debate.md",
       "title": "Fox Nation takes a look at taxes: How Trump, Cuomo and the Rolling Stones have shaped the taxation debate",
       "excerpt": "In the fifth, and final, episode of Fox Nation's special \"An Unauthorized History of Taxes,\" anchor Bret Baier and his guest experts explore the contemporary state of taxation, and its cause-and-effect.",
@@ -346,7 +398,7 @@
       "originalUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -614,6 +666,49 @@
         "Republican Voice",
         "Mike Pence",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-gun-violence-pierces-the-very-soul-of-our-nation-biden-says-after-indianapolis-shooting-live.md",
+      "title": "Gun violence ‘pierces the very soul of our nation’, Biden says after Indianapolis shooting – live",
+      "excerpt": "President says shooting at FedEx facility is ‘just the latest in a string of tragedies’ and ‘gun violence is an epidemic’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079c81a8f08a91092689de1",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079c81a8f08a91092689de1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
+      "publishedDateTime": "2021-04-16T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1269,119 +1364,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-sen-graham-slams-biden-dems-for-court-packing-attempt-they-are-really-drunk-with-power.md",
-      "title": "Sen. Graham slams Biden, Dems for court-packing attempt: They are 'really drunk with power'",
-      "excerpt": "Senator Lindsey Graham responds to Democrats' legislation to pack the Supreme Court, and U.S. troops leaving Afghanistan on 'The Story'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsVq0EZNuMs/graham-slams-biden-dems-drunk-with-power",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsVq0EZNuMs/graham-slams-biden-dems-drunk-with-power",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp",
-      "publishedDateTime": "2021-04-15T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-vernon-jones-a-pro-trump-republican-will-challenge-kemp-in-georgia.md",
-      "title": "Vernon Jones, a Pro-Trump Republican, Will Challenge Kemp in Georgia",
-      "excerpt": "Vernon Jones, a Democrat-turned Republican and onetime state representative who has called Georgia’s presidential election “fixed,” will oppose Gov. Brian Kemp, one of Donald Trump’s top targets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/13/us/politics/00VernonJonesGeorgia/00VernonJonesGeorgia-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html",
-      "publishedDateTime": "2021-04-15T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

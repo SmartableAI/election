@@ -799,6 +799,22 @@ related:
         width: 320
         height: 212
         isCached: true
+  - title: "Facebook panel's Trump ruling delayed as comments flood in"
+    excerpt: "Facebook’s quasi-independent Oversight Board says it will take longer than expected to decide on whether or not the suspension of former president Donald Trump should be upheld because it needs more t"
+    publishedDateTime: 2021-04-16T20:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-panels-trump-ruling-delayed-comments-flood-77125317"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_81d1a60f82164f3b912e3fb4fa8759af_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fauci becomes the political scapegoat Trump always wanted him to be"
     excerpt: "When do Americans get their freedom back?” Ignoring the way in which the question was loaded, Fauci explained that he would not advocate scaling back mask-wearing or distancing with infections at their current level."
     publishedDateTime: 2021-04-16T17:53:00Z
