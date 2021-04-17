@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/douglass-mackey-ric
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/douglass-mackey-ricky-vaughn-donald-trump-hillary-clinton/2021/01/27/78a37940-60c8-11eb-afbe-9a11a127d146_story.html?outputType=amp"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/09/fdf3768c-8d9c-4441-a408-e5083390ea3d/thumbnail/1200x630/e18266e3df309febaf1478f05d061336/cbsn-0622-trumpclintonyqd-1083034-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump goes after Bill Clinton in response to attack ad"
+    excerpt: "A new attack ad against Donald Trump mashes up a number of his questionable quotes targeting women. In response, Trump tweeted that maybe Bill Clinton should run for president instead of his wife Hillary."
+    publishedDateTime: 2021-04-17T12:17:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-goes-after-bill-clinton-in-response-to-attack-ad-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/17/ae74e810-d969-4f9f-99b9-3a4ef41bf4be/thumbnail/1200x630/fcd4fb0d9539667368fa4dc650eb9345/0517-cbsn-wtd-trumpattackswibill-1064583-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

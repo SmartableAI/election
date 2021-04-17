@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Biden to sign executive order on Supreme Court reform commission"
-excerpt: "President Joe Biden will sign an executive order empaneling a commission to examine possible reforms to the Supreme Court and federal judiciary, the White House announced Friday. Biden first floated the idea of such a commission last fall on the campaign trail following the death of Justice Ruth Bader Ginsburg — whose seat on the high court was quickly filled by Amy Coney Barrett,"
-publishedDateTime: 2021-04-09T16:22:00Z
-originalUrl: "https://www.politico.com/news/2021/04/09/biden-supreme-court-reform-commission-480582"
-webUrl: "https://www.politico.com/news/2021/04/09/biden-supreme-court-reform-commission-480582"
-ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
+title: "Families of Americans held in Afghanistan and Russia worry about consequences of Biden's tough foreign policy moves"
+excerpt: "The sister of an American who was kidnapped in Afghanistan last year told CNN that she is worried that when the US troop withdrawal is complete, any leverage to get her brother home will vanish.\n    \n"
+publishedDateTime: 2021-04-17T13:32:56Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_8AtO_YF00c/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_8AtO_YF00c/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/mark-frerichs-afghanistan-americans-russia/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/mark-frerichs-afghanistan-americans-russia/index.html"
 type: article
-quality: 135
+quality: 153
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/32/18/07eab8e849d9865a2c770a28d4fe/210409-supreme-court-ap-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117175058-mark-frerichs-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -288,22 +287,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Families of Americans held in Afghanistan and Russia worry about consequences of Biden's tough foreign policy moves"
-    excerpt: "The sister of an American who was kidnapped in Afghanistan last year told CNN that she is worried that when the US troop withdrawal is complete, any leverage to get her brother home will vanish.\n    \n"
-    publishedDateTime: 2021-04-17T13:32:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_8AtO_YF00c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/mark-frerichs-afghanistan-americans-russia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/mark-frerichs-afghanistan-americans-russia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117175058-mark-frerichs-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to form commission to study Supreme Court changes"
     excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
     publishedDateTime: 2021-04-09T16:55:00Z
@@ -319,6 +302,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463454/210409-supreme-court-justices-building-file-se-1133a_cf6b5e577800884dae7568bb70dfe9fe.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden to sign executive order on Supreme Court reform commission"
+    excerpt: "President Joe Biden will sign an executive order empaneling a commission to examine possible reforms to the Supreme Court and federal judiciary, the White House announced Friday. Biden first floated the idea of such a commission last fall on the campaign trail following the death of Justice Ruth Bader Ginsburg — whose seat on the high court was quickly filled by Amy Coney Barrett,"
+    publishedDateTime: 2021-04-09T16:22:00Z
+    webUrl: "https://www.politico.com/news/2021/04/09/biden-supreme-court-reform-commission-480582"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/32/18/07eab8e849d9865a2c770a28d4fe/210409-supreme-court-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden White House puts its police oversight commission on ice"
     excerpt: "The White House is putting the creation of a national police oversight commission on hold, nixing a campaign pledge made by President Joe Biden to establish one within his first 100 days. “Based on close, respectful consultation with partners in the ..."
@@ -397,6 +396,6 @@ related:
         height: 773
         isCached: true
 
-secured: "fOlYfVRSmtzuBZpMWlvcrWBpHDEAknjGOczRbgwhxC1tNR9cVjoh6Gqve2se6wUSjYudOZ73I5bWmSU8KTqZbmpeuMS9Qz1YxQmmtefT0degU7pq9ZIHIJkZO4rrgYJDQoYvwGb0BAMKPJFvo7hKrSfYxAHcwejrhVf6FcNg52NFu3IwAyTdfroeEWeCcPEn+73FmXJ5ZWMjxu2D5FYyyN7pgt1k8pgPXR2NWe3ca1s03RfzKXxZQLVK8FwcyoTKbMd8PDASGdY7zYduDcM7AMIP934lynQUY3p9p1nhXy8HgSHt+dVVlGwGW9PWQc9VzvfOuoxr8erK5cyFmcvK/mCjUvYqNcWPbQDU4HyTj8s=;tYsIev3Azd6gFaHci7YAIw=="
+secured: "R/+y+dHcGBIhV/tdeEMeKB7Rgui+WDkRHYqAGgrTsB3HeWCzgJJEg0p+83IkwBaontaP9vn3cRgj6idEVklweSJVOW2AjVdIXgUgdq4wgvvEzN5TUT3rBpFBRwCn/3RnorC6Hf95egCcpFgv4AKZ1NZId1N8gVOWBE/Mx/eW3UhfqlidPIc8y4cMUM3HC5jrcIXmZzFuSWB2R+F/PSz28DE9xG+QYdQ8sSJ4Stt5ZrxFUPB9ad85XCYjdhlTi1NtKIhgy6l/wFANNJF/UnmIVqQHEUfBLX/yJcE3uu2MAFv4dEm+CPpORMemyU10+PZ3iXIH1Az9ZxpuvnfttYpbFY4hZPDKZRCt/4zldYOfZDs=;BOiA/MQUi47vP5R+JhX7mg=="
 ---
 

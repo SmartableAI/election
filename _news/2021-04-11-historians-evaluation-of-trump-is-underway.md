@@ -36,6 +36,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "House Republicans Who Voted to Impeach Trump See Fundraising Boost"
+    excerpt: "Numerous GOP primary challengers could split the anti-incumbent vote against the 10 lawmakers in some districts in 2022."
+    publishedDateTime: 2021-04-17T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
+    ampWebUrl: "https://www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-326160/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Y4fZDUpcEBpUE2wxwAUqyFwtgqsscOghGfg5YWVy3gK6ECyTLgnU0DikM3YEbacAAMIOHWkSMQ8GYX6bKv2xa0FKTMLvEstOyxNHMtlhmk3KstOHm8cp/qDyPdY16PmgYeRp0X9xjyk/fjqTEOHm0jTkUZlU4jsbZoStJqF6TRUKkKPiqAb1rydF3CiKbovEbgiM7Fn3m1v/ZIYRNoFf+BdMhXp32odT7iZtfc+s77ty93XYGmuHagsX7U8rh+Ml5lGS5b4y9R4/ao/vnmHdg115mvz4DINaGmpJ0A/94IA4G7NgcNpyNqMCLjFFg/DwaGGYGzTKTJ3C+87wRM/Dx88uyX6dn0f5Bb/VFSAp8As=;cFK2ApZ+tMjRLlrRmmtU+Q=="
 ---

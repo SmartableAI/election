@@ -288,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Families of Americans held in Afghanistan and Russia worry about consequences of Biden's tough foreign policy moves"
+    excerpt: "The sister of an American who was kidnapped in Afghanistan last year told CNN that she is worried that when the US troop withdrawal is complete, any leverage to get her brother home will vanish.\n    \n"
+    publishedDateTime: 2021-04-17T13:32:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_8AtO_YF00c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/mark-frerichs-afghanistan-americans-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/mark-frerichs-afghanistan-americans-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117175058-mark-frerichs-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to form commission to study Supreme Court changes"
     excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
     publishedDateTime: 2021-04-09T16:55:00Z
