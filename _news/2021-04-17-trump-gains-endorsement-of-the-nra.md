@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Pastor Darrell Scott Claims Capitol Riot Was Congress 'Set Up' to Impeach Donald Trump"
-excerpt: "The New Spirit Revival Center founder made the claims on his radio show while discussing the recent review about the January 6 disorder."
-publishedDateTime: 2021-04-15T15:18:00Z
-originalUrl: "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878"
-webUrl: "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878"
-ampWebUrl: "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1"
+title: "Trump gains endorsement of the NRA"
+excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
+publishedDateTime: 2021-04-17T15:04:00Z
+originalUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
+webUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
 type: article
-quality: 117
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1778410/darrell-scott.jpg"
-    width: 2500
-    height: 1662
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/17/cb5d15c5-812c-4091-8fa7-22e568000775/thumbnail/1200x630/debff44a0ccfb1c8355835c4d00530a5/eve-trump-nra-1066566-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -47,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Pastor Darrell Scott Claims Capitol Riot Was Congress 'Set Up' to Impeach Donald Trump"
+    excerpt: "The New Spirit Revival Center founder made the claims on his radio show while discussing the recent review about the January 6 disorder."
+    publishedDateTime: 2021-04-15T15:18:00Z
+    webUrl: "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878"
+    ampWebUrl: "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1778410/darrell-scott.jpg"
+        width: 2500
+        height: 1662
+        isCached: true
   - title: "Vice President Mike Pence pleaded with the acting defense secretary to 'clear the Capitol' as pro-Trump rioters overran the building, report says"
     excerpt: "Vice President Mike Pence, who was in the building when the Capitol riot began, made an urgent call amid the chaos. \"Clear the Capitol,\" Pence told Acting Defense Secretary Christopher Miller, the Associated Press reported. Pence was in a \"secure location ..."
     publishedDateTime: 2021-04-11T03:40:00Z
@@ -63,21 +77,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump gains endorsement of the NRA"
-    excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
-    publishedDateTime: 2021-04-17T15:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/17/cb5d15c5-812c-4091-8fa7-22e568000775/thumbnail/1200x630/debff44a0ccfb1c8355835c4d00530a5/eve-trump-nra-1066566-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "8qq7FPGcgpUJjdzHot5bprdkWnruURf7r0AUS6U5HupeNO18iE7bjyYKrlqkbKxhjVb2t1poR6YQ0/3GpmazstQ3B5xUPfbxEmEOLb1JtlYefTOGcfBRRTjb3C37bqZkxbIcUXHAB/kB3RemwISv5/hq6abzd5mg4J5OGj5voRm3Vpi3C/8kVK08LO8thMz6M5YrNqOfBSs/ADOkeeHYO+X2LQedrRrYEwN4Fi1PAXsO+2tUL6x3t38zaCxqciOANPMar3+xRzXVkO1aO74WDNHeJYC+z+wUaYi+vAoe5hXxoeg1Cgt4bFOUEYjQE2DtUXs2wqH4Qn5IKBmZw5JTmoFfQNB5NfuvNLMUhbfSkIQ=;oalMH5lhfy/z39r5LFU0fw=="
+secured: "26dvX0qoZScrM0rfolW6tf9s6NBi5oE0ET/pCK2krEgYuNqfdR3l/icIPQ5HBygJhJt7fqrGZ9W7FyZx/+mJdhgXSE96aMECzGqbaEdKa1Czab23tLKqQqxgPpyfojd1PPPu81B9XrjGW/Cg+tUR9TEPTPw0H+yDRJ6Oy+CE3mb9dx0UviNoWrnGNIzXgYeyzHCvD1sqZeAx26Fc3/p+d+ldnFiVAARLjrNP1MvWUCLTitvbrSw2kLxT8JmPp5zFJ/sDCb1zzmDlfSsHnin5sWyrp+L9SY4dhpoXEpcYpDhnqBINNSfyXvTjG2eJW29WcrEBqp5Wso3IDuxA/juivwZzGsCOoEnsPAeFbsTYnsU=;eTGURscoJr+lRejRkBZM/w=="
 ---
 

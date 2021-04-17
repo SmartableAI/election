@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
 type: article
 quality: 107
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Faith in numbers: Trump held steady among believers at the ballot - it was the nonreligious vote he lost in 2020"
     excerpt: "(THE CONVERSATION) For all the predictions and talk of a slump in support among evangelicals, it appears Donald Trump’s election loss was not at the hands of religious voters. As an analyst of religious data, I’ve been crunching data released in March ..."

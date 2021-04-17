@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "SU65FUblZ4m3gHZff7hKmlXQNrd/0zUYbD/zEO4mxLNmTQC2kIpkxoY2WwiQ9vgnDTho7g8zziD9UDP0LyvWLR8F+zUsffIyTZ0/YRxvk5sivXQmf+kMdLnD1jPHkzVb4fgHT6fLsoP97MrYO2R41GpJBfTqH+r24lEeUHxW6jWhi+QOXFjvOAbLdp+kbaNV+rI54rmB49jTYAYXea+fCERgR1hm7rCkMJeATzSsJwAy4RjvY25s5KMICdpgBSZRe6rtILobIL7kopD0k3iE4TsQjetez5JhJ3tNCgDnJLdnWZHzb3sV3W6wHz1oQQmhfbs6c0t6tn3KJTNv3wGhImBML/+T5CDlrRnrjT4NiC4=;3ThLRbpPe1O+k871l9W5sg=="
 ---

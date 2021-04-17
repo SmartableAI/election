@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden won't raise refugee cap this fiscal year in a reversal on earlier pledge"
-excerpt: "President Joe Biden will sign a declaration on Friday to speed refugee admissions to the US but not raise the refugee cap, as he has committed to doing. Instead, he will sign an emergency determination that will cast a wider net of who can arrive to the US under the refugee ceiling currently in place.\n"
-publishedDateTime: 2021-04-16T17:12:36Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+title: "White House tells refugee advocates Biden likely to raise cap quickly "
+excerpt: "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n"
+publishedDateTime: 2021-04-17T14:07:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
 type: article
-quality: 171
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "White House tells refugee advocates Biden likely to raise cap quickly "
-    excerpt: "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n"
-    publishedDateTime: 2021-04-17T14:07:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+  - title: "Biden won't raise refugee cap this fiscal year in a reversal on earlier pledge"
+    excerpt: "President Joe Biden will sign a declaration on Friday to speed refugee admissions to the US but not raise the refugee cap, as he has committed to doing. Instead, he will sign an emergency determination that will cast a wider net of who can arrive to the US under the refugee ceiling currently in place.\n"
+    publishedDateTime: 2021-04-16T17:12:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 619
         isCached: true
 
-secured: "NsqS2BV2h3jOQUFl4FUblF1sH1renotp6oksumQXxqpAhHOMJekyWrwtbYVZF2p0zxgncUoW3kED9Q5OmOCgZk64Bp9buxaaYrYb+SqU1WP6piBw4AOU2hbdrNlhMpumj0VAeZTtZQTYOT1+L58+3yHLYEo0F/jrTJNecDn2QUvAjRDA8JBFcIrq1LZI6PSXgCe2z6gicvo4ffv4yokc0EYSsZol0UPy05dsWpEfvdP8MyBY6f0h7lyO8hm2hfzmIT4eTPPsmwpaL8xXl5fMEfhk5u6Cl2LKCMQ8LHKzpFH0P+gw639v5gnMJzMIW1tK0RZsrVEtjjuSGOIMk+rwrtPjhPGpCNCccEQo+WGoZLo=;4aHqPHKwn1oIHwtYEkr30A=="
+secured: "+bImm4BwmxDGn7eV1Qtg4HAnZ/qDLPwu2GpRiZ9EyINHJqKDghb6QkjpaWX9qiyjHoxEIz4A1FfCnUhnosSU7NYvpiMsMZDlAFj//5PEwd01g2aNAOrZS8dMSDIFpqHipl8+GSG7ovYaC/96raXJeyUXdomGUY5e4OtQmjqOThlhOoAaxCpnNInxNEVsdSePrtLUcoNRxqYlCsqdPEH98PaLV5y1W2jiyUNWBKubuQJo6f76DdceCxUdQJ9RsSk2THbvzdoofH7TRVdFipOdHNxymuWpQmPkZRjuF8O8GuFJvJYT0pI9fyUCnkodB/wUeBqR2ivF4Govy3UNvziLeRasJikpd8yQUxDZdq7tTdc=;+Zs4NAOsIF4GE1zsrZyzbg=="
 ---
 

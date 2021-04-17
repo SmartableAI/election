@@ -160,22 +160,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris says migrant crisis won’t ‘be fixed overnight,’ hasn't spoken with El Salvador, Honduras leaders"
-    excerpt: "The migrant crisis at the U.S.-Mexico border is one that \"is not going to be fixed overnight,\" according to Vice President Kamala Harris, who last month was appointed by President Biden to manage the U.S. response to the crisis."
-    publishedDateTime: 2021-04-16T03:23:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rav_o9jOin8/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden touts relationship with Harris as she takes heat in border czar role"
     excerpt: "President Biden elevated his relationship with embattled border czar Vice President Kamala Harris in a Twitter post on Monday, saying she is “the last voice in the room.” ​”​When"
     publishedDateTime: 2021-04-12T20:28:00Z
@@ -269,6 +253,22 @@ related:
     quality: 119
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b30fe30-8193-4998-901c-c7d1c2ad1416/0989fb65-3be0-4983-9c64-acb0c363223e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris says migrant crisis won’t ‘be fixed overnight,’ hasn't spoken with El Salvador, Honduras leaders"
+    excerpt: "The migrant crisis at the U.S.-Mexico border is one that \"is not going to be fixed overnight,\" according to Vice President Kamala Harris, who last month was appointed by President Biden to manage the U."
+    publishedDateTime: 2021-04-16T03:45:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-says-migrant-crisis-wont-be-fixed-overnight-hasnt-spoken-with-el-salvador-honduras-leaders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

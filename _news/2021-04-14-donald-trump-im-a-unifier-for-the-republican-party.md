@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 918
         isCached: true
+  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Faith in numbers: Trump held steady among believers at the ballot - it was the nonreligious vote he lost in 2020"
     excerpt: "(THE CONVERSATION) For all the predictions and talk of a slump in support among evangelicals, it appears Donald Trump’s election loss was not at the hands of religious voters. As an analyst of religious data, I’ve been crunching data released in March ..."
     publishedDateTime: 2021-04-08T13:02:00Z

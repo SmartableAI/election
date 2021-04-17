@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
-excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
-publishedDateTime: 2021-04-08T14:47:59Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yutP2X6Bk9A/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yutP2X6Bk9A/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+title: "White House backtracks on refugees decision after criticism and says Biden will announce increased cap by May 15"
+excerpt: "The White House said Friday President Joe Biden will set a new, increased refugee cap next month after facing a barrage of criticism when officials confirmed to CNN and other outlets that it would remain at the historically low level set by former President Donald Trump.\n    \n"
+publishedDateTime: 2021-04-17T14:00:52Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
 type: article
-quality: 168
+quality: 154
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416173011-01-biden-0414-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
+    excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
+    publishedDateTime: 2021-04-08T14:47:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yutP2X6Bk9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
     excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
     publishedDateTime: 2021-04-08T17:02:34Z
@@ -268,22 +284,6 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413125118-castro-warren-padilla-lieu-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "White House backtracks on refugees decision after criticism and says Biden will announce increased cap by May 15"
-    excerpt: "The White House said Friday President Joe Biden will set a new, increased refugee cap next month after facing a barrage of criticism when officials confirmed to CNN and other outlets that it would remain at the historically low level set by former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-04-17T14:00:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416173011-01-biden-0414-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -412,6 +412,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Fv4M5DIczwZ2OaL0m9zWcc6vUdI4Apyserqr7EQlyt/znGlKT2BVub/MAGDwGD0ydS8c5pbX/wqAOq6KGaeXpgkkkBL2ai62Cx1zI5evvQ8ePxvxfwMg/Egi+ct3YcirLwywkmjSLmM7vKSzW6rtQAYUPkN5wypLOUUN1oy+/AqaRRIMg8p0uf+oogY796Uvkue1kPYayuGq+PPog62n4BoesLl9VL2+36TrLp/wF5srA24TZEsZgOurEa3Pt/H9q1SWOjGF1QWcE5cBatNCCiXGKw5gpdUAfHH6Y+oMRprUbD2qaVTPP0pGzh2/bBY2kxpeYcNDSjvyCi/VUJqXoesKPAeommiCoLnr0hVsDeE=;DMLpLXGvCtsl+WOVW04+rA=="
+secured: "TaJ7xmuRB90pikk+zgFKuOVcP6f+3IaliDOnvVyYMKvvGVIL8UPKaBUNTd0vKaBhugn0eFWtLO/PHm5mdccCq7l1F+51w256TcZRMARb6IH6lLI11Pw4FY1NgaGLS/0VjvFsQAdz7yKuSmRBommDM9tHzfdrSqd74wnQnr0cjnJKzo1lzdCNKedSruYjr3uMlqr0kUWUBFUCZcPTLE6qj12CEkPvQ6a+9C3C5onBlTKWmv3PFaQM/oZAh66LfKwCpWwwYCv1plDySz/bnDRAs/pPFsFk6W3mLNOdBArJenjzQtgEvWgBPOFtjRWSdMxgujHOunixknX8/tpgmNsmBsJpJR16yPXg687TrX5fVC8=;gFu6x+gFz4KwdQYLUxHH6A=="
 ---
 

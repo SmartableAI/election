@@ -287,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House backtracks on refugees decision after criticism and says Biden will announce increased cap by May 15"
+    excerpt: "The White House said Friday President Joe Biden will set a new, increased refugee cap next month after facing a barrage of criticism when officials confirmed to CNN and other outlets that it would remain at the historically low level set by former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-17T14:00:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416173011-01-biden-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to form commission to study Supreme Court changes"
     excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
     publishedDateTime: 2021-04-09T16:55:00Z

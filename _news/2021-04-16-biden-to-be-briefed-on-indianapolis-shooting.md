@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shoot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House tells refugee advocates Biden likely to raise cap quickly "
+    excerpt: "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n"
+    publishedDateTime: 2021-04-17T14:07:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden won't raise refugee cap this fiscal year in a reversal on earlier pledge"
     excerpt: "President Joe Biden will sign a declaration on Friday to speed refugee admissions to the US but not raise the refugee cap, as he has committed to doing. Instead, he will sign an emergency determination that will cast a wider net of who can arrive to the US under the refugee ceiling currently in place.\n"
     publishedDateTime: 2021-04-16T17:12:36Z
