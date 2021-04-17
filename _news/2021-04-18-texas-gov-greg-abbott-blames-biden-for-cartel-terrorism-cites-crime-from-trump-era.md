@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump: McConnell 'helpless' to stop Biden from packing court"
-excerpt: "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ..."
-publishedDateTime: 2021-04-13T02:45:00Z
-originalUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court"
-webUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court"
-ampWebUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
+title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
+excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
+publishedDateTime: 2021-04-17T21:30:00Z
+originalUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
+webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
+ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
 type: article
-quality: 140
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg"
-    width: 980
-    height: 551
+  - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump: McConnell 'helpless' to stop Biden from packing court"
+    excerpt: "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ..."
+    publishedDateTime: 2021-04-13T02:45:00Z
+    webUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court"
+    ampWebUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden to move ahead with $23 billion UAE weapons sale approved by Trump"
     excerpt: "HuffPost first reported the plan. Former President Trump Donald Trump Biden to move ahead with billion UAE weapons sale approved by Trump Fox News hires high-profile defense team in Dominion ..."
@@ -142,22 +158,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558164505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B109"
         width: 817
         height: 545
-        isCached: true
-  - title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
-    excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
-    publishedDateTime: 2021-04-17T21:30:00Z
-    webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
-    ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Trump Will Slam Biden and D.C. 'Swamp Creatures' in GOP Donor Retreat Speech, Says Top Advisor"
     excerpt: "Donald Trump's senior advisor Jason Miller on Saturday afternoon revealed that the former president intends to slam President Joe Biden and the \"swamp creatures\" in Washington D.C. during his keynote speech at the GOP donor retreat in Mar-a-Lago tonight."
@@ -437,6 +437,6 @@ related:
         height: 433
         isCached: true
 
-secured: "QXhz3YXqkt4+gY8yG8VP7s5xbiWJhGdT8rXNMk9n3CYThiNj17tGZMOYvmokFuqw2sZfZ5LFBTezQeo1R2kX+xxDAleJbzq17dtjlKLD7haNAHfnhyiaA+7baGHk4vn6iy5Q74c0GSbp3cIPsN2vFriFh3Uek9R97ItJ6xDAuWYBwx2DYIV2KYXBx7n4M6q/Jp+7nOvm3gpeQfk89XJz89cS8HgsBWdEs8KOG3JV7QdWcgclUUcbG7u4ibw8WfzFR8evvvOxLn7skW0HeOVylKmoowVSYfjwIRxXpoejcEL9+Ez1tRcpbhvBQQiKEPI581vBTkmlLXJBk7TjJ9zOFSD9Zv94CgH2xe5MVsTDIT64+MB45PD0NFtBh4KaGFfKnT3IBySJhPqMI4EeYNeqhi4tSiCH5m01sPLI8xpb+PMUxtG4yon6v+P/+dFWqYyeOie9LFPM7Nqv+5yaHeGUrqUHTAkP7pxFy6Lb15OjtlcVg4qnfXNA+psLK1ZykZa/Aimn/+bNjf/f+u+ZPVK1zQ==;XeggrWZmQRsvtacHLWCW3g=="
+secured: "lIQLUaySFzCE9nHxm0KZRuYYNhTPqrhktwENILe/JOizNeZmUpaXNT1TtZZiRmFiwWLJQap2Wq/uQ+IwJ5FkRUUrZmFfYHOh/Y5lBWfW2P07xg3oMX1ZTaCX3siEOJ07gHyrAyJ90bleABdO4aukS8rygtC4EVX/ZXCCzvoygC/XrC0JQUV0MhT2cQkFaNd6/abZxSL2t9w25vVKUDZbHWQxqTOP7Gd257E1jiqA0ByqEpbYDbyJPYkPtWHrqhalIQRZm+O61BTjzAxMsfmQifzPsrI93OtSC7fUXkdPB2ygEH575lT3UJy2TP4UbUD0g3lXTlBbPb8My8BfLgJp4/iP9K4KjAcQxfb67SCVBmQ=;L4p5O9/R1cJLy3IpOkSQeg=="
 ---
 
