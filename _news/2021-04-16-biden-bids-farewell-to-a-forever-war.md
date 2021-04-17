@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republican pushes Biden to remember campaign promises on filibuster, packing Supreme Court"
+    excerpt: "In a January 2020, then-candidate Joe Biden was asked if he, like his Democratic primary opponents, supported any of expanding the Supreme Court, abolishing the filibuster, abolishing the Electoral College or setting term limits for Supreme Court justices."
+    publishedDateTime: 2021-04-17T02:15:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/urmwpvHbWY0/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fafa7c7-f2c1-423c-8677-65ff44771132/66a5cf32-90cf-4fbc-92e6-1353f8e561b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Missing Deadline, Biden to Delay Afghan Troop Withdrawal Until September"
     excerpt: "WASHINGTON (AP) — President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on America that were coordinated from that country, several U.S. officials said. Biden will lay out his vision ..."
     publishedDateTime: 2021-04-14T13:33:00Z

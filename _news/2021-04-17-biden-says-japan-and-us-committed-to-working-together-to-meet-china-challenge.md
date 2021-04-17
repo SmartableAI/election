@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Live updates: White House reacts to FedEx shooting, Biden expected to make statement"
+    excerpt: "Eight people were killed and several more were injured in a mass shooting at the FedEx Ground Plainfield Operations Center late Thursday. Police say the gunman, who has not been identified by authorities,"
+    publishedDateTime: 2021-04-16T16:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/crime/2021/04/16/indianapolis-fedex-shooting-live-updates-after-8-killed/7251292002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7251292002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7251292002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/16/PIND/c2cca5db-1836-4bdc-b32f-ab26e401b8aa-2021_04_16_MassShooting_MM_15.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Decision to Delay Afghanistan Withdrawal to 9/11 Could Escalate Taliban Conflict"
     excerpt: "President Joe Biden's plan to delay the withdrawal of U.S. troops from Afghanistan until September 11 could escalate tensions with the Taliban. According to the Associated Press, Biden is scheduled to announce the delayed withdrawal date in the upcoming ..."
     publishedDateTime: 2021-04-13T17:11:00Z
@@ -426,6 +442,6 @@ related:
         height: 1472
         isCached: true
 
-secured: "XKcvGX2xJC/sUUbmxSFQmhGvkVe2iBfWLrPXD6saJ5uymIVY6x3EoZM4AqdAbLf5D8CguhhFFAcxq5OSaHX+Sgt8FumMcQAuUmUGxvysAYrXHzqsRJLPWQ/OMoBVyXsKxoSHTxqzktYGFpTZVv6LU6mUm6h6ltdnOzzEO1/elVtY91y1oVG+qJOJSbjApZZtSpP356tDnVf26hWsuc//Ckm6+xaN0rANedkScCQFcBejDs+96PVd0/rS+lFohU64GBlbgr0r5t0WUMAiwsD8nOccLJVhpUzywGCZBVHg3VXWA1e3Xaxm5LIK3oeUaG//zf8MZ5kgqChIMpjp0KFtjf88sZAbKi36jMTiSAKfmrI=;gJ+eNtE36Hy7BXZj7ZjEKQ=="
+secured: "oSlJnxplSUMlE1ro4PmBqi22thgt11oKQZVzFmusBVG7ne6DleKL/LkUCo3AjPN0YzvMG1LsgR6L51SnFVUf94Hxhw1xTdrVH5WkGpkAd6dELHeY/P67c3XaB/noTdP4XB6/HtTM0F51OEpiqwoxSjmavVOGJbFj33ZD4tU7YA7auFl3qXUl6XpLIy6silbvnzC2S8G5KEiP7kZ8H7nTHaI6J9/iN/1D1QNLBKv/KD91R15K1OiW8ZDyCnqEvv54+XuOjfe/Vt6ClUYsfjae6I22sRL0+vl36hu+nDmMapnt0VP4KY9TQL2Hg29gDXB50QLo9c/s8Ymw2KbsW7GFVu8WgC8r8XoQpKfZMQiG+8IK+j6/GTGlArMGTALi4Ene40Ysz2SBK2NPSWJUpxKzgUcDJpUdRWrwWAV1GzRq8aORGO5mFPK7CCV4rCCTSDXry1SUNnyaNMIRqkxoG7D7R8l61inVNLe0v1KOSY62P4o3McTBa7I2q86Xs2kNO9fYyLp3coH4VINcEqIHB/wC+g==;m+wxGVgcN78NEoVssUdkNg=="
 ---
 

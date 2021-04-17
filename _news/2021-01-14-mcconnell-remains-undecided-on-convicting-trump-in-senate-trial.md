@@ -160,6 +160,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Marjorie Taylor Greene and other Trump allies ride small-dollar wave during 1st quarter as political committee donations fall"
+    excerpt: "Donations from political action committees to some of former President Donald Trump's biggest allies in Congress tumbled during the first three months of the year amid the corporate backlash over the January 6 US Capitol insurrection, a CNN analysis shows.\n    \n"
+    publishedDateTime: 2021-04-17T03:39:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/28_A0GR06nQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/pac-donations-fall-republicans-objected-biden-win/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/pac-donations-fall-republicans-objected-biden-win/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310143921-marjorie-taylor-greene-march-10-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McConnell Was Done With Trump. His Party Said Not So Fast."
     excerpt: "After four years, the minority leader had finally had enough. But with most Republicans rallying around Donald J. Trump, he sided with his colleagues trying to throw out the impeachment case."
     publishedDateTime: 2021-01-28T01:29:00Z
