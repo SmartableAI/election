@@ -2,13 +2,13 @@
 category: news
 title: "Republican pushes Biden to remember campaign promises on filibuster, packing Supreme Court"
 excerpt: "In a January 2020, then-candidate Joe Biden was asked if he, like his Democratic primary opponents, supported any of expanding the Supreme Court, abolishing the filibuster, abolishing the Electoral College or setting term limits for Supreme Court justices."
-publishedDateTime: 2021-04-17T02:15:56Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/urmwpvHbWY0/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/urmwpvHbWY0/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court"
+publishedDateTime: 2021-04-17T02:15:00Z
+originalUrl: "https://www.foxnews.com/politics/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court"
+webUrl: "https://www.foxnews.com/politics/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court"
 ampWebUrl: "https://www.foxnews.com/politics/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court.amp"
 type: article
-quality: 165
+quality: 125
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -46,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "AOC declares victory after Biden reverses course on refugee cap"
+    excerpt: "New York Democrat Rep. Alexandria Ocasio-Cortez championed the Biden administration’s decision to lift Trump-era refugee limits Friday night, following outcry from prominent congressional Democrats."
+    publishedDateTime: 2021-04-17T22:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9dcNZGDmkp8/aoc-declares-victory-after-biden-walks-back-on-refugee-cap"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-declares-victory-after-biden-walks-back-on-refugee-cap.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-declares-victory-after-biden-walks-back-on-refugee-cap.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4f92d4a-8a33-4ecf-a0e1-12aad52fb91a/781de0b5-0fed-4557-903a-226c9f0e6320/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden Bids Farewell to a 'Forever War'"
     excerpt: "\"It is time to end the forever war.\" So said President Joe Biden in his announcement that, as of Sept. 11, the 20th anniversary of the attacks on the World Trade Center and Pentagon, all U.S. troops will be gone from Afghanistan."
@@ -80,6 +97,6 @@ related:
         height: 500
         isCached: true
 
-secured: "8ak4ngGY6t5+5pjYLIVtKNGIFCjXneWqjh/Q0rcP361CRSRtjYOAvPnU3JQob6DDOCxALdKxtaudDMbJLZhjVpo6Ds18U79eNHeY7LlZsS1Bgxp6wfG8diGRBtW6ABPejhVOpssVxjOkvY6UK3jMenear/2Bmp9G8fYq9eeuZ5mp4ey/R7Neezw9DzUvag2iNSUET1PfRTPrcLVFEE+PqhRaoR2fkxreOKHGvuFkhzvhe6IErwuMEuzK2jEcH50uzHUjBKWvtiGcefsl6loxcSJqt0MxOk0h0q4hmtrV/yf0RwVIi+Czh6Z2/QiBUNPVO2Gu22FDZ9XgXetOLz1I7w5ufrZkFZOAF3PvYe4qD9U=;PrEV9ZVQFQ8UuAM5OOYCfg=="
+secured: "w2fmDjrrjbychZonpUMlF7lJGiq23r0AmWtDSD85m9cF1zXjdhvEjO7HDMykPYe7MHXiyvF1fu0kVpl4pS0YALcUEmYlh5AyD1MnXjT0e+oG74tux83HqVjWY0PL+I1DAJzJQyC3GnJKm6KrSYbymmmECq8ZuurAcjRMqUf+SifFinpBbnavS7ys6ftRHLaT68+l6+IUrlX6Sp3K7mjT6BE19GjhJBQc7SdM2HlAOIPlJYPqEIA+jurP+OqBnwtBDZ91ndyP6Qo2W5D3ld9dKUwQ//1gZzIOHqFDvoRya7O/O1jkc0Oftk/zkoM9KPD3KA7tHjWRi+Mig+8vv46OBMVDK/Cqy6tRvsPv+kpMeEk=;zU9m99ubTLiAki6iLxR2Pg=="
 ---
 

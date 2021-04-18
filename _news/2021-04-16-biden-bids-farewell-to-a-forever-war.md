@@ -44,17 +44,33 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "AOC declares victory after Biden reverses course on refugee cap"
+    excerpt: "New York Democrat Rep. Alexandria Ocasio-Cortez championed the Biden administration’s decision to lift Trump-era refugee limits Friday night, following outcry from prominent congressional Democrats."
+    publishedDateTime: 2021-04-17T22:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9dcNZGDmkp8/aoc-declares-victory-after-biden-walks-back-on-refugee-cap"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-declares-victory-after-biden-walks-back-on-refugee-cap.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-declares-victory-after-biden-walks-back-on-refugee-cap.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4f92d4a-8a33-4ecf-a0e1-12aad52fb91a/781de0b5-0fed-4557-903a-226c9f0e6320/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republican pushes Biden to remember campaign promises on filibuster, packing Supreme Court"
     excerpt: "In a January 2020, then-candidate Joe Biden was asked if he, like his Democratic primary opponents, supported any of expanding the Supreme Court, abolishing the filibuster, abolishing the Electoral College or setting term limits for Supreme Court justices."
-    publishedDateTime: 2021-04-17T02:15:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/urmwpvHbWY0/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court"
+    publishedDateTime: 2021-04-17T02:15:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court"
     ampWebUrl: "https://www.foxnews.com/politics/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-push-biden-to-remember-campaign-promises-on-filibuster-packing-supreme-court.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 125
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fafa7c7-f2c1-423c-8677-65ff44771132/66a5cf32-90cf-4fbc-92e6-1353f8e561b8/1280x720/match/image.jpg"
         width: 1280

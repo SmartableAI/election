@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
-excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
-publishedDateTime: 2021-04-14T15:44:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
-webUrl: "https://www.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
-ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
+excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
+publishedDateTime: 2021-04-17T22:17:00Z
+originalUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
+webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
+ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
 type: article
-quality: 67
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: Tampa Bay Times
+  domain: tampabay.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/14/Harris_98547.jpg-c7f77_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
-    width: 1200
-    height: 700
+  - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -105,22 +105,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
-    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
-    publishedDateTime: 2021-04-17T22:17:00Z
-    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
-    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
-    images:
-      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
     excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
     publishedDateTime: 2021-04-17T16:27:00Z
@@ -166,6 +150,22 @@ related:
     quality: 68
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/13/aptopix_police_shooting_minnesota_48122_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
+    excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
+    publishedDateTime: 2021-04-14T15:44:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/14/harris-says-visiting-border-isnt-her-job-migration/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/14/Harris_98547.jpg-c7f77_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200
         height: 700
         isCached: true
@@ -280,6 +280,6 @@ related:
         height: 682
         isCached: true
 
-secured: "j+d+NkSS8y+OPhb0Fvvbz7iSdAyzr+q/KeKl9yjJD1RRwwXW/FY8qpa8UEL3a+soKhJ+zPZozQ8SC7aU4eCwxEnTYXKFO8JS1tpBrRxtV/aPAi5YZMBZmR1G3yCkwmCzxIQ9nm9lwWpJvk6URLHm4TjwtjYkT97v1gMoXw+DTKLWy0DAjrqz+bKnjeWAvnmtyL4mdHQXlSuqYLFyxLnBlDcThUvrNE9qjt3EIGY8VMoVxBw57YWO8tHWE0KY0GY6VyTI3ICQZQbadirxZmSeCdKGGKdRPUQnWe6Y34tU4ttdS2kYn+caMP2CB84MsZGSGOlqB2vrw3U7Ympc1RGfLw/dNV1dLHWForIw5RjUKiY=;JEB8VmLbFTwhmzEHX+ryBg=="
+secured: "RWPL634TgFmVuxYEjcPqSJrfj0SJv8A1OExAcIk/qm1GKvl5XxKzLr7nFgNlvkkF1chBhwr2vcFxrMA0K3it4vQzuP12CjsdUSA22Lvo5mb+O5T2gJaP2gqQqvHgicwV3AZNpzouCpAd6ksJkNDcAT1xbyLHDJsmE0LKEfOSR1XIiAW5agq4ooZAfuys/4w9d7PxE2OXuW+gThw9fOaC8WqG5NvKtfZElTwcKYyzVDGaGb7WfImh7ZAmjjHyOcCcCtvHHZBY1FjVAJUCCFpJEZGnWyyaKq3rHUEdKLoTdzwAudRUGl74JO128+6eiAJvV5A+o0ipGpxSE3gzPa+JmmCSKp+8cjsUhb9rAxjXXyM=;hhSoICY2/l9JGi811YWE6A=="
 ---
 

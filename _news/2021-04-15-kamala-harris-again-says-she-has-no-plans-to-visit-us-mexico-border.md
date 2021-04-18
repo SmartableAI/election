@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
+    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
+    publishedDateTime: 2021-04-17T22:17:00Z
+    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
+    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
     excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
