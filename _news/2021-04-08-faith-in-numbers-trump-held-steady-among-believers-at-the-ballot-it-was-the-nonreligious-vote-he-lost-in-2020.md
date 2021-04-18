@@ -27,51 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
-    excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
-    publishedDateTime: 2021-04-14T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
+  - title: "Gregg Popovich keeps heat on owners, others who support Donald Trump"
+    excerpt: "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats."
+    publishedDateTime: 2021-04-15T00:29:00Z
+    webUrl: "https://www.expressnews.com/sports/spurs/article/Lonnie-Walker-questions-police-reaction-to-16101583.php"
+    ampWebUrl: "https://www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 107
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 918
-        isCached: true
-  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
-    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
-    publishedDateTime: 2021-04-14T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
-    publishedDateTime: 2021-04-09T16:55:00Z
-    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.hdnux.com/photos/01/17/46/71/20868732/3/rawImage.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "SU65FUblZ4m3gHZff7hKmlXQNrd/0zUYbD/zEO4mxLNmTQC2kIpkxoY2WwiQ9vgnDTho7g8zziD9UDP0LyvWLR8F+zUsffIyTZ0/YRxvk5sivXQmf+kMdLnD1jPHkzVb4fgHT6fLsoP97MrYO2R41GpJBfTqH+r24lEeUHxW6jWhi+QOXFjvOAbLdp+kbaNV+rI54rmB49jTYAYXea+fCERgR1hm7rCkMJeATzSsJwAy4RjvY25s5KMICdpgBSZRe6rtILobIL7kopD0k3iE4TsQjetez5JhJ3tNCgDnJLdnWZHzb3sV3W6wHz1oQQmhfbs6c0t6tn3KJTNv3wGhImBML/+T5CDlrRnrjT4NiC4=;3ThLRbpPe1O+k871l9W5sg=="

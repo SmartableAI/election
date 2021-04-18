@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-11-i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief.md",
+      "title": "'I Was Speechless': Law Firm Investigated Its Own Ex-Client For Trump VOA Chief",
+      "excerpt": "McGuireWoods earned well over $2 million in taxpayer money to investigate The Open Technology Fund at the behest of Trump-appointed CEO Michael Pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
+      "originalUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2021/03/09/libby-liu_wide-fa5bf3a19e647452de52145ba3a5db9f98a64ecf.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-she-voted-for-obama-and-died-for-trump-how-qanon-turned-ashli-babbitt-an-iraq-veteran-into-a-domestic-terrorist.md",
+      "title": "She voted for Obama and died for Trump. How QAnon turned Ashli Babbitt, an Iraq veteran, into a domestic 'terrorist.'",
+      "excerpt": "Capitol rioter Ashli Babbitt believed QAnon was \"a movement against evil in the world\" and died fighting for the Trump-condoned conspiracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3",
+      "originalUrl": "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/603fef822dc9010018355397?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.md",
       "title": "Trump supports 'important GOP Committees' but still demands 'RINOs and fools' not fundraise with his image",
       "excerpt": "Former President Donald Trump said Tuesday that he supports the Republican Party and its major fundraising organizations but still doubled down on his demand that \"RINOs and fools\" not use his name or likeness to raise campaign cash. The two-pronged ...",
@@ -1491,106 +1595,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-criminal-investigation-into-trump-organization-aimed-at-flipping-cfo-report.md",
-      "title": "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report",
-      "excerpt": "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html",
-      "publishedDateTime": "2021-03-04T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-kimmel-warns-canceling-dr-seuss-is-how-trump-gets-reelected-cancel-culture-is-his-path-to-victory.md",
-      "title": "Kimmel warns 'canceling' Dr. Seuss is 'how Trump gets reelected': Cancel culture is 'his path to victory'",
-      "excerpt": "ABC late-night host Jimmy Kimmel sounded the alarm on cancel culture Tuesday and how it could help former President Donald Trump get elected again in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/01/Jimmy-Kimmel.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

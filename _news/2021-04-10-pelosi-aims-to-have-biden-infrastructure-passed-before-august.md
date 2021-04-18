@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastru
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
         width: 580
         height: 326
+        isCached: true
+  - title: "After outcry, Biden plans to lift refugee cap in May"
+    excerpt: "President Joe Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements and getting swift blowback from allies in return."
+    publishedDateTime: 2021-04-17T23:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/outcry-wh-biden-lift-refugee-cap-77132342"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/outcry-wh-biden-lift-refugee-cap-77132342"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/outcry-wh-biden-lift-refugee-cap-77132342"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_af5e476b20204daa83d9b6e02fe738f7_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "McConnell's home state bridge symbol of infrastructure standoff with Biden"
     excerpt: "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ..."

@@ -47,6 +47,22 @@ related:
         width: 825
         height: 545
         isCached: true
+  - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
+    excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
+    publishedDateTime: 2021-04-18T11:58:00Z
+    webUrl: "https://www.newsweek.com/why-are-flags-half-staff-today-president-joe-biden-order-1584480"
+    ampWebUrl: "https://www.newsweek.com/why-are-flags-half-staff-today-president-joe-biden-order-1584480?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/why-are-flags-half-staff-today-president-joe-biden-order-1584480?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1779506/flag-was-lowered-half-staff.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden budget provides funding for DOJ to address 'national reckoning on racial inequality'"
     excerpt: "President Biden’s first budget includes significant investments in policing reforms and civil rights, calling on the Department of Justice (DOJ) to spearhead efforts to address systemic racism along w"
     publishedDateTime: 2021-04-09T16:07:00Z

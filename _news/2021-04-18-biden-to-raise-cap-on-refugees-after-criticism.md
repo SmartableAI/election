@@ -77,6 +77,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "After criticism, Biden says he will raise U.S. cap on refugee admissions"
+    excerpt: "President Joe Biden said on Saturday he will raise the cap on the number of refugees admitted this year to the United States, a day after he drew criticism from Democratic lawmakers for agreeing to keep the historically low figure in place."
+    publishedDateTime: 2021-04-18T12:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-refugees/biden-says-he-will-raise-us-cap-on-refugee-admissions-idUSKBN2C40IP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C40IP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C40IP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558889840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3G0AT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden was tough on drugs for decades. Now he faces challenges in fighting money laundering"
     excerpt: "The Biden administration has a long road ahead to tackle the hundreds of billions of dollars in narcotics-related profits laundered in the U.S."
     publishedDateTime: 2021-04-18T09:00:00Z

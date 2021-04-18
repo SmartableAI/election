@@ -173,6 +173,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden Concedes Border Refugee Issues Are A \"Crisis\""
+    excerpt: "We’re going to increase the number [of refugees allowed into the country]. The problem was that the refugee part was working on the crisis that ended up on the border with young people. We couldn’t do two things at once,"
+    publishedDateTime: 2021-04-18T13:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/18/joe_biden_concedes_border_issues_are_a_crisis.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540757.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Biden's Gun-Control Policies Would Treat Everyone Like a Criminal"
     excerpt: "Compared to the extreme gun control measures Biden has been talking about, these policies are much more subdued. But it's clear"
     publishedDateTime: 2021-04-11T11:26:00Z

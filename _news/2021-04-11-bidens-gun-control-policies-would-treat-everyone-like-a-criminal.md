@@ -178,6 +178,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden Concedes Border Refugee Issues Are A \"Crisis\""
+    excerpt: "We’re going to increase the number [of refugees allowed into the country]. The problem was that the refugee part was working on the crisis that ended up on the border with young people. We couldn’t do two things at once,"
+    publishedDateTime: 2021-04-18T13:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/18/joe_biden_concedes_border_issues_are_a_crisis.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540757.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "02x712ylhY1/ErMo4E8CJR7mzBk4gRK4uacwErx/x4UJSehvceShbHokqo+LKYBbz2uVLCH1QXrpAT0wrlXSQ0dr0vMhSudWYz/P5EB7GS2ZsO8UziaBrBxf6FI0QVWF2E+YkDmMjP7CA7zh5nyXPTVVUc0g/tDvMELyXtuV+ek+QTTF81ax10lTHDue9XawUwPiUuh8RKU403He8CXRJHwGW7EngalqzFUTF9bULETOr/Pr6a3S+E1Vj0GjBIydnzNJ42navE2Fry7Ce+XNL7560Yws5TJbv+Jf8Po4OxWanb+pwN1pqjt2ehiqGzLu1QkD5wiuyKAJ6xVblNSSseZK6C+m7fWgyxrFTVNlkkk=;zdQbDST3HDbgcI3KEQ3AIA=="
 ---

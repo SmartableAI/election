@@ -400,6 +400,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How the Trump era made redistricting more complicated"
+    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes."
+    publishedDateTime: 2021-04-18T12:11:00Z
+    webUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dam safety advocates feel forgotten in Biden's $2 trillion infrastructure plan"
     excerpt: "“It’s one of those ticking time bombs that can really devastate a community,” said a Michigan woman who was rescued from a dam collapse last year. When President Joe Biden last week introduced a sweeping $2 trillion infrastructure plan, the details ..."
     publishedDateTime: 2021-04-09T08:30:00Z

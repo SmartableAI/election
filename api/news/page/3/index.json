@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-15-president-joe-biden-appoints-erika-moritsugu-as-aapi-senior-liaison.md",
+      "title": "President Joe Biden appoints Erika Moritsugu as AAPI senior liaison",
+      "excerpt": "President Joe Biden on Wednesday appointed Erika Moritsugu as deputy assistant to the president and Asian American and Pacific Islander senior liaison.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/04/14/Biden-appoints-Erika-Moritsugu-AAPI-senior-liaison/3311618446355/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/04/14/Biden-appoints-Erika-Moritsugu-AAPI-senior-liaison/3311618446355/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/3311618446355/2021/1/16184520956952/v1.5/President-Joe-Biden-appoints-Erika-Moritsugu-as-AAPI-senior-liaison.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/04/14/Biden-appoints-Erika-Moritsugu-AAPI-senior-liaison/3311618446355/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/14/Biden-appoints-Erika-Moritsugu-AAPI-senior-liaison/3311618446355/",
+      "publishedDateTime": "2021-04-14T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-gregg-popovich-keeps-heat-on-owners-others-who-support-donald-trump.md",
       "title": "Gregg Popovich keeps heat on owners, others who support Donald Trump",
       "excerpt": "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.expressnews.com/sports/spurs/article/Lonnie-Walker-questions-police-reaction-to-16101583.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -369,6 +412,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-14-donald-trump-im-a-unifier-for-the-republican-party.md",
+      "title": "Donald Trump: I'm a \"unifier\" for the Republican Party",
+      "excerpt": "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/donald-trump-1/",
+      "originalUrl": "https://www.cbsnews.com/video/donald-trump-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-biden-parts-of-us-backsliding-into-jim-crow-days.md",
       "title": "Biden: Parts of US 'backsliding' into Jim Crow days",
       "excerpt": "President Biden said parts of the United States are \"backsliding\" into \"the days of Jim Crow,\" during remarks Wednesday at the National Action Network's national convention – one of the largest civil rights conferences in the country.",
@@ -695,58 +790,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-trump-didnt-bring-white-working-class-voters-to-the-republican-party-the-data-suggest-he-kept-them-away.md",
-      "title": "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away.",
-      "excerpt": "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440",
-          "width": 1440,
-          "height": 918,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp",
-      "publishedDateTime": "2021-04-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1277,58 +1320,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-fact-check-viral-image-does-not-show-president-joe-biden-apologizing-to-george-floyds-child.md",
-      "title": "Fact check: Viral image does not show President Joe Biden apologizing to George Floyd's child",
-      "excerpt": "A miscaptioned photo purports to show President Joe Biden apologizing to George Floyd’s son. However, the child in the image is not Floyd’s. “U.S. President Joe Biden kneels down to beg George Floyd's son for forgiveness,” media company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/10/PDTF/ff87b317-0aa6-49c9-b3ee-e02fa10236ff-GTY_1271608759.jpg?auto=webp&crop=3408,1917,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7191274002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7191274002",
-      "publishedDateTime": "2021-04-13T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

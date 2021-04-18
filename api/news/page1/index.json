@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-18-republican-2024-presidential-hopefuls-are-making-early-moves-as-trump-mulls-another-run.md",
+      "title": "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run",
+      "excerpt": "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/gd3AqHNByj1GNIHftltpXcoVWo8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7XBRM22IRCJVPCE2CQTKRTSG4.aspx",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-18T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-john-ratcliffe-americas-adversaries-are-testing-taking-advantage-of-biden-wrong-decisions.md",
       "title": "John Ratcliffe: America's adversaries are 'testing', 'taking advantage of' Biden 'wrong decisions'",
       "excerpt": "President Biden's national security and foreign policy moves are \"failing\" early in his administration, former Director of National Intelligence John Ratcliffe told \"Life, Liberty & Levin\" in an interview airing Sunday night.",
@@ -329,6 +381,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god.md",
+      "title": "Mike Lindell Says He Had Dream About Trump One Year Before Meeting Him, Credits God",
+      "excerpt": "MyPillow CEO Mike Lindell on Saturday said that he had a dream about Donald Trump in 2015, one year before the two met for the first time. During his address at the conservative Freedom Conference held in Broken Arrow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445",
+      "originalUrl": "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1779436/mike-lindell.jpg",
+          "width": 2500,
+          "height": 1580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1",
+      "publishedDateTime": "2021-04-17T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1244,119 +1348,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-this-pro-trump-latino-wants-to-lead-virginia.md",
-      "title": "This pro-Trump Latino wants to lead Virginia",
-      "excerpt": "Now, de la Peña, 65, who never sought elective office before, is using his life story to connect with voters as he seeks to become Virginia’s first ever Latino governor. He faces a crowded primary, which the Republican Party of Virginia will hold next month in an unassembled convention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502",
-      "originalUrl": "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/6f/30/8635360e44c49f7a766287c92f14/sergio-de-la-pena.png",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ilhan-omar-and-democratic-members-urge-biden-to-act-swiftly-on-raising-refugee-caps-lives-depend-on-it.md",
-      "title": "Ilhan Omar and Democratic members urge Biden to act swiftly on raising refugee caps: 'Lives depend on it'",
-      "excerpt": "A group of progressive Democrats is urging the Biden administration to act quickly to raise refugee caps put in place by the former Trump administration, warning that \"lives depend on it.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8O2YNrm6Z7U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8O2YNrm6Z7U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210416102953-rep-ilhan-omar-0311-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/democrats-letter-biden-refugee-caps/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/democrats-letter-biden-refugee-caps/index.html",
-      "publishedDateTime": "2021-04-16T07:54:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
