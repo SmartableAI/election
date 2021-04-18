@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sen. Lindsey Graham blasts Democrats court-packing plan; says Biden has created 'instability'"
+    excerpt: "Sen. Lindsey Graham, R-S.C., slammed Democrats on \"Justice with Judge Jeanine\" for their attempt to pack the Supreme Court, calling it a \"dramatic, bold move,\" and saying he would \"destroy the Supreme Court as we know it.\" "
+    publishedDateTime: 2021-04-18T01:52:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mAhJwAA2PS8/sen-lindsey-graham-blasts-democrats-court-packing-plan-says-biden-has-created-instability"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-lindsey-graham-blasts-democrats-court-packing-plan-says-biden-has-created-instability.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-lindsey-graham-blasts-democrats-court-packing-plan-says-biden-has-created-instability.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden meeting Dems with Farrakhan ties the same day as funeral for officer killed by Farrakhan supporter"
     excerpt: "President Biden is meeting Tuesday with the Congressional Black Caucus (CBC), which includes several members with strong ties to outspoken anti-Semite Louis Farrakhan, on the same day he attended a memorial service for the Capitol Police officer who was killed by a 25-year-old Farrakhan supporter."
     publishedDateTime: 2021-04-13T17:23:48Z

@@ -271,6 +271,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Gun control advocates pin their hopes on Joe Biden"
+    excerpt: "Nearly 40,000 Americans die each year from gun violence. Almost two-thirds of those deaths typically come by suicide with a firearm. Homicide accounts for 35% of gun deaths, most"
+    publishedDateTime: 2021-04-17T00:07:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56682356?at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=22E15D2E-9F11-11EB-A1BC-59F14744363C"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17B3C/production/_117948079_fb_img_1535318390257.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "President Biden to withdraw all U.S. troops from Afghanistan by Sept. 11, extending Trump's May 1 deadline"
     excerpt: "The move will extend military presence in Afghanistan beyond the May 1 withdrawal date previously negotiated by former President Donald Trump. Biden sees \"no military solution\" for the problems in Afghanistan, a senior administration official said."
     publishedDateTime: 2021-04-13T16:50:00Z

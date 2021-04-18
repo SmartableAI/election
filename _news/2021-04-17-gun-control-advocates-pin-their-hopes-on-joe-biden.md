@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden to move ahead with $23 billion UAE weapons sale approved by Trump"
-excerpt: "HuffPost first reported the plan. Former President Trump Donald Trump Biden to move ahead with billion UAE weapons sale approved by Trump Fox News hires high-profile defense team in Dominion ..."
-publishedDateTime: 2021-04-14T01:21:00Z
-originalUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump"
-webUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump"
-ampWebUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
+title: "Gun control advocates pin their hopes on Joe Biden"
+excerpt: "Nearly 40,000 Americans die each year from gun violence. Almost two-thirds of those deaths typically come by suicide with a firearm. Homicide accounts for 35% of gun deaths, most"
+publishedDateTime: 2021-04-17T00:07:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-56682356?at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=22E15D2E-9F11-11EB-A1BC-59F14744363C"
+webUrl: "https://www.bbc.com/news/world-us-canada-56682356?at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=22E15D2E-9F11-11EB-A1BC-59F14744363C"
+ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
 type: article
-quality: 140
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: BBC
+  domain: bbc.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
-    width: 580
-    height: 326
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17B3C/production/_117948079_fb_img_1535318390257.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden to move ahead with $23 billion UAE weapons sale approved by Trump"
+    excerpt: "HuffPost first reported the plan. Former President Trump Donald Trump Biden to move ahead with billion UAE weapons sale approved by Trump Fox News hires high-profile defense team in Dominion ..."
+    publishedDateTime: 2021-04-14T01:21:00Z
+    webUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump"
+    ampWebUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
+        width: 580
+        height: 326
         isCached: true
   - title: "Trump ramped up attacks on me to distract my father, Hunter Biden says"
     excerpt: "President’s son tells podcast attacks designed to be a distraction, ‘whether it ended up in some horrible death or whatever’"
@@ -255,22 +271,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Gun control advocates pin their hopes on Joe Biden"
-    excerpt: "Nearly 40,000 Americans die each year from gun violence. Almost two-thirds of those deaths typically come by suicide with a firearm. Homicide accounts for 35% of gun deaths, most"
-    publishedDateTime: 2021-04-17T00:07:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56682356?at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=22E15D2E-9F11-11EB-A1BC-59F14744363C"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17B3C/production/_117948079_fb_img_1535318390257.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Biden wants money to probe white supremacist beliefs at immigration agencies"
     excerpt: "WASHINGTON (Reuters) -President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
     publishedDateTime: 2021-04-09T15:26:00Z
@@ -453,6 +453,6 @@ related:
         height: 433
         isCached: true
 
-secured: "iaMNfYwqBhEAKcIPoJZqY4fY6qA3Fy4LdgTOAsYXs8G3PHRQ8v6tWXc7UZ2Y8iYoVqUfe7P0yd+HuOzjvVngcWBEAy5WfIsG0SzmiqnxfcE6kCQKmqSlUxANIXdzlPvJx8Xm+Aa6ZXZHpSE868VhLfo6ZXxbNnOaiVegKcljawMpAz1yxPI7wZKGkT6o4UKSlHR46+aWXQiZFz1Y9jAXum9oeOQfFkUphSw39MSpvlh/x1mTCLC3n1qSDksKZR1UtcW0hqwOCMBy9udqJQDd9+IB19RkrysihqC/dIfu83i/9cOsTwuC0S2omgTl1Yrydnn89hFo8fOxTyUrnVn01O1gtNpVbknrTvXRRcHIVassrKFRG+2MoTgd7/ZCdp0NGClnjVkeXuiFpGbzVQZUWb28bFTa2g3gd82RCRptvnm3Oa49JzzGice2H4c+ioc8IEttsUEVp7nlUQC0hxxRgFM0K7eBgZwXwqeKp0wmfu3O6rBqxhtHtB6QOx5MspKC25nuv7ocIc10SofZlT6cfQ==;lUXa8SR2V34ebjBjoBMAkg=="
+secured: "PNsww+R4CJyIlybeoENfqZuo6aztTKloFUV1bMPQ0I8lEfOm9w1M51OpoKXxO1sjGvMA2g4PL01B1EP9aEhlMfyf2S5q9kqMMmpBpBnUWhcVc3gOTgmLCDqnUk6W26pmd/cYvCJt4sgsAccIRTazJ/GOYfQX+7LWqIUaroQaatHyCASaiTKjf8Jnq1z8ixYOMUOYyvJERvMStoWMk5vw+hhwuIlY4FCqrjUqEVCy9MAkXk3hRZ9Ci0mGGzrSpSlaiw23C5WquFPg0wCsbNeUuHaPqhQK6jc66CaID6ElUKbf7yx90TK4HsuDDJztpDOQbsIdJ0Vrb/2XIRjjezu7BH3CuIss8+Dd6Ca4lwyAOKo=;obCRK9UMGGw3pLTIoOdIhg=="
 ---
 
