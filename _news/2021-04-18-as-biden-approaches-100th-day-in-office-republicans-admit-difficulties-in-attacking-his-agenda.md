@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
-excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
-publishedDateTime: 2021-04-10T15:01:00Z
-originalUrl: "https://www.businessinsider.com/amtrak-joe-brief-history-of-bidens-history-americas-railroad-2021-4"
-webUrl: "https://www.businessinsider.com/amtrak-joe-brief-history-of-bidens-history-americas-railroad-2021-4"
+title: "As Biden approaches 100th day in office, Republicans admit difficulties in attacking his agenda"
+excerpt: "Biden has been unrelenting in his view that now is the time for bold change in America, and so far, Republicans have largely been unable to stop him."
+publishedDateTime: 2021-04-17T21:09:00Z
+originalUrl: "https://www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4"
+webUrl: "https://www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4"
+ampWebUrl: "https://www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4?amp"
 type: article
-quality: 96
+quality: 113
 heat: -1
 published: false
 
@@ -23,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/60648df3daf0f10018f99339?width=1200&format=jpeg"
+  - url: "https://i.insider.com/607b3fc774da0300181e252f?width=1200&format=jpeg"
     width: 1200
     height: 600
     isCached: true
@@ -93,19 +95,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "As Biden approaches 100th day in office, Republicans admit difficulties in attacking his agenda"
-    excerpt: "Biden has been unrelenting in his view that now is the time for bold change in America, and so far, Republicans have largely been unable to stop him."
-    publishedDateTime: 2021-04-17T21:09:00Z
-    webUrl: "https://www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4?amp"
+  - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
+    excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
+    publishedDateTime: 2021-04-10T15:01:00Z
+    webUrl: "https://www.businessinsider.com/amtrak-joe-brief-history-of-bidens-history-americas-railroad-2021-4"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
+    quality: 96
     images:
-      - url: "https://i.insider.com/607b3fc774da0300181e252f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60648df3daf0f10018f99339?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -119,6 +119,6 @@ related:
       domain: reuters.com
     quality: 80
 
-secured: "fdjIDXM8XaQc5ZNzVxvbkZBB7KnZZGoIUoyLAGx+TxiBwma2uHfD57C+oPuwhK5coljdfCngKRtp5AhlYjoZv78npGkJ95thP7wvZJ4LTFTptb1nlYhWrZH6DrA9hr0sM+pevu6nfUcSllGfPLHLRxDn49ti0JQYrmUzV8Jw8UFvXBU5J4n4QxTKFNCnT5ssKpOxzky33GNVFFLskujWjzG+JRl4WCEagc6/riUbNveC3NqkoobJMmEScHRUuKtW14/hmoBeCxe1QzALZKd8dy4cjnUVbI438fc3VkKglqTqLtunx+Fcfn/5ucirqEUZnAaGyVpACwXSrMTghVey/bZz/hrBC9tBGFS77sUTaGC287Se+7JPVzPFIvcSxRftYb79FUJnmZuPpfFBXPg0/FAdw5eXrODfp/k+Me1fTJ1kTutZuAQAMWKKs2p8JMVvxy/orzcwS3O6dg1a17IAGVaMrBJQ4QAsCfimNOm42nTBAzAYXgOyc499IIUxbqmb+VaHBXcECaFglGndbH+xIQ==;86HtV8XsUGLMoo+Jm+o8ng=="
+secured: "Cqtxzx2WVm4WJsPG3Ut0tT7QcS6/DAqgAfbyDQIe/g2cyDxnJCPrIgvGE3d8HW9NUvlQQWwPI4WCsHBeCfgzTZpUZxzq2sQ4P5UX8frToX5a7mDQFcUXvOP/raxTNL3x/GI5VA9MSAhJRsRgXRJ4Iswd0GTmr9tG5MuZoZfNFYqLg0Uajj3VK19MQBhodDB1fi8co7+bc463h+tKijAiQZo/EIWeNokinUsUpR3x363EGR+PtudmNnS+8yK5r+2glPXyvnNx+u22SAEjQXV/wUgJNW3muD2che/Dg/5NuOcAGavOGQYDTVWR8EOEHV2PDa0jysZFPvpepU4b5hEDunklI2lwoXwnJNYsrErmJB0=;N6yvq8tflHCvQfrC4F2HOA=="
 ---
 

@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A nurse who sent her jailed husband videos threatening to kill Kamala Harris was charged after the Secret Service intercepted them"
+    excerpt: "Niviane Petit Phelps is accused of sending several threatening videos, was pictured at a shooting range, and applied for a concealed weapons permit."
+    publishedDateTime: 2021-04-17T18:33:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/606f487330004b0019b26b5e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Florida woman charged for death threats against Kamala Harris"
     excerpt: "A woman was charged for alleged death threats against VP Kamala Harris, according to a criminal complaint filed in the U.S. District Court."
     publishedDateTime: 2021-04-17T18:10:00Z

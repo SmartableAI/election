@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/720d527/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F67%2F80d853e04d5f9bb18a623b08fdd4%2F742517-la-na-deniro-jones-04.JPG"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A nurse who sent her jailed husband videos threatening to kill Kamala Harris was charged after the Secret Service intercepted them"
+    excerpt: "Niviane Petit Phelps is accused of sending several threatening videos, was pictured at a shooting range, and applied for a concealed weapons permit."
+    publishedDateTime: 2021-04-17T18:33:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/606f487330004b0019b26b5e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border"
     excerpt: "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”"

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump aides build out the MAGA-verse with new groups"
-excerpt: "A number of Trump's top campaign aides and senior administration officials are launching nonprofits or super PACs."
-publishedDateTime: 2021-03-03T09:37:00Z
-originalUrl: "https://www.politico.com/news/2021/03/03/trump-aides-super-pacs-472947"
-webUrl: "https://www.politico.com/news/2021/03/03/trump-aides-super-pacs-472947"
+title: "One America News Network Stays True to Trump"
+excerpt: "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack."
+publishedDateTime: 2021-04-18T09:00:00Z
+originalUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html"
+webUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html"
+ampWebUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/5b/57/79e8db9540fd98d968215ad7bd33/ap20351767222013-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static01.nyt.com/images/2021/04/05/business/00OAN-01/merlin_177598191_67fd0320-9bd9-4f06-b481-3683fd454302-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -110,23 +112,21 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "One America News Network Stays True to Trump"
-    excerpt: "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack."
-    publishedDateTime: 2021-04-18T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+  - title: "Trump aides build out the MAGA-verse with new groups"
+    excerpt: "A number of Trump's top campaign aides and senior administration officials are launching nonprofits or super PACs."
+    publishedDateTime: 2021-03-03T09:37:00Z
+    webUrl: "https://www.politico.com/news/2021/03/03/trump-aides-super-pacs-472947"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/04/05/business/00OAN-01/merlin_177598191_67fd0320-9bd9-4f06-b481-3683fd454302-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/5b/57/79e8db9540fd98d968215ad7bd33/ap20351767222013-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
-secured: "TGFOu3vgjI7Gd0eUa6sA1ozxGQg2VS7tmgzq6Lrox6Je7OySv0tW5Ti4Mx2fT43t8QAGq8HPYcGVoBG9IfLPSfYW6c5VkVKM11h1K6q6HAgYeJy5rLHPlVpyenxge/ElF6Jo65A1OaaSl47IS0mgDnTyMXA+W7OrCa0w23u/UCJhD4xSWr3X4WEbmDpl0pqEL9LYni8AV/w/jlXUvFMFp8GZDmaHOpXD5Ug86maI3hlI9eMu6oTBGtKB3hzA/72bnCChOzFla1Lb3uWvYJnjZIe4P/zcZa6lOdk32XhmyqcaV5LPplmeTVbZ9bv2cilF4Qr+hkY/5uyEjbfiVZfebX2AGjILHJhZJLpwQfKuKpY=;RsTadHKeq6cgbtB0eLaVgw=="
+secured: "vgjXKBiEzYOGDxFwkRbtOod6yu3L99Rz9AanAciafnTCgakWBRak93TRAdrIe5Nvcm35BvtlW4jMSoQpq1JcRf3F+pT22EbjhKXfTLQps9oytOd+5hbmFRWZcXWagUGN+kp7rVhT4Vaw12eZgnFOpbUBpr2iJdn23oFZFTF/rBC+3TOmrPRUIvybcqn5Pj3LwpJY1tRSavndtTM8QEoxIru1J1xSwtlPOzRzn8uo5oI/7ZWzHlR7chUlc3cs1uf5u6e0vXsLV+tWZ1uz/2yW/g0RqbppAwZzE55zR8xyB9VBHS2OVxHLNAJUpQunVSWWhWVeEmtBP3AFj/m2/whXnbPq4tDRB/cARfcFXymF4G8=;2hf59NCbWxta1z8w2B1HHg=="
 ---
 

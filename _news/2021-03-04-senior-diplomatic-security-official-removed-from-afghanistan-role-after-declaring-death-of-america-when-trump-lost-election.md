@@ -95,6 +95,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "One America News Network Stays True to Trump"
+    excerpt: "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack."
+    publishedDateTime: 2021-04-18T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/05/business/00OAN-01/merlin_177598191_67fd0320-9bd9-4f06-b481-3683fd454302-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump aides build out the MAGA-verse with new groups"
     excerpt: "A number of Trump's top campaign aides and senior administration officials are launching nonprofits or super PACs."
     publishedDateTime: 2021-03-03T09:37:00Z

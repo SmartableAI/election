@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Mitch McConnell Doesn't Want to Escalate Feud After Trump Called Him 'Stone Cold Loser'"
-excerpt: "Senate Minority Leader Mitch McConnell of Kentucky chose not to escalate tensions between himself and former President Donald Trump when asked about Trump's recent insults towards him. Trump called McConnell a \"dumb son of a bitch\" and a \"stone-cold loser ..."
-publishedDateTime: 2021-04-14T03:38:00Z
-originalUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
-webUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
-ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
+title: "Donald Trump faces backlash over comments about judge"
+excerpt: "Beast's Betsy Woodruff joins CBSN to discuss the backlash against Donald Trump, who accused a federal judge overseeing the lawsuit regarding Trump University of being unfair based on his Mexican heritage."
+publishedDateTime: 2021-04-18T06:30:00Z
+originalUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
+webUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
 type: article
-quality: 117
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1777388/mcconnell-trump-loser-comment-response-rnc-speech.jpg"
-    width: 3108
-    height: 2072
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/18/dcd664ed-ddac-4240-9f14-82e0330c3f7d/thumbnail/1200x630/21d8318cba3361fb95ab75f817569175/cbsn-trumps-trouble-0616-1073915-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -303,6 +301,22 @@ related:
         width: 1072
         height: 667
         isCached: true
+  - title: "Mitch McConnell Doesn't Want to Escalate Feud After Trump Called Him 'Stone Cold Loser'"
+    excerpt: "Senate Minority Leader Mitch McConnell of Kentucky chose not to escalate tensions between himself and former President Donald Trump when asked about Trump's recent insults towards him. Trump called McConnell a \"dumb son of a bitch\" and a \"stone-cold loser ..."
+    publishedDateTime: 2021-04-14T03:38:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1777388/mcconnell-trump-loser-comment-response-rnc-speech.jpg"
+        width: 3108
+        height: 2072
+        isCached: true
   - title: "Republican McConnell proposes Trump get two weeks to prepare for Senate impeachment trial"
     excerpt: "U.S. Senate Republican leader Mitch McConnell on Thursday proposed a timeline that would delay the start of the Senate impeachment trial of former President Donald Trump until mid-February."
     publishedDateTime: 2021-01-22T04:17:00Z
@@ -350,20 +364,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1775605/asa-hutchinson.jpg"
         width: 2500
         height: 1666
-        isCached: true
-  - title: "Donald Trump faces backlash over comments about judge"
-    excerpt: "Beast's Betsy Woodruff joins CBSN to discuss the backlash against Donald Trump, who accused a federal judge overseeing the lawsuit regarding Trump University of being unfair based on his Mexican heritage."
-    publishedDateTime: 2021-04-18T06:30:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/18/dcd664ed-ddac-4240-9f14-82e0330c3f7d/thumbnail/1200x630/21d8318cba3361fb95ab75f817569175/cbsn-trumps-trouble-0616-1073915-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Senate Republicans gave a brand new award to Trump the same weekend he called Mitch McConnell a 'dumb son of a b----h'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Senate Republicans' campaign arm announced on Monday that it had presented former President Donald Trump with a new award over the weekend. Trump spent part of the same weekend attacking the top Republican in ..."
@@ -492,6 +492,6 @@ related:
         height: 800
         isCached: true
 
-secured: "128WtnPvpZ+/9HeSqp2nnVv1RcUp9D+Ybu9Qt1J7SYcSc8Qs3IQfzVYwc1VtqYKcFgVQX3bZhz+5e/1aYfY0RUAWzWAuUr/1NrHxXE/v3zByh0pmcX5EBTOThv+LNN7+26pvCQ7pg1pfQDCpNmFIbe2cRi8EPOr0ej6FU9cQxu5ZERQHlf+tvJFYcjUk4rwtx9/kyFRd7lTWr1SY95AGyWo6DDjLVE2BeOvpdAJjPNtYQ4pXo5fJviVnfkHlOD7ub/h7Gxscwl3op/Wu/vzUsIoQuj7IJiJkN7f0zXyTq7xnnpyT/hGjm8HMHzA6Qhetbq5Q7UcZa6jwXxvXUT1hCAkIxO2bNQi/95r6JbaCgtlNSLW2MUIquktIX5Bfp1VEYcXmBNzjHRqdlTBPEXVH3Dzpjzfmt6QhI56cWr5Ul8qt/e46n204eKznFptGObutFnqtF+gcynTFHpLkIJVK7xH3VvVi3ux5chBs5aqXvxrX06Sb78r7o59r4pLq5/9Pwdbhf1VyaTKZvi8U2uI0UQ==;rm+C/kv/XllReq2HHkUQ4w=="
+secured: "8Gt+CMtiH8SVWXHD+CLhMVdOb4+556jozg+ZAZwRJqlrIymG3z3sP12DfG5vFelp44Ha3P3KBR1srFxixo+zWr2mhkDygHOn/cYSES5e5wwX/20wNqzs6O0FoZtseNYXJPmEZIaoeqNpSlw3vfklNvSfY6K3nZ0deYZCwBwVGxxVrxxd7ArBFkv44rMEccTEfuSzgVUjrnKG7QTW1kGlqUPyU+2pmX1dMUD6zI4GfpZrt/qG3V+fmtoVztNDxUQLECoXAv3V9d40dl1x70ZBBcAQCYT0v+OUBHWtAGcT+To39snzAbjes00n5sGAZdP5W21+xEg8jpyAwA+X7NcfUwha6rbgALaiawllyPxfue0=;xORmbWSUI4yscT7D81/tyA=="
 ---
 

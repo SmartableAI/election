@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A nurse who sent her jailed husband videos threatening to kill Kamala Harris was charged after the Secret Service intercepted them"
+    excerpt: "Niviane Petit Phelps is accused of sending several threatening videos, was pictured at a shooting range, and applied for a concealed weapons permit."
+    publishedDateTime: 2021-04-17T18:33:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/606f487330004b0019b26b5e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border"
     excerpt: "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”"
     publishedDateTime: 2021-04-09T00:00:00Z

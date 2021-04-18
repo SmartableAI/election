@@ -1,29 +1,33 @@
 ---
 category: news
-title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
-excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
-publishedDateTime: 2021-04-09T20:49:00Z
-originalUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.html"
-webUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.html"
-ampWebUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
+title: "A nurse who sent her jailed husband videos threatening to kill Kamala Harris was charged after the Secret Service intercepted them"
+excerpt: "Niviane Petit Phelps is accused of sending several threatening videos, was pictured at a shooting range, and applied for a concealed weapons permit."
+publishedDateTime: 2021-04-17T18:33:00Z
+originalUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4"
+webUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4"
+ampWebUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
 type: article
-quality: 51
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/eb/6ebc8674-0d31-5378-a127-0b4b37ea4c3e/6070bdfc381b5.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://i.insider.com/606f487330004b0019b26b5e?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -72,22 +76,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/720d527/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F67%2F80d853e04d5f9bb18a623b08fdd4%2F742517-la-na-deniro-jones-04.JPG"
         width: 1200
         height: 630
-        isCached: true
-  - title: "A nurse who sent her jailed husband videos threatening to kill Kamala Harris was charged after the Secret Service intercepted them"
-    excerpt: "Niviane Petit Phelps is accused of sending several threatening videos, was pictured at a shooting range, and applied for a concealed weapons permit."
-    publishedDateTime: 2021-04-17T18:33:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-florida-nurse-threatened-to-kill-vp-say-secret-service-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/606f487330004b0019b26b5e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Chris Wallace: Kamala Harris seems to want zero 'fingerprints' on Biden's migrant 'mess' at border"
     excerpt: "Chris Wallace said that Vice President Kamala Harris appears to be treating the border crisis like a crime scene in which she wants zero “fingerprints.”"
@@ -311,7 +299,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
+    excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
+    publishedDateTime: 2021-04-09T20:49:00Z
+    webUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.html"
+    ampWebUrl: "https://madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/state-and-regional/govt-and-politics/after-kamala-harris-visit-sparks-bakery-vs-border-debate-chicagos-brown-sugar-bakery-gets-caught/article_6e058f3b-fe20-5b4b-9d0a-0d12111c6187.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 51
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/eb/6ebc8674-0d31-5378-a127-0b4b37ea4c3e/6070bdfc381b5.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "x1affJm4N/GiHvpiyQiQr3nOBRdgSvAW+v74ci1/pgvkGyVgs3CPLywefQX8HFjsuUFk7k2fn8McqC0PYFGdwgJ0f3uMdG+t8bvkenH4Y5KEzAJeoYbzNpZ3H4W0RtLt1C6m6DCjtje+/tQdjR9UfnVZ58SX0rT5nt7d38lJE4zOB3Kw1yW44i1+k/HKBwg5+37XvFqu4qfFmSKZasWedQkH54P1egQGgHNhxFDjJ4y2ZwiqNZbUPzjF4xkxRCn5OUepsCxTYbAmoAPAaqDV2oF7zqjQaxXWHdJsFVT0Qr3ONpK08WftlLIq6E1A9Z290uhpPff88ZiQ0F54tkzUgrkDAq0qvoi5Wo5APeZYnAvswT30YWm24ZGVYVmwm0oHW96tkEFlCepAndufM8t+gDmrpkzUEIFwhBdQixJHCRtVphJJKT8g0AZc01BgF4uyPOoO9wO1T13El+5SnADUlLpbRTIUwa1Ls/00Z39ZRbHO/AkjfN+l/ZMmapnmM7nvYjXD2fReCNsq45qprenUtQ==;5JIWcaR0+h/x5lMqXNyI2g=="
+secured: "kgq30/GUYZjwh3dRhPdovyVJE0JuegQn+nrawWm8n/t66u9KVe3pap26Rgy9kqG9fDo9yhw8wlj4swAxfBVAh+e17YaQY71XaUhriNAkYo1nz24PrIiNqsyHccC2v6LGRNE0dhFJ49r2zyglsgW75nMWAiphd8sDTMPDghSHyUJiR/gYKL+gw3vc5cScIoxBgVj+HkjJ3mwUbjfsVM9cTqGG2TDn+xYWHIA0EgoKOeDSHIhw1uV+SC5ddQF1ygGpBNVhOVzmF09dDEd6XiWI3S/ZG0YClrEXlNDedaQ8aiUY3vVjs+j+UZd6F4uF6GtEgvvAmhrpKQHl3Bq1NTP7sMe9AxAOEYr6KsJAj4RYWE0=;nLNSZHaghyQSkv30hew/uw=="
 ---
 

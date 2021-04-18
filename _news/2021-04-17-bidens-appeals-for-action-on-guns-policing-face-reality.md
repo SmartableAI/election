@@ -2,11 +2,11 @@
 category: news
 title: "Biden's appeals for action on guns, policing face reality"
 excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting and faces a reckoning over the deaths of Black men at the hands of police"
-publishedDateTime: 2021-04-17T00:12:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77128693"
-webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77128693"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77128693"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77128693"
+publishedDateTime: 2021-04-17T04:12:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
 type: article
 quality: 125
 heat: -1
@@ -442,6 +442,6 @@ related:
         height: 1472
         isCached: true
 
-secured: "yoAJ0fQNqRNDTVcKrw7T6I64OzEDiGKkjZipJu4ykxqnmavgxPCmpSne9rXn901YvP8HkUY2tjPRJwn+ic1N3SKU9ZODpMdOEigKQcGD/TO6Limsaf3yclz07Fy1aS5wNqc53rYvrul+EqYzp3QFLAk7VGVOqS2kaNDxxrTVWjQ9cpJcT4Whw9xRLpSzAAVPrAYIzuPQ56HYDI6a/8MshuLXv4h+0KWTObxiH5nI28ox884tM10y0uVpKErpuVU72jAqU6xUZOaVQiQM72Rh6nd0ZXXTKO1vw5UBFqEOV2JuqPYp2MDJd+xSLfClP/EOaE+D9rAq1aihqkvq6BKKesk5UEEi7VbaXbUV1yj9W3DDVQMTEACI6RlYw1/HEFIweCFAY5XzOPgkSsvXpMyU31go3O4eekukhOsP6i4mcaoYx7G8v48kRN+vflSdWYaA7yw5iioNwmrnjQOcNBtUUiA/RZxjNptrSN+pbz7PBTIf+O7p10OPTu2uRrQkkCnAEe+9PVXn/ZLBhKzQrCjORg==;5RFtSxER5QZWvJr8ua/f0g=="
+secured: "ylWSy3rk8tUDqVKB+i7gDgX60trTFLhsqkIB2Z7018LUL/SOLPamfo5ubSTG++1pmY6BZyZYMsuLEg3/aOfVo5OnlKZ38ZfWlcjDR1XlIzKAk5ntDm7/XrGXlJNBv1LWcuCMq6XwT+q4q+kOwI5YDUhWOR8p8YhL2Mnn0WiZ/gnqXt26vlX9kEgP04BenGpEvsMoIoptRRzu+TbrZZR84hsw/un8t9aL+oo44B1xbdsml0mPUqiuoXlskBWjhkDT4DzJHgyiA6F7xzmquQjoynLpIFlEPE7idObDFlkUJZKk8DemUyZAzpsahKO8TmZCvF8P+u+hiiJzXHXhsm8DSRjczAF9lmGJYBG6knV/P5k=;ndlAwlWF1xJgHqwQCWG27A=="
 ---
 

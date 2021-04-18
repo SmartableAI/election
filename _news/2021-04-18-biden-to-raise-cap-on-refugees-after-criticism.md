@@ -77,7 +77,23 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden was tough on drugs for decades. Now he faces challenges in fighting money laundering"
+    excerpt: "The Biden administration has a long road ahead to tackle the hundreds of billions of dollars in narcotics-related profits laundered in the U.S."
+    publishedDateTime: 2021-04-18T09:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/18/president-joe-biden-faces-challenges-fighting-drug-related-financial-crime/7212189002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7212189002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7212189002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/16/USAT/63b2ea62-aa0c-433c-8655-e43e31290498-1410384318000-AP_Fashion_District_Raid.1.jpg?auto=webp&crop=3263,1836,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "w118ntmmmyaN1Nam3UpF3zvOXZtWN5351PGEFUPAmlxHWTu1J6ViiKLmusHLl4LO//7IRto8WH0RqQBpkAnkxu2rWnzCUH/ru95Lv5sF5rtL89GK0ffF7M6IgLhOtRfcUatG/U5kN+BorDGXIXn0ABsQ9dAeP1eQOK38QuQkux0L+riVbGmfz28jJwajZ95OgeXdnU5R3VpAEUtGxl+bK0FLDzrBTSWjB2VODIHKCIySfa9mzGtdAzY2FUvgI3P2LVKN2BjL9WcJL87Qf+/VaqRJwIIO7riTw8Jx3VWEyBVz31muucJlKslBJlIgUSwPPfcCsuex4z9gH5yglzcd3FgcjlalRYqZKxmgMWeMckc=;UeE3rIXYC15Kjalunodxzw=="
+secured: "ZRCN4Mg3QVZOWX/NNeNkYN/Em5Fiv8nBqR6GZd6ZqGoNPjxq/aCsMRHbT9A14/fPaau4WRfU2j3rGlGQ3XdtsiZA+tXiuy+tRZoYcGVuPwzMvh1uir41TZchcXyu9bS61jKcz48fmLyo1DGyHyK5unfIThNSja+UM/1j4sS9TOpD4a7ZmuT3e+nZZsCAyTwlLGeESqjyy0lsxErqFyIKKwVPTnO8MQnACzNHytpFYk2WzMy6XxoqkfmpDczz53PBQZweDaAR4MCkyOjE188+rccmC90533uvxbF9R5y20oBIaOpWdUBP/LN26ZSjE/6/k8g0mTp/Pc1H6OdvnLQ96/qVeLgTRFRB/f5hMCokzZ1YlSSyXRaTQnjNXw02mMJGI283eg78ebVFuuWk1yEyc5UrZiP+xqMFyhibMxKQWoZpek3irVSoBECPWjhdXfSSTKcT2ELyqA5NtUxket0GYtTFfks9CBA6gOLolsC7G5PUFC4lqVOUvmV4HpUUfCTMQ93iB95jeXNzELINGzLiXQ==;cBKp016eMR6rf+3FewkP2w=="
 ---
 

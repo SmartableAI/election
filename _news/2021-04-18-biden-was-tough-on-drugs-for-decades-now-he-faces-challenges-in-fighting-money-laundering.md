@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden sees `win' for US in electric vehicle battery deal"
-excerpt: "President Joe Biden calls it “a win for American workers and the American auto industry.\" WASHINGTON -- Two big South Korean electric vehicle battery makers have settled a long-running trade ..."
-publishedDateTime: 2021-04-11T12:36:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
+title: "Biden was tough on drugs for decades. Now he faces challenges in fighting money laundering"
+excerpt: "The Biden administration has a long road ahead to tackle the hundreds of billions of dollars in narcotics-related profits laundered in the U.S."
+publishedDateTime: 2021-04-18T09:00:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/18/president-joe-biden-faces-challenges-fighting-drug-related-financial-crime/7212189002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/04/18/president-joe-biden-faces-challenges-fighting-drug-related-financial-crime/7212189002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7212189002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7212189002"
 type: article
-quality: 125
-heat: 205
-published: true
+quality: 115
+heat: -1
+published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_fad24c3069b54782a4557fd75b0981dc_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.gannett-cdn.com/presto/2021/04/16/USAT/63b2ea62-aa0c-433c-8655-e43e31290498-1410384318000-AP_Fashion_District_Raid.1.jpg?auto=webp&crop=3263,1836,x0,y229&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
+  - title: "Biden sees `win' for US in electric vehicle battery deal"
+    excerpt: "President Joe Biden calls it “a win for American workers and the American auto industry.\" WASHINGTON -- Two big South Korean electric vehicle battery makers have settled a long-running trade ..."
+    publishedDateTime: 2021-04-11T12:36:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fad24c3069b54782a4557fd75b0981dc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden sees `win’ for US in electric vehicle battery deal"
     excerpt: "Two big South Korean electric vehicle battery makers said they’ve settled a long-running trade dispute that will allow one company to move ahead with plans to manufacture batteries in Georgia"
     publishedDateTime: 2021-04-12T04:32:00Z
@@ -63,22 +79,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden was tough on drugs for decades. Now he faces challenges in fighting money laundering"
-    excerpt: "The Biden administration has a long road ahead to tackle the hundreds of billions of dollars in narcotics-related profits laundered in the U.S."
-    publishedDateTime: 2021-04-18T09:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/18/president-joe-biden-faces-challenges-fighting-drug-related-financial-crime/7212189002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7212189002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7212189002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/16/USAT/63b2ea62-aa0c-433c-8655-e43e31290498-1410384318000-AP_Fashion_District_Raid.1.jpg?auto=webp&crop=3263,1836,x0,y229&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden to raise cap on refugees after criticism"
     excerpt: "Posted . President Joe Biden said on Saturday he will raise the cap on the number of refugees admitted this year to the"
     publishedDateTime: 2021-04-18T07:42:00Z
@@ -94,6 +94,6 @@ related:
         height: 675
         isCached: true
 
-secured: "S73ph13S2anQmyx126FS/5e7sn1rGgLrxKbRc3X0Umbj7PkHghmVBye3ge5cwlHeunbkwun/ntWk2TyaS5qGLEqIWKXcJde8ENdcF9MALIPU5+Pi+2cF/BxUFLKxhsEx693PkAm38ojJmc8MlsA1eTmOHdGc5VY+Cmmddqqh9H4MEMV3MaYynJYM7/J1X+dVjXKw+i+vZq81rhFsl/9x+UFjpK7MWboNbgWLL78+2AkR1Mj3nwJYw73tT39WifdF2RTxjuMeX4O8YQJHogxFBVhERL94RiyFchv98odLhMzQz03K5VtwxmcLykUpRD9SCQiB2v1UWsQgsQZgFDdElNsmhlh/H5hRAFo9Rj8/43q0eKgI0MVT5/OoDgGDorEMuIuKNt9wj4fDRKlkN9u6OVkC3dhqrpEZ3GPrf+scIqSXcnjuSzT/jMGgww13DbUJWqUki+S2pigpN4ddNR9BPbfm/QBEineQ2tqWEyRWU+wqfEmpjygVxgJo5q/vSgrW77Mksm80kwbyT87pTxzyNQ==;EKvir/fhwCrWfsFt2aJgTg=="
+secured: "fpFmkc6C4j8y9QDUiQfq2xOWfatG3fj4j3plWY1P4sp21RiKgwglzS/8O7O2V78oxSElqFxENtCzHU0kJUdyGbQJr62wnA3K7223D0JHm8M0Lmxi8DzdOmbHME3r1kgdLJC/OlLlicfizJlQw8Ib6ht9UiSbDFVGttnkEmcx76p8KTotf1g1KFt04HBn69TsM7PUcewVAAr+5+n55rPjKRo7uTqfX8aONbSqqtxdxhYvb0EDXhtel8UtwPzX9zx0HVm5hOjCA1+dylAaIHurMBzrLaf2gl9/UyuIGt8Yq1qKQONJijzRkGkIpaaXO41ElpEg8nkaY6l7JQ2jlJgicWMg/bndTIzrRB48ALTSjMc=;0hcXMzyjU/vS4kR+N7CCqg=="
 ---
 
