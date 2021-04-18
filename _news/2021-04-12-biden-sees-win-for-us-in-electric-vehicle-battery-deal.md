@@ -63,6 +63,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to raise cap on refugees after criticism"
+    excerpt: "Posted . President Joe Biden said on Saturday he will raise the cap on the number of refugees admitted this year to the"
+    publishedDateTime: 2021-04-18T07:42:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPJqJ?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/607b86a2e4b0653eea185c5b-1618708130680?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "M9lL+cFXvQ+0TcrRP1EtwqAhwjWS8O65IkdFxDC4W7klmZ64ZxOq+H67wUEAdnbG6tGTmLcvK3TU2d0T1rOGo8Ywp/6f6F5mDuImBFqoDGdAUMIZYhh8mc6wEkTkXjW4e9Kd1uZteWj6zbOixhS0uJavBh0+tfKfLbR/STu066xvwL9xrW94mEHgiV5bIrwIg/+0c24WMUvcJXzRZ4l8F7kF2YEeZCC+OUlDGxdV1bP5d4r601PY7buMSckpXUM4l8vWNS5kAT7XzoChomnTu5V9LbWR1JdAcMElCmgA2fdOp3U9q2k8qbe7Bs20uWSY4atLrG4E7jCh/9xb/B5GXiZvlHUgf5GL8nZi3LKVXuE=;X0x6rYixoqUiyV00CABuQA=="
 ---
