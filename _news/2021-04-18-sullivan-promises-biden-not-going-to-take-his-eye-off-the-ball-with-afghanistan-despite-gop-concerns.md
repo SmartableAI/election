@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Secretary of State Blinken visits Afghanistan in surprise trip after Biden troop announcement"
-excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Afghanistan on Thursday to sell Afghan leaders and a wary public on President Joe Biden’s decision to withdraw all American troops from the country and end America’s longest war."
-publishedDateTime: 2021-04-15T12:28:48Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_6coFj4Z9A/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_6coFj4Z9A/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement"
-ampWebUrl: "https://www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+title: "Sullivan promises Biden 'not going to take his eye off the ball' with Afghanistan, despite GOP concerns"
+excerpt: "National Security Advisor Jake Sullivan promised Sunday that while Republicans may fear that the withdrawal of U.S. forces from Afghanistan will allow new threats to emerge or old ones to regain power, President Biden will not let that happen."
+publishedDateTime: 2021-04-18T15:08:13Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Ku53OvCaSY/sullivan-biden-afghanistan-withdrawal-gop-concerns"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Ku53OvCaSY/sullivan-biden-afghanistan-withdrawal-gop-concerns"
+ampWebUrl: "https://www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
 type: article
-quality: 164
+quality: 159
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/02/640/320/AP19030745305241.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Secretary of State Blinken visits Afghanistan in surprise trip after Biden troop announcement"
+    excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Afghanistan on Thursday to sell Afghan leaders and a wary public on President Joe Biden’s decision to withdraw all American troops from the country and end America’s longest war."
+    publishedDateTime: 2021-04-15T12:28:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_6coFj4Z9A/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement"
+    ampWebUrl: "https://www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/02/640/320/AP19030745305241.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden announces Sept. 11 Afghanistan withdrawal deadline, says it's time for troops 'to come home'"
     excerpt: "President Biden on Wednesday announced that the U.S. will withdraw all American forces from Afghanistan by Sept. 11 — pushing back a May deadline set by the Trump administration."
     publishedDateTime: 2021-04-14T18:39:32Z
@@ -190,22 +206,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104669713438.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Sullivan promises Biden 'not going to take his eye off the ball' with Afghanistan, despite GOP concerns"
-    excerpt: "National Security Advisor Jake Sullivan promised Sunday that while Republicans may fear that the withdrawal of U.S. forces from Afghanistan will allow new threats to emerge or old ones to regain power, President Biden will not let that happen."
-    publishedDateTime: 2021-04-18T15:08:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Ku53OvCaSY/sullivan-biden-afghanistan-withdrawal-gop-concerns"
-    ampWebUrl: "https://www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
     excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
@@ -224,6 +224,6 @@ related:
         height: 500
         isCached: true
 
-secured: "s+j1iHCPCkLBzBFNDZyoNgbt0FKscJb1NvE77h6mAZy/KIqrLXkQwJgvZA1x8PFzTyG5JXBktHEryxynHelC4VpBlok8FwvQipnrf58510ARJHkjemIzvpunCBzubkFvtNucrH9lP5dq5G9O8nVxygevAIDNCkIena0V2wshQKO0+8t4DPRRHYn7Ev1W5WlHG1WMjyUwekHkXCilpPCmAUmnYxUrCDfJdQtKcfBStZVqsXiThtFikhgSAcNw7VAc26Z3JIhXOZF1MCCzQ9KTOVA5CspMxomGqa3RFOnnjLIvNs+WIWMGsIbH4AEZbe6loUmvIs9N+x1PKaXOKTn80vISR8oVXPZO1bTuOsNYVKE=;pAfiyBtXF5OqFWatVHh5tw=="
+secured: "Y86So9nN7IuO2qLnGFt/xUVY76UGESzqn2hXvDlauPSvS5ukK0rX943YKXVAZ44IFYV8kkhbTDkna9Oow7ZqML3RlNH8WsHhUooaBRcPDxg/ToipVV8JJPBvo78no6JCG6syq7gv9LWHV7z8EB3sXe4karewSpT/r8DVzjwtmwciAPNYhh2CreYbpZlOxg16G5kusV438radY3WWEhTiCQjqAg/wy3qfqZDPxaCf9/Pe3hjNZHmr+38PyH7anK3LB0NzBvger12XSk2mxRvDTNUoPdtEgDoUmaHrCSk2GkQcsJUAm8Q7CHRoCv4u7giWA+jBIx9fj1IVAP2MeSzFK07wXLYAwb8rTll4jLNn/lw=;WFeAmNo0vynSzR4+UYfZAA=="
 ---
 

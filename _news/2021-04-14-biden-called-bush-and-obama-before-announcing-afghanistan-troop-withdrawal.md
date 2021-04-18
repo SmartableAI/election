@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-called-bush-obama-afghanistan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-called-bush-obama-afghanistan-troop-withdrawal.amp"
 type: article
 quality: 173
-heat: 393
+heat: 413
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104669713438.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Sullivan promises Biden 'not going to take his eye off the ball' with Afghanistan, despite GOP concerns"
+    excerpt: "National Security Advisor Jake Sullivan promised Sunday that while Republicans may fear that the withdrawal of U.S. forces from Afghanistan will allow new threats to emerge or old ones to regain power, President Biden will not let that happen."
+    publishedDateTime: 2021-04-18T15:08:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Ku53OvCaSY/sullivan-biden-afghanistan-withdrawal-gop-concerns"
+    ampWebUrl: "https://www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
     excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"

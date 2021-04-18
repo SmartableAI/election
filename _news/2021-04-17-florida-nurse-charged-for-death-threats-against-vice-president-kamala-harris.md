@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Florida nurse charged for death threats against Vice President Kamala Harris"
-excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
+excerpt: "Niviane Petit Phelps, a Florida nurse, allegedly threatened Vice President Kamala Harris' life in numerous videos sent to Phelps' husband in prison."
 publishedDateTime: 2021-04-17T16:27:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/7268355002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7268355002"
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
+ampWebUrl: "https://amp.azcentral.com/amp/7268355002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7268355002"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -312,6 +312,6 @@ related:
         height: 682
         isCached: true
 
-secured: "z8uS0jPDtjgnIVWe/4wFCh7qUQ48A0jpCwz6BpvOJXePJPZvRS2UKMP8tmsYYFSQ1qbanGTNkM1qKzq3d3L+1EL4UVMMXWQHC5iuSKo07k0ylPNm/L5VvvefGyIdplpcNKzox7IH0J7VuzeUa9UddKnwsjozA7flj/niaA6u1BMhe/m05SCcnVRujyFF2lx1NjdXplpC1EmeOg6CjEvCXdzjS3GPNQk/NOKc4nqTKrCdyDTj8w9NZs+5XeG5StRQXUA91ayMuO+3UJGE0ThIl38SPcOZ5b6TIOWx21EPDN1KBNR55yMfiD+sBwP8Y4LUfnjqF1xZ3vYbGnGgsPtBtSlPRN2Sqp8/JZPx/8SuMK07Co8N9oF/eO/Y5b9fq8pKToMJwELfEVErlKSRzB3RZNCsseclzbTFMdwQkdsNfRKsJj5yaOxuOa/g9LcE52woIfFljs+9IqYu3lbJ8TiWILF2cp0raBX0CSTgTzBfowrFwmDlAip4+5pWv/v/L25xH2LjUnmbE16KaRFTytybwQ==;TmReLOmDyWLPCqK14yuM2w=="
+secured: "QYIhf5AEJhLEQfxsvyzURiyq3F48Oi2xbpSD2beTkG+0y8N650VuVsSFjrt8hNdqMplDPkOGfCqd/0u86iXCSdcxLx42wZmmP8qN1xcIJq68LgItbGqDyqemXexcJC2mZmAhN809Z2+w2POeNV+X2YFmpP8i5j/aPYwp0CcNTvikavHxb1j/TQ/5RJRnhQRjqyMVa28A1+nDNuEBAmFC3Nr4shs+IGdYmwz64ubkZS+xi+wTzhmj202+XmJ0G/nIi7cZO3WNBO1UWJNOMxVvILWJNDOQRj42Pb+8BJC6Gd5nrrNfGpkkf8PIMUIKdbDXG3IjdiO6x2O5xMyuzjdk5+iN1vLTsZDY0NAF07Wb1js=;dArd1tXP1GO/K6Fghaqz+g=="
 ---
 

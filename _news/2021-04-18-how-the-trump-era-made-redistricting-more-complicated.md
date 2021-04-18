@@ -1,14 +1,14 @@
 ---
 category: news
 title: "How the Trump era made redistricting more complicated"
-excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes."
-publishedDateTime: 2021-04-18T12:11:00Z
-originalUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
-webUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
+excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
+publishedDateTime: 2021-04-18T12:11:37Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
@@ -514,6 +513,6 @@ related:
       domain: nytimes.com
     quality: 108
 
-secured: "uG/3mDwzZ7pAyB7xLMIh9ywbIkI4wUj8N8qDxkyMCYYVc7upTf/LQ2YzEdOmkhH18SRyMGQ57NedgB9G9m0jxaAQDTqosWh+FKHckjJ2hbyfsQDHo0IHQEHuK51/8+yftnwdhgASh7a4RzNSI8UylwPiuF8E7EHBp0WDP7XdjJ9p4Vdx1qDHc78SD6SS4NPcP1UZcG+VrFvyEj9cNY4UkQZm0I6mdi60zbbkg6eXPg6pPgKGJOjm9I4VmGfKDSrR1UWnQ4wEbwcNC28b1/gLb4tSFfW7cyppsMG8EQrTjYbuINS5Oo7Tq6mEIxN4O5yM1JASKPM/rwpIPELGqs94WWihqbH9VE8TKGCdjXrcNxw=;Adk2bHB6SMopEq5BS1gNDg=="
+secured: "qdlhmBWjeU3f1cnChYl9MJSr/+VZ8/kCDR2DYB01sCkI5g99ilxUul32bZUVVhU3EnrV89N6akYp4PR33gG2bL1YDc3HR7bAXk+pFXee+g6t09p60JmAH1k3dke64+KJVDUx6RjVSrX0dzxBtqm23CpsEkzAqOQLlE41sEPNyFVC+XK09LVG8806UnSCjd3s8dqsM+yRmmfHcGFiuzvhiq+p7y1LpJ4cd8wBx6aRnsy7bGkZG5D9qOEizmQcCxnxQTXXnbKYbZsGcveqviZZU3fdiZ/IX/jguestn3dnNuJsPAGBzwWG8B3rWZLKw/lOaTq13zuPvypdJyLS0pe5Bqp1w6qef0u6hluBDI8l+2s=;ASbOaOM59vaixev+64gByQ=="
 ---
 

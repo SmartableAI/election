@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Graham To Biden: It's Not Just A \"Crisis\" On The Border, It's Chaos"
+    excerpt: "South Carolina Republican Sen. Lindsey Graham told FNC's 'Justice with Judge Jeanine' to discuss the left's push to expand the Supreme Court and President Biden admitting the refugee situation at the border is a \"crisis."
+    publishedDateTime: 2021-04-18T13:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/18/graham_to_biden_its_not_just_a_crisis_on_the_border_its_chaos.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/04/18/graham_to_biden_its_not_just_a_crisis_on_the_border_its_chaos.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/04/18/graham_to_biden_its_not_just_a_crisis_on_the_border_its_chaos.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/521952.jpg"
+        width: 1046
+        height: 784
+        isCached: true
 
 secured: "10QUh8H5uDBQw0yrUw+Ivui0rjCkYljdhbMpgbWUhU+HmdW+WJRSaTpzlpPypoADZVj6VLmrJi9YW8fGfgKp01fF7BNR1hEy15zZSvgdjrZ5X1KSf9qcqUzUYD8yEWl6/8v/zBCsDXzeD7Cpoh5XNBbV0NpeqXeGeFY9HnOe2Lk7YaPT92nIK1ZmZTjHmFAsl+61HlzjtL5jJ+qEkgfnRH4XdTYLunkROrlyCBstaclkg66Z4vsW8BKFD7dfKliDbUif7qLm14lEKwfzuiToDWGQSxGQ1EJm48WFlK1ewt7WHMpZAS7wM6DAgrvMPT/clIQrR9JEl9+WBlZM0qe4k3JK+x2XyNBY3/CWmk5N8qw=;M048jcVsOOPfIcQUqrDi3g=="
 ---

@@ -204,6 +204,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Sullivan promises Biden 'not going to take his eye off the ball' with Afghanistan, despite GOP concerns"
+    excerpt: "National Security Advisor Jake Sullivan promised Sunday that while Republicans may fear that the withdrawal of U.S. forces from Afghanistan will allow new threats to emerge or old ones to regain power, President Biden will not let that happen."
+    publishedDateTime: 2021-04-18T15:08:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Ku53OvCaSY/sullivan-biden-afghanistan-withdrawal-gop-concerns"
+    ampWebUrl: "https://www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "SQRHhQ5LL38/Fz+zGxm8gI+cUAFemdz/SzQwvOA85fnlVX0gCNJh4hQmnkJJPCHtDvJR7vjVbmWbRkA7HFDbjVlPIf+Orpu6hXb02OU0CFCNDEN5bO7PSAkLMYep7uvzzlpCgRdzsUbUizl5rgfdwRLILjYXugYhE/8jphqsRumzsJDDm2Gd+l6d7eGHsZXbL7OoErPnldEKkCYgxvnxLTkUyyv74YJLI6xIBJ/0ugAHTZf2XC8b0GSUUDk6kLlzSEz2iLKk2BBbyUY0bLN8RGiKYGcMHNfyEymABHHg6+MeuBN2bclRSdIA7fq76cmKT78wJrgVHTb0Yh1WbkML3XhIeauBLrWC8kRn3llujzXaP0LX3JB79WtD2nlV9TusaW6o6LG+13fnCj/OI5kuksf7CXgUlCHTqiUcw6fdJHNMKVE2/BSsQN1TcL6cPQQxqZ1ot+75SymTzk33YrTNKGVBFqRvgU8HVS/gls8lgCZCC8iT1BnsPGcdPiMytGKbO9v+431C/HxDRmOGpBKrww==;ZhcNQ5hZ3tnNrc/gQU72yg=="
 ---
