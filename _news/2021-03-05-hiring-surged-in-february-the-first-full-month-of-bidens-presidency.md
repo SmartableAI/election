@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/february-job-report-employment-unem
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -446,6 +446,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/1f775faf-6422-400a-83cb-a6800ed38546-GTY_1306363694.jpg?auto=webp&crop=6889,3876,x0,y350&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden plays golf for the first time as president"
+    excerpt: "The president played with senior advisor Steve Ricchetti and Ron Olivere, father-in-law of Biden's late son Beau, the White House said."
+    publishedDateTime: 2021-04-18T17:10:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/biden-golf-first-time-president/507-66931932-3423-49e1-90f9-6db8bcec6aab"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/biden-golf-first-time-president/507-66931932-3423-49e1-90f9-6db8bcec6aab"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/biden-golf-first-time-president/507-66931932-3423-49e1-90f9-6db8bcec6aab"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/f6535dac-d240-49f3-b155-2e803414a3e6/f6535dac-d240-49f3-b155-2e803414a3e6_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "hiDz/jukQONU7TYuivQrJ+vvUSJm+/xPzIyct90SSiCgstutetol4VV5ECP9LsXXdqR5BX1NB88+jpQAYj0WKxHTJm1Ps0OV9SVLMw8GsbrzBPcNh2KGttwpHUyBn80V7zpe0kAZAx7No4MN/Qzb34IvwBxX53Pmj0BQaX4PgAcfYacMzCA6GtBiCRcj9uR2svGetdy2PGjc0Ek7eAf+UftYHtQLluN2mwhXvoS6efXPsw9jMNw9+Tuv9R9rbqZBKqxm9Vluz6IM35HZIv8H8z2DmO6xxJkCN9GkTqHR1NxW1RxRLJrbFCtE9cNTFDpZTkRNpX809R3YQktI2W3oDLMnZ4MYa3Dnknrcj7qZlrq8Xrsi13NXtLlIUstAQ/VABi+qT6edKRi65BOMFRtCn5a/tMGUI5gCZPehUtQCdjyGl6kPtM6hgqzCL5jGM0RZjZlHl+ZvnV05xYK4QaFe4WK+CPwv81jX/4KqyJyNjnvZKCZES5Voeg9n/fG6mhvhirWNja+ChgrOjvrIG9acEA==;NuBxgq/jNXFc96W83s/NVg=="

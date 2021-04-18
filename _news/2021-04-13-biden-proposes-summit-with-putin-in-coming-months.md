@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b9ac759-5944-4eae-a66a-9543f7b07e79/4d7bc46b-988a-4b72-8a6a-96c59393937f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rep. Devin Nunes: China's 'laughing' at Biden admin over foreign policy"
+    excerpt: "Rep. Devin Nunes, R-Calif., discusses foreign relations with China and how the U.S. is viewed on a global stage in a wide-ranging interview on 'Sunday Morning Futures.'"
+    publishedDateTime: 2021-04-18T16:51:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4QziGBZ6r08/nunes-chinas-laughing-at-biden-admin-over-foreign-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/nunes-chinas-laughing-at-biden-admin-over-foreign-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-chinas-laughing-at-biden-admin-over-foreign-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
     excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
@@ -176,7 +192,7 @@ related:
   - title: "Joe Biden Concedes Border Refugee Issues Are A \"Crisis\""
     excerpt: "We’re going to increase the number [of refugees allowed into the country]. The problem was that the refugee part was working on the crisis that ended up on the border with young people. We couldn’t do two things at once,"
     publishedDateTime: 2021-04-18T13:35:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/18/joe_biden_concedes_border_issues_are_a_crisis.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/18/joe_biden_concedes_border_issues_are_a_crisis.html"
     type: article
     provider:
       name: RealClearPolitics

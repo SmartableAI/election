@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-12-vice-president-kamala-harris-to-deliver-special-remarks-during-nickelodeons-kids-choice-awards-2021.md",
+      "title": "Vice President Kamala Harris to Deliver Special Remarks During Nickelodeon’s Kids’ Choice Awards 2021",
+      "excerpt": "Vice President Kamala Harris will deliver special remarks during the Nickelodeon’s Kids Choice Awards 2021 on Saturday, March 13, at 7:30 p.m. (ET/PT). The Vice President, who will be introduced by actress Jennifer Garner, is set to appear as part of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/entertainment-award-shows-justin-bieber-north-america-daryl-dragon-8cd9fe50082e4475903537ec4f2506fa",
+      "originalUrl": "https://apnews.com/press-release/business-wire/entertainment-award-shows-justin-bieber-north-america-daryl-dragon-8cd9fe50082e4475903537ec4f2506fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-chris-miller-defense-secretary-on-jan-6-sees-cause-and-effect-between-trumps-words-and-capitol-riot.md",
       "title": "Chris Miller, defense secretary on Jan. 6, sees 'cause and effect' between Trump's words and Capitol riot",
       "excerpt": "The top official in charge of the Pentagon and America's defenses when rioters stormed the U.S. Capitol on Jan. 6 said he believes there was direct \"cause-and-effect\" between then-President Donald Trump's words and the actions of the insurrectionist mob.",
@@ -1313,54 +1356,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-gillibrand-quick-to-call-out-franken-kavanaugh-clinton-trump-but-not-cuomo.md",
-      "title": "Gillibrand quick to call out Franken, Kavanaugh, Clinton, Trump — but not Cuomo",
-      "excerpt": "Sen. Kirsten Gillibrand — who led the charge resulting in former Minnesota Sen. Al Franken’s resignation over sexual misconduct claims — still says it’s not the time to call for",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
-      "originalUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Kristen-GillibrandArticle.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
-      "publishedDateTime": "2021-03-10T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
+      "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
+      "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
+      "originalUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e360c9be-94bc-48ba-b8f1-c0695538cccb/162fa33e-186e-4288-9a45-28a8efcaa517/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
+      "publishedDateTime": "2021-04-06T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-cleveland-businessman-jumps-into-ohio-senate-race-trump-victories-need-to-be-protected.md",
       "title": "Cleveland businessman jumps into Ohio Senate race: Trump 'victories' need to be protected",
       "excerpt": "Moreno, a Cleveland businessman, rolled out his bid in an over two-minute-long video in which he cast himself as an outsider in the mold of former President Trump Donald Trump Joe Biden's ...",
@@ -1306,62 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-the-bidens-encourage-americans-to-get-vaccinated-in-easter-message.md",
-      "title": "The Bidens encourage Americans to get vaccinated in Easter message",
-      "excerpt": "President Joe Biden and first lady Jill Biden shared well-wishes with Americans celebrating Easter on Sunday and encouraged them to get Covid-19 vaccinations as a moral obligation.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1KYqLpHt4DE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404113530-biden-easter-video-210404-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html",
-      "publishedDateTime": "2021-04-04T10:53:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

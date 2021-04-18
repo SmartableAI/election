@@ -143,6 +143,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden created 'catastrophe' at southern border by 'dismantling' Trump’s policies: Florida Gov. DeSantis"
+    excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s immigration policies on “Sunday Morning Futures” saying he “dismantled” former President Trump’s policies and now there is “a huge catastrophe at the southern border,” which he argued will have “reverberations all across the country.”"
+    publishedDateTime: 2021-04-18T18:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pURDcRnsliQ/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump-era NSA appointee resigns after Biden admin placed him on monthslong administrative leave"
     excerpt: "Trump appointee and National Security Agency General Counsel Michael Ellis on Friday announced his resignation."
     publishedDateTime: 2021-04-16T20:21:41Z
@@ -170,6 +186,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/chris-magnus.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump blasts Biden plan to withdraw from Afghanistan"
+    excerpt: "Former President Donald Trump blasted President Biden for pushing the deadline to withdraw all US troops from Afghanistan to Sept. 11 — saying it “should remain a day of reflection and"
+    publishedDateTime: 2021-04-18T19:45:00Z
+    webUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/bicen-trump-troops-inset.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

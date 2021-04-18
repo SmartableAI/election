@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-03-more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan.md",
+      "title": "More Raleigh-to-Richmond Amtrak runs proposed in Biden plan",
+      "excerpt": "CHARLOTTE, N.C. — More direct train service between Raleigh and Richmond and passenger service to Asheville and Wilmington are included in Amtrak’s plan for $80 billion in federal funds, proposed as part of President Joe Biden’s $2 trillion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-02T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-to-say-as-a-korean.md",
       "title": "Ex-Trump Official Sery Kim Rejects Chinese Immigrants, Believes It's OK to Say as a Korean",
       "excerpt": "She also served served as assistant administrator for the Small Business Administration under former President Donald Trump. Kim also argued that the rise in violent attacks against Asian Americans have always existed but are only now being covered by the ...",
@@ -1285,63 +1337,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.md",
-      "title": "San Diego county official rips Biden, Newsom as migrant children prioritized over Calif. students",
-      "excerpt": "San Diego County Supervisor Jim Desmond sounded off on \"Hannity\" Wednesday, after the Biden administration sent hundreds of Central American migrant children to be housed and formally educated by local teachers at the San Diego Convention Center,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
-      "originalUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e162a72f-61f2-4cb6-a307-213bc8dc6f7d/9e440e21-ca35-453e-8c97-44ed1006db4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
-      "publishedDateTime": "2021-03-31T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

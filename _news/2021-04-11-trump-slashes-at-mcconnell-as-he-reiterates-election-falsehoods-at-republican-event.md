@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/202
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
 type: article
 quality: 134
-heat: 714
+heat: 734
 published: true
 
 provider:
@@ -458,6 +458,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/4ed/6f8/d547981b4ff6b1f8e006aa60d872ee3269-donald-trump-award.1x.rsocial.w1200.jpg"
         width: 706
         height: 370
+        isCached: true
+  - title: "Garland rescinds Trump-era memo curtailing consent decrees"
+    excerpt: "Attorney General Merrick Garland on Friday rescinded a Trump-era memo that curtailed the use of consent decrees that federal prosecutors have used in sweeping investigations of police departments. Garland issued a new memorandum to all U."
+    publishedDateTime: 2021-04-18T06:47:00Z
+    webUrl: "https://www.chron.com/news/article/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
     excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."

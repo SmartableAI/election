@@ -109,6 +109,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "After outcry, Biden plans to lift refugee cap in May"
+    excerpt: "President Joe Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements and getting swift blowback from allies in return."
+    publishedDateTime: 2021-04-18T17:38:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/politics-government/national-politics/article250746064.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/national-politics/article250746064.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/national-politics/article250746064.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 55
 
 secured: "M9lL+cFXvQ+0TcrRP1EtwqAhwjWS8O65IkdFxDC4W7klmZ64ZxOq+H67wUEAdnbG6tGTmLcvK3TU2d0T1rOGo8Ywp/6f6F5mDuImBFqoDGdAUMIZYhh8mc6wEkTkXjW4e9Kd1uZteWj6zbOixhS0uJavBh0+tfKfLbR/STu066xvwL9xrW94mEHgiV5bIrwIg/+0c24WMUvcJXzRZ4l8F7kF2YEeZCC+OUlDGxdV1bP5d4r601PY7buMSckpXUM4l8vWNS5kAT7XzoChomnTu5V9LbWR1JdAcMElCmgA2fdOp3U9q2k8qbe7Bs20uWSY4atLrG4E7jCh/9xb/B5GXiZvlHUgf5GL8nZi3LKVXuE=;X0x6rYixoqUiyV00CABuQA=="
 ---

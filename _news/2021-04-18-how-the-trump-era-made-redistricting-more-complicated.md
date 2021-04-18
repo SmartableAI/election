@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump calls Afghanistan withdrawal 'a wonderful and positive thing to do' and criticizes Biden's timeline"
+    excerpt: "Former President Donald Trump on Sunday praised withdrawing US troops from Afghanistan, while knocking his successor's timeline for doing so.\n    \n"
+    publishedDateTime: 2021-04-18T19:40:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/agSvLegAQb8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/trump-afghanistan-troop-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/trump-afghanistan-troop-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republicans mobilize for showdown that will help define the Biden presidency"
     excerpt: "A defining political clash took shape Sunday over Joe Biden's latest effort to reshape the US economy, with Republicans mobilizing against a massive infrastructure plan that could put the President in historic Democratic company.\n    \n"
     publishedDateTime: 2021-04-05T10:18:55Z
@@ -236,6 +252,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180502113209-president-trump-state-department-5-2-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Washington Post: Trump-installed NSA lawyer resigns after being on administrative leave for three months"
+    excerpt: "National Security Agency general counsel Michael Ellis, who was installed by Trump officials in the final days of the administration, resigned from his post on Friday after being on administrative leave since the start of the Biden administration, according to The Washington Post.\n    \n"
+    publishedDateTime: 2021-04-18T19:18:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -513,6 +545,6 @@ related:
       domain: nytimes.com
     quality: 108
 
-secured: "qdlhmBWjeU3f1cnChYl9MJSr/+VZ8/kCDR2DYB01sCkI5g99ilxUul32bZUVVhU3EnrV89N6akYp4PR33gG2bL1YDc3HR7bAXk+pFXee+g6t09p60JmAH1k3dke64+KJVDUx6RjVSrX0dzxBtqm23CpsEkzAqOQLlE41sEPNyFVC+XK09LVG8806UnSCjd3s8dqsM+yRmmfHcGFiuzvhiq+p7y1LpJ4cd8wBx6aRnsy7bGkZG5D9qOEizmQcCxnxQTXXnbKYbZsGcveqviZZU3fdiZ/IX/jguestn3dnNuJsPAGBzwWG8B3rWZLKw/lOaTq13zuPvypdJyLS0pe5Bqp1w6qef0u6hluBDI8l+2s=;ASbOaOM59vaixev+64gByQ=="
+secured: "zvOoayMtZ50ywbYM6K3PXTAhWnLO0+F7NmOjV4kNqa+OsEeb7LOUFKknLUU3uAO6lvG7pxDwdzpia7GrH8mHaRWRG6tTd15frmHkRHYSY1SluuBX4nGwVpHGFIhvV1AHqXgw7h3kNozvn547JAsI5mSaBS+U5LYNkk875thdgxzJdsyrX48t+kTCZ40CWdxZXkc6uqTIAMXyCeqFgxaWiUyKtyOOAt7COp1B5mIPEcmvOfe1aaJMDZHi0aPPEdELyiXzzoSVloOjne/UV1Uqro5i1uGZyaWIRoH6bbL324iq4yCq/EhnC0ZTwgtGf3x4AzYeU6Ry3kJlFaOfONK91JP2vyi0B3U09ABh8ojda8w=;6rN2bjOMTUh7qmn+1Npnng=="
 ---
 

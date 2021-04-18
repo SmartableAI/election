@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7197230002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7197230002"
 type: article
 quality: 118
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "'Is That Helpful?': Fox News Host Confronts John Cornyn Over Tweet Asking If Biden's 'In Charge'"
+    excerpt: "\"It certainly wasn't my intention\" to question Biden's \"physical or mental\" state, the Republican senator said."
+    publishedDateTime: 2021-04-18T19:30:00Z
+    webUrl: "https://www.newsweek.com/that-helpful-fox-news-host-confronts-john-cornyn-over-tweet-asking-if-bidens-charge-1584524"
+    ampWebUrl: "https://www.newsweek.com/that-helpful-fox-news-host-confronts-john-cornyn-over-tweet-asking-if-bidens-charge-1584524?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/that-helpful-fox-news-host-confronts-john-cornyn-over-tweet-asking-if-bidens-charge-1584524?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1779579/gop-senator-john-cornyn-capitol-hill.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "FyftGwJ+mhzHsI8mIU8wBWKA1hO9H+gOGdP3bVOV3B2ycfO52xghQuVGG/h+AKQOmTZO/WgpSzTwWXhB2I3ufKH+mtfPfd408oy7oS9vVOZFecWXZNnWFV62wGyo+thHFsvxzKo2Kikghqil+ieWe9V48wnaqMyAtQ1nn7zaViknmdRkdRt4/nSlQUtlmJCHI2riVpEsm30sKsUoXzAt4sHllM4G1IMqzBGW9UUkQil7abbVIpge1TisiT8bQMQRm0J/47eymeLIO3xHSDiJyrVIOJ4r+r5MMmVHfJ7Q6BTgzgcU56CfPH4o6trXJATMmF6I10psNtWV9Lv18tWIVlgpVexxAOs/K2Jb9ewkf4BlPhpLtPwZdOG6qIbkRlPy9AKGzr29xO1xLcgIDiemTLdNn072Lb+BhYre/YQIUSL/eUOWCiUnDGE9peW3JEnYwdIRzV3jhvHXCCtvcqziBurrHz6MYUW+5yR21UZtxZ+VRnH7WXPFUPWRiDcsro0aBetm5hpkTp4aTbmfl0mXMA==;WoCJy3m30mw0Wi62+19izQ=="
 ---

@@ -475,6 +475,22 @@ related:
         width: 706
         height: 370
         isCached: true
+  - title: "Garland rescinds Trump-era memo curtailing consent decrees"
+    excerpt: "Attorney General Merrick Garland on Friday rescinded a Trump-era memo that curtailed the use of consent decrees that federal prosecutors have used in sweeping investigations of police departments. Garland issued a new memorandum to all U."
+    publishedDateTime: 2021-04-18T06:47:00Z
+    webUrl: "https://www.chron.com/news/article/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump to give keynote speech at RNC donor retreat Saturday — right near his Mar-a-Lago club"
     excerpt: "Former President Donald Trump will be delivering the keynote speech at the Republican National Committee donor retreat on Saturday — and he won’t have to go far. The private donor event is being held at a hotel just a few miles from Trump’s Mar-a ..."
     publishedDateTime: 2021-04-10T19:36:00Z

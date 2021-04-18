@@ -447,6 +447,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden plays golf for the first time as president"
+    excerpt: "The president played with senior advisor Steve Ricchetti and Ron Olivere, father-in-law of Biden's late son Beau, the White House said."
+    publishedDateTime: 2021-04-18T17:10:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/biden-golf-first-time-president/507-66931932-3423-49e1-90f9-6db8bcec6aab"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/biden-golf-first-time-president/507-66931932-3423-49e1-90f9-6db8bcec6aab"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/biden-golf-first-time-president/507-66931932-3423-49e1-90f9-6db8bcec6aab"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/f6535dac-d240-49f3-b155-2e803414a3e6/f6535dac-d240-49f3-b155-2e803414a3e6_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "s5nufo7n6MNOGWdF7AYxyAuSlC77coHKVyvwZQDq7fYrvaVV0qk3RTgz3bClasf99YinwQQ0G7qT/28HhEO/z5gmp8jZqMrIeQBOI2uAy/KgzmwX7dBKn7xOI4R+kwxxmByvkVYEsRsbTKzScMw9XyYSUBDv8seOHaWK17YbN5SnXk0M5nnVIeY0bZ2nIN9BYsNulNQlylhbkBusp/4a1NnvcwF1CexDKhH4ulpW2qpSZxqH5s4R7z91mvvkeW9iufpSLV/WohgaaHoO2mjpMvl/YV9I+HUatDFe+eKUZOfkJ7uxPJLl/P6RCCfGtPu3Vu9cqgvpRCOqqVlj4tBqAzBCzbV9ORbTz9tnqJNO5dp4aeeVygsNq/hE6kU2NHx7OhzwOknwHsu/nId2Vx00gNEBKCqBKLrAoVcTPdy+8iCq/2y6RwmLHKSdXetZG8tPUGptmLmspvJ9sgLLUPHAGycEmsyH98cZ5OHZ0PNOVuogq07+Kumq+1CbPK+2tIrjGcPpWhnjnU8rGF7AlKUtvw==;aFjpHnylOkNDxG4Y8mhufw=="
 ---

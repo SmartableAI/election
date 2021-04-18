@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-george-w-bush-on-what-separates-him-from-trump-i-dont-miss-being-famous.md",
+      "title": "George W. Bush on What Separates Him From Trump: I Don't 'Miss Being Famous'",
+      "excerpt": "\"I think it's undignified to wanna see my name in print all the time,\" Bush said in a CBS News interview that aired Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512",
+      "originalUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1779568/george-w-bush.jpg",
+          "width": 1024,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512?amp=1",
+      "publishedDateTime": "2021-04-18T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees.md",
+      "title": "Blinken says it will be 'very hard to meet' Biden's pledge to resettle 62,000 refugees",
+      "excerpt": "Secretary of State Antony Blinken on Sunday said it will be \"very hard to meet\" President Biden's pledge to resettle 62,000 refugees by the end of the fiscal year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jKS9gTYBmRU/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jKS9gTYBmRU/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21035689362211.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees.amp",
+      "publishedDateTime": "2021-04-18T09:22:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-republican-2024-presidential-hopefuls-are-making-early-moves-as-trump-mulls-another-run.md",
       "title": "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run",
       "excerpt": "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans.",
@@ -1247,107 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-kamala-harris-cited-russian-bounty-story-in-general-election-debate-with-pence.md",
-      "title": "Kamala Harris cited Russian bounty story in general election debate with Pence",
-      "excerpt": "Vice President Harris cited the now-backpedaled report of Russia placing bounties on the heads of U.S. soldiers during a general election debate in October with former Vice President Mike Pence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpyuhO0_-WE/kamala-harris-cited-russian-bounty-story-debate-pence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpyuhO0_-WE/kamala-harris-cited-russian-bounty-story-debate-pence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 541,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp",
-      "publishedDateTime": "2021-04-16T11:13:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-gun-violence-pierces-the-very-soul-of-our-nation-biden-says-after-indianapolis-shooting-live.md",
-      "title": "Gun violence ‘pierces the very soul of our nation’, Biden says after Indianapolis shooting – live",
-      "excerpt": "President says shooting at FedEx facility is ‘just the latest in a string of tragedies’ and ‘gun violence is an epidemic’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079c81a8f08a91092689de1",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079c81a8f08a91092689de1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
-      "publishedDateTime": "2021-04-16T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

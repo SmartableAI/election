@@ -111,17 +111,17 @@ related:
         isCached: true
   - title: "Former Vice President Mike Pence received pacemaker, full recovery expected"
     excerpt: "Former Vice President Mike Pence received a heart pacemaker device during a routine surgery on Wednesday and is expected to fully recover, a spokesman said on Thursday."
-    publishedDateTime: 2021-04-15T19:14:00Z
-    webUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
-    ampWebUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
-    cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
+    publishedDateTime: 2021-04-15T19:10:00Z
+    webUrl: "https://www.myhighplains.com/news/political-news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
+    ampWebUrl: "https://www.myhighplains.com/news/political-news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
+    cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/political-news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
     type: article
     provider:
-      name: KNWA News
-      domain: nwahomepage.com
+      name: myhighplains.com
+      domain: myhighplains.com
     quality: 73
     images:
-      - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2021/04/AP20245798042239-e1618513616944.jpg?w=1280"
+      - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2021/04/AP20245798042239-e1618513616944.jpg?w=1280"
         width: 1280
         height: 755
         isCached: true

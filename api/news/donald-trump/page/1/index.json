@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-george-w-bush-on-what-separates-him-from-trump-i-dont-miss-being-famous.md",
+      "title": "George W. Bush on What Separates Him From Trump: I Don't 'Miss Being Famous'",
+      "excerpt": "\"I think it's undignified to wanna see my name in print all the time,\" Bush said in a CBS News interview that aired Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512",
+      "originalUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1779568/george-w-bush.jpg",
+          "width": 1024,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512?amp=1",
+      "publishedDateTime": "2021-04-18T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-republican-2024-presidential-hopefuls-are-making-early-moves-as-trump-mulls-another-run.md",
       "title": "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run",
       "excerpt": "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans.",
@@ -940,58 +992,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-14-donald-trump-im-a-unifier-for-the-republican-party.md",
-      "title": "Donald Trump: I'm a \"unifier\" for the Republican Party",
-      "excerpt": "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/donald-trump-1/",
-      "originalUrl": "https://www.cbsnews.com/video/donald-trump-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-14-229-photographer-taken-down-by-secret-service-at-trump-rally-navy-seal-presented-with-medal-of-honor.md",
       "title": "2/29: Photographer taken down by Secret Service at Trump rally; Navy SEAL presented with Medal of Honor",
       "excerpt": "A photographer was slammed to the ground by a member of Donald Trump's security detail at a campaign rally on Monday; he was awarded the Medal of Honor at the White House Monday for his courageous actions.",
@@ -1261,7 +1261,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {

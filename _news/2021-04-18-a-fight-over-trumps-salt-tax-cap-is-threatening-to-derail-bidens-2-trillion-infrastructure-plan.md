@@ -191,6 +191,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Biden golfed as president for the first time on his 87th day in office. Trump played on his 15th."
+    excerpt: "During his four-year tenure in office, Donald Trump played nearly 300 rounds of golf. Whereas in his eight years as president, Barack Obama played 333."
+    publishedDateTime: 2021-04-18T14:47:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/607c2bb744f4540019207525?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Analysis: Bumpy road ahead for Biden's infrastructure plan"
     excerpt: "But Joe Biden believes he can use it to drive America to the future after a dozen years of false starts. The trip is unlikely to be smooth. Biden's $2.3 trillion infrastructure package ..."
     publishedDateTime: 2021-03-31T21:38:00Z
@@ -469,6 +485,6 @@ related:
         height: 433
         isCached: true
 
-secured: "sypX7OyaiaCvvgIxA4GH2DlgfKP+Em29p4l4CKPXQ0GgxlEcjD4w5M+NIFHshxREEXJWx+g7W1pRPG85kLfS0+reP6HG32IJm1KbGO1w/nMBj9ZqJ3s2h+/pQ5MFoKb6qM0pTEO7S6rS9uwTvw5P5J6xPntpGy2sV4YtKZMBTHLJFG3rJEGLkrRyYj2UON3fJpetyS1tn5pIskgQrx19hDxblcw5lmtbZvaIkNvrO6LaRJT7tTzI9BgY0BZ/EO21+GYG1sbJOb51IWWNWVeOZpQIBad83DXkgMbVCQK2ywU25oeKZMoVhDXQm3utNtKdzg3fxBgq3dyoKRczOCYt7cM1kanpGA2gfYtEe7gF6oY=;pbZDguVTF278hiCwIB2wuw=="
+secured: "t/lly4J4gt5CqhjFRlHZhCyuoL9EXnup3pb6qZfAky33MoejO7WuU1YKDRXqnnTJ3iNgPv5HCkLT/kMFaEVfML19raW8vaM5gAk2qBAJdkX/tp7GiXXjxgrOzR0swFyxxp4FCUro3HrQz/dl33je6msfoGGzoySaOsavgB3IRhtnB6JYGvnSaT8kFznPKmi8u1hdfoREPuksXCOje7mpPmW9+vwdz6GQ0NdXXDUUbnCC5W3WH4tndID0eWpH/zbQ1FxWw7SMuZVobYrGCOagpGuSuKvd2WkdIVGs54tV9dBOiLVqO9J6u9QHCCAjWQRUNuvlgOtKhbp5eZqf4K/jBARR+s6ZuELyaww3qdCCLSIZeSkSBYlCP4gqlcV79l/efNf8jfM3EdayN2fWDE4Xt3y/p5lCGbB2GN/FXb4oQDYzg5heHYQrrUhcBh48rFSUW8QylTO10xuj3WhKYfy6vZcBVu/vMlqcTDocFrlEZHX0J5LVRHfPgF9LPyVNhONNCHDR9PwG7lg3rqpcKBErtQ==;k2+xDT1m1xfSmmwd7yx+5Q=="
 ---
 

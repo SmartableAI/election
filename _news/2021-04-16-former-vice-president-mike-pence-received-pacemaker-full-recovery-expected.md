@@ -2,26 +2,26 @@
 category: news
 title: "Former Vice President Mike Pence received pacemaker, full recovery expected"
 excerpt: "Former Vice President Mike Pence received a heart pacemaker device during a routine surgery on Wednesday and is expected to fully recover, a spokesman said on Thursday."
-publishedDateTime: 2021-04-15T19:14:00Z
-originalUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
-webUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
-ampWebUrl: "https://www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
-cdnAmpWebUrl: "https://www-nwahomepage-com.cdn.ampproject.org/c/s/www.nwahomepage.com/news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
+publishedDateTime: 2021-04-15T19:10:00Z
+originalUrl: "https://www.myhighplains.com/news/political-news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
+webUrl: "https://www.myhighplains.com/news/political-news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/"
+ampWebUrl: "https://www.myhighplains.com/news/political-news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
+cdnAmpWebUrl: "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/political-news/former-vice-president-mike-pence-received-pacemaker-full-recovery-expected/amp/"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: KNWA News
-  domain: nwahomepage.com
+  name: myhighplains.com
+  domain: myhighplains.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2021/04/AP20245798042239-e1618513616944.jpg?w=1280"
+  - url: "https://www.myhighplains.com/wp-content/uploads/sites/87/2021/04/AP20245798042239-e1618513616944.jpg?w=1280"
     width: 1280
     height: 755
     isCached: true
@@ -164,6 +164,6 @@ related:
         height: 800
         isCached: true
 
-secured: "gkFG+hGNiJkxHM/0rAP9pIfpcPHM3iWAnCjGKUfTpceG5Rph9zTCICSlC6IdZCpJRl46hFuapgLg5/VqCvT86sLn+I3lchTxOx3423mxtI9oSORGF3ijvtUl/8Qyl6NoLWItH00XURqWlSk28QD/DX12cWhTigjRwsvL2S3fNHIwLCCqi8LhLY19Yj5F8602erCoRhDHJ3N+gpIMxN8919bJkMLcxSDbeMBACgRMRIPrv/IT4VUA3klxfu3odRFoMR0+Y7cWoZDQUGxZ7eGVHm49qARw1/AYT3PND7mO5+VUQbvFahpmHaHTP1Gu9f4AqM3eoHdb2s6zwZ02G8a29aw2KdmhWLEXv4EV8kQ5Lnn3uAdTScCQT0g/uiYVXGB56le3HwukrkMySKPAQtb/LE0XlMxpSFbF4QyjMs6/dKj0SlsjMzYgWx53a4StlHvrbnP7B6oTHH8tdITzFqynqCbmSj7R3OrmO/H+UpG9k7QWgwBgn+4GmRsGavwunPincFVuu/BM49pcBGPlOmYvxQ==;Bys/e3LqmGcBDZP+fdJqag=="
+secured: "Fu4ieAqN1u2lnB35jv9Lj/rkCoM083aXoh/vcH/eXWkKFOIsx1vCPEHunpQTNpbXbJCbtUMG53kdBStysR1f4WLSv+45l1doHEzv2AyYLGu9GwsQF/Vxn6ylox8LVkYZz9yo8gmLDYA+bcc/z4cXTP7vrZleSDwXEua6SkV0sUWg0ybhS78qBaCldVI3XVv6qbctYTfUuXEAGG0vf6G6bRBsmtDVzF29T5Zdicffheo2CPxWYKD5rzChWSQ/sdIPgYt1/Cewy3/1suC3gQ50z3UE+6z28jBDMY4BuMKD+iWnHlRl8lkymks1Uuy5vc1HFbUdWzTNoTT2fv/nhqNf+sZJFyrTdJlAdFFsf10o00o=;XF8nClAvntq6PK0xw7Adaw=="
 ---
 

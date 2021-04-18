@@ -2,6 +2,62 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-20-trump-boosts-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.md",
+      "title": "Trump boosts Julia Letlow in Louisiana House race to succeed her late husband",
+      "excerpt": "Former President Trump urged his supporters to back Julia Letlow Saturday in the special election House race in Louisana to succeed her late husband, Luke, who died after contracting coronavirus. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9EPRWC7E-wk/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9EPRWC7E-wk/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/dww.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.amp",
+      "publishedDateTime": "2021-03-20T14:10:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-donald-trump-jr-says-military-politicized-knocks-stunt-against-marjorie-taylor-greene.md",
       "title": "Donald Trump Jr. Says Military 'Politicized,' Knocks Stunt Against Marjorie Taylor Greene",
       "excerpt": "\"It's been politicized like we've never seen before,\" he said in a video released Friday. \"They're literally attacking American civilians.\"",
@@ -1302,62 +1358,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-biden-so-far-avoids-talking-gun-reform-post-atlanta-shooting.md",
-      "title": "Biden so far avoids talking gun reform post-Atlanta shooting",
-      "excerpt": "In the wake of Tuesday's shootings in Atlanta, President Joe Biden has raised concerns about the spike in hate crimes against Asian Americans and tasked two senior advisers to convene listening sessions on the issue.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vScqODW52GE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vScqODW52GE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/biden-gun-policy-atlanta-shooting/index.html",
-      "publishedDateTime": "2021-03-18T12:56:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

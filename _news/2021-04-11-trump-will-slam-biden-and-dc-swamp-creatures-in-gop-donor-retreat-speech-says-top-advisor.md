@@ -175,6 +175,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden golfed as president for the first time on his 87th day in office. Trump played on his 15th."
+    excerpt: "During his four-year tenure in office, Donald Trump played nearly 300 rounds of golf. Whereas in his eight years as president, Barack Obama played 333."
+    publishedDateTime: 2021-04-18T14:47:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/607c2bb744f4540019207525?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "A fight over Trump's SALT tax cap is threatening to derail Biden's $2 trillion infrastructure plan"
     excerpt: "A bipartisan group of lawmakers is seeking to reverse a 2017 tax cap introduced by former President Donald Trump."
     publishedDateTime: 2021-04-18T11:25:00Z

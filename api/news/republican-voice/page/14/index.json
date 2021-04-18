@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-11-warren-says-republicans-who-stand-with-trump-must-be-stopped.md",
+      "title": "Warren says Republicans who stand with Trump ‘must be stopped’",
+      "excerpt": "Sen. Elizabeth Warren, D-Mass, said Wednesday that she believed the Democrat impeachment managers made a compelling case against former President Trump and any Republican who stands with him “must be stopped.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcGPrDMtmHU/warren-says-republicans-who-stand-with-trump-must-be-stopped",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcGPrDMtmHU/warren-says-republicans-who-stand-with-trump-must-be-stopped",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp",
+      "publishedDateTime": "2021-02-10T22:43:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-biden-admin-erects-tent-city-in-texas-to-handle-influx-of-illegal-immigrants.md",
       "title": "Biden admin erects tent city in Texas to handle influx of illegal immigrants",
       "excerpt": "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border.",
@@ -1595,62 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trumps-likely-political-reemergence-would-center-on-criminal-justice-reform-work-report.amp",
       "publishedDateTime": "2021-02-06T12:30:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-biden-says-no-need-for-trump-to-receive-intel-briefings-what-impact-does-he-have.md",
-      "title": "Biden says 'no need' for Trump to receive intel briefings: 'What impact does he have?'",
-      "excerpt": "President Biden said he didn’t think his predecessor should receive intelligence briefings, as is standard for former presidents. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZdNwrOOIlY/biden-no-need-trump-intel-briefings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-need-trump-intel-briefings.amp",
-      "publishedDateTime": "2021-02-05T16:33:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

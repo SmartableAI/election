@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-13-subpoenaing-the-brookings-institution-durham-focuses-on-trump-russia-dossier.md",
+      "title": "Subpoenaing the Brookings Institution, Durham Focuses on Trump-Russia Dossier",
+      "excerpt": "Greg Kahn for The New York Times By Charlie Savage and Adam Goldman WASHINGTON — Exiled from Twitter, former President Donald J. Trump issued a sarcastic statement recently inquiring about the ongoing public silence from John H. Durham, the special ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/12/us/politics/12dc-durham1/12dc-durham1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.amp.html",
+      "publishedDateTime": "2021-04-12T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks.md",
       "title": "Bipartisan lawmakers signal support for Biden cybersecurity picks",
       "excerpt": "Key lawmakers on Monday expressed support for President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with ...",
@@ -66,7 +123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 810,
+      "heat": 850,
       "tags": null,
       "images": [
         {
@@ -330,7 +387,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
       "featuredContent": null,
       "highlight": null,
-      "heat": 700,
+      "heat": 720,
       "tags": null,
       "images": [
         {
@@ -1138,7 +1195,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1287,63 +1344,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-us-warns-iran-it-wont-lift-all-trump-era-sanctions-to-return-to-nuclear-deal.md",
-      "title": "U.S. warns Iran it won’t lift all Trump-era sanctions to return to nuclear deal",
-      "excerpt": "The Biden administration warned Friday that it will not lift every single economic sanction that former President Donald Trump imposed on Iran, despite pressure from Iran to do so as the two countries try to resurrect a nearly dead nuclear agreement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/09/iran-nuclear-talks-opposition-480561",
-      "originalUrl": "https://www.politico.com/news/2021/04/09/iran-nuclear-talks-opposition-480561",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a7/f7/98ac8ac5456b9a5d5eaa9218bea8/210409-iran-nuclear-talks-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/09/iran-nuclear-talks-opposition-480561",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/iran-nuclear-talks-opposition-480561",
-      "publishedDateTime": "2021-04-10T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

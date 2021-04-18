@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Concedes Border Refugee Issues Are A \"Crisis\""
 excerpt: "We’re going to increase the number [of refugees allowed into the country]. The problem was that the refugee part was working on the crisis that ended up on the border with young people. We couldn’t do two things at once,"
 publishedDateTime: 2021-04-18T13:35:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/18/joe_biden_concedes_border_issues_are_a_crisis.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/18/joe_biden_concedes_border_issues_are_a_crisis.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/18/joe_biden_concedes_border_issues_are_a_crisis.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/18/joe_biden_concedes_border_issues_are_a_crisis.html"
 type: article
 quality: 65
 heat: -1
@@ -57,6 +57,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b9ac759-5944-4eae-a66a-9543f7b07e79/4d7bc46b-988a-4b72-8a6a-96c59393937f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rep. Devin Nunes: China's 'laughing' at Biden admin over foreign policy"
+    excerpt: "Rep. Devin Nunes, R-Calif., discusses foreign relations with China and how the U.S. is viewed on a global stage in a wide-ranging interview on 'Sunday Morning Futures.'"
+    publishedDateTime: 2021-04-18T16:51:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4QziGBZ6r08/nunes-chinas-laughing-at-biden-admin-over-foreign-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/nunes-chinas-laughing-at-biden-admin-over-foreign-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-chinas-laughing-at-biden-admin-over-foreign-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden to target 'ghost guns,' stabilizing braces in new gun control actions"
     excerpt: "President Biden will announce gun control measures on Thursday, which a White House official described as an initial set of actions aimed at addressing all forms of gun violence."
@@ -194,6 +210,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "qFytBTsrXnyGJ9WsJBwicWDWhFrgw3oykNHR+SEDCiyLuSiORTMQ7wfpm8EkwKdFgB/r3sT4862tMVwxeVR65725ZY9tUvg2E1ePnV0t9W+KUs9ivuditl2Ea+f7rTbPFBJhkMRjmNavn2tY8OEr87TAquJnHS1xJNdKlb3tHaE6Qg1Lkjt+pYkhqSAibCtnJSxu7atoJ7f7T+INCmmZqQdTxQYfABNZlRGmx7uTln0AZpAC3QQ668vZVZS9fC+kOoJONjt656ian8CWWff++uYg9lEb68WaSPBgaZuDh7+liD+gkO4il1SxLghqkXNP3JduQo2GPTWOKIW3YqvYusSApVKgJsIKE1BPA+/GaZc=;HMDAo80f0DDAKkzI5VguWw=="
+secured: "YUknY3SD9mTOlr1CdyfF9EBamulbTgVlY1GAQmjsKgFc++7XvdVCwVEtbzJDB4FJeMCLbBE+Bh9aK+G9qMgT+aYW4AQ1N1XPLHhfTfuwkUCa6GvUc1b2IDlMEouHtDEoPG9tDBKtPOKU+ozWomUYimdGtzE2ZFzAV/VvCIeqXNKtzH1edj6/Bga2Qwe1KLn9HxXBNScKm/7dXT9/bRAC6ItHOKpbF/os1NZZHIyiMYnZZSdSs0NrQHCYHgmTM9S1e/YCqx/2Nx516LBHtobWFlbSmeJXcZHAD/+nH5Yc/ZmojRRzIUOWysWq995SxtLkS56yGt3DFNHj4SrQuySc96W9J04xNQTnnnK8HkFuLjlyVRfUpmjHwRvcEkz/J9vYbQxl0j17zxROXtLwVJp+kJoVzeoyzztSfzPmWJ911uQvghQvqH5kz6hvkBDuF1v7klTL42pedP2uSTZj1wWwbL6Goy7MQNFDK9S18QzEK5NMl/CNPV8WSrjKrgIdGtXpKtiPipoRoEb3CmZwB3HaCA==;tCukdCiYrgf5nNFlt842qQ=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-01-15-dan-scavino-tells-trump-officials-to-be-proud-of-accomplishments.md",
+      "title": "Dan Scavino tells Trump officials to be ‘proud’ of accomplishments",
+      "excerpt": "As the Trump administration heads into its final week, White House spokesman Dan Scavino told administration officials Thursday to hold their \"heads high\" and be \"proud\" of their accomplishments\" despite \"cancel culture.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-nFmqFtEbs/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-nFmqFtEbs/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005235258462.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp",
+      "publishedDateTime": "2021-01-14T23:33:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years.md",
       "title": "Trump extends 'safeguard' tariffs on large washer imports for two years",
       "excerpt": "President Donald Trump on Thursday extended \"safeguard\" tariffs on large residential washers for another two years in a move that further shields domestic manufacturers such as Whirlpool Corp from import competition.",
@@ -1254,62 +1310,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp",
       "publishedDateTime": "2021-01-13T10:26:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-squad-member-accuses-vp-of-cowardice-for-not-using-25th-amendment-to-remove-trump.md",
-      "title": "'Squad' member accuses VP of 'cowardice' for not using 25th Amendment to remove Trump",
-      "excerpt": "Rep. Ayanna Pressley, D-Mass., said Vice President Mike Pence's decision not to invoke the 25th Amendment to remove President Trump from office is a show of \"pure cowardice.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2L3J6pWfdA/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2L3J6pWfdA/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp",
-      "publishedDateTime": "2021-01-13T06:32:34-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

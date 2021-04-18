@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mexico Plans Tree Planting, Regional Migration Pitch to Biden"
+    excerpt: "Mexico’s president will propose a regional agreement on migration to the U.S. this week and the expansion of his tree planting program to Central America as an option to provide order in the process of seeking entry to the U."
+    publishedDateTime: 2021-04-18T19:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-18/mexico-plans-tree-planting-regional-migration-pitch-to-biden"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASTAI4mLSS8/v1/1200x752.jpg"
+        width: 1200
+        height: 752
+        isCached: true
   - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
     excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
     publishedDateTime: 2021-04-10T15:01:00Z
@@ -134,6 +148,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 80
+  - title: "President Joe Biden pouring $1.7 billion into fighting COVID-19 variants as ‘nearly half of all cases’ are mutant strains"
+    excerpt: "Officials hope the funds will help authorities and their private sector partners detect COVID variants faster."
+    publishedDateTime: 2021-04-16T16:55:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PDKSO3CFJJH4TKEOBX6PP7KRNI.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "bhSolz/1Y7zOcn+t36UVmu4ymi4wmDGU9VaMPV9sOBIrlVsSsPEGeJTTDnUZWFULXYNhQzg9SnvWfH+7FVi0sjt4RBryK59J9XCiBxeGgPhCOBJzSLJlBUU1gSqWrIlRCjGpdybPVW0GJqWBOcrhaJe0ZYe4X+93s3c7tD2Stw4y9sSv4tYws2aJMUarxGk4J8e67NH8aJ2Ha0VfS67dt44P2yklsYyqWuMwwi/JvVeIrNmvf2DXufg5Yqo/pXccGOQgSzFDaQGeJ5VFDu2EH1IUFYLl96AOz4Z784jL9qQ6fddbm6EfnIOj4+u50Yj+1ldhtyffKNg9e3QHo9QPeP1kYUTI8cYiE3/jVhtCGr9ewnXsvjql/lOsimMdX3OPimNFc/UOp5q2R0mnN1JHx2/IWDOVpnlma4NoifSV46lBBghzfxEnsirDeFyJQjisaTQaAWGqyaajoJkQ6jhUQl2eNEIadpQ3zZOaifEvZpyGGkivfI7A2toU3Ib1ew5a+1wnMz5mPsg6o3xMBVsVlg==;8VQGLIHpoh7zcbHew7rAEA=="
 ---

@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-16-biden-tells-americans-to-keep-wearing-masks-until-everyone-is-in-fact-vaccinated.md",
+      "title": "Biden tells Americans to keep wearing masks 'until everyone is, in fact, vaccinated'",
+      "excerpt": "President Biden wants Americans to wear face masks to prevent the spread of coronavirus \"until everyone is, in fact, vaccinated.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NKcn9wCnYtU/biden-americans-coronavirus-mask-all-vaccinated",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NKcn9wCnYtU/biden-americans-coronavirus-mask-all-vaccinated",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21074656169869.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp",
+      "publishedDateTime": "2021-03-16T13:42:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-donald-trump-jr-calls-the-talk-hiatus-over-piers-morgan-debate-insane-defends-sharon-osbourne.md",
       "title": "Donald Trump Jr. calls 'The Talk' hiatus over Piers Morgan debate 'insane,' defends Sharon Osbourne",
       "excerpt": "Donald Trump Jr. spoke out in defense of Sharon Osbourne and Piers Morgan after 'The Talk' announced its hiatus.",
@@ -1589,62 +1645,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp",
       "publishedDateTime": "2021-03-10T09:39:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-homan-says-biden-should-be-embarrassed-after-inheriting-most-secure-border-in-decades.md",
-      "title": "Homan says Biden should be 'embarrassed' after inheriting most secure border in decades",
-      "excerpt": "The Biden administration should be \"embarrassed\" about their immigration policies after \"inheriting the most secure border\" in decades,\" Fox News contributor Tom Homan said on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-WCFa2sza4/homan-biden-embarrassed-border-crisis-trump-secure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-WCFa2sza4/homan-biden-embarrassed-border-crisis-trump-secure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp",
-      "publishedDateTime": "2021-03-10T06:56:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
