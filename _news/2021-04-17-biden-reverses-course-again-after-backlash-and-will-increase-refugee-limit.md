@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Hawley raised $3 million in 2021's first quarter after objecting to electoral votes Biden won"
-excerpt: "Missouri Sen. Josh Hawley raised $3 million in the first quarter of 2021, a person familiar with his fundraising said -- a total that showcases how the Republican base is rewarding loyalty to former President Donald Trump.\n    \n"
-publishedDateTime: 2021-04-12T20:14:05Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcrLNE8UC8s/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcrLNE8UC8s/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html"
+title: "Biden Reverses Course Again After Backlash and Will Increase Refugee Limit"
+excerpt: "President Biden said earlier on Friday that he would keep the 15,000 limit set by the Trump administration, but said later that he would increase it. Prime Minister Yoshihide Suga of Japan met with Mr."
+publishedDateTime: 2021-04-17T12:35:00Z
+originalUrl: "https://www.nytimes.com/live/2021/04/16/us/biden-news-today"
+webUrl: "https://www.nytimes.com/live/2021/04/16/us/biden-news-today"
+ampWebUrl: "https://www.nytimes.com/live/2021/04/16/us/biden-news-today.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/16/us/biden-news-today.amp.html"
 type: article
-quality: 164
+quality: 133
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228161942-hawley-cpac-2021-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/04/16/us/politics/16new-washington-briefing-japanese-prim2/16new-washington-briefing-japanese-prim2-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -239,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hawley raised $3 million in 2021's first quarter after objecting to electoral votes Biden won"
+    excerpt: "Missouri Sen. Josh Hawley raised $3 million in the first quarter of 2021, a person familiar with his fundraising said -- a total that showcases how the Republican base is rewarding loyalty to former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-12T20:14:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcrLNE8UC8s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228161942-hawley-cpac-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says sanctions against Russia are proportionate response: 'Now is the time to de-escalate'"
     excerpt: "President Joe Biden said Thursday that the sanctions he announced on Russia are a proportionate response to cyber-attacks against the US and interference in two different presidential elections, and said, \"Now is the time to de-escalate\"\n    \n"
     publishedDateTime: 2021-04-15T22:41:20Z
@@ -383,22 +400,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden Reverses Course Again After Backlash and Will Increase Refugee Limit"
-    excerpt: "President Biden said earlier on Friday that he would keep the 15,000 limit set by the Trump administration, but said later that he would increase it. Prime Minister Yoshihide Suga of Japan met with Mr."
-    publishedDateTime: 2021-04-17T12:35:00Z
-    webUrl: "https://www.nytimes.com/live/2021/04/16/us/biden-news-today"
-    ampWebUrl: "https://www.nytimes.com/live/2021/04/16/us/biden-news-today.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/16/us/biden-news-today.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/16/us/politics/16new-washington-briefing-japanese-prim2/16new-washington-briefing-japanese-prim2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Biden goes where Congress won’t on guns"
     excerpt: "That’s how President JOE BIDEN started off the Rose Garden speech where he unveiled his newest moves to curb gun violence. It’s both an encapsulation of the way his administration thinks about the issue and a preemptive defense against accusations from the right that he’s undermining the Second Amendment."
     publishedDateTime: 2021-04-08T17:48:00Z
@@ -428,6 +429,6 @@ related:
         height: 773
         isCached: true
 
-secured: "fIYe/lBNre7n+iKBiGtg04GAm2tp9EhDRqbdzHeACvjlv304dMT5JBHkuOMC6KvtvRRuYXNdl5YxgMxg3yQpn4xeuJN5HVk9uXOIHmoW1CsPM8JJ1dd5jh8QW+QYq/jnnySvXGbESwrtAKO473j78sxVYvDZBSYFaWQC9qsC8MektqFxjRD3BiN987n/hKQGHgHm5Qn+izxSxusxu0FQB4eA4mqvZobjSeAg5+Z7veXapEFUiTChDbtemtOZu486cGxKuVRic7jCKySuIxp6MBd/r6Xg5Mm+gNtwmhcMvu/T/ZeRa/qWZRPRZK0ShRAvtnguCTgxVZb5znCyCpMjFtLrgr8gmMJZ9PuA5Qv+VX8=;s9FHoZpwOeBL2weWOo5vvA=="
+secured: "tlBXFViuYS86RbogrL3UtfGgdXdAElbUgWj/UNumLht1XiLA7sXX6fN2uGvtJriJMtm+gCgDSLTJmxxArCcIOtdx+XPRiG0NGXUdklCrKNSimo4tlVkcH7Nwv1nVSi0nqYFziF/ItT7xZx0LF+CxekNOjKmUVx5In17KUOxIoQoLr8bTCwP40Eg2M8STznByXjJAr6Yb/ojmYgcYhcI+YZq0yVb21Drbw37Io+XAPQX56Ej/F4i0kNpRQh1Bzp6+ZRe0O4aksglTnD3eY+GQZyJC0IXC8K6icB8i3vEpM2URVegN1V7zpgie/wlTA1aLmgeN+zfZcIXD7ASHUcffTqUexhjXYyd/WpTmTAAnEzs=;uiohSbxnw3LnL4043Cp9bg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1"
 type: article
 quality: 131
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.insider.com/5fea4d42edf8920018093f37?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "US says Russia was given Trump campaign polling data in 2016"
+    excerpt: "It was one of the more tantalizing, yet unresolved, questions of the investigation into possible connections between Russia and Donald Trump's 2016 presidential campaign: Why was a business associate of campaign chairman Paul Manafort given internal polling data — and what did he do with it?"
+    publishedDateTime: 2021-04-17T11:40:00Z
+    webUrl: "https://www.chron.com/news/article/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
+    ampWebUrl: "https://www.chron.com/news/amp/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "DvcEDV4OX2v1ikiAdjsTYCbU4W3rwhXUWsw123xdXKhs9j0D7pfya+IfTVkWfbxupVLJrH1rccjMEX/TbKA/Fqvl38Cm98xktXeJBSJoOzemnOt5Ggr/kQiwWX7LVKW+IJG2QpYHXEm54XcaK9MG9osNKMiq/B52U7ABrryr19N9clVlHlgprf3OmNqywmyUb1gRMSHKNZXslAOUL/GQDB5GFjLHPJ+kngwtjZDPWOGZY4OYOSozyMGNXyFlTaYjMRcoJB2o2rIrsLdG8Yi/4ZGFnDun2ozn19xtsEwzTmAe5Lz12tJ1AYpW8330m6PGNIBkZtB0sqC2j0+pF13LEDsb+Dq2Lresm//IZDUh2zQ=;rh2coOICzMzGZuoLMcr44A=="

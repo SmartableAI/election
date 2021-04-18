@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US says Russia was given Trump campaign polling data in 2016"
+    excerpt: "It was one of the more tantalizing, yet unresolved, questions of the investigation into possible connections between Russia and Donald Trump's 2016 presidential campaign: Why was a business associate of campaign chairman Paul Manafort given internal polling data — and what did he do with it?"
+    publishedDateTime: 2021-04-17T11:40:00Z
+    webUrl: "https://www.chron.com/news/article/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
+    ampWebUrl: "https://www.chron.com/news/amp/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "NgAcrIQ63E8UxecakT2IYGB07yHq9v0q1Zch6va73R2R2BLhDU0dMTKIVFzQcXoF3J+Ta8yan5/60mTx3NnaU8bAvugzlxBedqCKIcXDlq++6JmZQd/+iUrt5gAC8V+obqvFZibVSjfDV0YqyO8AFKbeATjYRsMAe8PmcSc53bjbziT7UKsE7PaGnm/V/zgh3edOk5jSPRRYBgD0Y7f+Vs/biwewX7wZ1QCvt4DptHuIJBgd0wDmij+bC9ChygvxlqY5mCzoe5CIYvRLCjuw6e1umBxdj90QN+xfbWP9GC2N3jyGJslr58ttzLKVMnTMloTQNhQcUmKSkNhr4WnW7uqxjj9BGiL6ljpBNVHbUjA=;iEBo2bqCvk+NbYq3mH1QOg=="
 ---

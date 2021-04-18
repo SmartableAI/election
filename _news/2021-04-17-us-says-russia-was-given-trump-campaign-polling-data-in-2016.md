@@ -1,33 +1,29 @@
 ---
 category: news
-title: "US says Russia was given sensitive Trump campaign polling data in 2016"
-excerpt: "Why was a business associate of campaign chairman Paul Manafort given internal polling data — and what did he do with it?"
-publishedDateTime: 2021-04-16T15:52:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-russia-trump-campaign-polling-data-20210416-uba65a3ixfgwpag7x6farbzany-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-russia-trump-campaign-polling-data-20210416-uba65a3ixfgwpag7x6farbzany-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-russia-trump-campaign-polling-data-20210416-uba65a3ixfgwpag7x6farbzany-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-russia-trump-campaign-polling-data-20210416-uba65a3ixfgwpag7x6farbzany-story.html?outputType=amp"
+title: "US says Russia was given Trump campaign polling data in 2016"
+excerpt: "It was one of the more tantalizing, yet unresolved, questions of the investigation into possible connections between Russia and Donald Trump's 2016 presidential campaign: Why was a business associate of campaign chairman Paul Manafort given internal polling data — and what did he do with it?"
+publishedDateTime: 2021-04-17T11:40:00Z
+originalUrl: "https://www.chron.com/news/article/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
+webUrl: "https://www.chron.com/news/article/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
+ampWebUrl: "https://www.chron.com/news/amp/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/eC-rIM0QzvooX58Y1nkhwa9ypdY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YII4ZE5CFABPTPCT65C6ATHFJE.jpg"
-    width: 1200
-    height: 800
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -63,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "US says Russia was given sensitive Trump campaign polling data in 2016"
+    excerpt: "Why was a business associate of campaign chairman Paul Manafort given internal polling data — and what did he do with it?"
+    publishedDateTime: 2021-04-16T15:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-russia-trump-campaign-polling-data-20210416-uba65a3ixfgwpag7x6farbzany-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-russia-trump-campaign-polling-data-20210416-uba65a3ixfgwpag7x6farbzany-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-russia-trump-campaign-polling-data-20210416-uba65a3ixfgwpag7x6farbzany-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/eC-rIM0QzvooX58Y1nkhwa9ypdY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YII4ZE5CFABPTPCT65C6ATHFJE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pelosi says in new book that Trump's 2016 victory felt 'like a mule kicking you in the back over and over again'"
     excerpt: "Pelosi detailed how upset she was after Hillary Clinton's 2016 loss, saying it was \"scary\" that Trump could have been elected in the first place."
     publishedDateTime: 2021-04-17T21:16:00Z
@@ -79,23 +91,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "US says Russia was given Trump campaign polling data in 2016"
-    excerpt: "It was one of the more tantalizing, yet unresolved, questions of the investigation into possible connections between Russia and Donald Trump's 2016 presidential campaign: Why was a business associate of campaign chairman Paul Manafort given internal polling data — and what did he do with it?"
-    publishedDateTime: 2021-04-17T11:40:00Z
-    webUrl: "https://www.chron.com/news/article/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
-    ampWebUrl: "https://www.chron.com/news/amp/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/US-says-Russia-was-given-Trump-campaign-polling-16105363.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
-secured: "9w5jxBRNasLmdPVaF1bHWx8fxbhrMUDMbatQYGgO2vbxnhZkTx2CCOCSI0qbTyitl3pr2RlLMJQo3M1DBqhRIFjFq6UmZeVi6dOqH44xksc5I4GeOOPhTV180Af0ypHAjAw8WyMmTgZl1A9V2giCTynVXTJKTevP6mqku8jsdxiudlq9lpiMKnN5MSCPPZ0yuBb7dY59PKoW9LncPaGUvTpvi69hnMt2qI4v9rBJVMaQKrBWTVCsUg1NzruTqXrUOnvTTxpdyGRqGHjRQHro3wvxTF0cLNhV9f+t8RiJ/RCx13dZywfeKocamaoKqTCRhgvJ3Jlm8JOCmcqfABK4DTnpF9ERmCaOs7tIeI/RihQ=;NKKnPNlE+QG4bqnpfwJT/g=="
+secured: "oXYpDEjy+Ej/oXre8qAzmK7YAiI4O63Vnh4kEBtZPPA+x8v2GCgFCSeufXCUryks++Rl/OaXAv7gE7nqE4n9vAHN4+StY/HOL6+IBxV73DJQn08RmFYW6lKOQRjBs8eoDo+Sfd1JuELdc5AsMo0F9ZnVa+OyQBnVjRdRZ0hA9HjaeAd3flYNIg7gFB7HCqDzTMNzHjjEa3hXyH8yPoovzoDXLxWbZlEGoNGDnW1+CPRyMkhkzefnD/kfyOFNjAWw5otc19CHoEqcSmQz6mKygzK9o9lBdy0j36X18j/kHJgzvnswi9fB4ximw0MSOFheJhI6ZdZdr9cPPJCjF/UjM445y1dIDCd2BLUZFPrUn5Y=;t9rGMEdzk+Nskg7fwzRp8w=="
 ---
 
