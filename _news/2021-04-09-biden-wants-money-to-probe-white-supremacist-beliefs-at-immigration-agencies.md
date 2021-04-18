@@ -306,7 +306,7 @@ related:
   - title: "Gun control advocates pin their hopes on Joe Biden"
     excerpt: "Nearly 40,000 Americans die each year from gun violence. Almost two-thirds of those deaths typically come by suicide with a firearm. Homicide accounts for 35% of gun deaths, most"
     publishedDateTime: 2021-04-17T00:07:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56682356?at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=22E15D2E-9F11-11EB-A1BC-59F14744363C"
+    webUrl: "https://www.bbc.com/news/world-us-canada-56682356"
     ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
     type: article
@@ -366,6 +366,20 @@ related:
       - url: "https://i.insider.com/606ee08430004b0019b2694b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden’s southern border challenge: reversing Trumpism"
+    excerpt: "The 46th US president took office promising a more welcoming immigration policy. Now Republicans are calling a new wave of migrants at the southern border a ‘crisis’, but is that really the case?"
+    publishedDateTime: 2021-04-18T19:27:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2021/apr/19/joe-bidens-southern-border-challenge-reversing-trumpism"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d991b123118a3edd78ba1afee29792b8b0284d66/0_125_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d286a196c46f2da3f9781436a2291867"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
     excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."

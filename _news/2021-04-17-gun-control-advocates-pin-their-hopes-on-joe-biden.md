@@ -3,8 +3,8 @@ category: news
 title: "Gun control advocates pin their hopes on Joe Biden"
 excerpt: "Nearly 40,000 Americans die each year from gun violence. Almost two-thirds of those deaths typically come by suicide with a firearm. Homicide accounts for 35% of gun deaths, most"
 publishedDateTime: 2021-04-17T00:07:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-56682356?at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=22E15D2E-9F11-11EB-A1BC-59F14744363C"
-webUrl: "https://www.bbc.com/news/world-us-canada-56682356?at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_medium=custom7&at_campaign=64&at_custom4=22E15D2E-9F11-11EB-A1BC-59F14744363C"
+originalUrl: "https://www.bbc.com/news/world-us-canada-56682356"
+webUrl: "https://www.bbc.com/news/world-us-canada-56682356"
 ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
 type: article
@@ -367,6 +367,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden’s southern border challenge: reversing Trumpism"
+    excerpt: "The 46th US president took office promising a more welcoming immigration policy. Now Republicans are calling a new wave of migrants at the southern border a ‘crisis’, but is that really the case?"
+    publishedDateTime: 2021-04-18T19:27:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2021/apr/19/joe-bidens-southern-border-challenge-reversing-trumpism"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d991b123118a3edd78ba1afee29792b8b0284d66/0_125_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d286a196c46f2da3f9781436a2291867"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
     excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
     publishedDateTime: 2021-04-02T10:12:00Z
@@ -485,6 +499,6 @@ related:
         height: 433
         isCached: true
 
-secured: "pNbobYaHbkJ3J4uF+DJk3RhOiKvOuKwt8DA6UKlO42W74IOEjVzJn1+uRPVKXbrmDRF7471g/g6X75PILgJ3oYzgcNsKCNSrZIitx7t6EAwbdyUJMDd9VjUS5TLwHDGA3vGEzUC10vWX7qTJ3I27iuBwXZwSt/PIOszDDPmxdHHe1noDWhIq/cpHVgJ/Z32NS4UkmmSsIJrpga5aYJBtIk2UAjCX2C2k1VqbqJfeLOY3af5kFNDzhrpn/9fI6bZGHKw1fi+Bw5hP++wYDkoRkhWGMTU80WZG7x9uM9WdcDRUQGBKASeGBqBIGG/TScP7tuyoM6rYeltrzZpcIeatMcO6qAUQgT4EQ23VdoYxMv/0lIr0bGOmF4jlB6DF6Dnxrdhi871M+GxQWmS8D/1bh/f2b6wOKCTXChXzIn4hlJo9TDKaG9TfMLb0rkcb2i2sj00TsiYrdoya/25vQA1cy5YRsp5cZvRnvQZLiS6y97eMykBThRGDDLVfJxFFa3gCktW8kTGe7UZekEMzcALVbQ==;FuXMM3XP5vf8TBlMlBmNKw=="
+secured: "O+iFBjBXw4ON2hdFUNl6gsNBd0VXYb8BZBtUMHB3KPaeY+9PRwp3lz5rxOjeUguENFyFtOog6N/wYIP2SDoq8WR/1MP0Pc1fmbHjVeccJrXUd5Gac+8JYF/duZLX+e67zgsn5rn00lyrm8NUhniimJL6D0rKhTUh+SV6xo3WLzMdpFaKYhzyq1tBujIhf90u0RVBhaFCv5KrZf+yr5sHtvbTJP2jAYLBM/KR9PdN2h95YnwxNpL3P87HGH1SmbXx1uAw61nzb+BOniiBi9G6uUGojDVaa7WNZ+AgVA3oopvu4CnArXRAw0DBgLUpeToTaN6V4uwb2LwiZK9iR9nz5CWfuGu7VyK+BQeNYfFsUAo=;cwYQ0ugGFr1EzGnnzPVD3g=="
 ---
 

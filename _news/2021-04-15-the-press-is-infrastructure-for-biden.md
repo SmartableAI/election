@@ -264,6 +264,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden created 'catastrophe' at southern border by 'dismantling' Trump’s policies: Florida Gov. DeSantis"
+    excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s immigration policies on “Sunday Morning Futures” saying he “dismantled” former President Trump’s policies and now there is “a huge catastrophe at the southern border,"
+    publishedDateTime: 2021-04-18T18:24:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "GGzNPz3+3PLgdxrlzvWkbDA4JKMmvL8Tj8hEYYSZnTB/fX9h5NERwiyQPWKIZ179NfdPaUoH7oTuoy/GMOpEaUPyveGL9PuJmKtHzxxZO+DuqsoT4l+yXPb0Lg2ySMaVj6c76fMkc8fh+VupnFhFdFmQkEsASQbRC+0f3/16pKRoGIUbJiEEAb5CgWcwNTE8bdj+t83ZDVu5sGl88UQm1LqfhZTwKK+XoAjeynj8LnOpN/Zxgane7rYAkEY6Y/MI2HDlmnDoshqE6ASqA4W+yxPIWvoDC/m1vTw3qtRl+BbtBiqvuUhMk8exc0+v6NdaW6F+YvI/n8y1c7OP3jIKyeOM14sxUZ60BSrThonuoKc=;XITRYTM1GmZ8FN0g41WFEw=="
 ---

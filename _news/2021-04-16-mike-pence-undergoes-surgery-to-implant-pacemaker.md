@@ -57,20 +57,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
-    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
-    publishedDateTime: 2021-04-15T22:12:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 98
-    images:
-      - url: "https://www.chicagotribune.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
-        width: 1200
-        height: 889
-        isCached: true
   - title: "Former Vice President Mike Pence has pacemaker installed"
     excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
     publishedDateTime: 2021-04-15T22:08:00Z
@@ -90,16 +76,16 @@ related:
   - title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
     excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
     publishedDateTime: 2021-04-15T19:10:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    webUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 75
     images:
-      - url: "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
+      - url: "https://media.11alive.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -162,6 +148,20 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/ULCkz1RgzS4TZ4BRJuVbbYY8p_Q=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/RFKZZCVLWJCSTJQRFSOEJJV43Y.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
+    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
+    publishedDateTime: 2021-04-15T23:12:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 48
+    images:
+      - url: "https://www.baltimoresun.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
+        width: 1200
+        height: 889
         isCached: true
 
 secured: "9yGmgz3pE0F/XYPoudL/GwOoOYPDK9wiC5bH7r2fLqG68QiJUHPUI1dl2LPvKnbBAkdCcmnxXnX4BM3rBjCKgF6F4q+61a6+JYCweeuk71w1FQnDAsURdneiPZh7MEJfstFhHOtHKAGAJNy4aBRA85osD1Cz46SpxKYJZxJyD7GeLD68iHEU325YXYoar3E8WyAcSZw8hKy62qD9wIAN0vSq5Kww/O31Y3H9GLjvK8Gv6vTXTS1JchHJXhHgrb3FguS3L4mOWz8Xt3P5FM8EXn5YbyQIa7XbmSwfmYSjXRJSmNmQZ+Rj9f1EOlvub7v+2Dw9JbMsPPKjEQaOwnq+Yexuc6jRfJKWbm11rdKXVVQ4p3E+MG/m9Qlum5cUbsCvmy5oTIyj+62QRwuj6x9LEPM7envL53MN47cL/+FQhnqcNBw/KstuiqUE4554sIBbf0NGF26w5j1Q+eMKwVV8r5S+JDGjKYiNvz6yKkw6JJ3SYk611bF3kZ3PS5hZjU9XqfbJpX4YxAECId3EygeP6g==;asFIm1TiowBR6kIi4vhMtQ=="

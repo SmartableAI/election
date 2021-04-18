@@ -2,28 +2,24 @@
 category: news
 title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
 excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
-publishedDateTime: 2021-04-15T22:12:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+publishedDateTime: 2021-04-15T23:12:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
 type: article
-quality: 98
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
+  - url: "https://www.baltimoresun.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
     width: 1200
     height: 889
     isCached: true
@@ -80,16 +76,16 @@ related:
   - title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
     excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
     publishedDateTime: 2021-04-15T19:10:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    webUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 75
     images:
-      - url: "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
+      - url: "https://media.11alive.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -168,6 +164,6 @@ related:
         height: 800
         isCached: true
 
-secured: "fbWrTqxISLFbsZ7g8Klqlj75kIUaCG/rofOHu0y1dkgB8GMEXkmtSVxG3YqPLClu4f3XBtKDm74tfNYvbjYjCTWbT5FVVh2VZNBRd09Erc4AVvD1XjQ6UiYlmfmP55F6kXHzze6YN44sLMQwX+fRrKRITT/T3Yb0j2AqCmYBzh9yT7aZRW2HRwFbGTr9TkFaKUSei/wqkZTJwpgs/S9GeVdIjXQDKdxQTwtVZ7FEwgUsDkRTXuDM5OWF7xC+2NVRe57R8HbAP5HdSNL+aFv9QeOOiV/+VcZ3KFJX13YNMErPpTUenpfwIHn8Ms3cs9KtEtfkD97+IbtytfEEdn8pchhZ9XdXJheicWQ+g+cs7VdTWpg8WK/J7LB0nBsM2G7YosbM9RQ1M5aiE+YkYdIPTQzbh9Yl0MxWcmmJ+MzAer2v6BsWc5E5+vjxLBgFSZOhfCsHQwpro+yfa/QYzyBQPcnZgQsQNCbPH7efXozPx/F+iwhIHcnHXboOvAM4H5YdS2L7p9hBqcaI6L5tbfZI/g==;AXGjilXO3D5vWoR4j/mSug=="
+secured: "XiBaObuhq1XXCdUCM/40yd9kOKT1aPV4GwrUuMLHfk0TiSsZyL/KdCdWbGUoqn/AZvGd3wspsbDRUjBdD94McN2qGk5Rp/24bORKddfMX/6AxWRdFeB4dA/ybQJDLDr7FadZ9x1OupstjVA5Ss/aVQ+Aq79V+fduYUChUmw6ePvJsLxcKKHyLM07vk46i/eL3CspjvEfmq7lDl2VQdgMBjbRAa+clVuOKn6+iGdrinPKtzY7Q2keLmeV4KdWcYsRkxYpxx69MOk72PsUUBXNvNvVb7emDjSkLAam9p+KmmEH5rzy2/AoUHf/sym2pZtwwrV/GjmbDzKZ37WszCtTAqrRNNRVOQ8TiLTpXtjIAyk=;EvdtYeelb/91v2MVKniCVQ=="
 ---
 

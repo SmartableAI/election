@@ -1,33 +1,31 @@
 ---
 category: news
-title: "A fight over Trump's SALT tax cap is threatening to derail Biden's $2 trillion infrastructure plan"
-excerpt: "A bipartisan group of lawmakers is seeking to reverse a 2017 tax cap introduced by former President Donald Trump."
-publishedDateTime: 2021-04-18T11:25:00Z
-originalUrl: "https://www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4"
-webUrl: "https://www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4"
-ampWebUrl: "https://www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4?amp"
+title: "Joe Biden’s southern border challenge: reversing Trumpism"
+excerpt: "The 46th US president took office promising a more welcoming immigration policy. Now Republicans are calling a new wave of migrants at the southern border a ‘crisis’, but is that really the case?"
+publishedDateTime: 2021-04-18T19:27:00Z
+originalUrl: "https://www.theguardian.com/australia-news/audio/2021/apr/19/joe-bidens-southern-border-challenge-reversing-trumpism"
+webUrl: "https://www.theguardian.com/australia-news/audio/2021/apr/19/joe-bidens-southern-border-challenge-reversing-trumpism"
 type: article
-quality: 126
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://i.insider.com/5fb66dce32f2170011f6ff9f?width=750&format=jpeg&auto=webp"
-    width: 750
-    height: 563
+  - url: "https://i.guim.co.uk/img/media/d991b123118a3edd78ba1afee29792b8b0284d66/0_125_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d286a196c46f2da3f9781436a2291867"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -207,6 +205,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "A fight over Trump's SALT tax cap is threatening to derail Biden's $2 trillion infrastructure plan"
+    excerpt: "A bipartisan group of lawmakers is seeking to reverse a 2017 tax cap introduced by former President Donald Trump."
+    publishedDateTime: 2021-04-18T11:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5fb66dce32f2170011f6ff9f?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Analysis: Bumpy road ahead for Biden's infrastructure plan"
     excerpt: "But Joe Biden believes he can use it to drive America to the future after a dozen years of false starts. The trip is unlikely to be smooth. Biden's $2.3 trillion infrastructure package ..."
     publishedDateTime: 2021-03-31T21:38:00Z
@@ -367,20 +381,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden’s southern border challenge: reversing Trumpism"
-    excerpt: "The 46th US president took office promising a more welcoming immigration policy. Now Republicans are calling a new wave of migrants at the southern border a ‘crisis’, but is that really the case?"
-    publishedDateTime: 2021-04-18T19:27:00Z
-    webUrl: "https://www.theguardian.com/australia-news/audio/2021/apr/19/joe-bidens-southern-border-challenge-reversing-trumpism"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/d991b123118a3edd78ba1afee29792b8b0284d66/0_125_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d286a196c46f2da3f9781436a2291867"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
     excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
     publishedDateTime: 2021-04-02T10:12:00Z
@@ -499,6 +499,6 @@ related:
         height: 433
         isCached: true
 
-secured: "t/lly4J4gt5CqhjFRlHZhCyuoL9EXnup3pb6qZfAky33MoejO7WuU1YKDRXqnnTJ3iNgPv5HCkLT/kMFaEVfML19raW8vaM5gAk2qBAJdkX/tp7GiXXjxgrOzR0swFyxxp4FCUro3HrQz/dl33je6msfoGGzoySaOsavgB3IRhtnB6JYGvnSaT8kFznPKmi8u1hdfoREPuksXCOje7mpPmW9+vwdz6GQ0NdXXDUUbnCC5W3WH4tndID0eWpH/zbQ1FxWw7SMuZVobYrGCOagpGuSuKvd2WkdIVGs54tV9dBOiLVqO9J6u9QHCCAjWQRUNuvlgOtKhbp5eZqf4K/jBARR+s6ZuELyaww3qdCCLSIZeSkSBYlCP4gqlcV79l/efNf8jfM3EdayN2fWDE4Xt3y/p5lCGbB2GN/FXb4oQDYzg5heHYQrrUhcBh48rFSUW8QylTO10xuj3WhKYfy6vZcBVu/vMlqcTDocFrlEZHX0J5LVRHfPgF9LPyVNhONNCHDR9PwG7lg3rqpcKBErtQ==;k2+xDT1m1xfSmmwd7yx+5Q=="
+secured: "1G5ia56MXjQ+w4x1Hww0ti1lWBRF5c74Q7ThzvWxnDaGAAP91fT0il0+8P/dNmc5ele9ccTC+PcDhrKjegY2MR5kO1mfOOP8gXepI72cWUWFU7Okpd8dupFhSO26ZYgpGR8VtSFKsyaf/+JLYAXSuv6GKzJzujjWrdFwgQ1X+0hmzI4CaaG6w3H9FxLoPTqveck2dYwZcVzq42gvb0dIfdInbRcCjyCz8lik9fhje7V8Y+BUa9/QlcRSFKL++zeSGFOJWU2OiXlEHCKj/4v+hH/vgkUnTHOL4gmrnUpNndqu1DvvaJIkGYqwDVZ+igl1i+cusy3jxGo5CJlSBr/sbW6Otq02Daj2n/uxm8ZzdNY=;UbMGSX8VO4jUfjk/rKL6ug=="
 ---
 

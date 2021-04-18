@@ -1,30 +1,34 @@
 ---
 category: news
-title: "Trump blasts Biden plan to withdraw from Afghanistan"
-excerpt: "Former President Donald Trump blasted President Biden for pushing the deadline to withdraw all US troops from Afghanistan to Sept. 11 — saying it “should remain a day of reflection and"
-publishedDateTime: 2021-04-18T19:45:00Z
-originalUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/"
-webUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/"
-ampWebUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
+title: "Biden created 'catastrophe' at southern border by 'dismantling' Trump’s policies: Florida Gov. DeSantis"
+excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s immigration policies on “Sunday Morning Futures” saying he “dismantled” former President Trump’s policies and now there is “a huge catastrophe at the southern border,"
+publishedDateTime: 2021-04-18T18:24:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis"
+webUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis"
+ampWebUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
 type: article
-quality: 150
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/bicen-trump-troops-inset.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -202,6 +206,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump blasts Biden plan to withdraw from Afghanistan"
+    excerpt: "Former President Donald Trump blasted President Biden for pushing the deadline to withdraw all US troops from Afghanistan to Sept. 11 — saying it “should remain a day of reflection and"
+    publishedDateTime: 2021-04-18T19:45:00Z
+    webUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/"
+    ampWebUrl: "https://nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/trump-blasts-biden-plan-to-withdraw-from-afghanistan/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/bicen-trump-troops-inset.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump mocks Biden for ‘PC’ military: ‘They’re laughing at us like never before’"
     excerpt: "Former President Donald Trump mocked President Biden in a podcast, saying he forced the nation’s armed forces to become “politically correct” with progressive and gender-inclusive policies."
     publishedDateTime: 2021-04-15T21:49:00Z
@@ -250,22 +270,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden created 'catastrophe' at southern border by 'dismantling' Trump’s policies: Florida Gov. DeSantis"
-    excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s immigration policies on “Sunday Morning Futures” saying he “dismantled” former President Trump’s policies and now there is “a huge catastrophe at the southern border,"
-    publishedDateTime: 2021-04-18T18:24:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "The Press Is Infrastructure for Biden"
     excerpt: "John Cornyn came under blistering attack from Washington Post scribe Aaron Blake for having wondered whether President Joe Biden is really in charge, since he's kept an extremely low profile with the press."
     publishedDateTime: 2021-04-14T18:51:00Z
@@ -281,6 +285,6 @@ related:
         height: 500
         isCached: true
 
-secured: "9nmwxdYbYsSn4IcPyOIxnrCpGpuWM8RDjiRWFx7JuB5K3UeGYSpp7Jm3YBmZ6PuqKX0m74qPf5JtPAERJbhw6T3TpC0rexAIWecMqHAf+BSMe6DjwwuXu+qfscaJH1j3dbMuFE3SJwoR0fD57hw2e/XL0FySoLSqzow35GjeZuCIk4tl1ydFs7oGMxWPEOqh20G10+lEPGUwTvJEPm4AXWyEM9CHUeaZ/ckVMOo3guP2gHVs6FqjeRmmNZGlRx/pgiHrgJ1MEJy+iCjfuSALL7JDcDR5c+rNKSRsqDPEPAG+6Ni7yA1SuQ7i3wvmGd47+n7//ybFKX6qmk3Bh7JWj6wPirJjiC1FIygEqG1tN2WH4kWT80QGcDq3jkbL//+wY4J4sLEs2ugVPENPZtbLF0LM3fgb/YObAPDS0fRp1r+UhzC1HIreo4tqEPqECjAa9JCTn9v+tC24DX9LPtE4+a+LCrAoetPBlCX4X1E5c6Ip4K09lapZqPwAzInpCGbqRnpGfxZyVrfTGFlINiHmBg==;S6dnJQ2hrcR2wDJOgeMx/Q=="
+secured: "Y3Yx8FchWjmpryqRmYzEi9czYDYLfj6n9f0q02SS6W9F5XcqRXJt5jGvtXc8YjTeTw8vp0BjOQclRSBneS31KuKVC/5pvmy2XgcjEw8augsfVHiMXlESbWeym0mBtp3I/VSgj6FGIzr0tE8pOtIZi/CY5UDpjY4slayUEPmgB+8+sdEa875azyhE7i4Kjo+SRQDm+YGLXTmpiCOMV3snQYgG0UhY1SJSFOsfMkLd0DK3Tw3B9bcv1gRfQmrOv39KRlxW9Yc5yC0k6TrzMUCEUTedAsgWgsSbyIS/u8WAvCxhvV/HvrYZ3GPWHRfVpLEXscnf9QjrIqYgkLGtMBfxTzC2L1NZf/4RWfyF9Z6eErc=;1qjOgfF1FePUwGHwb01Apg=="
 ---
 

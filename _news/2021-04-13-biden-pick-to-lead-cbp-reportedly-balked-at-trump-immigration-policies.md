@@ -250,6 +250,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden created 'catastrophe' at southern border by 'dismantling' Trump’s policies: Florida Gov. DeSantis"
+    excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s immigration policies on “Sunday Morning Futures” saying he “dismantled” former President Trump’s policies and now there is “a huge catastrophe at the southern border,"
+    publishedDateTime: 2021-04-18T18:24:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-created-catastrophe-at-southern-border-by-dismantling-trumps-policies-florida-gov-desantis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "The Press Is Infrastructure for Biden"
     excerpt: "John Cornyn came under blistering attack from Washington Post scribe Aaron Blake for having wondered whether President Joe Biden is really in charge, since he's kept an extremely low profile with the press."
     publishedDateTime: 2021-04-14T18:51:00Z

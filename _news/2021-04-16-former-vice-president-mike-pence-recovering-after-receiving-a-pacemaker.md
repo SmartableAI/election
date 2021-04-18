@@ -3,25 +3,25 @@ category: news
 title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
 excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
 publishedDateTime: 2021-04-15T19:10:00Z
-originalUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-webUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+originalUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+webUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
+  - url: "https://media.11alive.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -58,20 +58,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1778960/mike-pence-joe-bidens-inauguration.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
-    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
-    publishedDateTime: 2021-04-15T22:12:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 98
-    images:
-      - url: "https://www.chicagotribune.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
-        width: 1200
-        height: 889
         isCached: true
   - title: "Former Vice President Mike Pence has pacemaker installed"
     excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
@@ -163,7 +149,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
+    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
+    publishedDateTime: 2021-04-15T23:12:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 48
+    images:
+      - url: "https://www.baltimoresun.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
+        width: 1200
+        height: 889
+        isCached: true
 
-secured: "g0r16bVHK8V01jdGwFsoXaK7z8+PAskiuyKRMvbeIHSJJfvMC4yZQNBhKbt9oSxtrvHxlwCBynmImchNw7WDvliffPBz0RdYoc6XswE+h1PvgxWa+KmHxp2A0DuSSgQtYMLk8E9Swy2dnDlL56zOCp6W2QdUcqSZlv9/KL8vISzLE+lWh70nMGmMr4SozDbVRvPRGXGMqBb4u/8GpIszIUk4YsoWeTcXhYM9z/Nf9sh9gnESneihCbrDnx56k7zPrG0CQbO5TVzl75uOth2aSamIO8N8tfChFNM3mFid/FZD9VxvEu7o6DxF5sOQZ0iV5Sjsc+8PkfxI4M2akx9UVYNOZC3uucX+Vq8/gG4joEc=;FuwMfvGN2+Nysw0+BWiwHw=="
+secured: "CjANjVvGFDXLSfjvGbwMm1LpS6ZViYx08UdsCl8pz6ejJ1usfOGSKLoHd7d5peI5XYaQ3nyPtOHdm2gFqmu+1DfECs6V2MhhV1jzCeZmkkILOen4X35LQpJsVF7RwvNny80yisqVcKNPZL7XWKQGQsnQrkk2RdZQqPv1YnPLT5jwTgduWomUXfHMFvW9V+W2A++0OvY28hWPp8xg4A6u3/9pq095T6FBbyGs2hGdeqC8YelBnjwU5cZ4i2w2wA/0kK9W28W5x3N3mOnS5GMZyXQRCWesxYYRO4bexabbu2Pwd46V2TcFNd6d9ew+BQK6HpMuy6ntt4rvQ8VzyYJ8A6wa8+AvajS010XCl2Zc4ys=;5tq7Ov76eZK3umlbG4WasQ=="
 ---
 

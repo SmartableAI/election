@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
-excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
-publishedDateTime: 2021-04-17T22:17:00Z
-originalUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
-webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
-ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
-cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+title: "VP Kamala Harris expected in NH later this week"
+excerpt: "Vice President Kamala Harris plans to visit New Hampshire later this week, her first trip to the Granite State since she and President Joe Biden were sworn into office in"
+publishedDateTime: 2021-04-18T19:28:00Z
+originalUrl: "https://www.unionleader.com/news/politics/vp-kamala-harris-expected-in-nh-later-this-week/article_6b159730-90a8-5e67-b535-d12439d652cc.html"
+webUrl: "https://www.unionleader.com/news/politics/vp-kamala-harris-expected-in-nh-later-this-week/article_6b159730-90a8-5e67-b535-d12439d652cc.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Tampa Bay Times
-  domain: tampabay.com
+  name: New Hampshire Union Leader
+  domain: unionleader.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
-    width: 800
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/b/c5/bc5ca04d-bbc6-5000-a4d6-78e2e21fceb7/5f3325fe49ee2.image.jpg?resize=946%2C630"
+    width: 946
+    height: 630
     isCached: true
 
 related:
@@ -120,6 +118,22 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
+    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
+    publishedDateTime: 2021-04-17T22:17:00Z
+    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
+    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Florida woman threatened to kill Kamala Harris in videos, agents say"
     excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
@@ -295,20 +309,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VP Kamala Harris expected in NH later this week"
-    excerpt: "Vice President Kamala Harris plans to visit New Hampshire later this week, her first trip to the Granite State since she and President Joe Biden were sworn into office in"
-    publishedDateTime: 2021-04-18T19:28:00Z
-    webUrl: "https://www.unionleader.com/news/politics/vp-kamala-harris-expected-in-nh-later-this-week/article_6b159730-90a8-5e67-b535-d12439d652cc.html"
-    type: article
-    provider:
-      name: New Hampshire Union Leader
-      domain: unionleader.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/b/c5/bc5ca04d-bbc6-5000-a4d6-78e2e21fceb7/5f3325fe49ee2.image.jpg?resize=946%2C630"
-        width: 946
-        height: 630
-        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T20:49:00Z
@@ -326,6 +326,6 @@ related:
         height: 682
         isCached: true
 
-secured: "sEHP/u09uaM6o0T4skTiu1JiSm1uTo6Q3z9Jwn999UcD2AEDaLCaN0Bq5yyto1LCQHt2/gasyxSQt7RQY61tMAB7cW/zr6MJ+LmdkxlKn/gSaLtnllgZ10ObBn+/S5oexX5/ndK8HNEhotZiBZ9T331i3Mec+CVa9ctr8BJK1RrrN2K2YIPgYv6FltF240RJK5HqtdPiOHzj3SHzjTlZDfkyhbTE2qUTn3dP2/mtTTsq307I190htqTKTTnoGRYCY2LQQ5z8DXnJ4WKoZyq0yD7degADE/eYD5XYgDZ42FkqkTrGvjjDb4tTNVb7oP+/AB+5c68KWVpGXQt0bUh3t3m9doJFy7ngBBI0ZwSeRfFMB9dSRWJPOsZW23RgcZBfIy+HrsEU/ypRldbg+n3XuPTmArWcia4lCwwvE87rGmyKMRrHMk/5jCIFyW+dgycgo5oE6/7FFIxl0P6wSN4Hlki9n6/0Cja0nCuAB7jGLQBDfW2S8hNNKQ+t03lnRMCe0qqlRZDqxyGXq1ZI/kFI0A==;KO2w6SkyjcgRDEo7VynDPg=="
+secured: "khAfWZCGA5JxmUE2jXRJKji0Unp/FPPjMnJhvZI0/EpFKZ8pBu6IoYJQzVTp0B2XR8rDF9w9U/JvCBCQKXuUec+09YGwrMtfZ7/47RVGZwsZEGeFhuVEvo3HBNcxVicv41U/4vvxrsXuVoFSuO/GRIeQq3y+sJW7TEIzqWvawf87fvPAuOinY81fRF7rGbQOG4LUVCXoNxExDkRsI9k79QL3/qeAd8hqJhurdnS6CA78jtJnhxCw9MWHkXGjH67YaJvCPEw7eC/ID23pjG9ypTWwA9Sby5IzxBoU009crPU9v5SgaxuLTgYX60aBefp8UAu3HKzwdKTYpY4JDOeuRJhX8tpLyK7+TKUjrv7Uc1k=;KQObLhj++MYP5q+P+DCyww=="
 ---
 
