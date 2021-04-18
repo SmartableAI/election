@@ -2,6 +2,115 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-01-25-mypillow-guy-among-the-trump-acolytes-looking-to-pick-up-where-he-left-off.md",
+      "title": "MyPillow Guy among the Trump acolytes looking to pick up where he left off",
+      "excerpt": "MINNEAPOLIS — When Mike Lindell, better known to TV viewers as the MyPillow Guy, went to the White House last week to try to persuade then-President Donald Trump to keep pushing bogus theories ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/mypillow-guy-among-trump-acolytes-looking-pick-where-he-left-n1255438",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/mypillow-guy-among-trump-acolytes-looking-pick-where-he-left-n1255438",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_03/3443099/210119-mike-lindell-al-0858_1ceff7464af6f2eeb690cc064cd6adef.jpg",
+          "width": 2500,
+          "height": 1408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1255438",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255438",
+      "publishedDateTime": "2021-01-24T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-republican-congressman-played-a-role-in-trumps-campaign-to-fight-election-loss-nyt.md",
+      "title": "Republican congressman played a role in Trump's campaign to fight election loss: NYT",
+      "excerpt": "A Republican U.S. congressman played a role in ex-President Donald Trump's efforts to oust the top Justice Department official and replace him with a loyalist willing to support efforts to overturn his election defeat,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 893,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548877639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N093",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29T0FS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS",
+      "publishedDateTime": "2021-01-24T11:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-biden-health-officials-express-concern-about-short-term-vaccine-supply-crunch.md",
       "title": "Biden health officials express concern about short-term vaccine supply crunch",
       "excerpt": "I think that the supply is probably going to be the most limiting constraint early on,\" the CDC director said.",
@@ -1259,119 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-biden-suggests-delayed-impeachment-timeline-may-be-better.md",
-      "title": "Biden suggests delayed impeachment timeline may be 'better'",
-      "excerpt": "Biden suggested having more time to get his Cabinet nominees confirmed may help jumpstart his policy agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
-      "publishedDateTime": "2021-01-22T13:38:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-trump-may-have-made-one-thing-great-after-all-the-democratic-party.md",
-      "title": "Trump may have made one thing 'great' after all: the Democratic Party",
-      "excerpt": "If Democrats are going to hold on to the momentum galvanized under Trump’s disastrous term, they need to deliver. President Donald Trump's promise to \"Make America Great Again\" turned out to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
-      "originalUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2021_03/3443977/210121-democratic-party-great-again-main-2x1-an_c61ed483fca4984ffa89420fdf5b4d6a.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/ncna1255240",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/ncna1255240",
-      "publishedDateTime": "2021-01-22T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],
