@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his-name.md",
+      "title": "Colbert: 'There's no avoiding' Trump, but 'I don't like saying his name'",
+      "excerpt": "report Colbert calls out 'idiot' Kennedy for Boulder remarks MORE says he avoids saying former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his",
+      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/colbertstephen_031619.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp",
+      "publishedDateTime": "2021-04-12T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-analysis-bidens-agencies-reverse-trumps-wall-street-friendly-rules.md",
       "title": "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules",
       "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ...",
@@ -441,7 +493,7 @@
       "originalUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1517,58 +1569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-jennifer-weisselberg-has-several-boxes-of-documents-left-to-give-prosecutors-investigating-trump-her-lawyer-says.md",
-      "title": "Jennifer Weisselberg has 'several boxes of documents' left to give prosecutors investigating Trump, her lawyer says",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. Jennifer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606cb46e30004b0019b2640e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
-      "publishedDateTime": "2021-04-06T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,110 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-01-15-as-new-york-dumps-trump-a-trump-exodus-to-florida-is-underway.md",
+      "title": "As New York dumps Trump, a Trump exodus to Florida is underway",
+      "excerpt": "As New York officials make aggressive moves to cut ties with President Trump, planning has been underway for Trump and some of his children to ditch the Empire State.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "originalUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/trump-family-gty-ml-210114_1610647078401_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "publishedDateTime": "2021-01-14T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-fact-check-was-a-biden-campaign-official-arrested.md",
+      "title": "Fact Check: Was a Biden Campaign Official Arrested?",
+      "excerpt": "A woman was arrested in Texas on multiple counts of voter fraud, causing social media users to make claims about who she was working for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777",
+      "originalUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1683033/ken-paxton-files-election-lawsuit-supreme-court.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1",
+      "publishedDateTime": "2021-01-14T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-georgia-republicans-reassign-gop-lawmakers-who-supported-trumps-election-fraud-claims.md",
       "title": "Georgia Republicans reassign GOP lawmakers who supported Trump's election fraud claims",
       "excerpt": "Georgia Republicans have reassigned three fellow GOP lawmakers who backed baseless allegations of voter fraud related to the November presidential election.\n    \n",
@@ -1253,110 +1357,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-administration-nixes-plans-for-controversial-last-minute-foreign-trips-to-europe-and-taiwan.md",
-      "title": "Trump administration nixes plans for controversial last-minute foreign trips to Europe and Taiwan",
-      "excerpt": "Facing reported snubs by EU allies, Mike Pompeo's staying home, and Ambassador Kelly Craft won't visit Taiwan – a trip that would have infuriated China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/11/f52e32c5-77b7-4e21-8af8-83be52dd5b8f/thumbnail/1200x630/ea79939e1c64abe7361b6638bd745954/gettyimages-1290714664.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
-      "publishedDateTime": "2021-01-13T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-hogan-calls-gop-delegate-who-attacked-pence-a-q-anon-conspiracy-theorist.md",
-      "title": "Hogan calls GOP delegate who attacked Pence a ‘Q-Anon conspiracy theorist’",
-      "excerpt": "Larry Hogan (R) said Tuesday that a Republican state delegate who organized buses to the #stopthesteal rally in Washington — and called Vice President Pence a traitor during the breach of the Capitol — was a “Q-Anon conspiracy theorist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YKBUGEEW5UI6VB5DELJSII2WGY.jpg&w=1440",
-          "width": 1440,
-          "height": 983,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-12T19:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-17-republicans-are-recycling-trumps-fear-mongering-about-terrorists-entering-the-us-through-mexico.md",
+      "title": "Republicans are recycling Trump's fear-mongering about terrorists entering the US through Mexico",
+      "excerpt": "DOW S&P 500 NASDAQ 100 As record numbers of unaccompanied minors turn up at southern border, congressional Republicans are echoing dubious claims from former President Donald Trump about terrorists attempting to cross into the US from Mexico. House ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
+      "originalUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/605113400347cb00184b61e4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-recycles-trump-claims-terrorists-crossing-us-mexico-border-2021-3?amp",
+      "publishedDateTime": "2021-03-16T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable.md",
+      "title": "Birx: Trump's disinfectant injection moment was 'extraordinarily uncomfortable'",
+      "excerpt": "Deborah Birx, the former White House coronavirus response coordinator, said on Monday that former President Trump’s suggestion to treat COVID-19 by injecting disinfectant and using ultraviolet rays wa",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable",
+      "originalUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_birxdeborah_03242020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/543418-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable?amp",
+      "publishedDateTime": "2021-03-16T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-kamala-harris-tells-un-democracy-depends-on-empowerment-of-women-live.md",
       "title": "Kamala Harris tells UN: 'Democracy depends on empowerment of women' – live",
       "excerpt": "Vice-President gives pointed address to the UN on gender equality and women’s rights Joanna Walters (now) and Martin Belam (earlier) Martin Pengelly Meghan Markle’s comments about the royal family in her bombshell interview with Oprah Winfrey ...",
@@ -1227,119 +1331,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/14/politics/biden-modi-morrison-suga-quad-op-ed/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/biden-modi-morrison-suga-quad-op-ed/index.html",
       "publishedDateTime": "2021-03-14T07:45:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-ny-sheriff-violated-hatch-act-by-flying-pro-trump-flag-on-summer-boat-parade-us-agency.md",
-      "title": "NY sheriff violated Hatch Act by flying pro-Trump flag on summer boat parade: US agency",
-      "excerpt": "An upstate New York sheriff received a warning from federal investigators for violating the Hatch Act by flying a \"Making America Great\" flag during a pro-Trump boat parade last summer. Oswego County Sheriff Don Hilton received a warning letter from the U ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade",
-      "originalUrl": "https://www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-york-sheriff-warning-hatch-act-trump-maga-flag-boat-parade.amp",
-      "publishedDateTime": "2021-03-14T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-analysis-bidens-toughest-test-on-economic-inequality-will-be-reinvigorating-the-labor-movement.md",
-      "title": "Analysis: Biden's toughest test on economic inequality will be reinvigorating the labor movement",
-      "excerpt": "For the Democratic left, President Joe Biden's mammoth victory on Covid relief has inspired new hope of rebalancing America's increasingly unequal economy.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/66LP6lRyWDw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/66LP6lRyWDw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122171207-joe-biden-unions-1010-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/14/politics/president-biden-labor-unions-economic-inequality/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/president-biden-labor-unions-economic-inequality/index.html",
-      "publishedDateTime": "2021-03-14T06:00:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

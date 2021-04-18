@@ -2,6 +2,114 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-02-16-comey-email-reveals-fbi-doj-made-premeditated-effort-to-dislodge-trump-from-office-gaetz.md",
+      "title": "Comey email reveals FBI, DOJ made 'premeditated effort to dislodge' Trump from office: Gaetz",
+      "excerpt": "The Justice Department and FBI engaged in a \"premeditated effort to dislodge the duly elected president of the United States,\" Rep. Matt Gaetz, R-Fla., charged Monday on \"Hannity.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TdsKsL1kJ5M/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TdsKsL1kJ5M/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f75a584d-26b5-4022-a487-47a7e7f50c59/0e4ba9e4-e5f5-4b02-b0c5-8fe53c0020b1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier.amp",
+      "publishedDateTime": "2021-02-15T20:54:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-gop-sen-richard-burr-facing-censure-at-home-over-vote-to-convict-trump.md",
+      "title": "GOP Sen. Richard Burr facing censure at home over vote to convict Trump",
+      "excerpt": "The North Carolina GOP is set to vote on a censure on retiring Sen. Richard Burr in an emergency meeting Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
+      "originalUrl": "https://abcnews.go.com/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/burr-impeachment-5-ap-ps-210213_1613251643612_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
+      "publishedDateTime": "2021-02-15T18:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-progressives-push-for-joe-bidens-1400-stimulus-checks-on-presidents-day-44-days.md",
       "title": "Progressives Push for Joe Biden's $1,400 Stimulus Checks on President's Day: '44 Days'",
       "excerpt": "Before taking office, Biden said that he wanted to act \"boldly and urgently\" to get the checks passed through Congress. But weeks have gone by since his inauguration and another stimulus bill has still not been passed.",
@@ -1233,119 +1341,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-home-of-trump-attorney-michael-van-der-veen-vandalized.md",
-      "title": "Home of Trump attorney Michael van der Veen vandalized",
-      "excerpt": "The home of Trump defense attorney Michael van der Veen was vandalized Friday night. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a6T8HuzhG9U/home-of-trump-attorney-michael-van-der-veen-vandalized",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a6T8HuzhG9U/home-of-trump-attorney-michael-van-der-veen-vandalized",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48af4cfc-3e7c-41ec-af13-451581c73dea/20e94164-e30c-4092-937c-420089d8597c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/home-of-trump-attorney-michael-van-der-veen-vandalized.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/home-of-trump-attorney-michael-van-der-veen-vandalized.amp",
-      "publishedDateTime": "2021-02-13T15:25:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-the-disgraceful-acquittal-of-donald-trump.md",
-      "title": "The ‘Disgraceful Acquittal’ of Donald Trump",
-      "excerpt": "A sad, sad day for democracy,” one reader writes. “It was craven cowardice for Republicans to put Mr. Trump before country,” writes another.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/13/us/politics/13impeachment-briefing-acquital-defining-moment2/13impeachment-briefing-acquital-defining-moment2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/opinion/letters/trump-impeachment-trial.amp.html",
-      "publishedDateTime": "2021-02-13T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

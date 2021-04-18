@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1"
 type: article
 quality: 131
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/eC-rIM0QzvooX58Y1nkhwa9ypdY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YII4ZE5CFABPTPCT65C6ATHFJE.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Pelosi says in new book that Trump's 2016 victory felt 'like a mule kicking you in the back over and over again'"
+    excerpt: "Pelosi detailed how upset she was after Hillary Clinton's 2016 loss, saying it was \"scary\" that Trump could have been elected in the first place."
+    publishedDateTime: 2021-04-17T21:16:00Z
+    webUrl: "https://www.businessinsider.com/pelosi-trump-2016-presidential-victory-mule-kicking-back-pain-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/pelosi-trump-2016-presidential-victory-mule-kicking-back-pain-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-trump-2016-presidential-victory-mule-kicking-back-pain-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fea4d42edf8920018093f37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "DvcEDV4OX2v1ikiAdjsTYCbU4W3rwhXUWsw123xdXKhs9j0D7pfya+IfTVkWfbxupVLJrH1rccjMEX/TbKA/Fqvl38Cm98xktXeJBSJoOzemnOt5Ggr/kQiwWX7LVKW+IJG2QpYHXEm54XcaK9MG9osNKMiq/B52U7ABrryr19N9clVlHlgprf3OmNqywmyUb1gRMSHKNZXslAOUL/GQDB5GFjLHPJ+kngwtjZDPWOGZY4OYOSozyMGNXyFlTaYjMRcoJB2o2rIrsLdG8Yi/4ZGFnDun2ozn19xtsEwzTmAe5Lz12tJ1AYpW8330m6PGNIBkZtB0sqC2j0+pF13LEDsb+Dq2Lresm//IZDUh2zQ=;rh2coOICzMzGZuoLMcr44A=="

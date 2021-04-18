@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hillary Clinton calls Donald Trump a \"fraud\""
+    excerpt: "Hillary Clinton called Donald Trump a \"fraud\" for allegedly ripping off students at Trump University. This comes as President Obama jumps into the 2016 presidential race, slamming Trump's proposals as \"crazy."
+    publishedDateTime: 2021-04-18T02:26:00Z
+    webUrl: "https://www.cbsnews.com/video/hillary-clinton-calls-donald-trump-a-fraud-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/18/8a9fcd20-3b61-4e0d-a1f4-2c29ec2255de/thumbnail/1200x630/8e2fac14c92f5dffbdebed282a1d343e/cbsn-0601-clintontrumphhy-1071908-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BjfAbCL1csyTlyRPSEWUxK2oCW/24NHaDFrrpxUTiWaHZeT1TrzdgDH171XGX3IXwbUMWzpq/PxxEKb6+Omd4stcd2iIQjCPxVsKDM0npJvgVVon9+zYSbGaOw+Jq1gt2IeJ5iUZsDxzqFOrfAUFU3NjE3ed34/42BwW3kFPCOqQsX3Vv2frbV77CfJMhWMOK3HKEO+k2Nnvf2unH+0oJMSMDf+Temd5BawZWCqUvKAi3GLjnQWACNo5QpBk8gkur3qqxfPTLM/BD0EW7m40ZDHxR2h72rMn/sq/b2efWiY6MdJfzVOQCai1iBtlau9epADm8LnylcRTxx/1fY6/3poQEzw6NBkDzwjaRn71HG5neb73ZFhKVG69ws0Dd077E6thDVTPEbpYm1ys/qQwBgjo/lhzfuHsXkoknVXrp/phVWiCWmu2FcEfaeV+mTiCApGSqBtL5Y1vtRUIh4lNUBUDIQILaXOnXX7PwHFv1Un9MTGBSS4MfbeFC/DPd+Uz87TRi2Y2KwfJn9PfJ9jLNA==;hungDjKZW1hYZX35BLfX/g=="
 ---

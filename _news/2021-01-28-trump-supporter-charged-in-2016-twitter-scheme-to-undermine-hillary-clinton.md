@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/douglass-mackey-ric
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/douglass-mackey-ricky-vaughn-donald-trump-hillary-clinton/2021/01/27/78a37940-60c8-11eb-afbe-9a11a127d146_story.html?outputType=amp"
 type: article
 quality: 123
-heat: 163
+heat: 183
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/17/ae74e810-d969-4f9f-99b9-3a4ef41bf4be/thumbnail/1200x630/fcd4fb0d9539667368fa4dc650eb9345/0517-cbsn-wtd-trumpattackswibill-1064583-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hillary Clinton calls Donald Trump a \"fraud\""
+    excerpt: "Hillary Clinton called Donald Trump a \"fraud\" for allegedly ripping off students at Trump University. This comes as President Obama jumps into the 2016 presidential race, slamming Trump's proposals as \"crazy."
+    publishedDateTime: 2021-04-18T02:26:00Z
+    webUrl: "https://www.cbsnews.com/video/hillary-clinton-calls-donald-trump-a-fraud-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/18/8a9fcd20-3b61-4e0d-a1f4-2c29ec2255de/thumbnail/1200x630/8e2fac14c92f5dffbdebed282a1d343e/cbsn-0601-clintontrumphhy-1071908-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

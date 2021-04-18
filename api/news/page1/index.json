@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-18-kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief.md",
+      "title": "Kamala Harris purposely ‘avoids’ US-Mexico border: Border Patrol council chief",
+      "excerpt": "It’s no accident that Vice President Kamala Harris hasn’t visited the U.S.-Mexico border region, the head of the Border Patrol agents’ union said Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief",
+      "originalUrl": "https://www.foxnews.com/media/kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3aca2d9-f7aa-428f-a77e-38e57f9e7d0d/fade7b2a-49de-461e-8eed-3337900757d8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief.amp",
+      "publishedDateTime": "2021-04-17T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump.md",
+      "title": "RNC Chairwoman Ronna McDaniel comes under pressure to show more independence from Trump",
+      "excerpt": "Some party committee members want the GOP to create some distance from the former president — or at least grapple with the fact that Republicans lost the White House, Senate and House during his administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKZT7DTBVMI6XILXO5S7FGUVEQ.jpg&w=1440",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-17T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-biden-describes-border-surge-as-a-crisis-as-he-defends-refugee-moves.md",
       "title": "Biden describes border surge as a ‘crisis’ as he defends refugee moves",
       "excerpt": "President Biden on Saturday described the situation at the border as a “crisis” for the first time, as he defended his administration’s walkback on refugee policy a day earlier.",
@@ -1226,115 +1335,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-senators-to-biden-waive-vaccine-intellectual-property-rules.md",
-      "title": "Senators to Biden: Waive vaccine intellectual property rules",
-      "excerpt": "A waiver would pave the way for poorer nations struggling to inoculate their populations from the coronavirus to make the vaccines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/senators-biden-waive-vaccine-intellectual-property-rules-n1264256",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/senators-biden-waive-vaccine-intellectual-property-rules-n1264256",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_15/3465202/210416-joe-biden-mc-1155_c99f90a0a886a7742215bfdcdba086ea.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264256",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264256",
-      "publishedDateTime": "2021-04-16T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-franklin-grahams-prayer-call-for-mike-pence-receives-traitor-responses-from-followers.md",
-      "title": "Franklin Graham's Prayer Call for Mike Pence Receives 'Traitor' Responses From Followers",
-      "excerpt": "Gab users refused to wish the former VP a speedy recovery and continued to criticize him for not helping Donald Trump overturn the 2020 presidential election results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107",
-      "originalUrl": "https://www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1778883/mike-pence.jpg",
-          "width": 3000,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/franklin-graham-mike-pence-surgery-gab-traitor-1584107?amp=1",
-      "publishedDateTime": "2021-04-16T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

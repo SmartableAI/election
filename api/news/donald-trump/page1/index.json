@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-18-rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump.md",
+      "title": "RNC Chairwoman Ronna McDaniel comes under pressure to show more independence from Trump",
+      "excerpt": "Some party committee members want the GOP to create some distance from the former president — or at least grapple with the fact that Republicans lost the White House, Senate and House during his administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKZT7DTBVMI6XILXO5S7FGUVEQ.jpg&w=1440",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-17T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-nearly-all-of-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot.md",
       "title": "Nearly All of Trump's House GOP Impeachers Set Fundraising Records Since Capitol Riot",
       "excerpt": "All 10 of the House Republicans who voted to impeach Trump for his alleged role in the deadly January 6 Capitol riot have managed to out-fundraise their Trump-backed challengers.",
@@ -1515,58 +1567,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his-name.md",
-      "title": "Colbert: 'There's no avoiding' Trump, but 'I don't like saying his name'",
-      "excerpt": "report Colbert calls out 'idiot' Kennedy for Boulder remarks MORE says he avoids saying former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his",
-      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/colbertstephen_031619.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp",
-      "publishedDateTime": "2021-04-12T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

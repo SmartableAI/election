@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Gov. Kemp Faces Next Test From Trump Loyalists in Georgia"
-excerpt: "Georgia Gov. Brian Kemp and former President Donald Trump face key tests Saturday in Georgia as many local Republican committees consider proposals to censure the governor for not reversing President Joe Biden’s November victory over Trump. ATLANTA (AP) ..."
-publishedDateTime: 2021-04-17T04:20:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
+title: "Gov. Kemp faces next test from Trump loyalists in Georgia"
+excerpt: "Georgia Gov. Brian Kemp and former President Donald Trump face key tests Saturday in Georgia as many local Republican committees consider proposals to censure the governor for not reversing President"
+publishedDateTime: 2021-04-17T04:21:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/gov-kemp-faces-test-trump-loyalists-georgia-77132410"
+webUrl: "https://abcnews.go.com/Politics/wireStory/gov-kemp-faces-test-trump-loyalists-georgia-77132410"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gov-kemp-faces-test-trump-loyalists-georgia-77132410"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gov-kemp-faces-test-trump-loyalists-georgia-77132410"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_e845f978057a45a493b5043c42a338bd_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large"
@@ -1897,6 +1903,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6KCldA7icohhoPkKiLhvBk4XeyHuphHz2YSd2JjPJbe7DWxHkhfY8MY8LpYnQpXuEtRuIaqSaEfOXSEE1MIpQXqbvPhGY37YIpsYed1rq1Wy9CtzFxVeZn7c4hhc11utqtVUCWOrzIOIklGhmWirmpFaxpPGUduzPjnqvfaoJCOehIH0IJLsZf0wT2YWzd3NBWezexach4P54njbAjnEg5bh+Pb+6UoZuVc1MJ9nU+Z85/tTWJIPE//6h6gRsJfImNEibh3PtSDIxuH1LJXKoxjrQdTs0xV6AVvLIeDpZ+htGgSy0nm16N1A8t+AWQgDiww8j3n9c7rwHDTjYj2X7qv/rpV1vf+S3O72wwegqnbHSGLcjf8ml0F/sIUP+sPiMCCPR4/qQGU4PxxZaPgdpDF6OT98B/l2JEXR3X4RIAWIp9MZSZn5Ik+EvZwsSZVNtFgXXs/qSjt4CYbscJ0KDSTHoLtEdWCLZApT5qbP9KqD5y1qt3nzcz8K0UAC+WaAOoqDiK7DUVoDq+pVG/1ALQ==;Wq0U2yD9JqyNr7/RcOnPXQ=="
+secured: "x+SccVRj407GAZ9aS/W/1YfsEM/uFE8gV0ywq1qeSZ31G0bAX1FTqRtb1bPlbBbUhAorBYlR/IasaBgBR1agMTQOUCajU72TGF5nAxVVc/LMTN32QLWtM9hHQN+vgqYM/4V1iW1TeGydU9SHfF8xB4DI6Wyi4cqHml2hb4m6ldNjpyn4NXLL7S5BJaE70zcaTWwtRluzmiDkJA18T+SB9XMjKUrxS3PwwjSas2ZlHQsMv+hurlKuExV8i0iwQcmi3nqzhob2tNswaGt0N9WUuNpxM5XIZwsBLbVIEWwVAfPmZWndT/hYrfasyApAln2EUbPW8NHBqTJNNsmDMR5XoolbAo9Lk8EV0jHzK9J81WA=;3CGoTQG0SYz1hApnY4mKpQ=="
 ---
 

@@ -2,6 +2,115 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-01-25-biden-health-officials-express-concern-about-short-term-vaccine-supply-crunch.md",
+      "title": "Biden health officials express concern about short-term vaccine supply crunch",
+      "excerpt": "I think that the supply is probably going to be the most limiting constraint early on,\" the CDC director said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
+      "originalUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/5e/d0/474a6135462a9b2742bc5b5226f7/210124-murthy-ap773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
+      "publishedDateTime": "2021-01-24T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-donald-trump-is-gone-but-his-big-lie-is-a-rallying-call-for-rightwing-extremists.md",
+      "title": "Donald Trump is gone but his big lie is a rallying call for rightwing extremists",
+      "excerpt": "The myth of the ‘stolen election’ – simple and endlessly repeated – is likely to be a rallying call for far-right terrorists",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/99bba16b7535882a7c3c741b8089b0c34f1fc2ce/0_0_4000_2667/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc52c78261d8aa66c1bd5b6e412311f9",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
+      "publishedDateTime": "2021-01-24T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-24-arizona-republicans-censure-mccain-flake-and-ducey-over-trump-split.md",
       "title": "Arizona Republicans censure McCain, Flake and Ducey over Trump split",
       "excerpt": "Pro-Trump party chair Kelli Ward wins another term but Cindy McCain, widow of John, sees censure as ‘a badge of honor’",
@@ -1262,118 +1371,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-joe-biden-putting-saudi-arabia-first-by-halting-keystone-xl-pipeline-sen-daines.md",
-      "title": "Joe Biden putting 'Saudi Arabia first' by halting Keystone XL pipeline: Sen. Daines",
-      "excerpt": "Sen. Steve Daines, R-Mont., believes President Biden killing the Keystone XL pipeline shows he’s putting \"Saudi Arabia first,\" not American workers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8739bad5-122d-4973-b234-ee256eb316c7/b9584c73-a26d-4377-b028-e14ccdfaba67/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
-      "publishedDateTime": "2021-01-22T08:01:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-fauci-says-lack-of-candor-from-trump-administration-very-likely-cost-lives.md",
-      "title": "Fauci says lack of candor from Trump administration 'very likely' cost lives",
-      "excerpt": "Dr. Anthony Fauci said Friday that the lack of truthfulness from the Trump administration regarding the Covid-19 pandemic \"very likely\" cost American lives.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
-      "publishedDateTime": "2021-01-22T05:27:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

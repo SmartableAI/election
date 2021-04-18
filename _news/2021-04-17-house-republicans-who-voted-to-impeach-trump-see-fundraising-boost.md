@@ -1,10 +1,10 @@
 ---
 category: news
 title: "House Republicans Who Voted to Impeach Trump See Fundraising Boost"
-excerpt: "Numerous GOP primary challengers could split the anti-incumbent vote against the 10 lawmakers in some districts in 2022."
+excerpt: "The 10 Republicans who voted to impeach then-President Trump after his supporters stormed the Capitol raised significantly more money during the first quarter of 2021 than they did two years earlier."
 publishedDateTime: 2021-04-17T12:00:00Z
-originalUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
-webUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
+originalUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
 type: article
@@ -58,6 +58,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "BzcMHOnwTj19BojntVbEjQcIh2sAYtjcu7Mduz++2KhEJDV7q/xywfvWPb1Jo9Kt8Gr72LbkWrCJUHjM5tgRhW0jLBZJ+leKVb14XiXxsct/GCsWDn+/asF/1ilTXfsYrWN56zX2k8wzO+PAMqEK6+fLgklTMVJ8h14lTMtJ6qIrfZLA+UYT6DjxWh6Q60Bv/o+hYBFVpsFfR3KamLLasLRwN0kTYxrMj0XapIDA5pgEJfOXFsWbrn5qLV0dlyDEyQqxSQZNLMMPgFK4+swyhPBNiiSJSbwyT2gKu22F/MkoVXPH00MJiVzuzkBzie+bwMO0kC4LuyU1zUppl+V6RN1vquVQCMUDFFCD11JTFuiE8B7fT6uDyuw7W2AonJMcbuDoJ6jBrflxWrgW1t4cyyJGo9hXJNXp2ueUqBrYMuomRWEZ2OoBrMfXDp2smNdVTSUg7H+KWnHOTQBPyKIbYL8OsBlH3cqPVg+XAGCp5UuzIUecO8Aq6KIitEoDnTDZYtZxEpnxLsJT9wFS5AghAg==;frxLUrIZ/+TZ69YVk+2qaw=="
+secured: "2WCZ/lg5wMQZ6bS4Y2/0+NG/mPMxGQA3cMTN+VOa0e3cHqFzLo4IGEJev8tfd1s8rLixlcJwTM8sNl2hHMKLMsqyvKGz7tEsl5ljAv8K/L3k7un1eEr181vtaEL/tFxC20P1lesy8llbb/vZcHnUjrvnIQQdBjNlge/jbHhjfQKrgzR6NM12j4K5diqXQHe6cJAgrYz9minuhKRnVT88sDZ2J0GY7qAZZ4wIoqPCz8/s9Nh7guoI2sYsby4MC4sv9yKnb0a6d1Jg4Yr4fqJs8h8LNKePZPF3ycsHVLhIJeE28JLardk2z2Jsm7CBHqRp3P17QGNFpsq84Ge79d8Ek0usK+BFHziyAirh3EdBHXQ=;29+E8n2sjWV1bLgKsw18vA=="
 ---
 

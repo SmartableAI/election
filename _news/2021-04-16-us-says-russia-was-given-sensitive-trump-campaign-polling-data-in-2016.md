@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pelosi says in new book that Trump's 2016 victory felt 'like a mule kicking you in the back over and over again'"
+    excerpt: "Pelosi detailed how upset she was after Hillary Clinton's 2016 loss, saying it was \"scary\" that Trump could have been elected in the first place."
+    publishedDateTime: 2021-04-17T21:16:00Z
+    webUrl: "https://www.businessinsider.com/pelosi-trump-2016-presidential-victory-mule-kicking-back-pain-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/pelosi-trump-2016-presidential-victory-mule-kicking-back-pain-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-trump-2016-presidential-victory-mule-kicking-back-pain-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fea4d42edf8920018093f37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "9w5jxBRNasLmdPVaF1bHWx8fxbhrMUDMbatQYGgO2vbxnhZkTx2CCOCSI0qbTyitl3pr2RlLMJQo3M1DBqhRIFjFq6UmZeVi6dOqH44xksc5I4GeOOPhTV180Af0ypHAjAw8WyMmTgZl1A9V2giCTynVXTJKTevP6mqku8jsdxiudlq9lpiMKnN5MSCPPZ0yuBb7dY59PKoW9LncPaGUvTpvi69hnMt2qI4v9rBJVMaQKrBWTVCsUg1NzruTqXrUOnvTTxpdyGRqGHjRQHro3wvxTF0cLNhV9f+t8RiJ/RCx13dZywfeKocamaoKqTCRhgvJ3Jlm8JOCmcqfABK4DTnpF9ERmCaOs7tIeI/RihQ=;NKKnPNlE+QG4bqnpfwJT/g=="
 ---

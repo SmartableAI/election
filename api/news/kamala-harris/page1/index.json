@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-18-kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief.md",
+      "title": "Kamala Harris purposely ‘avoids’ US-Mexico border: Border Patrol council chief",
+      "excerpt": "It’s no accident that Vice President Kamala Harris hasn’t visited the U.S.-Mexico border region, the head of the Border Patrol agents’ union said Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief",
+      "originalUrl": "https://www.foxnews.com/media/kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3aca2d9-f7aa-428f-a77e-38e57f9e7d0d/fade7b2a-49de-461e-8eed-3337900757d8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-purposely-avoids-us-mexico-border-border-patrol-council-chief.amp",
+      "publishedDateTime": "2021-04-17T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-florida-woman-charged-for-allegedly-threatening-to-kill-kamala-harris.md",
       "title": "Florida woman charged for allegedly threatening to kill Kamala Harris",
       "excerpt": "A Miami woman has been charged for allegedly threatening to kill Vice President Kamala Harris, according to a criminal complaint filed in the United States District Court for the Southern District of Florida.\n    \n",
@@ -182,7 +239,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1572,63 +1629,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-harris-in-apparent-swipe-at-trump-says-people-with-the-biggest-pulpits-spewed-hate-toward-asian-americans.md",
-      "title": "Harris, in apparent swipe at Trump, says people ‘with the biggest pulpits’ spewed hate toward Asian Americans",
-      "excerpt": "Vice President Kamala Harris, speaking in Atlanta in the wake of this week's mass shooting, said that people in power had been \"scapegoating Asian Americans,” an apparent reference to Donald Trump. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBqiYYYoQfk/harris-trump-people-pulpits-spewed-hate-asian-americans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBqiYYYoQfk/harris-trump-people-pulpits-spewed-hate-asian-americans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21008722501552.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trump-people-pulpits-spewed-hate-asian-americans.amp",
-      "publishedDateTime": "2021-03-19T16:15:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     }

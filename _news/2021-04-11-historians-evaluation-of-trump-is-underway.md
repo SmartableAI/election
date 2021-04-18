@@ -37,9 +37,9 @@ related:
         height: 640
         isCached: true
   - title: "House Republicans Who Voted to Impeach Trump See Fundraising Boost"
-    excerpt: "Numerous GOP primary challengers could split the anti-incumbent vote against the 10 lawmakers in some districts in 2022."
+    excerpt: "The 10 Republicans who voted to impeach then-President Trump after his supporters stormed the Capitol raised significantly more money during the first quarter of 2021 than they did two years earlier."
     publishedDateTime: 2021-04-17T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
+    webUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
     type: article

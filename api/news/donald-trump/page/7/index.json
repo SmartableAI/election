@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-10-trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.md",
+      "title": "Trump supports 'important GOP Committees' but still demands 'RINOs and fools' not fundraise with his image",
+      "excerpt": "Former President Donald Trump said Tuesday that he supports the Republican Party and its major fundraising organizations but still doubled down on his demand that \"RINOs and fools\" not use his name or likeness to raise campaign cash. The two-pronged ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image",
+      "originalUrl": "https://www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/11/640/320/AP19324652087774.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.amp",
+      "publishedDateTime": "2021-03-10T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-trump-says-country-is-being-destroyed-at-border-amid-migrant-surge.md",
       "title": "Trump says country is being ‘destroyed’ at border amid migrant surge",
       "excerpt": "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern",
@@ -1520,63 +1577,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-03T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-msnbc-contributor-my-guts-telling-me-trump-white-house-behind-lack-of-capitol-protection-on-jan-6.md",
-      "title": "MSNBC contributor: 'My gut's telling me' Trump White House behind lack of Capitol protection on Jan. 6",
-      "excerpt": "MSNBC contributor Frank Figliuzzi speculated Wednesday that the Trump White House delayed sending military assets as the Capitol building was stormed by pro-Trump rioters during the certification of President Biden's election victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dceb1775-5059-410a-b2fa-59a4aa6a6de4/35762ff5-24b7-42c7-b4c0-e4c4511f85cd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
-      "publishedDateTime": "2021-03-03T16:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

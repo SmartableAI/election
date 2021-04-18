@@ -841,6 +841,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Gov. Kemp faces next test from Trump loyalists in Georgia"
+    excerpt: "Georgia Gov. Brian Kemp and former President Donald Trump face key tests Saturday in Georgia as many local Republican committees consider proposals to censure the governor for not reversing President"
+    publishedDateTime: 2021-04-17T04:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gov-kemp-faces-test-trump-loyalists-georgia-77132410"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gov-kemp-faces-test-trump-loyalists-georgia-77132410"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gov-kemp-faces-test-trump-loyalists-georgia-77132410"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e845f978057a45a493b5043c42a338bd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Demands Boycott of Coke, Delta, UPS in Georgia Voter Law Fight"
     excerpt: "U.S. Donald Trump Major League Baseball Delta Airlines UPS Former President Donald Trump on Saturday evening called for boycotts of companies who have spoken out against the new Georgia voting laws. These include Major League Baseball, Delta Airlines ..."
     publishedDateTime: 2021-04-04T00:39:00Z
@@ -1854,17 +1870,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Gov. Kemp Faces Next Test From Trump Loyalists in Georgia"
-    excerpt: "Georgia Gov. Brian Kemp and former President Donald Trump face key tests Saturday in Georgia as many local Republican committees consider proposals to censure the governor for not reversing President Joe Biden’s November victory over Trump. ATLANTA (AP) ..."
-    publishedDateTime: 2021-04-17T04:20:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-17/gov-kemp-faces-next-test-from-trump-loyalists-in-georgia?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "U.S. Interior Dept Revokes Trump Policies, Puts Climate at Center of Decisions"
     excerpt: "The U.S. Interior Department on Friday sought to erase the Trump administration's pro-fossil fuels legacy from the nation's public lands by revoking a suite of policies that boosted drilling and mining and ordering that climate change be put at the forefront in future agency decisions."
     publishedDateTime: 2021-04-16T17:50:00Z

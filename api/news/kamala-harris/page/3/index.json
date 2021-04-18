@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-12-twitter-reacts-to-terrence-k-williams-calling-vp-kamala-harris-a-pole-model.md",
+      "title": "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’",
+      "excerpt": "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020",
+      "originalUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1",
+      "publishedDateTime": "2021-02-11T20:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-harris-flexes-power-as-senate-tiebreaker.md",
       "title": "Harris flexes power as Senate tiebreaker",
       "excerpt": "Early Friday morning, Vice President Kamala Harris did something Joe Biden never did in his eight years as vice president -- cast a tie-breaking vote.\n    \n",

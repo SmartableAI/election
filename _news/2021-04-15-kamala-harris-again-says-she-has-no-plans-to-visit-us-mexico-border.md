@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -96,6 +96,22 @@ related:
   - title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
     excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
     publishedDateTime: 2021-04-17T22:17:00Z
+    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
+    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Florida woman threatened to kill Kamala Harris in videos, agents say"
+    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
+    publishedDateTime: 2021-04-17T23:31:00Z
     webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
     ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
     cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
