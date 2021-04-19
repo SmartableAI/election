@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-cov
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/04/politics/biden-easter-message-covid-vaccine/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408123830-joe-biden-0407-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden and Obama urge Americans to get vaccinated in star-studded television special "
+    excerpt: "President Joe Biden and former President Barack Obama joined a slate of celebrities Sunday evening in urging Americans to get vaccinated during an hour-long NBC special aimed at boosting confidence in the shots and raising awareness about eligibility.\n    \n"
+    publishedDateTime: 2021-04-19T09:13:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wwEItCwc4rE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/biden-obama-covid-vaccine-roll-up-your-sleeves/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/biden-obama-covid-vaccine-roll-up-your-sleeves/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414151832-obama-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

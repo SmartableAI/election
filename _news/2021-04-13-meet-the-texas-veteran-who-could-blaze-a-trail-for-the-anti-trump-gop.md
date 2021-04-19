@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "As GOP sticks with Trump, grassroots energy on the right has gone missing"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2021-04-13T13:06:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-sticks-trump-grassroots-energy-right-has-gone-missing-n1263915"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263915"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263915"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/tdy_sun_kellyo_trump_biden_210411.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "H43ThN1qqVPwOVBFEuyQVuUw4HOBAUU8iXRkNUxxHqocq3MEN8sX5NVvQcwjaJtExlb4XmTBhdoDukN3MB+bgpjeIZ3mcBV7rM0S3v1KQ4jCM/9qW20iy9y4et16uD9uo8KoM0X6YrbRxFuyyMBwk07WszuJzu591qdk8jKi/wiHXnnTVa1cO49Kk5+6pYIjMhtwrAUPiZ+q17nGzi61MiGRxJClwra6uIKf3/MNEt0F5QRMa6+9RhVlLmhrs2R8MTcktHzTbras4SXNdN4i6Z8z2L2awAeXtHjqD/X5SWbaDxC//9QUfuIDfYXkqwpsV0kFcM5FzMyDUNi5pKxKOylC/qnWz0TRYdxvi7djUD07swpkJNORPZ5qo2sdu35G3VGeLQwtixfMBBlFJ2h6BdQK3978mBAnfpHV6ez1Q4o4mInsKBoJG4yM8Lz0jW14rRtLV139JngbZ+BodZjlTUx0jHKZhH2REgpEkyMek1gYm6SiFmp4rbQi0vpQe4sGYzUBIsKQA8rXZtkDM9fB5g==;JcP4gYZVSy2NrtG1pIA6wg=="
 ---

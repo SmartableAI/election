@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden preparing for 'tinderbox' with country on edge ahead of verdict in Chauvin trial"
+    excerpt: "President Joe Biden is keeping a watchful eye on this week's closing arguments in the Minneapolis trial of Derek Chauvin, fearful that a controversial verdict could inflame new racial tensions and further escalate a deepening crisis in confidence with the nation's police forces.\n    \n"
+    publishedDateTime: 2021-04-19T11:42:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NuwRgujjLlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/joe-biden-chauvin-trial-preparations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/joe-biden-chauvin-trial-preparations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416173011-01-biden-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden proposes meeting Putin 'in a third country' amid Ukraine tensions"
     excerpt: "President Joe Biden suggested meeting Russian President Vladimir Putin “in a third country” in the coming months, in a call Tuesday to discuss issues facing the United States and Russia amid growing tensions in Ukraine, the White House said. The ..."
     publishedDateTime: 2021-04-13T18:01:00Z

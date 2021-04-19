@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-trump-defector/index.html"
 type: article
 quality: 161
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "As GOP sticks with Trump, grassroots energy on the right has gone missing"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2021-04-13T13:06:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-sticks-trump-grassroots-energy-right-has-gone-missing-n1263915"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263915"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263915"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/tdy_sun_kellyo_trump_biden_210411.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Meet the Texas veteran who could blaze a trail for the anti-Trump GOP"
     excerpt: "Michael Wood’s risky strategy centers on a belief there is a healthy slice of the GOP ready to move on from Trump."
     publishedDateTime: 2021-04-13T08:30:00Z
