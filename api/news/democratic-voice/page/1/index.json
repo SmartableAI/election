@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-18-politico-playbook-gop-struggles-with-how-to-handle-trumpism-and-trump.md",
+      "title": "POLITICO Playbook: GOP struggles with how to handle Trumpism — and Trump",
+      "excerpt": "In her statement, sheONALD TRUMP, which are steeped in white identity politics — and that could make this situation a bit sticky for McCarthy to handle. It’s all a big reminder that GOP leadership is still unsure how to handle both Trump and Trumpism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/playbook/2021/04/18/gop-struggles-with-how-to-handle-trumpism-and-trump-492508",
+      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/04/18/gop-struggles-with-how-to-handle-trumpism-and-trump-492508",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/76/b6/b7daf8e84b9a8c1e2d0613fdb84a/gettyimages-1230985238.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-biden-takes-on-democrats-mission-impossible-revitalizing-coal-country.md",
       "title": "Biden takes on Democrats’ ‘Mission Impossible’: Revitalizing coal country",
       "excerpt": "Despite deep skepticism from union allies, Democrats are determined to make their “Just Transition” away from fossil fuels work.",
@@ -1313,7 +1370,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 850,
+      "heat": 870,
       "tags": null,
       "images": [
         {
@@ -1635,63 +1692,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures.md",
-      "title": "GOP race against Cuomo kicks off with Trump allies — Staffers dispute book work was voluntary — New rules aim to reduce school closures",
-      "excerpt": "Not to let a news vacuum go to waste, two staunch allies of former President Donald Trump are kicking off conversations about New York’s 2022 gubernatorial race in earnest. Reactions? Well, a Republican hasn’t won a statewide race in New York since ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/04/09/gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures-492421",
-      "originalUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/04/09/gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures-492421",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

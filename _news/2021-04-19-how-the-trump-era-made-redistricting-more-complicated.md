@@ -1,14 +1,14 @@
 ---
 category: news
-title: "The old guard of the judiciary moves on as Biden announces new picks for bench"
-excerpt: "As President Joe Biden launches a new era of judicial appointments, the old guard of the bench is in its twilight.\n    \n"
-publishedDateTime: 2021-04-09T11:34:32Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NJFeWS10vY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NJFeWS10vY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
+title: "How the Trump era made redistricting more complicated"
+excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes."
+publishedDateTime: 2021-04-18T18:04:00Z
+originalUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
+webUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
 type: article
-quality: 171
+quality: 135
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402091949-reagan-era-nominees-split-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -204,6 +205,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331164919-01-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The old guard of the judiciary moves on as Biden announces new picks for bench"
+    excerpt: "As President Joe Biden launches a new era of judicial appointments, the old guard of the bench is in its twilight.\n    \n"
+    publishedDateTime: 2021-04-09T11:34:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NJFeWS10vY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402091949-reagan-era-nominees-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -431,22 +448,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How the Trump era made redistricting more complicated"
-    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes."
-    publishedDateTime: 2021-04-18T18:04:00Z
-    webUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden pushes sweeping jobs plan in meeting with bipartisan group of lawmakers"
     excerpt: "President Joe Biden is working to build bipartisan support for his sweeping $2 trillion American Jobs Plan and met Monday at the White House with a bipartisan group of lawmakers. The president wants to see Congress pass the proposal,"
     publishedDateTime: 2021-04-12T22:05:00Z
@@ -561,6 +562,6 @@ related:
       domain: nytimes.com
     quality: 108
 
-secured: "7E5glxNkIDTL4+SY1/Zg27pg9mJQJMXd6+99x/0aoz1Cf9MsSxpkNaeZoN9Azhv91VBpECkqETEfmXOcOf7F57kNSU181jj0fOb0vMXmcm7gd7kfChMcc+9CN8lhIn8fIg1K9CteLLzPKICEA+ZDLnd/0plHp7qCWpS2Jywo5Nxd+kqy60QoNVB8/nq/O1m10qW2ElcNDX7IjswT6KtT7dXGKvFy6C9fNVwMiwlC7OJdPj948OfsnMxJoeiqvcPtqDDk2niz9onE8jkI1gMMnIZywAM4tigZU7YnYkIM0AcY5vrcJJcw/+cLLgeUX2i7p22yOd24WIRcDiC8U/nLsmRS7Y/1afse2HBA5AwApmg=;0YVFHVg8+crtAJmk0Pp3cQ=="
+secured: "G9VfJ7/5Isv4wt+Ygn7mNVFRSllagyyF2KWEXhSO/KpXdmAIXwjpNDH7WzNTjIQWKSU8EgV13jyypC+lX+P9OoRsjdYPmOyn3WAuZXrDRda1ZPz4ez8jfzH1xNEMO0LPgOJanfRnNAUF0I8OCyYqJrhPz5N2STNXw+x5m0pLDUAtywsHV1U2hq4BSeC+/7m77vL9Iyy/OWoaLRROX0VjRYKXiJNer7yH/lvrzCRrLhyyTaMhr7NTDKGCzUhXhF7Ww2Yj3sSESAqz3W/jw3eQJvy3ulrMxNX3TfQXynog3S8sHPxC6pzjgnNxsrdyvyO7F9bClzXQdUVyepkjTeGEaTsNtGTIJfHEGz/IZKDgbWQ=;BdlzWo5gp6027osFanWsuw=="
 ---
 
