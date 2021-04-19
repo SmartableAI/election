@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump Supporters Protest Pirate Festival Cancellation With 'Trumparilla' Boat Parade"
+    excerpt: "Each year, in Tampa, Florida, hundreds of boaters hit the waves to celebrate the Gasparilla Pirate Festival, which also hosts a land parade. Although the event had been called off this year due to the coronavirus pandemic,"
+    publishedDateTime: 2021-04-19T15:41:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1779836/trump-supports-florida-boat.jpg"
+        width: 1024
+        height: 728
+        isCached: true
 
 secured: "/7LfYVSpKm1JWfQByTFnJCbhKivF+Xa3HlRMnwaNIlkWNTkcDsVjlSJS1SpL0gy+YB9D+i2HvNxh4w+1LRlWiLu9AbqptPomDH9fSqc+qG1aYB050ykJ7PgMWAxFROBTNeHIm2fgCjUUOas7745WpvJA82vA8ksT2FJaXJ0314Ep5vEaW7pT6Y4KYqgTAogZW6KscI4jynelpAvrqQtyh4vfEcQwAB2JxKqNP7R+gJ3UiUCnfUDW/QIOPbVLVCEMD5gw6FjmiNEEUKhkVmwO9RUflPfEVhCVfgM/NmIkKlquL3RQvOpsIGktP6JQJGWZnt+NlnNk/Uisdc0OBbkEeKTA0kW+KoFy5hhOJuQnzKlZCn1gjTsJYZ4Dvwz7b9sWeY/ivPvxU33jH+DHzDsZsa+Qhel2K/xahQthpJpVEtYFR9yCjFwhcxPLvuqd6zWbVLUhRnrKRDv2mqBBHDUbmZe+r5WxyD39FgSaWnkhBWvZplbMfmMd6cBdVPbOdAC8ODiu3RZVdkjCeD+7axcU2A==;r0+mDlg6yGzUXJDoss/81w=="
 ---

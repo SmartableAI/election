@@ -270,6 +270,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says Biden could have avoided border crisis: ‘All he had to do is leave it alone’"
+    excerpt: "Former President Donald Trump is blasting President Biden for creating chaos at the border by not maintaining his immigration policies — pointing out that his border agenda was popular among"
+    publishedDateTime: 2021-04-19T15:41:00Z
+    webUrl: "https://nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 142
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-on-biden-border-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Press Is Infrastructure for Biden"
     excerpt: "John Cornyn came under blistering attack from Washington Post scribe Aaron Blake for having wondered whether President Joe Biden is really in charge, since he's kept an extremely low profile with the press."
     publishedDateTime: 2021-04-14T18:51:00Z

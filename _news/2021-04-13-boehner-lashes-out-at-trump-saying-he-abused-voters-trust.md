@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-vote
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/bd333c30-2b30-4e72-8ea0-d705680ef3ae-XXX_20210405_Boehner_JK001.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump Supporters Protest Pirate Festival Cancellation With 'Trumparilla' Boat Parade"
+    excerpt: "Each year, in Tampa, Florida, hundreds of boaters hit the waves to celebrate the Gasparilla Pirate Festival, which also hosts a land parade. Although the event had been called off this year due to the coronavirus pandemic,"
+    publishedDateTime: 2021-04-19T15:41:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1779836/trump-supports-florida-boat.jpg"
+        width: 1024
+        height: 728
         isCached: true
   - title: "John Boehner calls Trump 'a guy who's unemployed' and 'has nothing else to do but cause trouble'"
     excerpt: "An envelope. It indicates the ability to send an email. Former GOP House Speaker John Boehner of Ohio on Monday blasted former President Donald Trump as an \"unemployed\" individual who is out to \"cause trouble\" after losing his reelection bid last year."

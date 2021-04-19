@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration orders ICE, CBP to stop using terms 'illegal alien' and 'assimilation'"
+    excerpt: "President Biden's administration on Monday ordered departments to change the terms used to describe immigration matters, including how to refer to those who enter the country illegally, Fox News has confirmed."
+    publishedDateTime: 2021-04-19T14:55:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sj9lcNYNMYI/ice-cbp-to-stop-using-terms-illegal-alien-and-assimilation"
+    ampWebUrl: "https://www.foxnews.com/politics/ice-cbp-to-stop-using-terms-illegal-alien-and-assimilation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-cbp-to-stop-using-terms-illegal-alien-and-assimilation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
     excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
     publishedDateTime: 2021-04-12T23:55:21Z

@@ -303,6 +303,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to provide $150 million to boost Covid response in underserved and vulnerable areas"
+    excerpt: "The Biden administration on Monday will allocate $150 million from the American Rescue Plan to community-based health care providers across the nation to help boost their coronavirus response for \"underserved communities and vulnerable populations,\" an administration official told CNN.\n    \n"
+    publishedDateTime: 2021-04-19T15:11:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dumFbX0rFYs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/american-rescue-plan-funding-vulnerable-communities/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/american-rescue-plan-funding-vulnerable-communities/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419104614-vaccination-april-10-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House backtracks on refugees decision after criticism and says Biden will announce increased cap by May 15"
     excerpt: "The White House said Friday President Joe Biden will set a new, increased refugee cap next month after facing a barrage of criticism when officials confirmed to CNN and other outlets that it would remain at the historically low level set by former President Donald Trump.\n    \n"
     publishedDateTime: 2021-04-17T14:00:52Z

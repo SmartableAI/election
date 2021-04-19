@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/niviane-petit-phelps-cha
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/niviane-petit-phelps-charged-threatening-kamala-harris/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Watch Live: Vice President Harris Delivers Remarks on the Economy"
+    excerpt: "Vice President Harris Delivers Remarks on the Economy. U.S. & Politics. Watch Live: Vice President Harris Delivers Remarks on the Economy"
+    publishedDateTime: 2021-04-19T15:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/100000007717504/kamala-harris-speech-north-carolina.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 95
 
 secured: "rgSJNZFR4QHn08o3WNr31gefV1OD6/L37FtRNRU/znaAmbeknpP14KGUp5NN3t0ba5+oJ9P9hClIX8btWtTKyuj/df3ChOfmcZMLObzWZeaeOmx8QowUxnUT3iegIRUf0du17e4Q+P+HH6UdnT0rsMzuhxw/h1NctaDoEKl3C0+ZbZkybJHubDaegUkRaZ1f478IXiINjR+st33WOHKqS2EKWXAsngdxGF0P+LGbKin5eihByexc4g93tWfeF/6z2YW7L5lHCRwAxu8rpifyzemMz70zRU5eEMGJE5iSyjS/y1KFf/wALbQenDIH0Qf/wiaPeodra4mlH0q/hd1U7qRTTa9pZM4gvj7lR85Rhu8=;0uNWRhbF4sLLM+maZqK3Kg=="
 ---

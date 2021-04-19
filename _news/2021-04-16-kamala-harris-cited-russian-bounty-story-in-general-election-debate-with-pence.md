@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-cited-russian-bounty-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp"
 type: article
 quality: 221
-heat: 541
+heat: 561
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
     quality: 175
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden-putin.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Top House Republicans request meeting with Kamala Harris over border ‘catastrophe’"
+    excerpt: "EXCLUSIVE: Republicans on three House committees on Monday requested a meeting with Vice President Kamala Harris over what they described as a \"catastrophe\" at the southern border -- amid accusations that the Biden administration’s policies have fueled the historic surge in migrants."
+    publishedDateTime: 2021-04-19T16:37:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFz8pzWR2Jc/house-republicans-meeting-kamala-harris-border-catastrophe"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

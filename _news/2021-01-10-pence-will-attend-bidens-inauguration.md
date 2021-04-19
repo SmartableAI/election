@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2340
+heat: 2360
 published: true
 
 provider:
@@ -1642,6 +1642,20 @@ related:
     excerpt: "Joe Biden is nearly an octogenarian — four years older than Clinton. He’s responsible for the sentencing laws that incarcerated many small time drug offenders. He’s never supported legalization and only recently came out for decriminalization."
     publishedDateTime: 2021-03-24T23:59:00Z
     webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/24/joe-bidens-reefer-madness-492228"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Biden infrastructure bill highly uncertain"
+    excerpt: "President Joe Biden will meet with a bipartisan group of legislators today to talk about his $2 trillion-plus “American Jobs Plan.” The White House wants to make a cross-party deal but that’s very unlikely to happen."
+    publishedDateTime: 2021-04-19T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/04/19/biden-infrastructure-bill-highly-uncertain-794753"
     type: article
     provider:
       name: Politico

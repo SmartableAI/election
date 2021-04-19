@@ -481,6 +481,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden White House removes Trump-era scientist from overseeing climate report"
+    excerpt: "White House officials have transferred Trump-appointed scientist Betsy Weatherhead from her position overseeing the US government's report on the effects of climate change, a senior administration official told CNN.\n    \n"
+    publishedDateTime: 2021-04-19T17:19:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zyElsNlwheE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/white-house-removes-trump-era-scientist/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/white-house-removes-trump-era-scientist/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020163629-white-house-file-1004-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden chief of staff doesn't rule out stopping intelligence briefings for Trump"
     excerpt: "Joe Biden's incoming White House chief of staff on Sunday did not rule out blocking President Donald Trump from receiving intelligence briefings once he is a private citizen.\n    \n"
     publishedDateTime: 2021-01-17T18:01:02Z

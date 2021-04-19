@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachme
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/02/05/us/joe-biden-trump-impeachment.amp.html"
 type: article
 quality: 129
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 549
     isCached: true
+
+related:
+  - title: "Live Updates: Biden Invites More Lawmakers to the White House to Discuss Infrastructure"
+    excerpt: "President Biden hopes to win support from a bipartisan group of former mayors and governors for his $2.3 trillion infrastructure plan. Republicans have pushed for a smaller plan focused on traditional areas like bridges and roads,"
+    publishedDateTime: 2021-04-19T10:50:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/19/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/19/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/19/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/19/us/politics/19new-washington-biden-infrastructure/19new-washington-biden-infrastructure-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "yGKlf/fftdRye4HoU54iwHuQho9qv60xKmjnGUK9tTgPGplzT6IXRp1n9F8s3rlVc+S04K+cXz2N7Gi64ItRnWL3g0MsTdTfiM5IL0swGK6rtpzdzA96l00elWmtPzMMy3tqR155oPbqvrdv2MNhCGP7k2hbhbA2u3foVfKFdH84l1rH2NGGbc4K8I8AAjZ67Jgch8Vw2tJ2wakmX/XGIWtHSw7fi2txmqKCvQq+s+qQ2ZNmCyEiW+KzbBRlGPNzlHDGJAf8wygV184U6MqFNIOSZ8/YRwKtv90HWgrNTLK4iki4ym8nG1gofwN5fTOXwLxR1XuPmSTclLfn0lL0wjPJ78uGwv8sv5uUN7d9k9I=;uFzq1YFPVntNBWRh8fjPWA=="
 ---

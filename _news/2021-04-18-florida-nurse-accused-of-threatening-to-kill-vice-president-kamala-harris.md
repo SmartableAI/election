@@ -48,6 +48,15 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Watch Live: Vice President Harris Delivers Remarks on the Economy"
+    excerpt: "Vice President Harris Delivers Remarks on the Economy. U.S. & Politics. Watch Live: Vice President Harris Delivers Remarks on the Economy"
+    publishedDateTime: 2021-04-19T15:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/100000007717504/kamala-harris-speech-north-carolina.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 95
 
 secured: "A1Ggms+iLfnnW42XgUtyU4HpxTj9yIgTjBOA9X27OPl/MvcpdYfEYA6h1uIPV3e21rNUcBpkCRvnd5KXrcNqVzs+b6WydaS/DLMU557Eppnoa7/OcFpIvbyTAGmJyipQsVlJWJMPHOToEDT+O4Y2vvW7ptiBolKhohRdBAolDs0qgmn5PN8yhh1nJMypBhvbiDmguHLez4+NOINY2XIbCny2O8lTMXAIBBgrr8tXp/WBZsYIsVdo9u9QAJ5+J7wT3z15Q21YqsdYAahsGNAMWB8t/4Z5wXcRh7VKeeLMEHDjRRMO1MqFIwnrl2WvhrAr1WXwaE5YrZYqeTTdSAI0FPRRcvqjyI/kHvRSAGNmrHTqqqs0SRIamFuFbWV6wc67Wv8mpOaTvilq0O031epvKcYulDvrvGx/aewiKZ1pBaXELofK+u9UYeXeUzyRcN2cQCwu9d71gPVaUrYqV5SDKrBT88yvf5oQMVUJxYtIVZVmHmDTKtTV3v+n6ITuuZX3LLSPpskBEgO0ytnuGTqVkQ==;K5S4GLW4QIVFEntOm3yZaA=="
 ---

@@ -575,6 +575,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says everyone in US now eligible for Covid vaccine – live updates"
+    excerpt: "Guardian US has a separate live blog dedicated to covering the Chauvin trial and related topics. There’s a livestream from court. You can read that here. The Republican leader in the House and an extremist congresswoman who champions “Anglo-Saxon political traditions” have demanded action against the Democrat Maxine Waters,"
+    publishedDateTime: 2021-04-19T16:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/39b2485b49a592b23c6ce07725257b5bc4c20a33/0_73_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c280154f4a7d72583a1a96daad3fe97"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden addresses nation as US passes 500,000 coronavirus deaths – live"
     excerpt: "I know what it’s like’"
     publishedDateTime: 2021-02-22T22:12:00Z

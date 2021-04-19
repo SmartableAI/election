@@ -250,6 +250,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says Biden could have avoided border crisis: ‘All he had to do is leave it alone’"
+    excerpt: "Former President Donald Trump is blasting President Biden for creating chaos at the border by not maintaining his immigration policies — pointing out that his border agenda was popular among"
+    publishedDateTime: 2021-04-19T15:41:00Z
+    webUrl: "https://nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 142
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-on-biden-border-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden created 'catastrophe' at southern border by 'dismantling' Trump’s policies: Florida Gov. DeSantis"
     excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s immigration policies on “Sunday Morning Futures” saying he “dismantled” former President Trump’s policies and now there is “a huge catastrophe at the southern border,"
     publishedDateTime: 2021-04-18T18:24:00Z

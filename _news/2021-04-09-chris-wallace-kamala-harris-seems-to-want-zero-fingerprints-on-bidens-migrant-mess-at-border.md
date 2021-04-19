@@ -137,6 +137,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Vice President Kamala Harris is in NC. How to watch her speech."
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
+    publishedDateTime: 2021-04-19T13:56:00Z
+    webUrl: "https://www.heraldsun.com/news/politics-government/article250530439.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article250530439.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article250530439.html"
+    type: article
+    provider:
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
     excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
     publishedDateTime: 2021-04-17T16:27:00Z
@@ -184,6 +200,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/13/aptopix_police_shooting_minnesota_48122_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
         width: 1200
         height: 700
+        isCached: true
+  - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
+    publishedDateTime: 2021-04-18T03:00:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250530439.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article250530439.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article250530439.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
     excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
@@ -325,6 +357,24 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
+    publishedDateTime: 2021-04-19T15:33:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250530439.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 31
+  - title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
+    publishedDateTime: 2021-04-19T15:41:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 17
 
 secured: "UF6RuqVK8zr9su8Nm8xjfmrAfXoXNhB5+SjryDtJYK5ko2DLYTDJ300QkCSJ58bGBrW09GtdHMsqecpmfcTR3zUTP0x6zna6JNqWi4ptku0lEvIQXH+vInewPWlMHDc0sFoaPfnLZuEFRGQfXw31sklZqF+9izDRh7beR7M/LFQUcRQ2FMixYxp9u1Ce69lv1AXMSeGKtWGtw5rLaczdH6BQy8ZfJ6DOifejnHQ6j0k4V9w8gqph57D53epT7BHkwuiFvWE9FLdTqA9p+IRdQx0amQkH/60PRrkzSFFxN11uYaoqQDkc0qF9l5vJJ8ROImt0wceUmN90JGnUJLBEXfltp3UFpYeuckwx69ArbkSmDXmXjDVZP1pWJgTs2sC87LgGD54Epqxn4DIdqVqXHWyPd5NsmgJs6KSAeo27WTGa4H6A9a3lNlBE1q7TyvcGarS9AA7RjNZJF29NrPqmzZJ2+msDbEZJmznAawds2JxyIexeeyGV0lMPbs5PDr9krTq1qqd6oxR/1V8p5GIzBg==;4vLNt6xxXM0ZAh6Y8OJyYA=="
 ---
