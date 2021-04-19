@@ -48,17 +48,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "GOP White House Hopefuls Move Forward as Trump Considers Run"
-    excerpt: "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he considered another run."
-    publishedDateTime: 2021-04-18T11:49:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "kKZvdyS90aU7fPnLuNVzEEJS+cd0U5E1JvK+anrnuzN65dhTipt4oDZML/JVNTejP3tA4DI7YJ8Ubmnvxw+5bs2R2oFFV7OogDUTirbSepJQHIy1ODhSQ1RiTKKQ02U6xDObsXaJrONYJtuNUnyBxCoxT12cDosL8woAsfeUg8EgTh2czcTsqEUDfywFzk6I3oSjK7HhBrdjdF0T1vJwB2VGSKMNUSElZXzgtsclSGZDAWBhihw3EqILHhUVEk+kMlNrWaEn3M7YQssVdW63mYgPxRyjbmcYKyOYVIJq7hbu2sfH6plD5D8aKoWmJP0+tGfhkLz+f92stnVRlhiCXtN38rFQy0KTW5gG55i19ItaBtdCpfDhJVdMQ374S02VPsU0m2W4poeHz9Pwox6PpPFF6LhI8f1iCNOl1smPTAEmrpi1U8JXFxZc2AP1Af5aodTBQ0lg0PyD/TcC7Lx9uLZ2TgGBpDyjqaq4TUac/xe7us0rhLAl4e8sX4tdMV0Na56BU8DXbrQTDxqyviBc5g==;ql1Lt5lWFH6vf57LlH44ow=="
 ---

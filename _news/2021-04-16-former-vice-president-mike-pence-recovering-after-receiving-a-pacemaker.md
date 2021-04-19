@@ -3,25 +3,25 @@ category: news
 title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
 excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
 publishedDateTime: 2021-04-15T19:10:00Z
-originalUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-webUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+originalUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+webUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: 11Alive
-  domain: 11alive.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.11alive.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
+  - url: "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -164,6 +164,6 @@ related:
         height: 889
         isCached: true
 
-secured: "CjANjVvGFDXLSfjvGbwMm1LpS6ZViYx08UdsCl8pz6ejJ1usfOGSKLoHd7d5peI5XYaQ3nyPtOHdm2gFqmu+1DfECs6V2MhhV1jzCeZmkkILOen4X35LQpJsVF7RwvNny80yisqVcKNPZL7XWKQGQsnQrkk2RdZQqPv1YnPLT5jwTgduWomUXfHMFvW9V+W2A++0OvY28hWPp8xg4A6u3/9pq095T6FBbyGs2hGdeqC8YelBnjwU5cZ4i2w2wA/0kK9W28W5x3N3mOnS5GMZyXQRCWesxYYRO4bexabbu2Pwd46V2TcFNd6d9ew+BQK6HpMuy6ntt4rvQ8VzyYJ8A6wa8+AvajS010XCl2Zc4ys=;5tq7Ov76eZK3umlbG4WasQ=="
+secured: "eew2UrAJZuJ4W4evt39Cwi/MIFVcLhqeDnmGw+fOR/KY1YU2ZuoLKPR/TMHPdK7dn9b+d+5n4P7383t76QNKQVKTZewpwGWEVN9jd8nwkADpmqq9NOaC4DbRoNfL0H89CKg4ZgZdv4ZXcUybQ6+Qz9dswXDFg2KWv689tU2qH6blW0KfVS8dpD8vB3cKK8g+7+S003OECHeLnrw6Aysmk0y/Bwzsqdnw0Pn8F2nl+BykaiWGZZP+W2qPRnDMs2NPrOFTU5z6D2WgzRyhMQIlHmEYvEhMbhv7WTFFJr1uSUvZ9NwLTo9MXXewtFtwamIYxJS3MUYJzU8Sv9qP0WylgQFHcVM2FzVVYXY+TkkPTJA=;DmXQxAwI88r/RmMBTOZq3w=="
 ---
 

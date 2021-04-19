@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
 type: article
 quality: 123
-heat: 203
+heat: 183
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://i.insider.com/6079c16a44f4540019207203?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump gains endorsement of the NRA"
-    excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
-    publishedDateTime: 2021-04-17T15:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/17/cb5d15c5-812c-4091-8fa7-22e568000775/thumbnail/1200x630/debff44a0ccfb1c8355835c4d00530a5/eve-trump-nra-1066566-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "New polls show Trump and Clinton neck-and-neck"
     excerpt: "New polls show that Democratic candidate Hillary Clinton has lost her double-digit lead in a matchup against GOP presumptive nominee Donald Trump. What does this mean for the November election? CBS News senior political editor Steve Chaggaris and Real Clear Politics national reporter Caitlin Huey-Burns join CBSN to discuss."

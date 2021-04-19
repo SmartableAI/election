@@ -129,7 +129,7 @@ related:
         isCached: true
   - title: "How the Trump era made redistricting more complicated"
     excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
-    publishedDateTime: 2021-04-18T12:11:37Z
+    publishedDateTime: 2021-04-18T22:04:57Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"

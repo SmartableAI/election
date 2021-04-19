@@ -2,7 +2,7 @@
 category: news
 title: "How the Trump era made redistricting more complicated"
 excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
-publishedDateTime: 2021-04-18T12:11:37Z
+publishedDateTime: 2021-04-18T22:04:57Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
@@ -545,6 +545,6 @@ related:
       domain: nytimes.com
     quality: 108
 
-secured: "fvVbOXIaztmCa5A+z/K0+gIvYuBljxYz/cSZDS7a8Ex+KYlB9EjDuBTxRitcgdxsxaig7wQLZuCseEkii79wFzR27awpvncE5QMegKvpOQ5wSBFRutj+x0cBPcMKCUQGKhHHX76b7WoK28UImzp0PlZ6FDbcznXIi118CuOh1HAr9VWos868+a0EXHYSy/D4OpywF/d7effRKENwstTCixMHCN4/K3YeaoOaNs0TwOCtp2s7jgkimk5LLtdIBj943029BCb2qrnBcH0cPUQ0B8tHfzIWjjiDoQZURJAXb7t94JDo1XNFW3twf7/TkcMKvrRE9mm1c+JIB3lMtI6ZVcUdYmT98cdz8bGdGxxvBJE=;hDF0cqxVpTyACBpNZUdpjA=="
+secured: "7ogmLQlkpGpEzGqZ1uTAGssRDYD6TVEdGOv2s+RyVGyc7wPWrlXkqsoakkDVX3R58ibw6qHGekMOX5Gi9L2m8jigD9OnpUQJhAeRb0WRFvC/xwGhQUfUxUwbeJKpq78i/XTh2TAcmkntS+4LwxUETSYHdmPvQ5gl8n8DTUY6firKldCGdembNSLB6D4jmawhURRBGew+mKRwLaKyYmF1ZArF/WTbsMRqwPyq8sMh56T1US7Ka1F1uYvVeT4BFoKgHXlfdkq3qaBPgA8VkXxyMg6MjSBLEb69ttycGdFR+fjJyOZp5/hUMDV1bknRi+MUtS+p7uisP53PJiotEOpuRKK8gIlPMzweLLiFRrfDGqk=;VY3ZA3yioWoXuXtD/RjOnA=="
 ---
 

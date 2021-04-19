@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
+    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans."
+    publishedDateTime: 2021-04-18T12:23:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/162df09/2147483647/strip/true/crop/5326x3528+0+11/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F7c%2F6fe9b99109bdf0ab74f67cb5e881%2F364a92d584294633bd968e1d0bd93a46"
+        width: 320
+        height: 212
+        isCached: true
   - title: "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run"
     excerpt: "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans."
     publishedDateTime: 2021-04-18T12:45:00Z
@@ -47,20 +63,45 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump is ditching the spray tan, hair highlights, and even some extra pounds as he mulls his political future"
-    excerpt: "Former President Donald Trump has lost weight and \"feels great\" nearly three months after leaving the White House, advisors say."
-    publishedDateTime: 2021-04-16T08:01:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-weight-loss-spray-tan-hair-white-house-2021-4"
+  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
+    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
+    publishedDateTime: 2021-04-14T16:49:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/6078c02a4206150018175cd0?width=1200&format=jpeg"
-        width: 568
-        height: 284
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Trump gains endorsement of the NRA"
+    excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
+    publishedDateTime: 2021-04-17T15:04:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/17/cb5d15c5-812c-4091-8fa7-22e568000775/thumbnail/1200x630/debff44a0ccfb1c8355835c4d00530a5/eve-trump-nra-1066566-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GOP White House Hopefuls Move Forward as Trump Considers Run"
+    excerpt: "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he considered another run."
+    publishedDateTime: 2021-04-18T11:49:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "DKVajUdJi0znGEUK/TvMpyDmh+iQzmrVq47L03Rm2aXYE/L6Jf9JoIVxPZ0dguJ6boksPCK+H41S4m9OcppmvuNdyaXkLQDfbsIGhbI+XMUpGVqYy4DAHBfhQw5+R35Di4yRCpKlUumlUw2kTaqnO84S2hzz8FR77+zLyUDm0otcrhVjjtMjKIiFKr7AiXMzhnE6X9Aj/cHYvwi9IjBg02F/gLwFH7ceAypXffcG2ItkY3mQjgri+RUQpPEFz8m+HlZfvjPuBKuobeUaIT5Ixmor6hwMzhD2dLlcs5964RedMhyqCM40N/prhtuNOWpGI5AuT3wrEtEiaEiySXcWaYTjBspIuP5JnheEzbTSEYM=;OswtlM92TYRxI/V0zhFPDw=="
 ---

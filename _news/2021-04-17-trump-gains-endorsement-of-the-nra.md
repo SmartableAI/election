@@ -29,68 +29,79 @@ images:
     isCached: true
 
 related:
-  - title: "Rick Scott navigates Trump, winning back the Senate — and his own ambitions"
-    excerpt: "As chairman of the National Republican Senatorial Committee, the Florida senator is putting himself front and center as he leads the battle to win the majority in 2022."
-    publishedDateTime: 2021-04-18T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
+  - title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
+    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans."
+    publishedDateTime: 2021-04-18T12:23:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/162df09/2147483647/strip/true/crop/5326x3528+0+11/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F7c%2F6fe9b99109bdf0ab74f67cb5e881%2F364a92d584294633bd968e1d0bd93a46"
+        width: 320
+        height: 212
+        isCached: true
+  - title: "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run"
+    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans."
+    publishedDateTime: 2021-04-18T12:45:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/gd3AqHNByj1GNIHftltpXcoVWo8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7XBRM22IRCJVPCE2CQTKRTSG4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
+    excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
+    publishedDateTime: 2021-04-14T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 123
+    quality: 107
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FPDDKZTYRII6XFEJR562ZVI6OU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 918
         isCached: true
-  - title: "Pastor Darrell Scott Claims Capitol Riot Was Congress 'Set Up' to Impeach Donald Trump"
-    excerpt: "The New Spirit Revival Center founder made the claims on his radio show while discussing the recent review about the January 6 disorder."
-    publishedDateTime: 2021-04-15T15:18:00Z
-    webUrl: "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878"
-    ampWebUrl: "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1778410/darrell-scott.jpg"
-        width: 2500
-        height: 1662
-        isCached: true
-  - title: "AG Merrick Garland rescinds a Trump-era memo curtailing consent decrees in investigations of police departments"
-    excerpt: "The memo comes as the Justice Department shifts its priorities to focus more on civil rights issues, criminal justice overhauls and policing policies."
-    publishedDateTime: 2021-04-16T17:05:00Z
-    webUrl: "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/6079c16a44f4540019207203?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "New polls show Trump and Clinton neck-and-neck"
-    excerpt: "New polls show that Democratic candidate Hillary Clinton has lost her double-digit lead in a matchup against GOP presumptive nominee Donald Trump. What does this mean for the November election? CBS News senior political editor Steve Chaggaris and Real Clear Politics national reporter Caitlin Huey-Burns join CBSN to discuss."
-    publishedDateTime: 2021-04-17T17:19:00Z
-    webUrl: "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-neck-and-neck/"
+  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
+    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
+    publishedDateTime: 2021-04-14T16:49:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/17/e75f35d7-00c4-4727-8ef5-e6b7676e2239/thumbnail/1200x630/9ede9f7dc7d90a76b4d81fe55921898e/0523-cbsn-aph-trumpvsclintonanalysis-1067329-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "GOP White House Hopefuls Move Forward as Trump Considers Run"
+    excerpt: "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he considered another run."
+    publishedDateTime: 2021-04-18T11:49:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "DI1cSPWFmhVwZgp57ZMh0P2bsnsKbHov5awCNFNJvw70WqocnUcOf0x5QLxOJ9YD2aLu6fHHsbXCS+RVHwppgHrK+Z+h8ftIDSzuLeH+BbNBlx6W1kXzKtRF9pdQ68zGsOr8DTdUJmCZJRguJC/4mbLj9MW530mM+ZieDwxA9ODEdiWsLG4XNs+0xyz2zbFjCB6m6q3cojCxe/gCNhnygxr4NwekrjA+lmyHcwApp3WMA88NXzTI4beN3e8s7GGElY9LcWVhWevcN0yoBCDZ2mVnDe/52ychZKoEzTFNfz4Rg8rt7xpUA07qbhddVkHswddB/qAaO8CbMOcA/+WGJnpkh6cvBCjaZOmlkcuXN7JcP7PO0C4C4t966sM3rbVKmc+9JWmfuQ63RQHCp1DrL/g6/U1SkuduF0sh52Xd2s2Ry+3oqVacU/W+soOZBIvadQLZAxG5cPd9lafBpWOHMRQ1+Y7lypnGKUSe4pw0xd5MaSBE0SX9BUroWOnyZ+4Iha3RY/gG8VH484am4nrv7g==;ciz+XlMbqaQRL9q8KPfywg=="
 ---

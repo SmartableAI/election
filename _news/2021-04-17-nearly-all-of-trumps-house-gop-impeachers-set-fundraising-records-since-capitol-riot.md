@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417?amp=1"
 type: article
 quality: 118
-heat: 158
+heat: 138
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "GOP White House Hopefuls Move Forward as Trump Considers Run"
-    excerpt: "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he considered another run."
-    publishedDateTime: 2021-04-18T11:49:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "si4t2zBKSXqqYovTNNvSdENGl4hcJM0snqaQrghOfhj2qYbY084pWWFSkurgkjbfKEbB7KHU9Y0AmCKzO0IS4dOaZDHz2hcvan5oQproEteoEgFnXj8sCbFSr8ILcTe4PX599/mK+GUWt40uTeAZWmsl7XFNCTz52SC3aR11M+1ypkgZo34gcav+wFPf3hPHqZwovSeZ4e0s8TpofxNwLwxq14/ydJhIYc7XQPzlJ5KlcfRzdAFzUDtifO3NMOE86HgbxdRriB59u0SnDjHpFTEYu1Hno1wccbODGmbkouEt19foN85fyvwKh4Qew916DXVSAhvtzeEAX2ca2JxPSg6L7yEnA3h52yTjAKmtBaQ=;Zp8SRFC30n2T7A6i8e9+KA=="
 ---

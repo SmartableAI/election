@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run"
-excerpt: "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans."
-publishedDateTime: 2021-04-18T12:45:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
+title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
+excerpt: "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans."
+publishedDateTime: 2021-04-18T12:23:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
+webUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
 type: article
-quality: 117
-heat: -1
-published: false
+quality: 124
+heat: 224
+published: true
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/gd3AqHNByj1GNIHftltpXcoVWo8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7XBRM22IRCJVPCE2CQTKRTSG4.aspx"
-    width: 1200
-    height: 675
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/162df09/2147483647/strip/true/crop/5326x3528+0+11/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F7c%2F6fe9b99109bdf0ab74f67cb5e881%2F364a92d584294633bd968e1d0bd93a46"
+    width: 320
+    height: 212
     isCached: true
 
 related:
-  - title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
-    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans."
-    publishedDateTime: 2021-04-18T12:23:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
+  - title: "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run"
+    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans."
+    publishedDateTime: 2021-04-18T12:45:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/162df09/2147483647/strip/true/crop/5326x3528+0+11/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F7c%2F6fe9b99109bdf0ab74f67cb5e881%2F364a92d584294633bd968e1d0bd93a46"
-        width: 320
-        height: 212
+      - url: "https://www.chicagotribune.com/resizer/gd3AqHNByj1GNIHftltpXcoVWo8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7XBRM22IRCJVPCE2CQTKRTSG4.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
     excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
@@ -103,6 +103,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "2bylHD65W1EFz6/jmtmdhrApaLZo/akkBMU3txk8qgHeMjljT0RjWf+SWgNyWoMm076vFH59MOS1eR5bTbZIwMAOSBbTsDX7B2x08gg8UqVFHjdLRwGlPbBh3lQ4HuDXJfQSVHBcdJWmM80t0zDfZcACZ2kUYzemZ+02eJ+YJWBdvMQxzluzTZaEFQKrUWFyrpSkoxOyGKwkqPBCzLzhtzf2jWqkgPuRjg+xfgf5aeVCjW84I07UY+++2ed8iEf2Arg/uD+H3u8FbBNWZkPyijq4LXKPloeGB/fLIMmDDUkdR+j4X0jyai92NsbGR8UQ+vG0MPS/M87g+316w0cxp4De2Rco7Ldud7xyXroR7j/aZktfCx8LE5+VtDtDNew1sguhEg9bjfgMoUggWyQdUzfoAB9jhbdlbAhuwz6GP2rIKHONbCrmad0t2nLWkU70JBeTKUzO/v+UYTV/9elFKfnPOBoLDKT/dDwQJlh54OSjOvaCEECX9lIFSb7I1MusHF4e31h3DWPz7Xl46byYeQ==;swrvnWKmltLyGjcBuqNzgA=="
+secured: "u4ktj3SpXvHhgxQ22qUI83dkf+NcB702LPxf2PtIxAmMGQoDyXvR1W1mziVPV4nw+EY4B8Zr3IWrr0+ddcwUeB3Ao0yYXIsXA83mViHRfa+imths5kGcHKSVN1wnrrnTuFOpDAT7nPagb4wljexJtHMEje/vLgqQ+rzs9cLelGfrVgewHDESnza/TKR6C1xqAFYNvjOMiHvQB3FwOacqLN7drtJ2YKwsVFIYcJfMs+ciUVD6CXDkVgzE3sEenN4c2nyBByOOgBFUz9kDcGSOZbUotjz//8HpSSPfoifFwc4B3O5L3bPpSc7mhBrjpAq2GbWwg0eMrPTzYMUayLYIrCrw8EABGYG8w0vl4N5P1wo=;56kEI/ICQmn03vEpSsTg0w=="
 ---
 
