@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-graham-i-could-not-disagree-more-with-trump-support-of-afghanistan-troop-withdrawal.md",
+      "title": "Graham: 'I could not disagree more' with Trump support of Afghanistan troop withdrawal",
+      "excerpt": "Lindsey Graham (R-S.C.) on Sunday pushed back on former President Trump 's support for removing all troops from Afghanistan, writing on Twitter that he “could not disagree more with former President Trump regarding his support for President Biden ’s withdrawal of all forces from Afghanistan against sound military advice.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not",
+      "originalUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_grahamlindsey_11062019getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not?amp",
+      "publishedDateTime": "2021-04-18T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-pro-trump-author-eric-metaxas-calls-deniers-of-2020-election-fraud-enemies-of-this-country.md",
       "title": "Pro-Trump Author Eric Metaxas Calls Deniers of 2020 Election Fraud 'Enemies of This Country'",
       "excerpt": "Eric Metaxas, a New York Times bestselling Christian author and staunch supporter of former President Donald Trump, said deniers of baseless conspiracy theories that the results of the 2020 election were fraudulent are \"enemies of this country.",
@@ -1498,58 +1550,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-gutfeld-review-fox-news-talk-show-lives-in-glass-house-when-critiquing-trump-obsessed-media.md",
-      "title": "'Gutfeld!' review: Fox News talk show lives in glass house when critiquing Trump-obsessed media",
-      "excerpt": "So it was LOL funny when host Greg Gutfeld turned to critique \"post-Trump stress\" with the night's marquee guest: Trump’s son, Eric. And that was one night after former Trump press secretary Kayleigh McEnany, the new co-host of Fox’s “Outnumbered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2021/04/13/fox-news-channels-gutfeld-falls-short-comedic-talk-show/7156579002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2021/04/13/fox-news-channels-gutfeld-falls-short-comedic-talk-show/7156579002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/02/USAT/69b6da78-fbfe-4727-b241-b66bb1756b4f-Gutfeld_New_Set.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7156579002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7156579002",
-      "publishedDateTime": "2021-04-13T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

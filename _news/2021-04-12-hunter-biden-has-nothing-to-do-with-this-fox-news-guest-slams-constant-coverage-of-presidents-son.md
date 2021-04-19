@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Daunte Wright Protester Bashes Joe Biden for Failing Black Community: You Said, 'You Got Our Back'"
+    excerpt: "Demonstrators gathered in Brooklyn Center on Saturday for a seventh night of protests against police brutality after the police killing of 20-year-old Daunte Wright."
+    publishedDateTime: 2021-04-19T02:25:00Z
+    webUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539"
+    ampWebUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
+    images:
+      - url: "https://d.newsweek.com/en/full/1779601/daunte-wright-protesters-march-colorado.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Biden says there is 'no justification for violence' at protests after police shot and killed a 20-year-old Black man in Minnesota"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In his first remarks about the police killing of a 20-year old Black man, Daunte Wright, President Joe Biden said that \"it remains to be determined,\" whether the shooting was accidental or not. Biden added that ..."
     publishedDateTime: 2021-04-12T19:20:00Z

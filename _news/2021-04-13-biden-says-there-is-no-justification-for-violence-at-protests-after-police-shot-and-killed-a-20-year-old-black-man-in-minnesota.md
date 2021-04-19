@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Daunte Wright Protester Bashes Joe Biden for Failing Black Community: You Said, 'You Got Our Back'"
+    excerpt: "Demonstrators gathered in Brooklyn Center on Saturday for a seventh night of protests against police brutality after the police killing of 20-year-old Daunte Wright."
+    publishedDateTime: 2021-04-19T02:25:00Z
+    webUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539"
+    ampWebUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
+    images:
+      - url: "https://d.newsweek.com/en/full/1779601/daunte-wright-protesters-march-colorado.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "'Hunter Biden Has Nothing to Do With This': Fox News Guest Slams 'Constant' Coverage of President's Son"
     excerpt: "\"The answer about Joe Biden is not, 'Well Hunter Biden did crack,' or 'Well Hunter disposed of a gun illegally,'\" Jessica Tarlov said."
     publishedDateTime: 2021-04-11T19:49:00Z

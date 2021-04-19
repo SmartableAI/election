@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-03-08-fact-check-mike-pence-claims-bill-would-force-universal-mail-in-voting.md",
+      "title": "Fact check: Mike Pence claims bill would force universal mail-in voting",
+      "excerpt": "The voting bill known as HR 1 “would force states to adopt universal mail-in ballots.” — Mike Pence, former vice president. Pence, the Republican who was Donald Trump’s vice president, raised multiple objections to the bill in a column that appeared in the Daily Signal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/16/77/21/20706426/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
+      "publishedDateTime": "2021-03-08T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-biden-to-sign-executive-orders-establishing-gender-policy-council-and-addressing-sexual-violence-in-education.md",
       "title": "Biden to sign executive orders establishing Gender Policy Council and addressing sexual violence in education",
       "excerpt": "President Joe Biden is set to sign two executive orders on Monday which will establish the White House Gender Policy Council and address sexual violence in the education field.\n    \n",
@@ -1306,58 +1358,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-hiring-surged-in-february-the-first-full-month-of-bidens-presidency.md",
-      "title": "Hiring surged in February, the first full month of Biden's presidency",
-      "excerpt": "Hiring around the U.S. sped up in February, the first full month of the Biden presidency, in a sign that the labor market is gathering strength. Employers added 379,000 jobs last month, the Labor Department said Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
-      "originalUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 665,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/04/bc169c75-f742-42c5-b2a8-649e4a44e148/thumbnail/1200x630/ec0c83d0aabe7014635179e56c95ef66/hiring-gettyimages-1229892232.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/",
-      "publishedDateTime": "2021-03-05T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

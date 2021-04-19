@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-11-clyburn-offers-manchin-history-lesson-to-clear-senate-path-for-biden-reforms.md",
+      "title": "Clyburn offers Manchin history lesson to clear Senate path for Biden reforms",
+      "excerpt": "said on Sunday he intends to give Joe Manchin a lesson in US history as he attempts to clear a path for Joe Biden on voting rights and infrastructure. Pelosi and Cheney critical of Gaetz but stop short of calling for resignation Manchin, a moderate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b9f072380b00e5cd707546e93628bd39d3af75d4/208_481_3048_1828/master/3048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe43afa6d72afd4bc9d30670810e50a4",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "publishedDateTime": "2021-04-11T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-biden-sees-win-for-us-in-electric-vehicle-battery-deal.md",
       "title": "Biden sees `win' for US in electric vehicle battery deal",
       "excerpt": "President Joe Biden calls it “a win for American workers and the American auto industry.\" WASHINGTON -- Two big South Korean electric vehicle battery makers have settled a long-running trade ...",
@@ -1253,62 +1305,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp",
       "publishedDateTime": "2021-04-09T07:20:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-house-gop-wants-biden-admin-to-review-nys-2b-fund-for-illegal-immigrants-put-american-families-first.md",
-      "title": "House GOP wants Biden admin to review NY's $2B fund for illegal immigrants: ‘Put American families first’",
-      "excerpt": "The top Republicans on two House committees are pressing Biden coronavirus rescue plan czar Eugene Sperling to review the $2 billion fund New York created this week aimed at giving coronavirus relief money to illegal immigrants. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Cd9Yaj4eqI/house-gop-biden-admin-nyc-2b-fund-illegal-immigrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Cd9Yaj4eqI/house-gop-biden-admin-nyc-2b-fund-illegal-immigrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Gene-Sperling-Joe-Biden.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T06:16:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

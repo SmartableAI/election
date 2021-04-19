@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-05-the-45th-why-trump-is-abandoning-his-iconic-brand-for-a-number.md",
+      "title": "'The 45th': Why Trump is abandoning his iconic brand for a number",
+      "excerpt": "WASHINGTON — Donald Trump spent a lifetime putting his name on steaks to skyscrapers to stimulus checks, but now, the former president appears to be replacing the gold-plated surname with a number: 45. Last week, the 45th president launched his new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/45th-why-trump-abandoning-his-iconic-brand-number-n1262935",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/45th-why-trump-abandoning-his-iconic-brand-number-n1262935",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_11/3457572/210317-donald-trump-se-527p_03c9a81eb2ae8d70b4f979b6ea4c8f08.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262935",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262935",
+      "publishedDateTime": "2021-04-05T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-gop-loudly-voicing-concerns-about-debt-under-biden-eerily-quiet-under-trump.md",
       "title": "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump",
       "excerpt": "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden.",
@@ -1289,58 +1346,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta.md",
-      "title": "Donald Trump, GA Gov. Brian Kemp Call Out 'Woke Companies' Like MLB, Delta",
-      "excerpt": "\"Boycott baseball and all of the woke companies that are interfering with Free and Fair Elections. Are you listening Coke, Delta, and all!\" Trump wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
-      "originalUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771295/donald-trump.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta-1580827?amp=1",
-      "publishedDateTime": "2021-04-02T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,54 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-14-cnn-staffer-boasts-to-project-veritas-that-network-peddled-anti-trump-propaganda.md",
+      "title": "CNN staffer boasts to Project Veritas that network peddled anti-Trump ‘propaganda’",
+      "excerpt": "A CNN staffer admitted in a secretly recorded video that his network produced “propaganda” to oust former President Donald Trump during the 2020 presidential election — and",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "originalUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cnn-project-veritas-60.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "publishedDateTime": "2021-04-13T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-pollsters-say-they-undercounted-republicans-trump-supporters-in-2020.md",
       "title": "Pollsters Say They Undercounted Republicans, Trump Supporters in 2020",
       "excerpt": "One report, released Tuesday by five Democratic polling firms, finds that their surveys undercounted voters who viewed former President Donald Trump as “presidential.’’ Another, by the nonpartisan Pew Research Center, concluded that obtaining the ...",
@@ -1301,62 +1349,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.md",
-      "title": "Sen. Wicker on infrastructure meeting with Biden: We made good points but 'there is a lot of space between us'",
-      "excerpt": "Senator Roger Wicker (R-MS) joined Fox Business' 'Kudlow' on Monday following his Oval Office meeting with President Biden and says he and his Republican colleagues made 'good points' but noted there remains 'a lot of space between' the two parties",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
-      "publishedDateTime": "2021-04-12T15:31:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

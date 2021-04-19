@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Daunte Wright killing: Biden calls for ‘peace and calm’ as Minneapolis sets curfew – live"
-excerpt: "The federal US government posted a March budget deficit of $660bn, a record high for the month, as direct payments to Americans under Joe Biden’s stimulus package were distributed, the treasury department said on Monday. The deficit for the first six ..."
-publishedDateTime: 2021-04-12T22:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
+title: "Daunte Wright Protester Bashes Joe Biden for Failing Black Community: You Said, 'You Got Our Back'"
+excerpt: "Demonstrators gathered in Brooklyn Center on Saturday for a seventh night of protests against police brutality after the police killing of 20-year-old Daunte Wright."
+publishedDateTime: 2021-04-19T02:25:00Z
+originalUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539"
+webUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539"
+ampWebUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
 type: article
-quality: 116
+quality: 111
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/ad4a25e533ad6c9e7c2980bc6e5dbd216b437f03/0_445_6733_4042/master/6733.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ac127df02353378cc3daf6f97ea30be"
-    width: 600
-    height: 360
+  - url: "https://d.newsweek.com/en/full/1779601/daunte-wright-protesters-march-colorado.jpg"
+    width: 2500
+    height: 1668
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1776399/brooklyn-center.jpg"
         width: 594
         height: 398
+        isCached: true
+  - title: "Daunte Wright killing: Biden calls for ‘peace and calm’ as Minneapolis sets curfew – live"
+    excerpt: "The federal US government posted a March budget deficit of $660bn, a record high for the month, as direct payments to Americans under Joe Biden’s stimulus package were distributed, the treasury department said on Monday. The deficit for the first six ..."
+    publishedDateTime: 2021-04-12T22:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/ad4a25e533ad6c9e7c2980bc6e5dbd216b437f03/0_445_6733_4042/master/6733.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ac127df02353378cc3daf6f97ea30be"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden calls for 'peace and calm' after Daunte Wright shooting sparks protests in Minnesota"
     excerpt: "WASHINGTON – President Joe Biden called for \"peace and calm\" on Monday following an evening of protests after a police officer in a Minneapolis suburb shot and killed a 20-year-old Black man during a traffic stop. Biden called the shooting death of ..."
@@ -95,22 +111,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Daunte Wright Protester Bashes Joe Biden for Failing Black Community: You Said, 'You Got Our Back'"
-    excerpt: "Demonstrators gathered in Brooklyn Center on Saturday for a seventh night of protests against police brutality after the police killing of 20-year-old Daunte Wright."
-    publishedDateTime: 2021-04-19T02:25:00Z
-    webUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539"
-    ampWebUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 111
-    images:
-      - url: "https://d.newsweek.com/en/full/1779601/daunte-wright-protesters-march-colorado.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
   - title: "'Hunter Biden Has Nothing to Do With This': Fox News Guest Slams 'Constant' Coverage of President's Son"
     excerpt: "\"The answer about Joe Biden is not, 'Well Hunter Biden did crack,' or 'Well Hunter disposed of a gun illegally,'\" Jessica Tarlov said."
     publishedDateTime: 2021-04-11T19:49:00Z
@@ -144,6 +144,6 @@ related:
         height: 600
         isCached: true
 
-secured: "MZzqGZ0f8Nta0YOuMWklHwrA5ZS7TbNxvvKBngXepRYe4288rZj4VuyMpE3TPyUlMgwy+KJHFOv8oq1hryUzwKCFn3TzcvjxsGC0TapViyrsixUwinRW5RiocGaNbGy4Wb3N2ghmk2DzbJV1OElEPePAUSBDadDiuwR94KfZuQXWBkmnMtE3KWfGUZ2u4PnfDAFVGmew90QYJ1+0a4ANOrQsIGayYbjUGwHeD99z/VyLm3q4/enir2UHC+SkW53CI2RHKC871Q8PDyKTBWAZBpaITj1UD4XyePN7ZRQf5nlsVDsyEOqDmVRQ7KldDleikuyZvfmeS3onaiGwLC7emL2P0K+EyBmL+HUfticKz7vVnEGWmzlUOHM1j+Dz944ORmubVqswrVREic5SNiB+SGQieaUJvzoq3+I5Wc+zCAR6zQXBdG2+xfNx/zVHTi3MtDTB1IMOyKf1ajUOdR/j454AndZPR09o4XSXjRWA4i4LfNxML4S42xIdTj/ogig9Y+Ph331ma3uLm1zLY7v7Jw==;jZbggS8FYhrHKZA/qwQYsw=="
+secured: "pIFA7h658IlzBYYfJydpPZ9cAT0ID3/09NXyg3QHWDBwY0r9Wef1B+ua8m4u4PjjG2utCvbh2V6VoxBtgyuw82HGahte6tsajniJ8q1optpH/hK7bfjhXrp7q4KGDo0SrTNEXhP8dzuTOfFg9kfq2KO0O/qz1Z3/NozA6AGTvbRlsXOJWP8bYZCxqceniaoLUCxW6Owr8I8V0PerDkUpRzyUPDCdU3VkJGRYLtyyXQzf5ivZSLE7y/9aQIQwhSPTxcsBT4ltUyBXwuke3jDjNEH3RYOYnV/4yYLotNf4VBfz9b1G7H4t8vWV0xaEav12IQumqEKrKpzzger3bUFf+o4IvGkYGM6C6CoO9Lk75g8=;ygPXr9ySz3Mcej3eiqqwvQ=="
 ---
 

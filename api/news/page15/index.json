@@ -2,6 +2,59 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
+      "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
+      "excerpt": "Former President Donald Trump recently rattled off the names of those he viewed as future leaders of the Republican Party, including Sens. Josh Hawley and Ted Cruz along with Florida Gov. Ron DeSantis",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1030,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_8dd217cdefef407ab9354e165aef7d37_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "publishedDateTime": "2021-03-30T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-dnc-chair-jaime-harrison-who-lost-to-graham-in-november-calls-out-senator-over-guns.md",
       "title": "DNC chair Jaime Harrison-- who lost to Graham in November-- calls out senator over guns",
       "excerpt": "Democratic National Committee (DNC) chair Jaime Harrison on Monday said Lindsey Graham was \"embarrassing\" both himself and South Carolina after the senator revealed he would use his AR-15 to defend his home if needed.",
@@ -1281,62 +1334,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/marine-corps-reservist-warns-biden-woke-pentagon.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marine-corps-reservist-warns-biden-woke-pentagon.amp",
       "publishedDateTime": "2021-03-26T20:23:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-tim-scott-blasts-biden-democrats-for-filibuster-flip-flop-they-cry-racist-whenever-they-want-to-scare-you.md",
-      "title": "Tim Scott blasts Biden, Democrats for filibuster flip-flop: They cry 'racist whenever they want to scare you'",
-      "excerpt": "Sen. Tim Scott, R-S.C., ripped President Biden and congressional Democrats Friday for changing their view of the Senate filibuster rule, telling \"Fox News Primetime\" that they are invoking racism in order to scare Republicans.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQndboNIed0/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQndboNIed0/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78efa97c-fc3c-4cbc-8c1b-5e8db2d0a57d/0645bd61-7716-4015-ae01-3f9193659c55/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist.amp",
-      "publishedDateTime": "2021-03-26T19:41:34-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

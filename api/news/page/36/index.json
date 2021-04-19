@@ -2,6 +2,62 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-02-19-iran-learning-it-can-threaten-biden-to-get-its-way-on-nuclear-talks-ric-grenell.md",
+      "title": "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell",
+      "excerpt": "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd154628-c42a-42cb-829c-9a04557dc5a5/869775b1-e778-487c-a2ef-b385b0432f76/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "publishedDateTime": "2021-02-19T14:58:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-biden-used-3-key-stats-to-make-a-point-except-they-werent-true.md",
       "title": "Biden used 3 key stats to make a point. Except they weren't true",
       "excerpt": "During President Joe Biden's CNN town hall, he made several false statistical claims. Here's what you need to know.\n    \n",
@@ -1296,58 +1352,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-naacp-lawsuit-will-put-trump-out-of-business-congressman-bennie-thompson-says.md",
-      "title": "NAACP lawsuit will put Trump \"out of business,\" Congressman Bennie Thompson says",
-      "excerpt": "Congressman Bennie Thompson and NAACP President Derrick Johnson talk to CBSN about their legal case over the Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/naacp-trump-lawsuit-bennie-thompson/",
-      "originalUrl": "https://www.cbsnews.com/news/naacp-trump-lawsuit-bennie-thompson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/11/4919888d-d71c-4945-b12e-61536282e8dc/thumbnail/1200x630/0ea5fbfc8c1175126f3ad66fa9f1cd69/30-polarizing-trump.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/naacp-trump-lawsuit-bennie-thompson/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-trump-lawsuit-bennie-thompson/",
-      "publishedDateTime": "2021-02-18T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

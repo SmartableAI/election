@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-02-suicides-fell-by-2600-in-2020-despite-donald-trumps-lockdown-warnings.md",
+      "title": "Suicides Fell by 2,600 in 2020, Despite Donald Trump's Lockdown Warnings",
+      "excerpt": "Suicides dropped in 2020 amid the COVID-19 pandemic despite former President Donald Trump warning that lockdowns would inspire \"suicides by the thousands\" and cause deaths \"in far greater numbers than the numbers that we're talking about with regard to the virus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
+      "originalUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1769526/covid-19-lockdowns-suicide-rate-donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
+      "publishedDateTime": "2021-04-01T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-former-jpmorgan-executive-quits-board-of-company-that-collected-data-for-trump-2020-campaign.md",
       "title": "Former JPMorgan executive quits board of company that collected data for Trump 2020 campaign",
       "excerpt": "Blythe Masters, a former top executive at JPMorgan Chase, is quitting the board of Phunware, a company that created a controversial voter data collection app for Donald Trump's 2020 re-election campaign.",
@@ -1477,58 +1529,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-predicted-news-ratings-would-tank-if-im-not-there-he-wasnt-wrong.md",
-      "title": "Trump predicted news ratings would ‘tank if I’m not there.’ He wasn’t wrong.",
-      "excerpt": "Newspapers, television, all forms of media will tank if I’m not there,” he augured in 2017, “because without me, their ratings are going down the tubes.” Barely two months into the post-Trump era, news outlets are indeed losing much of the audience and readership they gained during his chaotic presidency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3HBE7SU54I6XLGFSLJIDGQ4ZM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-22T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
