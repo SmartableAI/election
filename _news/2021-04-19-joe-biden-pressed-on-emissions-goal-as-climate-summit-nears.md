@@ -59,8 +59,8 @@ related:
         isCached: true
   - title: "Biden to meet with members of Congress over his infrastructure plan – live"
     excerpt: "Latest example of White House officials or the president himself meeting with members of Congress as they try and move Biden’s agenda"
-    publishedDateTime: 2021-04-19T13:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d8e7f8f08080a7ae6550e"
+    publishedDateTime: 2021-04-19T13:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d8c048f08505668d94a1e"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
     type: article
@@ -69,7 +69,7 @@ related:
       domain: theguardian.com
     quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/39b2485b49a592b23c6ce07725257b5bc4c20a33/0_73_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c280154f4a7d72583a1a96daad3fe97"
+      - url: "https://i.guim.co.uk/img/media/824475ebfb30f1464b3aa3f4f46d1b8fd4f5a908/364_429_6330_3798/master/6330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dda74eceece7f858c8f40878c5a265e"
         width: 600
         height: 360
         isCached: true

@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden to deliver remarks after Derek Chauvin trial verdict"
+    excerpt: "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,"
+    publishedDateTime: 2021-04-19T17:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264513"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264513"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_16/3465912/210419-joe-biden-ew-1232p_4abe6008c53d925a33d81a3e021870c9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
     excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
     publishedDateTime: 2021-03-18T20:50:00Z

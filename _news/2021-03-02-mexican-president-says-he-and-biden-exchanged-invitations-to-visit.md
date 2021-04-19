@@ -261,6 +261,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "President Joe Biden Makes Remarks on American Jobs Plan"
+    excerpt: "President Joe Biden makes remarks during a meeting with with a bipartisan group of Members of Congress to discuss historic investments in the American Jobs Plan, in the Oval Office at the White House on Monday,"
+    publishedDateTime: 2021-04-19T18:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7ab59151b0e68dd9bb8daaac04173cc5/President-Joe-Biden-Makes-Remarks-on-American-Jobs-Plan/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7ab59151b0e68dd9bb8daaac04173cc5/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "qdMHsQjefc9jRuXHJXSdIndH14YL7OEWGxf1J3Ta5k48Gg3osonSwE4OBtU4zre3v4QDYkuMcqEn1Zf7pXe6Z5RdC/ltr+xMVEzrxk6iGlZx2zkww4KNx742nwXlX0X3HdFJC960OP5IwVFBWLBZD94rliAU4w7am45EnMPFk0qsg+V+MIdoAXupTKSW1ARdssDLiQu36FhwdvwkKfmQgMAOkqPrpZVPg0N5FlY3crYgDGym1wTOLpiB35C5+2vnvjGCY7GhYxqSDAiFmHEUgPVkFZ6DL4XtFLwMOjMQq3pY4wel8MZqZHfeukyBri/9Z4ZcFB3n9+bbcNl4j+gBeeg1SZslfSqO9JUWgp4kgAs=;/DP9oxcZI7mRmPh6ZAUS0w=="
 ---

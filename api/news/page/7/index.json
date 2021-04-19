@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-09-biden-border-coordinator-roberta-jacobson-stepping-down.md",
+      "title": "Biden Border Coordinator Roberta Jacobson stepping down",
+      "excerpt": "The Biden administration's Southern Border coordinator will step down at the end of the month as officials continue to struggle with a large influx of migrants trying to enter the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcKbD4dJH8Q/biden-border-roberta-jacobson-step",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcKbD4dJH8Q/biden-border-roberta-jacobson-step",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Roberta-Jacobson-REUTERS.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-roberta-jacobson-step.amp",
+      "publishedDateTime": "2021-04-09T13:50:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-donald-trump-jr-and-kimberly-guilfoyle-buy-south-florida-mansion-for-97m.md",
       "title": "Donald Trump Jr. and Kimberly Guilfoyle buy South Florida mansion for $9.7M",
       "excerpt": "Donald Trump Jr. and his partner, the TV personality Kimberly Guilfoyle, have reportedly picked up a waterfront mansion in Jupiter, FL.",
@@ -1286,62 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-falsely-claims-gun-manufacturers-cant-be-sued.md",
-      "title": "Biden falsely claims gun manufacturers 'can't be sued'",
-      "excerpt": "President Biden on Thursday falsely claimed that gun manufacturers \"can't be sued.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsOf15pcfeE/biden-claim-gun-manufacturers-sued-liability-exempt",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsOf15pcfeE/biden-claim-gun-manufacturers-sued-liability-exempt",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21098589790561-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-claim-gun-manufacturers-sued-liability-exempt.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claim-gun-manufacturers-sued-liability-exempt.amp",
-      "publishedDateTime": "2021-04-08T12:49:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

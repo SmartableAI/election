@@ -106,6 +106,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "On Foreign Policy, Biden Meeting Cold Reality of Office"
+    excerpt: "After weeks of working out what he'd been left by his predecessor, US President Joe Biden has finally put his foreign policy into overdrive. Simultaneously striking in several capitals, his plans are in play and can't be taken back."
+    publishedDateTime: 2021-04-18T23:50:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/18/on_foreign_policy_biden_meeting_cold_reality_of_office_540784.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540779_5_.jpg"
+        width: 750
+        height: 532
+        isCached: true
 
 secured: "h1iYJML/9LiwMG7xV27CNVMQig+3gF1Lvw6smm5H9vK+eg8HhPkzPGNa+vqnz0HIvH7KlhME5/SPjRCKzGHJICk51phn2JiyJYB9oAqb6N81R+TkXZPXILrrlVKgACOOGDc3sAY19lKx4R2pCsk5E/hNUq6IkGuLxwF1GrRlRfb+xbjdh5GKDnVLfg5M35yjOvzMn1idaAMzU+x15EokCUu89xMd7tlbFqC3FOpuhIknUZO8nD56H1PSPP8xQt32dBAjYi/cLT2kk7OhZp7lKz1mb3bkKft4QDc4alTfkxT0hdFXeJT4RI9g7FfIz9O5aKWDvIard8dFmkWCl3HU9yOp9AKlECd60pTFRmqcDft30GDt8lzfsO9xKP/eZMZZ8w4P2MmfqJ9OOj+B8Iza0uhcPIrTvKHeUUEyOJ42CQs7HcWgefPPAaOgOBR/+1q0nCfpe1mV4QsQKVtXQVFrNgD/KI7tUnjI3omguI/IC4I4VwbKkl41eu7Qf/Pqc7bFAlEdVes6dzZuBpnWyr/Xqw==;yK1Abv9Jk/Pg4GmhhHJbZA=="
 ---

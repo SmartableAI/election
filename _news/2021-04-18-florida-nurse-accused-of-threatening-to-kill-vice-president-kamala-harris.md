@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris pitches American Jobs Plan during first extended economic speech since becoming VP"
+    excerpt: "Kamala Harris on Monday delivered her first extended economic speech since becoming vice president, making a pitch for the Biden administration's infrastructure plan and touting the White House's accomplishments since President Joe Biden was sworn in.\n    \n"
+    publishedDateTime: 2021-04-19T18:03:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vy0KNaL7-6Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419135329-harris-american-jobs-plan-0419-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Watch Live: Vice President Harris Delivers Remarks on the Economy"
     excerpt: "Vice President Harris Delivers Remarks on the Economy. U.S. & Politics. Watch Live: Vice President Harris Delivers Remarks on the Economy"
     publishedDateTime: 2021-04-19T15:33:00Z

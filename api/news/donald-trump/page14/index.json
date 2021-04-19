@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-22-nato-secretary-general-jens-stoltenberg-says-need-to-rebuild-trust-after-trump.md",
+      "title": "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump",
+      "excerpt": "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4YM7ZC4C4I6XOF55Y3LDTIYX4.jpg&w=1440",
+          "width": 1440,
+          "height": 908,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-21T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-trump-impeachment-trial-likely-in-mid-february-republican-senator.md",
       "title": "Trump impeachment trial likely in mid-February: Republican senator",
       "excerpt": "Former President Donald Trump's U.S. Senate impeachment trial is likely to begin sometime around mid-February in order to give his defense team time to prepare, Republican Senator Mike Braun told reporters on Thursday.",
@@ -1511,63 +1563,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trumps-regulators-ok-partnership-that-could-squeeze-air-passengers-in-dc-and-nyc.md",
-      "title": "Trump's regulators OK 'partnership' that could squeeze air passengers in D.C. and NYC",
-      "excerpt": "OK'd on Elaine Chao's final day as transportation secretary — is generating complaints it will harm competition and raise fares.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/16/trump-administration-american-airlines-jetblue-459824",
-      "originalUrl": "https://www.politico.com/news/2021/01/16/trump-administration-american-airlines-jetblue-459824",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/68/f6/73732ffa40ed8657bdce24ed7285/20210115-elaine-chao-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-16T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

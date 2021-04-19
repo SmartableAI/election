@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-name-former-nsa-deputy-dir
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://assets.realclear.com/images/54/540790_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "On Foreign Policy, Biden Meeting Cold Reality of Office"
+    excerpt: "After weeks of working out what he'd been left by his predecessor, US President Joe Biden has finally put his foreign policy into overdrive. Simultaneously striking in several capitals, his plans are in play and can't be taken back."
+    publishedDateTime: 2021-04-18T23:50:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/18/on_foreign_policy_biden_meeting_cold_reality_of_office_540784.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540779_5_.jpg"
+        width: 750
+        height: 532
         isCached: true
 
 secured: "yoPyCP2IZcyR5d4DL6muE87HmLJR0X/yLi1c6EauVIBy5nHlqfk3GtDkuoC04pcumHHUOK9gl5aoD6LwjN6sAMyLMFgDcgz+jellb3aw5kuqemtLAJMR3Hgudfw2DhbHtuGG9X6GG8eqOtZs12TX+DlXB14HxI8GVvtjbpov7IpgEn3rDXGTMw1uASFoA0JZpKEGkmjmg9DfgeC4QZGgk9uk0kheyxw1nLKwzksUGH/jS0H/v7NOOk9LGu0HgmdL83dVE1tP7Zr2b3BsfcY/g0vf1ccaq8VQUGjSwNOOJhvo6xEMzA/3hUbrfDLY1eapbUu6zVJ/uIdFtouAx6hWw6cAqE5AoFrprN59D4A0Cfo=;H2dmiabTQ7Zc+gvRBnCYwg=="

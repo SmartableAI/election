@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-america-first-policy-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp"
 type: article
 quality: 190
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -296,6 +296,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/54/540496_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "A Trump Policy Institute? Heaven Help Us"
+    excerpt: "Michael D'Antonio writes that the recently-launched America First Policy Institute is perfectly named to lean on Donald Trump's campaign catchphrase, but is built on a shaky foundation apparently intended to offer insiders a chance to get paid for spreading Trump's populist message."
+    publishedDateTime: 2021-04-19T18:55:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/19/a_trump_policy_institute_heaven_help_us_540905.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531666_5_.jpg"
         width: 750
         height: 500
         isCached: true

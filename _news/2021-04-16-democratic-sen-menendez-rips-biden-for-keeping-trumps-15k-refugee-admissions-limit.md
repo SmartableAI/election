@@ -299,6 +299,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "A Trump Policy Institute? Heaven Help Us"
+    excerpt: "Michael D'Antonio writes that the recently-launched America First Policy Institute is perfectly named to lean on Donald Trump's campaign catchphrase, but is built on a shaky foundation apparently intended to offer insiders a chance to get paid for spreading Trump's populist message."
+    publishedDateTime: 2021-04-19T18:55:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/19/a_trump_policy_institute_heaven_help_us_540905.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531666_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "v2AMg3wMdJA0jxEb3ILYI0pYzzzcI9VlLYDD78q0YLWh+pQdB2lyXo8yUOZMQ9CSDjXl/v5iBEwZZbUY0ECjdMCz0uJ87ozQ6q9hnfEwKUj+pE0druQdrBYd7LBD3hTB3D5k/4WIcaRPqLBA/i4pRI4kH7Agh35yI00OFgXHhtVoYYe8d1xbzGOLPpyiuI2I65mR9Xzwuggboug3ThOGEdimALh+tp+HVRDhbjPEc4cYGTAFMq+fsv4b6DNGqFIPoGGxunAGJn9Fh9PMrbJPoPnFj942erifhaTHvIGofITxbXJFT4LuphrwwpFGJXZ/j/khdcTMXmOSMbFV1QwN/S25FD7XNcFqKVb3bIzWdpY=;x0mFWwUJ3BwCAnS3ipKOVg=="
 ---

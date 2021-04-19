@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-fact-check-no-evidence-donald-trump-said-he-plays-very-little-golf.md",
+      "title": "Fact Check-No evidence Donald Trump said he plays ‘very little golf’",
+      "excerpt": "Social media posts attributing a quotation about playing “very little golf” to former U.S. President Donald Trump are false. Reuters did not find any evidence of Trump ever saying this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/factcheck-trump-golf-idUSL1N2MC1Z4",
+      "originalUrl": "https://www.reuters.com/article/factcheck-trump-golf-idUSL1N2MC1Z4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2MC1Z4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MC1Z4",
+      "publishedDateTime": "2021-04-19T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-the-us-counties-lagging-in-covid-19-vaccinations-have-one-thing-in-common-trump-voters.md",
       "title": "The US counties lagging in COVID-19 vaccinations have one thing in common: Trump voters",
       "excerpt": "But in hundreds of counties around the country, vaccination rates are low, with some even languishing in the teens. The disparity in vaccination rates has so far mainly broken down along political lines.",
@@ -1504,63 +1547,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-pollsters-say-they-undercounted-republicans-trump-supporters-in-2020.md",
-      "title": "Pollsters Say They Undercounted Republicans, Trump Supporters in 2020",
-      "excerpt": "One report, released Tuesday by five Democratic polling firms, finds that their surveys undercounted voters who viewed former President Donald Trump as “presidential.’’ Another, by the nonpartisan Pew Research Center, concluded that obtaining the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "originalUrl": "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-324404/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "publishedDateTime": "2021-04-13T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

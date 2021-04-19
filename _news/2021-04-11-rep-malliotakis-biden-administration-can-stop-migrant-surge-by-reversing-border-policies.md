@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Psaki won't say if Biden change on refugees was due to Dems on Capitol Hill"
+    excerpt: "Press Secretary Jen Psaki on Monday refused to say whether the swift reversal by the White House on its planned 2021 refugee cap was due to outrage from congressional Democrats, who were upset that a memo from President Biden kept the Trump-era limit. "
+    publishedDateTime: 2021-04-19T18:08:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyVINRO5Ywg/psaki-wont-say-if-biden-change-on-refugee-was-due-to-dems-on-capitol-hill-in-combative-briefing-exchange"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-wont-say-if-biden-change-on-refugee-was-due-to-dems-on-capitol-hill-in-combative-briefing-exchange.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-if-biden-change-on-refugee-was-due-to-dems-on-capitol-hill-in-combative-briefing-exchange.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Psaki walks back Biden's border 'crisis' comments, acknowledges 'crisis in Central America'"
+    excerpt: "When President Biden referred to an immigration-related \"crisis\" over the weekend, he was not referring to migrants crossing the southern border, White House press secretary Jen Psaki insisted to reporters Monday."
+    publishedDateTime: 2021-04-19T17:58:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pJLhIE27VzQ/psaki-bidens-border-crisis-comments-crisis-central-america"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-border-crisis-comments-crisis-central-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-border-crisis-comments-crisis-central-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House says Biden will increase refugee cap this year, after Dem fury over original target"
     excerpt: "The White House on Friday said that President Biden is expected to increase the refugee cap for this fiscal year, just hours after he signed an order that kept it at Trump-era levels and sparking fury from congressional Democrats."
     publishedDateTime: 2021-04-16T21:23:09Z

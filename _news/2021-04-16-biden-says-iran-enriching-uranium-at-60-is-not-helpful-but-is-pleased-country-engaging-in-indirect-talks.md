@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "CNN to host climate crisis town hall with Biden administration officials"
+    excerpt: "Senior Biden administration officials this week will answer questions on how President Joe Biden plans to remake US climate policy in a globally broadcast CNN town hall, the network announced Monday.\n    \n"
+    publishedDateTime: 2021-04-19T18:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LboOxn4BvMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/cnn-climate-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/cnn-climate-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419144802-cnn-climate-crisis-town-hall-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden won't raise refugee cap this fiscal year in a reversal on earlier pledge"
     excerpt: "President Joe Biden will sign a declaration on Friday to speed refugee admissions to the US but not raise the refugee cap, as he has committed to doing. Instead, he will sign an emergency determination that will cast a wider net of who can arrive to the US under the refugee ceiling currently in place.\n"
     publishedDateTime: 2021-04-16T17:12:36Z

@@ -2,6 +2,63 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-12-does-trump-face-legal-jeopardy-for-his-incendiary-speech-before-the-riot.md",
+      "title": "Does Trump Face Legal Jeopardy for His Incendiary Speech Before the Riot?",
+      "excerpt": "The president’s actions just before his supporters’ deadly rampage at the Capitol has created new risks for him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-legal-explainer/11dc-legal-explainer-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html",
+      "publishedDateTime": "2021-01-11T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-mcgovern-im-concerned-hell-do-something-crazy-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom.md",
       "title": "MCGOVERN: I’m concerned ‘he’ll DO SOMETHING CRAZY’ — CAPITOL MOB FALLOUT — TRUMP to give BELICHICK Medal of Freedom",
       "excerpt": "Rep. Jim McGovern, chair of the House Rules Committee, will have a key role when the House begins impeachment proceedings against President Donald Trump, which will likely happen this week. I spoke with McGovern on Sunday about his experience when the mob stormed the Capitol last week,",
@@ -1492,59 +1549,7 @@
         "Election",
         "Donald Trump"
       ]
-    },
-    {
-      "path": "_news/2021-01-07-trump-supporters-storm-capitol-during-electoral-college-count.md",
-      "title": "Trump supporters storm Capitol during electoral college count",
-      "excerpt": "Violent protesters loyal to President Donald Trump stormed the U.S. Capitol on Wednesday and forced lawmakers into hiding, in a stunning attempt to overturn America’s presidential election, undercut the nation’s democracy and keep Democrat Joe Biden from replacing Trump in the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 845,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4K2DZJCQNUI6XOLOBZKEI6ZDUE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 17
 }

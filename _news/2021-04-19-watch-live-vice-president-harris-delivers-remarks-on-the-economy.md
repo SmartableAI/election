@@ -40,6 +40,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris pitches American Jobs Plan during first extended economic speech since becoming VP"
+    excerpt: "Kamala Harris on Monday delivered her first extended economic speech since becoming vice president, making a pitch for the Biden administration's infrastructure plan and touting the White House's accomplishments since President Joe Biden was sworn in.\n    \n"
+    publishedDateTime: 2021-04-19T18:03:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vy0KNaL7-6Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419135329-harris-american-jobs-plan-0419-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Florida nurse accused of threatening to kill Vice President Kamala Harris"
     excerpt: "Niviane Petit Phelps made the threats in a series of videos sent to her husband in prison, according to a Secret Service complaint."
     publishedDateTime: 2021-04-17T19:49:00Z

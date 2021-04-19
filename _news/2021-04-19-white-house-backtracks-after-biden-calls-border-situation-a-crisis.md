@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/biden-border-crisis-unac
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/biden-border-crisis-unaccompanied-minors/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden to deliver remarks after Derek Chauvin trial verdict"
+    excerpt: "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,"
+    publishedDateTime: 2021-04-19T17:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264513"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264513"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_16/3465912/210419-joe-biden-ew-1232p_4abe6008c53d925a33d81a3e021870c9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
     excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
     publishedDateTime: 2021-03-18T20:50:00Z
@@ -80,6 +96,6 @@ related:
         height: 619
         isCached: true
 
-secured: "/NQxCEInhxe91GsWEJG6bfZXZSyfFN5ve0HoLFTy5RpGE8FCiDtD/jr27nD4rPrdSi2O8g3BqCFWIj7z4HgsnlFATgEYaZhGdYq7HbXPYjulXw3tS3z94493cLALZMBXSlhVczkRkDir5yB8AlonaIYrnKpyTY+/Io8AJW1MaCgRMAhN4vlfbQYIwwGobDdjm1ks1F0fwhwSFwUN9st4DLE8IxrVuCirT+pQh4qzRai/yjjj3QrXeN18VNinDLxVmdamLdfUsNMhAmp8aBfr4TWRov8mm6K1dV27ZMHDLfxDUCLPRyEwJlPAewMrS16m47SdLdQg8KdaDE4CBmFF5etD5SGk545Ih11STZJd5/A=;h3RuMmpbBWs9SoygM4e7PA=="
+secured: "EmrkMa/qJr/j/sdAtZCyh44prtLB2KGHHX2jrYH3zbcQ05xhm1jT4cHl8o/vAZEqJh5b8vhAslz1AEqb8kwRjrWbaiiQMJS7EHFmqnZrdLwa1RRZmmCGiBgU9pEsQDPEnG1nf534ZGYf6sT3LBCTgOwW+h4vY70tw7o+Tg+ExR2dZMwytTMs2ClxxMr66oQGLOKfuQ/a5sRXqiA1A/6Ho/wbBiakI6l8CCPvrbDubIS9xAfqXIuXJTtfbR+kLJKAyxg+7oBhfFtvsv61uOd+lUHUXcOhBh65W7TKbwAN4n4mTYO8jb7CaSCFqXGVUM5Vm2gw4rDZbWtoD4Innnpnr1xKUI4E0c/FNUwtgUnWzSI=;KN7fXuIddlTLiu6O3LPYkA=="
 ---
 

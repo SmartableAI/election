@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-08-biden-falsely-claims-gun-manufacturers-cant-be-sued.md",
+      "title": "Biden falsely claims gun manufacturers 'can't be sued'",
+      "excerpt": "President Biden on Thursday falsely claimed that gun manufacturers \"can't be sued.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsOf15pcfeE/biden-claim-gun-manufacturers-sued-liability-exempt",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsOf15pcfeE/biden-claim-gun-manufacturers-sued-liability-exempt",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21098589790561-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-claim-gun-manufacturers-sued-liability-exempt.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claim-gun-manufacturers-sued-liability-exempt.amp",
+      "publishedDateTime": "2021-04-08T12:49:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-trump-torches-arkansas-gov-hutchinson-for-vetoing-bill-banning-puberty-blockers-in-children.md",
       "title": "Trump torches Arkansas Gov. Hutchinson for vetoing bill banning puberty blockers in children",
       "excerpt": "Donald Trump blasted Gov. Asa Hutchinson for vetoing legislation to ban gender-confirming treatments or surgery for transgender youth.",
@@ -1314,62 +1370,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-to-take-first-limited-steps-on-gun-control-including-on-ghost-guns-and-pistol-braces.md",
-      "title": "Biden to take first limited steps on gun control, including on 'ghost guns' and pistol braces",
-      "excerpt": "President Joe Biden plans to announce new executive actions on guns on Thursday, a person familiar with the plans said, fulfilling a commitment he made in the aftermath of two deadly shootings last month.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbuhfS5sVSo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbuhfS5sVSo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406162103-01-biden-vaccine-remarks-0406-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html",
-      "publishedDateTime": "2021-04-07T18:13:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

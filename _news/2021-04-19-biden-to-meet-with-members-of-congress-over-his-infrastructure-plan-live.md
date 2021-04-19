@@ -2,9 +2,9 @@
 category: news
 title: "Biden to meet with members of Congress over his infrastructure plan – live"
 excerpt: "Latest example of White House officials or the president himself meeting with members of Congress as they try and move Biden’s agenda"
-publishedDateTime: 2021-04-19T13:11:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d8e7f8f08080a7ae6550e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d8e7f8f08080a7ae6550e"
+publishedDateTime: 2021-04-19T13:45:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d8c048f08505668d94a1e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d8c048f08505668d94a1e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/39b2485b49a592b23c6ce07725257b5bc4c20a33/0_73_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c280154f4a7d72583a1a96daad3fe97"
+  - url: "https://i.guim.co.uk/img/media/824475ebfb30f1464b3aa3f4f46d1b8fd4f5a908/364_429_6330_3798/master/6330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dda74eceece7f858c8f40878c5a265e"
     width: 600
     height: 360
     isCached: true
@@ -227,6 +227,6 @@ related:
         height: 683
         isCached: true
 
-secured: "AAn7zPnymlQNhZOPsVCDk45HTC0TYm4of2XssbY9tqCOrPYvYqYojqst0wRJp/zKYNdg1AGBJMKaa48Xqi98KlfVClx4Q4nTDFg2a0TUSHnfpHQJY2fBgn1RyE4SvbCNyf0H1TA+h8CnU0HJZ3/odGIV1dRAo3/8QNaSmwRjWSQOs4k0w28uauuu4FCrJG1WBwMlfnpwIdFDakKN4iW1dW6bWwxQNemkoCRI13SeZql6nhwp7wVUDq8yB3xs8hjltSP46IG4/uXPdO72F+ajETYtKY6+QaPnxRhOtFug56yd0+F6IhEK4sLxT9bQGeb+Fn4+3ZXkceVrlnDk1MXn0DjfFsel4g54888nmmN1JPY=;4pmsK72iSSG3R7Y+3lB7YA=="
+secured: "yCrhGyxJJZvfKasLrUsq/I3OydKYTyy3d/kUWIt3U/J1WyXgyj13YnAiW9oDCZBHY5i2a2CSee7qtuoe4XwwoAlWWYbx5JwR32SsKzHXYG5msUqPmEBt4C0iQ5n4yCIjbTcYFLQhVsd+0I3DTql+WHW2P47d7K3B4tQfzLsLBMTf1D3yEOsJTqaRkW6wde2KO2V8qdT/psGZmiq+lPFYTiOXokYxiLKcHdX4/BK86YqnifNyAPslm4AM0gMoaW5hf2TzqHZE27rOEjEvidSewpnDguJvwPMzJmVC9bnCouQA6mTbRwQQF4WAFVMmBx7wa7kTQhAHcq0xp4k34RcMNHwTNeW8A7C8Lmau2FJZRqA=;v5j9r+hSD6J88e8n+wNyAg=="
 ---
 

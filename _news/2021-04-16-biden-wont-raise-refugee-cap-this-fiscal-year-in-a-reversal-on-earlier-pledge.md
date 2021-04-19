@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "CNN to host climate crisis town hall with Biden administration officials"
+    excerpt: "Senior Biden administration officials this week will answer questions on how President Joe Biden plans to remake US climate policy in a globally broadcast CNN town hall, the network announced Monday.\n    \n"
+    publishedDateTime: 2021-04-19T18:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LboOxn4BvMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/cnn-climate-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/cnn-climate-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419144802-cnn-climate-crisis-town-hall-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says Iran enriching uranium at 60% is not helpful, but is pleased country engaging in indirect talks"
     excerpt: "President Joe Biden on Friday said Iran's decision to enrich uranium at 60% is not helpful and counter to the agreement the countries made under the Iran nuclear deal, but said he is pleased the country continues to engage in indirect talks with the United States.\n    \n"
     publishedDateTime: 2021-04-16T22:24:58Z

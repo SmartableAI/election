@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-surge-crisis-defends-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-surge-crisis-defends-refugee-move.amp"
 type: article
 quality: 175
-heat: 255
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Psaki won't say if Biden change on refugees was due to Dems on Capitol Hill"
+    excerpt: "Press Secretary Jen Psaki on Monday refused to say whether the swift reversal by the White House on its planned 2021 refugee cap was due to outrage from congressional Democrats, who were upset that a memo from President Biden kept the Trump-era limit. "
+    publishedDateTime: 2021-04-19T18:08:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyVINRO5Ywg/psaki-wont-say-if-biden-change-on-refugee-was-due-to-dems-on-capitol-hill-in-combative-briefing-exchange"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-wont-say-if-biden-change-on-refugee-was-due-to-dems-on-capitol-hill-in-combative-briefing-exchange.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-if-biden-change-on-refugee-was-due-to-dems-on-capitol-hill-in-combative-briefing-exchange.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Malliotakis: Biden administration can stop migrant surge by reversing border policies"
     excerpt: "New York Rep. Nicole Malliotakis slammed the Biden administration’s policies on “Fox & Friends Weekend” Sunday for “turning over our borders to the cartels,” after she traveled to Texas to witness the migrant surge."
     publishedDateTime: 2021-04-11T17:32:59Z
@@ -44,6 +60,22 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Psaki walks back Biden's border 'crisis' comments, acknowledges 'crisis in Central America'"
+    excerpt: "When President Biden referred to an immigration-related \"crisis\" over the weekend, he was not referring to migrants crossing the southern border, White House press secretary Jen Psaki insisted to reporters Monday."
+    publishedDateTime: 2021-04-19T17:58:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pJLhIE27VzQ/psaki-bidens-border-crisis-comments-crisis-central-america"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-border-crisis-comments-crisis-central-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-border-crisis-comments-crisis-central-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

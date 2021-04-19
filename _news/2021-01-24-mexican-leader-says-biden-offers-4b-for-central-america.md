@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -262,6 +262,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "President Joe Biden Makes Remarks on American Jobs Plan"
+    excerpt: "President Joe Biden makes remarks during a meeting with with a bipartisan group of Members of Congress to discuss historic investments in the American Jobs Plan, in the Oval Office at the White House on Monday,"
+    publishedDateTime: 2021-04-19T18:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7ab59151b0e68dd9bb8daaac04173cc5/President-Joe-Biden-Makes-Remarks-on-American-Jobs-Plan/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7ab59151b0e68dd9bb8daaac04173cc5/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "LwSP7wqKv+mATid31RfHkvsMdai6Hvhi/YPZ31Qwsu0h26gzkIcAfqosRzZjcQrxAXz5uL3nbCB6yDYWk1PP4HHvbIgf9isRS+YHo9Qzy6uxD9Y5ycCEq83XOSizZ2WeAJw4mB/tX3P/nCt2ISWG8rHUjZ/Zu2nxZ9HJvJLYYhbqUr6Z6XO60BBik+a4HX1jDKTzv69cUHaO2pJiQBTJZ/ddwbIcEqmdEkBff12/d2wetzPW2Uq8Oi063dM1cggLZYcS4Yn9afSDPIL/lfyttDeDpoDblJLQQRFuQXYSVxlWfL99KA1GlDkPt0C/Z5HKOtHpgTNwMEXKD+JA+DCd82QKw8lchmAm2E68r57RysE=;Ibj6tf8TyLyuXHxq9JtGfg=="
 ---
