@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-mace-biden-state-of-the-union-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104375855660.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "GOP lawmakers ask Pelosi to reschedule Biden's first speech to Congress"
+    excerpt: "A group of GOP lawmakers called Monday for House Speaker Nancy Pelosi to reschedule President Biden’s first speech to Congress later this month to a date when the House is in session."
+    publishedDateTime: 2021-04-19T20:26:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOJyh7M26fc/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a4c698-2716-47ac-a29c-fe49c8a2549b/b588a97f-04a0-4158-a1ee-919609e7c5fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."

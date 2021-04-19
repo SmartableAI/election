@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "In North Carolina, Vice President Kamala Harris pitches $2.3T spending plan"
+    excerpt: "In her first visit to the state since getting sworn in to office, Harris spoke at Guilford Technical Community College’s Advanced Manufacturing Campus in support of the proposal, which was unveiled last month on the heels of the $1."
+    publishedDateTime: 2021-04-19T20:03:00Z
+    webUrl: "https://www.pilotonline.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html"
+    ampWebUrl: "https://www.pilotonline.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 73
+    images:
+      - url: "https://www.pilotonline.com/resizer/0AsFViKk2BxIY-BFBMcchU0_A54=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G57KVOHMDDQESR5XC5LD3PGACI.jpg"
+        width: 1200
+        height: 873
         isCached: true
   - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
     excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."

@@ -52,6 +52,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP lawmakers ask Pelosi to reschedule Biden's first speech to Congress"
+    excerpt: "A group of GOP lawmakers called Monday for House Speaker Nancy Pelosi to reschedule President Biden’s first speech to Congress later this month to a date when the House is in session."
+    publishedDateTime: 2021-04-19T20:26:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOJyh7M26fc/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a4c698-2716-47ac-a29c-fe49c8a2549b/b588a97f-04a0-4158-a1ee-919609e7c5fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "f3bLgmbObKJ9c/3WjnXamNGXWDy2zoCbZZHaf06t1xN0jHq6DhGzhDTr6+qsVz98IPagzmoKuJ45nD1BgbycyNUmrJj9UvLIS3AnBSZHWmCrclmFxobeGmkTnbxj6CWp59CbGZYEGOi/a+Z7Tc8M7fnRC07Llk9tr2im26WV7nmVb9ARYy1mHU8Q4gcimKih952Swo/Y0JeZj0W61cL+GtTvXaMADltrvgiB+1XpTbsmOPAnVrN7jUpYSMaKVMRP2g0cAGA6EhROHMdsEgB8ZVfcZb35BNBuXCCZ/4wMhesj9pQZyb6EpA9i+bCFu20ROntmkVqeBRujjSnvb60KIZtYEaFVYJQEidbicEPkGxo=;lOSvJJx62gMkzybCc/EooA=="
 ---

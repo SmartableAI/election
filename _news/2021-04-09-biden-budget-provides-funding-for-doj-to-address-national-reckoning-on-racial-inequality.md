@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden says he’s willing ‘to compromise’ with Republicans on infrastructure bill – live"
+    excerpt: "President meets with a bipartisan group of lawmakers and says ‘I am prepared to compromise’"
+    publishedDateTime: 2021-04-19T20:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607dd0cc8f08a84aa5917cf9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/824475ebfb30f1464b3aa3f4f46d1b8fd4f5a908/364_429_6330_3798/master/6330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dda74eceece7f858c8f40878c5a265e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden administration reveals first 2022 budget request: $1.5 trillion in discretionary funding"
     excerpt: "The Biden administration on Friday sent Congress its first budget request for the 2022 fiscal year, outlining a set of priorities including funding for medical research, education, housing, civil rights, combating gun violence, tackling climate change and ..."
     publishedDateTime: 2021-04-09T15:10:00Z

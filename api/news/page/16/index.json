@@ -2,6 +2,63 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-03-29-changed-hearts-and-minds-bidens-funding-offer-shifts-medicaid-expansion-debate.md",
+      "title": "'Changed hearts and minds': Biden's funding offer shifts Medicaid expansion debate",
+      "excerpt": "It’s the stimulus funds that are really the motivation. I think it has really changed some hearts and minds in the Legislature,\" one Wyoming lawmaker said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_12/3460112/210326-remote-area-medical-line-florida-se-636p_c5bd1a0f39484895906f55044f4fbc2f.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262229",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262229",
+      "publishedDateTime": "2021-03-28T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-28-birx-recalls-very-difficult-phone-call-from-trump-following-her-covid-19-warnings.md",
       "title": "Birx recalls 'very difficult' phone call from Trump following her Covid-19 warnings",
       "excerpt": "Dr. Deborah Birx revealed in a CNN documentary clip released Sunday that she received a \"very uncomfortable\" and \"very difficult\" phone call from Donald Trump after speaking publicly about the spread of Covid-19 while serving in the former President's administration.\n    \n",
@@ -1307,62 +1364,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-biden-in-2005-said-nixing-the-filibuster-upsets-the-constitutional-design-and-would-eviscerate-the-senate.md",
-      "title": "Biden in 2005 said nixing the filibuster 'upsets the constitutional design' and would 'eviscerate the Senate'",
-      "excerpt": "Sen. Ben Sasse, R-Neb., spent over an hour on the Senate Wednesday night reading a 2005 speech from President Biden verbatim  where he said eliminating the filibuster would “eviscerate the Senate.” ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFYZ77RF_p0/sen-ben-sasse-reads-bidens-filibuster-defense",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hFYZ77RF_p0/sen-ben-sasse-reads-bidens-filibuster-defense",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21036581973148.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-ben-sasse-reads-bidens-filibuster-defense.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ben-sasse-reads-bidens-filibuster-defense.amp",
-      "publishedDateTime": "2021-03-25T17:02:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

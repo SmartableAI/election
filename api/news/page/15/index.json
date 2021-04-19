@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-30-blinken-ends-trump-rights-plan-promoting-conservative-agenda.md",
+      "title": "Blinken ends Trump rights plan promoting conservative agenda",
+      "excerpt": "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-30T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-who-is-judge-ketanji-brown-jackson-bidens-nominee-to-replace-ag-garland-on-powerful-dc-circuit-court.md",
       "title": "Who is Judge Ketanji Brown Jackson, Biden's nominee to replace AG Garland on powerful DC Circuit Court?",
       "excerpt": "D.C. District Judge Ketanji Brown Jackson is President Biden's nominee to fill the D.C. Circuit Court of Appeals seat of newly-minted Attorney General Merrick Garland, making her the most high-profile choice among the president's first round of judicial nominations.",
@@ -1298,63 +1350,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-changed-hearts-and-minds-bidens-funding-offer-shifts-medicaid-expansion-debate.md",
-      "title": "'Changed hearts and minds': Biden's funding offer shifts Medicaid expansion debate",
-      "excerpt": "It’s the stimulus funds that are really the motivation. I think it has really changed some hearts and minds in the Legislature,\" one Wyoming lawmaker said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_12/3460112/210326-remote-area-medical-line-florida-se-636p_c5bd1a0f39484895906f55044f4fbc2f.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262229",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262229",
-      "publishedDateTime": "2021-03-28T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -160,20 +160,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Top House Republicans request meeting with Kamala Harris over border ‘catastrophe’"
-    excerpt: "EXCLUSIVE: Republicans on three House committees on Monday requested a meeting with Vice President Kamala Harris over what they described as a \"catastrophe\" at the southern border -- amid accusations that the Biden administration’s policies have fueled the historic surge in migrants."
-    publishedDateTime: 2021-04-19T16:37:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFz8pzWR2Jc/house-republicans-meeting-kamala-harris-border-catastrophe"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden touts relationship with Harris as she takes heat in border czar role"
     excerpt: "President Biden elevated his relationship with embattled border czar Vice President Kamala Harris in a Twitter post on Monday, saying she is “the last voice in the room.” ​”​When"
     publishedDateTime: 2021-04-12T20:28:00Z
@@ -283,6 +269,20 @@ related:
     quality: 115
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Top House Republicans request meeting with Kamala Harris over border ‘catastrophe’"
+    excerpt: "EXCLUSIVE: Republicans on three House committees on Monday requested a meeting with Vice President Kamala Harris over what they described as a \"catastrophe\" at the southern border -- amid accusations that the Biden administration’s policies have fueled the historic surge in migrants."
+    publishedDateTime: 2021-04-19T16:37:00Z
+    webUrl: "https://www.foxnews.com/politics/house-republicans-meeting-kamala-harris-border-catastrophe"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 109
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

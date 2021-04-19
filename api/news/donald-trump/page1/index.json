@@ -97,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-19-michael-flynn-lin-wood-and-mike-lindell-pose-in-front-of-path-to-trump-board.md",
+      "title": "Michael Flynn, Lin Wood and Mike Lindell Pose in Front of 'Path to Trump' Board",
+      "excerpt": "The board was designed to document Trump's intricate web of associates and supporters with hopes of communicating conspiracy theories to the former president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648",
+      "originalUrl": "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1779799/michael-flynn-speaks-during-protest.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1",
+      "publishedDateTime": "2021-04-19T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-trumps-fight-with-murkowski-roils-gop-with-new-alaska-senate-challenger-emerging.md",
       "title": "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging",
       "excerpt": "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol.",
@@ -555,58 +607,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god.md",
-      "title": "Mike Lindell Says He Had Dream About Trump One Year Before Meeting Him, Credits God",
-      "excerpt": "MyPillow CEO Mike Lindell on Saturday said that he had a dream about Donald Trump in 2015, one year before the two met for the first time. During his address at the conservative Freedom Conference held in Broken Arrow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445",
-      "originalUrl": "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1779436/mike-lindell.jpg",
-          "width": 2500,
-          "height": 1580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1",
-      "publishedDateTime": "2021-04-17T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

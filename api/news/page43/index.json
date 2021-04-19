@@ -2,6 +2,62 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-02-09-gingrich-senators-who-vote-to-convict-trump-take-part-in-profound-attack-on-the-american-system.md",
+      "title": "Gingrich: Senators who vote to convict Trump take part in 'profound attack on the American system'",
+      "excerpt": "Lawmakers who vote to convict former President Donald Trump of incitement of insurrection and bar him from holding office again would be engaged in a \"profound attack on the American system,\" former House Speaker Newt Gingrich told \"Hannity\" Monday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nWYcLn8hW7s/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nWYcLn8hW7s/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1df69c8-949a-4ca1-818e-e46caea0d7a0/c71de4c2-118c-44a0-9cac-465393f03e74/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system.amp",
+      "publishedDateTime": "2021-02-08T21:08:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-blinken-stops-short-of-endorsing-trump-recognition-of-golan-heights-as-israel.md",
       "title": "Blinken stops short of endorsing Trump recognition of Golan Heights as Israel",
       "excerpt": "U.S. Secretary of State Antony Blinken on Monday stopped short of endorsing the Trump administration's recognition of the occupied Golan Heights as part of Israel, instead noting that the territory was important for Israel's security.",
@@ -1312,62 +1368,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-rand-paul-kids-missing-school-is-disaster-says-biden-beholden-to-teachers-unions.md",
-      "title": "Rand Paul: Kids missing school is 'disaster,' says Biden 'beholden' to teachers unions",
-      "excerpt": "President Biden's hands-off approach to reopening schools amid the coronavirus pandemic is hurting America's children, Sen. Rand Paul, R-Ky., told \"Justice with Judge Jeanine\" Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMET7vSBSD4/rand-paul-kids-missing-school-biden-beholden-to-unions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMET7vSBSD4/rand-paul-kids-missing-school-biden-beholden-to-unions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6ff4554-cb7b-431a-a61b-7dc4f0df80ea/7bcb469e-db26-4dc7-b49d-f84eb9a67300/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-kids-missing-school-biden-beholden-to-unions.amp",
-      "publishedDateTime": "2021-02-07T07:43:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

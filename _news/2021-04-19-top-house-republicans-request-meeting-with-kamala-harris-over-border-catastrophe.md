@@ -2,11 +2,11 @@
 category: news
 title: "Top House Republicans request meeting with Kamala Harris over border ‘catastrophe’"
 excerpt: "EXCLUSIVE: Republicans on three House committees on Monday requested a meeting with Vice President Kamala Harris over what they described as a \"catastrophe\" at the southern border -- amid accusations that the Biden administration’s policies have fueled the historic surge in migrants."
-publishedDateTime: 2021-04-19T16:37:50Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFz8pzWR2Jc/house-republicans-meeting-kamala-harris-border-catastrophe"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFz8pzWR2Jc/house-republicans-meeting-kamala-harris-border-catastrophe"
+publishedDateTime: 2021-04-19T16:37:00Z
+originalUrl: "https://www.foxnews.com/politics/house-republicans-meeting-kamala-harris-border-catastrophe"
+webUrl: "https://www.foxnews.com/politics/house-republicans-meeting-kamala-harris-border-catastrophe"
 type: article
-quality: 159
+quality: 109
 heat: -1
 published: false
 
@@ -20,8 +20,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
@@ -303,6 +303,6 @@ related:
         height: 500
         isCached: true
 
-secured: "cS4PtqI1qMZ/YQQtUWVnOAtgxO0G+dDxMog6r/N6v5ykN/tXb5Z7RCUNeTRrHcFn37qdimQG5zc2z4Vg48uzXTLUp8kXuT++yt3+elwYY4cCt+GG/5iS97OScLA7Wl/n5vAfknExp35yjW9QhiXOe7AnZM2xasVSjQrPfWnurU6bxh9IMQWBtQF/3aK0I/jOcybWvE2EKU+/Fhqcj4858RUHDrzcPvQNLS+gI2It6kaarnwsGfIrmR80xeiEqcg1zuIl9LFqZwX25SVb84AKAtcg4En/d81XCIcKlqm78Yjh2IdtU0CCSUPUCJkAFuxBbi2dYcJNmuT5zHDOrON7XbPv6kxDbYGmBQ7Rfs4F6mQ=;HFHBwHC4VKjY1w6mvyvbzg=="
+secured: "tC1q//T/kGlWzwUV2qN/BrJwwhjHXMuG/WD86bAVagOGIY4GfD7t3ffN9+6WmFwyAdYY3ZKHBrbr+gWLdfnOqxm29A167ISD3/lxyqb1hsovE/ekxRTeG/36MxBPBgG2o1VqlHLZs/kFGy98Nh8LbiYTulTSnft9QL7OTHvRZEtUbze1X6FXNJdbP5rSyaRecKhUheffoWcIEqG/RFdEewakObvTSQGcoNDSIYAEW0J1QStBOPwFNA+DXiCb4bS4RnfNVtTPLRn8OZaXehGrckVQf1dZfi54IFm1WKcurWKv4+3jBal/EDASHWbxr3Inx/Qh3msJYmiebL/Zu7Zv8MZEC5fznKrcG08vn+VD3C0=;7cS+8Oyye1riIaPfPAVfYg=="
 ---
 
