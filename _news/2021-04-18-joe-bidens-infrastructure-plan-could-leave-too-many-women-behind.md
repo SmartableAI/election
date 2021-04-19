@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden faces battery trade case test"
-excerpt: "Weekly Trade is a weekly version of POLITICO Pro’s daily Trade policy newsletter, Morning Trade. POLITICO Pro is a policy intelligen"
-publishedDateTime: 2021-04-05T14:00:00Z
-originalUrl: "https://www.politico.com/newsletters/weekly-trade/2021/04/05/biden-faces-battery-trade-case-test-794463"
-webUrl: "https://www.politico.com/newsletters/weekly-trade/2021/04/05/biden-faces-battery-trade-case-test-794463"
+title: "Joe Biden's infrastructure plan could leave too many women behind"
+excerpt: "President Joe Biden says his roughly $2 trillion infrastructure plan will help create millions of jobs. But many of the proposed jobs are in historically male-dominated fields and experts worry the plan won't do enough for America's women,"
+publishedDateTime: 2021-04-18T15:48:00Z
+originalUrl: "https://www.cnn.com/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
+webUrl: "https://www.cnn.com/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413133507-us-women-infrastructure-care-investment-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -446,22 +448,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Joe Biden's infrastructure plan could leave too many women behind"
-    excerpt: "President Joe Biden says his roughly $2 trillion infrastructure plan will help create millions of jobs. But many of the proposed jobs are in historically male-dominated fields and experts worry the plan won't do enough for America's women,"
-    publishedDateTime: 2021-04-18T15:48:00Z
-    webUrl: "https://www.cnn.com/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413133507-us-women-infrastructure-care-investment-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "How the Trump era made redistricting more complicated"
     excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes."
     publishedDateTime: 2021-04-18T18:04:00Z
@@ -526,6 +512,20 @@ related:
         width: 2500
         height: 1706
         isCached: true
+  - title: "Biden faces battery trade case test"
+    excerpt: "Weekly Trade is a weekly version of POLITICO Pro’s daily Trade policy newsletter, Morning Trade. POLITICO Pro is a policy intelligen"
+    publishedDateTime: 2021-04-05T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-trade/2021/04/05/biden-faces-battery-trade-case-test-794463"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "How Biden hopes to fix the thorniest problem in housing"
     excerpt: "President Joe Biden is proposing a historic infusion of federal money into housing as part of his $2 trillion infrastructure package, but the plan is already running into doubts about whether it’s enough and resistance from the very people he needs to ..."
     publishedDateTime: 2021-04-11T22:30:00Z
@@ -578,6 +578,6 @@ related:
       domain: nytimes.com
     quality: 108
 
-secured: "UK5W4Fr6hmNSmPt/qrjiPsuOe+oswRdPYED0gWU8v9ECz+8fxTkALTnAePr3R7B+c9McrALS9rd/P0vItqhSH0qcyvoKWNopWSYGzbM8UXD/iIeEILVF/739/lxYRT/5gVtFmMiOqd8/bvAaMFiNcunBd4dXuOXWjWEAkSQmz5kJmnivxBeXfouswoE54row4480idlJ/IKD26GH9S26eIIeM2JWl1agz47+XeydqWgJ00D/bk3XVjdJ51yefJFrNE6qDaRMl8izO5j/5KND1bnzUAMrO14yue7IxX3K1wV5CpVMJ2kiOf8golpSQrCwvYANEmyl92tJRaw5+Fb8GU52+dKAwAaR+mHT/5vcbGE=;U4UZlFst69UeUd12d142dA=="
+secured: "hraUgJQr9usnwGe0F0Xw+Qwz6pOo1CNTzmDLwOWrZ4kFPQr/yfqEefB15qgcZcEqRH2J2MjULhyu5XPdQnmmiCn6leXCOzbM9GxfdGEH4mNbMDIgRR/Ditnr7DoqNuLEskourSPHnXHULSik5vNgdsA734zmeHlBhmtrXrHMuRjysftLcp6c01oe3qlaJxx/KQyLrsNIUck402uijmR+rNZvhkCFnygOCwx8hcGoE9GSRF4cQ5SilV3qViThskjvkzGkry5R5liyJSiofTGVjFFetVRdOtBWYqb5SxKkCrjEOzHcY4dSx1Msm3Dj+YCa2nUMIYolVxtM3c+dAY0oZluTTl2tziNleNwIARc6DU8=;6c+v/0Z24szwMM86DCXHlw=="
 ---
 

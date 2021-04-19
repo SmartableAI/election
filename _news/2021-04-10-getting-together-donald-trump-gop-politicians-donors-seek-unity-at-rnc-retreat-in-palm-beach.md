@@ -81,9 +81,9 @@ related:
         height: 3024
         isCached: true
   - title: "Donald who? Lower-profile Trump still has grip on GOP."
-    excerpt: "Trump’s popularity with the base makes him odds-on favorite to be the GOP nominee, should he choose to run again. For now, the focus is on 2022."
+    excerpt: "Has Donald Trump’s time come and gone? After failing to win reelection in 2020 and getting booted from Twitter after the Jan. 6 Capitol insurrection, he seems a shadow of his former self. Even his “Trump”-emblazoned Boeing 757 sits idle and reportedly in disrepair at an airport in upstate New York."
     publishedDateTime: 2021-04-16T19:29:00Z
-    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP?icid=rss"
     ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
     cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
     type: article

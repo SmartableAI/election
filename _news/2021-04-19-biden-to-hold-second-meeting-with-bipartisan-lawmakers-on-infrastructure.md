@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden sees `win’ for US in electric vehicle battery deal"
-excerpt: "Two big South Korean electric vehicle battery makers said they’ve settled a long-running trade dispute that will allow one company to move ahead with plans to manufacture batteries in Georgia"
-publishedDateTime: 2021-04-12T04:32:00Z
-originalUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html"
-webUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+title: "Biden to hold second meeting with bipartisan lawmakers on infrastructure"
+excerpt: "President Biden is scheduled to meet Monday with a bipartisan group of lawmakers, all of whom are former governors or mayors, to discuss his $2.25 trillion infrastructure proposal."
+publishedDateTime: 2021-04-19T02:17:00Z
+originalUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure"
+webUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure"
+ampWebUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
 type: article
-quality: 125
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://thehill.com/sites/default/files/bidenjoe3_04152021getty.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_fad24c3069b54782a4557fd75b0981dc_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden sees `win’ for US in electric vehicle battery deal"
+    excerpt: "Two big South Korean electric vehicle battery makers said they’ve settled a long-running trade dispute that will allow one company to move ahead with plans to manufacture batteries in Georgia"
+    publishedDateTime: 2021-04-12T04:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden taps ex-Obama official as Interior Department deputy"
     excerpt: "The White House is naming a former Obama administration official to be deputy secretary at the Interior Department after dropping plans for a more liberal nominee who faced key Senate opposition"
@@ -78,22 +94,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558889840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3G0AT"
         width: 817
         height: 545
-        isCached: true
-  - title: "Biden to hold second meeting with bipartisan lawmakers on infrastructure"
-    excerpt: "President Biden is scheduled to meet Monday with a bipartisan group of lawmakers, all of whom are former governors or mayors, to discuss his $2.25 trillion infrastructure proposal."
-    publishedDateTime: 2021-04-19T02:17:00Z
-    webUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure"
-    ampWebUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 124
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe3_04152021getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Biden was tough on drugs for decades. Now he faces challenges in fighting money laundering"
     excerpt: "The Biden administration has a long road ahead to tackle the hundreds of billions of dollars in narcotics-related profits laundered in the U.S."
@@ -137,6 +137,6 @@ related:
       domain: myrtlebeachonline.com
     quality: 55
 
-secured: "M9lL+cFXvQ+0TcrRP1EtwqAhwjWS8O65IkdFxDC4W7klmZ64ZxOq+H67wUEAdnbG6tGTmLcvK3TU2d0T1rOGo8Ywp/6f6F5mDuImBFqoDGdAUMIZYhh8mc6wEkTkXjW4e9Kd1uZteWj6zbOixhS0uJavBh0+tfKfLbR/STu066xvwL9xrW94mEHgiV5bIrwIg/+0c24WMUvcJXzRZ4l8F7kF2YEeZCC+OUlDGxdV1bP5d4r601PY7buMSckpXUM4l8vWNS5kAT7XzoChomnTu5V9LbWR1JdAcMElCmgA2fdOp3U9q2k8qbe7Bs20uWSY4atLrG4E7jCh/9xb/B5GXiZvlHUgf5GL8nZi3LKVXuE=;X0x6rYixoqUiyV00CABuQA=="
+secured: "v5s7xPWK3td02MmPNaPqtBzVnZJmgfie8pm+sehSnRku6jqdcTtgpOKn/XpDptzLTlqthmgeHj6dMmse3in1oODafrDRCQOdwqX2+Xk8s3p07GDWFX+yE+qGYym0nWiD+ptwk6LiXQDRYqoB8wf3/rg/v0LC3g+/sIMWOy/YgO/6qDcXsTPmjrgC6/wbqNLp2tjFvZeOF1v7yOF+VVEs3+xO5rRT23MeN7OuDymDdO9ZMbZXd0MOJWQLsp7aTcWSA8CPVGclcd9E7U9zwbOzF2nWZNcIstyBrldDKuN4CQ1DksnnOeSZC8X+L6rfrZc8t/CBaPWv3SEcV+y3lf0za8oX8oPGYkJxB9R2syyo0J0=;2V9fVKHN4BUpWiE1X8ljWA=="
 ---
 

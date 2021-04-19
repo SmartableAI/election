@@ -1,31 +1,29 @@
 ---
 category: news
-title: "How Joe Biden escapes life in the White House bubble"
-excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
-publishedDateTime: 2021-04-15T15:23:00Z
-originalUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
-webUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
+title: "Donald Trump blasts Biden's Sept. 11 withdrawal deadline in Afghanistan"
+excerpt: "Former President Donald Trump said Sunday that President Biden should withdraw troops from Afghanistan before September and not use the sacred date of Sept. 11 as the deadline."
+publishedDateTime: 2021-04-18T23:44:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
+webUrl: "https://www.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
 type: article
-quality: 105
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60776f334206150018175938?width=1200&format=jpeg"
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/12/4_122021_beltway-trump-conse8202_c0-104-2500-1562_s1200x700.jpg?2d5ddaaeb405183379a395b29cf0e643d3db558f"
     width: 1200
-    height: 600
+    height: 700
     isCached: true
 
 related:
@@ -438,6 +436,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "How Joe Biden escapes life in the White House bubble"
+    excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
+    publishedDateTime: 2021-04-15T15:23:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60776f334206150018175938?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. willing to lift sanctions imposed on Iran by Trump that are ‘inconsistent’ with 2015 nuclear deal, senior Biden administration official says"
     excerpt: "The official described the negotiations as \"complicated,\" and said the initial round had centered on the specifics of what each side is prepared to do to return to compliance with the agreement, from which President Donald Trump withdrew three years ago."
     publishedDateTime: 2021-04-09T23:31:00Z
@@ -453,22 +465,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DRXHOUEZBEI6XFRLPDA5QIUIDE.jpg&w=1440"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Donald Trump blasts Biden's Sept. 11 withdrawal deadline in Afghanistan"
-    excerpt: "Former President Donald Trump said Sunday that President Biden should withdraw troops from Afghanistan before September and not use the sacred date of Sept. 11 as the deadline."
-    publishedDateTime: 2021-04-18T23:44:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/12/4_122021_beltway-trump-conse8202_c0-104-2500-1562_s1200x700.jpg?2d5ddaaeb405183379a395b29cf0e643d3db558f"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Analysis: Chronicling Donald Trump’s 10 worst abuses of power"
     excerpt: "Former President Donald Trump flouted the limits of presidential power unlike any of his recent predecessors, leaving behind a legacy of unmatched abuses that range from violations of longstanding"
@@ -515,6 +511,6 @@ related:
         height: 433
         isCached: true
 
-secured: "gr7/XY8TEU1xZaBqh5sAjSMqo5M5i2rrjnFJGkSsh3/leRCZqlW2YxxB3sNNJpSbtx94WEKxLnfjzuVehgL9puOkQe+Li42JbpjPfkwLtn5J6cqE3iPOjfruK46H9UswhBr4mfMSmBnIse7QY7UN+OldEZfLrIGaMR/BjMwPM1YAtuUicxbP7DSFPm30vNlZT0ZjxNWBepBS2GmgADASaU1ZKKo6vmUw80xTdOuJwKJa0B59S9GdkxLgxEnL1qWOzy1h8I9ijZAnGiUdaSobsCqg1CB4ShVmFH6yvo9qKfN38G1Zxzkk+hgth2PIq2uT5eTkWXYRv6im9z1slXFjVW36i5aRNI6mPEEPSQsULTEYOhETT8DKkXhVCrS46A4zmJltJRBfcPbmrHn1MXJxHXNwh9Z69hxO/90GsEH/yqd/Rpx5ZXRM/oD/Ji8jhAjD3Pv0KJi1UnXfxezHG/+SHEfh2CO3E0Uu4z9u+ZPvCdBZ3uyz81VJ2cEJ4QGmg/nhAUU8pZEqgomWylroTrpRYQ==;jmoPAmcy9EE8CPSwrgbJIA=="
+secured: "XWdtx0m9EVbrpq4itf31OzKU3zhCBBdWVxF0VLW503J393fz+4z2p3c8KKTrurkA+RTluPmp+FmqECNH/wUKNjovel9/X8hHjFdx7VFHcMp9E7dSCoeoPuQNxyiqotOJ3Uy4FK31/bjy7oixSavSa2fbokdp2xHjW/SrFFFWVufPo6bSuYlhIOK2RqaOT8++CpZmiW9m/II/CnEifaudqkusVrEOXhbUeH3Y1rRnFeEeRlojs15vurasQCImYTCZSbKCjyq1CIMBBvOpNWA8UAZsqcBnP/zIRULjk5mnMCY55oeNKx0/2eVwkCWPpKpCsGZZ3XhL4CsMIUgRCoVbR8wt3XdBhOhZwdeoYuVNn9E=;ZpLLbG+sM+twGBFa23RzVA=="
 ---
 

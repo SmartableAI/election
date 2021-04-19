@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Donald who? Lower-profile Trump still has grip on GOP."
-excerpt: "Trump’s popularity with the base makes him odds-on favorite to be the GOP nominee, should he choose to run again. For now, the focus is on 2022."
+excerpt: "Has Donald Trump’s time come and gone? After failing to win reelection in 2020 and getting booted from Twitter after the Jan. 6 Capitol insurrection, he seems a shadow of his former self. Even his “Trump”-emblazoned Boeing 757 sits idle and reportedly in disrepair at an airport in upstate New York."
 publishedDateTime: 2021-04-16T19:29:00Z
-originalUrl: "https://www.csmonitor.com/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
-webUrl: "https://www.csmonitor.com/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
+originalUrl: "https://www.csmonitor.com/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP?icid=rss"
+webUrl: "https://www.csmonitor.com/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP?icid=rss"
 ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
 cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
 type: article
@@ -86,6 +86,6 @@ related:
         height: 3024
         isCached: true
 
-secured: "QeKT+t/krpW18nYqigi//GbnKgXapmaV9P9y5+WPcb8VRAZiTysJO/HGGbhwWz+72UI/MJWOI8H4OXF3gDPY7oGSLoIfLgJ0sTiHA5D0b8NoN5R14n/mdZfkdCL7ChlHzqCHwM/+RgpNcRtZNT8VxEB4QSHDsyMAPRD5PV7bJx1ojznvEAP9ge4lGiQxvvTZ7c0VarwiRvnd/SckOSpocxkXSass7cfuGaT25cLPAXCgyfViB43cwhJ7piaDqWWC7+jlklYAJ6sSCFukLRM8qKIJ/1IVGrZvz3Yc0KWy3zDlP/WSNo+6RmdKxn7yhewdQm8NXMMKDa0KOQAEoV87IgQLD0UlehEl3uO5enpwk3fI4ZMIwg3crorzW7t9TchoFDHgqnsOGvspFZcoALLi3x43ihVYKo/s1D2H9iv21oEBfhIqEcNnQ0GJlGm9digzKC/lf7bNvzNUx9kcMmYgn1MQaSFF8P9VX+hFME3M2TJlSnDP04M8Ccqr+gEcNjHJhbTF88Nf9ohRjRxyeVoLcQ==;HJvYUTtIfv1F6ReGp2AzmA=="
+secured: "g9IsZIjA2LBWkYQkLOBpQBnYlIs76xdrI2CcmLmWXjcUsXZ86pCGtjVag36eGLm1bc+upXYF1WkDvz/9WiZscR7ydKunnCWG4O+AG3252Xv2ooMImj3XigoiBuTJ7hVItAkCy6FoDx1qFROMIMLghD1sPR/Lla+LllxkDDE2ZGFGP8TyLnYvfpvmxD1d2dGkTTfBE05zQWAKWSbkOhL1i6vBKilwyhQKPbOCCAukMhPCdqcBtlVP8ZYV9OjB+/FgzCIK4TFiTfug76uZObfiXQQz1N5YwtlLDb8OyTuIQkLXEDzAb2Y1Imi5lpyCdP8d6eL6+ETVfHf340toKd7mOgusXhmNfr1/cShxbKtcha8=;F8Ap6f3Atrfnv2l4bWL5/w=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to hold second meeting with bipartisan lawmakers on infrastructure"
+    excerpt: "President Biden is scheduled to meet Monday with a bipartisan group of lawmakers, all of whom are former governors or mayors, to discuss his $2.25 trillion infrastructure proposal."
+    publishedDateTime: 2021-04-19T02:17:00Z
+    webUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure"
+    ampWebUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_04152021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden to raise cap on refugees after criticism"
     excerpt: "Posted . President Joe Biden said on Saturday he will raise the cap on the number of refugees admitted this year to the"
     publishedDateTime: 2021-04-18T07:42:00Z
