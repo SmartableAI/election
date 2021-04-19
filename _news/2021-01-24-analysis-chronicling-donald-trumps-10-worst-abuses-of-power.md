@@ -300,9 +300,9 @@ related:
         height: 551
         isCached: true
   - title: "Gun control advocates pin their hopes on Joe Biden"
-    excerpt: "Nearly 40,000 Americans die each year from gun violence. Almost two-thirds of those deaths typically come by suicide with a firearm. Homicide accounts for 35% of gun deaths, most"
+    excerpt: "Congress has shown little appetite to pass the sweeping reforms that gun control proponents believe can stem the violence - but advocates insist there is reason for optimism. Three years ago, as Americans heard the details of yet another mass shooting,"
     publishedDateTime: 2021-04-17T00:07:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56682356"
+    webUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
     ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
     type: article
@@ -495,6 +495,22 @@ related:
     quality: 90
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/12/4_122021_beltway-trump-conse8202_c0-104-2500-1562_s1200x700.jpg?2d5ddaaeb405183379a395b29cf0e643d3db558f"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Biden Faces a Wall of Blinking Red Lights"
+    excerpt: "Over in Axios yesterday, Mike Allen warned that there are three blinking red lights facing the Biden administration: “ Russia is menacing Ukraine’s borders, China is sending increasingly ominous signals over Taiwan and Iran is accelerating its uranium enrichment to unprecedented levels."
+    publishedDateTime: 2021-04-19T13:38:00Z
+    webUrl: "https://www.nationalreview.com/the-morning-jolt/biden-faces-a-wall-of-blinking-red-lights/"
+    ampWebUrl: "https://www.nationalreview.com/the-morning-jolt/biden-faces-a-wall-of-blinking-red-lights/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/the-morning-jolt/biden-faces-a-wall-of-blinking-red-lights/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/Joe-Biden-11.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
         isCached: true

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-09-creator-of-a-scam-pac-that-targeted-trump-supporters-has-been-charged-with-defrauding-the-paycheck-protection-program.md",
+      "title": "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4",
+      "originalUrl": "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp",
+      "publishedDateTime": "2021-04-09T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-bidens-budget-wish-list-850m-for-central-america-aid-36b-for-poor-schools.md",
       "title": "Biden's Budget Wish List: $850M for Central America Aid, $36B for Poor Schools",
       "excerpt": "President Joe Biden is set to release his first budget wish list before members of Congress return next week, giving insight into his policy agenda and marking his stark departure from former President Donald Trump's priorities. Included in the proposal ...",
@@ -1290,62 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mueller-fraud-investigator-brought-in-to-help-vances-probe-of-trump-org.md",
-      "title": "Mueller fraud investigator brought in to help Vance's probe of Trump Org.",
-      "excerpt": "A former FBI agent key to special counsel Robert Mueller's investigation into Russian meddling in the 2016 presidential election is one of several forensic accountants working on the Manhattan district attorney's investigation into the Trump Organization, people familiar with the matter say.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aZEDcNpRbYg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aZEDcNpRbYg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/vance-mueller-manafort/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/vance-mueller-manafort/index.html",
-      "publishedDateTime": "2021-04-08T12:16:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

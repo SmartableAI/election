@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-01-28-analysis-mcconnell-was-done-with-trump-his-party-said-not-so-fast.md",
+      "title": "Analysis: McConnell was done with Trump. His party said not so fast.",
+      "excerpt": "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-27T18:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-biden-embraces-order-and-routine-in-his-first-week-how-will-that-fit-this-moment-of-crisis.md",
       "title": "Biden embraces order and routine in his first week. How will that fit this moment of crisis?",
       "excerpt": "Marco Rubio (R-Fla.) said Friday. Liberals say he is simply reacting to the moment. “The fact that Joe Biden has been seen as a moderate over many years can cloud the fact that here is a person ...",
@@ -1289,63 +1341,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-harris-reflects-on-full-circle-moment-after-receiving-vaccine-dose-at-nih-building-her-late-mother-frequented.md",
-      "title": "Harris reflects on 'full circle' moment after receiving vaccine dose at NIH building her late mother frequented",
-      "excerpt": "Vice President Kamala Harris on Tuesday spoke in personal terms about a \"full circle\" moment after receiving the second dose of the Moderna Covid-19 vaccine at the same National Institutes of Health building her late mother had frequented for work.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PSFmRgF791w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PSFmRgF791w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200801174111-01a-kamala-harris-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/kamala-harris-vaccine-mother-shyamala-gopalan-harris/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/kamala-harris-vaccine-mother-shyamala-gopalan-harris/index.html",
-      "publishedDateTime": "2021-01-26T14:26:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

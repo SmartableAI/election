@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-13-boehner-trumps-claims-of-stolen-election-a-sad-moment-in-american-history.md",
+      "title": "Boehner: Trump's claims of stolen election a 'sad moment in American history'",
+      "excerpt": "said that former President Donald Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in",
+      "originalUrl": "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 317,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/boehnerjohn_032614gn_boehner.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp",
+      "publishedDateTime": "2021-04-13T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-south-dakotas-noem-asks-biden-to-reverse-ban-on-mount-rushmore-fireworks-display.md",
       "title": "South Dakota's Noem asks Biden to reverse ban on Mount Rushmore fireworks display",
       "excerpt": "South Dakota Gov. Kristi Noem sent a letter Tuesday requesting that President Biden reverse his administration's ban on an Independence Day fireworks celebration at Mount Rushmore this year, arguing doing so would be in keeping with an agreement the federal government made with her state last year.",
@@ -879,7 +931,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
       "featuredContent": null,
       "highlight": null,
-      "heat": 800,
+      "heat": 820,
       "tags": null,
       "images": [
         {
@@ -1209,7 +1261,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1302,58 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-michigan-governor-vows-to-push-biden-for-more-vaccines-as-covid-cases-surge.md",
-      "title": "Michigan governor vows to push Biden for more vaccines as Covid cases surge",
-      "excerpt": "Gretchen Whitmer, the governor of Michigan, vowed on Sunday to push the Biden administration for more Covid-19 vaccines as her state experiences a worrying spike in cases. Canada ski resort linked to largest outbreak of P1 Covid variant outside Brazil Joe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/fd6c6bc2252ac2f148634994ab479994867cf65d/0_416_6240_3744/master/6240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4ec91eaf77cc644f8de22a21440c61",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
-      "publishedDateTime": "2021-04-11T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

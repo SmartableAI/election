@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-14-biden-accompanies-first-lady-to-appointment-for-common-medical-procedure.md",
+      "title": "Biden accompanies first lady to appointment for 'common medical procedure'",
+      "excerpt": "President Biden on Wednesday accompanied first lady Jill Biden to an outpatient facility in Washington, D.C., for what the White House said is \"a common medical procedure.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Byiy_FIv6Ns/jill-biden-appointment-medical-procedure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Byiy_FIv6Ns/jill-biden-appointment-medical-procedure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jill-biden-appointment-medical-procedure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-appointment-medical-procedure.amp",
+      "publishedDateTime": "2021-04-14T05:58:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-rand-paul-says-fauci-acts-against-the-science-wants-people-to-stay-in-bidens-basement.md",
       "title": "Rand Paul Says Fauci Acts 'Against the Science,' Wants People to Stay In 'Biden's Basement'",
       "excerpt": "Sen. Rand Paul (R-Ky.) continued his pubic dispute with Dr. Anthony Fauci on Tuesday, claiming that Fauci wants Americans to remain in President Joe Biden's \"basement\" even if they have been vaccinated against COVID-19. Fauci, the nation's top infectious ...",
@@ -1273,58 +1329,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-boehner-trumps-claims-of-stolen-election-a-sad-moment-in-american-history.md",
-      "title": "Boehner: Trump's claims of stolen election a 'sad moment in American history'",
-      "excerpt": "said that former President Donald Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in",
-      "originalUrl": "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 317,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/boehnerjohn_032614gn_boehner.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp",
-      "publishedDateTime": "2021-04-13T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

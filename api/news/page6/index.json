@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-12-michigan-governor-vows-to-push-biden-for-more-vaccines-as-covid-cases-surge.md",
+      "title": "Michigan governor vows to push Biden for more vaccines as Covid cases surge",
+      "excerpt": "Gretchen Whitmer, the governor of Michigan, vowed on Sunday to push the Biden administration for more Covid-19 vaccines as her state experiences a worrying spike in cases. Canada ski resort linked to largest outbreak of P1 Covid variant outside Brazil Joe ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fd6c6bc2252ac2f148634994ab479994867cf65d/0_416_6240_3744/master/6240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4ec91eaf77cc644f8de22a21440c61",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
+      "publishedDateTime": "2021-04-11T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-arizona-ag-its-important-kamala-harris-health-sec-becerra-visit-border-amid-immigration-crisis.md",
       "title": "Arizona AG: 'It's important' Kamala Harris, Health Sec. Becerra visit border amid immigration crisis",
       "excerpt": "Arizona Attorney General Mark Brnovich discusses the developing immigration crisis at the border and further probes the Biden administration to act on it.",
@@ -1282,58 +1334,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-creator-of-a-scam-pac-that-targeted-trump-supporters-has-been-charged-with-defrauding-the-paycheck-protection-program.md",
-      "title": "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4",
-      "originalUrl": "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp",
-      "publishedDateTime": "2021-04-09T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

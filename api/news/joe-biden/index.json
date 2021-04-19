@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-biden-rejoining-iran-nuclear-agreement-dangerous-lieberman.md",
+      "title": "Biden rejoining Iran nuclear agreement dangerous: Lieberman",
+      "excerpt": "Former Senator Joe Lieberman (I) provides insight into the possible dangers that can come from U.S.-Iran negotiations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman",
+      "originalUrl": "https://www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/05f3ddf7-c261-46ea-9295-4bcef6a64fd4/78d4a744-eb4e-48da-9687-b57d8cc43af2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman.amp",
+      "publishedDateTime": "2021-04-19T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-politico-playbook-why-the-next-two-weeks-are-critical-for-the-biden-presidency.md",
       "title": "POLITICO Playbook: Why the next two weeks are critical for the Biden presidency",
       "excerpt": "Get ready for a big two weeks from the Biden administration: bipartisan infrastructure talks today, a major Covid and vaccine update speech from President JOE BIDEN on Wednesday, and a two-day climate summit starting on Earth Day this Thursday when Biden will announce America’s 2030 emissions target.",
@@ -385,7 +428,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2C118D",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1503,58 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-pelosi-aims-to-have-biden-infrastructure-passed-before-august.md",
-      "title": "Pelosi aims to have Biden infrastructure passed before August",
-      "excerpt": "The road ahead for Biden's budget proposal 03:13 Speaker Nancy Pelosi expressed hope that Congress would pass President Biden's $2 trillion infrastructure proposal ahead of the August recess. During her weekly press conference on Thursday, Pelosi said that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/",
-      "originalUrl": "https://www.cbsnews.com/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 525,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/10/0d824d7c-80ac-4f27-bbe4-32660aa5c4f8/thumbnail/1200x630/01e1020ae337458e1bd4eebb79968e0f/2021-03-10t180559z-460159132-rc2i8m9de0ib-rtrmadp-3-health-coronavirus-usa-congress.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/",
-      "publishedDateTime": "2021-04-10T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

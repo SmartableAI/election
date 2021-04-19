@@ -147,6 +147,52 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden pressed on emissions goal as climate summit nears"
+    excerpt: "When President Joe The emissions target, eagerly awaited by all sides of the climate debate, will signal how aggressively Biden wants to move on climate change, a divisive and expensive issue that has riled Republicans to complain about job-killing government overreach even as some on the left worry Biden has not gone far enough to address a profound threat to the planet."
+    publishedDateTime: 2021-04-19T13:34:00Z
+    webUrl: "https://www.mrt.com/news/article/Biden-pressed-on-emissions-goal-as-climate-summit-16110812.php"
+    ampWebUrl: "https://www.mrt.com/news/amp/Biden-pressed-on-emissions-goal-as-climate-summit-16110812.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Biden-pressed-on-emissions-goal-as-climate-summit-16110812.php"
+    type: article
+    provider:
+      name: Midland Reporter-Telegram
+      domain: mrt.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Joe Biden attends grandson's confirmation in Wilmington"
+    excerpt: "President Joe Biden and First Lady Jill Biden on Sunday attended the confirmation of their 15-year-old grandson Robert Hunter Biden II in Wilmington. The service took place around 2 p.m. at St. Joseph on the Brandywine,"
+    publishedDateTime: 2021-04-19T13:26:00Z
+    webUrl: "https://www.delawareonline.com/story/news/2021/04/19/joe-biden-attends-grandsons-confirmation-while-home-delaware/7282335002/"
+    ampWebUrl: "https://amp.delawareonline.com/amp/7282335002"
+    cdnAmpWebUrl: "https://amp-delawareonline-com.cdn.ampproject.org/c/s/amp.delawareonline.com/amp/7282335002"
+    type: article
+    provider:
+      name: Delaware Online
+      domain: delawareonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/19/PWIL/436f944c-3093-45cc-b50b-ea1e31ec09d5-AP21107724024083.jpg?auto=webp&crop=5447,3064,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden pressed on emissions goal as climate summit nears"
+    excerpt: "When President Joe Biden convenes a virtual climate summit on Thursday, he faces a vexing task: how to put forward a nonbinding but symbolic goal to reduce greenhouse gas emissions that will have a tangible impact on climate change efforts not only in the U."
+    publishedDateTime: 2021-04-19T11:49:00Z
+    webUrl: "https://floridapolitics.com/archives/421565-joe-biden-pressed-on-emissions-goal-as-climate-summit-nears/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/1000-20-1.jpeg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "President Joe Biden pouring $1.7 billion into fighting COVID-19 variants as ‘nearly half of all cases’ are mutant strains"
     excerpt: "Officials hope the funds will help authorities and their private sector partners detect COVID variants faster."
     publishedDateTime: 2021-04-16T16:55:00Z

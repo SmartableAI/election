@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Gun control advocates pin their hopes on Joe Biden"
-excerpt: "Nearly 40,000 Americans die each year from gun violence. Almost two-thirds of those deaths typically come by suicide with a firearm. Homicide accounts for 35% of gun deaths, most"
+excerpt: "Congress has shown little appetite to pass the sweeping reforms that gun control proponents believe can stem the violence - but advocates insist there is reason for optimism. Three years ago, as Americans heard the details of yet another mass shooting,"
 publishedDateTime: 2021-04-17T00:07:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-56682356"
-webUrl: "https://www.bbc.com/news/world-us-canada-56682356"
+originalUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
+webUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
 ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
 type: article
@@ -502,6 +502,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden Faces a Wall of Blinking Red Lights"
+    excerpt: "Over in Axios yesterday, Mike Allen warned that there are three blinking red lights facing the Biden administration: “ Russia is menacing Ukraine’s borders, China is sending increasingly ominous signals over Taiwan and Iran is accelerating its uranium enrichment to unprecedented levels."
+    publishedDateTime: 2021-04-19T13:38:00Z
+    webUrl: "https://www.nationalreview.com/the-morning-jolt/biden-faces-a-wall-of-blinking-red-lights/"
+    ampWebUrl: "https://www.nationalreview.com/the-morning-jolt/biden-faces-a-wall-of-blinking-red-lights/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/the-morning-jolt/biden-faces-a-wall-of-blinking-red-lights/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/Joe-Biden-11.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
     excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"
     publishedDateTime: 2021-04-18T17:14:00Z
@@ -545,6 +561,6 @@ related:
         height: 433
         isCached: true
 
-secured: "aeJlp5EzimkKbCZM2edmRYdEar7iGUTpp6Ka6ToouoUWhh/xYR44J+S0set1SmkfsnmqM4197WN5pE69wL8Rs0ZojdgH4C6a51alcJfE9Qrqkn11G2liY3s7DRRnaYPC+cFRK9SaSY0RqBwx6G9VXdcUU8hYKdNrUIq4UAjbpvnoe6UzJt8Q0aZRfca5h9kl2iiXF33MxMHZlmzA+9ciJ5CwcgiPXz2aWZVJ+5b4/f5lP8BEvuIuig4CR9pe57b1EQwdBKQWTWEGmY7oD3nqqReV+vYMkeLRcN9J+ymstKHsZQu/D9Tdh14k+XW+vAXTLFENtnp0Becl7l5IuU1LPLQMCd2+aAN2RHcn3Qn2qIsDfsJf3J3ApvegIEr7Ze/9hBAne+FAhHk02zaRxTEfosKObsi9J5QfjvR8mrMxdTPuGRR5mBGNmzl+4EQuILIw3X2IA9FV5slbmqqWOtBI1FALvKViwnu33zzy+TMNcpTMZIEHlQvu7PfKA1oEte64bZJnsmzsl9Sp+/YHnsqXBg==;A6RUSuZeprmWzxFevKcinw=="
+secured: "b7peQ3wlBgpfbVlkuhlIRFKd7U6jI3GKpz78ac9RcCsEAY6KHijpemy6S8FrQhaCjIBCQXOnkoQwnZjn2Lge962/IaftFamNa+RgyHLPsuqWVlXj1gqn0xhzU9U4FmaJisGeQ6vFKPWm2Wzfu2rDnwygL2ydukmi7q0xAaFA9etaSmt0CGDtBI5fc8NZ7F8VzkBrMtThsOdxE+7eoUSXCnqVIxCDEBGwRlJaMwRHV87PoySTaZ6fHiBKUuAymc7QExz+nM4XQ7vzgY3fzmvebNVBeWC4EfSrX1mWV9ly4XpgBQpDoaDTIqdGNM1IDq4iwHxa+ckp2pvzb+FBmlOaRaGte02PJZgdU9jyNEYdzak=;O3nHHIgvFPN+0tw4Wl2T+w=="
 ---
 

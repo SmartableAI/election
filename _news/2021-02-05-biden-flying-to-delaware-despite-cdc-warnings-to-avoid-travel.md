@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-flying-to-delaware-despite-cd
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Tj-Ducklo-Tara-Palmeri.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Joe Biden, family attend confirmation of grandson in Delaware"
+    excerpt: "President Biden and first lady Jill Biden on Sunday attended the confirmation of their 14-year-old grandson Robert Hunter Biden II — the son of the late Beau Biden. The service took place at"
+    publishedDateTime: 2021-04-18T20:46:00Z
+    webUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/"
+    ampWebUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/USA-BIDEN__21.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "TG+oP8Qpuo+dBpSl1VJ0cGARQSguWRZ0DlUNUCzUwKFhmUzAUlHgk5CB5WbC0oOe4Wb5wQHCmkTIucdvoY0v4r6tpisfFEe0ekszWXwscKEGZaEH/bL1AiGLzIw5PzJiLVUJXXpLMGcyyvXVq2M69G9Ee97AXSjtPVTKpd2dd92cWebfiIzCLRFPSSWYyfT+LtjYWXEqqAH6ZlGhnHDKpRL39V0Fgn8AACoglfboFv1SMIdEd514e8twDL+a3OSzyaoCYk3t0petodd0IbNTBgfdo2Okv9VvMHwPbcG46zpuSpcZh0z/To0UJ9emNKkR9JrmaMXud6xE11YvwiJma+oNZOVVAHfjYzgTjCBS4Kc=;4lMZh29Fz9RDyS2Zsc2Cyw=="

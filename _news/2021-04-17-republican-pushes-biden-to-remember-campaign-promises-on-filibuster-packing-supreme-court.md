@@ -96,6 +96,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Immigration and the Essential Cravenness of Joe Biden"
+    excerpt: "Nothing so surely signals the essential emptiness of Joe Biden than his rapid flip-flop Friday on raising the cap on the number of asylum seekers the United States will accept. At first the Biden Administration announced that they would not lift the relatively low cap that Trump had adopted,"
+    publishedDateTime: 2021-04-18T19:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/18/immigration_and_the_essential_cravenness_of_joe_biden_540816.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540790_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "w2fmDjrrjbychZonpUMlF7lJGiq23r0AmWtDSD85m9cF1zXjdhvEjO7HDMykPYe7MHXiyvF1fu0kVpl4pS0YALcUEmYlh5AyD1MnXjT0e+oG74tux83HqVjWY0PL+I1DAJzJQyC3GnJKm6KrSYbymmmECq8ZuurAcjRMqUf+SifFinpBbnavS7ys6ftRHLaT68+l6+IUrlX6Sp3K7mjT6BE19GjhJBQc7SdM2HlAOIPlJYPqEIA+jurP+OqBnwtBDZ91ndyP6Qo2W5D3ld9dKUwQ//1gZzIOHqFDvoRya7O/O1jkc0Oftk/zkoM9KPD3KA7tHjWRi+Mig+8vv46OBMVDK/Cqy6tRvsPv+kpMeEk=;zU9m99ubTLiAki6iLxR2Pg=="
 ---

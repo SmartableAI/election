@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Joe Biden, family attend confirmation of grandson in Delaware"
+    excerpt: "President Biden and first lady Jill Biden on Sunday attended the confirmation of their 14-year-old grandson Robert Hunter Biden II — the son of the late Beau Biden. The service took place at"
+    publishedDateTime: 2021-04-18T20:46:00Z
+    webUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/"
+    ampWebUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/USA-BIDEN__21.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "PO04VaorUNgMeM8lKI/Oi12MnuWk5LUPauzZJVa1UOo+kYXiQY/Sp7ACDWhb3ecl/4kdSZBRBCY+fy0PlR9ykc+Fl6ahozp4f78UapUN3RXbJeIx9p+su5YAB/SMOSNHOVCCBAlA6R3GxRDKFyYl0+VwjUlC6qyojihVtzrN2hQYigncppmFqpvSoabbZWg3sBBET3GvT8AMAxoJuy3m7q9SKEzc45b7uriFMY4z976Q4PzZK4+amTvJimi7ZxYGLHOfSIDunpUnTA62/RPueCdVAN+xTAh9MXpyixJbLxuQZQ7Je0VMpKrQG8fwqxxRIz6Y/uJaqvmmB46Nd453OlKsXI53mkh2uzN045855qQ=;jQPmW+++32Nnk2eXFSMRLw=="
 ---
