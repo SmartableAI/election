@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Former Vice President Mike Pence undergoes heart procedure"
-excerpt: "Former Vice President Mike Pence received a pacemaker Wednesday. Pence underwent the procedure at Inova Fairfax Medical Campus in Falls Church, Virginia, according to a statement. He is expected to fully recover and return to normal activity soon,"
-publishedDateTime: 2021-04-15T20:01:00Z
-originalUrl: "https://www.bozemandailychronicle.com/ap_news/washington/former-vice-president-mike-pence-undergoes-heart-procedure/article_76f79267-263f-5bcb-9321-d2878f68831a.html"
-webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/former-vice-president-mike-pence-undergoes-heart-procedure/article_76f79267-263f-5bcb-9321-d2878f68831a.html"
+excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
+publishedDateTime: 2021-04-15T20:48:00Z
+originalUrl: "https://www.ajc.com/news/breaking-former-vice-president-mike-pence-undergoes-heart-procedure/VOUIBMH56NCONGVLQCF4S64ZOQ/"
+webUrl: "https://www.ajc.com/news/breaking-former-vice-president-mike-pence-undergoes-heart-procedure/VOUIBMH56NCONGVLQCF4S64ZOQ/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Bozeman Daily Chronicle
-  domain: bozemandailychronicle.com
+  name: Atlanta Journal-Constitution
+  domain: ajc.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+  - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -164,6 +164,6 @@ related:
         height: 889
         isCached: true
 
-secured: "Ei/KvjMweRcOAofqAyuY8qXvhKAhtrlx24XEj4H+zY+hdnlHOtnfL5IjQ/p6KtY0gaPauk+OWmTbmkqeaVgSkMmlMkeL4cMZiglyYZJT0hUFgFNUMTztL4Di3dxHE9fos6K/j5c6qUKA5BUKWX3nWisoJz1nwOaiAtQRItx542mhH/ScDyVLtS4av/HN4HAQap9U/LwSjZkoUPusYcM/JhbbBa1bBEw23NjP71WrNogOeSdjNIxxULRDerS5Rqklfp1qgt/Wldo6i1YW5b6hEDyRIDxo7ZH0C/H2j2RnFq+oLmEVxgCrsZAB0/lQJL4gMJMU9FIBdLtrnZmGtweLeGyFmxrBOy5NT7z2JGuSr+k=;YRF+pA8jJKxTZn5etDyFog=="
+secured: "oVLjivf7CHmpj2tInTXbMMg/l9d6UPBnJFtETpw5IyG3t+nrkNY8PvGaga+kzntipvHrG1XueFHHXwRrpfax0jTmvGfKOpU5nbdTSwcM6Y15CiyNkkI70UOURigkFuQFyQWZVgCdhCAiVC+AJxOAC9WXzmpv2JaUtcGUldCjHYJf/CHQAt1h7txyayykMcjFsO6T9UwS5ZzVQgK7IfmMj/egSYkVkf8V7RtZPOTC3VJKg39PldghVonlfn/1EClE4UhFZwVpgGePAW/lzvGkKqs6MxXXwMfb+yjbUrCkRcjIphDXEn4mH2aFAPpfk/JA86iIqhvgYY+n4N8xJ115MV7SL0KbEmvfHwWrxTnuNXg=;H8wuoDDbzS58azLCg1m0WQ=="
 ---
 

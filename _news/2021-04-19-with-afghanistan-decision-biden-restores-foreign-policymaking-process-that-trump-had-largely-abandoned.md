@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
-excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
-publishedDateTime: 2021-04-17T21:30:00Z
-originalUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
-webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
-ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+title: "With Afghanistan decision, Biden restores foreign policymaking process that Trump had largely abandoned"
+excerpt: "The administration held dozens of meetings that included high-level arguments to stay in Afghanistan before Biden settled on a choice he had previewed more than a decade ago."
+publishedDateTime: 2021-04-18T22:44:00Z
+originalUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html"
+webUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
 type: article
-quality: 132
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YL3YJFFAR4I6XBP4AZTE75CITU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -158,6 +158,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558164505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B109"
         width: 817
         height: 545
+        isCached: true
+  - title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
+    excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
+    publishedDateTime: 2021-04-17T21:30:00Z
+    webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
+    ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump Will Slam Biden and D.C. 'Swamp Creatures' in GOP Donor Retreat Speech, Says Top Advisor"
     excerpt: "Donald Trump's senior advisor Jason Miller on Saturday afternoon revealed that the former president intends to slam President Joe Biden and the \"swamp creatures\" in Washington D.C. during his keynote speech at the GOP donor retreat in Mar-a-Lago tonight."
@@ -302,22 +318,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17B3C/production/_117948079_fb_img_1535318390257.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "With Afghanistan decision, Biden restores foreign policymaking process that Trump had largely abandoned"
-    excerpt: "The administration held dozens of meetings that included high-level arguments to stay in Afghanistan before Biden settled on a choice he had previewed more than a decade ago."
-    publishedDateTime: 2021-04-18T22:44:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YL3YJFFAR4I6XBP4AZTE75CITU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Biden wants money to probe white supremacist beliefs at immigration agencies"
     excerpt: "WASHINGTON (Reuters) -President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
@@ -545,6 +545,6 @@ related:
         height: 433
         isCached: true
 
-secured: "3ZnC83XsUk0nTLlx4YHdMVmkQqDQLMaQOcwGpjhF+zhlSsWt/sWI6Rvvbr0An/GFEtv/WMQOdWZVoC/eZgTc25c/1k8aErlnLjVMmMg4wDPPJV2sXl5wjM9PhvS9eqpgj81oheyP70m5Ef/+6zT+dsb0asZ49J5h1amnQFsSLBvA2erRdmOJOq5OnZp88AKSYjZaA0+XmF1+lP9rpi0sBR8UElqGQTE7lqIdXadmAfY3XKBdGuB5PDYT0B67viEz9Fzh3li6A3nhL/TwZEmzKpTSMM8/6nqSdFstOJmVJbzACDreKi3ooWczYLnx9IG9lK3Fv8OZMSt2rkSG14CLne3mYjF76BQZwWjyFmFp6XNFtMxsapCA2NaalklH1GAITGCpWrFQW4sR18WRztZwPJHB/J8F+ZmZV//wsR4rAPwM5vLvAyHIAOb9xONfBE6VIxpPZsJM2rDpRM01s094Wz7NjikXv/u3yFpgwU0mIZtjlR+TisHAJlSvCwsr7eX4asIq2p8ghmY0dTfcjpzXHQ==;uyO5dKLO8Aa57jkvWFyFfg=="
+secured: "CxzC6j2hsikqbG0AGW70/wXoazBuOB1Db+i/TyxH6vl/MFVyHa3K2QVy4i2LHmzIe9ktzR4fcJfxp8c9SdJHcBHvA3kB8CqMzCj1HcVwv3xlPcYZF7KrHHO8fGUoQR8pS+d+C5pIjrPhFuA/s0W2UTN0jTiGFbih5aiZLrxaInWZFVge4aJCR8JjiR/sthxUS6iTDPCoWi82idMcmx72ZiertGM8+bkrdda/l+xXjmdVWb3kDKiWTU4jV53FYMaZ5rwqUVgpuhPacucrRAu3Z0gopn/zyhY0tGNNUSIPVC9SnzFkUzFDK6k3L8pBzEWEKIIA0FZ7I8QrHlbIXoP5paKtGP4w4bDwPWp5/3pBuZQ=;XtcQsOqzgATpa41D3tNl4Q=="
 ---
 

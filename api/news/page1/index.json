@@ -54,6 +54,63 @@
       ]
     },
     {
+      "path": "_news/2021-04-19-babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.md",
+      "title": "Babylon Bee editor in chief scolds Samantha Bee for pulling punches on Biden: 'Blinded by your own worldview'",
+      "excerpt": "The editor-in-chief of the popular satirical website The Babylon Bee sounded off at TBS’ far-left \"Full Frontal\" host Samantha Bee over the weekend after she admitted to going easy on President Biden despite years of hard-hitting jokes at the expense of his predecessor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
+      "originalUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Samantha-Bee-628x354.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/babylon-bee-editor-in-chief-scolds-samantha-bee-for-pulling-punches-on-biden-blinded-by-your-own-worldview.amp",
+      "publishedDateTime": "2021-04-18T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-pro-trump-author-eric-metaxas-calls-deniers-of-2020-election-fraud-enemies-of-this-country.md",
       "title": "Pro-Trump Author Eric Metaxas Calls Deniers of 2020 Election Fraud 'Enemies of This Country'",
       "excerpt": "Eric Metaxas, a New York Times bestselling Christian author and staunch supporter of former President Donald Trump, said deniers of baseless conspiracy theories that the results of the 2020 election were fraudulent are \"enemies of this country.",
@@ -1295,58 +1352,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions.md",
-      "title": "Pro-Trump lawmakers form caucus to promote 'Anglo-Saxon political traditions'",
-      "excerpt": "Marjorie Taylor Greene (Ga.) and Paul Gosar (Ariz.), are reportedly forming a caucus that calls for a \"common respect for uniquely Anglo-Saxon political traditions.\" A policy platform for the group, which calls itself the America First Caucus,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions",
-      "originalUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/greenetaylormarjorie_gosarpaul_041621gn_split.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions?amp",
-      "publishedDateTime": "2021-04-16T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

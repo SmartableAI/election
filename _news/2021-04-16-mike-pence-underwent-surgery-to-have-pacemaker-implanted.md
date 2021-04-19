@@ -122,16 +122,16 @@ related:
         height: 755
         isCached: true
   - title: "Former Vice President Mike Pence undergoes heart procedure"
-    excerpt: "Former Vice President Mike Pence received a pacemaker Wednesday. Pence underwent the procedure at Inova Fairfax Medical Campus in Falls Church, Virginia, according to a statement. He is expected to fully recover and return to normal activity soon,"
-    publishedDateTime: 2021-04-15T20:01:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/former-vice-president-mike-pence-undergoes-heart-procedure/article_76f79267-263f-5bcb-9321-d2878f68831a.html"
+    excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
+    publishedDateTime: 2021-04-15T20:48:00Z
+    webUrl: "https://www.ajc.com/news/breaking-former-vice-president-mike-pence-undergoes-heart-procedure/VOUIBMH56NCONGVLQCF4S64ZOQ/"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
     quality: 55
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
         width: 1200
         height: 630
         isCached: true

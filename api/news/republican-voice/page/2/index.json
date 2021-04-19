@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-biden-doesnt-agree-with-tlaibs-call-for-ending-policing-psaki-says-not-the-presidents-view.md",
+      "title": "Biden doesn't agree with Tlaib's call for ending policing, Psaki says: 'Not the president's view'",
+      "excerpt": "White House press secretary Jen Psaki made clear on Tuesday that President Biden does not feel the same way as Rep. Rashida Tlaib, D-Mich., when it comes to police following the death of Daunte Wright.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGptyjWzGXY/biden-doesnt-agree-with-tlaibs-call-for-ending-policing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGptyjWzGXY/biden-doesnt-agree-with-tlaibs-call-for-ending-policing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doesnt-agree-with-tlaibs-call-for-ending-policing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doesnt-agree-with-tlaibs-call-for-ending-policing.amp",
+      "publishedDateTime": "2021-04-13T11:26:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-biden-needs-to-send-message-to-migrants-that-border-is-not-open-national-border-patrol-council-vp.md",
       "title": "Biden needs to send message to migrants that border 'is not open': National Border Patrol Council VP",
       "excerpt": "National Border Patrol Council Vice President Hector Garza argued on “America’s Newsroom” on Tuesday that more needs to be done to “stem the flow of illegal immigration” and offered solutions that he argued will be more effective than sending payments to Central American nations.",
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-obama-talk-regularly.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-talk-regularly.amp",
       "publishedDateTime": "2021-04-08T11:38:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-atf-pick-david-chipman-alarms-gun-rights-groups.md",
-      "title": "Biden ATF pick David Chipman alarms gun rights groups",
-      "excerpt": "Gun rights groups are expressing concern over President Biden's decision to name gun-control advocate David Chipman to lead the ATF.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo-FSaSTR-Y/biden-gun-control-atf-david-chipman-assault-weapons-nra",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo-FSaSTR-Y/biden-gun-control-atf-david-chipman-assault-weapons-nra",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21097760253459-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
-      "publishedDateTime": "2021-04-08T10:30:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

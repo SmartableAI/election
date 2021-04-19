@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
-excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
-publishedDateTime: 2021-04-17T21:30:00Z
-originalUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
-webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
-ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
+excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"
+publishedDateTime: 2021-04-18T17:14:00Z
+originalUrl: "https://ibtimes.com/biden-plays-golf-first-time-president-months-after-trump-played-his-first-round-potus-3183006"
+webUrl: "https://ibtimes.com/biden-plays-golf-first-time-president-months-after-trump-played-his-first-round-potus-3183006"
 type: article
-quality: 132
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/17/us-president-joe-biden-speaking-at-the-white.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -158,6 +156,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558164505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B109"
         width: 817
         height: 545
+        isCached: true
+  - title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
+    excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
+    publishedDateTime: 2021-04-17T21:30:00Z
+    webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
+    ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump Will Slam Biden and D.C. 'Swamp Creatures' in GOP Donor Retreat Speech, Says Top Advisor"
     excerpt: "Donald Trump's senior advisor Jason Miller on Saturday afternoon revealed that the former president intends to slam President Joe Biden and the \"swamp creatures\" in Washington D.C. during his keynote speech at the GOP donor retreat in Mar-a-Lago tonight."
@@ -502,20 +516,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
-    excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"
-    publishedDateTime: 2021-04-18T17:14:00Z
-    webUrl: "https://ibtimes.com/biden-plays-golf-first-time-president-months-after-trump-played-his-first-round-potus-3183006"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/17/us-president-joe-biden-speaking-at-the-white.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "U.S. President Joe Biden Arrives From Camp David"
     excerpt: "President Joe Biden and First Lady Jill Biden arrive by Marine One to the White Hous in Washington, DC, on Monday, April 5, 2021. The traditional Easter Egg Roll at the White House with thousands of visitors was not held due to the coronavirus COVID-19 ..."
     publishedDateTime: 2021-04-05T19:02:00Z
@@ -545,6 +545,6 @@ related:
         height: 433
         isCached: true
 
-secured: "3ZnC83XsUk0nTLlx4YHdMVmkQqDQLMaQOcwGpjhF+zhlSsWt/sWI6Rvvbr0An/GFEtv/WMQOdWZVoC/eZgTc25c/1k8aErlnLjVMmMg4wDPPJV2sXl5wjM9PhvS9eqpgj81oheyP70m5Ef/+6zT+dsb0asZ49J5h1amnQFsSLBvA2erRdmOJOq5OnZp88AKSYjZaA0+XmF1+lP9rpi0sBR8UElqGQTE7lqIdXadmAfY3XKBdGuB5PDYT0B67viEz9Fzh3li6A3nhL/TwZEmzKpTSMM8/6nqSdFstOJmVJbzACDreKi3ooWczYLnx9IG9lK3Fv8OZMSt2rkSG14CLne3mYjF76BQZwWjyFmFp6XNFtMxsapCA2NaalklH1GAITGCpWrFQW4sR18WRztZwPJHB/J8F+ZmZV//wsR4rAPwM5vLvAyHIAOb9xONfBE6VIxpPZsJM2rDpRM01s094Wz7NjikXv/u3yFpgwU0mIZtjlR+TisHAJlSvCwsr7eX4asIq2p8ghmY0dTfcjpzXHQ==;uyO5dKLO8Aa57jkvWFyFfg=="
+secured: "ul3GCdmhoQoR/atrt3cJPr8+cVi9yuYuNQ1buzGuwf0dOL3rcWH8GuaoUN97JztsGZmJQ8j4cIKkClOxdLTBCgCR5t6NwrA3jgmroFFe2ylmaekTl4NtX/q7v164sDuNb6JMbfMMh69mlkMIG91cXDFf3a05WNIVu+w+M91xJgSnL82kBletIVttivzFs48oSodlvH5U1BMNO8ye9N7tVgB+OBkwVjgBEI5VQdvaW3x+Arg7bmCjd4tuWObO2gQLFJi2bcuC8/Pop0weme561RGbC4jfahPN9LMq/liZMsaQimbr74P+zjlRiexhNSkXvk0qISlAIiYAsGE3VwD9WWthN7sh68EkRq+rEmoyh3U=;UF3g/Xf+0dFXZ64YKVugww=="
 ---
 
