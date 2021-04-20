@@ -3,25 +3,25 @@ category: news
 title: "In North Carolina, Vice President Kamala Harris pitches $2.3T spending plan"
 excerpt: "In her first visit to the state since getting sworn in to office, Harris spoke at Guilford Technical Community College’s Advanced Manufacturing Campus in support of the proposal, which was unveiled last month on the heels of the $1."
 publishedDateTime: 2021-04-19T20:03:00Z
-originalUrl: "https://www.pilotonline.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html"
-webUrl: "https://www.pilotonline.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html"
-ampWebUrl: "https://www.pilotonline.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
+originalUrl: "https://www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html"
+webUrl: "https://www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html"
+ampWebUrl: "https://www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
 type: article
 quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Virginian-Pilot
-  domain: pilotonline.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.pilotonline.com/resizer/0AsFViKk2BxIY-BFBMcchU0_A54=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G57KVOHMDDQESR5XC5LD3PGACI.jpg"
+  - url: "https://www.dailypress.com/resizer/0AsFViKk2BxIY-BFBMcchU0_A54=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G57KVOHMDDQESR5XC5LD3PGACI.jpg"
     width: 1200
     height: 873
     isCached: true
@@ -392,6 +392,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "XScHKVgl2mZmg3sA/jAjIXe+JfRbUQed/+xGcyKe15L6AOEKNwFVJVjmbmOtgzaolq4JAH9Wo+L4vQOkvfgyvxatn/CAz4H63YBVy0LGaMentuaxKV7fsupbgR1TqsdcMquUBHswyYKWQrXlU6aTeNuhw484MaJ0IYXVh8np860ieH3/i8ImE5FppqJB+hcDp/B+BQLgJkGjAebpFLfTdEpnj6/VImpEEUFx5krhd+fNUvBRcpzMQ08xC13+oFYPSZNfl9XxfC6vP8OIQfUMjHEFLTY/U15+wU07igUg8AtYqr0DgiKIOCS6WH/QM4rCZSjFtD/7AZ7akI5xdJZfknsf/75lD7+TM1qw0yvwE08=;mQjo9g1JDLgVSho/btIswQ=="
+secured: "qTfOPLcrNFMuuTSVkq7C1Vy41rA/cx3LAmh7YwdT+/STXYs/0QKCMqNPIVx9Xf9SzDRLTRAC9yE+ZjfSdH8eLbyAsCeriVQryXo/QSPmK3MYe3SN/rbeHg9PfRMO2T6tvRck9gtUlN2PsYqXwto83+ezwhNFvCTJ7XDOy2Xju2u75JSn9boDrjtF0gq5iwpNAjcrO+tu82RF9S3Owb5Po/tGyBIOVhv+20CWwBW+gy8XjPdDCouwiw4o2SYGEV6Sgulj9i6ppPnDhUGRqgdD0Jl7Z3WLZISlzWWx9dDlNuIs80eupb/WglwFBhscPBAJ7XdPcDXD8/dqbFG8dEGccIYgERkeHWOAwn/fCK5+lM0=;zCmKcIoaJeIKY4ic36H8/A=="
 ---
 

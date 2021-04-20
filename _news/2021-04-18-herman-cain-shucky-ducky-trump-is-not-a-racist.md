@@ -45,20 +45,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "German carmakers the focus of Trump's ire"
-    excerpt: "Posted . Shares in German carmakers BMW, Daimler and Volkswagen have fallen after United States President-elect Donald Trump"
-    publishedDateTime: 2021-04-19T05:00:00Z
-    webUrl: "https://www.reuters.com/video/watch/id4FJ?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/587d1ffee4b0b24306ef38d2-1484595198557?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "jcTocOPiXM5R8mzSHLCMlKM4Ry/kuEugWLD/3ak+mufLkjLXh3bDIJPyF3O635IZQJ8cyOzZEgCUKxvtWqZ9ZsUlKUlcewEQi5hrTA9ocImNb/4agLsPHdgPTC0j1jOig7Oore7GY9cPVwccgOK24AcaEkX/uKMnNbo0qKHVeRW4NcPnh34rx5pHBiXkx0WlLUJfuhX7ZkBeeaBShuVDCH3Wlr+CE0ydCKCw5JiW/SSyMAtBQ5b/MqQ7zXJ5YcoISOSvNkaA5bPMIwjiHOz/IuF4IqYc7b1s5YrlMIeCKpWrS6ptsgy5MDaklsYuy2BIsuM1AumEEQK2zaIgAD1kbt/KnZXut3/IQ3eXPE/dkl3InUN01FRBCZmjwFwaseLZC04fyIurU3tvcpZCpugi+6n/CuN71H1lozdhdsV/oVNkYZ4inLmGcnFD2CDwXBkR+4jrHZh+udQycmYPVUWLoiMQDOtNU01mDcd52WsWjlQ0IO+S9owFaW/EtbDeoRwtwPZ9urpeRgsVVVxqB6hpkQ==;wvRLEZ5+tETrmxlNcYHPPA=="
 ---

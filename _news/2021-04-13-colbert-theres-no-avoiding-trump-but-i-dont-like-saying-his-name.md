@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-the
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Boehner says 'unemployed' Trump 'has nothing else to do' but 'cause trouble'"
+    excerpt: "on Monday said the \"unemployed\" former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief ..."
+    publishedDateTime: 2021-04-12T17:38:00Z
+    webUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble"
+    ampWebUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/boehnerjohn_072915gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Stephen Colbert on Donald Trump's \"one saving grace\""
     excerpt: "The \"Late Show\" host tells \"Face the Nation\" what he thinks of the outspoken businessman who has dominated the 2016 Republican presidential primary."
     publishedDateTime: 2021-04-12T04:21:00Z

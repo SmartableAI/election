@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boehner lashes out at Trump, saying he 'abused' voters' trust"
-    excerpt: "Boehner on NSA Whistleblower: 'He's a Traitor' Former House Speaker John Boehner on Monday kept up his harsh criticism of President Donald Trump's role in the Jan. 6 riots, saying he \"abused\" the ..."
-    publishedDateTime: 2021-04-12T21:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/john-boehner-01-ap-iwb-210412_1618236535797_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Boehner says 'unemployed' Trump 'has nothing else to do' but 'cause trouble'"
-    excerpt: "on Monday said the \"unemployed\" former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief ..."
-    publishedDateTime: 2021-04-12T17:38:00Z
-    webUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble"
-    ampWebUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/boehnerjohn_072915gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Exclusive: John Boehner says Donald Trump 'abused' his loyalists by lying to them"
     excerpt: "And the election of the even more disruptive Donald Trump as president. Boehner's new book, being published Tuesday by St. Martin's Press, is titled \"On the House: A Washington Memoir.\" But it is unlike the classic Washington memoir, those soft-focus ..."
     publishedDateTime: 2021-04-11T14:40:00Z
@@ -78,22 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/bd333c30-2b30-4e72-8ea0-d705680ef3ae-XXX_20210405_Boehner_JK001.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Donald Trump Supporters Protest Pirate Festival Cancellation With 'Trumparilla' Boat Parade"
-    excerpt: "Each year, in Tampa, Florida, hundreds of boaters hit the waves to celebrate the Gasparilla Pirate Festival, which also hosts a land parade. Although the event had been called off this year due to the coronavirus pandemic,"
-    publishedDateTime: 2021-04-19T15:41:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1779836/trump-supports-florida-boat.jpg"
-        width: 1024
-        height: 728
         isCached: true
 
 secured: "/7LfYVSpKm1JWfQByTFnJCbhKivF+Xa3HlRMnwaNIlkWNTkcDsVjlSJS1SpL0gy+YB9D+i2HvNxh4w+1LRlWiLu9AbqptPomDH9fSqc+qG1aYB050ykJ7PgMWAxFROBTNeHIm2fgCjUUOas7745WpvJA82vA8ksT2FJaXJ0314Ep5vEaW7pT6Y4KYqgTAogZW6KscI4jynelpAvrqQtyh4vfEcQwAB2JxKqNP7R+gJ3UiUCnfUDW/QIOPbVLVCEMD5gw6FjmiNEEUKhkVmwO9RUflPfEVhCVfgM/NmIkKlquL3RQvOpsIGktP6JQJGWZnt+NlnNk/Uisdc0OBbkEeKTA0kW+KoFy5hhOJuQnzKlZCn1gjTsJYZ4Dvwz7b9sWeY/ivPvxU33jH+DHzDsZsa+Qhel2K/xahQthpJpVEtYFR9yCjFwhcxPLvuqd6zWbVLUhRnrKRDv2mqBBHDUbmZe+r5WxyD39FgSaWnkhBWvZplbMfmMd6cBdVPbOdAC8ODiu3RZVdkjCeD+7axcU2A==;r0+mDlg6yGzUXJDoss/81w=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-do
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512?amp=1"
 type: article
 quality: 122
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1024
     height: 745
     isCached: true
-
-related:
-  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
-    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
-    publishedDateTime: 2021-04-14T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Zpi29/9No7VfAwnojt+INL0dx7T4bBRXeQuSpCwtY/Tge+qf5wwTOdjzvQZYvxpC6IwGq5XnG73bRqdzBLbR5LXiZ/fW9/w7lVoyX8fiubJWDcd6ORUCoQ4/XiGqA6QO6+1w1ePAp6gsli3UJIzqSpbPWry2pmSK8RoucJbCSFfSntAn4r7uIGGMi2g20UNm8GeDqGSGgybEMR9ewD3nFMow68ipw8h9tJivjTj6YsK0Eh23feiz+os9hfQS7bU0fmvKkRXGm9zRIh7PjC6k3xwTsLYj0m53OquEP+QZ/l6EWOGdLR6ZNxgie7/JJHPr6tl4gH6+lmmDkEWrLL5yM0u46OTgraZNiTRMty3HyB4=;sfyJxGBINNumwaL9p4F1Ng=="
 ---

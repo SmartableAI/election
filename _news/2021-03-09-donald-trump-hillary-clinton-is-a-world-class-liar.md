@@ -45,34 +45,6 @@ related:
         width: 1440
         height: 958
         isCached: true
-  - title: "Donald Trump goes after Bill Clinton in response to attack ad"
-    excerpt: "A new attack ad against Donald Trump mashes up a number of his questionable quotes targeting women. In response, Trump tweeted that maybe Bill Clinton should run for president instead of his wife Hillary."
-    publishedDateTime: 2021-04-17T12:17:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-goes-after-bill-clinton-in-response-to-attack-ad-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/17/ae74e810-d969-4f9f-99b9-3a4ef41bf4be/thumbnail/1200x630/fcd4fb0d9539667368fa4dc650eb9345/0517-cbsn-wtd-trumpattackswibill-1064583-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hillary Clinton calls Donald Trump a \"fraud\""
-    excerpt: "Hillary Clinton called Donald Trump a \"fraud\" for allegedly ripping off students at Trump University. This comes as President Obama jumps into the 2016 presidential race, slamming Trump's proposals as \"crazy."
-    publishedDateTime: 2021-04-18T02:26:00Z
-    webUrl: "https://www.cbsnews.com/video/hillary-clinton-calls-donald-trump-a-fraud-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/18/8a9fcd20-3b61-4e0d-a1f4-2c29ec2255de/thumbnail/1200x630/8e2fac14c92f5dffbdebed282a1d343e/cbsn-0601-clintontrumphhy-1071908-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zatEiXmE56RRMCfXHFJPGLplbqqJX41x17Bfukd+sH/VH2yW1rpb7df/RnQzjF4EdEsOfSpEJX21OXOWETNrsLBe3tIjskrMYcgMlq4GgSzXE+/EvpOxFjP4iy6c8+hdidaxOAWxlAarw3kEMo8dYPS0qA+OFL0YHbRfRGAj21XbEiflU5L5f3mbaVhbqJrv897w2CMS1q20glv9QTOtu1kCWNl1oBRMNtsQOhIaTaLm2D3+HuFN9sCTl4TOWHte7oVKV+77IuBsxJFaEPGlOC11C6NujX7+M3EJguu4X8SVvW71RK/10mMzx/sYALfQTQQv2DoiI7r3KasVzLBZDjund4y3VLt3wLk8/KYvRmjenHaFfYfSAViE8yFIapI0zdtQrt7PRXwCkMaCtNRuiWSwhiHEk504j2d6LCWmabwWl76FXughjXA/spLSK10o2gEFGuMv0OOqmI7lCMzfkSl2sa8OX97RlrJDBMnOqlrvjsxKTUdBv5DHYyupJGQBfLeliD+z1EZ833gQ7PTlKA==;R9H+OKGpdZfdz30w+FNVDQ=="
 ---

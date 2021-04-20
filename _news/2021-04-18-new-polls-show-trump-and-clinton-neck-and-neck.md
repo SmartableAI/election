@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-nec
 webUrl: "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-neck-and-neck/"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: CBS News
@@ -29,53 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Rick Scott navigates Trump, winning back the Senate — and his own ambitions"
-    excerpt: "As chairman of the National Republican Senatorial Committee, the Florida senator is putting himself front and center as he leads the battle to win the majority in 2022."
-    publishedDateTime: 2021-04-18T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
+  - title: "Trump shifts focus from Clinton's emails by praising Saddam Hussein"
+    excerpt: "CBS News' Major Garrett reports on Donald Trump's response to the FBI's decision over the Clinton email case - and his decision to change the subject."
+    publishedDateTime: 2021-04-19T09:54:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-shifts-focus-from-hillary-clintons-emails-by-praising-saddam-hussein/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FPDDKZTYRII6XFEJR562ZVI6OU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Pastor Darrell Scott Claims Capitol Riot Was Congress 'Set Up' to Impeach Donald Trump"
-    excerpt: "The New Spirit Revival Center founder made the claims on his radio show while discussing the recent review about the January 6 disorder."
-    publishedDateTime: 2021-04-15T15:18:00Z
-    webUrl: "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878"
-    ampWebUrl: "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1778410/darrell-scott.jpg"
-        width: 2500
-        height: 1662
-        isCached: true
-  - title: "AG Merrick Garland rescinds a Trump-era memo curtailing consent decrees in investigations of police departments"
-    excerpt: "The memo comes as the Justice Department shifts its priorities to focus more on civil rights issues, criminal justice overhauls and policing policies."
-    publishedDateTime: 2021-04-16T17:05:00Z
-    webUrl: "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://i.insider.com/6079c16a44f4540019207203?width=1200&format=jpeg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/19/ab2775b1-3360-4798-84f8-ed746dc34232/thumbnail/1200x630/b39d84bc0b1596ec9484322906eaef9f/cbsn-trump-saddam-0706-1089252-640x360.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "3jFBZYk8uKRyDQ0NlvrlL/eq8KlbEwtT+S5E5sDM1Fky2wFZa5SMraqUUKyNa1Ibvkl5ErB9o/wF6OcK8pXU83i24NufwkHZolc+R+WpPhGxDfVMico9Gq+KTSibH3ASb/s7Bcg+sKoN7BDJMQnUWw0L+WgBxu22RQc66Y1tP1rGze/NcheWjPfbmMLOEorREXb4iXE2aVGemFMf4QEP8FBROxMKvHf6OK1PMXvaniEOXWD38RWJOSEwsoNwZHy5C/hYEzvAiagneffoSkG4xHh9vhqxNM2bkbpXTElttWarQO7r7Td+mRei42CaK1Pf4r9MYBtp9v/KJeEs1Nl/jzU/ixjeVuq33rs98h+TCYv+P5ITrEezfZSm157GANWD/iCPyqGCw2VUwW5bC4/wSv4u+Ci+J7l0wI9h9wcPKFqMztXb7V8TsLLYDdXAngFj/bbMtjEyhIllTo9o1wsm5GLd9jIqIw7gnsHGKb+sPMZGPnF5o0w++gEvgydx8yLo6ZCFGJTE1f6qiObyVOApTw==;MNP8zTdEDpuzuavUw0aaiA=="

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
-excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
-publishedDateTime: 2021-04-14T11:00:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
-webUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
+title: "Donald Trump Says All the States That Voted for Him Had No Election Fraud"
+excerpt: "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards."
+publishedDateTime: 2021-04-20T01:32:00Z
+originalUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865"
+webUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865"
+ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
 type: article
-quality: 107
-heat: -1
-published: false
+quality: 139
+heat: 459
+published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440"
-    width: 1440
-    height: 918
+  - url: "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg"
+    width: 1366
+    height: 911
     isCached: true
 
 related:
-  - title: "Donald Trump Says All the States That Voted for Him Had No Election Fraud"
-    excerpt: "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards."
-    publishedDateTime: 2021-04-20T01:32:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
-    images:
-      - url: "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg"
-        width: 1366
-        height: 911
-        isCached: true
   - title: "Boehner says he voted for Trump, didn't push back on election claims because he's retired"
     excerpt: "Former House Speaker John Boehner (R-Ohio) revealed in an interview with TIME that he voted for former President Trump in the 2020 election but&nbs"
     publishedDateTime: 2021-04-13T14:19:00Z
@@ -159,6 +143,22 @@ related:
         width: 1024
         height: 728
         isCached: true
+  - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
+    excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
+    publishedDateTime: 2021-04-14T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 918
+        isCached: true
   - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
     excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
     publishedDateTime: 2021-04-14T16:49:00Z
@@ -269,6 +269,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DKVajUdJi0znGEUK/TvMpyDmh+iQzmrVq47L03Rm2aXYE/L6Jf9JoIVxPZ0dguJ6boksPCK+H41S4m9OcppmvuNdyaXkLQDfbsIGhbI+XMUpGVqYy4DAHBfhQw5+R35Di4yRCpKlUumlUw2kTaqnO84S2hzz8FR77+zLyUDm0otcrhVjjtMjKIiFKr7AiXMzhnE6X9Aj/cHYvwi9IjBg02F/gLwFH7ceAypXffcG2ItkY3mQjgri+RUQpPEFz8m+HlZfvjPuBKuobeUaIT5Ixmor6hwMzhD2dLlcs5964RedMhyqCM40N/prhtuNOWpGI5AuT3wrEtEiaEiySXcWaYTjBspIuP5JnheEzbTSEYM=;OswtlM92TYRxI/V0zhFPDw=="
+secured: "AmHOJR2BzywbZZMpTc+D1oav1O3fc87wt3/FADZVioyYMsmyvHvllHLb2eXcU/R+VR9oyfHriLTsS22FYN0g8Tpa4qX2ugy25+YaZwbXY1uQMgMxaWnETYsVFS+/+/cY7Q2OXjapl3LFp4DeINfU0IiBE0tyki6yKKCV7y6MjJ7tXKgoNoYsve4YwwB1cQIxfI5MR5fpHNBbQ2WiqvhCacfOf/XxDF+n3JRi+xctLPpb0JVOQxC2ZFa6l8iSGZP3ZEz6XZnAm/c+Fug8UvjLqLifMEVC16oeaXfxAet7QYr9+yE5R5F6BCe+7D+x+W6/F3RFY8Ew1FiZdOxk/ghNTZ8OAzV7AIfvhhcmzDAd1vo=;mBJqeBBDpVUqOkTuhxuxjw=="
 ---
 

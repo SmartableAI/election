@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-fr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1"
 type: article
 quality: 121
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Mike Lindell Says He Had Dream About Trump One Year Before Meeting Him, Credits God"
-    excerpt: "MyPillow CEO Mike Lindell on Saturday said that he had a dream about Donald Trump in 2015, one year before the two met for the first time. During his address at the conservative Freedom Conference held in Broken Arrow,"
-    publishedDateTime: 2021-04-17T20:17:00Z
-    webUrl: "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445"
-    ampWebUrl: "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1779436/mike-lindell.jpg"
-        width: 2500
-        height: 1580
-        isCached: true
 
 secured: "lXVUJqexH9kZP5UFWawfnvG3kTn7f/lmDEWPDMSkFqqE2Y4XzfES9x+MBbZiettyWVAx/WjR/E2Ft+d/J1A490lB+gwgOcgemvBwKHXJQk+PtKZPOtyrjIM6zvkHXB/whuFi2ZpAicbMkcdI6PubGyVH7cD/Qq8KWJF3GgQb3XDIoA+ztj994oH5hbSJFBeH9NJdfb/1ZxmBC1l3OGXaNLM7cJFeBO0zMApiMdcrrw3L7gQTBIA2PjIw8PjfxWeT7f1wYawu9xTJP+5Bm6dmeypr7xhYNkNCn4NrzjeYnpkOSW7ECiTCjSxfZ9RcNqBQFv7IfqTCs75PbBJrWCtHuMK9kcrpVW8/yU2sNeRL4BM=;wfTJuad5WGEKt/tzF9TJUw=="
 ---

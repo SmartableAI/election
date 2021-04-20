@@ -2,9 +2,9 @@
 category: news
 title: "Biden says he’s willing ‘to compromise’ with Republicans on infrastructure bill – live"
 excerpt: "President meets with a bipartisan group of lawmakers and says ‘I am prepared to compromise’"
-publishedDateTime: 2021-04-19T20:16:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607dd0cc8f08a84aa5917cf9"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607dd0cc8f08a84aa5917cf9"
+publishedDateTime: 2021-04-19T23:24:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d9b868f08a84aa59179e9"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d9b868f08a84aa59179e9"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
 type: article
@@ -243,6 +243,6 @@ related:
         height: 683
         isCached: true
 
-secured: "LFFCW6vet0cF1WhFWQiyALjLU93hiLo2zQ8d+YnH7UPwtfYtZOGuwSag88zKVkdXZcTSo+htj2wDH0gnrn3wh7NnEz05gPRdafR7gl4l91SVlyzrHVsfs8ucAGCAhW8LwLU/KM+TCfRgQNrby/hgiDmKf45KaezDpq2vlCiplxPncq1C4iwv7uYrZzwudBi+FiQuU3sLHCwGypg1coUzs+Okai3ZyoUXxuU1ogHduKk33Zo115T/tDqGcQ6f+xg3suaavbyoT2kJ03MnYvm6WG74p1DqEBRtRp/VNjLKlspEqn2OWDEWcbW3Lle6DgevbC3vsimz/IwCOi6aSlqdel5vbt4jY9deXCBCYEykIEJZm412nWvwtdUSHcxhpGYfbTfzuHBiZdmpATSrqQNWoDppkyQYXQe03tCCM3TDOeYkUuZkc4ad2CNBmm2GuU60BLHp313zEepLHEvLaaNryWLGyQco2+L8GM9eSq77PSystCc/lHwc0oR28RWLxTzavnq1qKjeLbzVYqFHZMHWrg==;JHm6NywlCGAazoPKtwVCyg=="
+secured: "0ywW07eTVBK4xbOvGqymIgtKtvc+CjSTb8emtNZDc8eZEzKP5sUYa0wsb88sRl+vcAZSjhYeiPGPSOW9hE+23VhDKVeQimlV4HTs1QDCtLJfuGwQpFAxg330GuUAwWBIQV2LbAZHO2qoIT1vMLJhCRkz5rtjX508CEj4fUj0wW2YwC3VCupwco3jSQURY+43WNea/HE52dSBRYPTQJGrnOMNR64bmtPTEyvMl6UYCI5aoN50i7qCKZObgmAOldyj/CruA5Nm6seHGHNS7GJDwVfHwqmfSnzpM6Gqaw2AItpcQJq13KgFhWZDjtK58fwSd/4cePmJScqrlEV6OAw7TDumm7G0j6kflBzl0jngAxg=;uE0+TGNV7QehMOjUuuKrVg=="
 ---
 

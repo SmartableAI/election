@@ -91,8 +91,8 @@ related:
         isCached: true
   - title: "Biden says he’s willing ‘to compromise’ with Republicans on infrastructure bill – live"
     excerpt: "President meets with a bipartisan group of lawmakers and says ‘I am prepared to compromise’"
-    publishedDateTime: 2021-04-19T20:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607dd0cc8f08a84aa5917cf9"
+    publishedDateTime: 2021-04-19T23:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d9b868f08a84aa59179e9"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
     type: article

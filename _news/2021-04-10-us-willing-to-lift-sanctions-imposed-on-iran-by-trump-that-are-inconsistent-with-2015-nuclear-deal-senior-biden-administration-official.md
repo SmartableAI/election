@@ -576,6 +576,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Cowboys for Trump Founder Appeals Recall Bid to High Court"
+    excerpt: "Cowboys for Trump founder Couy Griffin has filed an appeal with the state Supreme Court as he seeks to fend off an effort to recall him from office as a county commissioner in southern New Mexico."
+    publishedDateTime: 2021-04-20T00:50:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-04-19/cowboys-for-trump-founder-appeals-recall-bid-to-high-court"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "qxakAdTkXqLMa1N1jpsewl/SFyYWvYXe6Q9ISTj1c9C/0xguRvmJGHEKq4vhQCLsTqrNI0wbeU6luSXnp+hz3f6O28Id5IYDlGah0ErzNfZoUsafoOco6ioFPtK3ReY5Fe1yqqYhHR/7cWCFuIWY8dSTd/2fIwd07fZroIBKIvraoZN22JKfKUxxnKKCL1zcVV8F7LFJibqkwpEhxmwlME8Rw2avE6q6ugND/QCvkE86kFvKQSDukUOYtRF4Bh9FTH0alZd2ogjMc3QzV9iUbjks1wOR2pGgXAryCan5aXZblGq1/Q0bwlfYd4fbe41rjP24/pGiS5xCC5mLdNGrlEdhCv1jqJsDn+ST6f5tzq4=;kbKM0awsYRZAmnM22WvQpg=="
 ---

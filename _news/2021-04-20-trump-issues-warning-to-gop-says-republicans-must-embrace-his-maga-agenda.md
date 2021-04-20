@@ -109,20 +109,6 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "Trump gains endorsement of the NRA"
-    excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
-    publishedDateTime: 2021-04-17T15:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/17/cb5d15c5-812c-4091-8fa7-22e568000775/thumbnail/1200x630/debff44a0ccfb1c8355835c4d00530a5/eve-trump-nra-1066566-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -162,6 +148,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "kB0gXOgU8U4oBRaTsPjL8bEjcZqwioUfAtpgA8+TYk7OB/MMRHQirkTmfAoDYeM8R8fSYKO/nACH7yCuJZId7+MAE5LO8/K+U4j5s5CObENObxs9Sam+Ir4UL0b1EZyWuMg89EHJN2xfHC6xrUQ4PA6MHmZvyTgG+ZfIG8xVAmpllRYDCPUQE45PKr8GCVlKQ0uunqYQQuZlwjPX4Oc5hF2extKpeI4ZWokSd9Y1hkItGeFxTzOvffcUYmlSgrQJtimezd7Mj0y70y2yLpNYsALXpoO5vks9j+jswHfznb/tyR0oRyOqwHbGAxowkmG0tia4xYq8K2GkTpIx5AO+NFPYDPwVFQfYfVtpBCkElNk=;gXiPFZCsylvoJBEoWMcW/Q=="
+secured: "bCMitkD+qYt/R5PB8pGwiGVtuBtzwfpSw3ewvTh1dD+4k6Q+G+2+9gqZRAzro63w+DrrPLs7ZHAybFmYfUF2Yw3Q3Rwf0wszEIoUAOcWXarnSkW1c/b4wcTvDMECBf2uYvkqZ845BUI2TIbBVU7EfxHfYmW5hwCYj5r2Jb3j35NyOUbQE6nL+Sbo5Fb5W4dGAlTWBivUNNd66Do0MYb7MYSUHRyRO0nxalAvFIudLFxHn5FF5KZn0b4iYHkAbUS4IaZMe9uEN2vWE91oc4Q0XVeiyKspGdw8qbBRTVjOfixhaV4rOcXoUIIjl0PO4PFNEQ/GwF5xLgXaj5GerAm+lCs5J845rQ1nHQCdbvEGt4TaBK536HHT+NINIzO68YMjOKGhhodnkym8jW8N+zNlR4xQh5vW83Cvvd+qFBrdD3349AhW8QAES2TLHECCOxVmTYKdLyODnTTJ/02BJkTdEMn53pVvU2nmGxXGRObG9bu78oFK1fG6aW/ZGu1MR/PnL9La27m1nNao0gUXntoxBw==;IHTDY1CEOoyLFcAQmLuUVA=="
 ---
 

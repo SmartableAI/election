@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules"
-excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ..."
-publishedDateTime: 2021-04-12T14:03:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N"
-webUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ16N"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ16N"
+title: "Cowboys for Trump Founder Appeals Recall Bid to High Court"
+excerpt: "Cowboys for Trump founder Couy Griffin has filed an appeal with the state Supreme Court as he seeks to fend off an effort to recall him from office as a county commissioner in southern New Mexico."
+publishedDateTime: 2021-04-20T00:50:00Z
+originalUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-04-19/cowboys-for-trump-founder-appeals-recall-bid-to-high-court"
+webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-04-19/cowboys-for-trump-founder-appeals-recall-bid-to-high-court"
 type: article
-quality: 140
-heat: 860
-published: true
+quality: 35
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,13 +22,23 @@ topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK"
-    width: 817
-    height: 545
-    isCached: true
-
 related:
+  - title: "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ..."
+    publishedDateTime: 2021-04-12T14:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ16N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ16N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump: McConnell 'helpless' to stop Biden from packing court"
     excerpt: "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ..."
     publishedDateTime: 2021-04-13T02:45:00Z
@@ -576,16 +584,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Cowboys for Trump Founder Appeals Recall Bid to High Court"
-    excerpt: "Cowboys for Trump founder Couy Griffin has filed an appeal with the state Supreme Court as he seeks to fend off an effort to recall him from office as a county commissioner in southern New Mexico."
-    publishedDateTime: 2021-04-20T00:50:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-04-19/cowboys-for-trump-founder-appeals-recall-bid-to-high-court"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "55KZ8uD+ryiFif6Im9ZVG+lajIjSZu1tJnJrmE//qVZ7a2RVeRHjqeGa0fqM68CV/btGT4f0ircUWDR1IQcX7lM/DbFGWNjQ8BcSlmkzifFdbGIT/4fDkXT5pJnFptEHZlwoNQKYYIIz9k3kZzKtfBVw4xxIdTZdIV0HnrMkjS3rATbcay8ByHkLUuilDOXww5ezMcF+GySgv3cQtmR1xQVC7lLAgW1+FuOImelpc8gMsfP2KBqyRIeeK33PQxB4p9leAYjIsReniR+ofsPr6Yya0o5c9dmuDDkqDrwP1uIXy6jiaOofL58SzWG1snEaF1vAXowve5MxftsFsL2WcTm/OjOmILZX9zS519UtP5J6llE5OAR5XL2X2waQnmlUasD/L3dcPyg2oFZxICVmn2LDctCF6ii9cy++HGN4yd1A8qvXlsfFO3zs/L8MHWKLkAs9o09fN9DMd8CnY6w833HLLincyykNyB8NR3NZ9j5nU726Ltc59Z4SMwdtGi279FEcHY7/z/PH9v1/LeE7vQ==;MONPTpCja3xGwJJzYQj/zg=="
+secured: "n1fxUCQOzYK+5ArJMTaWT+DddOP+GjVfJv7mpzPzu9anhuk95jkyq2g/9CzNlU5060MzVE96TqrtE4bVHQWQKR4LR1ZcViBDWU6A982nMTztoGJi+9pnRXx3di1h4AS3Tfgi8mE5zc7SnlrWyTYW8BZtWgJaJSnCVEL8fmymkOATC81D+zSxjbRg6lCSLqQDOce4f8jyVHEHSA4Zoqqnx+yQJpk0EK1i7P/Nr/eH8fjml6LZCsoeuC8lgLW/CUKDO+qO5yqaEw2D0MsdVhY5knSSWLiY03FLKO0Scit+pUhO4JywokUuDYgRSqGTquuNdZPoiidSRCij1FDde6dpYwZZsQVoSCl1dTi8PrW0dnk=;0e9Xcqn04Y7RuJtxVtFumQ=="
 ---
 
