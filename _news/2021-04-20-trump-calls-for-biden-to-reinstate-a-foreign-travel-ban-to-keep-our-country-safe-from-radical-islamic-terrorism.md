@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to move ahead with $23 billion UAE weapons sale approved by Trump"
-excerpt: "HuffPost first reported the plan. Former President Trump Donald Trump Biden to move ahead with billion UAE weapons sale approved by Trump Fox News hires high-profile defense team in Dominion ..."
-publishedDateTime: 2021-04-14T01:21:00Z
-originalUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump"
-webUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump"
-ampWebUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
+title: "Trump calls for Biden to reinstate a foreign travel ban to 'keep our country safe from radical Islamic terrorism'"
+excerpt: "Trump wants his travel ban, which Biden revoked on his first day in office, to be reinstated by the current administration."
+publishedDateTime: 2021-04-20T05:16:00Z
+originalUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4"
+webUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4"
+ampWebUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
 type: article
-quality: 140
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
-    width: 580
-    height: 326
+  - url: "https://i.insider.com/605df8726746fb0018a73e7a?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -62,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden to move ahead with $23 billion UAE weapons sale approved by Trump"
+    excerpt: "HuffPost first reported the plan. Former President Trump Donald Trump Biden to move ahead with billion UAE weapons sale approved by Trump Fox News hires high-profile defense team in Dominion ..."
+    publishedDateTime: 2021-04-14T01:21:00Z
+    webUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump"
+    ampWebUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
+        width: 580
+        height: 326
         isCached: true
   - title: "Trump ramped up attacks on me to distract my father, Hunter Biden says"
     excerpt: "President’s son tells podcast attacks designed to be a distraction, ‘whether it ended up in some horrible death or whatever’"
@@ -413,22 +429,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump calls for Biden to reinstate a foreign travel ban to 'keep our country safe from radical Islamic terrorism'"
-    excerpt: "Trump wants his travel ban, which Biden revoked on his first day in office, to be reinstated by the current administration."
-    publishedDateTime: 2021-04-20T05:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/605df8726746fb0018a73e7a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
     excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
     publishedDateTime: 2021-04-02T10:12:00Z
@@ -602,6 +602,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "iaMNfYwqBhEAKcIPoJZqY4fY6qA3Fy4LdgTOAsYXs8G3PHRQ8v6tWXc7UZ2Y8iYoVqUfe7P0yd+HuOzjvVngcWBEAy5WfIsG0SzmiqnxfcE6kCQKmqSlUxANIXdzlPvJx8Xm+Aa6ZXZHpSE868VhLfo6ZXxbNnOaiVegKcljawMpAz1yxPI7wZKGkT6o4UKSlHR46+aWXQiZFz1Y9jAXum9oeOQfFkUphSw39MSpvlh/x1mTCLC3n1qSDksKZR1UtcW0hqwOCMBy9udqJQDd9+IB19RkrysihqC/dIfu83i/9cOsTwuC0S2omgTl1Yrydnn89hFo8fOxTyUrnVn01O1gtNpVbknrTvXRRcHIVassrKFRG+2MoTgd7/ZCdp0NGClnjVkeXuiFpGbzVQZUWb28bFTa2g3gd82RCRptvnm3Oa49JzzGice2H4c+ioc8IEttsUEVp7nlUQC0hxxRgFM0K7eBgZwXwqeKp0wmfu3O6rBqxhtHtB6QOx5MspKC25nuv7ocIc10SofZlT6cfQ==;lUXa8SR2V34ebjBjoBMAkg=="
+secured: "0WmHYIs9S+OWRogo3vKLjJ/7iGtdeeBfzb5P3lD2B7aiw1savrxClO7tUpKXibwJt6c8wXWcMMsA+ul/wiNOiGVpS1CTfsM1cLn4VzDqPdgtKtrcmJb0fwbp/4RIFWTxVvj+AaE9kDzDnVQ1qS/exHKenjTgG4xrqI6MXiKyvu2k2FV0BfdZsXoAtGzkbyLRTrA80ERgqx3fPnUK6zUoJ3mKGruI9kKGG35NgfuSzIrEQ/VJQNHHxFfyPcnLWZ8gIeXVJvvw5W9zUCZwxDgZtXclv4SL4zRDSP1pHHfcJSuSHUU3kLj1ApEz+YWZKhDZskXjhfpdB0xlg0zdCT25GxN4TxcUdpdH7Qm/GuGHoyo=;3F/2zkiN95yuTsJJJOU0jw=="
 ---
 
