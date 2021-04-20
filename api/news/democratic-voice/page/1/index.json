@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-19-white-house-backtracks-after-biden-calls-border-situation-a-crisis.md",
-      "title": "White House backtracks after Biden calls border situation a 'crisis'",
-      "excerpt": "The White House on Monday backtracked after President Joe Biden over the weekend described the influx of migrant children on the country's southern border as a \"crisis,\" in what appeared to be a notable shift in language.\n    \n",
+      "path": "_news/2021-04-19-jill-biden-revisits-the-idea-of-free-community-college.md",
+      "title": "Jill Biden revisits the idea of free community college",
+      "excerpt": "First lady Jill Biden on Monday stepped up her call for affordable community college for all Americans who wish to attend, revisiting her support for free community colleges.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jhyreVGvmk0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jhyreVGvmk0/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MCGRiZdvrYk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MCGRiZdvrYk/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 315,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210418073547-01-joe-biden-0417-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303151350-03-jill-biden-school-visit-0303-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/19/politics/biden-border-crisis-unaccompanied-minors/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/biden-border-crisis-unaccompanied-minors/index.html",
-      "publishedDateTime": "2021-04-19T09:57:32-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html",
+      "publishedDateTime": "2021-04-19T14:49:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -54,6 +54,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-biden-to-deliver-remarks-after-derek-chauvin-trial-verdict.md",
+      "title": "Biden to deliver remarks after Derek Chauvin trial verdict",
+      "excerpt": "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_16/3465912/210419-joe-biden-ew-1232p_4abe6008c53d925a33d81a3e021870c9.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264513",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264513",
+      "publishedDateTime": "2021-04-19T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -111,63 +168,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-politico-playbook-why-the-next-two-weeks-are-critical-for-the-biden-presidency.md",
-      "title": "POLITICO Playbook: Why the next two weeks are critical for the Biden presidency",
-      "excerpt": "Get ready for a big two weeks from the Biden administration: bipartisan infrastructure talks today, a major Covid and vaccine update speech from President JOE BIDEN on Wednesday, and a two-day climate summit starting on Earth Day this Thursday when Biden will announce America’s 2030 emissions target.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/04/19/why-the-next-two-weeks-are-critical-for-the-biden-presidency-492514",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/04/19/why-the-next-two-weeks-are-critical-for-the-biden-presidency-492514",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/40/22/ce04a5a7444b97c5a14388513d98/gettyimages-1232330796.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -681,63 +681,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-16-senators-to-biden-waive-vaccine-intellectual-property-rules.md",
-      "title": "Senators to Biden: Waive vaccine intellectual property rules",
-      "excerpt": "A waiver would pave the way for poorer nations struggling to inoculate their populations from the coronavirus to make the vaccines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/senators-biden-waive-vaccine-intellectual-property-rules-n1264256",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/senators-biden-waive-vaccine-intellectual-property-rules-n1264256",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_15/3465202/210416-joe-biden-mc-1155_c99f90a0a886a7742215bfdcdba086ea.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264256",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264256",
-      "publishedDateTime": "2021-04-16T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-vernon-jones-a-pro-trump-republican-will-challenge-kemp-in-georgia.md",
       "title": "Vernon Jones, a Pro-Trump Republican, Will Challenge Kemp in Georgia",
       "excerpt": "Vernon Jones, a Democrat-turned Republican and onetime state representative who has called Georgia’s presidential election “fixed,” will oppose Gov. Brian Kemp, one of Donald Trump’s top targets.",
@@ -1073,63 +1016,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-can-this-latina-law-professor-tapped-by-biden-help-reform-the-supreme-court.md",
-      "title": "Can this Latina law professor tapped by Biden help reform the Supreme Court?",
-      "excerpt": "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672",
-      "originalUrl": "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna672",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672",
-      "publishedDateTime": "2021-04-14T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1693,6 +1579,118 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-trump-repeats-election-lies-and-insults-mcconnell-in-front-of-rnc-donors-in-palm-beach.md",
+      "title": "Trump repeats election lies and insults McConnell in front of RNC donors in Palm Beach",
+      "excerpt": "Former President Donald Trump repeated familiar lies about the 2020 election and insulted Senate Minority Leader Mitch McConnell Saturday when speaking to Republican National Committee donors gathered for the first time since Trump's defeat, a person in the room told CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vANdLjsN-6g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vANdLjsN-6g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 582,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200103144837-trump-sobre-ataque-qasem-suleimani-hoy-el-mundo-es-mejor-sot-00010015-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html",
+      "publishedDateTime": "2021-04-10T20:28:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-matt-gaetz-shows-donald-trumps-defiant-style-is-here-to-stay.md",
+      "title": "Matt Gaetz shows Donald Trump's defiant style is here to stay ",
+      "excerpt": "In a fiery defense of his reputation Friday night, embattled Florida Rep. Matt Gaetz showed how former President Donald Trump's brash, defiant politics now serve as the template for survival for the most unwelcome figures in a Republican Party that's out of power in Washington and desperately trying",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9QJ3Hxo-NkE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9QJ3Hxo-NkE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408162348-04-gaetz-file-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/10/politics/matt-gaetz-donald-trump-republicans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/matt-gaetz-donald-trump-republicans/index.html",
+      "publishedDateTime": "2021-04-09T21:04:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     }

@@ -319,6 +319,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Donald Trump rejects speechwriter's resignation"
+    excerpt: "Melania Trump's speechwriter has offered her resignation amid plagiarism claims, and has apologized for the \"chaos\" she has caused for the Trump family. CBS News senior political editor Steve Chaggaris and politics writer for The Atlantic Molly Ball join CBSN to discuss."
+    publishedDateTime: 2021-04-19T23:46:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-rejects-speechwriters-resignation-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/19/8feff424-79c4-48c2-a7c8-c25681720cea/thumbnail/1200x630/bdb2a34ced04bea350ebb6b1dfe6f115/cbsn-0720-rncday3-melaniatrumpsmistake-1095416-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden wants money to probe white supremacist beliefs at immigration agencies"
     excerpt: "WASHINGTON (Reuters) -President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
     publishedDateTime: 2021-04-09T15:26:00Z

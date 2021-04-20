@@ -378,21 +378,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-11-clear-the-capitol-pence-pleaded-timeline-of-riot-shows.md",
-      "title": "'Clear the Capitol,' Pence pleaded, timeline of riot shows",
-      "excerpt": "WASHINGTON (AP) — From a secure room in the Capitol on Jan. 6, as rioters pummeled police and vandalized the building, Vice President Mike Pence tried to assert control. In an urgent phone call to the acting defense secretary, he issued a startling demand.",
+      "path": "_news/2021-04-11-vice-president-mike-pence-pleaded-with-the-acting-defense-secretary-to-clear-the-capitol-as-pro-trump-rioters-overran-the-building-report.md",
+      "title": "Vice President Mike Pence pleaded with the acting defense secretary to 'clear the Capitol' as pro-Trump rioters overran the building, report says",
+      "excerpt": "Vice President Mike Pence, who was in the building when the Capitol riot began, made an urgent call amid the chaos. \"Clear the Capitol,\" Pence told Acting Defense Secretary Christopher Miller, the Associated Press reported. Pence was in a \"secure location ...",
       "sourceUrl": null,
-      "webUrl": "https://www.seattlepi.com/news/article/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php",
-      "originalUrl": "https://www.seattlepi.com/news/article/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php",
+      "webUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 253,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
+          "url": "https://i.insider.com/60726ada4943790018bb1ce1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -400,14 +400,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.seattlepi.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php",
-      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Clear-the-Capitol-Pence-pleaded-timeline-16091267.php",
-      "publishedDateTime": "2021-04-10T16:23:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4?amp",
+      "publishedDateTime": "2021-04-10T20:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "seattlepi.com",
-        "domain": "seattlepi.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -417,7 +426,8 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Mike Pence",
+        "Donald Trump"
       ]
     },
     {

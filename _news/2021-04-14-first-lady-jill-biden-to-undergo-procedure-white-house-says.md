@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jill Biden revisits the idea of free community college"
+    excerpt: "First lady Jill Biden on Monday stepped up her call for affordable community college for all Americans who wish to attend, revisiting her support for free community colleges.\n    \n"
+    publishedDateTime: 2021-04-19T21:49:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MCGRiZdvrYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303151350-03-jill-biden-school-visit-0303-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House backtracks after Biden calls border situation a 'crisis'"
     excerpt: "The White House on Monday backtracked after President Joe Biden over the weekend described the influx of migrant children on the country's southern border as a \"crisis,\" in what appeared to be a notable shift in language.\n    \n"
     publishedDateTime: 2021-04-19T16:57:32Z
@@ -64,37 +80,67 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden to deliver remarks after Derek Chauvin trial verdict"
-    excerpt: "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,"
-    publishedDateTime: 2021-04-19T17:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264513"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264513"
+  - title: "Senators to Biden: Waive vaccine intellectual property rules"
+    excerpt: "A waiver would pave the way for poorer nations struggling to inoculate their populations from the coronavirus to make the vaccines."
+    publishedDateTime: 2021-04-16T11:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/senators-biden-waive-vaccine-intellectual-property-rules-n1264256"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264256"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264256"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_16/3465912/210419-joe-biden-ew-1232p_4abe6008c53d925a33d81a3e021870c9.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_15/3465202/210416-joe-biden-mc-1155_c99f90a0a886a7742215bfdcdba086ea.JPG"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden administration says 14,000 migrant children in its custody as it refuses to call border situation a 'crisis'"
-    excerpt: "The latest update comes as President Joe Biden and his top advisers work urgently to devise solutions to the border situation, including scaling up capacity to house unaccompanied children and working with Mexico to help manage the flow of migrants from ..."
-    publishedDateTime: 2021-03-18T20:50:00Z
-    webUrl: "https://www.cnn.com/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/migrant-children-border-crisis-biden-administration/index.html"
+  - title: "Can this Latina law professor tapped by Biden help reform the Supreme Court?"
+    excerpt: "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ..."
+    publishedDateTime: 2021-04-14T16:27:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna672"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 113
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316151003-102-border-crisis-0314-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Can this Latina law professor tapped by Biden help reform the Supreme Court?"
+    excerpt: "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ..."
+    publishedDateTime: 2021-04-14T17:09:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/can-latina-law-professor-cristina-m-rodriguez-help-reform-supreme-cour-rcna672"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna672"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "POLITICO Playbook: Why the next two weeks are critical for the Biden presidency"
+    excerpt: "Get ready for a big two weeks from the Biden administration: bipartisan infrastructure talks today, a major Covid and vaccine update speech from President JOE BIDEN on Wednesday, and a two-day climate summit starting on Earth Day this Thursday when Biden will announce America’s 2030 emissions target."
+    publishedDateTime: 2021-04-19T10:08:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/04/19/why-the-next-two-weeks-are-critical-for-the-biden-presidency-492514"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 111
+    images:
+      - url: "https://static.politico.com/40/22/ce04a5a7444b97c5a14388513d98/gettyimages-1232330796.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "71Hcv0mDpa5bVpi5mhf1D/KuZYyuR26ehlo3FyehGLdM4tYL34K2jejFdN6K34dGbPVXgbxn8vM8TPLL7sVe9IpOrdri69I9kiFPzll1EftF5aDOPyViS/iqDkN7/E8VasmNo6sPV2avhHcKjf13wV3B+jPiyrbSxTZugo/UgpFlvYiUf+4aIJiKecpn8ZxESA0kX/s5ZOCEsKs+xjf/NhY0E68xltQhT4n75+pREk+yAfmrxfw8wfmljcvc+/Rmiy+2+Evw/290I06HRbFTIk6cUVSiuGGtvne7LOu/9MNlocZk0Z8VDXnA81wjDogDQw587+i5P638ItCs+Le7vpXRDUxOOLefwNP4hNA4w6U=;9LEeXMsS5yrboBr1bZbJkw=="

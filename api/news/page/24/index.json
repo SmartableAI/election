@@ -2,323 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2021-03-14-mike-pence-welcomes-first-grandchild-with-sweet-photo.md",
-      "title": "Mike Pence welcomes first grandchild with sweet photo",
-      "excerpt": "Former Vice President Mike Pence’s premature gray always made him look the part of a grandfather — now he has the grandchild to go with it. Pence and wife Karen announced the birth of Avery",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
-      "originalUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/210313-mike-pence-grandchild.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
-      "publishedDateTime": "2021-03-13T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-analysis-how-early-pandemic-praise-for-cuomo-newsom-and-trump-disappeared.md",
-      "title": "Analysis: How early pandemic praise for Cuomo, Newsom and Trump disappeared",
-      "excerpt": "Nearly a year ago, New York Democratic Gov. Andrew Cuomo announced that all nonessential workers in the state would have to stay home. The announcement was one of many that marked the beginning of the coronavirus pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cu3YeBLGDKI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cu3YeBLGDKI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312193508-cuomo-trump-newsom-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html",
-      "publishedDateTime": "2021-03-13T08:00:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-for-biden-theres-no-place-like-a-weekend-home-in-delaware.md",
-      "title": "For Biden, there's no place like a weekend home in Delaware",
-      "excerpt": "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_3b0cbd70660341528ecdc742bc6d4056_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "publishedDateTime": "2021-03-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-trumps-twitter-ban-hurt-him-more-than-losing-the-election-to-biden-his-niece-mary-says.md",
-      "title": "Trump's Twitter ban hurt him more than losing the election to Biden, his niece Mary says",
-      "excerpt": "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Donald Trump's Twitter ban will have upset him more than losing November's presidential election to Joe Biden, his niece Mary has told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
-      "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604ba442fea127001886a77d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp",
-      "publishedDateTime": "2021-03-13T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off-stage-report.md",
-      "title": "Trump rally organizer claims Alex Jones threatened to throw her off stage: report",
-      "excerpt": "Women for America First had been planning an event to support then-President Trump Donald Trump The Memo: Nation rallies for Biden on his COVID-19 response Maryland GOP governor applauds Biden ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
-      "originalUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/jonesalex_stoneroger_121118gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
-      "publishedDateTime": "2021-03-12T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-former-trump-adviser-pans-bidens-address-as-gloomy-that-failed-to-inspire-or-uplift.md",
-      "title": "Former Trump adviser pans Biden's address as 'gloomy' that failed to 'inspire or uplift'",
-      "excerpt": "\"Exactly, that’s what it was,\" remarked Miller. \"John F. Kennedy said let’s put a man on the moon. Donald Trump said let’s put a man on Mars. Joe Biden said let's see if you can eat BBQ ribs with your own relatives and loved ones July 4.\" \"Newsflash ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq",
-      "originalUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/b314e79e-6ac6-442c-9c81-ec46745bb39a/36ebf399-c770-4cb5-adf8-fc05ca582d5c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp",
-      "publishedDateTime": "2021-03-12T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-12-texas-democrat-knocks-biden-delegation-over-border-visit-they-didnt-talk-to-anybody.md",
       "title": "Texas Democrat knocks Biden delegation over border visit: 'They didn’t talk to anybody'",
       "excerpt": "Rep. Henry Cuellar, D-Texas, criticized the Biden administration’s handling of the border crisis on Friday, telling \"Your World\" a delegation from the White House neglected to talk to anybody when they visited the region this week.",
@@ -1340,6 +1023,339 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-white-house-increasingly-run-by-vp-harris-schumer-and-pelosi-newt-gingrich.md",
+      "title": "White House 'increasingly run' by VP Harris, Schumer and Pelosi: Newt Gingrich",
+      "excerpt": "Newt Gingrich said Thursday that Kamala Harris, Nancy Pelosi, and Chuck Schumer appear to be the ones running the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich",
+      "originalUrl": "https://www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/706511fd-0850-4b23-925f-140152735c3c/e5e419f5-4f88-46b3-81ac-8226a8591775/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-run-kamala-harris-schumer-pelosi-gingrich.amp",
+      "publishedDateTime": "2021-03-11T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-biden-civil-rights-pick-promoted-jussie-smollett-hoax-criticized-police-handling-of-case.md",
+      "title": "Biden civil rights pick promoted Jussie Smollett hoax, criticized police handling of case",
+      "excerpt": "President of the Lawyers’ Committee for Civil Rights Under Law and Biden nominee Kristen Clarke made multiple posts on Twitter pushing the alleged hate crimes Smollett claimed had occurred.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N2ZhijyCaHw/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N2ZhijyCaHw/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e44f447d-9d5c-4dd4-b7d0-4f603076760c/e8afdea2-e6fc-4921-b58e-8afbc3890817/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
+      "publishedDateTime": "2021-03-11T15:50:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-frustration-in-our-future-democrats-prepare-for-internal-clashes-that-could-slow-bidens-agenda.md",
+      "title": "'Frustration in our future': Democrats prepare for internal clashes that could slow Biden's agenda",
+      "excerpt": "House and Senate Democrats are bracing for a clash over the next phase of President Joe Biden's agenda, preparing for a long slog and intense debate over competing priorities and legislative tactics after quickly coming together on the massive relief plan signed into law Thursday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html",
+      "publishedDateTime": "2021-03-11T15:05:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-trumps-acting-defense-secretary-says-his-january-6-speech-incited-capitol-rioters.md",
+      "title": "Trump's acting defense secretary says his January 6 speech incited Capitol rioters",
+      "excerpt": "Former acting Secretary of Defense Christopher Miller believes former President Donald Trump's speech on the morning of January 6 incited the rioters who stormed the US Capitol.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aTf5buSakEY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aTf5buSakEY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109131036-christopher-miller-sept-17-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/miller-on-trump-january-6/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/miller-on-trump-january-6/index.html",
+      "publishedDateTime": "2021-03-11T14:01:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-the-daily-202-missing-from-the-american-rescue-package-debate-donald-trump.md",
+      "title": "The Daily 202: Missing from the “American Rescue Package” debate? Donald Trump.",
+      "excerpt": "Welcome to The Daily 202 newsletter! Today, we look at f Donald Trump's absence from the fight over President Biden's massive rescue package. But don’t miss the latest on commemorations of one year since the pandemic began,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M7TQR4A2XNCMLCF4HPOVLW24CE.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/?outputType=amp",
+      "publishedDateTime": "2021-03-11T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-trump-estranged-from-presidents-club-excluded-from-predecessors-psa.md",
+      "title": "Trump, estranged from Presidents Club, excluded from predecessors' PSA",
+      "excerpt": "When President Donald Trump received his Covid-19 vaccine at the White House in January, it was not recorded by official photographers or videographers, according to a person familiar with the matter, who said it wasn't clear there was any photographic documentation of the moment. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KxIrfiRdWoA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KxIrfiRdWoA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190423072847-donald-trump-04182019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/donald-trump-presidents-club-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/donald-trump-presidents-club-vaccine/index.html",
+      "publishedDateTime": "2021-03-11T12:54:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

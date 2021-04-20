@@ -2,324 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-04-07-pence-launches-conservative-political-group.md",
-      "title": "Pence launches conservative political group",
-      "excerpt": "Former Vice President Mike Pence Michael (Mike) Richard Pence Republican battle with MLB intensifies War over voting laws further corrodes trust in elections The Memo: Biden's bet on taxes MORE ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group",
-      "originalUrl": "https://thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pence_010621getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546848-pence-launches-conservative-political-group?amp",
-      "publishedDateTime": "2021-04-07T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.md",
-      "title": "Trump slams 'woke' MLB in TV interview, claims fans 'giving up on baseball'",
-      "excerpt": "In a TV interview on Tuesday, former President Trump expounded on his recent statements objecting to Major League Baseball's recent decision to move the All-Star Game out of Atlanta. The league's move was a reaction to Georgia's recently passed voting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball",
-      "originalUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20334644546013-e1606925054815.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.amp",
-      "publishedDateTime": "2021-04-07T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.md",
-      "title": "Steyn: Biden 'consciously enriching cartels' with 'entirely dissolved' southern border",
-      "excerpt": "In his \"Fox News Primetime\" monologue on Tuesday, host Mark Steyn lamented the exponential increase in human smuggling into the United States as the Biden administration fails to secure the southern b",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border",
-      "originalUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f2d6dc0-4bc4-4aa4-b5dc-699a52c0278c/dc452007-fbad-423d-be76-3a780d567600/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.amp",
-      "publishedDateTime": "2021-04-06T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-harris-vaccinated-can-be-role-models-for-friends-family.md",
-      "title": "Harris: Vaccinated can be 'role models' for friends, family",
-      "excerpt": "Vice President Kamala Harris on Tuesday urged Chicago union members to share their experience receiving a COVID-19 vaccine and act as “role models\" for family and friends who may be reluctant even as Illinois prepares to open access to all adults.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "originalUrl": "https://www.chron.com/business/article/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Harris-Vaccinated-can-be-role-models-for-16081248.php",
-      "publishedDateTime": "2021-04-06T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-donald-trump-calls-georgia-election-law-too-weak-hope-the-rinos-are-happy.md",
-      "title": "Donald Trump Calls Georgia Election Law 'Too Weak': 'Hope the RINOs Are Happy'",
-      "excerpt": "Former U.S. President Donald Trump has criticized Georgia's recently passed election law as \"too weak.\" \"Hope the RINOs are happy,\" Trump wrote in a Tuesday statement criticizing the law. RINO is an initialism for Republicans in Name Only. The initialism ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492",
-      "originalUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1772337/donald-trump-georgia-election-law-weak-rinos.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-georgia-election-law-too-weak-hope-rinos-are-happy-1581492?amp=1",
-      "publishedDateTime": "2021-04-06T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-harris-moving-into-naval-observatory-residence-after-renovations-delay.md",
-      "title": "Harris moving into Naval Observatory residence after renovations delay",
-      "excerpt": "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html",
-      "publishedDateTime": "2021-04-06T16:55:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-joe-biden-is-not-planning-to-solve-the-israeli-palestinian-conflict.md",
       "title": "Joe Biden is not planning to solve the Israeli-Palestinian conflict",
       "excerpt": "Joe Biden, though, isn’t all that interested. Unlike Barack Obama and Donald Trump, Biden hasn’t named a special envoy to focus on the Israeli-Palestinian portfolio. Unlike Bill Clinton, Biden has no plans for any sort of peace conference, or even a ...",
@@ -1354,6 +1036,339 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-hawley-a-critic-of-biden-picks-support-for-wars-in-middle-east-previously-blogged-in-support-of-iraq-war.md",
+      "title": "Hawley, a critic of Biden picks' support for wars in Middle East, previously blogged in support of Iraq War",
+      "excerpt": "Republican Sen. Josh Hawley of Missouri, a frequent critic of Biden administration nominees for supporting the Iraq War and other \"forever wars,\" himself wrote in support of the Iraq War prior to becoming a senator in newly uncovered blog posts.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6BR3d3L6XXY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6BR3d3L6XXY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/05/politics/kfile-josh-hawley-supported-iraq-war/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/kfile-josh-hawley-supported-iraq-war/index.html",
+      "publishedDateTime": "2021-04-05T15:04:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-trumps-mar-a-lago-charged-secret-service-almost-16000-for-396-hotel-rooms-during-presidential-christmas-trip.md",
+      "title": "Trump's Mar-a-Lago charged Secret Service almost $16,000 for $396 hotel rooms during presidential Christmas trip",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's Mar-a-Lago resort in Palm Beach, Florida, raked in $15,846 in US taxpayer money by charging the Secret Service $396 a night for hotel rooms during a Christmas trip, The Washington ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4",
+      "originalUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/606b59a1a7d803001963ec9c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4?amp",
+      "publishedDateTime": "2021-04-05T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-biden-cdc-director-says-youth-sports-extracurricular-activities-should-be-limited.md",
+      "title": "Biden CDC director says youth sports, extracurricular activities 'should be limited'",
+      "excerpt": "Centers for Disease Control and Prevention Director Rochelle Walensky on Monday said youth sports and other extracurricular activities \"should be limited\" amid the coronavirus pandemic, saying outbreaks in young people have stemmed from those activities.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWQzbB1Bp8k/biden-cdc-director-youth-sports-limited",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWQzbB1Bp8k/biden-cdc-director-youth-sports-limited",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp",
+      "publishedDateTime": "2021-04-05T09:46:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-former-cheney-adviser-biden-admin-hell-bent-on-rejoining-iran-nuclear-deal.md",
+      "title": "Former Cheney adviser: Biden admin 'hell-bent' on rejoining Iran nuclear deal",
+      "excerpt": "The former National Security Advisor to Vice President Cheney, John Hannah, said that the Biden administration is 'hell-bent' on rejoining the Iran nuclear deal, during a Monday appearance on 'America's Newsroom.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
+      "publishedDateTime": "2021-04-05T09:24:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-heres-how-nancy-pelosi-could-personally-benefit-from-bidens-2t-spending-bill.md",
+      "title": "Here's how Nancy Pelosi could personally benefit from Biden’s $2T spending bill",
+      "excerpt": "House Speaker Nancy Pelosi, D-Calif., is positioned to potentially personally benefit from President Biden’s $2 trillion spending bill – and here's how she could do it.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QUudE0KtKOE/biden-spending-bill-pelosi-tesla-husband",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QUudE0KtKOE/biden-spending-bill-pelosi-tesla-husband",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6006abae-c244-4c3a-9668-00383f221969/3d269837-fe51-4751-9b4e-d1ca0217c647/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp",
+      "publishedDateTime": "2021-04-05T09:11:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-supreme-court-dismisses-trump-twitter-case-as-moot-as-thomas-highlights-glaring-concern-of-platforms-power.md",
+      "title": "Supreme Court dismisses Trump Twitter case as moot, as Thomas highlights 'glaring concern' of platform's power",
+      "excerpt": "The Supreme Court on Monday deemed former President Donald Trump's appeal of a ruling that said it was unconstitutional for him to block critics, deeming his page to be a protected public forum. The court called for the case to be dismissed, as Trump is no ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
+      "originalUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
+      "publishedDateTime": "2021-04-05T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

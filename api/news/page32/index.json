@@ -2,327 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2021-03-01-neera-tandens-confirmation-fight-is-the-first-morality-play-of-post-trump-washington.md",
-      "title": "Neera Tanden’s confirmation fight is the first morality play of post-Trump Washington",
-      "excerpt": "The White House is still backing her, despite old posts that have upset many across the aisle. But there’s more to this drama than tweets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OW7BYTXR4I6XFJXJFQVRTC73E.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-28T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-trump-wins-cpac-straw-poll-with-ron-desantis-winning-a-second-one.md",
-      "title": "Trump Wins CPAC Straw Poll, with Ron DeSantis Winning a Second One",
-      "excerpt": "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential polls: One with a potential field that included Mr. Trump, and one without him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html",
-      "publishedDateTime": "2021-02-28T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-biden-supports-an-independent-review-into-sexual-harassment-allegations-against-new-york-gov-cuomo-press-secretary-says.md",
-      "title": "Biden supports an 'independent review' into sexual harassment allegations against New York Gov. Cuomo, press secretary says",
-      "excerpt": "Two women have alleged that New York Gov. Andrew Cuomo acted inappropriately in the workplace and created a culture of sexual harassment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-supports-independent-review-into-allegations-cuomo-2021-2",
-      "originalUrl": "https://www.businessinsider.com/biden-supports-independent-review-into-allegations-cuomo-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/603bbf1a13b221001876abf3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-supports-independent-review-into-allegations-cuomo-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-supports-independent-review-into-allegations-cuomo-2021-2?amp",
-      "publishedDateTime": "2021-02-28T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-28-sen-scott-says-he-will-support-incumbent-gop-senators-over-trump-backed-primary-challengers.md",
-      "title": "Sen. Scott says he will support incumbent GOP senators over Trump-backed primary challengers",
-      "excerpt": "Sen. Rick Scott, R-Fl., chair of the National Republican Senatorial Committee, told \"Fox News Sunday\" that he will support any incumbent Republican senator against primary challengers, even if that challenge is supported by former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SrdREIvNP3E/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SrdREIvNP3E/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60882bba-ad86-452b-beef-b07964f6391f/34dc9eed-02bc-4f87-8cdd-58592c1f82b4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp",
-      "publishedDateTime": "2021-02-28T07:00:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-28-allies-of-rep-adam-kinzinger-launch-new-super-pac-to-support-republicans-who-have-bucked-trump.md",
-      "title": "Allies of Rep. Adam Kinzinger launch new super PAC to support Republicans who have bucked Trump",
-      "excerpt": "The effort will be up against significant head winds, as Trump still holds vast sway over the Republican Party, even after his supporters attacked the U.S. Capitol last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCWAUHTZN4I6XFENDFDS42BVEE.jpg&w=1440",
-          "width": 1440,
-          "height": 968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-28T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-28-biden-will-not-sanction-mbs-over-khashoggis-killing-despite-us-report-implicating-the-saudi-leader.md",
-      "title": "Biden will not sanction MBS over Khashoggi's killing despite US report implicating the Saudi leader",
-      "excerpt": "Other than being downgraded in the eyes of the US under Biden, it's unclear what other consequences, if any, MBS will face over Khashoggi's killing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2",
-      "originalUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6039520805ddb100195f67da?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2?amp",
-      "publishedDateTime": "2021-02-28T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-02-28-pompeo-says-biden-administration-sending-mixed-signals-on-chinas-human-rights-abuses.md",
       "title": "Pompeo says Biden administration sending ‘mixed signals’ on China's human rights abuses",
       "excerpt": "Former Secretary of State Mike Pompeo said on Saturday that the Biden administration has sent \"mixed signals\" on the Chinese persecution of religious minorities in Xinjiang -- and called for the administration to impose \"real costs\" on Beijing.",
@@ -1355,6 +1034,335 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.md",
+      "title": "Pelosi vows to keep minimum wage provision in House bill; Harris could act",
+      "excerpt": "The Senate's chief parliamentarian ruled Thursday that a federal minimum wage hike should not be included in the $1.9 trillion COVID-19 relief package, but that seemed to do little to deter House Democrats from pursuing the plan — against impossible odds.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 363,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp",
+      "publishedDateTime": "2021-02-25T23:30:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.md",
+      "title": "Donald Trump Jr.: Donald Trump is ‘still the future of the Republican Party’",
+      "excerpt": "Former President Donald Trump is the future of the Republican Party, his eldest son Donald Trump Jr. argued on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgbpZAToxZU/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgbpZAToxZU/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
+      "publishedDateTime": "2021-02-25T20:20:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-trump-supporters-want-to-blow-up-capitol-police-chief.md",
+      "title": "Trump supporters want to 'blow up' Capitol - police chief",
+      "excerpt": "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-nikki-haley-iced-out-of-cpac-after-underestimating-donald-trumps-influence.md",
+      "title": "Nikki Haley Iced Out Of CPAC After Underestimating Donald Trump's Influence",
+      "excerpt": "The former ambassador hasn't been invited to speak, another blow to any presidential ambitions she may harbor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228",
+      "originalUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/10/us-president-donald-trump-shakes-hands-with-nikki.jpg",
+          "width": 1024,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1",
+      "publishedDateTime": "2021-02-25T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-biden-should-not-give-up-his-sole-nuclear-authority-gop-lawmakers-say.md",
+      "title": "Biden should not give up his sole nuclear authority, GOP lawmakers say",
+      "excerpt": "Three Republican members of the House Armed Services Committee on Wednesday issued a statement pushing back on Democrats' letter to President Biden urging him to give up his sole nuclear authority.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-nuclear-authority.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-nuclear-authority.amp",
+      "publishedDateTime": "2021-02-25T12:18:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-rick-scott-calls-for-bidens-immediate-attention-on-moving-2022-olympics-from-china.md",
+      "title": "Rick Scott calls for Biden's 'immediate attention' on moving 2022 Olympics from China",
+      "excerpt": "Republican Sen. Rick Scott is requesting a meeting with President Biden and calling for his \"immediate attention\" to moving the 2022 Winter Olympic Games out of Beijing, citing China’s human rights abuses.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tizv1ycAMqE/rick-scott-bidens-2022-olympics-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tizv1ycAMqE/rick-scott-bidens-2022-olympics-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-bidens-2022-olympics-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-bidens-2022-olympics-china.amp",
+      "publishedDateTime": "2021-02-25T12:08:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

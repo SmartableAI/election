@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Gregg Popovich keeps heat on owners, others who support Donald Trump"
-    excerpt: "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats."
-    publishedDateTime: 2021-04-15T00:29:00Z
-    webUrl: "https://www.expressnews.com/sports/spurs/article/Lonnie-Walker-questions-police-reaction-to-16101583.php"
-    ampWebUrl: "https://www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
+  - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
+    excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
+    publishedDateTime: 2021-04-14T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
     images:
-      - url: "https://s.hdnux.com/photos/01/17/46/71/20868732/3/rawImage.jpg"
-        width: 2048
-        height: 1152
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 918
+        isCached: true
+  - title: "Republican Party Shakeup: Ohio Representative Becomes Latest To Resign Amid Trump Influence"
+    excerpt: "Rep. Stivers will be quitting the House on May 16, moving to the Ohio Chamber of Commerce as CEO and President. No reason was given for his departure."
+    publishedDateTime: 2021-04-19T21:36:00Z
+    webUrl: "https://www.ibtimes.com/republican-party-shakeup-ohio-representative-becomes-latest-resign-amid-trump-3183776"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2013/08/16/republican-party-cpac-2013.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "SU65FUblZ4m3gHZff7hKmlXQNrd/0zUYbD/zEO4mxLNmTQC2kIpkxoY2WwiQ9vgnDTho7g8zziD9UDP0LyvWLR8F+zUsffIyTZ0/YRxvk5sivXQmf+kMdLnD1jPHkzVb4fgHT6fLsoP97MrYO2R41GpJBfTqH+r24lEeUHxW6jWhi+QOXFjvOAbLdp+kbaNV+rI54rmB49jTYAYXea+fCERgR1hm7rCkMJeATzSsJwAy4RjvY25s5KMICdpgBSZRe6rtILobIL7kopD0k3iE4TsQjetez5JhJ3tNCgDnJLdnWZHzb3sV3W6wHz1oQQmhfbs6c0t6tn3KJTNv3wGhImBML/+T5CDlrRnrjT4NiC4=;3ThLRbpPe1O+k871l9W5sg=="

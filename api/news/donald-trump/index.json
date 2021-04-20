@@ -370,7 +370,7 @@
       "originalUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -471,21 +471,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-18-republican-presidential-hopefuls-move-forward-as-trump-considers-2024-run.md",
-      "title": "Republican presidential hopefuls move forward as Trump considers 2024 run",
-      "excerpt": "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans.",
+      "path": "_news/2021-04-18-gop-white-house-hopefuls-move-forward-as-trump-considers-run.md",
+      "title": "GOP White House hopefuls move forward as Trump considers run",
+      "excerpt": "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he consid",
       "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run",
+      "webUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 305,
       "tags": null,
       "images": [
         {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/162df09/2147483647/strip/true/crop/5326x3528+0+11/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F7c%2F6fe9b99109bdf0ab74f67cb5e881%2F364a92d584294633bd968e1d0bd93a46",
-          "width": 320,
-          "height": 212,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -493,16 +493,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true",
-      "publishedDateTime": "2021-04-18T05:23:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-18T06:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -555,110 +555,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump.md",
-      "title": "RNC Chairwoman Ronna McDaniel comes under pressure to show more independence from Trump",
-      "excerpt": "Some party committee members want the GOP to create some distance from the former president — or at least grapple with the fact that Republicans lost the White House, Senate and House during his administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKZT7DTBVMI6XILXO5S7FGUVEQ.jpg&w=1440",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-17T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-nearly-all-of-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot.md",
-      "title": "Nearly All of Trump's House GOP Impeachers Set Fundraising Records Since Capitol Riot",
-      "excerpt": "All 10 of the House Republicans who voted to impeach Trump for his alleged role in the deadly January 6 Capitol riot have managed to out-fundraise their Trump-backed challengers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417",
-      "originalUrl": "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1779383/liz-cheney-ten-house-republicans.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417?amp=1",
-      "publishedDateTime": "2021-04-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -785,49 +681,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-white-house-to-raise-trump-era-refugee-cap-next-month-after-backlash-over-broken-pledge-live.md",
-      "title": "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live",
-      "excerpt": "Democrats had denounced president’s plan to maintain historically low levels set by predecessor",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-607a0b0a8f0881c4146948ee",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-607a0b0a8f0881c4146948ee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
-      "publishedDateTime": "2021-04-16T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1262,49 +1115,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-15-gregg-popovich-keeps-heat-on-owners-others-who-support-donald-trump.md",
-      "title": "Gregg Popovich keeps heat on owners, others who support Donald Trump",
-      "excerpt": "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/sports/spurs/article/Lonnie-Walker-questions-police-reaction-to-16101583.php",
-      "originalUrl": "https://www.expressnews.com/sports/spurs/article/Lonnie-Walker-questions-police-reaction-to-16101583.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/46/71/20868732/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php",
-      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php",
-      "publishedDateTime": "2021-04-14T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-15-former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce.md",
       "title": "Former daughter-in-law of Trump Org CFO says she has \"boxes and boxes\" of financial documents after bitter divorce",
       "excerpt": "Jennifer and Barry Weisselberg's divorce was a contentious battle, but few realized during the 2017 and 2018 proceedings that it would end up at the center of one of the most high-profile criminal investigations in history – the Manhattan District Attorney's probe into Donald Trump.",
@@ -1461,6 +1271,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-14-trump-didnt-bring-white-working-class-voters-to-the-republican-party-the-data-suggest-he-kept-them-away.md",
+      "title": "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away.",
+      "excerpt": "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440",
+          "width": 1440,
+          "height": 918,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp",
+      "publishedDateTime": "2021-04-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-fox-news-hosts-joined-forces-with-giuliani-to-spread-trump-voter-fraud-lies-lawsuit-says.md",
       "title": "Fox News Hosts 'Joined Forces' With Giuliani to Spread Trump Voter Fraud Lies, Lawsuit Says",
       "excerpt": "Smartmatic's motion states that Fox News and its hosts \"joined forces\" with Rudy Giuliani and Sidney Powell, two attorneys representing the re-election campaign of then-President Donald Trump, knowing that the attorneys would make false claims against ...",
@@ -1558,6 +1420,167 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-pollsters-say-they-undercounted-republicans-trump-supporters-in-2020.md",
+      "title": "Pollsters Say They Undercounted Republicans, Trump Supporters in 2020",
+      "excerpt": "One report, released Tuesday by five Democratic polling firms, finds that their surveys undercounted voters who viewed former President Donald Trump as “presidential.’’ Another, by the nonpartisan Pew Research Center, concluded that obtaining the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
+      "originalUrl": "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-324404/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
+      "publishedDateTime": "2021-04-13T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-pastor-jeff-jansen-says-trump-is-still-president-people-will-be-dancing-in-the-streets-in-april.md",
+      "title": "Pastor Jeff Jansen Says Trump Is 'Still President,' People Will Be 'Dancing in the Streets' in April",
+      "excerpt": "Pastor Jeff Jansen, a self-described \"prophet,\" still believes former President Donald Trump is in office and advised people to \"watch what the Lord does\" this month. Jansen, who leads the Global Fire Ministries International in Murfreesboro, Tennessee ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396",
+      "originalUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777294/donald-trump-jeff-jansen-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396?amp=1",
+      "publishedDateTime": "2021-04-13T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-austin-us-adds-500-troops-in-germany-despite-trump-pledge.md",
+      "title": "Austin: US adds 500 troops in Germany, despite Trump pledge",
+      "excerpt": "Last year, President Donald Trump ordered the withdrawal of 12,000 troops from Germany as retribution for what he considered Germany’s refusal to spend more on its own defense. Austin suspended ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_fce94cb13e4c444581fabcdd20b6585a_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/defense-secretary-austin-us-adding-500-troops-germany-77040046",
+      "publishedDateTime": "2021-04-13T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

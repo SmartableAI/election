@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: Washington Post
@@ -31,77 +31,36 @@ images:
     isCached: true
 
 related:
-  - title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
-    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans."
-    publishedDateTime: 2021-04-18T12:23:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
+  - title: "Faith in numbers: Trump held steady among believers at the ballot - it was the nonreligious vote he lost in 2020"
+    excerpt: "(THE CONVERSATION) For all the predictions and talk of a slump in support among evangelicals, it appears Donald Trump’s election loss was not at the hands of religious voters. As an analyst of religious data, I’ve been crunching data released in March ..."
+    publishedDateTime: 2021-04-08T13:02:00Z
+    webUrl: "https://www.chron.com/news/article/Faith-in-numbers-Trump-held-steady-among-16085746.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Faith-in-numbers-Trump-held-steady-among-16085746.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Faith-in-numbers-Trump-held-steady-among-16085746.php"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/162df09/2147483647/strip/true/crop/5326x3528+0+11/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F7c%2F6fe9b99109bdf0ab74f67cb5e881%2F364a92d584294633bd968e1d0bd93a46"
-        width: 320
-        height: 212
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run"
-    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans."
-    publishedDateTime: 2021-04-18T12:45:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
+  - title: "Republican Party Shakeup: Ohio Representative Becomes Latest To Resign Amid Trump Influence"
+    excerpt: "Rep. Stivers will be quitting the House on May 16, moving to the Ohio Chamber of Commerce as CEO and President. No reason was given for his departure."
+    publishedDateTime: 2021-04-19T21:36:00Z
+    webUrl: "https://www.ibtimes.com/republican-party-shakeup-ohio-representative-becomes-latest-resign-amid-trump-3183776"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 117
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
     images:
-      - url: "https://www.chicagotribune.com/resizer/gd3AqHNByj1GNIHftltpXcoVWo8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7XBRM22IRCJVPCE2CQTKRTSG4.aspx"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2013/08/16/republican-party-cpac-2013.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
-    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
-    publishedDateTime: 2021-04-14T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump gains endorsement of the NRA"
-    excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
-    publishedDateTime: 2021-04-17T15:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/17/cb5d15c5-812c-4091-8fa7-22e568000775/thumbnail/1200x630/debff44a0ccfb1c8355835c4d00530a5/eve-trump-nra-1066566-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GOP White House Hopefuls Move Forward as Trump Considers Run"
-    excerpt: "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he considered another run."
-    publishedDateTime: 2021-04-18T11:49:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "DKVajUdJi0znGEUK/TvMpyDmh+iQzmrVq47L03Rm2aXYE/L6Jf9JoIVxPZ0dguJ6boksPCK+H41S4m9OcppmvuNdyaXkLQDfbsIGhbI+XMUpGVqYy4DAHBfhQw5+R35Di4yRCpKlUumlUw2kTaqnO84S2hzz8FR77+zLyUDm0otcrhVjjtMjKIiFKr7AiXMzhnE6X9Aj/cHYvwi9IjBg02F/gLwFH7ceAypXffcG2ItkY3mQjgri+RUQpPEFz8m+HlZfvjPuBKuobeUaIT5Ixmor6hwMzhD2dLlcs5964RedMhyqCM40N/prhtuNOWpGI5AuT3wrEtEiaEiySXcWaYTjBspIuP5JnheEzbTSEYM=;OswtlM92TYRxI/V0zhFPDw=="
 ---

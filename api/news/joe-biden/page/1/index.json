@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-20-biden-to-deliver-remarks-after-derek-chauvin-trial-verdict.md",
+      "title": "Biden to deliver remarks after Derek Chauvin trial verdict",
+      "excerpt": "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_16/3465912/210419-joe-biden-ew-1232p_4abe6008c53d925a33d81a3e021870c9.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264513",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264513",
+      "publishedDateTime": "2021-04-19T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-biden-rejoining-iran-nuclear-agreement-dangerous-lieberman.md",
       "title": "Biden rejoining Iran nuclear agreement dangerous: Lieberman",
       "excerpt": "Former Senator Joe Lieberman (I) provides insight into the possible dangers that can come from U.S.-Iran negotiations.",
@@ -42,63 +99,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-politico-playbook-why-the-next-two-weeks-are-critical-for-the-biden-presidency.md",
-      "title": "POLITICO Playbook: Why the next two weeks are critical for the Biden presidency",
-      "excerpt": "Get ready for a big two weeks from the Biden administration: bipartisan infrastructure talks today, a major Covid and vaccine update speech from President JOE BIDEN on Wednesday, and a two-day climate summit starting on Earth Day this Thursday when Biden will announce America’s 2030 emissions target.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/04/19/why-the-next-two-weeks-are-critical-for-the-biden-presidency-492514",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/04/19/why-the-next-two-weeks-are-critical-for-the-biden-presidency-492514",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/40/22/ce04a5a7444b97c5a14388513d98/gettyimages-1232330796.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -311,63 +311,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-16-senators-to-biden-waive-vaccine-intellectual-property-rules.md",
-      "title": "Senators to Biden: Waive vaccine intellectual property rules",
-      "excerpt": "A waiver would pave the way for poorer nations struggling to inoculate their populations from the coronavirus to make the vaccines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/senators-biden-waive-vaccine-intellectual-property-rules-n1264256",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/senators-biden-waive-vaccine-intellectual-property-rules-n1264256",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_15/3465202/210416-joe-biden-mc-1155_c99f90a0a886a7742215bfdcdba086ea.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264256",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264256",
-      "publishedDateTime": "2021-04-16T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-15-joe-bidens-german-shepherd-major-is-getting-trained-after-biting-2-peopleheres-how-much-dog-training-typically-costs.md",
       "title": "Joe Biden's German shepherd Major is getting trained after biting 2 people—here's how much dog training typically costs",
       "excerpt": "President Biden's young German shepherd Major is being sent to undergo training after a number of biting incidents at the White House.",
@@ -569,63 +512,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-can-this-latina-law-professor-tapped-by-biden-help-reform-the-supreme-court.md",
-      "title": "Can this Latina law professor tapped by Biden help reform the Supreme Court?",
-      "excerpt": "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672",
-      "originalUrl": "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna672",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672",
-      "publishedDateTime": "2021-04-14T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1541,6 +1427,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-bidens-budget-wish-list-850m-for-central-america-aid-36b-for-poor-schools.md",
+      "title": "Biden's Budget Wish List: $850M for Central America Aid, $36B for Poor Schools",
+      "excerpt": "President Joe Biden is set to release his first budget wish list before members of Congress return next week, giving insight into his policy agenda and marking his stark departure from former President Donald Trump's priorities. Included in the proposal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
+      "originalUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1775021/joe-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
+      "publishedDateTime": "2021-04-09T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-biden-sets-up-commission-to-study-expansion-of-supreme-court-live.md",
+      "title": "Biden sets up commission to study expansion of supreme court – live",
+      "excerpt": "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 665,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
+      "publishedDateTime": "2021-04-09T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

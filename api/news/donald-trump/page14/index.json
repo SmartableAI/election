@@ -2,162 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-01-22-nato-secretary-general-jens-stoltenberg-says-need-to-rebuild-trust-after-trump.md",
-      "title": "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump",
-      "excerpt": "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4YM7ZC4C4I6XOF55Y3LDTIYX4.jpg&w=1440",
-          "width": 1440,
-          "height": 908,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-21T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-trump-impeachment-trial-likely-in-mid-february-republican-senator.md",
-      "title": "Trump impeachment trial likely in mid-February: Republican senator",
-      "excerpt": "Former President Donald Trump's U.S. Senate impeachment trial is likely to begin sometime around mid-February in order to give his defense team time to prepare, Republican Senator Mike Braun told reporters on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 965,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548638815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1PW",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Q30X",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X",
-      "publishedDateTime": "2021-01-21T14:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-theologian-russell-moore-has-a-message-for-christians-who-still-worship-donald-trump.md",
-      "title": "Theologian Russell Moore Has a Message for Christians Who Still Worship Donald Trump",
-      "excerpt": "If you can defend this, you can defend anything,” wrote Russell Moore, a theologian who is also the president of the Ethics and Religious Liberty Commission (ERLC) of the Southern Baptist Convention (SBC),",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
-      "originalUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2021/01/russell-moore-conservative-christians.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-21-are-you-qanon-one-trump-officials-brush-with-an-internet-cult-gone-horribly-wrong.md",
       "title": "‘Are you QAnon?’: One Trump official’s brush with an internet cult gone horribly wrong",
       "excerpt": "Some believed he was “Q,” the mythical figure behind an intricate and sprawling conspiracy theory. Here Ezra Cohen-Watnick, a senior Trump intelligence official, shares the story of his ordeal for the first time.",
@@ -1546,6 +1390,167 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-trumps-regulators-ok-partnership-that-could-squeeze-air-passengers-in-dc-and-nyc.md",
+      "title": "Trump's regulators OK 'partnership' that could squeeze air passengers in D.C. and NYC",
+      "excerpt": "OK'd on Elaine Chao's final day as transportation secretary — is generating complaints it will harm competition and raise fares.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/16/trump-administration-american-airlines-jetblue-459824",
+      "originalUrl": "https://www.politico.com/news/2021/01/16/trump-administration-american-airlines-jetblue-459824",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/68/f6/73732ffa40ed8657bdce24ed7285/20210115-elaine-chao-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-16T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment.md",
+      "title": "Census battle ends as Trump administration gives up on excluding undocumented from apportionment",
+      "excerpt": "A high-stakes six-month battle over who should be counted for representation in Congress ended quietly in a judge’s chamber Friday night when the Trump administration agreed not to release any population numbers from the 2020 Census for congressional apportionment or redistricting before the president leaves office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R2MNFXSXZEI6XKAX4XT7RJAG2Y.jpg&w=1440",
+          "width": 1440,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-16T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-trump-trial-pending-mcconnell-calls-it-vote-of-conscience.md",
+      "title": "Trump trial pending, McConnell calls it ‘vote of conscience’",
+      "excerpt": "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-16T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

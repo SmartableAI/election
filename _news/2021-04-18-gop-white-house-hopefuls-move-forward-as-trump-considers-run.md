@@ -1,28 +1,34 @@
 ---
 category: news
-title: "GOP White House Hopefuls Move Forward as Trump Considers Run"
-excerpt: "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he considered another run."
-publishedDateTime: 2021-04-18T11:49:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?context=amp"
+title: "GOP White House hopefuls move forward as Trump considers run"
+excerpt: "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he consid"
+publishedDateTime: 2021-04-18T13:35:00Z
+originalUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html"
+webUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 125
+heat: 305
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
@@ -41,6 +47,22 @@ related:
         width: 320
         height: 212
         isCached: true
+  - title: "Nearly All of Trump's House GOP Impeachers Set Fundraising Records Since Capitol Riot"
+    excerpt: "All 10 of the House Republicans who voted to impeach Trump for his alleged role in the deadly January 6 Capitol riot have managed to out-fundraise their Trump-backed challengers."
+    publishedDateTime: 2021-04-17T15:05:00Z
+    webUrl: "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417"
+    ampWebUrl: "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1779383/liz-cheney-ten-house-republicans.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run"
     excerpt: "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans."
     publishedDateTime: 2021-04-18T12:45:00Z
@@ -57,35 +79,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
-    excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
-    publishedDateTime: 2021-04-14T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
+  - title: "RNC Chairwoman Ronna McDaniel comes under pressure to show more independence from Trump"
+    excerpt: "Some party committee members want the GOP to create some distance from the former president — or at least grapple with the fact that Republicans lost the White House, Senate and House during his administration."
+    publishedDateTime: 2021-04-17T23:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 107
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKZT7DTBVMI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
-        height: 918
-        isCached: true
-  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
-    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
-    publishedDateTime: 2021-04-14T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
-        width: 1200
-        height: 630
+        height: 1080
         isCached: true
   - title: "Trump gains endorsement of the NRA"
     excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
@@ -101,7 +109,59 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
+    excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
+    publishedDateTime: 2021-04-16T22:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-607a0b0a8f0881c4146948ee"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 93
+  - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – as it happened"
+    excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
+    publishedDateTime: 2021-04-16T23:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079cff98f08a91092689e3a"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 88
+  - title: "Gregg Popovich keeps heat on owners, others who support Donald Trump"
+    excerpt: "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats."
+    publishedDateTime: 2021-04-15T00:29:00Z
+    webUrl: "https://www.expressnews.com/sports/spurs/article/Lonnie-Walker-questions-police-reaction-to-16101583.php"
+    ampWebUrl: "https://www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/46/71/20868732/3/rawImage.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Trump Issues Warning To GOP, Says Republicans Must Embrace His MAGA Agenda"
+    excerpt: "Donald Trump reiterated Monday that his platform was the way forward for the GOP, and those that weren't on board would face consequences."
+    publishedDateTime: 2021-04-19T21:19:00Z
+    webUrl: "https://www.ibtimes.com/trump-issues-warning-gop-says-republicans-must-embrace-his-maga-agenda-3183748"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
+        isCached: true
 
-secured: "6lfA3KL6Oy48ocHddmX+Ho0v6VTDJImXKWHv+eR8tBHwLACJx9OkMKq7GTM95c9mruPdfgtXAFLCL4tyAeratmYMPaPOgO3Npi17EKCqZ5B+74TFa2DGKYzMaq4CyDqH6Q4mO37Sb95RNv5VzlR328WMEa05+NxfmOuBACSVCxPe1MIOMw9Lk5lDgsu8luHpudo2uQSrMu5d9ZXDRyDraPe+GTk+gKoiYB2hmdF4zCsTLpJqJrMYbXhVTdAxwzviME4WxAlcYi7l/OssH8pPkw3a7lIeqzP9kwYBSI4gx+CKVAifnNbIiSAVV89zNQkNmVrb9z9k2ruVS//pHW0HeVBILnH7aWLjJVu+zNXNn4vHbjfF+eG+Hz4FYQRLAq9ZKk0wNKJYszVujwqhwHasPRiusX5rKMFiHBGdnWDHAJ7yFGW+xGSHZ4oB+ivmE0eeoSoD7ouI0vksAFsXwxwFIgdkmK8+kPJkd28mFUPzUkzSFI8xak7/qePHkpM8/T9PlUVVXDCQgaBVGdZv0S6E6A==;Q8yo6S8g71hafIDjOjtAnA=="
+secured: "/yJ3YFTpOS+habjr0aEZ8tsPC2JanniSZUXb/0EOig0P/Z34ahQr6X9vwt8r6bn+eRdYKbGWS1rbtI4VL9xbwCv0a1C+FjoUE+cwjxcRDg/n1fvwYsCd+1UIo7kPyH/aGw/+RGk/Y45cJCF5YSGL1rZn8wJ6joeYvjk6G/HD+F0h/yeL7Fjp/jUvwo7z8yCAF+K4d+WhJHNj8/z04ErZ39Famu7PBCxxvjX72twXdnoMNn1NDEOT/DSXvKJnfcbGsQi66z+t17l16+OqdGV3veHCB9GuWowPg4cgYF66wEvO5vGxF94Ocm8KzcIk9lxaQSRtM5uQWI/SltWDSVqyZzO2QzY7hLFZJDooV6+UV+4=;1axqeZWkhjwgphfEzDhs4w=="
 ---
 

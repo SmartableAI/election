@@ -32,6 +32,86 @@ images:
     isCached: true
 
 related:
+  - title: "Jill Biden revisits the idea of free community college"
+    excerpt: "First lady Jill Biden on Monday stepped up her call for affordable community college for all Americans who wish to attend, revisiting her support for free community colleges.\n    \n"
+    publishedDateTime: 2021-04-19T21:49:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MCGRiZdvrYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303151350-03-jill-biden-school-visit-0303-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House backtracks after Biden calls border situation a 'crisis'"
+    excerpt: "The White House on Monday backtracked after President Joe Biden over the weekend described the influx of migrant children on the country's southern border as a \"crisis,\" in what appeared to be a notable shift in language.\n    \n"
+    publishedDateTime: 2021-04-19T16:57:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jhyreVGvmk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/biden-border-crisis-unaccompanied-minors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/biden-border-crisis-unaccompanied-minors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210418073547-01-joe-biden-0417-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "First lady Jill Biden to undergo 'procedure,' White House says"
+    excerpt: "The White House says President Joe Biden will accompany his wife, Jill Biden, early Wednesday morning to an appointment where she will undergo a “common medical procedure.” The White House says both Bidens will then return to the White House and “resume their normal schedule."
+    publishedDateTime: 2021-04-14T02:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/first-lady-jill-biden-undergo-procedure-white-house-says-n1264011"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264011"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264011"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464490/210413-alabama-jill-biden-ac-954p_3c558f1d17e567ff0e9af70e01ffd607.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Live Updates: Biden Will Host Japan’s Prime Minister at the White House"
+    excerpt: "Prime Minister Yoshihide Suga will meet with President Biden and top aides in the afternoon, and the two leaders will hold a news conference. The visit is an opportunity for Mr. Biden to press Japan for its support in the effort to contain China’s economic and military ambitions."
+    publishedDateTime: 2021-04-16T11:11:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/16/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/16/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/16/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/16/us/16new-washington-briefing-japanese-prime-minister/16new-washington-briefing-japanese-prime-minister-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Senators to Biden: Waive vaccine intellectual property rules"
+    excerpt: "A waiver would pave the way for poorer nations struggling to inoculate their populations from the coronavirus to make the vaccines."
+    publishedDateTime: 2021-04-16T11:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/senators-biden-waive-vaccine-intellectual-property-rules-n1264256"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264256"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264256"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_15/3465202/210416-joe-biden-mc-1155_c99f90a0a886a7742215bfdcdba086ea.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Can this Latina law professor tapped by Biden help reform the Supreme Court?"
     excerpt: "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ..."
     publishedDateTime: 2021-04-14T16:27:00Z
@@ -47,6 +127,20 @@ related:
       - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "POLITICO Playbook: Why the next two weeks are critical for the Biden presidency"
+    excerpt: "Get ready for a big two weeks from the Biden administration: bipartisan infrastructure talks today, a major Covid and vaccine update speech from President JOE BIDEN on Wednesday, and a two-day climate summit starting on Earth Day this Thursday when Biden will announce America’s 2030 emissions target."
+    publishedDateTime: 2021-04-19T10:08:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/04/19/why-the-next-two-weeks-are-critical-for-the-biden-presidency-492514"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 111
+    images:
+      - url: "https://static.politico.com/40/22/ce04a5a7444b97c5a14388513d98/gettyimages-1232330796.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "yGVurJUrVYM1EfxBD+pmjLVCcHsMLgkROrbVYFkMSKnzrXipysVO85fOhk5ONb0DRg1+0KkX3FBAIswrOQWo7rBlWOZbNRxuxzOz/QJS90o2EgXsow0ZQgRCshLOZhu/nqspXD5Pqv8Yy7RVF1E5p0OObTvdQPBMvvEKQHd85z+G3CFWYMeX7WpwkQthK0WBYbdH/7i3juH4hzgY+pw33NcFXq38edtFFfIk+oQkSaurR8PI8ODtNGjOB+VNlYJG8B0RUAM3aNDDIxComPcrnC6SoA51iVy/3z9fS4pdlQfDCzx5DuHdGKS1xVoCmiEPkF5eQK+nwjRH8VXSgSqqKQa7AUaC7Wt1wloQo8YA/YE=;e22wGvpI35WJrk4jf+Z0lw=="
