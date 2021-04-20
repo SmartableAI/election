@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-20-trump-says-he-is-beyond-seriously-considering-2024-white-house-run.md",
+      "title": "Trump says he is ‘beyond seriously’ considering 2024 White House run",
+      "excerpt": "Former President Donald Trump said he is “seriously” considering another White House bid during an interview that aired Monday night. Trump teased the idea of a 2024 presidential run, but again",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/",
+      "originalUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/Trump-Republicans.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/amp/",
+      "publishedDateTime": "2021-04-19T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-tucker-carlson-says-maxine-waters-guilty-of-greater-incitement-of-violence-than-donald-trump.md",
+      "title": "Tucker Carlson Says Maxine Waters 'Guilty' of Greater Incitement of Violence than Donald Trump",
+      "excerpt": "\"Is Maxine Waters guilty of greater incitement than Donald Trump? Well, of course,\" Fox News host Tucker Carlson said on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/tucker-carlson-says-maxine-waters-guilty-greater-incitement-violence-donald-trump-1584876",
+      "originalUrl": "https://www.newsweek.com/tucker-carlson-says-maxine-waters-guilty-greater-incitement-violence-donald-trump-1584876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1780198/tucker-carlson-maxine-waters-donald-trump-incitement.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/tucker-carlson-says-maxine-waters-guilty-greater-incitement-violence-donald-trump-1584876?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-says-maxine-waters-guilty-greater-incitement-violence-donald-trump-1584876?amp=1",
+      "publishedDateTime": "2021-04-19T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna.md",
       "title": "Trump: FDA pausing Johnson & Johnson was ‘terrible,’ only benefits Pfizer, Moderna",
       "excerpt": "Former President Donald Trump criticizes the FDA for their management of coronavirus vaccines in an exclusive interview with \"Hannity.\"",
@@ -1248,120 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-100-days-without-trump-on-twitter-a-nation-scrolls-more-calmly.md",
-      "title": "100 Days Without Trump on Twitter: A Nation Scrolls More Calmly",
-      "excerpt": "Democrats are breathing easier. Republicans are crying censorship. For all of the country’s news consumers, a strange quiet has descended after a four-year bombardment of presidential verbiage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/18/us/politics/18trumptwitter/18trumptwitter-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html",
-      "publishedDateTime": "2021-04-17T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-florida-woman-charged-for-allegedly-threatening-to-kill-kamala-harris.md",
-      "title": "Florida woman charged for allegedly threatening to kill Kamala Harris",
-      "excerpt": "A Miami woman has been charged for allegedly threatening to kill Vice President Kamala Harris, according to a criminal complaint filed in the United States District Court for the Southern District of Florida.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D6pMHK2oAD4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D6pMHK2oAD4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210416215801-01-kamala-harris-0415-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/niviane-petit-phelps-charged-threatening-kamala-harris/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/niviane-petit-phelps-charged-threatening-kamala-harris/index.html",
-      "publishedDateTime": "2021-04-16T19:23:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

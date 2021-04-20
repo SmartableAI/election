@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-23-trump-says-china-laughs-at-the-us-for-woke-politics.md",
+      "title": "Trump Says China Laughs At The US For 'Woke' Politics",
+      "excerpt": "The former president shared his thoughts and opinions on the Biden administration, as well as what he believes other countries think of the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
+      "originalUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg",
+          "width": 1024,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
+      "publishedDateTime": "2021-03-22T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-trump-predicted-news-ratings-would-tank-if-im-not-there-he-wasnt-wrong.md",
+      "title": "Trump predicted news ratings would ‘tank if I’m not there.’ He wasn’t wrong.",
+      "excerpt": "Newspapers, television, all forms of media will tank if I’m not there,” he augured in 2017, “because without me, their ratings are going down the tubes.” Barely two months into the post-Trump era, news outlets are indeed losing much of the audience and readership they gained during his chaotic presidency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3HBE7SU54I6XLGFSLJIDGQ4ZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/media-trump-bump-slump/2021/03/22/5f13549a-85d1-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-22T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-house-republicans-who-backed-trump-impeachment-warn-dems-on-iowa-election-challenge.md",
       "title": "House Republicans who backed Trump impeachment warn Dems on Iowa election challenge",
       "excerpt": "A group of nine House Republicans that voted to impeach former President Trump has signed a letter to Speaker Nancy Pelosi (D-Calif.) warning her against pursuing an investigation into the Iowa electi",
@@ -1463,115 +1567,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-no-question-trump-worsened-anti-asian-sentiment-wh.md",
-      "title": "'No question' Trump worsened anti-Asian sentiment: WH",
-      "excerpt": "Top News 'No question' Trump worsened anti-Asian sentiment: WH Posted White House press secretary Jen Psaki said on Wednesday there is \"no question\" that the Trump administration's rhetoric on the coronavirus pandemic has elevated threats against Asian ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
-      "originalUrl": "https://www.reuters.com/video/watch/no-question-trump-worsened-anti-asian-se-id727374230?chan=94w50zwf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H8HR3&r=OVE4H8HR3&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-china-plans-to-ask-us-to-roll-back-trump-policies-in-alaska-meeting.md",
-      "title": "China Plans to Ask U.S. to Roll Back Trump Policies in Alaska Meeting",
-      "excerpt": "Photo: Adam Chapman for The Wall Street Journal Beijing plans to press Washington to reverse many of the policies targeting China introduced during the Trump presidency in the first face-to-face meeting of senior U.S. and China officials since President ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995",
-      "originalUrl": "https://www.wsj.com/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-312834/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-plans-to-ask-u-s-to-roll-back-trump-policies-in-alaska-meeting-11616013995",
-      "publishedDateTime": "2021-03-17T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

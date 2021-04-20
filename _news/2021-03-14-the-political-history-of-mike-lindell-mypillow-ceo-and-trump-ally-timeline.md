@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3?amp"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/01/USAT/9489a161-ccda-4a4e-baba-f3b727211612-mypillow.jpg?auto=webp&crop=4031,2267,x1,y587&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'Fake Trump' Prank Calls MyPillow CEO Mike Lindell During Livestream [Video]"
+    excerpt: "Mike Lindell was duped by a prank caller posing as someone with former President Trump The pranks come after his social media site's launch was plagued with issues Lindell on Monday filed a countersuit against Dominion Voting Systems MyPillow CEO Mike Lindell on Monday became a victim of prank calls during a telethon aimed at raising money for his new social media site,"
+    publishedDateTime: 2021-04-20T03:57:00Z
+    webUrl: "https://www.ibtimes.com/fake-trump-prank-calls-mypillow-ceo-mike-lindell-during-livestream-video-3183930"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg"
+        width: 1024
+        height: 670
         isCached: true
 
 secured: "r8p8J1WqAIXbLixJttK8lEkwzDsO6EfmkN+kj+87pXHYQ62eqyW1UWnAqNiuTKxQWfnCUBKcN421I+kfZrQPfkfi4M65SsdeBSwe4K7jmUe19RqokJLGt/mH/fn2X6lWcJPxPqBMQ2Dj/Rg1jS4Zq6CZZRSsazQ5xIxK3wTMpgZgjED6YNJ+Iju6CKHNzUU64/okhGaS6osmh3U8F8OFteLR+O9FgfuUt38vIBIdoxSKsgBb/WMistulGvAyxK5l6DpcafCOypZe/rHlnKcGrNAgcsgoU7dsvEj6rDRd/Q212almUVrE5se4jeyCnPn0o2BxpEkf9z20mSk0HBCTdZ9MJGG/fSWGKJxe2JoRlHPRasOv/wvxCsh/nvpEiaBNFVvyqTorEfi5TIHOjz8wY7RUxm7Ko5IXT+3e0Ipn0ZONTwEuWgU1Ry7cP5uasycjgyUd+/7WzovTdayXApGVDAc9UUpgltUO3GmoCq3EVgS1i8blVXG2RkAKn2Xz1/YrrYbc891CZI9Ma4D6OS5Gtg==;d2LBvVp7gMzdM+YNC8kidg=="

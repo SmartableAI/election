@@ -47,6 +47,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "'Fake Trump' Prank Calls MyPillow CEO Mike Lindell During Livestream [Video]"
+    excerpt: "Mike Lindell was duped by a prank caller posing as someone with former President Trump The pranks come after his social media site's launch was plagued with issues Lindell on Monday filed a countersuit against Dominion Voting Systems MyPillow CEO Mike Lindell on Monday became a victim of prank calls during a telethon aimed at raising money for his new social media site,"
+    publishedDateTime: 2021-04-20T03:57:00Z
+    webUrl: "https://www.ibtimes.com/fake-trump-prank-calls-mypillow-ceo-mike-lindell-during-livestream-video-3183930"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg"
+        width: 1024
+        height: 670
+        isCached: true
 
 secured: "mgp6+eyO8qsjf5MrbRfPhklJKKuHX70hgVmHsScr7xPWs49KthqgdyKh8c32BXb2+GzrDDh9aN9j2HVqcV3hgE3sjbBUQLDWf+EejzC2JlUTW1H+cYRHQiwJ8lOwDYzyjPnibCsmuWeD3GY6d/E8hKYHg4Ves2+S0sIIj6qTQ2Ks0HErVIYQ0UyLwvtjcDZ/oLoy/gFAAOnOc2H/IeVWIkS86w6EvXaVAvjEAVqMsPsZJ18npuQESHu7wZuA4KBwW7kUrKMHEGa9XDLCOT3HhIAna7fYXpzlHFoyjtsFB5XuQsDW9o8Th3SwS6/2ViFnbNllFM1iO6NCNd52ttws8LhrqzCLZRGku6nMYwuicLJWDI5IPolvVVFVFF+d7QnSKLcPPh2TuoC6tnlpV8y8n8BDFJxH5NLrCdAvXqhFJpWPvjwHRnh/3EKGbUo1fS3zWCE6tdUjASSYHWF/Wc06JSuh253RaUexLuB19Hm0tX7cqY9oGtGQwhXhdKu+XCXXOcZyzPmMOk86ccP5SjU6MQ==;V6y3SM6v43c+514jb6Ysow=="
 ---
