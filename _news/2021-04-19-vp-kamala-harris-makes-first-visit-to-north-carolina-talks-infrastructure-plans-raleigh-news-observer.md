@@ -2,9 +2,9 @@
 category: news
 title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
 excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
-publishedDateTime: 2021-04-19T14:39:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
+publishedDateTime: 2021-04-19T15:41:00Z
+originalUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
+webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
 type: article
 quality: 17
 heat: -1
@@ -391,6 +391,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "o3EUEX4TYCfqs7n9NDqiaFPYa0QekTH8jMJZ8XnTy8uSxFOQMPjyn+L7rmXbdFe1Ih5l2oM5XBHkP0eyC/2FJwSb9iYyXs/cK1NVBzs6BpVnaoQiCLrreWSrRYPkBRnMVIxdJI5dfZAYsByYDDVk3smQytNQeUBl6cJJmTGs7AThDXQbQ4RMlxBiQG8Z09RqxB+ijzpdZr+6+1kjmPPUDAHlK2ybOf5Y08zT52K25VRPrA9SGI1hGqVU35w/x8UOouAvJcje9i5DYg/+swgu3R56B+ur/MyvrNFTtkzSgHcBNR/tkPRur3HejCQfZo58nuK/62YnIbAGd3gilQKkhq8jEcMSamf7/W+OzN8jriuVnq1yvGnSL3HNGV/d2mB93MMlVtU6DxXEMBbWyRuxltjGiS0kiOqNj50cIOXaagLf1T/PBpd7Gu6sLITfqAe2eXdmJmLF41B/gin5bzjsRn282R1czBWSLdnopUb6OexCvBVNty+huoYnv8PfCEoH+YvIWadFup/FUGwlw5SxYg==;O82PKf4zERE/vJC/0upTMg=="
+secured: "OXO2apTNoZoobGEhkvQS/1kkTqFRQ1XvYYwxas5RDbp/7QGolPXCZbAunLK+gDJQUnth5LERQjqxSsu8jdZT7dETNLa2danytO9HKsbwRrGNDOsRhyTG4ace16ej+eNiXPS/PXGD+S71jyH3pjT3mK6E/9TZiIXis9V6IBMKUztX2yBG3+ufx87jNyGNCbyX7M5jSzIjpxXXiY+JDaYs53mCQMK2lGditFYvqKIeUK//f1S49Hr+zJBB2h0Bf54rEJMqWsURaHgC/hg0/AZKaz5cqveeAhPBWUPUjOl1w9buT2lIM86rx8jGwCYDpzTIBLn6JxLjfDcAA98azX3f59VanFBl2HYJJvpiZEq3hF1HfNzH8n0vS/hMDChB06BYuiX/+UjMUoKjnIBrGANFTe+rxQhjoKeCyX6jS5ne1Pg/Ij4+RTBny4RohP+HV3HAOeWyR2Ciuvkb1oqOdHUtuU53AfhDHo+P1Bg36ABxC4yXn6wti4JgTPet6SXrhfWuwMHpgGl9Bq3rZs9WwQV3+w==;tPtWOFtvGyi2ldbMseRgEw=="
 ---
 

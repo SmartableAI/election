@@ -207,6 +207,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Bush warns Biden withdrawal from Afghanistan risks harming women, girls by empowering 'brutal' Taliban"
+    excerpt: "Former President George W. Bush warned Tuesday that President Biden's decision to withdraw all American troops from Afghanistan by Sept. 11 could have harmful implications for women and girls if the \"brutal\" Taliban retakes power. "
+    publishedDateTime: 2021-04-20T13:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xd00LhSkFVk/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban"
+    ampWebUrl: "https://www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
     excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
     publishedDateTime: 2021-04-16T11:16:00Z

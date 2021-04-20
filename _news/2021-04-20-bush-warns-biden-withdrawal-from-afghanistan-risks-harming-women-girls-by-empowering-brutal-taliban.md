@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Secretary of State Blinken visits Afghanistan in surprise trip after Biden troop announcement"
-excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Afghanistan on Thursday to sell Afghan leaders and a wary public on President Joe Biden’s decision to withdraw all American troops from the country and end America’s longest war."
-publishedDateTime: 2021-04-15T12:28:48Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_6coFj4Z9A/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_6coFj4Z9A/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement"
-ampWebUrl: "https://www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+title: "Bush warns Biden withdrawal from Afghanistan risks harming women, girls by empowering 'brutal' Taliban"
+excerpt: "Former President George W. Bush warned Tuesday that President Biden's decision to withdraw all American troops from Afghanistan by Sept. 11 could have harmful implications for women and girls if the \"brutal\" Taliban retakes power. "
+publishedDateTime: 2021-04-20T13:36:25Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xd00LhSkFVk/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xd00LhSkFVk/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban"
+ampWebUrl: "https://www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
 type: article
-quality: 164
+quality: 159
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/02/640/320/AP19030745305241.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Secretary of State Blinken visits Afghanistan in surprise trip after Biden troop announcement"
+    excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Afghanistan on Thursday to sell Afghan leaders and a wary public on President Joe Biden’s decision to withdraw all American troops from the country and end America’s longest war."
+    publishedDateTime: 2021-04-15T12:28:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_6coFj4Z9A/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement"
+    ampWebUrl: "https://www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/02/640/320/AP19030745305241.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden announces Sept. 11 Afghanistan withdrawal deadline, says it's time for troops 'to come home'"
     excerpt: "President Biden on Wednesday announced that the U.S. will withdraw all American forces from Afghanistan by Sept. 11 — pushing back a May deadline set by the Trump administration."
     publishedDateTime: 2021-04-14T18:39:32Z
@@ -207,22 +223,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Bush warns Biden withdrawal from Afghanistan risks harming women, girls by empowering 'brutal' Taliban"
-    excerpt: "Former President George W. Bush warned Tuesday that President Biden's decision to withdraw all American troops from Afghanistan by Sept. 11 could have harmful implications for women and girls if the \"brutal\" Taliban retakes power. "
-    publishedDateTime: 2021-04-20T13:36:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xd00LhSkFVk/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban"
-    ampWebUrl: "https://www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
     excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
     publishedDateTime: 2021-04-16T11:16:00Z
@@ -240,6 +240,6 @@ related:
         height: 500
         isCached: true
 
-secured: "s+j1iHCPCkLBzBFNDZyoNgbt0FKscJb1NvE77h6mAZy/KIqrLXkQwJgvZA1x8PFzTyG5JXBktHEryxynHelC4VpBlok8FwvQipnrf58510ARJHkjemIzvpunCBzubkFvtNucrH9lP5dq5G9O8nVxygevAIDNCkIena0V2wshQKO0+8t4DPRRHYn7Ev1W5WlHG1WMjyUwekHkXCilpPCmAUmnYxUrCDfJdQtKcfBStZVqsXiThtFikhgSAcNw7VAc26Z3JIhXOZF1MCCzQ9KTOVA5CspMxomGqa3RFOnnjLIvNs+WIWMGsIbH4AEZbe6loUmvIs9N+x1PKaXOKTn80vISR8oVXPZO1bTuOsNYVKE=;pAfiyBtXF5OqFWatVHh5tw=="
+secured: "bwvg3BWk4PhN96b1BzmnKPRsYMu12Mm8m0zdUZtNSGVxdYJhZqM+Fzi8HwO/LhIw6tNOEavB0u9pyDudyYmn8tu9hwHyPcADLih8vulRXan3T9UDaAqYG91IElKokSc1sZAad1ZSOi2QPeiNGn/8ogbaaZaqH1f6aq0i43exp99OfZN3eXukjZ7tZO/fBzFu3XOE96Ql5LQaXLZDKHd6c0+5izEvnzNFajDq1UXw/9eO+B/NedEMUTywQex6E7ACLnmBDFdTwcr/KgcAW2ZzyIlmqILBYeK8647Af8o8KnR/4z8LD8t/mZ4tb7bW+wjJk0Ei4/zM4peL+BXy7RR5K/qiYSKyGLpurbKBOJmfZU8=;ukJPDEBckquefzNq3bzEnQ=="
 ---
 

@@ -2,7 +2,7 @@
 category: news
 title: "Donald Trump Jr. takes on new role as top adviser inside the Trump family"
 excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vice grip on the Republican base for any chance of success.\n    \n"
-publishedDateTime: 2021-04-20T11:14:57Z
+publishedDateTime: 2021-04-20T13:30:37Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ws83lHl9dR0/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ws83lHl9dR0/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
@@ -92,6 +92,6 @@ related:
         height: 773
         isCached: true
 
-secured: "FAQNNQ7N5433kT0vtdpZA7wUI30JUKUS/IkGjjqPCmcJrQgw4GEy55AWYWwyn4g4oN7ZWFlNrorUykIiAgX0UhDtRULIOiUE43qa4TkdsbbLefHNXBvdism9UJprf5GeC/oCLaD6+ZfpDgY8Z25rtlSg1zkUApCryuneaBlxE6LjqbfLd2YPbApHoepoBlVWhX0j9aU826qgWwZxez7DorIHYNV6h7EFZmFFpGfZz+SVzWaHK+uWrJyasKD3W0IPsHeieNlOCyxhpVMxeAfohOmz24AZqRrOUfoXs43PwuruVzcHqCIZ4lhmXiYrHazmD+m1+dOlwCFTm4eIM4Egv1SUHPLKQDVWEc1ucIkxO/s=;zFHEsVfy7+QDwVn6xP4yEg=="
+secured: "/9ww5RlxzrkphKQpQahf2JC9vVWb3ts6/1lb4GaKXRi6kwBuA0uunMQGzijJ+s/94NaAvWPhBhCV0cYELd661ILgt8gy4rs45qzLCYAxCdt2iN0RXRtI3UisIWHudiGkEth4PuIi7xG5J8bEFyp8BxGPf/vI4D1F5w1N38lieKb9ETFPDIER2zcwDXHOCkcRqtNoBv76LCidaSurNJyJQ974fPlBj20/2kDiJVTG6XJ/r46Ejt2/Qc1mZiR01ddGgentol/em4KaUbr+zi4S/ovIq8f6i4n0Fwk7fdQrzw77UNVJ6WqMDEQylqbjNc8bR5QQ2QGJTWSlx25gViGM8l432nr1J5Fhl1ZnwdJgyc4=;7mERCFMIeD0wTEk2b5aBiQ=="
 ---
 

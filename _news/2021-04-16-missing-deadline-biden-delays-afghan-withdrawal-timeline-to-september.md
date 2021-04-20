@@ -220,6 +220,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Bush warns Biden withdrawal from Afghanistan risks harming women, girls by empowering 'brutal' Taliban"
+    excerpt: "Former President George W. Bush warned Tuesday that President Biden's decision to withdraw all American troops from Afghanistan by Sept. 11 could have harmful implications for women and girls if the \"brutal\" Taliban retakes power. "
+    publishedDateTime: 2021-04-20T13:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xd00LhSkFVk/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban"
+    ampWebUrl: "https://www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "SQRHhQ5LL38/Fz+zGxm8gI+cUAFemdz/SzQwvOA85fnlVX0gCNJh4hQmnkJJPCHtDvJR7vjVbmWbRkA7HFDbjVlPIf+Orpu6hXb02OU0CFCNDEN5bO7PSAkLMYep7uvzzlpCgRdzsUbUizl5rgfdwRLILjYXugYhE/8jphqsRumzsJDDm2Gd+l6d7eGHsZXbL7OoErPnldEKkCYgxvnxLTkUyyv74YJLI6xIBJ/0ugAHTZf2XC8b0GSUUDk6kLlzSEz2iLKk2BBbyUY0bLN8RGiKYGcMHNfyEymABHHg6+MeuBN2bclRSdIA7fq76cmKT78wJrgVHTb0Yh1WbkML3XhIeauBLrWC8kRn3llujzXaP0LX3JB79WtD2nlV9TusaW6o6LG+13fnCj/OI5kuksf7CXgUlCHTqiUcw6fdJHNMKVE2/BSsQN1TcL6cPQQxqZ1ot+75SymTzk33YrTNKGVBFqRvgU8HVS/gls8lgCZCC8iT1BnsPGcdPiMytGKbO9v+431C/HxDRmOGpBKrww==;ZhcNQ5hZ3tnNrc/gQU72yg=="
 ---
