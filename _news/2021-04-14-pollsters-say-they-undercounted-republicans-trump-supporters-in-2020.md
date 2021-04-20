@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/pollsters-say-they-undercounted-rep
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142"
 type: article
 quality: 135
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "House Republicans Who Voted to Impeach Trump See Fundraising Boost"
-    excerpt: "The 10 Republicans who voted to impeach then-President Trump after his supporters stormed the Capitol raised significantly more money during the first quarter of 2021 than they did two years earlier."
-    publishedDateTime: 2021-04-17T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-326160/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Historians’ Evaluation of Trump Is Underway"
     excerpt: "The historians' evaluation of Donald J. Trump is underway.... Read Full Article »"
     publishedDateTime: 2021-04-11T11:39:00Z

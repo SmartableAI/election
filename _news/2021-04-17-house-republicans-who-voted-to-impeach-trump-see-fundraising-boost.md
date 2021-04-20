@@ -32,31 +32,22 @@ images:
     isCached: true
 
 related:
-  - title: "Pollsters Say They Undercounted Republicans, Trump Supporters in 2020"
-    excerpt: "One report, released Tuesday by five Democratic polling firms, finds that their surveys undercounted voters who viewed former President Donald Trump as “presidential.’’ Another, by the nonpartisan Pew Research Center, concluded that obtaining the ..."
-    publishedDateTime: 2021-04-13T21:32:00Z
-    webUrl: "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142"
+  - title: "Reps. Roy, Herrell move to force House vote on extending Trump-era border restrictions"
+    excerpt: "FIRST ON FOX: Reps. Chip Roy, R-Texas, and Yvette Herrell, R-N.M., on Monday moved to force a vote on a bill that would keep a Trump-era public health order -- which allows migrants to be rapidly expelled from the U.S. -- in place until the COVID-19 pandemic and associated restrictions are repealed."
+    publishedDateTime: 2021-04-20T11:01:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pUYbfdUD37M/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
-      - url: "https://images.wsj.net/im-324404/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aba89ef-13d8-476d-a099-2e7d6c407a22/d8eb31b2-fab7-48ac-b0ae-0ad08d4aa013/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Historians’ Evaluation of Trump Is Underway"
-    excerpt: "The historians' evaluation of Donald J. Trump is underway.... Read Full Article »"
-    publishedDateTime: 2021-04-11T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/historiansrsquo_evaluation_of_trump_is_underway_540245.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "DtknmLUIhF4+VfEYQN8C8vuohiVsAYrSEfBOoKPZo999gmAMwrJunUw8dO2QYaimEtFZuI1G/9SlaCxTI0GjEhsF4r6bzXUJ4//BELSTHRPDAC36oTe8G5Q3h9hhEifJ8H9CLZJBB6sblPdtb2//17A7D9YLysaw3nKHN3r/v8+EUCKoV2pTa9I5OxeNVCCwzM+CCJe4RwBr8Z4yUJ6ISwmFa/McaEwySLOBK/873a+gjHaXYHMBBmqlV3rJuByOL52d/vooMror4+OpghWGpQU1HBhPFMcNTqmJFtylM/q+kuIZ0M18zH2M+xEgvoLYqO4fYh/bfJ78Th6IdXIHIdfglEaJnvmpieB4utORmW0BNR432bv/JTyeqMn66extBXyPPqpQnJ6gWhiLzGY1z+kgcUJtdxzoWi2MuI6k4AdX/Nkv8ZqsI7IwsBUQ4VPsjO32DXu/5CD4KtpAZDE1eltruXsYl/xhUE1pUOeGixz0fuoxKpRHMcqVgJrdZrrcfwlQUC+i65ByY1tOubo95A==;5TabURMVjt2H9TXVanwlLg=="
 ---

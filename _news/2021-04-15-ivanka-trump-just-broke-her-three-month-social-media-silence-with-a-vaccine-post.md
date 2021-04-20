@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Didn't Form a Populist Coalition; He Was the Result of One"
+    excerpt: "They're still there, planted in front of stately homes in wealthy suburban neighborhoods, on flagpoles in middle-class communities and along"
+    publishedDateTime: 2021-04-20T10:07:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540937_5_.jpg"
+        width: 750
+        height: 520
+        isCached: true
 
 secured: "a9faPftoXs4BfC1kqAzHXVtC/qVVPemlrlDEEPl7kH31liy71JyL7ORMi1Gtb5TniJd+FsdgCvlD6HqOcMJKJXswjMz9xYlTmH/Wj7TtlWmvjL/G9UPAdFBi9W7PjMEwbaRndfhseQsSPjtD1djx59L9+/bM6dfsHjGgE5MWcr53T/TbCgptuuQOgn0ct2a/Al0KbYUrWDg3LDVHIN1Z0Lrr6z/nTPzr/K6jnWkXNJXis/QXZTtqNdGDejc+dsASlmOjcFbgc7Xo4KBtExMKDCti0gEoRiXegwuP4sdaeId6MpjxwWQf3JUWAqb+/Gq4m+zHQpd1rMRSRrbiRbiohR7CFarKjx1PeQ5ItdhKOzw=;o7RMS1ZroNh16WK1hF2dQw=="
 ---

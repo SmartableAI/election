@@ -2,6 +2,62 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-02-22-john-kerry-colluded-with-iran-to-undermine-trump-report-says.md",
+      "title": "John Kerry 'colluded' with Iran to undermine Trump, report says",
+      "excerpt": "Biden administration officials, including John Kerry and Robert Malley, had meetings with Iranian Foreign Minister Javad Zarif during the Trump administration that were orchestrated to undermine President Biden's predecessor, a new report claims.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lS2DBS5fcNA/john-kerry-iran-trump-biden-washington-times",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lS2DBS5fcNA/john-kerry-iran-trump-biden-washington-times",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/zarif.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/john-kerry-iran-trump-biden-washington-times.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-iran-trump-biden-washington-times.amp",
+      "publishedDateTime": "2021-02-22T12:09:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-trump-supreme-court-tax-return-decision-a-continuation-of-the-greatest-political-witch-hunt.md",
       "title": "Trump: Supreme Court tax return decision a ‘continuation of the greatest political witch hunt’",
       "excerpt": "Former President Trump on Monday slammed the Supreme Court for declining to halt the turnover of his tax records to a New York prosecutor, calling it “a continuation of the greatest political Witch Hunt in the history of our Country.”",
@@ -1292,49 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-ella-emhoff-kamala-harris-stepdaughter-is-a-new-kind-of-style-icon.md",
-      "title": "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon",
-      "excerpt": "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/",
-      "originalUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771",
-          "width": 1024,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/",
-      "publishedDateTime": "2021-02-20T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

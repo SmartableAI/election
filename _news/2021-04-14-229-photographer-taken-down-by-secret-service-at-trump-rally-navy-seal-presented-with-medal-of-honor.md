@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/0229-photographer-taken-down-by-secr
 webUrl: "https://www.cbsnews.com/video/0229-photographer-taken-down-by-secret-service-at-trump-rally-navy-seal-presented-with-medal-of-honor-1/"
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Trump looking 'beyond seriously' at 2024 run"
+    excerpt: "Former President Trump in an interview broadcast late Monday teased a run for the White House in 2024 but declined to give a definitive answer on if he has made the decision to pursue the Oval Office for a second time."
+    publishedDateTime: 2021-04-20T11:44:00Z
+    webUrl: "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run"
+    ampWebUrl: "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_trumplgbtqsuit_110420getty_0.jpg"
+        width: 1440
+        height: 880
+        isCached: true
 
 secured: "ch5lA0Rh56whemGzysvolRm+9nc6F36TLbZcY/wUMKf1X4n9pi/YOgkYCwjB6o65Bp95KGFLNRHCuJA8XudgGf3tg8OowLSD4MIEGeHzlPeihegiY+TVbeEBx4eaOjzGQitE1b37l+EppvbvyjD5sdlE2DbkjyNGKpf4cTWM/If2suPbPsw5abb7+wiNgEevPlf248vfUs1vrWO3HQMwUoG99waxhWVQnHQrXWCQqjTNucVlzw7ErN3GZYVZBo76ni7/sRbLWTy23Y0K2h2Qk1y6kbImCYF90jPSXwMGw3MlZtI/z3REL3ZcjBJ5fFPOngYn+7h/5Ku+i5feA19tvZlJW2JrY70EEVNJ2nbQnkLtyUild5XHh5YNW9weyT85KLQl9DXARv3YtNlZvx4JjE8BhRIFLvOKVq8eNUHflwwCiZe8YoeufYKjEpHxJ93+PFr307QB7uwP7KXD8QInSstA3erNuZ1j9MtE0Wj+GHSTHhBbwtveeVicxVHdazv3SJS+U+D+/jaOnRmhc9r/IQ==;dGxAao1oNcnvNHYBffyzSw=="
 ---

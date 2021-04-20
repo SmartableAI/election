@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "GOP group tells online donors: Give every month or 'we will have to tell Trump you're a DEFECTOR' "
-    excerpt: "The campaign arm of House Republicans is using an aggressive tactic to push online donors toward committing to monthly contributions, telling them that opting out of having the same amount automatically charged to their credit card or withdrawn from their bank each month is an act of disloyalty toward"
-    publishedDateTime: 2021-04-08T17:42:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmj4mQ13sSg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-trump-defector/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-trump-defector/index.html"
+  - title: "Donald Trump Jr. takes on new role as top adviser inside the Trump family"
+    excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vice grip on the Republican base for any chance of success.\n    \n"
+    publishedDateTime: 2021-04-20T11:14:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ws83lHl9dR0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319215641-donald-trump-022821-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419134709-donald-trump-jr-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging"
+    excerpt: "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol."
+    publishedDateTime: 2021-04-19T11:01:00Z
+    webUrl: "https://www.cnn.com/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416231950-tump-murkowski-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -59,6 +75,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/a3/a8/071c144f4e0bb0c5b9072ecb0de0/texas-congress-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "POLITICO Playbook: GOP struggles with how to handle Trumpism — and Trump"
+    excerpt: "In her statement, sheONALD TRUMP, which are steeped in white identity politics — and that could make this situation a bit sticky for McCarthy to handle. It’s all a big reminder that GOP leadership is still unsure how to handle both Trump and Trumpism."
+    publishedDateTime: 2021-04-18T15:11:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/04/18/gop-struggles-with-how-to-handle-trumpism-and-trump-492508"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/76/b6/b7daf8e84b9a8c1e2d0613fdb84a/gettyimages-1230985238.jpg"
         width: 1160
         height: 773
         isCached: true

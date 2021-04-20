@@ -2,6 +2,63 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-18-mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.md",
+      "title": "Mike Pence on Rush Limbaugh's impact: 'America lost a giant today'",
+      "excerpt": "Well, we're mournful because we lost a giant today, a great and unparalleled radio icon, of course, Rush Limbaugh. But we're also grateful for having heard his voice and wisdom for as long as we did.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today",
+      "originalUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a29c2a4-7100-4203-8ca1-de0202648473/ea288b70-6978-4fe5-a888-523c7aab4ed9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.amp",
+      "publishedDateTime": "2021-02-18T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.md",
       "title": "Trump hails Rush Limbaugh on 'Hannity': 'They all respected Rush'",
       "excerpt": "They all respected Rush' Former President Donald Trump joined \" Hannity \" on Wednesday night to remember conservative radio host Rush Limbaugh, who died at age 70 after a long battle with lung cancer .",
@@ -1607,62 +1664,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp",
       "publishedDateTime": "2021-02-11T12:59:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-psaki-admits-parents-shouldnt-be-satisfied-with-in-person-school-one-day-a-week-as-biden-takes-heat.md",
-      "title": "Psaki admits parents shouldn't be 'satisfied' with in-person school one day a week as Biden takes heat",
-      "excerpt": "White House press secretary Jen Psaki said parents shouldn’t be satisfied with schools reopening one day a week, after doubling down on that as the White House goal for the 100th day in office. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PDVMZRSczY0/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PDVMZRSczY0/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21034688188622-e1612386247366.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-parents-shouldnt-be-satisfied-in-person-school-one-day-a-week.amp",
-      "publishedDateTime": "2021-02-11T11:05:11-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
