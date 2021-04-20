@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-se
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says he is 'beyond seriously' considering 2024 presidential run but can't discuss it for legal reasons"
+    excerpt: "\"I am looking at it very seriously. Beyond seriously,\" former President Donald Trump told Sean Hannity on Fox News."
+    publishedDateTime: 2021-04-20T13:42:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-very-seriously-considering-2024-run-fox-news-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-very-seriously-considering-2024-run-fox-news-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-very-seriously-considering-2024-run-fox-news-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/607e960044f4540019207a05?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "2/29: Photographer taken down by Secret Service at Trump rally; Navy SEAL presented with Medal of Honor"
     excerpt: "A photographer was slammed to the ground by a member of Donald Trump's security detail at a campaign rally on Monday; he was awarded the Medal of Honor at the White House Monday for his courageous actions."
     publishedDateTime: 2021-04-14T15:28:00Z

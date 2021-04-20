@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
 type: article
 quality: 139
-heat: 459
+heat: 499
 published: true
 
 provider:
@@ -268,6 +268,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
+    excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."
+    publishedDateTime: 2021-04-20T15:56:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 67
+    images:
+      - url: "https://www.nydailynews.com/resizer/thv70YWnM_eo0AYGd6KJThFR_zk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JE4YEY4NUVHUPBE3YYBCXWCQ7Q.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "George W. Bush Condemns the Trump-Era Republican Party"
+    excerpt: "Bush Condemns Trump’s GOP Former President George W. Bush derided his Republican Party on Tuesday for what he said it has become in the era of Donald Trump and misinformation, describing the GOP as \"isolationist, protectionist and, to a certain extent ..."
+    publishedDateTime: 2021-04-20T17:47:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-20/george-w-bush-condemns-the-trump-era-republican-party"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "AmHOJR2BzywbZZMpTc+D1oav1O3fc87wt3/FADZVioyYMsmyvHvllHLb2eXcU/R+VR9oyfHriLTsS22FYN0g8Tpa4qX2ugy25+YaZwbXY1uQMgMxaWnETYsVFS+/+/cY7Q2OXjapl3LFp4DeINfU0IiBE0tyki6yKKCV7y6MjJ7tXKgoNoYsve4YwwB1cQIxfI5MR5fpHNBbQ2WiqvhCacfOf/XxDF+n3JRi+xctLPpb0JVOQxC2ZFa6l8iSGZP3ZEz6XZnAm/c+Fug8UvjLqLifMEVC16oeaXfxAet7QYr9+yE5R5F6BCe+7D+x+W6/F3RFY8Ew1FiZdOxk/ghNTZ8OAzV7AIfvhhcmzDAd1vo=;mBJqeBBDpVUqOkTuhxuxjw=="
 ---

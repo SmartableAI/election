@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Top Biden national security officials to brief lawmakers on Afghanistan Tuesday"
+    excerpt: "Top officials from the Biden administration's national security team will brief lawmakers from both parties about the decision to withdraw troops from Afghanistan on Tuesday, sources told CNN.\n    \n"
+    publishedDateTime: 2021-04-20T16:39:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hTo9_6wrmSw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/afghanistan-administration-officials-briefing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/afghanistan-administration-officials-briefing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401133658-01-biden-cabinet-meeting-0401-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
     excerpt: "President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some strange bedfellows over what to do about America's longest"
     publishedDateTime: 2021-04-13T19:12:19Z

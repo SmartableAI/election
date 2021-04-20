@@ -2,9 +2,9 @@
 category: news
 title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
 excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
-publishedDateTime: 2021-04-19T15:41:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
+publishedDateTime: 2021-04-19T14:39:00Z
+originalUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
+webUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
 type: article
 quality: 17
 heat: -1
@@ -209,6 +209,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris at Greensboro historic sit-in lunch counter | Charlotte Observer"
+    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
+    publishedDateTime: 2021-04-20T14:59:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250804224.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article250804224.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article250804224.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
     excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."
     publishedDateTime: 2021-04-13T17:44:00Z
@@ -391,6 +407,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "OXO2apTNoZoobGEhkvQS/1kkTqFRQ1XvYYwxas5RDbp/7QGolPXCZbAunLK+gDJQUnth5LERQjqxSsu8jdZT7dETNLa2danytO9HKsbwRrGNDOsRhyTG4ace16ej+eNiXPS/PXGD+S71jyH3pjT3mK6E/9TZiIXis9V6IBMKUztX2yBG3+ufx87jNyGNCbyX7M5jSzIjpxXXiY+JDaYs53mCQMK2lGditFYvqKIeUK//f1S49Hr+zJBB2h0Bf54rEJMqWsURaHgC/hg0/AZKaz5cqveeAhPBWUPUjOl1w9buT2lIM86rx8jGwCYDpzTIBLn6JxLjfDcAA98azX3f59VanFBl2HYJJvpiZEq3hF1HfNzH8n0vS/hMDChB06BYuiX/+UjMUoKjnIBrGANFTe+rxQhjoKeCyX6jS5ne1Pg/Ij4+RTBny4RohP+HV3HAOeWyR2Ciuvkb1oqOdHUtuU53AfhDHo+P1Bg36ABxC4yXn6wti4JgTPet6SXrhfWuwMHpgGl9Bq3rZs9WwQV3+w==;tPtWOFtvGyi2ldbMseRgEw=="
+secured: "5oXMRVUSZ+n6Cn9HMIoaqDv+233OMzxeBzAPSmXfym3X9zBbMM70ygO6BI0Rau2QKwFA8PDsAUAlh1z2mzH57GiKljONNEWKUINjx3xrHI8CCZGaGqi+KPBUNTSI+Ma3uva5buVVy5bQwBeXVktbITzqw2fdAz8BgPF4kGjemNuB7EQmyRo34NHLOcnzncMXETugqO2BysYvTD0gQAAFHWqeuRJIMRJAhmriveEYzyCGRCn5/1GtQSMbdLVu6p+jFJUN/nUzwrNxPDGRb9wJzJWR29dqI1/jfiKouzntuK4J7ZQ+VCDVIxwZ1vmS96KiXcKdH37XzJL7Ntv3ECFUXu8GRZaQX/kr0k89g4eq+yX8EMj1C9CKhvW4rB6u87jucIKdcCVcv3BFcYREAEXVBBtxxIPVLb3P+65AxzqU/P9VprBeJbeVCRCCesC7RTmaQ3IxHDy4hXZaiB97sw4xTBsPmei39jK0o67R2SH7UFSMzx7b0K/1MC02PfslWwIhcQH6HZ+2l1GDLSJrpa53BA==;uBPe9+HQxtX0SELzQDolSw=="
 ---
 

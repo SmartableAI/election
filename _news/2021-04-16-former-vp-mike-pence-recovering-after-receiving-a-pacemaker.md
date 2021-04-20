@@ -44,6 +44,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence says he’s on ‘the road to a full recovery' after surgery to implant pacemaker"
+    excerpt: "Former Vice President Mike Pence said Tuesday he is back to work and “on the road to a full recovery” after undergoing surgery to install a pacemaker last week. "
+    publishedDateTime: 2021-04-20T16:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LOVjAC7yJs/pence-road-full-recovery-surgery-pacemaker"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21097690336484.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pence says he’s on ‘the road to a full recovery' after surgery to implant pacemaker"
+    excerpt: "Former Vice President Mike Pence said Tuesday he is back to work and “on the road to a full recovery” after undergoing surgery to install a pacemaker last week."
+    publishedDateTime: 2021-04-20T17:32:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21097690336484.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "adIPGi2AGS1S5z3s1NOPr8GRqGPjkwpoL+k0U492yZ7ZALXMV3o3Mb5WC6N3ArO1/+m8VSqBSM+Ex5rA2A79hHdC66boV3StSdMomSUZb/zvXkePtz1bd9XBvXiH96YeED5qEaxLQx+unlnoYHLHzYfHbMcqaItCQy6Sr3GWnBfa+OrZtp8+75re+kfW7oZ6g2LsG+Z0n18VGRLxr0Je622ys1+b1Tlai8gZsLn11Ne33rq1AHd1ZNS6XEX9/dPPcCSRrWaVHtqHJ5dl5M4l0SpS8xeon5xxTNqPHvLhDgfa/sX+jO9ThMpmnABwUmv8EhGSiD/jyPxpXRZ7UZwETliF2WeXZko4Gg+YdevT2b8=;t3c9JrRnrkj8MiDo7YKCtw=="
 ---

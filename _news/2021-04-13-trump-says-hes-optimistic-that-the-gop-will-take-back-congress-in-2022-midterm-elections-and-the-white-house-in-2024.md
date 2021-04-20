@@ -268,6 +268,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
+    excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."
+    publishedDateTime: 2021-04-20T15:56:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 67
+    images:
+      - url: "https://www.nydailynews.com/resizer/thv70YWnM_eo0AYGd6KJThFR_zk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JE4YEY4NUVHUPBE3YYBCXWCQ7Q.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "George W. Bush Condemns the Trump-Era Republican Party"
+    excerpt: "Bush Condemns Trump’s GOP Former President George W. Bush derided his Republican Party on Tuesday for what he said it has become in the era of Donald Trump and misinformation, describing the GOP as \"isolationist, protectionist and, to a certain extent ..."
+    publishedDateTime: 2021-04-20T17:47:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-20/george-w-bush-condemns-the-trump-era-republican-party"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "gKhAn9MKtsEfZQ8d2Kb9aajPQh/99NxSBa3VQQ7qw7sQ7Jxm16geQ0OzH5ne3Zcnh0Zr1gZZDX59oYsR3/ovFinHBJuj+pVVT5zrP92m52XFrk/SaiRAUzFAJ4WOWac5GP3I4pIyoQK+h3BAVEzFg2uAGMTUexrZa6vZetRJNiSJVRHXYwzQ4xEaW1k/7xE9xRP2kdYqAJa2Tu3hlzDSAl0yMhcYVR7oFbe44v/94cSMkYkH6d3Syyef0qQKZWp3Dlk5x09Fz7/6u7aDGvB/62tLZUpC6w1UfHyp4/FgFOA1oE6zWAsJGFVRUry7YflDH8w7Npq4DgbuNTlGGEexNSSiEzO7RY9sM6lA8q72H2mgW4Ytj3pllE5iqMYrNIbIE/JOCQMvb7wU4dUppi0TzqFW2dbyKh3pfnnoCPdrQG/7Pqxf+A/NodkS4+At+nDtKrFSdTwolMhG5GWMa8VVVmackQzh5LxVoZViAFJYqT6Ovck4onN2UPpSrUqfAuSshBgpJ/oI+XdFBNC+ai9Drw==;hilFkW2aY0Q2m5Z+7ptAhA=="
 ---

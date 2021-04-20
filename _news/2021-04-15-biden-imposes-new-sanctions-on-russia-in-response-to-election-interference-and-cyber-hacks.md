@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
 type: article
 quality: 180
-heat: 720
+heat: 740
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416113008-james-clapper-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration unveils effort to strengthen cybersecurity of power grid"
+    excerpt: "The Biden administration kicked off a 100-day effort on Tuesday to beef up cybersecurity in the nation's power grid, calling for industry leaders to install technologies that could thwart attacks on the electricity supply.\n    \n"
+    publishedDateTime: 2021-04-20T15:50:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9SEGUgZKVl8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-electricity-grid-cybersecurity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-electricity-grid-cybersecurity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222102002-texas-electricity-power-lines-houston-0221-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

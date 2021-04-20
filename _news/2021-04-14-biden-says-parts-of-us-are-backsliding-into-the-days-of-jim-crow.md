@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/biden-us-backsliding-jim
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/biden-us-backsliding-jim-crow/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "George Floyd's brother says President Biden called his family to say he is praying for them"
+    excerpt: "After closing arguments Monday, Philonise Floyd said he's \"optimistic\" about the outcome of the trial against Derek Chauvin."
+    publishedDateTime: 2021-04-20T13:48:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/president-biden-called-george-floyd-s-family-say-he-praying-n1264612"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264612"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264612"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464044/210412-philonise-floyd-jm-1115_832f2cca25835970ae5e23fefa0cc317.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "rAOUrpgyJaETWxnaMdPUbiUfK4GdTQOpE05g1uh3A139em2sOeEHW3IIDhAGAaD60UXoC7r90G3qpDy33/JLJFq5kXZqq0L4Of+n1IGTGr6flHMehdkKZsgxaQokmU7zPah55LCJV15p3cMobZ3E17tDmv57N1r44O7U4WMaySWgdOKDPDiQ13N+3YLaiQhjuN6afqwRinQL1/DmpAR9laG596gYRir1UtLRuQZyMxAeZPzJTpZWuSgBptqtaaIQ7ndUG1Bj/lRfVsg3Bq7SM0RSYPrT4wBnkphELJYkvgDtRPvN0kEOYuttXVSGl1Wzed8Jcaxz8I8vqDGInRArYulMDAm1fGYCz0cnv50gqoE=;zJXn1IWToBi6NjxuDqcg+Q=="
 ---

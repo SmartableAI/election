@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration unveils effort to strengthen cybersecurity of power grid"
+    excerpt: "The Biden administration kicked off a 100-day effort on Tuesday to beef up cybersecurity in the nation's power grid, calling for industry leaders to install technologies that could thwart attacks on the electricity supply.\n    \n"
+    publishedDateTime: 2021-04-20T15:50:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9SEGUgZKVl8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-electricity-grid-cybersecurity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-electricity-grid-cybersecurity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222102002-texas-electricity-power-lines-houston-0221-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
     excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
     publishedDateTime: 2021-02-23T18:22:05Z

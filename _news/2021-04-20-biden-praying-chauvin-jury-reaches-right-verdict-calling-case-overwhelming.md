@@ -1,0 +1,35 @@
+---
+category: news
+title: "Biden 'praying' Chauvin jury reaches 'right verdict,' calling case 'overwhelming'"
+excerpt: "As the nation awaits a verdict by the jury in the trial of former Minneapolis police officer Derek Chauvin, President Biden said on Tuesday he is \"praying the verdict is the right verdict.\""
+publishedDateTime: 2021-04-20T16:56:09Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/li9qNsQbVNY/biden-chauvin-trial-right-verdict-overwhelming"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/li9qNsQbVNY/biden-chauvin-trial-right-verdict-overwhelming"
+ampWebUrl: "https://www.foxnews.com/politics/biden-chauvin-trial-right-verdict-overwhelming.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chauvin-trial-right-verdict-overwhelming.amp"
+type: article
+quality: 170
+heat: 170
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+secured: "sQXNIb/9Vofa3mNY4ihRbQIQh1CJwsNVu/QiPsi+UTqzZeE7EA4z1GT1SkpGO1PEYPbssO7hR2aTGByowGnsFIik0FZ1fyvKZSh24dhK75qv2zNG9//kAXQ9fUk1t8Xpcd0FalrVZGmvm2d/oBjS8G6Mm4+Yx7hixWwcS3+NaX/vCGH1eHoOSBr4m4OcNgJuIse5GQ74dR1kBNN+mqyu3i3X8VBIOW7n30spZXoOfpvICvocHHTwOBAdPPcghZSNCkdivdO0QiHV3gIF8tTDNUBHs5+hO0meV5bPgFhiS4x9zfL6kDyKs7BwrE2wZlhda+aOXb60/JzSwolXp23WXPLuXkaaLno60kcOmnmTfEc=;BGjazCyKGQhGy/QCro16fQ=="
+---
+

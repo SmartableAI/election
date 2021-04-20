@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/former-vp-pence-underwent-heart-sur
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp"
 type: article
 quality: 183
-heat: 203
+heat: 243
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence says he’s on ‘the road to a full recovery' after surgery to implant pacemaker"
+    excerpt: "Former Vice President Mike Pence said Tuesday he is back to work and “on the road to a full recovery” after undergoing surgery to install a pacemaker last week. "
+    publishedDateTime: 2021-04-20T16:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LOVjAC7yJs/pence-road-full-recovery-surgery-pacemaker"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21097690336484.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former VP Mike Pence recovering after receiving a pacemaker"
     excerpt: "Mike Pence has had a pacemaker implanted during a procedure in Indiana, the former VP’s office announced Thursday. “I am grateful for the swift professionalism and care of the outstanding doctors, nurses and staff at Inova Heart and Vascular Institute,"
     publishedDateTime: 2021-04-15T18:48:00Z
@@ -47,6 +63,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/pence.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Pence says he’s on ‘the road to a full recovery' after surgery to implant pacemaker"
+    excerpt: "Former Vice President Mike Pence said Tuesday he is back to work and “on the road to a full recovery” after undergoing surgery to install a pacemaker last week."
+    publishedDateTime: 2021-04-20T17:32:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21097690336484.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "LHcb+kSNBqWYDsIKb/h9P9u5umphpuwhGqDpYiU+MQ9OZt/Pq08bsYxo7BW0u2gJEdPkQuewv1bbHrf8mLhPGStk2L/S6qlItFSmcPN+ALUKzxitmetfDxWK8sy5nz7VTnWzvbaUsKImOxUWbz3ceIgpOEQS6yc46FCOFwcNc2AoLCJ0i9ZHtLdj9+YRzMMD70mDkrL3AKEvwQLAOyDTTs5GkoJG+dXUCny+TXSnU6JFE3HLJ/DblAj3qJX6IHNlCb6SZ5FpWr4ugzqH36GX98TNG09DB82kG5W/vqswvuNrrpwMYVx9pd+EKGt/NUm5k0eUHgn0vLJa3LC+pUeFR2AMZuAsbnRKT/SfzC/N4+o=;Jm7FNVmGz64jLsRl63AIfw=="

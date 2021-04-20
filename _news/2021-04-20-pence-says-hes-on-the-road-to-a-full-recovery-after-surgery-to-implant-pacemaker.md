@@ -1,0 +1,86 @@
+---
+category: news
+title: "Pence says he’s on ‘the road to a full recovery' after surgery to implant pacemaker"
+excerpt: "Former Vice President Mike Pence said Tuesday he is back to work and “on the road to a full recovery” after undergoing surgery to install a pacemaker last week. "
+publishedDateTime: 2021-04-20T16:38:06Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LOVjAC7yJs/pence-road-full-recovery-surgery-pacemaker"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LOVjAC7yJs/pence-road-full-recovery-surgery-pacemaker"
+ampWebUrl: "https://www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+type: article
+quality: 179
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+  - Mike Pence
+
+images:
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21097690336484.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Former VP Pence undergoes routine surgery to implant pacemaker, office says"
+    excerpt: "Former Vice President Mike Pence underwent surgery to implant a pacemaker after experiencing a slow heart rate, his office disclosed on Thursday."
+    publishedDateTime: 2021-04-15T18:53:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RDsRDIKAY60/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says"
+    ampWebUrl: "https://www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/923f386d-3ccc-41f9-9133-8ebc9a94f111/7d90a6ea-b0e5-42f8-b867-367f1b07e616/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former VP Mike Pence recovering after receiving a pacemaker"
+    excerpt: "Mike Pence has had a pacemaker implanted during a procedure in Indiana, the former VP’s office announced Thursday. “I am grateful for the swift professionalism and care of the outstanding doctors, nurses and staff at Inova Heart and Vascular Institute,"
+    publishedDateTime: 2021-04-15T18:48:00Z
+    webUrl: "https://nypost.com/2021/04/15/former-vp-mike-pence-recovering-after-receiving-a-pacemaker/"
+    ampWebUrl: "https://nypost.com/2021/04/15/former-vp-mike-pence-recovering-after-receiving-a-pacemaker/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/15/former-vp-mike-pence-recovering-after-receiving-a-pacemaker/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/pence.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pence says he’s on ‘the road to a full recovery' after surgery to implant pacemaker"
+    excerpt: "Former Vice President Mike Pence said Tuesday he is back to work and “on the road to a full recovery” after undergoing surgery to install a pacemaker last week."
+    publishedDateTime: 2021-04-20T17:32:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-road-full-recovery-surgery-pacemaker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21097690336484.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "BK9ZhPdkZg+1+PKM66PLG2P7y3IVj0S3HL9pw5IeJb3sFY3AqLA8LSwHWpsdvIwNtRo1Y0HxCqs4UaFsYuQXFt4tTcGGsUJ2QLNL/2ZYhdwCowhVXSi6q1yA6E+dhHNJqzb302w59TJEpUSgllA392cWJOFa7xu3QAU9MAcqj0z7W4M0KK9+G4Csn4BT13WVSqyCqtS1fqLjoWCvgJHRv/36ha9ysivpJrTGZ6oQzFWO7pFlGjZPk0lTncDquHouFWU8gOtvE0rI1pg+sYy8mokM1Sm3Fn5ch1hHC1BrI61kRBiqBbRb5UsZsz61/cHDU1VYl1VzENcR48E1Ak0Po/KVU2iLyI55HyxByuIFH/Q=;NljIuux1Kc+fLL/qBqlitw=="
+---
+

@@ -209,6 +209,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris at Greensboro historic sit-in lunch counter | Charlotte Observer"
+    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
+    publishedDateTime: 2021-04-20T14:59:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250804224.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article250804224.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article250804224.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
     excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."
     publishedDateTime: 2021-04-13T17:44:00Z
@@ -383,14 +399,14 @@ related:
         isCached: true
   - title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
-    publishedDateTime: 2021-04-19T15:41:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
+    publishedDateTime: 2021-04-19T14:39:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
     type: article
     provider:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 17
 
-secured: "VXBikNgpep6gxqtGR7Tic1Efhy2vKtVakmkifunB7wcA12FOCL/g0e6uypMNUZ7Tyi/CvuS/Gi+52PI8ZrxV+WU6kmT3Y6EikpNAZslwnhWDpCbdhb2f6nyXJe5kv4KnbfJtQuNxcg+UDXRF0dFKiuT3KF+CNrryH3LRWjfFU/4XEt9m4XOIBRYCxUipR7rajw5Yhnt3gMIS7Il24pwJfzibXGpOYP6neReWnI45rKuYrc1jesH+8huC+ShJ/USOFvMIixnzdKyJYAQkgMGpjQaGL5TVG7MB2WvAoZ1+omC//ZXjsTkwg1ynwBBZaf4MvOYQndKM1A1iooTm6lwGNUL8h18szdL9SLHtE7AyJNQ=;8pM07MCaddrfcHx7h+tx+Q=="
+secured: "wh5ChJlM+Z6WX5iMXF+HEKDMqwDlnReP3tvv6mjSIU7B5t3GTRrvv25rwRWBJWJ3n48U4ZVokm0a2cyQYMVMuy1tFlBGYIjJNCnZkXsC61meUwMaJwp7Bvk1/tXd7gHHFUNjWTVUgE7PZx45+ce7SwKvbv76+n89KvfEvagPzgapSCgDOSdOESX5ZDnXXB16AooXThk1r2kHq+s3Uroyqq/CC6JFWeK5D3cuXuvIkjerDrEAcw1nqcNOSrRUFHGQRocvz+jr4R8yOr9IQk3Bu3zEpmdBoofRdXkhtntD8cHrt4rYOhKwnpm87/S9maCM1uXTeNyveomG9Ge744DRcJg8L0ncZAHupvlhyifKg3doWv4U+FUCBbylNc1FqY6uIUH0eYGPzbYJ9GCbjz/UlU1BqX2d70ciYwvY9CRKV2k1jd+EFNtr4Annwnd+0ouCIS2IUs6Q5QirpSqZwaiLued7iPtwaHt7xjJLlGtBZzNgoutX9Xe7rD6ZgS/81cfW1RDuontmCsMTCy5YVRKmhw==;pTqTOct/BvJb3RbtEVpgGw=="
 ---
 

@@ -93,6 +93,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration increases seasonal worker visas by 22,000, including 6,000 from Central America"
+    excerpt: "The Biden administration on Tuesday announced that it is increasing the number of available H-2B seasonal worker visas available -- increasing the number by 22,000, with 6,000 reserved for workers from Central American countries."
+    publishedDateTime: 2021-04-20T16:48:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XT72O5snGgY/biden-seasonal-worker-visas-h2b"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-seasonal-worker-visas-h2b.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-seasonal-worker-visas-h2b.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e12197eb-9c6d-4b7b-b5d0-90e0fa21029a/e81f6404-111f-4d9a-b61d-4bb178ae645d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump takes jab at ‘lunacy’ of Johnson & Johnson vaccination pause"
     excerpt: "Former President Donald Trump took aim at the Biden administration on Friday evening for allowing for a pause in the Johnson & Johnson coronavirus vaccine, accusing them of allowing “insanely"
     publishedDateTime: 2021-04-17T00:41:00Z

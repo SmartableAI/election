@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-broth
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -34,6 +34,22 @@ related:
   - title: "Biden to deliver remarks after Derek Chauvin trial verdict"
     excerpt: "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,"
     publishedDateTime: 2021-04-19T17:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264513"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264513"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_16/3465912/210419-joe-biden-ew-1232p_4abe6008c53d925a33d81a3e021870c9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Chauvin trial: Biden to deliver remarks after verdict"
+    excerpt: "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,"
+    publishedDateTime: 2021-04-19T19:20:00Z
     webUrl: "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513"
     ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264513"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264513"

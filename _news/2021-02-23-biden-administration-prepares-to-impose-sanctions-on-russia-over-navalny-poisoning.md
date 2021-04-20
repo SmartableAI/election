@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration unveils effort to strengthen cybersecurity of power grid"
+    excerpt: "The Biden administration kicked off a 100-day effort on Tuesday to beef up cybersecurity in the nation's power grid, calling for industry leaders to install technologies that could thwart attacks on the electricity supply.\n    \n"
+    publishedDateTime: 2021-04-20T15:50:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9SEGUgZKVl8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-electricity-grid-cybersecurity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-electricity-grid-cybersecurity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222102002-texas-electricity-power-lines-houston-0221-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
     excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
     publishedDateTime: 2021-04-08T14:47:59Z
