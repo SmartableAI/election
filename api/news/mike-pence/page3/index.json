@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-11-military-officials-were-unaware-of-potential-danger-to-pences-nuclear-football-during-capitol-riot.md",
+      "title": "Military officials were unaware of potential danger to Pence's 'nuclear football' during Capitol riot",
+      "excerpt": "Military officials overseeing the authorization process to launch nuclear weapons were unaware on January 6 that then-Vice President Mike Pence's military aide carrying the \"nuclear football\" was potentially in danger as rioters got close during the violent Capitol insurrection, according to a defense",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oggkB_k4niw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oggkB_k4niw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211153147-impeachment-manager-exhibit-pence-0106-footage-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/11/politics/military-officials-were-unaware-pence-nuclear-football-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/military-officials-were-unaware-pence-nuclear-football-riot/index.html",
+      "publishedDateTime": "2021-02-11T14:39:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-house-impeachment-managers-gush-over-pences-patriotism-after-years-of-criticism-stood-his-ground.md",
       "title": "House impeachment managers gush over Pence's 'patriotism' after years of criticism: 'Stood his ground'",
       "excerpt": "House impeachment managers on Wednesday repeatedly praised former Vice President Mike Pence for his actions during the Jan. 6 Capitol riot, putting aside past criticism of Pence as they tried to convince Senate Republicans to convict former President Donald Trump.",
@@ -1469,58 +1526,6 @@
         "name": "Hanford Sentinel",
         "domain": "hanfordsentinel.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-capitol-rioters-came-within-a-minute-of-reaching-pence-report-says.md",
-      "title": "Capitol rioters came within a minute of reaching Pence, report says",
-      "excerpt": "The mob that invaded the Capitol on Jan. 6 nearly reached the Senate floor only about a minute after Vice President Mike Pence left the chamber, The Washington Post reported. A Secret Service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106825233-16107251002021-01-06t190644z_2102130348_rc2j2l9qd533_rtrmadp_0_usa-election-congress.jpeg?v=1610725126",
-          "width": 3500,
-          "height": 2265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/15/dc-capitol-rioters-nearly-reached-vice-president-mike-pence.html",
-      "publishedDateTime": "2021-01-16T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

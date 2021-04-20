@@ -3,8 +3,8 @@ category: news
 title: "Trump Didn't Form a Populist Coalition; He Was the Result of One"
 excerpt: "They're still there, planted in front of stately homes in wealthy suburban neighborhoods, on flagpoles in middle-class communities and along"
 publishedDateTime: 2021-04-20T10:07:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.amp.html"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 720
         isCached: true
 
-secured: "m3/mq+4UG/4QniRdMHd3oJ0q5q0/ymet0lwlsngwzzSv0u6Bf0+35Np8bLqrmYQgqqH8b2nzcGQcX7uBGKS7xWIAJyt+apntJp9cY88Ceh963gHAsZ+yub5IV2WbUHs18/dYqUj38frcistp3DfJ+wOi/kPP9q4M+O8tSVChwR6+1fdtcEDbrP26Oyv0XPKRH0nHxL9+onQ+dw0ZfrDsV1Z3zyGHrOhX5d83rpUCs4/JPhhHHkyiJ+UcQX1ihZuKvQtZB8rSMwztpsmGADjn6zKXEPPtspwebMwqQG4qXtpBZVC0UZRe3CaPf05QNJWbgHBJhwizwkLUIiG7sX+sKYdwIT70fzkrJGJWR/kSsFkKOSUhPsJXts4yow6jV6JL3ondUNfxH8kHWroPBDcimcmCxIhLcEHl2F99uyMXpARQLnCYIp/gwgRrOfbgS3xUTDrPlXWsAW3ewKSKMbvPwUE7wzLUzocts5GcuHGbRGpM9WQERWw/iYcMiELzWx32eFNd8+HCCos2miAgKnAqCQ==;J5uhdD+mZo2HB42RPBj4ug=="
+secured: "YQrbkVxpbJ6K0pZOXqqwnG8vsXlASrXt3IWTU763oGQ3XvfpKvMqqF2vsvPbl6vafIPmb8loR04pVp4txJsHJES4JYUIV1Lq0j2Y2GQu+BLs/uM7MNAtosSca/Udlm9OVFaHLclW1mcc6qPhufsCv4p486fjKeRXZbCW5kgp/d1UtnxoERbxFE4d56+dQaJOYR9tfpOTlOjjRi+1VBby7iSQqaVHfwGajZUONv7C22uivUNk8F82pvW2mBQ/esDivW3jWPg0Gd1AcStwj8EevMz/GXd8fYk8FCFGFT7LZYEQUg6FhuQDRGTg+TD/B8zjTDc+kFjpWvLe2t/HqRoXbIJMhV8OuRboWH2B+5HgHQ0=;Qw4xySZGhOcBPt8+jaoPQQ=="
 ---
 

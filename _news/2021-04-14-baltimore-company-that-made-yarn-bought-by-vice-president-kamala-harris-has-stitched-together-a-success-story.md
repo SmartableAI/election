@@ -265,6 +265,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
+    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
+    publishedDateTime: 2021-04-20T14:07:00Z
+    webUrl: "https://www.heraldonline.com/news/state/north-carolina/article250804224.html"
+    ampWebUrl: "https://amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+    type: article
+    provider:
+      name: The Herald SC
+      domain: heraldonline.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
     excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
     publishedDateTime: 2021-04-14T15:44:00Z
@@ -400,8 +416,8 @@ related:
     quality: 31
   - title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
-    publishedDateTime: 2021-04-19T14:39:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
+    publishedDateTime: 2021-04-19T15:41:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
     type: article
     provider:
       name: Raleigh News & Observer

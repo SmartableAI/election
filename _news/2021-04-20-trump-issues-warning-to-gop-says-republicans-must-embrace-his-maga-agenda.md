@@ -147,6 +147,22 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "GOP White House hopefuls move forward as Trump considers run"
+    excerpt: "Less than three months after former President Donald Trump left the White House, the race to succeed him atop the Republican Party is already beginning. Trump's former secretary of state, Mike Pompeo,"
+    publishedDateTime: 2021-04-20T13:39:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "bCMitkD+qYt/R5PB8pGwiGVtuBtzwfpSw3ewvTh1dD+4k6Q+G+2+9gqZRAzro63w+DrrPLs7ZHAybFmYfUF2Yw3Q3Rwf0wszEIoUAOcWXarnSkW1c/b4wcTvDMECBf2uYvkqZ845BUI2TIbBVU7EfxHfYmW5hwCYj5r2Jb3j35NyOUbQE6nL+Sbo5Fb5W4dGAlTWBivUNNd66Do0MYb7MYSUHRyRO0nxalAvFIudLFxHn5FF5KZn0b4iYHkAbUS4IaZMe9uEN2vWE91oc4Q0XVeiyKspGdw8qbBRTVjOfixhaV4rOcXoUIIjl0PO4PFNEQ/GwF5xLgXaj5GerAm+lCs5J845rQ1nHQCdbvEGt4TaBK536HHT+NINIzO68YMjOKGhhodnkym8jW8N+zNlR4xQh5vW83Cvvd+qFBrdD3349AhW8QAES2TLHECCOxVmTYKdLyODnTTJ/02BJkTdEMn53pVvU2nmGxXGRObG9bu78oFK1fG6aW/ZGu1MR/PnL9La27m1nNao0gUXntoxBw==;IHTDY1CEOoyLFcAQmLuUVA=="
 ---

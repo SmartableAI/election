@@ -2,9 +2,9 @@
 category: news
 title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
 excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
-publishedDateTime: 2021-04-19T14:39:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
+publishedDateTime: 2021-04-19T15:41:00Z
+originalUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
+webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
 type: article
 quality: 17
 heat: -1
@@ -257,6 +257,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
+    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
+    publishedDateTime: 2021-04-20T14:07:00Z
+    webUrl: "https://www.heraldonline.com/news/state/north-carolina/article250804224.html"
+    ampWebUrl: "https://amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+    type: article
+    provider:
+      name: The Herald SC
+      domain: heraldonline.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
     excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
     publishedDateTime: 2021-04-14T15:44:00Z
@@ -407,6 +423,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "5oXMRVUSZ+n6Cn9HMIoaqDv+233OMzxeBzAPSmXfym3X9zBbMM70ygO6BI0Rau2QKwFA8PDsAUAlh1z2mzH57GiKljONNEWKUINjx3xrHI8CCZGaGqi+KPBUNTSI+Ma3uva5buVVy5bQwBeXVktbITzqw2fdAz8BgPF4kGjemNuB7EQmyRo34NHLOcnzncMXETugqO2BysYvTD0gQAAFHWqeuRJIMRJAhmriveEYzyCGRCn5/1GtQSMbdLVu6p+jFJUN/nUzwrNxPDGRb9wJzJWR29dqI1/jfiKouzntuK4J7ZQ+VCDVIxwZ1vmS96KiXcKdH37XzJL7Ntv3ECFUXu8GRZaQX/kr0k89g4eq+yX8EMj1C9CKhvW4rB6u87jucIKdcCVcv3BFcYREAEXVBBtxxIPVLb3P+65AxzqU/P9VprBeJbeVCRCCesC7RTmaQ3IxHDy4hXZaiB97sw4xTBsPmei39jK0o67R2SH7UFSMzx7b0K/1MC02PfslWwIhcQH6HZ+2l1GDLSJrpa53BA==;uBPe9+HQxtX0SELzQDolSw=="
+secured: "Eem3WEnp7fYXURO1pEurXfQgjxLaBZMDHfzv41t6WgP9h8FWVPA5S0FPCOAVHFYeqrNtgw/sW+Py+Itt3TmGQ3e+vrP1Aw3oofXPBO2tmf04QMVwwt7kymIpIA1pzU1xi+7YDCZENwI6ZZf1Yee6lJk7u9+lNhs7HSoV6pZBCyZfzKuqwizvwUlRM/tS9Re2EYk96D8n8flhiwOqk1FTPzMhZ7aumbLGg2hGa2fAc5sAvduneoCZfZLfQbn3tyOhd/d5EEL0wWcFHQcfOvIBpaDtyttt/EwljF6pqRu+/SaxpZ6+kp8XVR3k6/dUVZPPTaV17fGXNFmjouHqSWPv76qhB2SnkAr0lH/DO2UI6TSKLyrEkcQ4lMA/uyE7cTFKZtA3pwl/it2rLIUBWUJu0tRlqYFm1DPVtjWrq2Ze7E06U+YDBq7jSEcMvlldWpssnUDHuMu+xvRhVeCqujlRSfU9t6/LkuXAgMeAY3GJ21rI+MyXaux8DLopmK8k5XH29JP+FTmXgmtR064j+uieQA==;uY7ZGmp7JKpJB/h0Ia4Ifw=="
 ---
 

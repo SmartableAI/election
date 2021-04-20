@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shoot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411114711-file-01-iran-natanz-nuclear-facility-2019-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "POLITICO Playbook PM: Biden faces first test on policing"
+    excerpt: "I’m praying the verdict is the right verdict,” Biden said. “The evidence is overwhelming in my view.” Biden’s decision to go out on a limb like that is a bit surprising. Presidents and other politicians typically refrain from weighing in while juries deliberate — DONALD TRUMP,"
+    publishedDateTime: 2021-04-20T17:27:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/20/biden-faces-first-test-on-policing-492533"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ed/60/d1d66c2f4d4dae0334927772719c/210420-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "+o5QyHvgkxvGsIv6uk2sHlaGTA1eB5p8/thfEW9oehB8gFJp2ycQmp7pvb/w9WoagFMH/dJ87zVUOEYu7HjWnTX9SsoZMfA0VTcnyrDTClt4kInxVmOaZCh/Zbe8Aj/gpzJGEYxjHmMB59w0fKamlqPRh7FWb29JEUFp4f4E7zTZrmukiVYwjT5PagRfoo58Y/OOwnA4zQudt3w38tntjo48VPT2f8GPOhRhSeMQrfgL+0UVzXYt11Ss/0OTXFLs4yg7dbZ6mLdBMfiztjvQ330psu/G973NcUwGGVWll+YoMDUbrvA6oQ+aDtm6o04e8n8yg/YZdlH85BBkVpEbyfQIH6Ow5a3VgyNWxvQlxrw=;v/nYPIcU4GtAesk08KIMHQ=="

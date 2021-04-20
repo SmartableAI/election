@@ -2,6 +2,390 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-02-18-biden-to-pick-chiquita-brooks-lasure-to-run-centers-for-medicare-and-medicaid-services-sources-say.md",
+      "title": "Biden to pick Chiquita Brooks-LaSure to run Centers for Medicare and Medicaid Services, sources say",
+      "excerpt": "President Joe Biden is expected to nominate Chiquita Brooks-LaSure to lead the Centers for Medicare and Medicaid Services, two sources familiar with the decision told CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GvOg0uYVY94/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GvOg0uYVY94/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210217191845-chiquita-brooks-lasure-headshot-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-cms-pick/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-cms-pick/index.html",
+      "publishedDateTime": "2021-02-17T16:29:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-biden-speaks-with-netanyahu-after-delay-raised-questions.md",
+      "title": "Biden speaks with Netanyahu after delay raised questions",
+      "excerpt": "President Joe Biden spoke Wednesday with his Israeli counterpart Benjamin Netanyahu, ending what had been a lengthy stretch without a call after Biden took office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Z8tgIZe_lE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Z8tgIZe_lE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 555,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
+      "publishedDateTime": "2021-02-17T13:44:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-biden-israeli-pm-netanyahu-have-warm-and-friendly-talk.md",
+      "title": "Biden, Israeli PM Netanyahu have 'warm and friendly' talk",
+      "excerpt": "President Biden spoke with Israeli Prime Minister Benjamin Netanyahu on Wednesday, Netanyahu’s office confirmed to Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW57TVY8N6k/biden-netanyahu-warm-friendly-talk",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bW57TVY8N6k/biden-netanyahu-warm-friendly-talk",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/01/29/694940094001_6127716685001_6127717881001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-netanyahu-warm-friendly-talk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-netanyahu-warm-friendly-talk.amp",
+      "publishedDateTime": "2021-02-17T13:27:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-new-york-times-trump-pentagon-officials-delayed-promotions-of-female-generals-due-to-fear-over-trumps-reaction.md",
+      "title": "New York Times: Trump Pentagon officials delayed promotions of female generals due to fear over Trump's reaction",
+      "excerpt": "Promotions of two female generals were delayed by Pentagon officials until after the 2020 presidential election out of fear of \"turmoil\" from President Donald Trump's White House, The New York Times reported Wednesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210217123321-us-army-gen-laura-richardson-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
+      "publishedDateTime": "2021-02-17T12:20:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-biden-wants-to-put-a-black-woman-on-the-supreme-court-putting-spotlight-on-lack-of-diversity-in-lower-courts.md",
+      "title": "Biden wants to put a Black woman on the Supreme Court, putting spotlight on lack of diversity in lower courts",
+      "excerpt": "Biden has vowed to pick a Black woman for the Supreme Court. Advocates say he must also address the lack of diversity in the nation's lower courts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/17/supreme-court-advocates-ask-joe-biden-name-black-women-judges/6722856002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/17/supreme-court-advocates-ask-joe-biden-name-black-women-judges/6722856002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/14/USAT/ad9e4b80-2796-4181-af30-22c3b824d87c-XXX_SCOTUS-hdb3382.JPG?auto=webp&crop=2866,1613,x0,y34&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6722856002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6722856002",
+      "publishedDateTime": "2021-02-17T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.md",
+      "title": "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot",
+      "excerpt": "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp",
+      "publishedDateTime": "2021-02-17T11:57:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-irans-khamenei-demands-action-from-biden-to-revive-nuclear-deal.md",
+      "title": "Iran's Khamenei demands 'action' from Biden to revive nuclear deal",
+      "excerpt": "Supreme Leader Ayatollah Ali Khamenei demanded \"action, not words\" from the United States if it wants to revive Iran's 2015 nuclear deal with world powers, challenging new President Joe Biden to take the first step toward a thaw.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-iran-nuclear-usa/irans-khamenei-demands-action-from-biden-to-revive-nuclear-deal-idUSKBN2AH0UQ",
+      "originalUrl": "https://www.reuters.com/article/us-iran-nuclear-usa/irans-khamenei-demands-action-from-biden-to-revive-nuclear-deal-idUSKBN2AH0UQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551842006&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G0MB",
+          "width": 858,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AH0UQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AH0UQ",
+      "publishedDateTime": "2021-02-17T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-i-will-not-make-that-happen-biden-declines-democrats-call-to-cancel-50k-in-student-debt.md",
       "title": "'I will not make that happen': Biden declines Democrats' call to cancel $50K in student debt",
       "excerpt": "WASHINGTON — President Joe Biden said Tuesday that he would not eliminate $50,000 in student debt, shooting down a proposal that prominent Democrats introduced this month, but that he is open to ...",
@@ -960,373 +1344,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
       "publishedDateTime": "2021-02-16T07:28:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-op-ed-pence-was-a-potential-victim-on-jan-6-that-doesnt-make-him-a-hero.md",
-      "title": "OP-ED: Pence was a potential victim on Jan. 6. That doesn't make him a hero",
-      "excerpt": "When he issued a statement early on Jan. 6 indicating that he lacked the unilateral authority to determine which electoral votes should be counted, Vice President Mike Pence was stating the obvious. It was a \"Profiles in Courage\" moment only by the low standards of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yorkdispatch.com/story/opinion/contributors/2021/02/16/op-ed-pence-potential-victim-jan-6-doesnt-make-him-hero/6750644002/",
-      "originalUrl": "https://www.yorkdispatch.com/story/opinion/contributors/2021/02/16/op-ed-pence-potential-victim-jan-6-doesnt-make-him-hero/6750644002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/07/PPYD/406e2975-3b2f-4c1b-ba71-f98b02f86423-AP21007314794320.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.yorkdispatch.com/amp/6750644002",
-      "cdnAmpWebUrl": "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/6750644002",
-      "publishedDateTime": "2021-02-16T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The York Dispatch",
-        "domain": "yorkdispatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-biden-has-reopened-obamacare-enrollment-but-how-fast-you-need-to-act-depends-on-where-you-live.md",
-      "title": "Biden has reopened Obamacare enrollment, but how fast you need to act depends on where you live",
-      "excerpt": "Residents of one state don't know whether they can participate in a special enrollment period for federally subsidized health insurance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/2f3822947b6a8f8aa6a183e96e64d71752a99d03/c=0-89-2998-1783/local/-/media/2016/09/22/USATODAY/USATODAY/636101585701576984-BLM-OBAMA-HEALTHCARE-58839458.JPG?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6745781002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6745781002",
-      "publishedDateTime": "2021-02-15T22:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-comey-email-reveals-fbi-doj-made-premeditated-effort-to-dislodge-trump-from-office-gaetz.md",
-      "title": "Comey email reveals FBI, DOJ made 'premeditated effort to dislodge' Trump from office: Gaetz",
-      "excerpt": "The Justice Department and FBI engaged in a \"premeditated effort to dislodge the duly elected president of the United States,\" Rep. Matt Gaetz, R-Fla., charged Monday on \"Hannity.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TdsKsL1kJ5M/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TdsKsL1kJ5M/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f75a584d-26b5-4022-a487-47a7e7f50c59/0e4ba9e4-e5f5-4b02-b0c5-8fe53c0020b1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-email-reveals-fbi-couldnt-sufficiently-corroborate-steele-dossier.amp",
-      "publishedDateTime": "2021-02-15T20:54:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-gop-sen-richard-burr-facing-censure-at-home-over-vote-to-convict-trump.md",
-      "title": "GOP Sen. Richard Burr facing censure at home over vote to convict Trump",
-      "excerpt": "The North Carolina GOP is set to vote on a censure on retiring Sen. Richard Burr in an emergency meeting Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
-      "originalUrl": "https://abcnews.go.com/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/burr-impeachment-5-ap-ps-210213_1613251643612_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127",
-      "publishedDateTime": "2021-02-15T18:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-progressives-push-for-joe-bidens-1400-stimulus-checks-on-presidents-day-44-days.md",
-      "title": "Progressives Push for Joe Biden's $1,400 Stimulus Checks on President's Day: '44 Days'",
-      "excerpt": "Before taking office, Biden said that he wanted to act \"boldly and urgently\" to get the checks passed through Congress. But weeks have gone by since his inauguration and another stimulus bill has still not been passed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456",
-      "originalUrl": "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1735295/stimulus-checks-joe-biden-presidents-day-progressives.jpg",
-          "width": 3000,
-          "height": 2100,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/progressives-push-joe-bidens-1400-stimulus-checks-presidents-day-44-days-1569456?amp=1",
-      "publishedDateTime": "2021-02-15T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-mcconnell-defends-vote-to-acquit-trump-our-job-was-to-defend-the-constitution-and-respect-its-limits.md",
-      "title": "McConnell defends vote to acquit Trump: 'Our job was to defend the Constitution and respect its limits'",
-      "excerpt": "Senate Republican leader Mitch McConnell on Monday rebuked Donald Trump's incitement of the January 6 insurrection at the US Capitol while doubling down on his vote to acquit the former President of the charge.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PQ_8PZyjsXo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PQ_8PZyjsXo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210215202426-mcconnell-210213-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html",
-      "publishedDateTime": "2021-02-15T18:22:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.md",
-      "title": "Trump drives past jubilant supporters at impromptu rally in Florida",
-      "excerpt": "Former President Trump marked President’s Day by waiving to a throng of supporters gathered near his south Florida residence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtN08aCAz_o/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtN08aCAz_o/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-drives-past-jubilant-supporters-at-impromptu-rally-in-florida.amp",
-      "publishedDateTime": "2021-02-15T14:24:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

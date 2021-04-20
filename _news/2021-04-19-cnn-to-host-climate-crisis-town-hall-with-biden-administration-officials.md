@@ -95,6 +95,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "POLITICO Playbook PM: Biden faces first test on policing"
+    excerpt: "I’m praying the verdict is the right verdict,” Biden said. “The evidence is overwhelming in my view.” Biden’s decision to go out on a limb like that is a bit surprising. Presidents and other politicians typically refrain from weighing in while juries deliberate — DONALD TRUMP,"
+    publishedDateTime: 2021-04-20T17:27:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/20/biden-faces-first-test-on-policing-492533"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ed/60/d1d66c2f4d4dae0334927772719c/210420-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "7X6f9nIGvw3LqNNbvTNWOnPDh0n7Zg/kcwnoj3UhdwkDH5p6IIo8u7w4oRc3N+y2xsVNRvVI+SQllM4JHnbzETIv5RMS90d1EisVUhT9rXBXQ32j67wR48VAkFAz7eahw6ZEHAwuzzLqYglpHXxMz/yXmpXRmYTyBboreOlNqJBhl8j0x02OC6RgYvtgisGdlJAG1xpmqPczRW9nyIpOfBeVesn0QMAygit6ouZdC5wo8tkk71xvtQanghvvkASXXa1n2KTDL9dNtj+Tf+lGkewBf7QdLIKW3j68rTJWGeKw9TjFGHjrqO5uojQGQ3wd11DCHFqRlGE8sIy51xxyqXj+r3P85kp57A5v6O03ZWk=;HMwmNrdFynBf0fwu57Ux5A=="
 ---

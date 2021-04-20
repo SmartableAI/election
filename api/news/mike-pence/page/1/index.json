@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition.md",
+      "title": "Simon & Schuster Says Mike Pence Book Will Proceed, Despite Employee Petition",
+      "excerpt": "We come to work each day to publish, not cancel,” CEO Jonathan Karp says in a letter to staffers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424",
+      "originalUrl": "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-327598/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424",
+      "publishedDateTime": "2021-04-20T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-kamala-harris-cited-russian-bounty-story-in-general-election-debate-with-pence.md",
       "title": "Kamala Harris cited Russian bounty story in general election debate with Pence",
       "excerpt": "Vice President Harris cited the now-backpedaled report of Russia placing bounties on the heads of U.S. soldiers during a general election debate in October with former Vice President Mike Pence.",
@@ -1517,63 +1574,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-pence-will-make-his-first-speech-since-leaving-office.md",
-      "title": "Pence will make his first speech since leaving office.",
-      "excerpt": "The former vice president left Washington on the outs with former President Donald J. Trump, and his speech next month will be scrutinized for hints of his political future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/08/us/politics/08new-was-pence-sub/08new-was-pence-sub-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
-      "publishedDateTime": "2021-03-08T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

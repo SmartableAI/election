@@ -2,6 +2,166 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-19-ucla-student-charged-over-capitol-riot-after-sitting-in-mike-pences-chair.md",
+      "title": "UCLA student charged over Capitol riot after sitting in Mike Pence’s chair",
+      "excerpt": "A white-nationalist Californian student filmed sitting in the Senate chair that then-Vice President Mike Pence had just fled during the Capitol riot has been charged, according to an FBI",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/",
+      "originalUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/christian-secor.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/18/ucla-student-christian-secor-charged-for-role-in-capitol-riot/amp/",
+      "publishedDateTime": "2021-02-18T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-biden-nominees-becerra-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.md",
+      "title": "Biden nominees Becerra, Gupta targeted by conservative groups with high-dollar ad campaign",
+      "excerpt": "A handful of conservative groups are aiming to block the confirmation of two of President Biden's most controversial nominees, using an ad campaign targeting lawmakers, their staff and their constituents. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IPkvZdzIuc/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IPkvZdzIuc/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.amp",
+      "publishedDateTime": "2021-02-18T10:23:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama.md",
+      "title": "Trump’s ambassador to Slovenia launches Senate bid in Alabama",
+      "excerpt": "Republican Lynda Blanchard is the first candidate to jump into the race to succeed longtime GOP Sen. Richard Shelby of Alabama.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1K6gBR9X_1Q/trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1K6gBR9X_1Q/trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/alabama.png",
+          "width": 2237,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T10:03:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-beto-orourke-says-us-could-become-like-nazi-germany-in-10-years-despite-bidens-win.md",
       "title": "Beto O'Rourke says U.S. could become like Nazi Germany in 10 years, despite Biden's win",
       "excerpt": "Democratic politician Beto O'Rourke fretted Thursday on MSNBC that the United States could become Nazi Germany within 10 years, in spite of full Democratic control of the White House and Congress.",
@@ -1517,176 +1677,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.md",
-      "title": "Hannity: Democrats never had problem with violent rhetoric towards Trump",
-      "excerpt": "HANNITY: Welcome to \"Hannity\". Tonight, we are tracking multiple breaking stories. These are huge, including day three of the Senate's impeachment, Schiff charade show that they got going on. We have tonight just breaking,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
-      "originalUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b74aca57-89b4-4917-be5d-9cda2a808143/d2443711-cc03-478d-8929-2163d8c15843/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
-      "publishedDateTime": "2021-02-12T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-biden-says-almost-everybody-could-have-covid-19-vaccines-by-the-end-of-summer.md",
-      "title": "Biden says 'almost everybody' could have COVID-19 vaccines by 'the end of summer'",
-      "excerpt": "President Biden said Friday that it is his hope that by “the end of summer almost everybody” will have received a COVID-19 vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/twM_smKjuJI/biden-almost-everybody-covid-19-vaccine-summer",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/twM_smKjuJI/biden-almost-everybody-covid-19-vaccine-summer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-almost-everybody-covid-19-vaccine-summer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-almost-everybody-covid-19-vaccine-summer.amp",
-      "publishedDateTime": "2021-02-12T07:17:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-raskin-trump-like-the-fire-chief-who-sends-the-mob.md",
-      "title": "Raskin: Trump 'Like the Fire Chief Who Sends the Mob'",
-      "excerpt": "Maryland Rep. Jamie Raskin, the lead impeachment manager, countered arguments made by Donald Trump's attorneys that the former president's words in the lead-up to the Jan. 6 assault on the Capitol qualify as protected speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih",
-      "originalUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-298259?size=1.5",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T18:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

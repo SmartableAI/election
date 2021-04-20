@@ -79,6 +79,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Climate change creates migrants. Biden considers protections"
+    excerpt: "No nation offers asylum or other protections to people displaced because of climate change SAN DIEGO -- Ioane Teitiota and his wife fought for years to stay in New Zealand as refugees, arguing that rising sea levels caused by climate change threaten the very existence of the tiny Pacific island nation they fled,"
+    publishedDateTime: 2021-04-20T17:41:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/climate-change-creates-migrants-biden-considers-protections-77190887"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/climate-change-creates-migrants-biden-considers-protections-77190887"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/climate-change-creates-migrants-biden-considers-protections-77190887"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_12d54668ced94553a990f644416f3ed4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
     excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
     publishedDateTime: 2021-04-18T11:58:00Z
@@ -191,6 +207,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Sikh Coalition urges Biden to appoint Sikh American liaison in wake of Indianapolis FedEx shooting"
+    excerpt: "In the wake of the FedEx shooting that left eight people dead, including four members of the Sikh community, the Sikh Coalition wants President Joe Biden’s administration to enact policies to address “long standing challenges” impacting Sikh Americans."
+    publishedDateTime: 2021-04-20T16:03:00Z
+    webUrl: "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Mexico Plans Tree Planting, Regional Migration Pitch to Biden"
     excerpt: "Mexico’s president will propose a regional agreement on migration to the U.S. this week and the expansion of his tree planting program to Central America as an option to provide order in the process of seeking entry to the U."
     publishedDateTime: 2021-04-18T19:16:00Z
@@ -204,6 +236,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASTAI4mLSS8/v1/1200x752.jpg"
         width: 1200
         height: 752
+        isCached: true
+  - title: "Biden says he's 'prepared to compromise' on infrastructure plan during meeting with bipartisan group of lawmakers"
+    excerpt: "Biden and Transportation Secretary Pete Buttigieg met with lawmakers in an effort to gain support for an infrastructure plan that Republicans rebuked."
+    publishedDateTime: 2021-04-20T13:58:00Z
+    webUrl: "https://www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/607e29fe74da0300181e29d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
     excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
@@ -260,6 +308,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Evidently, Jen Psaki’s Job Is to Pretend Joe Biden Didn’t Say What Everybody Heard Him Say"
+    excerpt: "How is Biden saying he is praying for ‘the right verdict’ and offering that the ‘evidence is overwhelming’ not an example of weighing in on the Chauvin verdict?"
+    publishedDateTime: 2021-04-20T17:57:00Z
+    webUrl: "https://www.nationalreview.com/corner/evidently-jen-psakis-job-is-to-pretend-joe-biden-didnt-say-what-everybody-heard-him-say/"
+    ampWebUrl: "https://www.nationalreview.com/corner/evidently-jen-psakis-job-is-to-pretend-joe-biden-didnt-say-what-everybody-heard-him-say/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/evidently-jen-psakis-job-is-to-pretend-joe-biden-didnt-say-what-everybody-heard-him-say/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 65
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/psaki.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Joe Biden pressed on emissions goal as climate summit nears"
     excerpt: "When President Joe Biden convenes a virtual climate summit on Thursday, he faces a vexing task: how to put forward a nonbinding but symbolic goal to reduce greenhouse gas emissions that will have a tangible impact on climate change efforts not only in the U."
     publishedDateTime: 2021-04-19T11:49:00Z
@@ -291,6 +355,6 @@ related:
         height: 683
         isCached: true
 
-secured: "S7mC1YHvjbgE8/tCgeAFw2fz64GZfoK081i+vWEO9Ls8ekh8OQ0fhKQMSElruVPuiHXlXTTGRJC/P5aE9ai9cm1IG+rjJbIMAaTelEvtM8dGwT511u3XLQitBGQoJpc8epDF4fKuyGcXmjXGxlVV6bai9WrArhXxVeunxTH2Khm2mHHhz+0d5MIU10d+PdmzSFRT91wtVtnyZeYnWXJqvF9L0AC2ITSXigARcCDUXih9JFR9ktLI3vT/1hU+6voctmfApLSg9dDsLeGQHBzZu5YTSKmXR9O6Tskxsli4W19/QvYrdkyTOBrcgwheC8hEv42rCjjvXpe1mAlM7saGS7uwgXfel3SVXiPYgBygjpg=;Nn+e/Jwd9LfAf/uQJZfR2A=="
+secured: "Wz3XU78hsTJ4rplPxpRfVPMLxpdmoe7BxBRktKRkR4lIlqtdbuKKK+QNItKxqMf4ImrTXIN2SyRLJbOCpKGo2nCD6YFbYN227idMv74sEpkV6oLnnwio9p06BHIlud9lu1aKcXf8Ped4Vjjraks9nGoi1FLHy12osYf1wW1aAtg68D/9k/XEx2qF483uVLmSU270a91tIsgJuKzFLNIhVPQw+8D92vT+yAykoBTBdMFtIzyGFMFVeiAfyFbYpl9VYiiKFE5aSXXOrv+7AaBw9xOZVpXXZOa+HtR5BJJCK97iUJZdhJHv3oLNfoDqkxEudqIRJBHdLYcEMSiX3zWrk0dZrnpH6kdSgn/4yIRaKRZESiL0AKxIMYuCpP6kwUGbohR75nx0AFFDiFUAVhusTG1ltXqKoOS1Ff3WA0YeDy0k30TQ1ntPcoLM84Q99RTwMkD/KFJMqPUQrhSMVUTOEFLdkRCuLs8F5QeacGPnQbPWkf5FEujqogMDbXeRdH//srDzVWRFIbCv5ewH8qEs6g==;yco6vZ5qxBH3MMxustHLaw=="
 ---
 

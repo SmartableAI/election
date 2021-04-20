@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "These were Biden's campaign promises on the climate crisis"
+    excerpt: "President Joe Biden has promised to act urgently on the climate crisis. His plans include returning the US to the Paris climate accord and working to move toward clean energy.\n    \n"
+    publishedDateTime: 2021-04-20T19:00:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fANPAFuGQi0/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/13/joe-biden-on-the-climate-crisis-mh-orig.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925174605-trump-v-biden-card-climate-crisis-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden preparing for 'tinderbox' with country on edge ahead of verdict in Chauvin trial"
     excerpt: "President Joe Biden is keeping a watchful eye on this week's closing arguments in the Minneapolis trial of Derek Chauvin, fearful that a controversial verdict could inflame new racial tensions and further escalate a deepening crisis in confidence with the nation's police forces.\n    \n"
     publishedDateTime: 2021-04-19T11:42:44Z

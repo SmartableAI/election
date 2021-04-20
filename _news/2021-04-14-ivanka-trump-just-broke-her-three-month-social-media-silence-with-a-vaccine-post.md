@@ -50,7 +50,7 @@ related:
   - title: "Trump Didn't Form a Populist Coalition; He Was the Result of One"
     excerpt: "They're still there, planted in front of stately homes in wealthy suburban neighborhoods, on flagpoles in middle-class communities and along"
     publishedDateTime: 2021-04-20T10:07:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/20/trump_didnt_form_a_populist_coalition_he_was_the_result_of_one_145622.amp.html"
     type: article

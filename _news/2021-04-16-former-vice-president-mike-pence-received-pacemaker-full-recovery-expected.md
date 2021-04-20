@@ -78,16 +78,16 @@ related:
   - title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
     excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
     publishedDateTime: 2021-04-15T19:10:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    webUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 75
     images:
-      - url: "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
+      - url: "https://media.11alive.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

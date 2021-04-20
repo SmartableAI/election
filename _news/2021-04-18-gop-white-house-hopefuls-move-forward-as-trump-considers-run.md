@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-mov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -132,6 +132,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/46/71/20868732/3/rawImage.jpg"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "GOP White House hopefuls move forward as Trump considers run"
+    excerpt: "Less than three months after former President Donald Trump left the White House, the race to succeed him atop the Republican Party is already beginning. Trump's former secretary of state, Mike Pompeo,"
+    publishedDateTime: 2021-04-20T13:39:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump Issues Warning To GOP, Says Republicans Must Embrace His MAGA Agenda"
     excerpt: "Donald Trump reiterated Monday that his platform was the way forward for the GOP, and those that weren't on board would face consequences."

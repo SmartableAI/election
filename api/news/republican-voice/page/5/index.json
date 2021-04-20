@@ -2,6 +2,175 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-04-mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.md",
+      "title": "Mazie Hirono rips Kavanaugh, other Trump Supreme Court picks, as she promotes new memoir",
+      "excerpt": "\"In my view, he’s not a very good lawyer.\" She also criticized Justice Neil Gorsuch, who, like Kavanaugh, was nominated by former President Trump. She accused Gorsuch of making some \"really stupid decisions\" because he’s so \"literal\" about the law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir",
+      "originalUrl": "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/kavanaugh-hirono.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.amp",
+      "publishedDateTime": "2021-04-03T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-trump-says-companies-playing-to-woke-cancel-culture-over-ga-election-bill-calls-for-boycott.md",
+      "title": "Trump says companies playing to 'woke cancel culture' over Ga. election bill, calls for boycott",
+      "excerpt": "Former President Trump suggested Saturday that Republicans take a page out of what he sees as Democrats' playbook by boycotting the major businesses that have condemned Georgia's new election reform. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AuHxtQA0JlU/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AuHxtQA0JlU/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/rtx25h92.jpg",
+          "width": 4436,
+          "height": 2957,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them.amp",
+      "publishedDateTime": "2021-04-03T16:54:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-bidens-quest-to-pass-a-multitrillion-dollar-spending-bill-could-be-imperiled-by-legislative-fatigue.md",
+      "title": "Biden's quest to pass a multitrillion-dollar spending bill could be imperiled by 'legislative fatigue'",
+      "excerpt": "President Biden and Congressional Democrats are prepping trillions of dollars in new spending.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
+      "publishedDateTime": "2021-04-03T07:13:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-hunter-biden-says-in-memoir-he-wouldnt-take-burisma-job-again-but-insists-it-wasnt-unethical.md",
       "title": "Hunter Biden says in memoir he wouldn’t take Burisma job again but insists it wasn’t ‘unethical’",
       "excerpt": "Hunter Biden wrote in his new tell-all memoir “Beautiful Things” that he does not regret taking a seat on the board of Burisma Holdings, but he would not do it again. ",
@@ -1485,166 +1654,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-launches-45-office-website-amid-speculation-about-future.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-launches-45-office-website-amid-speculation-about-future.amp",
       "publishedDateTime": "2021-03-29T18:46:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.md",
-      "title": "Campos-Duffy blasts 'stone-cold political operator' Biden claiming compassion for migrants",
-      "excerpt": "On \"Fox News Primetime,\" host Rachel Campos-Duffy slammed President Biden for claiming the migrant border surge is due to his standing as a friendly, compassionate head of state, saying that the president is really overseeing a humanitarian catastrophe.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7hoNy-nCvg/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7hoNy-nCvg/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.amp",
-      "publishedDateTime": "2021-03-29T17:51:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-buttigieg-no-plan-to-increase-gas-or-mileage-tax-in-biden-infrastructure-plan.md",
-      "title": "Buttigieg: No Plan To Increase Gas Or Mileage Tax In Biden Infrastructure Plan",
-      "excerpt": "Secretary of Transportation Pete Buttigieg pledged on Monday that the Biden infrastructure plan will not feature a tax hike on gas or mileage for those with incomes less than $400,000 in an interview with CNN host Jake Tapper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/539105.jpg",
-          "width": 1106,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "publishedDateTime": "2021-03-29T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-covid-19-response.md",
-      "title": "Trump accuses Fauci, Birx of 'trying to reinvent history' on COVID-19 response",
-      "excerpt": "Former President Donald Trump slammed Anthony Fauci and Deborah Birx on Monday, accusing the infectious disease experts of “trying to reinvent history” in televised interviews detailing their roles in combating the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb14def2-f6e9-4f0e-88e8-4bb0b38a9ec8/ffc8e1c0-0304-4e43-8d1f-fa39f4ae0ca9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "publishedDateTime": "2021-03-29T16:25:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -175,6 +175,36 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden stuns political, legal experts by weighing in on Derek Chauvin verdict before jury makes decision"
+    excerpt: "After President Biden said Monday he is praying the jury comes to the \"right verdict\" in the Derek Chauvin trial, White House press secretary Jen Psaki said Biden doesn’t see that as \"weighing in.\" Political and legal experts think otherwise. "
+    publishedDateTime: 2021-04-20T18:15:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d6x4LNk2eg/biden-weigh-in-derek-chauvin-verdict-jury-makes-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-weigh-in-derek-chauvin-verdict-jury-makes-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-weigh-in-derek-chauvin-verdict-jury-makes-decision.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden White House officially supports making DC the 51st state"
+    excerpt: "President Biden's White House Tuesday formally backed making Washington, D.C., the 51st state of the union and urged Congress to pass the H.R. 51 legislation to give Washingtonians \"long overdue full representation.\""
+    publishedDateTime: 2021-04-20T18:17:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PTITVYu3-zI/biden-white-house-supports-making-dc-the-51st-state"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP senators want FBI to probe if Biden Pentagon nominee disclosed classified info after leaving Obama admin"
     excerpt: "A group of Republican senators Tuesday asked FBI Director Christopher Wray to investigate one of President Biden's Pentagon nominees over whether he allegedly disclosed classified information on social media after leaving the Obama administration. "
     publishedDateTime: 2021-04-13T12:53:40Z

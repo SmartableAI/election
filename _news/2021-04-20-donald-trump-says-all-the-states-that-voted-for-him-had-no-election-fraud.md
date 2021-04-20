@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
 type: article
 quality: 139
-heat: 499
+heat: 519
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/john-boehner-01-ap-iwb-210412_1618236535797_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Ohio Republicans aim to rename state park after Donald Trump"
+    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
+    publishedDateTime: 2021-04-20T17:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MV6GSKFCAII6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Rick Scott navigates Trump, winning back the Senate — and his own ambitions"
     excerpt: "As chairman of the National Republican Senatorial Committee, the Florida senator is putting himself front and center as he leads the battle to win the majority in 2022."

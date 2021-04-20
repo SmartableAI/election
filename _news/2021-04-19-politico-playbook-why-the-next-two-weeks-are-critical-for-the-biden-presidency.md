@@ -142,6 +142,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden to call for peaceful protests in response to Chauvin guilty on all counts verdict"
+    excerpt: "President Joe Biden is expected to speak in response to Derek Chauvin being convicted on all counts, in the death of George Floyd. Biden will call for peaceful protests and marches in the coming days."
+    publishedDateTime: 2021-04-20T21:38:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-to-call-for-peaceful-protests-in-response-to-chauvin-guilty-on-all-counts-verdict-110544453553"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110544453553"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110544453553"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/1618954400263_nbc_spec_welker_biden_210420_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "iVCmLmn9hEJbrqcJe0FPUSSWOzveUDdilmzkw1m4Q5Uf1PEuX8BbZ+d0p/iW0Gt0FPnizSoreDjUsparTFGttPJ/ODPkRztTstqM5RW/8SL9O+YlJ/Np1azQhhRIrkAlt2VcZLJeOANFmm3WdEPF0J1oHjXDSQ1tKSLBhbGdDvhn0VKfNwh5AiQj50MkNJF68rd5hGvbb7uTMnaZHoV2zr5VxHU8CRq7tWfqKMUDYhGwvupv+yWR1LfNu5OLdsmgtFftBZiFCWADQpi7JScsA/OaXlpvyAdcgFNzmhlWFhDSRcF+1FSvmKdBA3QRTv6VCs9CckxsMeofwcV5I5qiEvW0rFsU+6vnDUMYocIHueQWwXnUF5rY9OCWCzSJnX1h0v5pfmxjuKf1Bzc5GrvlBRHzyae1nOXjbRWjIx+knwP49KoFcSABFKbO3aN+DPFOo3kcz9uSXATu8UYDI0TFk9SFuHgpdmfLBAZAAcWoh7BOn9NLrMeDVSEzeDY5MJX4TvJoSlNwz/AOo4pIkJiehg==;qnPQQLIW2XtBczsYrIrSqQ=="
 ---
