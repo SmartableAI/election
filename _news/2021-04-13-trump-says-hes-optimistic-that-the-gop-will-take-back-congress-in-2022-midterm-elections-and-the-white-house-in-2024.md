@@ -93,6 +93,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "House passes bill aimed at stopping future Trump travel ban"
+    excerpt: "The House passed legislation on Wednesday that would limit executive authority to issue future travel bans like the one imposed by former President Trump against several Muslim-majority countries."
+    publishedDateTime: 2021-04-21T21:01:00Z
+    webUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban"
+    ampWebUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/travelban_lax_062917getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Rick Scott navigates Trump, winning back the Senate — and his own ambitions"
     excerpt: "As chairman of the National Republican Senatorial Committee, the Florida senator is putting himself front and center as he leads the battle to win the majority in 2022."
     publishedDateTime: 2021-04-18T09:04:00Z
@@ -295,6 +311,22 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/4e3a416081f744298ea773bfbd3eb964/3000.jpeg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Trump Says Georgia Election Law Is ‘Far Too Weak’"
+    excerpt: "The former president’s message to Republicans is that using election laws to screw over the opposition isn’t just acceptable – it’s mandatory."
+    publishedDateTime: 2021-04-21T00:56:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/653/417/69698d5d9cda3fce4bd2251e096f119f23-trump-hannity.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
     excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."

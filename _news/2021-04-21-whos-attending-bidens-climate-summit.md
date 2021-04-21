@@ -3,8 +3,8 @@ category: news
 title: "Who's attending Biden's climate summit?"
 excerpt: "U.S. President Joe Biden invited leaders from the world's largest countries, including the other big polluters, to a two-day virtual climate summit  that starts Thursday."
 publishedDateTime: 2021-04-21T15:18:00Z
-originalUrl: "https://www.reuters.com/article/us-global-climate-summit-schedule/whos-attending-bidens-climate-summit-idUSKBN2C82BY"
-webUrl: "https://www.reuters.com/article/us-global-climate-summit-schedule/whos-attending-bidens-climate-summit-idUSKBN2C82BY"
+originalUrl: "https://www.reuters.com/article/us-global-climate-summit-schedule-idUSKBN2C82BY"
+webUrl: "https://www.reuters.com/article/us-global-climate-summit-schedule-idUSKBN2C82BY"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C82BY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C82BY"
 type: article
@@ -158,6 +158,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35EEPGVC2QI6XMYUF2MTXWB6GE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden faces calls on pledge to recognize Armenian genocide"
+    excerpt: "President Joe Biden is facing calls to recognize the Armenian genocide of more than a century ago, something that he pledged to do as a candidate but that could further complicate an already tense rel"
+    publishedDateTime: 2021-04-21T20:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPGKHHVCZ4I6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "House Dems to unveil drug pricing measure ahead of Biden package"
+    excerpt: "House Democrats are preparing to reintroduce major legislation to lower drug prices ahead of President Biden's unveiling of his American Families Plan, which could include the proposals."
+    publishedDateTime: 2021-04-21T21:04:00Z
+    webUrl: "https://thehill.com/policy/healthcare/549580-house-dems-to-unveil-drug-pricing-measure-ahead-of-biden-package"
+    ampWebUrl: "https://thehill.com/policy/healthcare/549580-house-dems-to-unveil-drug-pricing-measure-ahead-of-biden-package?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/549580-house-dems-to-unveil-drug-pricing-measure-ahead-of-biden-package?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosinancy_041321gn2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "In Biden climate show, watch for cajoling, conflict, pathos"
     excerpt: "President Joe Biden takes center stage in a two-day climate summit highlighting America’s return to the fight to curb global warming"
@@ -465,6 +497,6 @@ related:
         height: 683
         isCached: true
 
-secured: "zBVANb80kdtgnIW2TQR7JaVkICHbrZD/+1f0gtpqtnPWBH4NM1mzuo2YBF29QDcmZI6Gv9pOzhrn2Q60NpavLcxHAxVj9BAnNGM45MqSb+y/hNUXaNr999Hepec+ZzYYdLKj7oww+sjuEqiOf5dElldG8cSXlBDD4v+inEKJyFqo5xEKy408EwLxSGQkyIe6/VwMIpwOaYXwtE5PS4b7ieuc2q7F9fvh/ZVcqqrvrX8F5Z+Gg9ftkMVw52jAzbRlSYuttWQmR3f3p3wQfy5qM37xgNwO9oC8XTHTenBWBJQNt4MP/sRtv7v6MIjVI8cjaG9XL76NmLGX+09TIAaI5rpBmt1I1pfxgpRyONGtEmUDQ+eXRtlGPGne90tondSkHQfW7Xn6d0AHD/OS+pLGN/HjHF78Vr9iGevo+wSzbVvPHXJ91SzbkoXyD7+9xuyySiirA7BXQkXjRwoU4wtrCHiXRImtKX2E8kDgPXwPDCowaNwQKmjHWTkHXmoa5cai3vwycMm77miEDkKrJX2KXg==;XgxZlOQq1gp07p0N0+14cg=="
+secured: "SE8NA+hIphh9S6HCJJLin/bFaSao3rPttQ8qSw91J/suwDtLVzhUh3DqxKwPdVueE0BU8UDCQlm6jJaT23tQezaS8c6pT0g51Ll7g041nEhutwPbLYMOHGg3/TqZxdii0RYQ19NzgxEe0zdLQlNOxft8p/RTt1eIPo6ITBig386FFvEv6d0Ph2PjEtSUuDMUeXQooauBsF7nDWj4hgOAcM3wN24G9Kc9IgnSob5xo2r+qZGQHuHt8Yf8lJubC+i03lOiPLPY/USYTeME1WUYLht/mTJMiW9dSnzhJpdS7nPLnT//iIYCxEEktp5879yJdFBWnwGGeiIqKQ+1CIi0DKaH0zVZBzEJQP31mPTI8gc=;JnaRWhMTnuDlLiB8iUuBBA=="
 ---
 

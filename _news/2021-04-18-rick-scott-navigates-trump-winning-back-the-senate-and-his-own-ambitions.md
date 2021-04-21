@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "House passes bill aimed at stopping future Trump travel ban"
+    excerpt: "The House passed legislation on Wednesday that would limit executive authority to issue future travel bans like the one imposed by former President Trump against several Muslim-majority countries."
+    publishedDateTime: 2021-04-21T21:01:00Z
+    webUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban"
+    ampWebUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/travelban_lax_062917getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Mike Lindell Says He Had Dream About Trump One Year Before Meeting Him, Credits God"
     excerpt: "MyPillow CEO Mike Lindell on Saturday said that he had a dream about Donald Trump in 2015, one year before the two met for the first time. During his address at the conservative Freedom Conference held in Broken Arrow,"
     publishedDateTime: 2021-04-17T20:17:00Z
@@ -293,6 +309,22 @@ related:
     quality: 97
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/12/0fafe1a2-52d1-4b8c-bbad-773dd9aad4c2/thumbnail/1200x630/f422c01c755616e5c70b15612ab66af3/cbsn-fusion-former-president-donald-trump-says-hes-optimistic-that-the-republican-party-will-take-back-congress-in-2022-midterm-elections-and-the-white-house-in-2024-thumbnail-690432-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Says Georgia Election Law Is ‘Far Too Weak’"
+    excerpt: "The former president’s message to Republicans is that using election laws to screw over the opposition isn’t just acceptable – it’s mandatory."
+    publishedDateTime: 2021-04-21T00:56:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/653/417/69698d5d9cda3fce4bd2251e096f119f23-trump-hannity.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
         isCached: true

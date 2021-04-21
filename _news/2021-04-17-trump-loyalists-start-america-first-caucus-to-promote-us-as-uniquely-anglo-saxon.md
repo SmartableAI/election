@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "A Capitol Police officer reported hearing a radio dispatch to only look for 'anti-Trump' protesters on January 6, congresswoman says"
+    excerpt: "Rep. Zoe Lofgren said in a Wednesday hearing that an officer described the broadcast they heard as part of an internal Capitol Police review."
+    publishedDateTime: 2021-04-21T21:08:00Z
+    webUrl: "https://www.businessinsider.com/capitol-police-officer-said-to-go-after-anti-trump-protesters-congresswoman-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/capitol-police-officer-said-to-go-after-anti-trump-protesters-congresswoman-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-police-officer-said-to-go-after-anti-trump-protesters-congresswoman-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5ffe2a97a8de7700187d3888?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "NuuViWsZXKNEs9TxSg0PC79+sasE3oXffDiyLFLlfNfdIcT6RQWLPBjcJki6l+ZqARNDt0E/R45SZCU4HLC0O+wtL7GQHJ3g7neInWBQ+a8+dxdfF7MCOm7Fh1X+66SQfb5jwab2wfvqqYgIf6ucQhB79uB0PKipXmzxalu5DHeZO5U9DSfwWjZMW51EA33PMcNR7v112Fjr0qcNJzS1bl/r1qCE5a3xkfSY8hag0xu34rBfBIdAv+2gsvQuJTfkz08uOsnKs09GKvJ8mFDjRzl07FpC391nH9EvE952fntEjSx6qPIeZRnBwyYmDg0kj92xTnaTvlx/FAAlgJz1SoLOMXy52ML0dqOuD/zETpc=;zM8IrPlsh4lhNZI72TrY3Q=="
 ---

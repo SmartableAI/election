@@ -146,7 +146,7 @@ related:
   - title: "Who's attending Biden's climate summit?"
     excerpt: "U.S. President Joe Biden invited leaders from the world's largest countries, including the other big polluters, to a two-day virtual climate summit  that starts Thursday."
     publishedDateTime: 2021-04-21T15:18:00Z
-    webUrl: "https://www.reuters.com/article/us-global-climate-summit-schedule/whos-attending-bidens-climate-summit-idUSKBN2C82BY"
+    webUrl: "https://www.reuters.com/article/us-global-climate-summit-schedule-idUSKBN2C82BY"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C82BY"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C82BY"
     type: article
@@ -158,6 +158,38 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559398218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K19Y"
         width: 819
         height: 545
+        isCached: true
+  - title: "Biden faces calls on pledge to recognize Armenian genocide"
+    excerpt: "President Joe Biden is facing calls to recognize the Armenian genocide of more than a century ago, something that he pledged to do as a candidate but that could further complicate an already tense rel"
+    publishedDateTime: 2021-04-21T20:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPGKHHVCZ4I6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "House Dems to unveil drug pricing measure ahead of Biden package"
+    excerpt: "House Democrats are preparing to reintroduce major legislation to lower drug prices ahead of President Biden's unveiling of his American Families Plan, which could include the proposals."
+    publishedDateTime: 2021-04-21T21:04:00Z
+    webUrl: "https://thehill.com/policy/healthcare/549580-house-dems-to-unveil-drug-pricing-measure-ahead-of-biden-package"
+    ampWebUrl: "https://thehill.com/policy/healthcare/549580-house-dems-to-unveil-drug-pricing-measure-ahead-of-biden-package?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/549580-house-dems-to-unveil-drug-pricing-measure-ahead-of-biden-package?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosinancy_041321gn2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "In Biden climate show, watch for cajoling, conflict, pathos"
     excerpt: "President Joe Biden takes center stage in a two-day climate summit highlighting America’s return to the fight to curb global warming"
@@ -465,6 +497,6 @@ related:
         height: 683
         isCached: true
 
-secured: "PHA0f2Q0xGYIV8Kx0clp6nV58EeUVQHYo8QB4sN5YNYZkgteiOy39H+ruSdUcYyqHN1tNvq7ZfVU+k5CyMN0T3iAPPcASLta+UZ6lN4z168DwecGXwfQIMuBgn+960Kf0nyi7k/knDl7JfmNYCdvTGH5wnGIrCy/F9W35m8PmZSGK0WUUZGryMCyYCtIXIosfmmiQcDez+zQX2vhOuj6TILw/gY0GFi5/HsipcJmg/uPLgzRS/y4fZoajk5iZD7LRU3vFMnsZvwyMhBEVKuiWPMuk+N1YAcyH73+gFkgoKCu5KPBw5uktmCy8QpsHgm3WRdROXqfFH/KLVOijALvdI8DISlVzCC9VEcgF1AZ4Uc=;wEI3XJwx+yEbxpUct4t69A=="
+secured: "4MTHyBJaQSrVQJLmtWvRl/6X0FnOalh2SHiZ7dhPY1y0AEJH5pM7YaOye1VM8OJXjBRP/68uKHMRXlPTaLus3HqvbY1GfY9/5nwnlFHxCqdVTsJ8yTIXDCK3hjqsUL7SsgX9T7Dw1iqk5xoKaLYCANfjHP5CLW5q/LsEWmc+0ofaffV5zYDCifJFO2cL7Y5rYJLHccqvxB8X9EUk04hi8UDHRloP6iTMMVbNxyi6ToNYjS3nOYOr/k4nZbi+ntG3DxM5I+5aKtF/+Kjm8BIQWHDzoHKrGigOF77FseRRYkPR7AH3kGiIJK+SgMKbQnb7cPpLGo8VdgcYugShhS30j5aPWfkzyIjoc6cOnED8weQu1cKBKhJfwcHfzNVm9q2fx0uQ4fTA/x+rJzsqc0YKjxmR/50vQwPNruEcpnm1tFWtmlrjp+bJHeBhdO/YXe7uhgdbVF+ctNgQynWTcMoguWRj68BFY0x/YkGUl1Mfpcm1NRjymmQ4zP5/rpJHZjQeBmXVZ3PncnzuEEWtjRDWhw==;7GinsgncoGOplQiT7fGrtA=="
 ---
 

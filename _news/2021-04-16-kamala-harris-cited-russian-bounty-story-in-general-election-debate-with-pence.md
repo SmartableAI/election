@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-cited-russian-bounty-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp"
 type: article
 quality: 221
-heat: 621
+heat: 641
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
     quality: 133
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris to visit New Hampshire with no plans yet for southern border trip"
+    excerpt: "Hey Kamala, its the other border. Vice President Kamala Harris announced Wednesday that she’s traveling north to New Hampshire to promote infrastructure legislation — despite not yet booking"
+    publishedDateTime: 2021-04-21T20:52:00Z
+    webUrl: "https://nypost.com/2021/04/21/kamala-harris-to-visit-nh-with-no-plans-yet-for-southern-border-trip/"
+    ampWebUrl: "https://nypost.com/2021/04/21/kamala-harris-to-visit-nh-with-no-plans-yet-for-southern-border-trip/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/kamala-harris-to-visit-nh-with-no-plans-yet-for-southern-border-trip/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-001-3.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

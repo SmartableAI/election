@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ariz. Gov. Ducey urges Biden to declare national emergency at the border, as he deploys National Guard"
+    excerpt: "Arizona Gov. Doug Ducey on Wednesday urged President Biden to declare a national emergency at the border, a day after the Republican governor deployed the National Guard and issued an emergency declaration in response to the migrant crisis."
+    publishedDateTime: 2021-04-21T21:45:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2MN3JD6SSY/ariz-gov-ducey-biden-national-emergency-border-national-guard"
+    ampWebUrl: "https://www.foxnews.com/politics/ariz-gov-ducey-biden-national-emergency-border-national-guard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ariz-gov-ducey-biden-national-emergency-border-national-guard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa07c23e-822f-4acf-9564-ea278dd3b724/31df3aec-d9b8-4a97-a153-efba9c0bf890/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Graham To Biden: It's Not Just A \"Crisis\" On The Border, It's Chaos"
     excerpt: "South Carolina Republican Sen. Lindsey Graham told FNC's 'Justice with Judge Jeanine' to discuss the left's push to expand the Supreme Court and President Biden admitting the refugee situation at the border is a \"crisis."
     publishedDateTime: 2021-04-18T13:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-surge-crisis-defends-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-surge-crisis-defends-refugee-move.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/485b14c0-ef2b-488c-a9fe-42465ed200ce/124767e5-b7f5-4881-9dbd-42f3a58f3a46/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ariz. Gov. Ducey urges Biden to declare national emergency at the border, as he deploys National Guard"
+    excerpt: "Arizona Gov. Doug Ducey on Wednesday urged President Biden to declare a national emergency at the border, a day after the Republican governor deployed the National Guard and issued an emergency declaration in response to the migrant crisis."
+    publishedDateTime: 2021-04-21T21:45:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2MN3JD6SSY/ariz-gov-ducey-biden-national-emergency-border-national-guard"
+    ampWebUrl: "https://www.foxnews.com/politics/ariz-gov-ducey-biden-national-emergency-border-national-guard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ariz-gov-ducey-biden-national-emergency-border-national-guard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa07c23e-822f-4acf-9564-ea278dd3b724/31df3aec-d9b8-4a97-a153-efba9c0bf890/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
