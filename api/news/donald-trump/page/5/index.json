@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-25-eric-trumps-wife-absolutely-considers-running-for-senate.md",
+      "title": "Eric Trump's Wife 'Absolutely' Considers Running For Senate",
+      "excerpt": "Lara Trump, who married Donald Trump's second son Eric in 2014, first hinted at plans to run for the North Carolina state Senate in an interview with Sean Hannity March 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732",
+      "originalUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/03/27/lara-trump.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732?amp=1",
+      "publishedDateTime": "2021-03-24T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-2-staunch-trump-allies-launch-senate-bids-in-missouri-and-alabama.md",
+      "title": "2 staunch Trump allies launch Senate bids in Missouri and Alabama",
+      "excerpt": "Former Missouri Governor Eric Greitens and Alabama Representative Mo Brooks formally announced their Senate bids on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
+      "originalUrl": "https://www.cbsnews.com/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/05/18/a74c26f5-446d-4e94-8638-a163d6f1a792/thumbnail/1200x630/e254686711c839dae283ca52575bf7bb/ap-18137642798547.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-greitens-mo-brooks-running-senate-races-missouri-alabama/",
+      "publishedDateTime": "2021-03-24T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-trumps-wealthiest-cabinet-member-made-225m-in-outside-income-report.md",
       "title": "Trump's Wealthiest Cabinet Member Made $225M In 'Outside Income': Report",
       "excerpt": "Betsy DeVos made at least $225 million in outside income as Trump's education secretary She earned $75 million from Alticor, Amway's parent company She also owned stakes in Neurocore, a brain performance company targeting children Former Secretary of Education Betsy DeVos earned nine figures in outside income during her tenure as a Cabinet member in the Trump administration,",
@@ -1442,115 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-kellyanne-conway-michael-wolff-jonathan-karl-among-those-reportedly-writing-post-white-house-trump-books.md",
-      "title": "Kellyanne Conway, Michael Wolff, Jonathan Karl among those reportedly writing post-White House Trump books",
-      "excerpt": "The era of explosive tell-all books about the Trump presidency is apparently not over, even though the presidency itself has ended.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books",
-      "originalUrl": "https://www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Conway-Wolff-Haberman-Karl.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kellyanne-conway-michael-wolff-trump-books.amp",
-      "publishedDateTime": "2021-03-18T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-new-jersey-district-pays-325k-in-trump-yearbook-censorship.md",
-      "title": "New Jersey district pays $325K in Trump yearbook censorship",
-      "excerpt": "A New Jersey school district is paying $325,000 to a former New Jersey teacher who claimed she was forced to edit a Donald Trump T-shirt worn by a student in a yearbook photo New Trump recording ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_a2483d633d1349c5a864fc3b7d2d0090_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/jersey-district-pays-325k-trump-yearbook-censorship-76530065",
-      "publishedDateTime": "2021-03-18T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

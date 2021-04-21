@@ -127,6 +127,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Live Updates: Biden to Announce Major Pledge to Cut Greenhouse Gas Emissions"
+    excerpt: "President Biden’s plan to cut emissions almost in half by 2030 would require Americans to transform the way they drive, heat their homes and manufacture goods. It is expected to be announced Thursday and timed with a global summit meeting."
+    publishedDateTime: 2021-04-21T12:27:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/21/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/21/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/21/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/21/us/politics/21new-washington-briefing-promo/21new-washington-briefing-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden to call for peaceful protests in response to Chauvin guilty on all counts verdict"
     excerpt: "President Joe Biden is expected to speak in response to Derek Chauvin being convicted on all counts, in the death of George Floyd. Biden will call for peaceful protests and marches in the coming days."
     publishedDateTime: 2021-04-20T21:38:00Z

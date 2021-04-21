@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-col
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Live Updates: Biden to Announce Major Pledge to Cut Greenhouse Gas Emissions"
+    excerpt: "President Biden’s plan to cut emissions almost in half by 2030 would require Americans to transform the way they drive, heat their homes and manufacture goods. It is expected to be announced Thursday and timed with a global summit meeting."
+    publishedDateTime: 2021-04-21T12:27:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/21/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/21/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/21/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/21/us/politics/21new-washington-briefing-promo/21new-washington-briefing-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden to call for peaceful protests in response to Chauvin guilty on all counts verdict"
     excerpt: "President Joe Biden is expected to speak in response to Derek Chauvin being convicted on all counts, in the death of George Floyd. Biden will call for peaceful protests and marches in the coming days."

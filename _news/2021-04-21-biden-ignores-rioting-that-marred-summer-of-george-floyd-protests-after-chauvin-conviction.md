@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden, Waters’ comments not ‘significant enough’ for appeal in Chauvin trial verdict: Sol Wisenberg"
+    excerpt: "Former Deputy Independent Counsel Sol Wisenberg told “The Faulkner Focus” Wednesday that it’s “extremely unlikely” controversial comments made by President Joe Biden and Rep. Maxine Waters,’ D-Calif., would result in a reversal of the trial verdict of former Minneapolis Officer Derek Chauvin."
+    publishedDateTime: 2021-04-21T19:06:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hd6N9rFH7OY/biden-waters-chauvin-trial-verdict-wisenberg"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-waters-chauvin-trial-verdict-wisenberg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waters-chauvin-trial-verdict-wisenberg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acc6bb51-9f90-47fc-a1cd-b04edc0ce1a7/e3ef6bba-823e-4802-b0bd-f9592956707c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden stuns political, legal experts by weighing in on Derek Chauvin verdict before jury makes decision"
     excerpt: "After President Biden said Monday he is praying the jury comes to the \"right verdict\" in the Derek Chauvin trial, White House press secretary Jen Psaki said Biden doesn’t see that as \"weighing in.\" Political and legal experts think otherwise. "
     publishedDateTime: 2021-04-20T18:15:37Z

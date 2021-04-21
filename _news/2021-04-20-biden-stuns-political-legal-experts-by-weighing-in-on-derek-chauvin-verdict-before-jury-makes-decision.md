@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden, Waters’ comments not ‘significant enough’ for appeal in Chauvin trial verdict: Sol Wisenberg"
+    excerpt: "Former Deputy Independent Counsel Sol Wisenberg told “The Faulkner Focus” Wednesday that it’s “extremely unlikely” controversial comments made by President Joe Biden and Rep. Maxine Waters,’ D-Calif., would result in a reversal of the trial verdict of former Minneapolis Officer Derek Chauvin."
+    publishedDateTime: 2021-04-21T19:06:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hd6N9rFH7OY/biden-waters-chauvin-trial-verdict-wisenberg"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-waters-chauvin-trial-verdict-wisenberg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waters-chauvin-trial-verdict-wisenberg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acc6bb51-9f90-47fc-a1cd-b04edc0ce1a7/e3ef6bba-823e-4802-b0bd-f9592956707c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "0sYnLaFbi2k6sX+wSbLNGfSPqt1Lciq2MJdPZxLouuAef/3BT6bqq3jBXcyXsTd2pm3WSIKsnYLCArx+gfl8qnwj36rh4JJvAug23I+WCGhDTejNXpIdEC7QDBzEJ0p/RXSYxasYdk8htkdO8/QKSAntp6DRbXFZw0a0CnnLvSrbrc9YjpyKn1twtRLYpFi1jCOC7xZC5vtk+9Bn46kyY5YR6JbQDueyfnifS+ZMbVyKJNjpln7/YvWzvbkUeP0T/nSNGM//TUd6t23nRGi2UZnFZ5iZOI2cys2s7aGjsMs5bWIE0enMZurUMpmVWkcyDSt65HEdHZrI6qSoywhbGwT6aJ62MySblpzFEzFZ+bM=;GAiIU0JHeqWMPD6ZhdXAZg=="
 ---
