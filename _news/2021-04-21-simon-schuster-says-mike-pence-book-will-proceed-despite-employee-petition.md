@@ -33,9 +33,9 @@ images:
 
 related:
   - title: "Simon & Schuster Says Mike Pence Book Will Proceed, Despite Employee Petitions"
-    excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp says in a letter to staffers."
+    excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp said in a letter to staffers."
     publishedDateTime: 2021-04-20T19:10:00Z
-    webUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424?mod=newsviewer_click"
+    webUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
     ampWebUrl: "https://www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
     type: article

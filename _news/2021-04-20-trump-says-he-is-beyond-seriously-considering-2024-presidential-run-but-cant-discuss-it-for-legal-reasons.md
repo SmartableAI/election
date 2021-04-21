@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Misses Helping People But Says Being US President Was 'Vicious' And 'Horrible'"
+    excerpt: "Trump said he misses helping people as the US president He also revealed plans for a 2024 president bid Former aides expressed frustration over Trump's hesitancy to encourage Republicans to get a COVID-19 vaccine Former President Donald Trump on Monday appeared on Fox News' “Hannity” for an interview in which he shared what he misses about being the commander-in-chief and spoke about a possible 2024 presidential bid."
+    publishedDateTime: 2021-04-21T02:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-misses-helping-people-says-being-us-president-was-vicious-horrible-3184768"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 48
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
+        isCached: true
 
 secured: "PbbnuwVH86g3BnEfgSOzw+TAP66FueN8VbzVcgn6qySEyK/YqlzBErqyO2By97l7/qUl8XRd5nvpUEIgLwZ3rmnviuAdQVhUEstwIbCoH+7YsfqiVf6is5SMOcSxoo3i3a0z55GD9zqUdwBUOQqI4yVJM458SIyrEsCGT8oCR0kbkNEwoFQWrSh+Xg+GJOoaiu4ynVszT+3NF+JM6i50nh/3pjatXAqQVVMsyf9q55O9RuOUJvR09VRc+udMRT4ze9vJiZ+cEYWtGgeZLDnqKUQ6qdOaBjB34td58bjc0/b28rGYve/rm65ElfjfcMJjj0+eZLj6tmKC54mGa4jV/ZdOw6Fg6vI/b3o6YgZ92VTGIyzYL1O6KmU5MGD/pRuGeEDbni1blekEozFuU+bZXNhCtLL28Chj/vJunkhUMIFWx3jWxtbnv+oe8OVlgEYiU1l/9cJUcm/WuX0yEUFEem2En2sxSV+4onRoJyj1om3Ox2h3B3MZ9fPJC0cKwF50NtWSi1y79iYVse9L6UQ8Eg==;AtoLjPRzTqa9rwPR0n4iMg=="
 ---

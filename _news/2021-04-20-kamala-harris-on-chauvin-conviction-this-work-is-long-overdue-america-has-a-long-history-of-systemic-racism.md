@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris on Chauvin Conviction: \"This Work Is Long Overdue, America Has A Long History Of Systemic Racism\""
 excerpt: "Vice President Kamala Harris said we still have work to do in remarks on Tuesday following the conviction of Derek Chauvin, the officer charged for the murder of George Floyd. \"How's that for an entrance?"
 publishedDateTime: 2021-04-20T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/20/kamala_harris_on_chauvin_conviction_this_work_is_long_overdue_america_has_a_long_history_of_systemic_racism.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/20/kamala_harris_on_chauvin_conviction_this_work_is_long_overdue_america_has_a_long_history_of_systemic_racism.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/20/kamala_harris_on_chauvin_conviction_this_work_is_long_overdue_america_has_a_long_history_of_systemic_racism.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/20/kamala_harris_on_chauvin_conviction_this_work_is_long_overdue_america_has_a_long_history_of_systemic_racism.html#!"
 type: article
 quality: 45
 heat: -1
@@ -345,6 +345,6 @@ related:
         height: 500
         isCached: true
 
-secured: "7PNxFWsXTB4oFxTPzLfpElwHk4KiYQs5GdodluxdPbmlwhI/+Buccb3fkxPQHPazhf53M2kHuh9521i/w6MEdhKKgufzWJodnHVuE3nDTLhBtk6/WIHda9hLUSecA2H1S/Kj4zEskMyzd/C2sv1YIb1rAskiBFhi6jo2YQGpZP5kwLKkfBLTjin8TvLsfda2xQb93XFuQG5o73hKNIAVUA8fXd6uglFurO4qoEAONYjyugizmp0foS4xb0kTXp7RSjb4ltfWrDJjd1r2STNmomfEjokeYPMwG4LZwDkUOne4htuVkhyZIX8nRqCaKgy0RUKZHquIJqkVMX8HaRtbpu2sGO6v9VII/X7zD8gYMww=;MfZGW3DxEMpq4rhTjaNftg=="
+secured: "xQuOuO1KoYM8EARul1kINtv7alOtFcZFYuJI8MmeLjp60l+BcEwDJKnBiGG6fHknJNL/neJ3Z3CZeCRf3g4sG56FkBfSVEFMel4ef+NW0U+QKdziSr2Gb8K+6XSqZz+N19V305uWE8j7dVKB9z1Upxz8onxzHfNmgfNQeRZmrzb2LGKMiIoUSzvZT2NQTbuWjRa8mCJnzEpnmHq5pUZpdZmtcpjudUU7qKVrQ21gzOre/mWLv3be3IIF302nb9M/jfB7xfTIKMVMIYAm7DBuna/n8KIFQTNQD9u1o0SygRD4QUobEoqyqRPjCdzb1wy0vXBa00H2kMi42cT6tpuexrbQAlm42Xc3DEc3NdA8yNI=;Jhq2C8yx80CyWZF3QHueEg=="
 ---
 

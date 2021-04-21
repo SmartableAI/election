@@ -333,7 +333,7 @@ related:
   - title: "Kamala Harris on Chauvin Conviction: \"This Work Is Long Overdue, America Has A Long History Of Systemic Racism\""
     excerpt: "Vice President Kamala Harris said we still have work to do in remarks on Tuesday following the conviction of Derek Chauvin, the officer charged for the murder of George Floyd. \"How's that for an entrance?"
     publishedDateTime: 2021-04-20T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/20/kamala_harris_on_chauvin_conviction_this_work_is_long_overdue_america_has_a_long_history_of_systemic_racism.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/20/kamala_harris_on_chauvin_conviction_this_work_is_long_overdue_america_has_a_long_history_of_systemic_racism.html#!"
     type: article
     provider:
       name: RealClearPolitics

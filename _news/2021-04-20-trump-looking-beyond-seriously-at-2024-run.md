@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/549139-trump-looking-beyond-se
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549139-trump-looking-beyond-seriously-at-2024-run?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/14/5b914ce3-4376-4ee2-b383-1d6c7aa383f3/thumbnail/1200x630/fd2c09126957a4a2f4ff0741e86446b0/en-0229-fullbroadcast-495598-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump Misses Helping People But Says Being US President Was 'Vicious' And 'Horrible'"
+    excerpt: "Trump said he misses helping people as the US president He also revealed plans for a 2024 president bid Former aides expressed frustration over Trump's hesitancy to encourage Republicans to get a COVID-19 vaccine Former President Donald Trump on Monday appeared on Fox News' “Hannity” for an interview in which he shared what he misses about being the commander-in-chief and spoke about a possible 2024 presidential bid."
+    publishedDateTime: 2021-04-21T02:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-misses-helping-people-says-being-us-president-was-vicious-horrible-3184768"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 48
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
         isCached: true
 
 secured: "Ph6zk+Y9upf7fOpEccwTHHoHl1ZBQVm6lGYyYkEUQHVQMxmMW9VWTULZO0lykvpkGLhlJ+qbVpkkyj4/Xhm79FgXW/QkF1W7c5U8ZIg9bIoeGBkoErzst7eQrUTzwHvppVRCl81SOiaRXAg/mtrCm0D3SAZP+A8V4l6X0TorzWcOrP6GqEY0aYFy1d+5OwXmUpmLBHWYaCBx97umtSGvNrP89yaxcXRIqMgcae1KReMQgV4rWAcdKZVaXN7PP90DDqEYPL1FeAVsMJ8RtauCtuTQNUDM6LMJoOneFSoRTTRhUoBNMp6BDQdA1erWWHxIu93CA/rgfKqbfJTo13IqtGRw02wujNTSJf/t5kNBXLY=;9Ep1126lDPUdr6oVOnxgzQ=="

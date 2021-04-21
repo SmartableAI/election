@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Simon & Schuster Says Mike Pence Book Will Proceed, Despite Employee Petitions"
-excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp says in a letter to staffers."
+excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp said in a letter to staffers."
 publishedDateTime: 2021-04-20T19:10:00Z
-originalUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
+webUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
 ampWebUrl: "https://www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
 type: article
@@ -49,6 +49,6 @@ related:
         height: 640
         isCached: true
 
-secured: "fbjEihPlLcGM0pr03b1JH3pSI0eRXrQrl7E7OrlJIKCcVOy/MfAV2kGccBNzT8Z0Arqxkdy80TswhyHTNbyhjmuht+r9xOhvPXbwRhhR817mywwFqdbhW33jZeQWlNmuwUOPZP3NIEbqPVq7kIM3Ni7sOB1jpUwZ157ALw2RvQs4TFYl57Wlv4FZGsA1spv8NQ9sfN9O55K2AHrnw5W01Yj6lKoK+1CuYsYK7Agy8/ZTEMTFCIfw9mvj9gJERHhUhOSiOpXrU/XQweOXDOsC7efpWSLjHSct2XnLh0rN0wzke+yTSYbB4BsVaenVbT+XNj/2+h3nIbTZYOsdBl21g0+9fJYZjVm2lEA7QCVNCR0=;a1crroOohw6aZJUlICe3RQ=="
+secured: "08JmulR7uG9uEeGQYH2fXn2MZDhu/ykIed2gzL25KvSOtNT5BFzIPSqRqdHqgT3fJm93ordx7gVTWjHM76GvF9oi3L3S0kjtIS9JgYY8yynisdfncsJDi3O+aVO4/h5G/vphHUSZN2E3zgyCYzHwnBAqNL72LGO0SPKwE3cpGWMMCclrnKwxrRuaaGnJOGy1GhEL89lPySSlxTV0QCZSp9a0M02AVGP4G1HRQwFNEHW0bXyA2l0kSXIlrSg0suNMNBCqsOHb3kcvDkg9VC86jMMYLRI3lXjulaZqrVMxgS3kn5MFXHjqOV0WAVjBoyBgzqiZzFCZEyHwhZHFLJCVQCBPoRSCLG1NZmz1WSgAnRU=;pzScER8pWPaVPIV/UpYOTg=="
 ---
 
