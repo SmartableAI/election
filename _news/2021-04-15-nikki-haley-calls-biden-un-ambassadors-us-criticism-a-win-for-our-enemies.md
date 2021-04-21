@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us-criticism.amp"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/565c5f4a-bd9d-49f5-af1a-66bc7e079cd0/22db373b-2a6e-42f6-9333-5a2b8ae0c205/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cruz rips Biden DOJ nominee as 'partisan ideologue' for liking tweet attacking Nikki Haley"
+    excerpt: "Ahead of the Senate vote on Vanita Gupta’s confirmation to be associate attorney general, Sen. Ted Cruz took one final shot at President Biden’s controversial Justice Department nominee, casting doubt on her “regret” of past remarks. "
+    publishedDateTime: 2021-04-21T16:41:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vo6hbEJOGZs/cruz-biden-doj-nominee-partisan-ideologue"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-doj-nominee-partisan-ideologue.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-doj-nominee-partisan-ideologue.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/ted-cruz.jpg"
         width: 1280
         height: 720
         isCached: true

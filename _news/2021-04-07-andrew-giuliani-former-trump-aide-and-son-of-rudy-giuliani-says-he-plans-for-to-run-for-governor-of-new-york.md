@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
 type: article
 quality: 155
-heat: 235
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,67 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Ten more members of Congress join NAACP lawsuit against Trump and Giuliani for conspiring to incite US Capitol riot"
-    excerpt: "Ten members of Congress who were in the House gallery as rioters breached the Capitol on January 6 are adding their names to the lawsuit first filed in February against former President Donald Trump and his former personal attorney Rudy Giuliani.\n    \n"
-    publishedDateTime: 2021-04-07T13:46:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rnQJP9Yji0c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
+  - title: "Andrew Giuliani to meet with Trump as he preps NY gubernatorial bid"
+    excerpt: "Andrew Giuliani, the son of former New York City Mayor Rudy Giuliani and a former public liaison official inside the Trump White House, will meet with the former President at Mar-a-Lago next week as he finalizes his plans to launch a campaign for New York governor.\n    \n"
+    publishedDateTime: 2021-04-21T17:28:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yo6M08jV-Lk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/andrew-giuliani-trump-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/andrew-giuliani-trump-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 153
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407122614-nadler-waters-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104125229-trump-south-lawn-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Gaetz runs the Trump playbook for scandal: Keep talking, and talking"
-    excerpt: "One thing the former president proved is that unless you're Donald Trump and sit in the White House, his strategy doesn't work as well."
-    publishedDateTime: 2021-03-31T21:32:00Z
-    webUrl: "https://www.politico.com/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/0f/fa/d04271264dcea2393f58d534ba8d/210331-gaetz-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump ally GOP Rep. Lee Zeldin announces plan to run for New York governor in 2022"
-    excerpt: "Washington (CNN)Republican Rep. Lee Zeldin, a staunch supporter of former President Donald Trump, announced Thursday he plans to run for New York governor next year, saying that \"to save our state,\" embattled Democratic incumbent Andrew Cuomo \"has got to go.\""
-    publishedDateTime: 2021-04-08T13:24:00Z
-    webUrl: "https://www.cnn.com/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
+  - title: "Donald Trump Jr. takes on new role as top adviser inside the Trump family"
+    excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vice grip on the Republican base for any chance of success.\n    \n"
+    publishedDateTime: 2021-04-20T13:30:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ws83lHl9dR0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 129
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408125551-lee-zeldin-0310-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419134709-donald-trump-jr-file-2019-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "‘A mini-Trump’: New York mayoral candidates look to take down Yang"
-    excerpt: "Everybody’s ganging up on Andrew Yang. The New York City mayor’s race has grown more vicious in recent weeks — and the favorite target is Yang, who has come under attack for everything from his basic income and tax plans to his employment history and his second home upstate."
-    publishedDateTime: 2021-04-07T23:57:00Z
-    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/04/07/a-mini-trump-new-york-mayoral-candidates-look-to-take-down-yang-1371914"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/5e/95/d37a7ce14b17857aa856828419c8/gettyimages-1310969538-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "oHs/EbENOr40GLql8HPQrxWvAJ2mISOQFAKZ3Sd9HLU732W+B0m1DpuRDEgbvCXnHWDamPvOZqTN6ueRwT0t4CzRw9e+f1VanCnonrPUzlOavPIN40b94OAcZ9DUYCqxlxdiNUvVYrVFiXwMEHFDAHWDsOrIPPoRv7GN8A0jmDICy+9K4rZ/ffUOGXmlKi1fffx2+KY/sPChZvYoLMN0Yr2fsknu/rH08VmMxIElANoVzp2TUPVX+feZv66zZqqWaDGQWH44s19eikk7IAh8d7J/x5RjBfoRzCYH4lFo27wXvOoKY5eA3tTljFhhxHbGXYjzvHsr4QIVp/KxDWpRzxeeqW21UXeczoJ1PGBpB44=;MnET+j7OotCsk+AcUT6Kfg=="

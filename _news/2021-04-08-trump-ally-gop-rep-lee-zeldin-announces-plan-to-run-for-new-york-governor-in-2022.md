@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-gove
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/lee-zeldin-new-york-governor/index.html"
 type: article
 quality: 129
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: CNN
@@ -32,54 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Andrew Giuliani, former Trump aide and son of Rudy Giuliani, says he plans for to run for governor of New York"
-    excerpt: "Andrew Giuliani, the son of former New York Mayor Rudy Giuliani, says he's planning to run for governor of the heavily Democratic state next year.\n    \n"
-    publishedDateTime: 2021-04-07T16:16:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBJsVK-1j-w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407105332-andrew-giuliania-file-2020-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ten more members of Congress join NAACP lawsuit against Trump and Giuliani for conspiring to incite US Capitol riot"
-    excerpt: "Ten members of Congress who were in the House gallery as rioters breached the Capitol on January 6 are adding their names to the lawsuit first filed in February against former President Donald Trump and his former personal attorney Rudy Giuliani.\n    \n"
-    publishedDateTime: 2021-04-07T13:46:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rnQJP9Yji0c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407122614-nadler-waters-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Gaetz runs the Trump playbook for scandal: Keep talking, and talking"
-    excerpt: "One thing the former president proved is that unless you're Donald Trump and sit in the White House, his strategy doesn't work as well."
-    publishedDateTime: 2021-03-31T21:32:00Z
-    webUrl: "https://www.politico.com/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/0f/fa/d04271264dcea2393f58d534ba8d/210331-gaetz-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "‘A mini-Trump’: New York mayoral candidates look to take down Yang"
     excerpt: "Everybody’s ganging up on Andrew Yang. The New York City mayor’s race has grown more vicious in recent weeks — and the favorite target is Yang, who has come under attack for everything from his basic income and tax plans to his employment history and his second home upstate."
     publishedDateTime: 2021-04-07T23:57:00Z
@@ -93,6 +45,20 @@ related:
       - url: "https://static.politico.com/5e/95/d37a7ce14b17857aa856828419c8/gettyimages-1310969538-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "GOP race against Cuomo kicks off with Trump allies — Staffers dispute book work was voluntary — New rules aim to reduce school closures"
+    excerpt: "Not to let a news vacuum go to waste, two staunch allies of former President Donald Trump are kicking off conversations about New York’s 2022 gubernatorial race in earnest. Reactions? Well, a Republican hasn’t won a statewide race in New York since ..."
+    publishedDateTime: 2021-04-09T11:31:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2021/04/09/gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures-492421"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 83
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "9N4cM2RTSVNEBtL3Q9aHluqDCyDMRNH9qzEtkDbT9ovevvRukHwoFel3Tk0fDv8QCfas/dhmnpoaRdwkpWA2ED4WYoaHVv/Iqe+IH1aPNhH2KyHJ398e+KXmMNNtloDm+Su6rQaozhnFUJu0anYWkmch5UK4DqM1ZOym6iC+q53vmQNrVZ2Jigv/R/aZ9wUbgWpBiKQaYvHrUH2PdC4CDY+ZVYkkqQ/wWp/k2HsKb2PrFyI/f//YZnhTsVD7bVl4vUmGzXC571cRMFTUcwc4UPWqHuxt9rTTNiDV2rmgNOxyqvuucFVXjX3P94e4WHSizAN4fVOBf+pxFDwQsgUGWHrf7mRd0TZyZolnVdmoo6g=;lTfE/+xkg8++1OF708jLTA=="

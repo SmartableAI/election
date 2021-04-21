@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/newsletters/playbook/2021/04/18/gop-strug
 webUrl: "https://www.politico.com/newsletters/playbook/2021/04/18/gop-struggles-with-how-to-handle-trumpism-and-trump-492508"
 type: article
 quality: 114
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Politico
@@ -30,67 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Jr. takes on new role as top adviser inside the Trump family"
-    excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vice grip on the Republican base for any chance of success.\n    \n"
-    publishedDateTime: 2021-04-20T13:30:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ws83lHl9dR0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419134709-donald-trump-jr-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "As GOP sticks with Trump, grassroots energy on the right has gone missing"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2021-04-13T13:06:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-sticks-trump-grassroots-energy-right-has-gone-missing-n1263915"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263915"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263915"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/tdy_sun_kellyo_trump_biden_210411.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging"
-    excerpt: "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol."
-    publishedDateTime: 2021-04-19T11:01:00Z
-    webUrl: "https://www.cnn.com/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 130
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416231950-tump-murkowski-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Meet the Texas veteran who could blaze a trail for the anti-Trump GOP"
-    excerpt: "Michael Wood’s risky strategy centers on a belief there is a healthy slice of the GOP ready to move on from Trump."
-    publishedDateTime: 2021-04-13T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/13/michael-wood-texas-gop-481024"
+  - title: "ILLINOIS GOP’s ASTERISK — FIRST AD for 2022 CYCLE — REMAP MAY HAVE A TRUMP FACTOR"
+    excerpt: "The Illinois GOP has never been a fundraising juggernaut, and yet the first quarter numbers were still pretty bleak. For the first quarter, Illinois GOP reported receiving a little more than $115,000 in donations,"
+    publishedDateTime: 2021-04-19T12:21:00Z
+    webUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/04/19/illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor-492515"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 110
     images:
-      - url: "https://static.politico.com/a3/a8/071c144f4e0bb0c5b9072ecb0de0/texas-congress-c.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "LBqLrszsUZgBTRfyWMuaEveAbSeXbz0reIRMBFWCi7C47nXPWcAXru7KejkMu47clCLbuBWnzvjY80LOJpua834lcK4kePHad1eidf5qINHeRfATzJsxfb01KBCk0Xe5jxGjuCnhdyuP4p2dXfank4FbQ+B+0i7mdDIIAbTWIShrPOI/DWRMMertaWFOoDGG5NpYKr9ifFs332vzdduwFhxgAWwSZxP1hidJPZDrBu3DXn6S3zOpnEX4nwqbDyeCSy/Jde+KqOnqYEBd1yBX8V2I7k9k8yodyY9aegqlaWPyOIWjDrh0PzsuXUuCsiEcimk0s14DiFcrc++B27MTvk+RCfawmeRKtCJX1ff3yzW8zCbssnXVVo0YRuDRjLaxuG7BjDCAZ9ie7dvXa2yIvwRjSQhITtGlVADxHC4vrPsyDV2LPiKeP+uKTHu4p7kD95TVs8ghmfjrm0HH7AsMGC3YlglMPl9gLNKw+0UsmHapWS4bjFhe94srygAAb33NXpERXacMuwbudXPtB3oouA==;pJkBXQQlzCmoRjCHTe6Nlg=="

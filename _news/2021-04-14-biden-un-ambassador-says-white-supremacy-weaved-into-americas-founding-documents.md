@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cruz rips Biden DOJ nominee as 'partisan ideologue' for liking tweet attacking Nikki Haley"
+    excerpt: "Ahead of the Senate vote on Vanita Gupta’s confirmation to be associate attorney general, Sen. Ted Cruz took one final shot at President Biden’s controversial Justice Department nominee, casting doubt on her “regret” of past remarks. "
+    publishedDateTime: 2021-04-21T16:41:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vo6hbEJOGZs/cruz-biden-doj-nominee-partisan-ideologue"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-doj-nominee-partisan-ideologue.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-doj-nominee-partisan-ideologue.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/ted-cruz.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "elfCJL8nBVziFMqWlcNoMzuzFjqyA66J5h9WdDac9nzI5F+pdcv4wHOBc2RH/K8TLDiYWcjOfFfAn2X0xEF9hfipNrsi8Be50HWKN0ZoGmjE+L/7WUrXki7TGH1NfxOfhMf7ftDB4wpMdIWtGC+x3YBdQId8yR5ctTO5h6Eo1GAyFZy/0+suUt6CkNCZFmcn/mb9NcxIwODUJiPkG0JTz7T8Hm/YV+hiY3nXizDnTfmJvcel9/1uPWQeN/Q8ENHqzaYwZAkzicSFCdLGTPDhYHYVpbWFV8yyRrculnvAOKAGy7dCVyDnJrFngPXCwG0Y4WNaRR81KWdUpsLFiZnkb/ylK4cXLZ3YNw9CHs4EKgc=;hF1LxA8gy7CYwSORTNqLIg=="
 ---

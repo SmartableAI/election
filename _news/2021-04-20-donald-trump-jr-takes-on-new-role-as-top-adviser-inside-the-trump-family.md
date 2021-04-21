@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
 type: article
 quality: 174
-heat: 254
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,67 +31,39 @@ images:
     isCached: true
 
 related:
-  - title: "As GOP sticks with Trump, grassroots energy on the right has gone missing"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2021-04-13T13:06:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-sticks-trump-grassroots-energy-right-has-gone-missing-n1263915"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263915"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263915"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/tdy_sun_kellyo_trump_biden_210411.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging"
-    excerpt: "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol."
-    publishedDateTime: 2021-04-19T11:01:00Z
-    webUrl: "https://www.cnn.com/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
+  - title: "Andrew Giuliani to meet with Trump as he preps NY gubernatorial bid"
+    excerpt: "Andrew Giuliani, the son of former New York City Mayor Rudy Giuliani and a former public liaison official inside the Trump White House, will meet with the former President at Mar-a-Lago next week as he finalizes his plans to launch a campaign for New York governor.\n    \n"
+    publishedDateTime: 2021-04-21T17:28:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yo6M08jV-Lk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/andrew-giuliani-trump-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/andrew-giuliani-trump-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 130
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416231950-tump-murkowski-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104125229-trump-south-lawn-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Meet the Texas veteran who could blaze a trail for the anti-Trump GOP"
-    excerpt: "Michael Wood’s risky strategy centers on a belief there is a healthy slice of the GOP ready to move on from Trump."
-    publishedDateTime: 2021-04-13T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/13/michael-wood-texas-gop-481024"
+  - title: "Andrew Giuliani, former Trump aide and son of Rudy Giuliani, says he plans for to run for governor of New York"
+    excerpt: "Andrew Giuliani, the son of former New York Mayor Rudy Giuliani, says he's planning to run for governor of the heavily Democratic state next year.\n    \n"
+    publishedDateTime: 2021-04-07T16:16:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBJsVK-1j-w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: CNN
+      domain: cnn.com
+    quality: 155
     images:
-      - url: "https://static.politico.com/a3/a8/071c144f4e0bb0c5b9072ecb0de0/texas-congress-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "POLITICO Playbook: GOP struggles with how to handle Trumpism — and Trump"
-    excerpt: "In her statement, sheONALD TRUMP, which are steeped in white identity politics — and that could make this situation a bit sticky for McCarthy to handle. It’s all a big reminder that GOP leadership is still unsure how to handle both Trump and Trumpism."
-    publishedDateTime: 2021-04-18T15:11:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/04/18/gop-struggles-with-how-to-handle-trumpism-and-trump-492508"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 114
-    images:
-      - url: "https://static.politico.com/76/b6/b7daf8e84b9a8c1e2d0613fdb84a/gettyimages-1230985238.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407105332-andrew-giuliania-file-2020-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
-secured: "l9/1vVIRziwJGQnEUpWeZTb6bunJxkF4VhsJJZZ3xc+Gl29+nHwejcXTlx01Ke3pWc0HRNfKDpVJK6jyEb2fVRWWVA1bGQ0KVHdU7TBePIm6qniipOhGYhXNjri9ytjoJb7+fzkVb9IxGvxPZ2f133+jsJKnDeQ8jLjYew0XhHSbtS9Q4oXtiU3570vIucEnCK3fcQBQ9SOhATg0HPJfdT8G/2lqK8EUX2Xie3eJH84AWtEH/M9LjlCYcEApoPTR6fgmq/m75yox5M+BNLhNe/LZNJmfzrSXciqG+5vHK3s5gmWaIJzClnvCJbV95tPrlPslbn9kC9QSuUmIo3tBEy5fkxFelv6oOgK6OfAE8mk=;dOAdb1dXuKIDz9ZBxxa3Pg=="
+secured: "zAO3WyD+ne4/kXvpoHzMgapBQEbDW423/dTrluCKKA/ndqUMqzbVzkrjiOxcDkHjy2YQ7YmWupUFuONzCrgLWPeLrlkBiONE5/I5VjWPf7RfOiCBWP0Hzt7HBskJvOAGHqqCF8kKiXrmD6IMNTi7NA7g3IsUwcS8hW3gmZd1KIoGZMIaCtBloBXU/lIQtEDBCqP5ELyIBEKPoAPC1kKXWf19NWaRJMFZat3IsBJtNPijhUHbA2D+3vhimhTNAJT//i1K6RRnLKr4XB6OCvbTwT9rb4z1j8ECktSf01dR+JcQO3W0rfvzXhc+6gL97XitlN6z320aSh53ZwyWSIUOAh60UYt4eOBt3xiZLpH+t7A=;Sd9B7jVm47x8557FeaWclA=="
 ---
 

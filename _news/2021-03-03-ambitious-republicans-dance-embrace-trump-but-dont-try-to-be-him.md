@@ -112,6 +112,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "8 Podcasts to Help Make Sense of Post-Trump America"
+    excerpt: "In the wake of a most untraditional presidency, these shows will keep you up-to-date on what’s happening in Washington and our politically polarized country."
+    publishedDateTime: 2021-04-21T15:02:00Z
+    webUrl: "https://www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/25/arts/25podcasts/25podcasts-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump aides build out the MAGA-verse with new groups"
     excerpt: "A number of Trump's top campaign aides and senior administration officials are launching nonprofits or super PACs."
     publishedDateTime: 2021-03-03T09:37:00Z

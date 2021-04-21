@@ -30,54 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Andrew Giuliani, former Trump aide and son of Rudy Giuliani, says he plans for to run for governor of New York"
-    excerpt: "Andrew Giuliani, the son of former New York Mayor Rudy Giuliani, says he's planning to run for governor of the heavily Democratic state next year.\n    \n"
-    publishedDateTime: 2021-04-07T16:16:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBJsVK-1j-w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/andrew-giuliani-new-york-governor-race/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407105332-andrew-giuliania-file-2020-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ten more members of Congress join NAACP lawsuit against Trump and Giuliani for conspiring to incite US Capitol riot"
-    excerpt: "Ten members of Congress who were in the House gallery as rioters breached the Capitol on January 6 are adding their names to the lawsuit first filed in February against former President Donald Trump and his former personal attorney Rudy Giuliani.\n    \n"
-    publishedDateTime: 2021-04-07T13:46:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rnQJP9Yji0c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/congress-trump-naacp-january-6/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 153
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407122614-nadler-waters-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Gaetz runs the Trump playbook for scandal: Keep talking, and talking"
-    excerpt: "One thing the former president proved is that unless you're Donald Trump and sit in the White House, his strategy doesn't work as well."
-    publishedDateTime: 2021-03-31T21:32:00Z
-    webUrl: "https://www.politico.com/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/31/gaetz-trump-playbook-scandal-478740"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/0f/fa/d04271264dcea2393f58d534ba8d/210331-gaetz-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump ally GOP Rep. Lee Zeldin announces plan to run for New York governor in 2022"
     excerpt: "Washington (CNN)Republican Rep. Lee Zeldin, a staunch supporter of former President Donald Trump, announced Thursday he plans to run for New York governor next year, saying that \"to save our state,\" embattled Democratic incumbent Andrew Cuomo \"has got to go.\""
     publishedDateTime: 2021-04-08T13:24:00Z
@@ -93,6 +45,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408125551-lee-zeldin-0310-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "GOP race against Cuomo kicks off with Trump allies — Staffers dispute book work was voluntary — New rules aim to reduce school closures"
+    excerpt: "Not to let a news vacuum go to waste, two staunch allies of former President Donald Trump are kicking off conversations about New York’s 2022 gubernatorial race in earnest. Reactions? Well, a Republican hasn’t won a statewide race in New York since ..."
+    publishedDateTime: 2021-04-09T11:31:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2021/04/09/gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures-492421"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 83
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "R29LoZy4v4BNIPwT+Wn8YwKKGlPehtN6eVtzOSgVShx5w+gNSb+nPP8fyYktgVmryxu7OwQcD8UJ4B2nVeuc2O8rfylf+1AWkELyEckJUhQJkXwslqKLr1oPDbjbXC20Kuvp1qzbMyf4wr0+zF7l9kpdsp5Xew8I6V+vOviAJN0ajqyIakOwKlVSKW4n1Rty+RiYCPJ/mvYVYFUMaMQD3vjcRZ2SfOEekBZQv6UqxePO4gf4MQ9f8kiCiRZ1e8BYg3GC0SfLUnuf7XVAvVmgxYN6n7ug4i6QE/E5TexZls1UTKQ4N9t1d50K5obisUzD6TtZhcLlQb0IIoXcQTKaNRBJ3OGF77RngbichqNGuztY9m1eEqo7kjqXp82Pe8LTRKPpgVhXuIbWOvqG1cUzybs6ZyP5O2eSw3Jro0w8Y2a7Y8JiQchczDVDpyoD1vn3T5ikr5vK1APzXqFIFfI70xt5IMgDqrmrs0apL5Id5Q/0mTOJP8pCK9pciKEdG94+++Lo6hmUESK1cRE/rO6Log==;2JeXS+xPxNAN6AbBn20v0A=="
