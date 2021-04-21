@@ -68,6 +68,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's Turning Point on Police Reform"
+    excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
+    publishedDateTime: 2021-04-21T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/541090_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "f3bLgmbObKJ9c/3WjnXamNGXWDy2zoCbZZHaf06t1xN0jHq6DhGzhDTr6+qsVz98IPagzmoKuJ45nD1BgbycyNUmrJj9UvLIS3AnBSZHWmCrclmFxobeGmkTnbxj6CWp59CbGZYEGOi/a+Z7Tc8M7fnRC07Llk9tr2im26WV7nmVb9ARYy1mHU8Q4gcimKih952Swo/Y0JeZj0W61cL+GtTvXaMADltrvgiB+1XpTbsmOPAnVrN7jUpYSMaKVMRP2g0cAGA6EhROHMdsEgB8ZVfcZb35BNBuXCCZ/4wMhesj9pQZyb6EpA9i+bCFu20ROntmkVqeBRujjSnvb60KIZtYEaFVYJQEidbicEPkGxo=;lOSvJJx62gMkzybCc/EooA=="
 ---

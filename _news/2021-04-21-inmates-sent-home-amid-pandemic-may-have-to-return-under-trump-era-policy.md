@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump Issues Warning To GOP, Says Republicans Must Embrace His MAGA Agenda"
-excerpt: "Donald Trump reiterated Monday that his platform was the way forward for the GOP, and those that weren't on board would face consequences."
-publishedDateTime: 2021-04-19T21:19:00Z
-originalUrl: "https://www.ibtimes.com/trump-issues-warning-gop-says-republicans-must-embrace-his-maga-agenda-3183748"
-webUrl: "https://www.ibtimes.com/trump-issues-warning-gop-says-republicans-must-embrace-his-maga-agenda-3183748"
+title: "Inmates sent home amid pandemic may have to return under Trump-era policy"
+excerpt: "Thousands of inmates deemed “low risk” who were allowed home supervision during the pandemic may have to return because of a Trump-era memo."
+publishedDateTime: 2021-04-21T09:04:00Z
+originalUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html"
+webUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
 type: article
-quality: 53
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-    width: 1024
-    height: 731
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMY3V2EZQMI6XDYKGOCM6T5TTE.jpg&w=1440"
+    width: 1440
+    height: 1046
     isCached: true
 
 related:
@@ -60,22 +62,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/162df09/2147483647/strip/true/crop/5326x3528+0+11/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F7c%2F6fe9b99109bdf0ab74f67cb5e881%2F364a92d584294633bd968e1d0bd93a46"
         width: 320
         height: 212
-        isCached: true
-  - title: "Inmates sent home amid pandemic may have to return under Trump-era policy"
-    excerpt: "Thousands of inmates deemed “low risk” who were allowed home supervision during the pandemic may have to return because of a Trump-era memo."
-    publishedDateTime: 2021-04-21T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMY3V2EZQMI6XDYKGOCM6T5TTE.jpg&w=1440"
-        width: 1440
-        height: 1046
         isCached: true
   - title: "Nearly All of Trump's House GOP Impeachers Set Fundraising Records Since Capitol Riot"
     excerpt: "All 10 of the House Republicans who voted to impeach Trump for his alleged role in the deadly January 6 Capitol riot have managed to out-fundraise their Trump-backed challengers."
@@ -179,6 +165,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Issues Warning To GOP, Says Republicans Must Embrace His MAGA Agenda"
+    excerpt: "Donald Trump reiterated Monday that his platform was the way forward for the GOP, and those that weren't on board would face consequences."
+    publishedDateTime: 2021-04-19T21:19:00Z
+    webUrl: "https://www.ibtimes.com/trump-issues-warning-gop-says-republicans-must-embrace-his-maga-agenda-3183748"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
+        isCached: true
   - title: "Former President Donald Trump tells Fox News’ Sean Hannity that he’s ‘very seriously’ considering 2024 White House run"
     excerpt: "Former President Donald Trump on Monday told conservative talk show host Sean Hannity that he’s “very seriously” considering another White House run in 2024, potentially depending on whether the Republican Party retakes control of the U."
     publishedDateTime: 2021-04-20T20:45:00Z
@@ -196,6 +196,6 @@ related:
         height: 1352
         isCached: true
 
-secured: "bCMitkD+qYt/R5PB8pGwiGVtuBtzwfpSw3ewvTh1dD+4k6Q+G+2+9gqZRAzro63w+DrrPLs7ZHAybFmYfUF2Yw3Q3Rwf0wszEIoUAOcWXarnSkW1c/b4wcTvDMECBf2uYvkqZ845BUI2TIbBVU7EfxHfYmW5hwCYj5r2Jb3j35NyOUbQE6nL+Sbo5Fb5W4dGAlTWBivUNNd66Do0MYb7MYSUHRyRO0nxalAvFIudLFxHn5FF5KZn0b4iYHkAbUS4IaZMe9uEN2vWE91oc4Q0XVeiyKspGdw8qbBRTVjOfixhaV4rOcXoUIIjl0PO4PFNEQ/GwF5xLgXaj5GerAm+lCs5J845rQ1nHQCdbvEGt4TaBK536HHT+NINIzO68YMjOKGhhodnkym8jW8N+zNlR4xQh5vW83Cvvd+qFBrdD3349AhW8QAES2TLHECCOxVmTYKdLyODnTTJ/02BJkTdEMn53pVvU2nmGxXGRObG9bu78oFK1fG6aW/ZGu1MR/PnL9La27m1nNao0gUXntoxBw==;IHTDY1CEOoyLFcAQmLuUVA=="
+secured: "BK0G3eWJQonPcxfu0uUZxLKd7Hg6UpR2vaNMWnCV6BfZ0H191GY79+ccSwnHk/rFxs21/k3pDIndqjKjVVAss2LKHrrWA0cd6NGERcntRCQ/y8rEPi8TX8Iq6Bd6UoSfZgDf/uWSGTt9+Ri92LOfcNQfyPJ8eQ/2H+Lp/wMaueXySUgXYEintgGuZXRLvuexflLi/w+AX616oWXbbhbqRxuJvPHvDMF7wE4gO+lpIxxU8ZTI2N22+KUcFdsz4LrT1fXWF2jxA6j0jzz6A9+LuVgqhWD6QQej6PHtouVceWOtHRv4WSGf/3A3xLDQAYExNGISU4Y8daYTaRK1qsjFglnwkhHJh9f25nM0Kbu2LwM=;rReYUNmgD6GK7qwsZm0HWg=="
 ---
 

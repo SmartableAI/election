@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/george-floyd-joe-biden-derek-chauvi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/george-floyd-joe-biden-derek-chauvin-trial-verdict/"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -119,6 +119,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – live"
+    excerpt: "A measure of justice isn’t the same as equal justice’ – follow all the latest news live"
+    publishedDateTime: 2021-04-21T00:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death?page=with:block-607f71188f08080a7ae66d89"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 92
   - title: "Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – as it happened"
     excerpt: "A measure of justice isn’t the same as equal justice’ – follow all the latest news live"
     publishedDateTime: 2021-04-21T01:50:00Z

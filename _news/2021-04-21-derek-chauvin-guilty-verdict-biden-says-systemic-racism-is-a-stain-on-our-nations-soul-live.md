@@ -1,32 +1,28 @@
 ---
 category: news
-title: "WH: Biden 'not looking to influence' Chauvin trial"
-excerpt: "The White House says President Joe Biden was “not looking to influence” the outcome of the Derek Chauvin trial after he said he was praying for \"the right verdict.\" (April 20)"
-publishedDateTime: 2021-04-20T19:51:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/04/20/wh-biden-not-looking-influence-chauvin-trial/7307085002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/20/wh-biden-not-looking-influence-chauvin-trial/7307085002/"
+title: "Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – live"
+excerpt: "A measure of justice isn’t the same as equal justice’ – follow all the latest news live"
+publishedDateTime: 2021-04-21T00:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death?page=with:block-607f71188f08080a7ae66d89"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death?page=with:block-607f71188f08080a7ae66d89"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
 type: article
-quality: 105
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/26388890-cc41-4aae-8660-2e9d8fd143da_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Biden says he's praying for \"the right verdict\" in Derek Chauvin trial"
@@ -119,17 +115,20 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – live"
-    excerpt: "A measure of justice isn’t the same as equal justice’ – follow all the latest news live"
-    publishedDateTime: 2021-04-21T00:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death?page=with:block-607f71188f08080a7ae66d89"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+  - title: "WH: Biden 'not looking to influence' Chauvin trial"
+    excerpt: "The White House says President Joe Biden was “not looking to influence” the outcome of the Derek Chauvin trial after he said he was praying for \"the right verdict.\" (April 20)"
+    publishedDateTime: 2021-04-20T19:51:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/20/wh-biden-not-looking-influence-chauvin-trial/7307085002/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 92
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/26388890-cc41-4aae-8660-2e9d8fd143da_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – as it happened"
     excerpt: "A measure of justice isn’t the same as equal justice’ – follow all the latest news live"
     publishedDateTime: 2021-04-21T01:50:00Z
@@ -158,6 +157,6 @@ related:
         height: 800
         isCached: true
 
-secured: "koqILOhkYBSys+a7k5VtwrESrYk143Nn41rVgbLhz/R9vi6ZAe8PIHWJz7iDCEWxfSbeucwBdHCwNNYdytuVQ2czemBLrfbfBwnxtpTnYfQlcAjcBCA09sxssv87T5cOzjDCCh4SCz0ztM+iwIELxJAgOcrahzivFZunbqEPR8QVcEsLub1na0vtCA8W0zKlEZiAfCXn1u2T0y9cgpQHFEaqq3MnAiN4IVQCCe4kZnPyLfySkaOe3UJAIFhcgKjnFxjxAU+pKI33ykvX58t0TxU6iCTDE9ccU6Y8WDAnKhc/Id4vNpsBjSqD3VauIKgGwAWQWIXS8iJ9PcgT+q7jESnXHkKVyE00/47dnCyuTR/ZiRgzHruByJQqTPMTK5C/To9u3Hgi3idvBcfMbCjIIfsGLCusmEdOZO3pvgMKkaUjFcRSmcQgEzwHJpXBJ0CtcRm2gSTSDXXEElQR8yb40GD2DbUN2ZtLotX2lVwQvMrhVOL5BHts1tRh4cFKgUBe0311KeyT6ZWdYx84R5XL1g==;/zjEIfuVcdZtDt0Kp2YOkQ=="
+secured: "REH/tuJ5eFQmEZTcR9PHG/ma9Q9Tr6qPsBBFl3KFcTEOW5ZsXQFgD5GsoZ3OXsgb9UbahivYgeNV/fIBFPuuo7SJwp37hya+7Kb5a1WTDemchfaeIdGWq1j11MlQiWaIanC1Frtt0h8KAADpPMKl1BfiidpjbLK1+9UM90M2SCCwJb2Wg4KvV3LTlwYGYvObGqieEx+2IAIu0oVpg3nPw2JVM+vTSVl8+j81VK8Ngojdb7Art3FBUL2h7yFgjorpjwxZWZBv4//dxiTQDOUFB0v6hAvOzip9C/Unq2LYVJRbYIBC5SaCt4H/L07q3blU0ql+M+orYPb2lsmtFRjZapxMRH5bnPwr/6m/Cejh2gJrQCst/bqn1Fvea8QlacRn12zQkeQDgV4l+xaZUdbM2NwBO5wKVHqRoa4wiOt/fRs6ZU9IvYiS21pua4tWtYrSFE5ep/cLcfsPWA8JJcLzE3Rt0UnVbeFtzU2EksqS6qBCmbIcg2YpqRKpgwsseHhtaaC54tO8DFoqRg6w+6LWLg==;dnGSKfS5VaKJtqr8zC7VYg=="
 ---
 

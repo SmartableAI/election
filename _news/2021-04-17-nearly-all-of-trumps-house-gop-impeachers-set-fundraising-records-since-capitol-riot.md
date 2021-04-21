@@ -63,6 +63,22 @@ related:
         width: 320
         height: 212
         isCached: true
+  - title: "Inmates sent home amid pandemic may have to return under Trump-era policy"
+    excerpt: "Thousands of inmates deemed “low risk” who were allowed home supervision during the pandemic may have to return because of a Trump-era memo."
+    publishedDateTime: 2021-04-21T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMY3V2EZQMI6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 1046
+        isCached: true
   - title: "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run"
     excerpt: "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans."
     publishedDateTime: 2021-04-18T12:45:00Z

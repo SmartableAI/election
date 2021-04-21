@@ -1,33 +1,30 @@
 ---
 category: news
-title: "GOP lawmakers ask Pelosi to reschedule Biden's first speech to Congress"
-excerpt: "A group of GOP lawmakers called Monday for House Speaker Nancy Pelosi to reschedule President Biden’s first speech to Congress later this month to a date when the House is in session."
-publishedDateTime: 2021-04-19T20:26:44Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOJyh7M26fc/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOJyh7M26fc/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress"
-ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+title: "Biden's Turning Point on Police Reform"
+excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
+publishedDateTime: 2021-04-21T11:25:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
 type: article
-quality: 175
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a4c698-2716-47ac-a29c-fe49c8a2549b/b588a97f-04a0-4158-a1ee-919609e7c5fd/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/54/541090_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -63,21 +60,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden's Turning Point on Police Reform"
-    excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
-    publishedDateTime: 2021-04-21T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
+  - title: "GOP lawmakers ask Pelosi to reschedule Biden's first speech to Congress"
+    excerpt: "A group of GOP lawmakers called Monday for House Speaker Nancy Pelosi to reschedule President Biden’s first speech to Congress later this month to a date when the House is in session."
+    publishedDateTime: 2021-04-19T20:26:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOJyh7M26fc/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://assets.realclear.com/images/54/541090_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a4c698-2716-47ac-a29c-fe49c8a2549b/b588a97f-04a0-4158-a1ee-919609e7c5fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
@@ -89,6 +86,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Bd2AjOAfLphDWW31sqkJ2ZPtzYa2OyeuVZ103tfNK91MMzzr0e/LVMIUItMqn15PjUegi7Kz8q15Bl+olH5WiF0SZ1aP0evBsQdgyEI0Q/J2+ShX2B7O6VD0SWLDaPghQjAV/wGDhL6SHgG8iTmIsnI5LviOt3xjPZIF1P/v5g1xLyI6XI1to7HdzpF8KPTnY4VvDay7x+iG9KIh2rHfFrxSNxXyYGrTAkklpdjGOI369B+2/4W2tpR+a5cNFSFG+fUHpq3rfm6tWyLpzD8ZNuChZtAnUwFnIGsCFYCH4+6hIwQIV18K2h6F43DLAXAToEeqODnfVB8RqZ8sMku1cv8Jg3DKsobbie3rYXd+D34=;PiEFlD912vnjuOUBeQTxXg=="
+secured: "EPbARRcVULh3uFN1OYrIkJDwcsoQ1ko+a1daoCkPe+wmSr9Upm/Metxhafosa+1DAsLf4iFUKTqoMPiyEb5/eRmbPN8sJIDXtbipqUwmtC3vbzFvMtDG+wXQIBUWsPM2RwqdTskokvnjxvkQRzHxDemKu6NLoHsW7B77LA97AbH2MomdPUgfsJLeTXqYMFsGibXqvHh5LNLPun7/fHpLmkkiLLS8DXSMF1YavEflxveHmW1R6VGXejuJ9K76AWZnT0o5Xj4JqRbG2UM3NXqXwdaqbruOSamYFYIhbE2PgmmeDRRNIAbqwxFmSJzLxAVRvNKIMnylaSxKzwHfXW/lvyKiXF85FQD1htEDwQfOVRc=;JstgMpjEvytB6yZBvtoAHQ=="
 ---
 
