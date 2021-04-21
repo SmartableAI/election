@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Hitting latest vaccine milestone, Biden pushes shots for all"
+    excerpt: "The U.S. is set to meet President Joe Biden’s latest vaccine goal of administering 200 million COVID-19 shots in his first 100 days in office, as the White House steps up its efforts to inoculate the"
+    publishedDateTime: 2021-04-21T04:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_10f5eb8396324790b5ed12cde8427289_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
     excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
     publishedDateTime: 2021-04-18T11:58:00Z

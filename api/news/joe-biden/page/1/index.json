@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030.md",
+      "title": "AP sources: Biden to pledge halving greenhouse gases by 2030",
+      "excerpt": "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HRNNWAVB5UI6XMYUF2MTXWB6GE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-20T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-leo-terrell-biden-democrats-reaction-to-chauvin-verdict-shows-you-cannot-satisfy-these-extremists.md",
       "title": "Leo Terrell: Biden, Democrats' reaction to Chauvin verdict shows 'you cannot satisfy these extremists'",
       "excerpt": "President Biden and his Democratic allies still want to make the Derek Chauvin trial about race relations in America, civil rights attorney Leo Terrell told \"Hannity\" Tuesday.",
@@ -56,58 +108,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030.md",
-      "title": "AP sources: Biden to pledge halving greenhouse gases by 2030",
-      "excerpt": "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196743",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196743",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_72bb4a2d95044868a55d724a16676fed_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196743",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196743",
-      "publishedDateTime": "2021-04-20T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -527,7 +527,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2C118D",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 585,
       "tags": null,
       "images": [
         {

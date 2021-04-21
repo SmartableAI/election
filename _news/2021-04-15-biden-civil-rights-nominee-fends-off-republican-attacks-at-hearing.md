@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C118D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C118D"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_12d54668ced94553a990f644416f3ed4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Hitting latest vaccine milestone, Biden pushes shots for all"
+    excerpt: "The U.S. is set to meet President Joe Biden’s latest vaccine goal of administering 200 million COVID-19 shots in his first 100 days in office, as the White House steps up its efforts to inoculate the"
+    publishedDateTime: 2021-04-21T04:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_10f5eb8396324790b5ed12cde8427289_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

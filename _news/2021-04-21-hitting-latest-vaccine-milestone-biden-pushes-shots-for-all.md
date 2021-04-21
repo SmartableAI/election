@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden says he’s willing ‘to compromise’ with Republicans on infrastructure bill – live"
-excerpt: "President meets with a bipartisan group of lawmakers and says ‘I am prepared to compromise’"
-publishedDateTime: 2021-04-19T23:24:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d9b868f08a84aa59179e9"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d9b868f08a84aa59179e9"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+title: "Hitting latest vaccine milestone, Biden pushes shots for all"
+excerpt: "The U.S. is set to meet President Joe Biden’s latest vaccine goal of administering 200 million COVID-19 shots in his first 100 days in office, as the White House steps up its efforts to inoculate the"
+publishedDateTime: 2021-04-21T04:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+webUrl: "https://abcnews.go.com/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
 type: article
-quality: 117
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/824475ebfb30f1464b3aa3f4f46d1b8fd4f5a908/364_429_6330_3798/master/6330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dda74eceece7f858c8f40878c5a265e"
-    width: 600
-    height: 360
+  - url: "https://s.abcnews.com/images/Politics/WireAP_10f5eb8396324790b5ed12cde8427289_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -111,22 +111,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Hitting latest vaccine milestone, Biden pushes shots for all"
-    excerpt: "The U.S. is set to meet President Joe Biden’s latest vaccine goal of administering 200 million COVID-19 shots in his first 100 days in office, as the White House steps up its efforts to inoculate the"
-    publishedDateTime: 2021-04-21T04:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_10f5eb8396324790b5ed12cde8427289_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
     excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
     publishedDateTime: 2021-04-18T11:58:00Z
@@ -174,6 +158,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1779263/biden-yoshihide-suga-white-house.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden says he’s willing ‘to compromise’ with Republicans on infrastructure bill – live"
+    excerpt: "President meets with a bipartisan group of lawmakers and says ‘I am prepared to compromise’"
+    publishedDateTime: 2021-04-19T23:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d9b868f08a84aa59179e9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/824475ebfb30f1464b3aa3f4f46d1b8fd4f5a908/364_429_6330_3798/master/6330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dda74eceece7f858c8f40878c5a265e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden budget provides funding for DOJ to address 'national reckoning on racial inequality'"
     excerpt: "President Biden’s first budget includes significant investments in policing reforms and civil rights, calling on the Department of Justice (DOJ) to spearhead efforts to address systemic racism along w"
@@ -385,6 +385,6 @@ related:
         height: 683
         isCached: true
 
-secured: "XiC+xQQvZNTQluGfgz9pw+rkcGdyL84G4cqV4HUyGdGOB6tWvOfzATPy7TQrif0NWt5/SJCzEjAmedm7pCc3qMMhiSAAzB2hZMKPm+GGEoAi4Cy9rFYSDimhxUoktP4Wxiz7A/mlQBLRIDyTxpYMdN7MaF/RRuJlIn7S3Qxd0S8rrarVfXAZuJmIgUKEIN4Y0d4fye+GlXeS9wMWEWVVw3+4DhwE1QGBBGUYEvQ0lD4XsbLi/9aljcHUloTc+bcTYQ4rtgdiGf1yqhdOyhgY2xRf3zmpt+JszHyLOk4OMykTjPtE/Hn2Ce0aKCewuR53sqCJAzNwxcd9XV6uPAxgjiRakBNnSE8jxtFLcm35B+ITvbrhpSd67RzFfR6Y3h/waiGWoTo80LYLW4/lVV8ASZPMA9JhyFOK1DVXram/nHycnZOc4dVhEbNYwWI01/yfhZWWZ2PTcnfmk84odK5fYb3HAK3VH9HxI1kBYUsLCKZcx58/0X+2QZy/zmH2vQhCuPIfy2cDWt6eFBjfcknBQg==;L5kSphWrk/B9Dbm9SMHKxQ=="
+secured: "zLrWQc6WK5xy8vRxc621QUCC+AIELCOpoM79R46o1oy3K+J35W87qF/Iu+GMMOZtgxQGkW07z+GQM7hnukMZvYroErRHGZgJ79ozwPV3XgefxFP3RaZeC848PkF1cQi8E177EHtLYi/2wzrtuoHDj7jesgJb/0EqwDRWSPDw1EmjFmDQJ3j51hJcy8fl/JVaOwtb9vppn3XfF2Ga4eYgbCUeGbq9IKN9FK/2LpXbAWU0rRqbRDqxMIRsuYMfVLfZe5K7Aer2+HdC126rdrBdDEz3c68B/ZKP6iDqH+BZ0dEBXe1XWgA0Qn/qKvduVjfvWcrUIJz/Y3kuIki6ntpN3LvoCFBzUrU82pPeKN8XaEM=;sQ/WlPW0kIx0vYBpW2M8JA=="
 ---
 
