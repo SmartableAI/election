@@ -196,6 +196,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 95
+  - title: "Essential Politics: Biden pledges to leave Afghanistan. It’s a withdrawal years in the making."
+    excerpt: "Biden is the third president to pledge to reduce or completely withdraw U.S. troops in Afghanistan. It's a promise that comes after two administrations' worth of effort."
+    publishedDateTime: 2021-04-21T13:00:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-04-21/biden-trump-afghanistan-exit-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 93
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/18778c0/2147483647/strip/true/crop/5419x2845+0+384/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F49%2Fec%2Fa7c1febe441aab79ab4800a5ccee%2Fbiden-66428.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-02-texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-on-full-stadium.md",
+      "title": "Texas Rangers GM Jon Daniels Shrugs Off Joe Biden's 'Not Responsible' Remark on Full Stadium",
+      "excerpt": "The general manager of the Texas Rangers used baseball's opening day Thursday to comment on President Joe Biden's remarks about his team hoping for a stadium full of fans. The Rangers have expressed a willingness to have their brand new stadium full of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610",
+      "originalUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1769583/texas-rangers-fans.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610?amp=1",
+      "publishedDateTime": "2021-04-01T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-christian-pastor-claims-biden-surrounded-by-demonic-hedge-of-protection.md",
       "title": "Christian Pastor Claims Biden Surrounded By 'Demonic Hedge of Protection'",
       "excerpt": "Pastor Mario Murillo claimed this week that President Joe Biden is surrounded by a \"demonic hedge of protection,\" urging fellow Christians to pray for a \"powerful move of God\" to bring it down. \"War has been declared on your faith,\" Murillo said during the ...",
@@ -1529,63 +1581,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-biden-dhs-chief-says-border-is-closed-but-us-wont-expel-children.md",
-      "title": "Biden DHS chief says 'border is closed' but U.S. won't expel children",
-      "excerpt": "In brief comments Sunday, President Joe Biden said he would visit the border \"at some point,\" adding that \"a lot more\" can be done to ensure migrants don't travel to the border. \"We’re in the process of doing it now, including making sure that we ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "originalUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/00/1e/27b010b6460faf698bb791ed8d3c/210321-mayorkas-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "publishedDateTime": "2021-03-21T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

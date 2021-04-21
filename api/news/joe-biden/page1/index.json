@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.md",
+      "title": "Biden ignores $1B in riot damage while praising George Floyd protesters after Chauvin conviction",
+      "excerpt": "President Biden neglected to acknowledge the rioting, looting, arson and worse that reportedly caused more than $1 billion in property damage last year as he praised George Floyd protesters Tuesday following Derek Chauvin's conviction on murder charges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
+      "originalUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1312682563.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
+      "publishedDateTime": "2021-04-21T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030.md",
       "title": "AP sources: Biden to pledge halving greenhouse gases by 2030",
       "excerpt": "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders",
@@ -119,7 +176,7 @@
       "originalUrl": "https://www.cbsnews.com/news/george-floyd-joe-biden-derek-chauvin-trial-verdict/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -679,7 +736,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1479,58 +1536,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-joe-biden-could-his-tax-plan-affect-us-investment-in-ireland.md",
-      "title": "Joe Biden: Could his tax plan affect US investment in Ireland?",
-      "excerpt": "The head of the country's inward investment agency, Martin Shanahan, described the Stripe investment as a \"phenomenal signal from Ireland and about Ireland\". But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
-      "originalUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13308/production/_117900687_06ffc346-865c-4109-8912-654957eb9bfa.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-europe-56692865",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865",
-      "publishedDateTime": "2021-04-10T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

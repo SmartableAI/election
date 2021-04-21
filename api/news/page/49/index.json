@@ -2,6 +2,171 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-01-31-analysis-copying-franklin-d-roosevelt-president-joe-biden-wanted-a-fast-start-now-comes-the-hard-part.md",
+      "title": "Analysis: Copying Franklin D. Roosevelt, President Joe Biden wanted a fast start. Now comes the hard part.",
+      "excerpt": "Biden has now signed about 45 executive orders, memorandums or proclamations enacting or at least initiating major policy shifts on a wide array of issues, including the coronavirus pandemic, racial justice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/AEKdpZTkTf4ZTP15S_R_t6u9pUw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LBAGKV5X3DALYS5KWOM7AS4B5M.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-biden-administration-goals-20210131-hixvijvamfbjlfeszmsqnpzuzm-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-30T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-rep-marjorie-taylor-greene-discloses-great-call-with-trump.md",
+      "title": "Rep. Marjorie Taylor Greene discloses ‘great call’ with Trump",
+      "excerpt": "Rep. Marjorie Taylor Greene announced Saturday she had a \"great call\" with former President Trump and said she'll \"never apologize\" in the face of growing calls that she be removed from office or stripped of committee assignments.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ENjl0QwL-Rg/rep-marjorie-taylor-greene-discloses-great-call-with-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ENjl0QwL-Rg/rep-marjorie-taylor-greene-discloses-great-call-with-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Greene-Trump-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-marjorie-taylor-greene-discloses-great-call-with-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-marjorie-taylor-greene-discloses-great-call-with-trump.amp",
+      "publishedDateTime": "2021-01-30T14:34:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-white-house-facing-optics-issue-with-kamala-harris-ambitious-niece.md",
+      "title": "White House facing optics issue with Kamala Harris’ ambitious niece",
+      "excerpt": "Meena Harris, the industrious and outspoken niece of Vice President Kamala Harris, is creating an optics issue for the White House. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IaFzSOHW4IE/white-house-optics-issue-kamala-harris-niece",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IaFzSOHW4IE/white-house-optics-issue-kamala-harris-niece",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Meena-Harris-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-optics-issue-kamala-harris-niece.amp",
+      "publishedDateTime": "2021-01-30T12:29:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-rep-jim-banks-chair-of-largest-house-conservative-caucus-previews-gop-agenda-post-trump.md",
       "title": "Rep. Jim Banks, chair of largest House conservative caucus, previews GOP agenda post Trump",
       "excerpt": "In a post-President Trump-era, Rep. Jim Banks is trying to rally the GOP around a new agenda that embraces popular Trump stances with a return to conservative fiscal responsibility.",
@@ -1209,162 +1374,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me.md",
-      "title": "Nancy Sinatra: 'I'll never forgive Trump voters. I hope the anger doesn't kill me'",
-      "excerpt": "She may be 80 and cut off by Covid, but she’s still ready to walk all over Donald Trump. As her greatest songs are reissued, she reflects on the sexual politics of the 60s, her friendship with Elvis a",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
-      "originalUrl": "https://www.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/82417b28bc16912f6f47d9e309378f3e086e658f/0_663_2275_1567/master/2275.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=631bc24f8cf8b8ecc2c3619dfe27efa4",
-          "width": 600,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2021/jan/29/nancy-sinatra-ill-never-forgive-trump-voters-i-hope-the-anger-doesnt-kill-me",
-      "publishedDateTime": "2021-01-29T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-fauci-said-macho-guy-trump-saw-masks-as-a-sign-of-weakness-and-many-americans-followed-his-lead.md",
-      "title": "Fauci said 'macho guy' Trump saw masks as a 'sign of weakness' and many Americans followed his lead",
-      "excerpt": "\"To him, a mask was a sign of weakness. The unfortunate aspect of this is that a lot of people in the country took that on as a mantra,\" Fauci said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1",
-      "originalUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-macho-guy-trump-saw-masks-a-sign-of-weakness-2021-1?amp",
-      "publishedDateTime": "2021-01-28T22:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-trump-officials-moved-most-bureau-of-land-management-positions-out-of-dc-more-than-87-percent-quit-instead.md",
-      "title": "Trump officials moved most Bureau of Land Management positions out of D.C. More than 87 percent quit instead.",
-      "excerpt": "The decision to relocate BLM headquarters to Colorado and redistribute jobs in the West prompted 287 employees to retire or find other jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/",
-      "originalUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VC6BWOA4CUI6PBMYTKM5UVM7TY&w=1440",
-          "width": 1440,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/01/28/trump-blm-reorganization/?outputType=amp",
-      "publishedDateTime": "2021-01-28T20:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

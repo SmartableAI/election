@@ -96,6 +96,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden calls guilty verdict in Derek Chauvin trial 'a step forward'"
+    excerpt: "Chauvin was found guilty on two counts of murder and one count of manslaughter in George Floyd's death in Minneapolis in May."
+    publishedDateTime: 2021-04-21T02:42:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/president-joe-biden-calls-guilty-verdict-chauvin-trial-step-forward-n1264696"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264696"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264696"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464825/210415-russian-sanctions-mc-10093_e9e9724a2c783a458a92b7345e41e953.JPG"
+        width: 2500
+        height: 1685
+        isCached: true
   - title: "‘Praying the Verdict Is the Right Verdict,’ Biden Tells Floyd Family"
     excerpt: "President Biden disclosed the details of a phone call he shared with the family of George Floyd, as the family awaits the verdict in the trial of Derek Chauvin, the former officer accused of killing Mr."
     publishedDateTime: 2021-04-20T20:28:00Z

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden responds to Derek Chauvin's conviction in the murder of George Floyd"
+    excerpt: "\"No one should be above the law,\" President Joe Biden said. \"And today's verdict sends that message. But it's not enough.\""
+    publishedDateTime: 2021-04-21T09:25:00Z
+    webUrl: "https://www.businessinsider.com/biden-responds-derek-chauvins-conviction-murder-george-floyd-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-responds-derek-chauvins-conviction-murder-george-floyd-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-responds-derek-chauvins-conviction-murder-george-floyd-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/605a231c106eb50019d05235?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden says of Chauvin trial: ‘I’m praying the verdict is the right verdict’ – live"
     excerpt: "Biden says ‘I think it’s overwhelming, in my view’ and says he is commenting on case knowing jury is sequestered – follow all the latest news live"
     publishedDateTime: 2021-04-20T17:24:00Z

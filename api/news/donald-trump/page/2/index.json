@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-15-how-will-donald-trump-fare-in-tuesdays-primaries.md",
+      "title": "How will Donald Trump fare in Tuesday's primaries?",
+      "excerpt": "Candidates are making a final push ahead of Tuesday's primaries. Will Donald Trump enjoy another big night, or will recent violence at his rallies hurt him? CBSN political contributor Leslie Sanchez and Bob Cusack,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
+      "originalUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/15/d475d0b6-b992-41b9-90da-fb04ecc2d3e1/thumbnail/1200x630/2fa521bbefe3d5e8c6c3020975a75a5a/cbsn-primary-preview-0314-498944-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce.md",
+      "title": "Former daughter-in-law of Trump Org CFO says she has \"boxes and boxes\" of financial documents after bitter divorce",
+      "excerpt": "Jennifer and Barry Weisselberg's divorce was a contentious battle, but few realized during the 2017 and 2018 proceedings that it would end up at the center of one of the most high-profile criminal investigations in history – the Manhattan District Attorney's probe into Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
+      "originalUrl": "https://www.cbsnews.com/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/14/0c58dbe0-1a4f-4997-a440-4eeb61919fae/thumbnail/1200x630/b69d701028646c5c10400f2d5b1d89f2/0414-redblue-hgp-692909-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/former-daughter-in-law-of-trump-org-cfo-says-she-has-boxes-and-boxes-of-financial-documents-after-bitter-divorce/",
+      "publishedDateTime": "2021-04-14T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-youtube-bans-channel-of-former-trump-aide-sebastian-gorka-over-election-claims.md",
       "title": "YouTube bans channel of former Trump aide Sebastian Gorka over election claims",
       "excerpt": "YouTube has banned the channel of Sebastian Gorka, a former aide to President Donald Trump, saying it violated the video platform's presidential election integrity policy. In a statement obtained by USA TODAY, YouTube spokesperson Ivy Choi said Gorka's ...",
@@ -1483,115 +1587,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-milwaukee-asks-to-sanction-trump-over-baseless-election-suit.md",
-      "title": "Milwaukee asks to sanction Trump over ‘baseless’ election suit",
-      "excerpt": "Donald Trump and his lawyers should pay more than $65,000 in legal fees to Milwaukee County and face additional sanctions for filing a “baseless” lawsuit trying to overturn the result of the presidential election, Wisconsin’s biggest metropolitan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/SxmmnkCuK8npJYpMweFwVOqZLOI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TP6T4HP25W24BFJK5EIPZTUMX4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-09T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures.md",
-      "title": "GOP race against Cuomo kicks off with Trump allies — Staffers dispute book work was voluntary — New rules aim to reduce school closures",
-      "excerpt": "Not to let a news vacuum go to waste, two staunch allies of former President Donald Trump are kicking off conversations about New York’s 2022 gubernatorial race in earnest. Reactions? Well, a Republican hasn’t won a statewide race in New York since ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/04/09/gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures-492421",
-      "originalUrl": "https://www.politico.com/newsletters/new-york-playbook/2021/04/09/gop-race-against-cuomo-kicks-off-with-trump-allies-staffers-dispute-book-work-was-voluntary-new-rules-aim-to-reduce-school-closures-492421",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

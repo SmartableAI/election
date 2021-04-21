@@ -2,6 +2,171 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-23-msnbcs-brian-williams-touts-ad-from-disgraced-lincoln-project-linking-trump-to-atlanta-spa-shootings.md",
+      "title": "MSNBC's Brian Williams touts ad from disgraced Lincoln Project linking Trump to Atlanta spa shootings",
+      "excerpt": "MSNBC anchor Brian Williams touted a new ad released by the disgraced Lincoln Project last week that tried to tie former President Donald Trump's rhetoric about the coronavirus to the March 16 Atlanta spa shootings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
+      "originalUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
+      "publishedDateTime": "2021-03-22T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.md",
+      "title": "Biden HHS to turn San Diego Convention Center into migrant shelter",
+      "excerpt": "The Biden Administration is turning the San Diego Convention Center into a temporary shelter to support unaccompanied children seeking asylum in the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/65SRXFq8Ly0/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/65SRXFq8Ly0/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp",
+      "publishedDateTime": "2021-03-22T15:06:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-trump-says-china-laughs-at-the-us-for-woke-politics.md",
+      "title": "Trump Says China Laughs At The US For 'Woke' Politics",
+      "excerpt": "The former president shared his thoughts and opinions on the Biden administration, as well as what he believes other countries think of the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
+      "originalUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg",
+          "width": 1024,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
+      "publishedDateTime": "2021-03-22T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-aoc-endorses-controversial-democrat-who-compared-voting-for-biden-to-eating-s.md",
       "title": "AOC endorses controversial Democrat who compared voting for Biden to eating 's***'",
       "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., endorsed controversial Democrat Nina Turner running for a vacant Ohio congressional seat who compared voting for President Joe Biden to eating feces. ",
@@ -1144,171 +1309,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-response-not-incompetence-tom-homan.amp",
       "publishedDateTime": "2021-03-21T04:30:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-biden-dhs-chief-says-border-is-closed-but-us-wont-expel-children.md",
-      "title": "Biden DHS chief says 'border is closed' but U.S. won't expel children",
-      "excerpt": "In brief comments Sunday, President Joe Biden said he would visit the border \"at some point,\" adding that \"a lot more\" can be done to ensure migrants don't travel to the border. \"We’re in the process of doing it now, including making sure that we ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "originalUrl": "https://www.politico.com/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/00/1e/27b010b6460faf698bb791ed8d3c/210321-mayorkas-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/21/dhs-mayorkas-border-closed-children-477361",
-      "publishedDateTime": "2021-03-21T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-a-similar-challenge-how-joe-biden-echoes-kennedys-on-us-foreign-policy.md",
-      "title": "'A similar challenge': how Joe Biden echoes Kennedys on US foreign policy",
-      "excerpt": "Joe Biden speaks in the Oval Office on St Patrick’s Day, in front of a bust of Robert F Kennedy. Photograph: Andrew Harnik/AP The president does not just share Irish roots with John, Robert and Ted Kennedy – he also wants to lead America in the world ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/21/joe-biden-kennedys-us-foreign-policy",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/21/joe-biden-kennedys-us-foreign-policy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/16dea8609962f0186a9db6c8d35efea754730878/0_299_5817_3490/master/5817.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=790dd3de48215f864941cfb30fa6e8ec",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/21/joe-biden-kennedys-us-foreign-policy",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/21/joe-biden-kennedys-us-foreign-policy",
-      "publishedDateTime": "2021-03-20T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-trump-boosts-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.md",
-      "title": "Trump boosts Julia Letlow in Louisiana House race to succeed her late husband",
-      "excerpt": "Former President Trump urged his supporters to back Julia Letlow Saturday in the special election House race in Louisana to succeed her late husband, Luke, who died after contracting coronavirus. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9EPRWC7E-wk/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9EPRWC7E-wk/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/dww.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-julia-letlow-in-louisiana-house-race-to-succeed-her-late-husband.amp",
-      "publishedDateTime": "2021-03-20T14:10:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,166 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-15-document-reveals-new-details-of-dramatic-mike-pence-call-during-capitol-attack-building-not-secure.md",
+      "title": "Document reveals new details of dramatic Mike Pence call during Capitol attack: \"Building not secure\"",
+      "excerpt": "Friday marks 100 days since the January 6 attack on the Capitol building. New numbers from the Justice Department show more than 400 suspects have been arrested from at least 45 states. CBS News obtained a copy of the Capitol Police inspector general's findings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/capitol-attack-watchdog-report-call-mike-pence/",
+      "originalUrl": "https://www.cbsnews.com/news/capitol-attack-watchdog-report-call-mike-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/15/7065816f-dc4b-4570-af84-f131edffa472/thumbnail/1200x630/e72edcb19f6d93d91df181f37694a9f2/cbsn-fusion-capitol-police-watchdog-set-to-testify-new-document-reveals-details-of-lead-up-to-january-6-riot-thumbnail-693345-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/capitol-attack-watchdog-report-call-mike-pence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/capitol-attack-watchdog-report-call-mike-pence/",
+      "publishedDateTime": "2021-04-15T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-biden-deconstructing-last-4-years-in-record-time-trump-alumni-say.md",
+      "title": "Biden 'deconstructing' last 4 years in record time, Trump alumni say",
+      "excerpt": "President Biden is deconstructing former President Trump's policies at breakneck speed, the president of America First Policy Institute told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fn6AKZksK54/biden-trump-america-first-policy-institute-brooke-rollins",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fn6AKZksK54/biden-trump-america-first-policy-institute-brooke-rollins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 550,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rtsu2ii.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp",
+      "publishedDateTime": "2021-04-15T09:30:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-joe-bidens-german-shepherd-major-is-getting-trained-after-biting-2-peopleheres-how-much-dog-training-typically-costs.md",
+      "title": "Joe Biden's German shepherd Major is getting trained after biting 2 people—here's how much dog training typically costs",
+      "excerpt": "President Biden's young German shepherd Major is being sent to undergo training after a number of biting incidents at the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/15/how-much-dog-training-can-cost.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/15/how-much-dog-training-can-cost.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106867474-1618322044595-gettyimages-1232008330-AFP_96Z7AP.jpeg?v=1618322110",
+          "width": 4736,
+          "height": 3151,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/15/how-much-dog-training-can-cost.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/15/how-much-dog-training-can-cost.html",
+      "publishedDateTime": "2021-04-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-pastor-darrell-scott-claims-capitol-riot-was-congress-set-up-to-impeach-donald-trump.md",
       "title": "Pastor Darrell Scott Claims Capitol Riot Was Congress 'Set Up' to Impeach Donald Trump",
       "excerpt": "The New Spirit Revival Center founder made the claims on his radio show while discussing the recent review about the January 6 disorder.",
@@ -866,7 +1026,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1170,162 +1330,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-pollsters-say-they-undercounted-republicans-trump-supporters-in-2020.md",
-      "title": "Pollsters Say They Undercounted Republicans, Trump Supporters in 2020",
-      "excerpt": "One report, released Tuesday by five Democratic polling firms, finds that their surveys undercounted voters who viewed former President Donald Trump as “presidential.’’ Another, by the nonpartisan Pew Research Center, concluded that obtaining the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "originalUrl": "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-324404/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "publishedDateTime": "2021-04-13T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-russell-wilson-co-hosting-nbc-vaccination-special-featuring-joe-biden.md",
-      "title": "Russell Wilson co-hosting NBC vaccination special featuring Joe Biden",
-      "excerpt": "Seattle Seahawks quarterback Russell Wilson and his wife, Ciara, will host a vaccination special on NBC with President Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/12/10/man_of_the_year_award_football_49511_c0-125-3000-1875_s1200x700.jpg?5df86175492ddcdc04d9d2b6261257b2d49617ee",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
-      "publishedDateTime": "2021-04-13T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-sen-ron-johnson-warns-biden-spending-blowout-is-irresponsible-could-bankrupt-nation.md",
-      "title": "Sen. Ron Johnson warns Biden spending blowout is 'irresponsible,' could 'bankrupt nation'",
-      "excerpt": "Sen. Ron Johnson, R-Wis., told \"The Story\" Tuesday that the Biden administration is \"mortgaging our children’s future\" by driving up debt to pay for a proposed infrastructure bill.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBx-uh2_8ZQ/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBx-uh2_8ZQ/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
-      "publishedDateTime": "2021-04-13T14:24:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

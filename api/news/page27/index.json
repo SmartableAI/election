@@ -2,6 +2,171 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-03-10-bible-teacher-beth-moore-trump-critic-and-advocate-for-sexual-abuse-victims-splits-with-southern-baptist-convention.md",
+      "title": "Bible teacher Beth Moore, Trump critic and advocate for sexual abuse victims, splits with Southern Baptist Convention",
+      "excerpt": "For nearly three decades, Beth Moore has been the very model of a modern Southern Baptist. She loves Jesus and the Bible and has dedicated her life to teaching others why they need both of them in their lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/",
+      "originalUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2WM7QCX2FBSRING2TDYMIJI7M.JPG&w=1440",
+          "width": 1260,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/03/09/beth-moore-lifeway-southern-baptist-split/?outputType=amp",
+      "publishedDateTime": "2021-03-09T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-pete-hegseth-biden-holding-press-conference-would-muddy-the-waters-on-progressive-agenda.md",
+      "title": "Pete Hegseth: Biden holding press conference would ‘muddy the waters’ on progressive agenda",
+      "excerpt": "Pete Hegseth says he believes Biden administration officials are keeping the president from holding a formal press conference because they believe he will “distract away from their highly progressive agenda.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging",
+      "originalUrl": "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30d471bd-c55f-406b-9223-5afee56e6fa6/f100c880-519f-41aa-8f1d-262776cdcd53/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp",
+      "publishedDateTime": "2021-03-09T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-biden-visits-dc-hardware-store-to-highlight-paycheck-protection-program.md",
+      "title": "Biden visits DC hardware store to highlight Paycheck Protection Program",
+      "excerpt": "President Joe Biden on Tuesday visited a hardware store in Washington, DC, to highlight the changes his administration has made to the Paycheck Protection Program to help the smallest of businesses amid the coronavirus pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0cl-sNht1l8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0cl-sNht1l8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 495,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html",
+      "publishedDateTime": "2021-03-09T10:41:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-doj-asks-supreme-court-to-dismiss-case-related-to-trump-era-public-charge-rule.md",
       "title": "DOJ asks Supreme Court to dismiss case related to Trump era \"public charge\" rule",
       "excerpt": "The Department of Justice asked the Supreme Court on Tuesday to dismiss a case concerning a controversial Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use public benefits, such as Medicaid, food stamps and housing vouchers.\n    \n",
@@ -1222,170 +1387,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-trump-says-hell-work-to-unseat-alaskas-murkowski-calling-her-disloyal.md",
-      "title": "Trump says he'll work to unseat Alaska's Murkowski, calling her 'disloyal'",
-      "excerpt": "Former President Donald Trump said he would campaign against Sen. Lisa Murkowski, R-Alaska, and blasted her as a \"disloyal and very bad Senator\" in a statement this weekend.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rts18vzv.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp",
-      "publishedDateTime": "2021-03-07T12:27:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-trump-expected-to-make-first-visit-to-nyc-since-leaving-office.md",
-      "title": "Trump expected to make first visit to NYC since leaving office",
-      "excerpt": "Former President Donald Trump is expected to make his first trip to New York City since leaving office in the coming days.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KxwXimUhuCA/trump-trip-new-york-city-florida-office-president",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KxwXimUhuCA/trump-trip-new-york-city-florida-office-president",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/Cyrus-Vance-Manhattan-DA-Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-trip-new-york-city-florida-office-president.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-trip-new-york-city-florida-office-president.amp",
-      "publishedDateTime": "2021-03-07T08:55:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying.md",
-      "title": "China calls on US to drop Trump-era sanctions and warns against 'bullying'",
-      "excerpt": "Foreign minister Wang Yi calls for cooperation and signals that Beijing will stand firm against criticism",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "originalUrl": "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1460603f607965dd4feb714bb0cba76fa5e4a045/643_571_6904_4144/master/6904.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c281ae1e3c17d59475ec3266852594f7",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "publishedDateTime": "2021-03-07T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Simon & Schuster will publish Mike Pence’s memoir despite staff objections"
+    excerpt: "Simon & Schuster says it will publish former Vice President Mike Pence’s memoir despite objections from employees who signed petitions demanding the company not sign book deals with"
+    publishedDateTime: 2021-04-21T13:47:00Z
+    webUrl: "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/"
+    ampWebUrl: "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-book-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Simon & Schuster Says Mike Pence Book Will Proceed, Despite Employee Petition"
     excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp says in a letter to staffers."
     publishedDateTime: 2021-04-20T18:53:00Z

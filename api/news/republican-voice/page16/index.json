@@ -2,6 +2,62 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-03-biden-says-no-one-in-our-family-will-be-involved-in-government-decisions.md",
+      "title": "Biden says ‘no one in our family’ will be involved in government decisions",
+      "excerpt": "President Biden said he intends to keep his family and his administration separate as reports surrounding the business dealings of his son and brother raised questions of potential impropriety.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 293,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314f29b6-b9c9-4c05-b3d2-ae7a2ac645a0/68c889cf-b668-4b8c-a9f0-a272442f7d6f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
+      "publishedDateTime": "2021-02-03T06:07:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-sen-kennedy-blasts-immeasurably-foolish-biden-orders-that-will-gut-louisiana-like-a-fish.md",
       "title": "Sen. Kennedy blasts 'immeasurably foolish' Biden orders that will 'gut Louisiana like a fish'",
       "excerpt": "Sen. John Kennedy, R-La., warned Tuesday that President Biden's sweeping executive orders related to the industrial energy sector and immigration will be detrimental to both the nation and, in the former case, his home state.",
@@ -1602,63 +1658,6 @@
       "ampWebUrl": "https://www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/nancy-sinatra-never-forgive-trump-supporters.amp",
       "publishedDateTime": "2021-01-29T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-politico-reporter-trump-base-is-getting-stronger-since-he-left-office-impeachment-would-only-empower-him.md",
-      "title": "Politico reporter: Trump base is 'getting stronger' since he left office, impeachment would only empower him",
-      "excerpt": "Politico reporter Tara Palmeri suggested on Friday that President Trump may have more political clout among his supporters than the D.C. establishment and the mainstream media assumed he had since he left office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger",
-      "originalUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Tara-Palmeri-GETTY-2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tara-palmeri-trump-base-getting-stronger.amp",
-      "publishedDateTime": "2021-01-29T18:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

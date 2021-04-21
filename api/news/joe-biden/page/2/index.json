@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-11-joe-biden-could-his-tax-plan-affect-us-investment-in-ireland.md",
+      "title": "Joe Biden: Could his tax plan affect US investment in Ireland?",
+      "excerpt": "The head of the country's inward investment agency, Martin Shanahan, described the Stripe investment as a \"phenomenal signal from Ireland and about Ireland\". But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13308/production/_117900687_06ffc346-865c-4109-8912-654957eb9bfa.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-europe-56692865",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865",
+      "publishedDateTime": "2021-04-10T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-pelosi-aims-to-have-biden-infrastructure-passed-before-august.md",
       "title": "Pelosi aims to have Biden infrastructure passed before August",
       "excerpt": "The road ahead for Biden's budget proposal 03:13 Speaker Nancy Pelosi expressed hope that Congress would pass President Biden's $2 trillion infrastructure proposal ahead of the August recess. During her weekly press conference on Thursday, Pelosi said that ...",
@@ -1530,58 +1582,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-on-full-stadium.md",
-      "title": "Texas Rangers GM Jon Daniels Shrugs Off Joe Biden's 'Not Responsible' Remark on Full Stadium",
-      "excerpt": "The general manager of the Texas Rangers used baseball's opening day Thursday to comment on President Joe Biden's remarks about his team hoping for a stadium full of fans. The Rangers have expressed a willingness to have their brand new stadium full of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610",
-      "originalUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1769583/texas-rangers-fans.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610?amp=1",
-      "publishedDateTime": "2021-04-01T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

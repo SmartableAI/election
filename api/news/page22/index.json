@@ -2,6 +2,171 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-18-texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions.md",
+      "title": "Texas governor: Biden must answer for ‘enticing unaccompanied minors into inhumane conditions’",
+      "excerpt": "Texas Gov. Greg Abbott called out President Joe Biden’s border policies. The governor said, “reckless” policies are causing a surge in border crossing and the president must answer for “enticing unaccompanied minors into inhumane conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
+      "originalUrl": "https://www.nbcnews.com/video/texas-governor-biden-must-answer-for-enticing-unaccompanied-minors-into-inhumane-conditions-108709957557",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/abbott-00_01_00_23-Still001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo108709957557",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo108709957557",
+      "publishedDateTime": "2021-03-17T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-biden-sees-critical-need-to-maintain-good-friday-agreement-for-northern-ireland.md",
+      "title": "Biden sees critical need to maintain Good Friday agreement for Northern Ireland",
+      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden on Wednesday underscored his strong commitment to the landmark 1998 Good Friday peace agreement and the need to maintain the political and economic stability of Northern Ireland. “We strongly support that, ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-ireland/biden-sees-critical-need-to-maintain-good-friday-agreement-for-northern-ireland-idUSKBN2B912F",
+      "originalUrl": "https://www.reuters.com/article/us-usa-ireland/biden-sees-critical-need-to-maintain-good-friday-agreement-for-northern-ireland-idUSKBN2B912F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555234590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1FO",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B912N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B912N",
+      "publishedDateTime": "2021-03-17T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-omarosa-manigault-newman-cant-force-trump-to-testify-in-lawsuit-judge-rules.md",
+      "title": "Omarosa Manigault Newman can't force Trump to testify in lawsuit, judge rules",
+      "excerpt": "Former Trump White House aide Omarosa Manigault Newman won't be allowed to get testimony from former President Donald Trump, former Trump chief of staff John Kelly or a member of the White House counsel's office in a lawsuit she faces related to her exit from the government, a federal judge in Washington",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DK6ssM3KS-w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DK6ssM3KS-w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180814092730-omarosa-manigault-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/17/politics/omarosa-manigault-newman-trump-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/omarosa-manigault-newman-trump-lawsuit/index.html",
+      "publishedDateTime": "2021-03-17T09:33:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-on-us-meeting-looming-afghanistan-withdrawal-deadline-could-happen-but-it-is-tough.md",
       "title": "Biden on US meeting looming Afghanistan withdrawal deadline: 'Could happen, but it is tough'",
       "excerpt": "President Joe Biden said he is still making a decision on withdrawing all US troops from Afghanistan ahead of a May 1 deadline set by former President Donald Trump, saying it \"could happen, but it is tough.\"\n    \n",
@@ -1202,172 +1367,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-vp-harris-dodges-question-about-migrant-children-i-havent-been-briefed-on-anything-today-about-it.md",
-      "title": "VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'",
-      "excerpt": "Harris' response comes as the Biden administration has refused to call the perilous border situation a crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075827674492.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp",
-      "publishedDateTime": "2021-03-16T17:54:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-biden-cuomo-should-resign-if-investigation-confirms-claims.md",
-      "title": "Biden: Cuomo should resign if investigation confirms claims",
-      "excerpt": "President Joe Biden says New York Gov. Andrew Cuomo should resign if the state attorney general’s investigation confirms the sexual harassment allegations against him",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-16T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-trump-credits-washington-post-for-correcting-georgia-election-report-im-very-happy-they-had-the-courage.md",
-      "title": "Trump credits Washington Post for correcting Georgia election report: I'm 'very happy' they 'had the courage'",
-      "excerpt": "Former President Trump gave credit to The Washington Post after it was forced to issue a major correction on a report about a phone call he had with and Georgia elections investigator Frances Watson.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-washington-post-correction-georgia",
-      "originalUrl": "https://www.foxnews.com/media/trump-washington-post-correction-georgia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d925ce6-0c35-409d-bc00-1b4ed3b7dac7/6dbbe175-d652-468f-944b-810e9ff95a7a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-washington-post-correction-georgia.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-washington-post-correction-georgia.amp",
-      "publishedDateTime": "2021-03-16T17:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }
