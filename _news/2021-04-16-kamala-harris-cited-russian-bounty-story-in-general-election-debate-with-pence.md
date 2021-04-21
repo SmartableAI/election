@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-cited-russian-bounty-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp"
 type: article
 quality: 221
-heat: 581
+heat: 621
 published: true
 
 provider:
@@ -257,6 +257,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris: Guilty verdict in Chauvin trial would 'not heal the pain that existed for generations'"
+    excerpt: "Shortly before a jury convicted former Minneapolis police officer Derek Chauvin for the murder of George Floyd last May, Vice President Kamala Harris said even a guilty verdict would not “heal the pain” of systematic racism in the United States."
+    publishedDateTime: 2021-04-20T23:44:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11c7e75-2e58-43af-b8ac-597cdeae3f0d/2eb6b5c1-88b1-4e64-bc2c-e99cde677daf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Washington Post stands by 'Four Pinocchios' rating for Trump claim Russian bounty intel was 'fake news'"
     excerpt: "The Washington Post is standing by a \"Four Pinocchios\" fact-check rating it gave then-President Donald Trump last year, even after U.S. intelligence backed away from reports that Russia placed bounties on the heads of American soldiers in Afghanistan."
     publishedDateTime: 2021-04-16T22:51:00Z
@@ -318,6 +334,20 @@ related:
       - url: "https://assets.realclear.com/images/54/540621_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Kamala Harris on Chauvin Conviction: \"This Work Is Long Overdue, America Has A Long History Of Systemic Racism\""
+    excerpt: "Vice President Kamala Harris said we still have work to do in remarks on Tuesday following the conviction of Derek Chauvin, the officer charged for the murder of George Floyd. \"How's that for an entrance?"
+    publishedDateTime: 2021-04-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/20/kamala_harris_on_chauvin_conviction_this_work_is_long_overdue_america_has_a_long_history_of_systemic_racism.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+    images:
+      - url: "https://assets.realclear.com/images/54/541069.jpg"
+        width: 864
+        height: 648
         isCached: true
 
 secured: "+PafvUikbJLBFIR133IKvTQFuZ4Z2zCVEDf9DG6jTm6vJtE4qjyibKJe89ZvQa/aMCSrVOEbiWW+dTKIaEPC0QlqHphPXu7y8F1ZHy1FQFQwEeOKXQpOJM9TsFhMKKaBXZcSE5gQ0bRDN8ZkOF9iJQlIE/OTRiM8un78sq7KpEsHjBH79DYoCloB1nFdYR0sfsuVHUfMGux2BHma+fcgNFhS+LGT0LMs/iVOjsZ2nH5WIRo932W46mTFFs3cm3GPDhTlf3JPMAZ3gvnaa9gAPi88SI2pFU4cSpwBPgLpAQkYvTT8j0IDvOvrBFW/GKJPY/Xj8+1ephh+9zamm8Ivk0LFUigDJcZxbXJz945pewI=;Y/Xy350Gnuh1moponEyEVA=="

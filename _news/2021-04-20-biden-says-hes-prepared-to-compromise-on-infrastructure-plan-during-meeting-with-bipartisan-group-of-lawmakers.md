@@ -253,6 +253,20 @@ related:
         width: 1200
         height: 752
         isCached: true
+  - title: "'It was a murder in the full light of day': Biden"
+    excerpt: "Biden. Posted . U.S. President Joe Biden on Tuesday said the murder conviction of former Minneapolis policeman Derek Chauvin i"
+    publishedDateTime: 2021-04-21T01:05:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE9C1CDB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210421&i=OVE9C1CDB&r=OVE9C1CDB&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
     excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
     publishedDateTime: 2021-04-10T15:01:00Z

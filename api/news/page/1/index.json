@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-biden-harris-slam-systemic-racism-in-us-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice.md",
+      "title": "Biden, Harris slam 'systemic racism' in US, say Chauvin guilty verdict is 'giant step' toward racial justice",
+      "excerpt": "The guilty verdict in the murder trial of former Minneapolis police Officer Derek Chauvin \"can be a giant step forward in the march toward justice in America,\" President Biden and Vice President Harris said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vk8o4NRU-QQ/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vk8o4NRU-QQ/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp",
+      "publishedDateTime": "2021-04-20T17:15:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030.md",
       "title": "AP sources: Biden to pledge halving greenhouse gases by 2030",
       "excerpt": "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders",
@@ -107,6 +164,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-biden-doj-dispatches-peacemakers-to-minneapolis-ahead-of-chauvin-verdict-report.md",
+      "title": "Biden DOJ dispatches 'peacemakers' to Minneapolis ahead of Chauvin verdict: report",
+      "excerpt": "The Justice Department has reportedly dispatched officials from its Community Relations Service to act as peacemakers and facilitate listening sessions in Minneapolis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6boZzN2oO9k/doj-community-relations-service-chauvin-minneapolis-riots-protest",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6boZzN2oO9k/doj-community-relations-service-chauvin-minneapolis-riots-protest",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/chauvin.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp",
+      "publishedDateTime": "2021-04-20T12:54:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     },
@@ -281,25 +394,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-20-biden-praying-chauvin-jury-reaches-right-verdict-calling-case-overwhelming.md",
-      "title": "Biden 'praying' Chauvin jury reaches 'right verdict,' calling case 'overwhelming'",
-      "excerpt": "As the nation awaits a verdict by the jury in the trial of former Minneapolis police officer Derek Chauvin, President Biden said on Tuesday he is \"praying the verdict is the right verdict.\"",
+      "path": "_news/2021-04-21-steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally.md",
+      "title": "Steve Scalise Says Maxine Waters Wants 'Violent' Protests, Trump Urged Peaceful D.C. Rally",
+      "excerpt": "\"I haven't heard Maxine saying anything about people 'peacefully' protesting,\" said Louisiana GOP Rep. Scalise Tuesday.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/li9qNsQbVNY/biden-chauvin-trial-right-verdict-overwhelming",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/li9qNsQbVNY/biden-chauvin-trial-right-verdict-overwhelming",
+      "webUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107",
+      "originalUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
+      "highlight": null,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://d.newsweek.com/en/full/1780605/donald-trump-steve-scalise-insurrection.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -307,16 +416,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-chauvin-trial-right-verdict-overwhelming.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chauvin-trial-right-verdict-overwhelming.amp",
-      "publishedDateTime": "2021-04-20T09:56:09-07:00",
+      "ampWebUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107?amp=1",
+      "publishedDateTime": "2021-04-20T10:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -333,7 +442,7 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -440,7 +549,7 @@
       "originalUrl": "https://www.cbsnews.com/news/george-floyd-joe-biden-derek-chauvin-trial-verdict/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -908,58 +1017,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-20-tucker-carlson-says-maxine-waters-guilty-of-greater-incitement-of-violence-than-donald-trump.md",
-      "title": "Tucker Carlson Says Maxine Waters 'Guilty' of Greater Incitement of Violence than Donald Trump",
-      "excerpt": "\"Is Maxine Waters guilty of greater incitement than Donald Trump? Well, of course,\" Fox News host Tucker Carlson said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/tucker-carlson-says-maxine-waters-guilty-greater-incitement-violence-donald-trump-1584876",
-      "originalUrl": "https://www.newsweek.com/tucker-carlson-says-maxine-waters-guilty-greater-incitement-violence-donald-trump-1584876",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1780198/tucker-carlson-maxine-waters-donald-trump-incitement.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/tucker-carlson-says-maxine-waters-guilty-greater-incitement-violence-donald-trump-1584876?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-says-maxine-waters-guilty-greater-incitement-violence-donald-trump-1584876?amp=1",
-      "publishedDateTime": "2021-04-19T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-20-trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna.md",
       "title": "Trump: FDA pausing Johnson & Johnson was ‘terrible,’ only benefits Pfizer, Moderna",
       "excerpt": "Former President Donald Trump criticizes the FDA for their management of coronavirus vaccines in an exclusive interview with \"Hannity.\"",
@@ -1285,49 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-biden-rejoining-iran-nuclear-agreement-dangerous-lieberman.md",
-      "title": "Biden rejoining Iran nuclear agreement dangerous: Lieberman",
-      "excerpt": "Former Senator Joe Lieberman (I) provides insight into the possible dangers that can come from U.S.-Iran negotiations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman",
-      "originalUrl": "https://www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/05f3ddf7-c261-46ea-9295-4bcef6a64fd4/78d4a744-eb4e-48da-9687-b57d8cc43af2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/biden-lifting-iran-sanctions-could-be-dangerous-for-us-lieberman.amp",
-      "publishedDateTime": "2021-04-19T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

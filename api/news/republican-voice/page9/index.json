@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-11-biden-civil-rights-pick-promoted-jussie-smollett-hoax-criticized-police-handling-of-case.md",
+      "title": "Biden civil rights pick promoted Jussie Smollett hoax, criticized police handling of case",
+      "excerpt": "President of the Lawyers’ Committee for Civil Rights Under Law and Biden nominee Kristen Clarke made multiple posts on Twitter pushing the alleged hate crimes Smollett claimed had occurred.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N2ZhijyCaHw/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N2ZhijyCaHw/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e44f447d-9d5c-4dd4-b7d0-4f603076760c/e8afdea2-e6fc-4921-b58e-8afbc3890817/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
+      "publishedDateTime": "2021-03-11T15:50:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-silence-on-cuomo-continues-for-kamala-harris-who-crusaded-against-brett-kavanaugh.md",
       "title": "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh",
       "excerpt": "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. ",
@@ -1614,62 +1670,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-trump-says-hell-work-to-unseat-alaskas-murkowski-calling-her-disloyal.md",
-      "title": "Trump says he'll work to unseat Alaska's Murkowski, calling her 'disloyal'",
-      "excerpt": "Former President Donald Trump said he would campaign against Sen. Lisa Murkowski, R-Alaska, and blasted her as a \"disloyal and very bad Senator\" in a statement this weekend.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rts18vzv.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp",
-      "publishedDateTime": "2021-03-07T12:27:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

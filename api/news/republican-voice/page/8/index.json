@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-17-russia-recalls-us-ambassador-after-biden-calls-putin-a-killer.md",
+      "title": "Russia recalls US ambassador after Biden calls Putin a 'killer'",
+      "excerpt": "Russia recalled its ambassador to the United States on Wednesday after President Biden said he agreed that Russian President Vladimir Putin was a “killer” and threatened further sanctions during a televised interview, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UnOodRKIaHc/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UnOodRKIaHc/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39041886-9779-4d90-b746-af3b50921d47/222f1f6b-7e21-46cc-ad7c-95efdbee56f8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-recalls-us-ambassador-biden-calls-putin-killer-threatens-action-over-election-meddling.amp",
+      "publishedDateTime": "2021-03-17T12:29:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-border-wall-freeze-unlawful-40-gop-senators-tell-gao-in-letter.md",
       "title": "Biden border wall freeze unlawful, 40 GOP senators tell GAO in letter",
       "excerpt": "A group of 40 GOP senators on Wednesday asked the Government Accountability Office to decide whether President Biden's decision to freeze more than $1 billion in congressionally approved border wall funding violates federal law.",
@@ -1621,62 +1677,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-biden-civil-rights-pick-promoted-jussie-smollett-hoax-criticized-police-handling-of-case.md",
-      "title": "Biden civil rights pick promoted Jussie Smollett hoax, criticized police handling of case",
-      "excerpt": "President of the Lawyers’ Committee for Civil Rights Under Law and Biden nominee Kristen Clarke made multiple posts on Twitter pushing the alleged hate crimes Smollett claimed had occurred.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N2ZhijyCaHw/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N2ZhijyCaHw/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e44f447d-9d5c-4dd4-b7d0-4f603076760c/e8afdea2-e6fc-4921-b58e-8afbc3890817/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-civil-rights-kristen-clarke-jussie-smollett-hoax.amp",
-      "publishedDateTime": "2021-03-11T15:50:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

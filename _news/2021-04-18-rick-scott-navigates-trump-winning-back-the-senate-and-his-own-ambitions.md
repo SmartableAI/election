@@ -95,22 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
-    publishedDateTime: 2021-04-20T17:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MV6GSKFCAII6XMYUF2MTXWB6GE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Mike Lindell Says He Had Dream About Trump One Year Before Meeting Him, Credits God"
     excerpt: "MyPillow CEO Mike Lindell on Saturday said that he had a dream about Donald Trump in 2015, one year before the two met for the first time. During his address at the conservative Freedom Conference held in Broken Arrow,"
     publishedDateTime: 2021-04-17T20:17:00Z
@@ -283,6 +267,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/12/0fafe1a2-52d1-4b8c-bbad-773dd9aad4c2/thumbnail/1200x630/f422c01c755616e5c70b15612ab66af3/cbsn-fusion-former-president-donald-trump-says-hes-optimistic-that-the-republican-party-will-take-back-congress-in-2022-midterm-elections-and-the-white-house-in-2024-thumbnail-690432-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ohio Republicans aim to rename state park after Donald Trump"
+    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
+    publishedDateTime: 2021-04-20T19:42:00Z
+    webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
     excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."

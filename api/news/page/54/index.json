@@ -2,6 +2,62 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-01-22-reince-priebus-tough-time-for-the-republican-party-but-bidens-actions-easy-to-unite-against.md",
+      "title": "Reince Priebus: 'Tough time for the Republican Party’ but Biden's actions easy to unite against",
+      "excerpt": "Former White House Chief of Staff Reince Priebus told \"America’s Newsroom\" Friday that it’s a \"tough time for the Republican Party\" since President Biden was sworn in, but Biden's actions may make it easier for the party to unite. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fkBdiX7FRw/reince-priebus-tough-time-republican-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fkBdiX7FRw/reince-priebus-tough-time-republican-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
+      "publishedDateTime": "2021-01-22T14:20:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-biden-suggests-delayed-impeachment-timeline-may-be-better.md",
       "title": "Biden suggests delayed impeachment timeline may be 'better'",
       "excerpt": "Biden suggested having more time to get his Cabinet nominees confirmed may help jumpstart his policy agenda.",
@@ -1288,62 +1344,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp",
       "publishedDateTime": "2021-01-21T10:57:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-logan-media-institutions-wont-admit-they-were-wrong-about-so-many-stories-during-trump-era.md",
-      "title": "Logan: Media institutions won't 'admit they were wrong about so many stories' during Trump era",
-      "excerpt": "Affiliates of the mainstream media will not admit they were wrong about how they conducted journalism during the Trump administration, Fox Nation host Lara Logan said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ey3EaJZpfn4/logan-media-institutions-wont-admit-stories-during-trump-era",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ey3EaJZpfn4/logan-media-institutions-wont-admit-stories-during-trump-era",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/logan-media-institutions-wont-admit-stories-during-trump-era.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/logan-media-institutions-wont-admit-stories-during-trump-era.amp",
-      "publishedDateTime": "2021-01-21T09:50:50-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

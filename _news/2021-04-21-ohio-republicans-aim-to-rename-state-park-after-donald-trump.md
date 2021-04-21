@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Ohio Republicans aim to rename state park after Donald Trump"
-excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
-publishedDateTime: 2021-04-20T17:56:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ohio-republicans-aim-to-rename-state-park-after-donald-trump/2021/04/20/2c9f5cf2-a20a-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
+publishedDateTime: 2021-04-20T19:42:00Z
+originalUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MV6GSKFCAII6XMYUF2MTXWB6GE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -310,6 +306,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "xmJQpTfIJ++TpGxGNC5ncCkYVSaKtfkQdDmnZn+bpNTMPpDeAGvDQEer/R9tgqbWuc0q93sMX01DXSFI4VXMmjk+O4fNE/XMZF9AXncVKFCeyUp7Ud6UE25GBj8Vsw52OORnpiG5+/DUxrve6OQgBIw/1zi4PX7k4uJ+OqgwCxBrn1Ad+UDF0VJOL9trYvY4Jtc0KRh6CYdCuuy6tcPGRulZQm9MjvevVtalR7EXV7SzHEW10PUWNg3tTED1+bdHFYRlYZCvg03d5yuEix+RdtppgieE+tHbOiK4c6P88hIg5H9W2KlW0DzhKtP7a2bWq5rweYwzPUjRgC6LY1vCVFhkUQa+quJRrmMac50o0WZxiz/kJRzVw6cfuq+F4JSqhuVqt77qZ3+MQye0TK9QzMH+H5Ze31V1gmqhsrxKA6345pYb6OML46lzFHPxJbjkqLMVYxU1og+CUOgUVLTrDMAeDjrt5HKA7A6fxiLGJLmGAS3rIWkXHEzLxxuBTatDUhsAV0w9Bj8OQJK2bzCeqw==;65f4oETKUk6nsdG+uHkqWw=="
+secured: "IG9ITgDNxsq1ggXnuBdG6LlUMnBB2uFc/XTMoCJrsdYQHS0dIQR/Hsa732dleH/nKr1IcPSk9l0pH4COobuhBqYcf2bYqmQ0Hcq121blQE98heAMVQMn+1QG6Sfh1QWw6QOf0FTr1pCbd27p6CDNu5B6OTzEZ0GhW4OLoFF2iW/VL8Kv0X89jtUMvaR4hSIFxxcouk5+jsf5pQReIK4M4BqdLvadWIxSbQ9r8BLoCdSf+kakhAUwSiTkrZqqbgEYkJJygS+2q5oshq27XipOVB5y1sKWKX7oeEfEsX2wTGmT2rABRREa94c3MDz9yKLPR61s5YHANVWiaaTEJD2I1B54PRgSsknTHpOD2z6HyVQ=;aF6ZayDUylRqK2H5kq33Ig=="
 ---
 

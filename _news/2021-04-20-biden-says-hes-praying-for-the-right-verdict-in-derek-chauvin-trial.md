@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/george-floyd-joe-biden-derek-chauvi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/george-floyd-joe-biden-derek-chauvin-trial-verdict/"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/516f86b813ab476a921e7e19138a816604007a57/0_206_6192_3715/master/6192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e35761baec4a34df13c77edb4c3b3ef8"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden: Floyd murder 'verdict a giant step forward'"
+    excerpt: "President Joe Biden says the conviction of former Minneapolis Police Officer Derek Chauvin in the killing of George Floyd is a \"step forward” in the fight against systemic racism. But he said it's not enough and called for swift police reform."
+    publishedDateTime: 2021-04-21T00:41:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/21/biden-floyd-murder-verdict-giant-step-forward/7311967002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/92242f52-ef05-4b23-8888-27375bd856cf_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden on Floyd trial: Praying for 'right verdict'"
     excerpt: "President Joe Biden said Tuesday he is praying for the \"right verdict\" in the murder trial of former Minneapolis Police Officer Derek Chauvin, charged in the death of George Floyd. (April 20)"

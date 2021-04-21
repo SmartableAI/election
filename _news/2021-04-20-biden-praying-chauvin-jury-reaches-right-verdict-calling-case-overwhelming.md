@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-chauvin-trial-right-verdict-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chauvin-trial-right-verdict-overwhelming.amp"
 type: article
 quality: 170
-heat: 210
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, Harris slam 'systemic racism' in US, say Chauvin guilty verdict is 'giant step' toward racial justice"
+    excerpt: "The guilty verdict in the murder trial of former Minneapolis police Officer Derek Chauvin \"can be a giant step forward in the march toward justice in America,\" President Biden and Vice President Harris said Tuesday."
+    publishedDateTime: 2021-04-21T00:15:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vk8o4NRU-QQ/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden tells Floyd family 'now there's some justice' after Chauvin guilty verdict"
     excerpt: "President Biden and Vice President Harris called the family of George Floyd after the jury delivered a guilty verdict against former Minneapolis police officer Derek Chauvin, saying \"now there's some justice,\" and vowing that his \"legacy\" will stay \"intact.\" "
     publishedDateTime: 2021-04-20T22:19:59Z
@@ -47,21 +63,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden DOJ dispatches 'peacemakers' to Minneapolis ahead of Chauvin verdict: report"
-    excerpt: "The Justice Department has reportedly dispatched officials from its Community Relations Service to act as peacemakers and facilitate listening sessions in Minneapolis."
-    publishedDateTime: 2021-04-20T19:54:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6boZzN2oO9k/doj-community-relations-service-chauvin-minneapolis-riots-protest"
-    ampWebUrl: "https://www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-community-relations-service-chauvin-minneapolis-riots-protest.amp"
+  - title: "Biden ignores rioting that marred summer of George Floyd protests after Chauvin conviction"
+    excerpt: "President Biden on Tuesday, weighing in on the murder conviction of ex-Minneapolis Police Officer Derek Chauvin, left out the rioting, looting, arson and worse that broke out around the country amid a summer of unrest following George Floyd’s Memorial Day death."
+    publishedDateTime: 2021-04-21T01:45:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sAjJPOC-sxM/biden-rioting-george-floyd-derek-chauvin-conviction"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rioting-george-floyd-derek-chauvin-conviction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rioting-george-floyd-derek-chauvin-conviction.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/chauvin.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1312682563.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden stuns political, legal experts by weighing in on Derek Chauvin verdict before jury makes decision"
+    excerpt: "After President Biden said Monday he is praying the jury comes to the \"right verdict\" in the Derek Chauvin trial, White House press secretary Jen Psaki said Biden doesn’t see that as \"weighing in.\" Political and legal experts think otherwise. "
+    publishedDateTime: 2021-04-20T18:15:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d6x4LNk2eg/biden-weigh-in-derek-chauvin-verdict-jury-makes-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-weigh-in-derek-chauvin-verdict-jury-makes-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-weigh-in-derek-chauvin-verdict-jury-makes-decision.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "sQXNIb/9Vofa3mNY4ihRbQIQh1CJwsNVu/QiPsi+UTqzZeE7EA4z1GT1SkpGO1PEYPbssO7hR2aTGByowGnsFIik0FZ1fyvKZSh24dhK75qv2zNG9//kAXQ9fUk1t8Xpcd0FalrVZGmvm2d/oBjS8G6Mm4+Yx7hixWwcS3+NaX/vCGH1eHoOSBr4m4OcNgJuIse5GQ74dR1kBNN+mqyu3i3X8VBIOW7n30spZXoOfpvICvocHHTwOBAdPPcghZSNCkdivdO0QiHV3gIF8tTDNUBHs5+hO0meV5bPgFhiS4x9zfL6kDyKs7BwrE2wZlhda+aOXb60/JzSwolXp23WXPLuXkaaLno60kcOmnmTfEc=;BGjazCyKGQhGy/QCro16fQ=="
