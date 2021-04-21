@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Ohio Republicans aim to rename state park after Donald Trump"
-excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
-publishedDateTime: 2021-04-20T19:42:00Z
-originalUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
+publishedDateTime: 2021-04-21T15:36:00Z
+originalUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
+webUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://storage.googleapis.com/afs-prod/media/4e3a416081f744298ea773bfbd3eb964/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -266,6 +264,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump's campaign chair resigns"
+    excerpt: "Donald Trump's campaign had yet another staffing change on Friday. Paul Manafort, Trump's campaign chair, handed in his resignation. Manafort's exit shakes up an already jittery campaign that is plummeting in the polls."
+    publishedDateTime: 2021-04-21T03:29:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trumps-campaign-chair-resigns-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/21/e490e4cf-8f4c-409b-9d9b-9a9c3fef4ff1/thumbnail/1200x630/5c0587cfd0886d7c68da051d69776619/eve-manafort-trump-0819-1109632-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump says he's optimistic that the GOP will take back Congress in 2022 midterm elections and the White House in 2024"
     excerpt: "Former President Trump said at the Republican National Committee's donor retreat over the weekend that he's optimistic Republicans will retake Congress in 2022 and reclaim the White House in 2024 and reiterated falsehoods about voter fraud in 2020."
     publishedDateTime: 2021-04-12T23:49:00Z
@@ -306,6 +318,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JwkqZ02aNHmWesIbvE2tzKsLfimfVyWYeCGtLi+Lg75qVWWZ0uyd36XL0pbTl+oX4lvVX/GYYjgq50QBpfM3NQXZvGfw4reR9Ijs3vNrm3/q8S26o5dd1TyqeR/ZA2WuLOeSX+W011sEoVtCxEek9DJWdn0MY42W50LmzgMCFyPjmQhJbjaoChrUpLbwYpgPFjCDPpc8lLRYfSJpEtq7WvSTmIx5W60eZ2Ft+/rKLwHcHEZWr6XxikR+VMBQwL+WR97tHUXYFnnqvrBWnf07I2K7ZMO4FEJsBHQ3kEcKWeGpQTlEnKqb0BfLssWNapWdbjYh36ov43OYIJAv7B2yx3bMyZXKo+KyIpSuFz09K03zvOwyZDaLRiKLjelJNuChPkxcJN2c1Zh2Yv0ulUN4fKNcsLG+om/vYsXJ8EjJ4YF9dTZBTgMF7xjb0pelZFjXm4U0WNjczvOcUegv6IJT4tqA6HnFeN6a9AG8bgMVzX1T0V4D8Lj+tpeUMoNGmqJgqZuAhoHgBP4NbFh7uraFHw==;UR5KSdmSZEFVIjUkwMSt7w=="
+secured: "d1L4EyYwXTWdmojVHLalklVYw3DOh0j7LG+P1IPyMdJ/EV4z6wLSkWMn9Mi9YfjTh9dauJvPoQt+PmyNKGmGVwnbKPn+6rQGvrXLiXbESJGU4wDicyT6BmvppEgdCvfeD5t242n308fF1DmygNpLdn1W2RvqcFAoQ+wXz9vxadO5qLBOZtha1jXyQpidyRV/2mKAr9lQ8WHj+QGGGTfi3/yInWoFtP59gwkz2jIG5PnxpAuU/kk7SQVYMKb/wc+dSX/QzFOL9cy92LRZ2NIwJC5HD1yyRZ/uWWXhyWT/duXoxEdsnt/KxBp5wbkX8mkB2Negf5fVIkbEShSnJ2sr2YGGR2iSF5BpVfDmy4yBdSU=;FcmW0k8+YCH23iN0dUxmdw=="
 ---
 

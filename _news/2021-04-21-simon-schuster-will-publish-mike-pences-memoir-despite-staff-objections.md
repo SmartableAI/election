@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-m
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/amp/"
 type: article
 quality: 133
-heat: 173
+heat: 153
 published: true
 
 provider:
@@ -44,23 +44,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Simon & Schuster Says Mike Pence Book Will Proceed, Despite Employee Petitions"
-    excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp said in a letter to staffers."
-    publishedDateTime: 2021-04-20T19:10:00Z
-    webUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
-    ampWebUrl: "https://www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 131
-    images:
-      - url: "https://images.wsj.net/im-327598/social"
-        width: 1280
-        height: 640
-        isCached: true
 
-secured: "GSMrQjdkDkMSq1GL7nC4nUhkDhdb97Gg6hcD2cZelI3hIWibEzMhuSAyGbXTl9gErx9gIIt7XHZ0v3O+mzRaQdkrHlX8PiY6SBIRY+gpRqRV1tyrOgmSwnHhR3wVooBW/1BCbakg3gJaz4A3XUUIIw1WeITq8WsQZ/Y7Nq9m1sJEr8OXP41O3pgAWYPDNZQ+CXo1zcU5BKw0vZZPZi74q9xmGhAjzkTddWKYysdg/pr3qp+vK0ASq19KmG0QPW8CLZMN1xCoHO+erxs3fd9ow+T4xeFgWG6tSexl9hcc+OptQF++skFbx9XY7tdMaNFdtCIMe+DFQSLwJRq5geZbbKF2SvooIk21QBU8hEdK+/4=;QCxTQcFvvtlhxy2QG9dOfg=="
+secured: "iTy9xD6KYuL8I8aJ7R1n8IpVrecdi9yfzemc3PTstXNVfozrvc1XeJaENDacgxVQfzNnLDWkpwmp8fPEOeWir1X/DcVEeElbtQz4kN9IwumpODgJ8RTqg9+vUjRwcXznfF40l6hx1cSc7Jj44/hHHO2M73foY3gHQ8vxHPYd7ad8ogdSQG5ZkMvGKx6H5uk64q59Uzukvj7Ia455hx3wnwmAhAKmRrXBsOrRhu/7AeiP1XgQLDHMS5zBR+rotx9b1b8LgkMUCouom0/Ygd9/Yjr5Tyyl7yDkSw4xeGPeH7dPWnFXdqgtkNhqs7Vh8Erc8rwC7C1TOauZ97WgWfz0+HCLG1EeCF7U7kZWMI/v9C7+ARFtuoSrMghGK9TeMFnOeBKSaproDCSQb6rTVk27baVkLnrdWKq8/rmSet1y5P+FFGDXeaDhgCVsHO4lphbCMzVhafzoxXHiSO51a4i0M/XZoC2Cdwe6qSbVP5PWn1zzVUTYVMwcEYVp8ZksMBP+Gp0svvYt47kvp4oYKm/PFg==;n9FtYJfqViHzHx85KM9uGw=="
 ---
 

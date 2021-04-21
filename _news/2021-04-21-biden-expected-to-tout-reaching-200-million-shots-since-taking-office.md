@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
-excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
-publishedDateTime: 2021-04-08T17:02:34Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+title: "Biden expected to tout reaching 200 million shots since taking office"
+excerpt: "President Joe Biden is expected to tout the United States administering 200 million coronavirus vaccine shots since he took office in remarks on Wednesday, according to two administration officials.\n    \n"
+publishedDateTime: 2021-04-21T13:57:52Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ioxRq6NM1_o/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ioxRq6NM1_o/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
 type: article
-quality: 168
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
     width: 1100
     height: 619
     isCached: true
@@ -143,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden expected to tout reaching 200 million shots since taking office"
-    excerpt: "President Joe Biden is expected to tout the United States administering 200 million coronavirus vaccine shots since he took office in remarks on Wednesday, according to two administration officials.\n    \n"
-    publishedDateTime: 2021-04-21T13:57:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ioxRq6NM1_o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration unveils effort to strengthen cybersecurity of power grid"
     excerpt: "The Biden administration kicked off a 100-day effort on Tuesday to beef up cybersecurity in the nation's power grid, calling for industry leaders to install technologies that could thwart attacks on the electricity supply.\n    \n"
     publishedDateTime: 2021-04-20T15:50:34Z
@@ -204,6 +188,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
+    excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-04-08T17:02:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -492,6 +492,6 @@ related:
         height: 773
         isCached: true
 
-secured: "OJFopRpeMbowF6UX6G0Zek8oq1h9/yqIohz77AyIZqhNRtMQKLNpJ6dhZGxS8jrR3iHq7//m+11uXW/6JQjbKQaoGuUdQskI1mDJ8HLtUqHQCmFi5sOIsYdciLuEQB6h5D4rTKABe+JWs6rLYcUDhhjtTTwyXUTpcc9E36INe3RZvldwIVAdPrM3Jar+iwspKy/qbfgmispxaA4i2MQ2nG6kkk7Wo2wpu4U4hRjyWM7vWRPLXIAty6BmjDruxd2Yk7V9bowEpE0oWX3a3VVM8kydAnL8hM/gsYLfxKJjrrXsicQfQsoTxmGM9YEMw68dH8accH5FQXfcFnS0CvBXlgvFtfMGVBrM01xfdlbFLz4=;j6NMZy3K3LBCv5WJFbmdYg=="
+secured: "JE7wlWCZtxzL8gvcyu/fmVqpFy/YBq3GVxS2FZe9dhxRtwr0smf4AnEDQYKNHswc5ptx7WK1YI8YeZrPxvXku8UlAXMfUUIQoUHhgAmJPQoBBaY0IrrmXhs9U/TephuFSCOmEQuSIfuxnLEezirP7LqtqRnONkhGd2SfpebVgT3qOijsO3I7wAxGPnLGZ63N8lZ5ru9V7JZQyBtcp4cjhy0jcoeZIwBjXJvvqfFibW0XylPl6gViCAowdySzxkPug1pl4tD5h9iDH7uKGGxgRb1oZ3aogkSYwhNPygyBFPI/nuVK9E1BkfWECD47YJjeF4T1+eb3T73spMuQ2sNzNNnardCrLTct8H4Ak8dR+wU=;sfGu9BMRjgTSFyCHnLNWsQ=="
 ---
 

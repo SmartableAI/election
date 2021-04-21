@@ -3,25 +3,25 @@ category: news
 title: "Former Vice President Mike Pence recovering after receiving a pacemaker"
 excerpt: "The former vice president had experienced symptoms related to a slow heart rate and underwent surgery Wednesday to implant the pacemaker."
 publishedDateTime: 2021-04-15T19:10:00Z
-originalUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-webUrl: "https://www.khou.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+originalUrl: "https://www.firstcoastnews.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+webUrl: "https://www.firstcoastnews.com/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
+cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/mike-pence-surgery-to-install-pacemaker/507-aa0fca13-54e4-4db9-8066-6745fb754d54"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: First Coast News
+  domain: firstcoastnews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.khou.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
+  - url: "https://media.firstcoastnews.com/assets/CCT/images/046ee7ce-5b6b-443f-abdf-86cfc7c9c394/046ee7ce-5b6b-443f-abdf-86cfc7c9c394_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -164,6 +164,6 @@ related:
         height: 889
         isCached: true
 
-secured: "6gBKphgai+uW70VEdNnPum2jadh2s4B+Ub9TpGM/Qc+GCPLuYmDjwF8L/VM4AuPv4/R5a14NfKogXXIrqnEAKqHncZs6opWg+PdwWmdU3tMT9bvl/2YcCiNsbe3q6SGOYU+esg5mcreTJ5vtRXD6MDwz7tWISjlImLe5pD0w1DLCGx6kQgkgutgZYif7n62p4Ofl3LBnqYS/gblze6xLtF1NMk6LihBn6mifQFrxlAnSiWECzin6ksOdlNodHcPOnjOG4hOLLCXG5D/kpMQyNV9RC80PQ25aK9TBhATXvVOB4hOvzzBI28xGAoxy3oKIsfVI2sj8G4Tlkg83Vkeus/vyNxoX0o0l4dA2qA7hiqNL/f7VCUDGKkZ5o4BoVxuuuW85ZJ4y8kteWcXJyV0W8rD/RgQonw3lDHPqa4A8ofTfgaIYNWG5IxB1FyYfgvYZBvXBsP+CIHaUUF6EQDwzmyQUopy2+y9Q2eA5wXNi0HAXEZoAmyEr2gVn9bygxcmFQVg0LmXTVgvGPoMcjs+Aqg==;dgNhxMGBPRyZBd1/8U69/w=="
+secured: "UZ/iPCrgzm9F1hHUkdDcwhFBBiTrT+s/FFapVPSesav19HCqNJA/9OfiqYcpmrRCk/CwHfSnUym7cM3HYkxjrT/S6/nX8Osh5q+w/WqYmShqmk4pqDglzBSUwHNG1z+xafwMSUVQEOioz54WnXCoXRVhhs0QgDrI62cEB/o3CbV+Ya7+UDC0oBHdRfZ3CbIKutIemvFpXoYvtMoiblPp68Lp+3cdUBxC9wKLc+YINIDgduO3xtkNG3gTSmmXTKiqi+8w4eoqOf/IrVHQEWHxk+kRoF9lsPa9Ubd8AWSdg4zhXdE5wtQ+XVTxdaYECdxi1M9TF75B+cNAyw7CbzTpTaZkDZdKHH3wslLfcJuyK48=;jiKg8zlxZSAgZfCUU9cNWw=="
 ---
 

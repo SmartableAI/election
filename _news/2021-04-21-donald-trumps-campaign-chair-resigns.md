@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Fact Check-No evidence Donald Trump said he plays ‘very little golf’"
-excerpt: "Social media posts attributing a quotation about playing “very little golf” to former U.S. President Donald Trump are false. Reuters did not find any evidence of Trump ever saying this."
-publishedDateTime: 2021-04-19T16:15:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-trump-golf-idUSL1N2MC1Z4"
-webUrl: "https://www.reuters.com/article/factcheck-trump-golf-idUSL1N2MC1Z4"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
+title: "Donald Trump's campaign chair resigns"
+excerpt: "Donald Trump's campaign had yet another staffing change on Friday. Paul Manafort, Trump's campaign chair, handed in his resignation. Manafort's exit shakes up an already jittery campaign that is plummeting in the polls."
+publishedDateTime: 2021-04-21T03:29:00Z
+originalUrl: "https://www.cbsnews.com/video/donald-trumps-campaign-chair-resigns-1/"
+webUrl: "https://www.cbsnews.com/video/donald-trumps-campaign-chair-resigns-1/"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/21/e490e4cf-8f4c-409b-9d9b-9a9c3fef4ff1/thumbnail/1200x630/5c0587cfd0886d7c68da051d69776619/eve-manafort-trump-0819-1109632-640x360.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Donald Trump Says All the States That Voted for Him Had No Election Fraud"
@@ -239,6 +243,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fact Check-No evidence Donald Trump said he plays ‘very little golf’"
+    excerpt: "Social media posts attributing a quotation about playing “very little golf” to former U.S. President Donald Trump are false. Reuters did not find any evidence of Trump ever saying this."
+    publishedDateTime: 2021-04-19T16:15:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-golf-idUSL1N2MC1Z4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "German carmakers the focus of Trump's ire"
     excerpt: "Posted . Shares in German carmakers BMW, Daimler and Volkswagen have fallen after United States President-elect Donald Trump"
     publishedDateTime: 2021-04-19T05:00:00Z
@@ -252,20 +267,6 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/587d1ffee4b0b24306ef38d2-1484595198557?location=LANDSCAPE"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Donald Trump's campaign chair resigns"
-    excerpt: "Donald Trump's campaign had yet another staffing change on Friday. Paul Manafort, Trump's campaign chair, handed in his resignation. Manafort's exit shakes up an already jittery campaign that is plummeting in the polls."
-    publishedDateTime: 2021-04-21T03:29:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trumps-campaign-chair-resigns-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/21/e490e4cf-8f4c-409b-9d9b-9a9c3fef4ff1/thumbnail/1200x630/5c0587cfd0886d7c68da051d69776619/eve-manafort-trump-0819-1109632-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Ohio Republicans aim to rename state park after Donald Trump"
     excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
@@ -321,6 +322,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "jk93934aOeMaxntlgtBQFO+4gP+T0qB+ZOzSwB3gA5Qp9N4lWv24Bo0wTVvJGjCf0AYeDZMcYDnKi0sJJ1ThwaiODfNdZp1SZy9oOG/w4yNV3pWWLkqAfWX/phDkUSpVrwx8eA4q8IwgitWKHz5MyuNHrOOFRlpykuv7i6sxR7DdxrPBMAkZeSxYRNf8RUQ6BKsd3y/UCLzshxvlPvHaWeb19oQPJokKaYczQ7SZoWI9G7nm8uYqHCoWaiQyKmHhge2WwRZZZjU8P7rwJ67K1s4eKyC+4AMzeEAVrtKHX6QreoqtgwWPmObc24uHfLt2tDcDQDEeQiQaj0VHRfpzQClAHs5NRj7YZMWpwrxie3E=;aD/Dszq16aLanppZikSPrA=="
+secured: "dhyWGS7dwY+6ZT4flEKwED1rLStpUGoy+H/FeShmuyN8aRdCExTgHtN+Ctxp8Vd5m33YRijtNF+eajPWJUO6EdAHW1X+GJvOZlvg4i0TQBgudIPv8xLqOYzu2S0lS2laA0UAqo+lhXkOVNCXcsUnOiUyzI7OIAPEj8EwCNK2EflTT3KP8AUccSta3bSjZ4VSobHQEdQSG+LG3rxdU3ZMlQWzsYNOmldBVcAYoytTwAl4fpqQ3THgr01tSxpOb9zxSydLGTC/9u81QHiLgPOs2wvcDRLxlxszwde8AbZhHkDd8euFOf0OLD5VF6Ka4Kd88GeI3tArXHz26mMKIE7udREHwqdKv+YvK03D6STHoR4=;0F2bZQJEabkZ73oGS4ARvA=="
 ---
 
