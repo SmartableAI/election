@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden called George Floyd's brother as nation awaits verdict in Derek Chauvin trial"
-excerpt: "President Joe Biden called George Floyd's brother Philonise Floyd on Monday as his family and the nation await a verdict in the trial of former Minneapolis police Officer Derek Chauvin.\n    \n"
-publishedDateTime: 2021-04-20T12:49:33Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjDgnINtRRE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjDgnINtRRE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
+title: "Biden says verdict in Chauvin trial could be a step toward racial justice in America and urges country to come together"
+excerpt: "President Joe Biden said Tuesday the country could take a step toward racial justice after a jury found a former Minneapolis police officer guilty of murdering George Floyd in a case that was closely watched around the world.\n    \n"
+publishedDateTime: 2021-04-20T23:34:30Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oF-eYeJWgaA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oF-eYeJWgaA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/white-house-president-biden-derek-chauvin-trial-statement/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/white-house-president-biden-derek-chauvin-trial-statement/index.html"
 type: article
-quality: 169
-heat: 269
-published: true
+quality: 151
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420192115-04-biden-harris-chauvin-verdict-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Biden says verdict in Chauvin trial could be a step toward racial justice in America and urges country to come together"
-    excerpt: "President Joe Biden said Tuesday the country could take a step toward racial justice after a jury found a former Minneapolis police officer guilty of murdering George Floyd in a case that was closely watched around the world.\n    \n"
-    publishedDateTime: 2021-04-20T23:34:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oF-eYeJWgaA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/white-house-president-biden-derek-chauvin-trial-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/white-house-president-biden-derek-chauvin-trial-statement/index.html"
+  - title: "Biden called George Floyd's brother as nation awaits verdict in Derek Chauvin trial"
+    excerpt: "President Joe Biden called George Floyd's brother Philonise Floyd on Monday as his family and the nation await a verdict in the trial of former Minneapolis police Officer Derek Chauvin.\n    \n"
+    publishedDateTime: 2021-04-20T12:49:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjDgnINtRRE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 151
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420192115-04-biden-harris-chauvin-verdict-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -110,6 +110,6 @@ related:
         height: 550
         isCached: true
 
-secured: "Oy5HTp4i/ogYwqKOa5yuTexThz1cCitWEiwmNRD2JUvlLt3E3HLAhr5RBM7Q//OZizci4tC23dpFpERyqdMs2uWLFp/n5ZMM3tmWGJVb3RbgKbWG5c1+uPXnLCg4x5UdnScULDAYDp21ZMdZQigFtF7VcqwoZkleaajquuZibE1j+rHoPqI1kFQVykjiD+C0xvNdUHnJuZJjqtDiMYCp/eBddH60FdvMRgrEL4TkEqP+NmqV2GZpUkShVKKFqRVHQoZ0Xh2KkV2aREuWDH1vZY5eZGxOccdkpHmUYAFsWpWfhz1R/hZS3jxSZPI8TpeYAWkbW3hu62n6rKZAlYKV2WSDUTNd9TJS2WBcBrWCmsA=;psqO+BYCJgJnXKcQydSlcg=="
+secured: "mIhkUARRhVL7+e6cHhYfUBGNFWvuGmk+j4jpo8bRHIsY15YZdsXlx0CXusIS+ETFCcfDu2wNGQfIy44CApw7o3jB7woV1OCjNV0aRyMOIH2eYSkPlTQGaSUa4hhxfavBGloRCfkAf/W1v4yGEnRwriqkJZFlOYrrPvPx136JHxDA/vwdi1kZXwOmZxJlHHR6JbRUWhE/K1nxYg9Yzz+mIBMOM+Hh39c2yYW0zafCYxzGAI8t+YstQK+dv5jnWL0jKmc71kW0cRpKTSeSm+2w/cmN714+oXRcFF1RBU7xb8T8aqnat59TH/8DwQPX7mqfflwDNP0SnM3xEYST+NMnTufX4CwGRE9Z/SPNoiTj8zw=;p2psaBJl8eHlATCuEujRkg=="
 ---
 

@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
-excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
-publishedDateTime: 2021-04-20T14:07:00Z
-originalUrl: "https://www.heraldonline.com/news/state/north-carolina/article250804224.html"
-webUrl: "https://www.heraldonline.com/news/state/north-carolina/article250804224.html"
-ampWebUrl: "https://amp.heraldonline.com/news/state/north-carolina/article250804224.html"
-cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
+excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
+publishedDateTime: 2021-04-20T23:17:00Z
+originalUrl: "https://www.politifact.com/factchecks/2021/apr/20/facebook-posts/no-prime-minister-japan-didnt-hold-trump-2024-sign/"
+webUrl: "https://www.politifact.com/factchecks/2021/apr/20/facebook-posts/no-prime-minister-japan-didnt-hold-trump-2024-sign/"
 type: article
-quality: 68
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Herald SC
-  domain: heraldonline.com
+  name: Politifact
+  domain: politifact.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Kamala Harris Again Says She Has No Plans to Visit U.S.-Mexico Border"
@@ -265,6 +257,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
+    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
+    publishedDateTime: 2021-04-20T14:07:00Z
+    webUrl: "https://www.heraldonline.com/news/state/north-carolina/article250804224.html"
+    ampWebUrl: "https://amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+    type: article
+    provider:
+      name: The Herald SC
+      domain: heraldonline.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
     excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
     publishedDateTime: 2021-04-14T15:44:00Z
@@ -405,15 +413,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
-    excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
-    publishedDateTime: 2021-04-20T23:17:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/apr/20/facebook-posts/no-prime-minister-japan-didnt-hold-trump-2024-sign/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 44
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Charlotte Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
     publishedDateTime: 2021-04-19T15:33:00Z
@@ -433,6 +432,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "/dqMd1vkZSLZVWvtEc47WbrrtLvUo/Hr8/LgxSgxdPGtRXQN/3Z8Wn+zadraO8wM4cDqagopNGL/hQLP/2qrKURBBjCPxuAhQ311ebx0qkNcqBvF6R0c6NrcKTiZjtRTMhpT/uBe5yu3K4bYWugxfxHGhqRb4P5or8rBCFpiWarWDmseq+0UTaUsq4jmALjwGDPo8KujIYm09+rk6OHQMuPI1HsVjZbRFPXIw0A9/RCsNGEhhz0h3Ly7lHEerlhi9TTSJin9GfeU6AkCWmL78ntlvqk0mdOZUNLjDkoc+UzYygsCLZlprm4eqJ5dyqbfKlUWvZ+228T6RYq7Ey8935RAXyY7+v7br7q8V6/fT7o=;pOf50iWcRg9XsrEjXzX02Q=="
+secured: "dibazvo41SO9Sgw0LWddkcqEJ8C8/7gLAvONDhhsPcxgiqzM7aMnsC3Wftcc0mx5jSUpjZx+rCZ039+tjtYhLZ034HtBy4WIOPlSHXvrVJjZsTO9b6+Wa8RKffVoDy9STNim92MjSetTyX1gBVDDNQ4JTmkptUP49xkHEnIeOjLHcIcFDz2kCPaP7w3ebMkhKbvjrI8V0RD+ClqoQmEKDDIlO7YhYpKd2ibyElJCu7+KfqHI2a1VPwFqcxk6aYEUOmMvHRSWJ31q8wlXQKc3yPaGfSfLyQs9G332OAPaPNh82ty5F3kGhsgbJLIIIAnsV6yBXPL85NzPfJCE+9lLj1LXe7yWPujMYFqTDa2ml0o=;G2G/1x56penXZ/IBPNtWjA=="
 ---
 

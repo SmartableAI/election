@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden tells Floyd family 'now there's some justice' after Chauvin guilty verdict"
+    excerpt: "President Biden and Vice President Harris called the family of George Floyd after the jury delivered a guilty verdict against former Minneapolis police officer Derek Chauvin, saying \"now there's some justice,\" and vowing that his \"legacy\" will stay \"intact.\" "
+    publishedDateTime: 2021-04-20T22:19:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q4CFg8ZCHPg/biden-chauvin-guilty-verdict-reaction-george-floyd-family-call"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-chauvin-guilty-verdict-reaction-george-floyd-family-call.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chauvin-guilty-verdict-reaction-george-floyd-family-call.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "mofUaF7PO3dZS9shVmIz8p7rKHkJNffDm2k1pHB1Y26sczIG0xzpbjaQMPMxixDK4aFS8d0wVKIwsrbnq8Xhqi97+Kgdl2GwEy7RU4Dg9lcNgu92X1cn01jQHnn+HeFVo30FNBCXoAjpHAt5/385IYD01K7gCBXt3tRysibw1+vtOdnY6XeLBEUh5c/ORgYYlxqBOJB0hDsSt3+Avs7ZTi6+Ws285YjSnRIvN8i6LtIYq2CTafCbstdBK3UacIP0nHcbCsgyQULVe44Rdit823vUpr1WNwXsQ9FW5u80okavPVIq6k9cP6GgC6L4wvjkEA2JPhHv62Q8cISYf/aQxcTHmMqOBd7au1AnXPonyFk=;DFcN8z2cIWbCkYjfAz7Hew=="
 ---

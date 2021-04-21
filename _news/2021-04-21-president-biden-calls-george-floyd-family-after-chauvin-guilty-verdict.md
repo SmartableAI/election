@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Biden called George Floyd's brother as nation awaits verdict in Derek Chauvin trial"
-excerpt: "President Joe Biden called George Floyd's brother Philonise Floyd on Monday as his family and the nation await a verdict in the trial of former Minneapolis police Officer Derek Chauvin.\n    \n"
-publishedDateTime: 2021-04-20T12:49:33Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjDgnINtRRE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjDgnINtRRE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
+title: "President Biden calls George Floyd family after Chauvin guilty verdict"
+excerpt: "President Joe Biden and Vice President Kamala Harris spoke with the family of George Floyd after Derek Chauvin was found guilty, with Biden saying \"we're all so relieved.\""
+publishedDateTime: 2021-04-20T22:17:00Z
+originalUrl: "https://www.nbcnews.com/video/president-biden-calls-george-floyd-family-after-chauvin-guilty-verdict-110543941911"
+webUrl: "https://www.nbcnews.com/video/president-biden-calls-george-floyd-family-after-chauvin-guilty-verdict-110543941911"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110543941911"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110543941911"
 type: article
-quality: 169
-heat: 269
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/1618956629547_nbc_spec_biden_call_210420_1920x1080.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
+  - title: "Biden called George Floyd's brother as nation awaits verdict in Derek Chauvin trial"
+    excerpt: "President Joe Biden called George Floyd's brother Philonise Floyd on Monday as his family and the nation await a verdict in the trial of former Minneapolis police Officer Derek Chauvin.\n    \n"
+    publishedDateTime: 2021-04-20T12:49:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjDgnINtRRE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says verdict in Chauvin trial could be a step toward racial justice in America and urges country to come together"
     excerpt: "President Joe Biden said Tuesday the country could take a step toward racial justice after a jury found a former Minneapolis police officer guilty of murdering George Floyd in a case that was closely watched around the world.\n    \n"
     publishedDateTime: 2021-04-20T23:34:30Z
@@ -79,22 +96,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "President Biden calls George Floyd family after Chauvin guilty verdict"
-    excerpt: "President Joe Biden and Vice President Kamala Harris spoke with the family of George Floyd after Derek Chauvin was found guilty, with Biden saying \"we're all so relieved.\""
-    publishedDateTime: 2021-04-20T22:17:00Z
-    webUrl: "https://www.nbcnews.com/video/president-biden-calls-george-floyd-family-after-chauvin-guilty-verdict-110543941911"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110543941911"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110543941911"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/1618956629547_nbc_spec_biden_call_210420_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "‘Praying the Verdict Is the Right Verdict,’ Biden Tells Floyd Family"
     excerpt: "President Biden disclosed the details of a phone call he shared with the family of George Floyd, as the family awaits the verdict in the trial of Derek Chauvin, the former officer accused of killing Mr."
     publishedDateTime: 2021-04-20T20:28:00Z
@@ -110,6 +111,6 @@ related:
         height: 550
         isCached: true
 
-secured: "Oy5HTp4i/ogYwqKOa5yuTexThz1cCitWEiwmNRD2JUvlLt3E3HLAhr5RBM7Q//OZizci4tC23dpFpERyqdMs2uWLFp/n5ZMM3tmWGJVb3RbgKbWG5c1+uPXnLCg4x5UdnScULDAYDp21ZMdZQigFtF7VcqwoZkleaajquuZibE1j+rHoPqI1kFQVykjiD+C0xvNdUHnJuZJjqtDiMYCp/eBddH60FdvMRgrEL4TkEqP+NmqV2GZpUkShVKKFqRVHQoZ0Xh2KkV2aREuWDH1vZY5eZGxOccdkpHmUYAFsWpWfhz1R/hZS3jxSZPI8TpeYAWkbW3hu62n6rKZAlYKV2WSDUTNd9TJS2WBcBrWCmsA=;psqO+BYCJgJnXKcQydSlcg=="
+secured: "CgOLgdlqyoUvPKCCSblpbB9ZpMo7eCS069648oeXOXQa1Ls8PEI1e/jSy5VbdxzIL8WJQ+aE+x1YL2/CeRlpzdaM4fOpdPDzboj91d02n16OpLVBtEJhPvRQuySmrhepy6LGtR9JNTBHcXYrzfeE0wQ4f8DnwuDij14x7c9e5u7tum3ngIUXqmq5hMYV97A6HPkzxRJTUCV2ODc7bpFp/tPfu816CxA5ylM3rNHQyeIJ24i5F3M8z/d9V2OUWugXoJIYGsxuuXJ8YRp87mTkYyt+rZxEJN8c1XGSKbUMZP/rF2SAf6BokPSy6Mc9KPG8Pp3bZpvIvk52Cm6sTMtyFA6c3dwvOogcmd0KZ+D2KDc=;2/4WOY0gLuA5NW6jRA2JWw=="
 ---
 

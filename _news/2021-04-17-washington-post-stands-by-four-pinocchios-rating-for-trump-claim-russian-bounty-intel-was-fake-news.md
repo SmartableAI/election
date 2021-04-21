@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris: Guilty verdict in Chauvin trial would 'not heal the pain that existed for generations'"
+    excerpt: "Shortly before a jury convicted former Minneapolis police officer Derek Chauvin for the murder of George Floyd last May, Vice President Kamala Harris said even a guilty verdict would not “heal the pain” of systematic racism in the United States."
+    publishedDateTime: 2021-04-20T23:44:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h_io7p1ELss/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11c7e75-2e58-43af-b8ac-597cdeae3f0d/2eb6b5c1-88b1-4e64-bc2c-e99cde677daf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden used Russian bounty story against Trump in 2020 campaign"
     excerpt: "Then-presidential candidate Joe Biden, along with other Democrats, accused former President Trump during the 2020 campaign of having a soft spot for President Vladimir Putin following a New York Times report last year that Russia placed bounties on the heads of American soldiers."
     publishedDateTime: 2021-04-16T17:46:00Z

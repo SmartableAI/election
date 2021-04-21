@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
-    excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
-    publishedDateTime: 2021-04-17T15:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-climate-electricity-idCAKBN2C40DP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2C40DP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2C40DP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558873837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3G07K"
-        width: 817
-        height: 545
-        isCached: true
 
 secured: "7qkCiULjKC6kqhJXjj8VVfoJr+d4qt5SrVLlqGmaDOkQctm8NA5QGa5v6aTwYUclU8zRAqwKB3rh2uD/DG3a7VPTe44dirCVjxOXlOY0hPJZsqdTTAQROqBt11x/hIBt23LMUsBLN1KAnjvqhkA4K3tCY4BaqeZqlDw44/1AV0GlQmqxkTgeSo++2MhWeWhtJp2yooEg1k78akO+RTXcNcSINgGKQqit1LE0MDHoueE55hrM1u6R1ynPxtvrZ1iXoppRmB//UP9VeQmvqiGanGU/p6E+ntU9BcaLIKJ+Xumzusir02IGpIRw6UWJ1FFH1frt6F5IlDmTCKCu4qeuATyl/RsLtVsI8tNt1nVpNDE=;NESP78/dOEhjHTIN12MuvA=="
 ---

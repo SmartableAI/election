@@ -1,30 +1,34 @@
 ---
 category: news
-title: "Low-flying jets interrupt Harris and Psaki pressers, scare DC residents"
-excerpt: "Two F-22 Raptors flew over downtown DC shortly after 11 am to celebrate the opening of the National World War I Memorial — startling many people who weren’t aware of the plans."
-publishedDateTime: 2021-04-16T19:23:00Z
-originalUrl: "https://nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/"
-webUrl: "https://nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/"
-ampWebUrl: "https://nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/amp/"
+title: "Kamala Harris: Guilty verdict in Chauvin trial would 'not heal the pain that existed for generations'"
+excerpt: "Shortly before a jury convicted former Minneapolis police officer Derek Chauvin for the murder of George Floyd last May, Vice President Kamala Harris said even a guilty verdict would not “heal the pain” of systematic racism in the United States."
+publishedDateTime: 2021-04-20T23:44:34Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h_io7p1ELss/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h_io7p1ELss/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations.amp"
 type: article
-quality: 135
+quality: 170
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/harris-psaki-0078.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11c7e75-2e58-43af-b8ac-597cdeae3f0d/2eb6b5c1-88b1-4e64-bc2c-e99cde677daf/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -156,22 +160,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris: Guilty verdict in Chauvin trial would 'not heal the pain that existed for generations'"
-    excerpt: "Shortly before a jury convicted former Minneapolis police officer Derek Chauvin for the murder of George Floyd last May, Vice President Kamala Harris said even a guilty verdict would not “heal the pain” of systematic racism in the United States."
-    publishedDateTime: 2021-04-20T23:44:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h_io7p1ELss/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-guilty-verdict-chauvin-trial-would-not-heal-the-pain-that-existed-for-generations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11c7e75-2e58-43af-b8ac-597cdeae3f0d/2eb6b5c1-88b1-4e64-bc2c-e99cde677daf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden used Russian bounty story against Trump in 2020 campaign"
     excerpt: "Then-presidential candidate Joe Biden, along with other Democrats, accused former President Trump during the 2020 campaign of having a soft spot for President Vladimir Putin following a New York Times report last year that Russia placed bounties on the heads of American soldiers."
     publishedDateTime: 2021-04-16T17:46:00Z
@@ -217,6 +205,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-mark-brnovich-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Low-flying jets interrupt Harris and Psaki pressers, scare DC residents"
+    excerpt: "Two F-22 Raptors flew over downtown DC shortly after 11 am to celebrate the opening of the National World War I Memorial — startling many people who weren’t aware of the plans."
+    publishedDateTime: 2021-04-16T19:23:00Z
+    webUrl: "https://nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/"
+    ampWebUrl: "https://nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/16/low-flying-jets-interrupt-harris-and-psaki-scare-dc-residents/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/harris-psaki-0078.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -315,6 +319,6 @@ related:
         height: 500
         isCached: true
 
-secured: "WdI3kdbVqA4MfCGghopv/xGw90ZyEFTsJtcnVdXZvwg9OXb/N8shnIBujOTfQKO5DoVT7QWgLHlVV/SSchI9o56MvHVJANM7vZfaJeF9JC0NXhjZYzAJeHuXcmUwaAWdFzRZBztnloaNHxJ19WpV5TE9qYctsMPWlneACQaNTX/npesASzlzBfHkyn5YgRf/mSgpGewlOseXCwyFWEJ0dSSIPm4BIcNbPjpRcKJ4e+LEag0e9njJ6kH0eaSUi8N1E20B2y4tWN6mn5LkTiUf7b48tILMo15OIgD6dzvxQ1R55FkNKeuxiqwQdJ99O5CZAkwTNXg6sBgACvHuj7r94olv3FfYBnMzAJt1Q/Y0T3w=;4ju98/DQcHi+pSDgAWEOyg=="
+secured: "To5magYhL9fJi5muojXOawl7YNUDDFqhtT/v1DX7f/TzRfZnrzBbYqCOjoNu0DI0BS+YoU46oy5w/BAgNwpXDO8Nev828MuflKYzkhQ36tI0JNzyfwHgoDFEj8TdNR6wK4N5wIxfwKRALPTSwNSK7nKIm3grS0+Ejuc8uCzt1Gim+ASlBZZmvuctl8GsDSlSfTdz4V2gWWZFNbOD5aUT98quvv/DZHSDQ8tE+mdM+B9TtOqWCYeCp1Zfl8dDGS9RcqvvhQk8bHlcnIL5s5rbrhsUc6ze9DkterCPOB+eSMmrFlX+sObsPjCTmQHTeLhfrMgXVwIM3aVAFFfoYvM5qJWMcrd+S5sASUJb0Vmqry4=;Vqm6or4fU9JBSk8Pz5/vZA=="
 ---
 

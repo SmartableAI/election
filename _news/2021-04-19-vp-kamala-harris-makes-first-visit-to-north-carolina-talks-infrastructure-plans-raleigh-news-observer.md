@@ -2,9 +2,9 @@
 category: news
 title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
 excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
-publishedDateTime: 2021-04-19T15:41:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
+publishedDateTime: 2021-04-19T14:39:00Z
+originalUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
+webUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
 type: article
 quality: 17
 heat: -1
@@ -413,6 +413,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
+    excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
+    publishedDateTime: 2021-04-20T23:17:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/20/facebook-posts/no-prime-minister-japan-didnt-hold-trump-2024-sign/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 44
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Charlotte Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
     publishedDateTime: 2021-04-19T15:33:00Z
@@ -423,6 +432,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "Eem3WEnp7fYXURO1pEurXfQgjxLaBZMDHfzv41t6WgP9h8FWVPA5S0FPCOAVHFYeqrNtgw/sW+Py+Itt3TmGQ3e+vrP1Aw3oofXPBO2tmf04QMVwwt7kymIpIA1pzU1xi+7YDCZENwI6ZZf1Yee6lJk7u9+lNhs7HSoV6pZBCyZfzKuqwizvwUlRM/tS9Re2EYk96D8n8flhiwOqk1FTPzMhZ7aumbLGg2hGa2fAc5sAvduneoCZfZLfQbn3tyOhd/d5EEL0wWcFHQcfOvIBpaDtyttt/EwljF6pqRu+/SaxpZ6+kp8XVR3k6/dUVZPPTaV17fGXNFmjouHqSWPv76qhB2SnkAr0lH/DO2UI6TSKLyrEkcQ4lMA/uyE7cTFKZtA3pwl/it2rLIUBWUJu0tRlqYFm1DPVtjWrq2Ze7E06U+YDBq7jSEcMvlldWpssnUDHuMu+xvRhVeCqujlRSfU9t6/LkuXAgMeAY3GJ21rI+MyXaux8DLopmK8k5XH29JP+FTmXgmtR064j+uieQA==;uY7ZGmp7JKpJB/h0Ia4Ifw=="
+secured: "iaPAmMDkwPXGElRrF2XHIF/Fbcyw6MRxS/7aeNChgYO7LUsH3pdPRoFQ0Gc1hNREqKvQJofQhEQly8CM3eoyAx1bskJ1WTyLGDYEf/CfSbthvcItVNF/zM/zQNJ+D4HrhN4eGYSURSydO4LVNWB/6gU3YLy6KRPgchcvWLb0uwJ0YFIDroa1/Pjp8484xSHnQ641Q9W6SgZWQW47tr1hnGCwQHgY1fehAgmd43bZF/AGdl1WuxXJmG4iVfD0Ue7ihsc2R4kMUsm0bSa/prAoqpxIanOfg9gIWDnDC8zCcB2GhHcBeN5gXxqRiwB6iOt7jVzORSiI5726xyVSkpox6LcvNz/d0cZU7abdr7UPpyWK7H4qjI7gN99h78dyKk/SF4f2DT0E/ZjP6FAoG50AdIBhZ9N9n3Da+RFsVnrIcI+8Np3jtbAsPlT84H/tNsjB6DNPM6gD6JOWsQttvCQThPyklcQC5a6Xbbt5LtQbNYBB6AqoU3Q7+vgvAl4e6jWOgxJAYa7WB97NiCHVDGTIrg==;34bhPiqiCqFSWxTIoDlDgQ=="
 ---
 

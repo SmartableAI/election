@@ -4,13 +4,13 @@
     {
       "path": "_news/2021-04-21-ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030.md",
       "title": "AP sources: Biden to pledge halving greenhouse gases by 2030",
-      "excerpt": "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes as a virtual climate summit Thursday with 40 world leaders",
+      "excerpt": "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196744",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196744",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196743",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196743",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T14:07:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196743",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77196743",
+      "publishedDateTime": "2021-04-20T16:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -1242,7 +1242,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {

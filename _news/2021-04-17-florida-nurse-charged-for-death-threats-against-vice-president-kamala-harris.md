@@ -405,6 +405,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
+    excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
+    publishedDateTime: 2021-04-20T23:17:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/20/facebook-posts/no-prime-minister-japan-didnt-hold-trump-2024-sign/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 44
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Charlotte Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
     publishedDateTime: 2021-04-19T15:33:00Z
@@ -416,8 +425,8 @@ related:
     quality: 31
   - title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
-    publishedDateTime: 2021-04-19T15:41:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
+    publishedDateTime: 2021-04-19T14:39:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
     type: article
     provider:
       name: Raleigh News & Observer
