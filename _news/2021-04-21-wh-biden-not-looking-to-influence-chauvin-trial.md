@@ -119,6 +119,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – as it happened"
+    excerpt: "A measure of justice isn’t the same as equal justice’ – follow all the latest news live"
+    publishedDateTime: 2021-04-21T01:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 87
   - title: "President Joe Biden ‘praying the verdict is the right verdict’ in Derek Chauvin trial"
     excerpt: "President Joe Biden said that he is “praying the verdict is the right verdict” in the trial of ex-Minneapolis Police Officer Derek Chauvin and that he believed the case to be “overwhelming.”"
     publishedDateTime: 2021-04-20T19:55:00Z

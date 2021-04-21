@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-mov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -162,6 +162,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
         width: 1024
         height: 731
+        isCached: true
+  - title: "Former President Donald Trump tells Fox News’ Sean Hannity that he’s ‘very seriously’ considering 2024 White House run"
+    excerpt: "Former President Donald Trump on Monday told conservative talk show host Sean Hannity that he’s “very seriously” considering another White House run in 2024, potentially depending on whether the Republican Party retakes control of the U."
+    publishedDateTime: 2021-04-20T20:45:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 51
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CAAWWC7GRHGBNXBDN66Z547QM.jpeg"
+        width: 2000
+        height: 1352
         isCached: true
 
 secured: "/yJ3YFTpOS+habjr0aEZ8tsPC2JanniSZUXb/0EOig0P/Z34ahQr6X9vwt8r6bn+eRdYKbGWS1rbtI4VL9xbwCv0a1C+FjoUE+cwjxcRDg/n1fvwYsCd+1UIo7kPyH/aGw/+RGk/Y45cJCF5YSGL1rZn8wJ6joeYvjk6G/HD+F0h/yeL7Fjp/jUvwo7z8yCAF+K4d+WhJHNj8/z04ErZ39Famu7PBCxxvjX72twXdnoMNn1NDEOT/DSXvKJnfcbGsQi66z+t17l16+OqdGV3veHCB9GuWowPg4cgYF66wEvO5vGxF94Ocm8KzcIk9lxaQSRtM5uQWI/SltWDSVqyZzO2QzY7hLFZJDooV6+UV+4=;1axqeZWkhjwgphfEzDhs4w=="

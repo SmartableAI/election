@@ -1,29 +1,29 @@
 ---
 category: news
-title: "GOP White House hopefuls move forward as Trump considers run"
-excerpt: "Less than three months after former President Donald Trump left the White House, the race to succeed him atop the Republican Party is already beginning. Trump's former secretary of state, Mike Pompeo,"
-publishedDateTime: 2021-04-20T13:39:00Z
-originalUrl: "https://www.chron.com/news/article/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
-webUrl: "https://www.chron.com/news/article/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
-ampWebUrl: "https://www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+title: "Former President Donald Trump tells Fox News’ Sean Hannity that he’s ‘very seriously’ considering 2024 White House run"
+excerpt: "Former President Donald Trump on Monday told conservative talk show host Sean Hannity that he’s “very seriously” considering another White House run in 2024, potentially depending on whether the Republican Party retakes control of the U."
+publishedDateTime: 2021-04-20T20:45:00Z
+originalUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html"
+webUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html"
+ampWebUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
 type: article
-quality: 75
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CAAWWC7GRHGBNXBDN66Z547QM.jpeg"
+    width: 2000
+    height: 1352
     isCached: true
 
 related:
@@ -145,6 +145,22 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "GOP White House hopefuls move forward as Trump considers run"
+    excerpt: "Less than three months after former President Donald Trump left the White House, the race to succeed him atop the Republican Party is already beginning. Trump's former secretary of state, Mike Pompeo,"
+    publishedDateTime: 2021-04-20T13:39:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump Issues Warning To GOP, Says Republicans Must Embrace His MAGA Agenda"
     excerpt: "Donald Trump reiterated Monday that his platform was the way forward for the GOP, and those that weren't on board would face consequences."
     publishedDateTime: 2021-04-19T21:19:00Z
@@ -159,23 +175,7 @@ related:
         width: 1024
         height: 731
         isCached: true
-  - title: "Former President Donald Trump tells Fox News’ Sean Hannity that he’s ‘very seriously’ considering 2024 White House run"
-    excerpt: "Former President Donald Trump on Monday told conservative talk show host Sean Hannity that he’s “very seriously” considering another White House run in 2024, potentially depending on whether the Republican Party retakes control of the U."
-    publishedDateTime: 2021-04-20T20:45:00Z
-    webUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 51
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CAAWWC7GRHGBNXBDN66Z547QM.jpeg"
-        width: 2000
-        height: 1352
-        isCached: true
 
-secured: "4T3Hjh9HlZIgQE0C3OSXjSE8khFoGTtExLOHpQcb4jwxt0otQmRWpz1XScylGa4GhXVHYCl+IOWQWe//g6itCvRlnLouBKgX5J/z2HQFEEHjSPbImUfwVGxjQ6kZR1T0Y9oPuxjJxd3rpQgGQ814PcUUnwRcuOge01tQEh4eyAFuKTnIjHNcXDKaA1Ciqjg/684+ebI2bcyci8Yi7e4ifBaXtcNpeeYjFUe64349iAYU8tEgmEj2hiTBL2xnTePMP2jO53xvkkh4WIbkqzUn1yQvmGnH40+n3aSkC1/F42j8ux3dtNmrgO8cxdAnlYZae7OKE+VYOfYjahicWAc7KQsjyBAbthzGuZZ1b+zQfq60w5QbgZ4nb7zB0HFcK58mXHpWsSD4QPq7TbS5UxsMQ9StZI4B4xbzPt+IrEp4k8YKZ39UwpNzoos6gE6im8sHTULH8KrM9ZueTmvLfAHI4NWiZwyTLX/5gopHj8yM3ls6kDi07WOcxi5A+GysTOHPyth8juWT3rrgFEVEYAqweQ==;h4HXGTwsKkx0W+OmvybRbA=="
+secured: "lidlcQ9F76tGlBR/Hmp4W715az/Xel6H9qv2Po/jWbSx0DheA2p0nARD5WCigSjyj9ews4zHiZHz7/U3K9AiQPFLWCV6cYOUjLosmKXi07WxymmNGzBzvc4U+fI079mYpOHfh7EfZQe9AqVJRqrSfBWB0xjmeJ3yF8aumgOqIDlb19mJ5AND2y5qOY2H4IAOezKodeXz6/BuljW7oRh77bzdyt4vVzsO7oArUpQobZeupp4rxzlK6Ayy3C4HBY9o0si/xCp1xLk7TiVTmKWlb8sHH5DVdzTpVZP1lxoUlakTZ8e0xF4VawPwXWGeOEt7zdZoWuhglDXOV/VecPuL3N5FotEnYiHre3bmfOL5fIA=;uXHTfgw6Ola5M2tqW2HZhQ=="
 ---
 

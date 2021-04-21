@@ -131,6 +131,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – as it happened"
+    excerpt: "A measure of justice isn’t the same as equal justice’ – follow all the latest news live"
+    publishedDateTime: 2021-04-21T01:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 87
 
 secured: "1hA0Dw2sagmsnKa60Hcstw1EMLBnmJnD/dlNeBzuz7Ze8tQHxM+60GxERnuRy+ghnMuCUUU1MNetpRYSxhf33W4EGeSY1/+cPftod+K8vCfaDtSOvouc1Dnu81hausCUS3aWm1QU0R1juYabzTTOSBKZFZ0tdhk9JlmQ1kHtf4UxsrIl6EyPyoKs8hlNxgRpHvOTjIfAvUfKzh/Aw/f6GBtNJsf2GYYCBXmOdQ4K9ayiyqNN2ARhqio5iyHttljTx9UvwHGnKNrJlFQ7lt8dsLzmOZaply2Ss3VmuEqgVfwYOdF9U0d1MHcV+/iZyr7mDh7RzUSrtf0MjeARFQ7D2hWkruYqmU6kpTimsVf3efc=;Krpg1gLj7fkz2eG+3G4HnA=="
 ---

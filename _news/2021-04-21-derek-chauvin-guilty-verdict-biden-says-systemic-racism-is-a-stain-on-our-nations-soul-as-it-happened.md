@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says of Chauvin trial: ‘I’m praying the verdict is the right verdict’ – live"
-excerpt: "Biden says ‘I think it’s overwhelming, in my view’ and says he is commenting on case knowing jury is sequestered – follow all the latest news live"
-publishedDateTime: 2021-04-20T15:49:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/washington-us-politics-live-derek-chauvin-trial?page=with:block-607efbd88f08505668d95d15"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/washington-us-politics-live-derek-chauvin-trial?page=with:block-607efbd88f08505668d95d15"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/20/washington-us-politics-live-derek-chauvin-trial"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/20/washington-us-politics-live-derek-chauvin-trial"
+title: "Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – as it happened"
+excerpt: "A measure of justice isn’t the same as equal justice’ – follow all the latest news live"
+publishedDateTime: 2021-04-21T01:50:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
 type: article
-quality: 119
+quality: 87
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://i.guim.co.uk/img/media/516f86b813ab476a921e7e19138a816604007a57/0_206_6192_3715/master/6192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e35761baec4a34df13c77edb4c3b3ef8"
-    width: 600
-    height: 360
-    isCached: true
 
 related:
   - title: "Biden says he's praying for \"the right verdict\" in Derek Chauvin trial"
@@ -46,6 +40,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/20/02f67882-5877-4833-bef4-2008a71ebe69/thumbnail/1200x630g1/5ea16b5335e3e2cbf97c6d10eb605058/gettyimages-1232419764.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden says of Chauvin trial: ‘I’m praying the verdict is the right verdict’ – live"
+    excerpt: "Biden says ‘I think it’s overwhelming, in my view’ and says he is commenting on case knowing jury is sequestered – follow all the latest news live"
+    publishedDateTime: 2021-04-20T15:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/washington-us-politics-live-derek-chauvin-trial?page=with:block-607efbd88f08505668d95d15"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/20/washington-us-politics-live-derek-chauvin-trial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/20/washington-us-politics-live-derek-chauvin-trial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/516f86b813ab476a921e7e19138a816604007a57/0_206_6192_3715/master/6192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e35761baec4a34df13c77edb4c3b3ef8"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden says of Chauvin trial: ‘I’m praying the verdict is the right verdict’ – live"
     excerpt: "Biden says ‘I think it’s overwhelming, in my view’ and says he is commenting on case knowing jury is sequestered – follow all the latest news live"
@@ -119,17 +129,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Derek Chauvin guilty verdict: Biden says ‘systemic racism is a stain on our nation’s soul’ – as it happened"
-    excerpt: "A measure of justice isn’t the same as equal justice’ – follow all the latest news live"
-    publishedDateTime: 2021-04-21T01:50:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/20/derek-chauvin-verdict-trial-jury-returns-george-floyd-death"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 87
   - title: "President Joe Biden ‘praying the verdict is the right verdict’ in Derek Chauvin trial"
     excerpt: "President Joe Biden said that he is “praying the verdict is the right verdict” in the trial of ex-Minneapolis Police Officer Derek Chauvin and that he believed the case to be “overwhelming.”"
     publishedDateTime: 2021-04-20T19:55:00Z
@@ -147,6 +146,6 @@ related:
         height: 800
         isCached: true
 
-secured: "qVEgGXYyOT3HarLohRP3il6lskiN8zvKaBGBbFDKjTq24+tvOBBA7HtRVpsEE5hckMP1oHvJklp7LwfK2Kki8CIKHzb3zyP9oJjCh1Z2p5tnm7zBOJ2Yz8N37OLgvaqFJGe0T0b64Op0AHPtQVbVlIUcNQBOyjE0S7feZ1xvrXG3jH7cZ95kV8zvbXxQ/Yu6NOL1bYspJTOoUooP1S5ThWFFGFE4tBzbUckRUr+Y7HCUgB0f+Sp13O3Im+ntufyUsCjQ9BDXqk8J/syAE5e5YqPCwkryWSPq4NBtNKy8/tva42LRFe470Evj1X0CRhDtuD6yzuZHr+veSYXdvWkl0lF/metf8n8A15n8CyZJixM=;v5l5W7aDz/8tz0e4kYEb6w=="
+secured: "l1iH5CHdjC0CcuCkR8R1XHaAXuml1oMtoTp2xL9sJk9lcGAfrxMaDZkb5BXCB5UOb4v4S+AVeGgCgnJBkLMtSZh41G4MXGMn6SG6LDySorG8mDC4vu4t8XMRebKceTg9dKJnRsnXxHAdhQUz2FP9cU1HinkKHNPeu2rlnmeTbPm2V5GLjYAC3i516gbQ69haZZZWAKrzajcpoj81WaMB3MuplLve9gAkDMexA+HaJIjg6LalQq6qfYLaAEKTLSjy26VcIV6Azvm83uF2urwkDwcwlG5ernqaZVYTkzrTcPYMV3p6RyN76hF313v/5KtDvHzoW96bhGCQ5ZsgYjkTKpQmxwachZBf/HaHQwnhoRN38ythn41Ndkel77d2UKkyktVXmJNxd2jzoBkITGprqI5J0OeMzv0sIIiv+QO3k/jxMNqHmUWuIsAqSmSAoZp9LCl1WnrS9RCrfq7yWK7iUme4pwLlH6yPwJxcj7/T1XgfV5lcqeqAwN0ATtEb2qCCJgr5RR8Q4BTgozlu7wG4Kg==;/WFSL5hgLdH5f69GDTHV4g=="
 ---
 

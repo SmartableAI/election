@@ -163,6 +163,22 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Former President Donald Trump tells Fox News’ Sean Hannity that he’s ‘very seriously’ considering 2024 White House run"
+    excerpt: "Former President Donald Trump on Monday told conservative talk show host Sean Hannity that he’s “very seriously” considering another White House run in 2024, potentially depending on whether the Republican Party retakes control of the U."
+    publishedDateTime: 2021-04-20T20:45:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 51
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CAAWWC7GRHGBNXBDN66Z547QM.jpeg"
+        width: 2000
+        height: 1352
+        isCached: true
 
 secured: "ecQ+UY8d4po2Fc+dFDQ7VT3ORNZMSwFwDo9zgzUH35x1LnUDyEwX/ZwPnXIVleYqAnkjoE9s68k+i3GIzxuHICMgvAAC5ORjOAiTePmWTEBG6HLUz0lFgrIGKC1pDAeG9FD7UCkl8GRbGHoQ84kDdlcMvG1rz/3EWQD71qfFfC2UiWhmILpA2kB4QbVZ0z1T4eTsNnlKh3kitY4iBF3xCCb288ESN9W0ycLflaOfZ+umkjlF4GvfThgfXikmBA4ogBCjuQWBf8/L+2Xq24O/kNM9RPqMEQ4lcBk4aVQHI5r3aMqY5jfBOnn5BKeZLJfzDyhtv/5sujl9yHM8gUCmtGthv+I7tos2YilwFVmJhmY8IJMv18w4ytClFeSu8fBZ6VtjDstCjjTaRsqkeuGaJJBcw/en85Jz8WihwfK/xZP08Mh+bPm/yK7d4GKuc7wMSw8eJ65r1Dwu8bOLLi9dtoXjMOWTIJn5sUDk3UBhiCNNHtMswDvzz5A3PypnEoFcUN1J2K0ER7c1BAsiYjf6sQ==;6yRfD0SrC7LQkBLBsIK3ug=="
 ---

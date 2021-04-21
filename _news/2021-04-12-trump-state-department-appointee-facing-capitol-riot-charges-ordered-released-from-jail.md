@@ -63,6 +63,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Florida agriculture officials ban citrus pesticide approved near end of Trump administration"
+    excerpt: "The department cited a U. S. Environmental Protection Agency legal response last week to a petition filed in a federal appeals court in March by environmental groups."
+    publishedDateTime: 2021-04-21T09:00:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/04/21/florida-agriculture-officials-ban-citrus-pesticide-approved-near-end-of-trump-administration-1376600"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 104
+    images:
+      - url: "https://static.politico.com/65/58/028399a8481791303c219c328dd7/210223-nikki-fried-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "S1YL8rr8PRLMz6qv4i20heTqDvrIrcJvZCzDyX1j28bwqY+L1RYLL+l/jrL9HhPPEHS2j14CXJjJohZG+KT8jbkCGm5HKpswDJUKa0nv79XklZGRi/eDcxqNZIAXgL7s1HcSO7P5Pacx5fWPItYOhNYrVl580+zS5AGdZP6NWLc5DaZwqW7PRfRWJwOWEPwSMbRB4DDvva8fbii4nanX/ViQdpaJLRKU5mUK69dRljH6ZKSv4RJ+7Ns5j78kR3R1iJClGNBrjQRvin50tNwyEkStqs5kk43CIRAxcjuTl6XlQmwfN8mVcx73EBEPlVLI4Zkgjs+kgpPOilYfQ6U1tnS0jVAdRdyH3ZQT3DzlDX4=;LODwbxLVKV4a4Sda3GRR/Q=="
 ---
