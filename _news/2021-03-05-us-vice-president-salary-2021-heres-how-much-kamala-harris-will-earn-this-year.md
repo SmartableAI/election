@@ -181,6 +181,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact Check-Kamala Harris is not campaigning to end veteran benefits"
+    excerpt: "Social media posts saying U.S. Vice President Kamala Harris has started a campaign “to end veteran benefits” have no basis in fact and likely originated from a satirical article."
+    publishedDateTime: 2021-04-22T14:25:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-kamala-veterans-idUSL1N2MF1WP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MF1WP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MF1WP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Essential Politics: Kamala Harris enters a supermarket — and a security bubble"
     excerpt: "A press event at a grocery store underscores the new reality of Vice President Kamala Harris' protective bubble."
     publishedDateTime: 2021-03-03T14:31:00Z

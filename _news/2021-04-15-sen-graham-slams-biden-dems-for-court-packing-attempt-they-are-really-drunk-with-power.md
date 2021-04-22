@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp"
 type: article
 quality: 165
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/10/18/694940094001_5850345304001_5850334093001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GOP senators say Dems trying to 'rig' SCOTUS through court-packing, ask Biden to rein in party's 'crazies'"
+    excerpt: "A group of Republican senators on Thursday spoke in front of the Supreme Court in opposition to court-packing, a response to legislation Democrats introduced at a press conference last week to do just that."
+    publishedDateTime: 2021-04-22T17:02:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_8KlBUzpB1w/gop-senators-dems-court-packing-biden-crazies-in-party"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-dems-court-packing-biden-crazies-in-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-dems-court-packing-biden-crazies-in-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "sK86sVpI9DWGA0osQR416643PwIjXLqSCvAbbdLnyw31M+PiLCtQYcKscBe0lI5TP+vvqssJr+aavHiBlfG/GEcO5avbzjiGrQtalHpCDkrUp0750DEYQ35gJHSgfD2Uwiz1KptJe8Q1Tra1eSgk8GyuLcnHsxnbQpbdCF+0ZqW61u6tRawIoW8Tno6lAq4kHByhlmmNUk75wW9BcQbnaiaTl32bjP0vktm2Mg9ZfGcWAciNMWsGgBG4a0C7ueY5gJlKbAYwYVgI+hStXsH1dRHomP7uWN/i5EnU4bBVDJYNbA7ohLlO6ey/yFvjvMNpfH2Y5jxUYj36hOjXkLT/qqoq0VqwmvRZwXpzooYgeDk=;9/HtQjashsnOJlxBjfnpiA=="

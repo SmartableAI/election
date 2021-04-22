@@ -2,6 +2,226 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-02-20-trump-repeats-election-claims-in-interviews-is-unchallenged.md",
+      "title": "Trump repeats election claims in interviews, is unchallenged",
+      "excerpt": "Former President Donald Trump repeated false claims that the election was stolen from him 10 times during interviews this week on Fox News Channel, Newsmax and One America News Networks",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_797a515557004f9aae322fd80b74b431_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "publishedDateTime": "2021-02-19T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-america-is-back-biden-affirms-transatlantic-relationships.md",
+      "title": "'America is back': Biden affirms transatlantic relationships",
+      "excerpt": "Seeking a sharp break from the \"America First\" policies of his predecessor, President Joe Biden reaffirmed the US position of global leadership, the power of its alliances and the resilience of democracy in the United States and abroad.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gg7q5XJUHi8/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gg7q5XJUHi8/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210219122934-01-biden-munich-security-conference-0219-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn",
+      "publishedDateTime": "2021-02-19T10:14:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-biden-says-he-is-planning-on-visiting-texas-amid-weather-crisis.md",
+      "title": "Biden says he is planning on visiting Texas amid weather crisis",
+      "excerpt": "President Biden on Friday said he is planning to visit Texas as the state grapples with a weather crisis that has left hundreds of thousands of residents without power, prompting him to declare an emergency declaration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYVbyvXJ2KQ/biden-planning-on-visiting-texas-weather-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp",
+      "publishedDateTime": "2021-02-19T09:51:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-mark-morgan-blasts-bidens-new-guidelines-on-ice-arrests-defies-law-and-order-common-sense.md",
+      "title": "Mark Morgan blasts Biden's new guidelines on ICE arrests: 'Defies law and order, common sense'",
+      "excerpt": "The Biden administration's immigration reform \"defies law and order and common sense,\" former acting DHS Secretary Mark Morgan said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
+      "publishedDateTime": "2021-02-19T09:46:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-trump-hotel-employees-say-they-had-to-pretend-to-support-the-president-inside-i-was-dying.md",
       "title": "Trump hotel employees say they had to pretend to support the president: 'Inside I was dying'",
       "excerpt": "For employees at the Trump International Hotel who weren't Donald Trump supporters, pretending to be one was an unwritten rule of the job.",
@@ -1129,222 +1349,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.md",
-      "title": "Teachers should be prioritized for coronavirus vaccine: VP Kamala Harris",
-      "excerpt": "Today show host Savannah Guthrie talked to Vice President Kamala Harris about reopening schools and prioritizing teachers to get the coronavirus vaccine, in spite of the fact the CDC said is wasn't necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106841889-16136076081613607604-14206248673-1080pnbcnews.jpg?v=1613607608",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-top-biden-economic-aide-deese-had-leading-role-at-blackrock-termed-the-largest-investor-in-deforestation.md",
-      "title": "Top Biden economic aide Deese had leading role at BlackRock, termed the ‘largest investor in deforestation’",
-      "excerpt": "President Biden’s top economic advisor Brian Deese has promised to give environmentalism a front-and-center focus in his agenda to spur job growth, but Deese’s record with BlackRock drew bitter outcries from environmentalists. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_O3TpkOUKXM/bidens-economic-advise-climate-crisis-blackrock-deforestation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_O3TpkOUKXM/bidens-economic-advise-climate-crisis-blackrock-deforestation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-economic-advise-climate-crisis-blackrock-deforestation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-economic-advise-climate-crisis-blackrock-deforestation.amp",
-      "publishedDateTime": "2021-02-17T17:55:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-gop-sen-hagerty-presses-biden-on-remain-in-mexico-rollback-warns-it-will-endanger-communities.md",
-      "title": "GOP Sen. Hagerty presses Biden on ‘Remain in Mexico’ rollback, warns it will ‘endanger’ communities",
-      "excerpt": "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden over his administration’s rollback of the Migrant Protection Protocols (MPP), warning that it could lead to tens of thousands of migrants flowing into the country and endanger U.S. communities.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rweg1Gs0HbQ/hagerty-biden-remain-in-mexico-rollback",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rweg1Gs0HbQ/hagerty-biden-remain-in-mexico-rollback",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T17:37:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-rush-limbaugh-created-the-politics-that-trump-used-to-win-the-white-house.md",
-      "title": "Rush Limbaugh created the politics that Trump used to win the White House",
-      "excerpt": "The first time I remember hearing Rush Limbaugh’s radio show, I was in high school. It was 1991, and I was in the district office of then-Rep. Jim Traficant (D-Ohio), for whom I’d earned the dubious honor of interning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USUFFNDRJAI6XBSRNUYJD2WGH4.jpg&w=1440",
-          "width": 1440,
-          "height": 991,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp",
-      "publishedDateTime": "2021-02-17T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

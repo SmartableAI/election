@@ -2,13 +2,13 @@
 category: news
 title: "VP Kamala Harris sets virtual meeting with Guatemala president next week regarding migrant crisis"
 excerpt: "Vice President Kamala Harris plans to meet virtually next Monday with Guatemala’s President Alejandro Giammattei regarding the migrant crisis at the U.S.-Mexico border."
-publishedDateTime: 2021-04-22T04:05:05Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8L9coa8Cqs/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8L9coa8Cqs/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
+publishedDateTime: 2021-04-22T04:05:00Z
+originalUrl: "https://www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
+webUrl: "https://www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
 ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
 type: article
-quality: 172
+quality: 122
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
@@ -256,6 +256,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris says migrants need ‘sense of hope that help is on the way’"
+    excerpt: "Vice President Kamala Harris on Thursday said that Central Americans need “a sense of hope that help is on the way” to deter migration to the overwhelmed US-Mexico border. Harris was"
+    publishedDateTime: 2021-04-22T17:29:00Z
+    webUrl: "https://nypost.com/2021/04/22/vp-harris-migrants-need-sense-of-hope-that-help-is-on-the-way/"
+    ampWebUrl: "https://nypost.com/2021/04/22/vp-harris-migrants-need-sense-of-hope-that-help-is-on-the-way/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/22/vp-harris-migrants-need-sense-of-hope-that-help-is-on-the-way/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-003-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris to travel to Mexico and Guatemala amid ongoing migrant crisis"
     excerpt: "Vice President Kamala Harris will travel to Mexico and Guatemala amid the ongoing migrant crisis on the southern border, but has no plans to visit the states affected by the havoc, she revealed."
     publishedDateTime: 2021-04-14T15:09:00Z
@@ -397,6 +413,6 @@ related:
         height: 648
         isCached: true
 
-secured: "hvXZ2YokW/yNwF5rfvEEki3Sz+EyqbXGmgJkzFsEPUEUQniRJJTgmEqgqTBjy7imKuUjjbxDCDjYDdiOX+vOsHeB+nn6pnnor/78kMDNIyJ+jvJT94R5xHp4j+jjFOvTEPMLnOlmbrK0VOYX9XFMDoya4pt96mZNYlAcmQFZ5pb0iPgApdS5f6VB5AdJb4FnGLX/buwwaOhuzLrAallKSJklJtC0pkZtMNa0l5/LaoGDHF2OI0yTNtAYvVwIM1r9WkHKkJgTPSKkhdDiQEA+fC9Ngh7c7wceE5Qo9El97rElwB15Sosr8yS7JM8D0MxnNxGiUWXPCkFV+mDQEYnZVmrXjy7zD9dJmBEy/yqtbDQ=;fv6PILRWrnDNkuqv8OWv3Q=="
+secured: "M0UT9M/lfuDMy+8SN98uq3TZzMXMOJ9cXBe1A5iwv53+CwU3MEN9ikdFeisRu6Pyr5m5Ncji6trGCxebqJWGc7TziRvC03xNjEd/TdRRMhU32EM3TnSVgKmaFsoWCMG+4nibqrvwCvqze8ona/ypIncQoiUEH69/tybD0Q7cjP3ze/X4HcVDqGKx61x44Fe6tOVdkQlMvtkJPZ066zB3LmvVGoIUwgcYSCpyymEgt1WL3kJGicq/o4HRD9ARtk0MdEykqtzdwLrMMNhaJZ1i4rvRrzqawk501gjklpxvhFz2ouUoev/2pJ4eTo2NrO2TxNVTHda9KSXLfTJe07L3KhkiINjlwNBhWQttjWSvoCI=;1+MclgvC9+3AmmgnGhpCvA=="
 ---
 

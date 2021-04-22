@@ -93,6 +93,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former Trump administration official mulling GOP challenge against Cheney"
+    excerpt: "Perry Pendley, who served as acting director of the Bureau of Land Management during the Trump administration, is expected on Thursday evening to give a speech in his home state of Wyoming where he'll strongly hint at launching a Republican primary challenge against embattled Rep. Liz Cheney."
+    publishedDateTime: 2021-04-22T16:46:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jp3ApLgn95w/former-trump-administration-official-liz-cheney-primary-challenge"
+    ampWebUrl: "https://www.foxnews.com/politics/former-trump-administration-official-liz-cheney-primary-challenge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-administration-official-liz-cheney-primary-challenge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC says Republicans only care about Trump 'mob' when it's coming for them"
     excerpt: "Rep. Alexandria Ocasio-Cortez on Thursday accused Republicans of neglecting what she characterizes as threats incited by President Trump unless they become the target."
     publishedDateTime: 2021-01-14T23:52:17Z

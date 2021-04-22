@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Florida AG Moody demands Biden make Supreme Court commission meetings public"
-    excerpt: "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms."
-    publishedDateTime: 2021-04-22T02:07:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
+  - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
+    excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
+    publishedDateTime: 2021-04-22T17:31:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPg22cdJoYU/cruz-biden-texas-levee-that-protects-border-towns"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-texas-levee-that-protects-border-towns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-texas-levee-that-protects-border-towns.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c2a13b-83af-4d3f-9d1f-6b9fdb7bfc9c/1903328b-8ba5-4353-a238-68996472ba7c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74ec3c25-855b-4b5e-99c7-b1e87498fa09/c0f1ad92-5924-44c0-a2e4-dac4bc55482a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

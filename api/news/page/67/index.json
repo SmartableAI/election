@@ -2,6 +2,218 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-01-07-tom-cotton-says-pro-trump-capitol-protesters-were-insurrectionists.md",
+      "title": "Tom Cotton says pro-Trump Capitol protesters were 'insurrectionists'",
+      "excerpt": "Sen. Cotton said that the riots Wednesday were \"no different\" than the chaos that unfolded last year over police brutality.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C4oD20OZHeI/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/C4oD20OZHeI/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-dc-trump-rioters-capitol-hill-insurrectionists.amp",
+      "publishedDateTime": "2021-01-07T08:39:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-biden-to-nominate-judge-merrick-garland-for-attorney-general.md",
+      "title": "Biden to nominate Judge Merrick Garland for attorney general",
+      "excerpt": "President-elect Joe Biden will nominate federal appeals court Judge Merrick Garland to be U.S. attorney general, Biden's transition office said in a statement on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546953058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060RY",
+          "width": 765,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29C1FY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C1FY",
+      "publishedDateTime": "2021-01-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-trump-pledges-orderly-transition-after-congress-affirms-biden-win.md",
+      "title": "Trump pledges \"orderly transition\" after Congress affirms Biden win",
+      "excerpt": "President didn't concede but his statement was as close as he's come to conceding an election he falsely insists was stolen,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 660,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/25/4ae36525-7e22-474c-8329-5a6dc8ef6f10/thumbnail/1200x630/a76ed4b9ca5e55c18da62ee84bf08078/trump-reid-615985-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "publishedDateTime": "2021-01-07T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-us-house-rejects-attempt-to-overturn-biden-victory-in-arizona.md",
+      "title": "U.S. House rejects attempt to overturn Biden victory in Arizona",
+      "excerpt": "The U.S. House of Representatives on Wednesday night joined the Senate in rejecting a move by allies of President Donald Trump to overturn Democrat Joe Biden's victory in Arizona, a vote delayed by rioters earlier pushing their way into the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
+      "originalUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 785,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546906712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AF",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29C0H3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0H3",
+      "publishedDateTime": "2021-01-06T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-trump-supporters-storm-capitol-during-electoral-college-count.md",
       "title": "Trump supporters storm Capitol during electoral college count",
       "excerpt": "Violent protesters loyal to President Donald Trump stormed the U.S. Capitol on Wednesday and forced lawmakers into hiding, in a stunning attempt to overturn America’s presidential election, undercut the nation’s democracy and keep Democrat Joe Biden from replacing Trump in the White House.",

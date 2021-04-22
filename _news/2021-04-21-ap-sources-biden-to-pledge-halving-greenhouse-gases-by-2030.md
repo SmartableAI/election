@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledg
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/06/USAT/fa33ba7c-c6c9-4f0e-b205-413e952eb5a5-AP_Biden_1.jpg?auto=webp&crop=4281,2409,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'Existential crisis of our time': Joe Biden pledges to halve US emissions by 2030 – video"
+    excerpt: "The goal, unveiled at the start of a two-day climate summit hosted by President Joe Biden, comes as the United States seeks to reclaim global leadership in the fight against global warming after former president Donald Trump withdrew the country from international efforts to cut emissions."
+    publishedDateTime: 2021-04-22T12:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/22/joe-biden-us-emissions-pledge-climate-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
+    images:
+      - url: "https://i.guim.co.uk/img/media/c08fbea90e2a5f93a98cb8b9c96ab96236eae02b/0_150_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b7c1c0ced33c0d8c62508ab5a7f77dc"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "zOuvIhkAZQrH2aJCEZW/Xd4cv9PxxHmqf3pgxmyxZJm5TZoh6zQvCOPax6+npkWMA6rboqe3FgFUCjH5Vm7Eh/FfmhiBGiyiAaqnkxLX5mgfHTDX3J8iHGOKuKq+lC1+TmE1NX0Q4d7o+ebd6XBWWGftRLZYWDUhJ3ZiIgVWt4CnHKt6lJl6ZNqY6DreAfhx6LevCR9CNgs2Onq3nWVRmSF5A5pKuOT7JcxmyKPNvBzPuM1MMxo6e4+2XYYGOWJLi+AQtMlAINkxKsdnGWfo/YILPrMjmuAl5+Imy8jK0nBhQSkVRmLdGf6Szm2puzxRMViFvDZraNIGu8oDcoykvvEzR5G5UOLog59IzFXiYw1ywU8vkWDnimekWypsz6FZNGvz+4tziPPxMcXdH04J95tQxmuWbMwJ8K0Utd2ghNVA9kA5dVOoXJGz5bU/d9Q8Tqq//mR1ManDlRitNOQxa2yb+zIzsROKPyt4+h5A1sd6tKg9uOJfCaFG6cAqsohD3yE1zYaZ1FhqsC1Ne0LD7w==;KBA2fXGJ1dDWHQQtJvB5kQ=="

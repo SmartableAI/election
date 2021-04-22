@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -314,6 +314,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Border-Agent-Split.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "NRA Ad Targets Sen. Joe Manchin: Reject President Biden's Gun Control Agenda"
+    excerpt: "The National Rifle Association (NRA) launched an ad campaign opposing President Biden on gun control seeking to \"Stop Biden's gun grab.\" In this West Virginia ad, the NRA says: \"President Biden’s political machine is setting its"
+    publishedDateTime: 2021-04-22T16:25:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 82
+    images:
+      - url: "https://assets.realclear.com/images/54/541245.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "Panetta's Assessment of Biden's First Days"
     excerpt: "Joe Biden is off to an auspicious start with passage of his $1.9 trillion COVID Relief bill, has made excellent appointments, and generally has struck the right tone. Now is when trouble is likely."

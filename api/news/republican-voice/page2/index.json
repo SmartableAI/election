@@ -2,6 +2,175 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-16-trump-national-security-advisor-commends-biden-administration-no-more-important-alliance-than-japan.md",
+      "title": "Trump National Security Advisor commends Biden Administration: 'No more important alliance' than Japan",
+      "excerpt": "Former National Security Advisor under President Trump, Robert O'Brien, discusses Biden's response to tension with China and Russia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 314,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp",
+      "publishedDateTime": "2021-04-16T13:45:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-senate-dems-call-on-biden-to-close-guantanamo-to-advance-universal-rights.md",
+      "title": "Senate Dems call on Biden to close Guantanamo to advance 'universal rights'",
+      "excerpt": "Sen. Majority Whip Dick Durbin, D-Ill., and Sen. Patrick Leahy, D-Vt., wrote a letter along with 22 other Democrats to President Biden asking him to shut down the military prison in Guantanamo Bay. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZFj3mzTXuo/senate-dems-biden-close-guantanamo",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZFj3mzTXuo/senate-dems-biden-close-guantanamo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Durbin.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-dems-biden-close-guantanamo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-dems-biden-close-guantanamo.amp",
+      "publishedDateTime": "2021-04-16T12:40:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-mcenany-liberal-media-ran-with-heinous-allegations-on-russian-bounties-to-hurt-trump.md",
+      "title": "McEnany: Liberal media ran with 'heinous' allegations on Russian bounties to hurt Trump",
+      "excerpt": "Former White House Press Secretary and co-host of 'Outnumbered' Kayleigh McEnany blasted reporters for putting forth a false narrative last year, after U.S. intelligence agencies began to backtrack on reports of Russian bounties being placed on U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump",
+      "originalUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c2fe82d-8748-49da-8649-c7d1e65a422c/9578fd0f-96b7-49f5-8bb7-281094431ef9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-russia-bounty-claims-egregious-trump.amp",
+      "publishedDateTime": "2021-04-16T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-tom-cotton-intel-on-russia-bounties-selectively-leaked-to-media-to-help-biden-campaign.md",
       "title": "Tom Cotton: Intel on Russia bounties 'selectively leaked' to media to help Biden campaign",
       "excerpt": "Sen. Tom Cotton, a Republican member of the Senate Judiciary Committee, told “The Faulkner Focus” Friday that Russia bounty intel “selectively leaked” information to the media to help the Biden campaign, after a senior Biden administration official said the intelligence community only had “low to moderate”",
@@ -70,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 681,
+      "heat": 701,
       "tags": null,
       "images": [
         {
@@ -297,7 +466,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1486,174 +1655,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp",
       "publishedDateTime": "2021-04-13T06:37:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.md",
-      "title": "Sen. Wicker on infrastructure meeting with Biden: We made good points but 'there is a lot of space between us'",
-      "excerpt": "Senator Roger Wicker (R-MS) joined Fox Business' 'Kudlow' on Monday following his Oval Office meeting with President Biden and says he and his Republican colleagues made 'good points' but noted there remains 'a lot of space between' the two parties",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
-      "publishedDateTime": "2021-04-12T15:31:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-bidens-dog-major-to-undergo-additional-training-to-help-adjust-to-white-house-life-after-biting-people.md",
-      "title": "Biden's dog Major to undergo 'additional training' to help adjust to White House life after biting people",
-      "excerpt": "The younger Biden family dog, Major, will undergo \"additional training\" as he tries to adjust to life in the White House, a  spokesperson told Fox News.   ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xenHxgrYuuQ/biden-dog-major-training-white-house-biting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xenHxgrYuuQ/biden-dog-major-training-white-house-biting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1232039308.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp",
-      "publishedDateTime": "2021-04-12T14:28:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-chris-christie-turns-into-biden-attack-dog-in-early-days-of-administration.md",
-      "title": "Chris Christie turns into Biden attack dog in early days of administration",
-      "excerpt": "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp",
-      "publishedDateTime": "2021-04-12T10:34:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

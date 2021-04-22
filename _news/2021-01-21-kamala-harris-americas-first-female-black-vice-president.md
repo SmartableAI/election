@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/news/2021/1/21/kamala-harris-americas-
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/1/21/kamala-harris-americas-first-woman-black-vice-president"
 type: article
 quality: 125
-heat: 885
+heat: 905
 published: true
 
 provider:
@@ -404,6 +404,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Harris meets with nonprofit leaders to discuss root causes of Central American migration"
+    excerpt: "Harris told foundation leaders that she hopes to correct the conditions that drive people out of Guatemala, El Salvador and Honduras, instead of just increasing security at the U.S. border with Mexico."
+    publishedDateTime: 2021-04-22T17:55:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/0zRXhTh6zBROJfz04unRbpmc7c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NPNRUXPX5ZGIXESRZSSCS4ZR5M.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris' husband Doug Emhoff puts her career first as second gentleman, breaking gender stereotypes"
     excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, quit his job as a lawyer to be second gentleman, breaking gender and race stereotypes."

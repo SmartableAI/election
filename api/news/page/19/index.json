@@ -2,6 +2,228 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-25-eric-trumps-wife-absolutely-considers-running-for-senate.md",
+      "title": "Eric Trump's Wife 'Absolutely' Considers Running For Senate",
+      "excerpt": "Lara Trump, who married Donald Trump's second son Eric in 2014, first hinted at plans to run for the North Carolina state Senate in an interview with Sean Hannity March 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732",
+      "originalUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/03/27/lara-trump.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trumps-wife-absolutely-considers-running-senate-3168732?amp=1",
+      "publishedDateTime": "2021-03-24T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-biden-thursday-press-conference-slated-for-115-pm-eastern-in-the-east-room.md",
+      "title": "Biden Thursday press conference slated for 1:15 pm Eastern in the East Room",
+      "excerpt": "President Biden will hold his first news conference as commander-in-chief Thursday at 1:15 p.m. EST in the East Room.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvZgD5yaY3c/biden-press-conference-slated-for-115-p-m-in-the-east-room",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvZgD5yaY3c/biden-press-conference-slated-for-115-p-m-in-the-east-room",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 313,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/548baca2-6495-4342-be7b-a3d92deb8ed5/a5205ecc-af6d-40ac-a48a-0bec1c62ae40/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-slated-for-115-p-m-in-the-east-room.amp",
+      "publishedDateTime": "2021-03-24T13:27:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-kamala-harris-to-hold-discussion-with-bill-clinton-on-empowering-women-and-girls-igniting-criticism.md",
+      "title": "Kamala Harris to hold discussion with Bill Clinton on 'empowering women and girls,' igniting criticism",
+      "excerpt": "Vice President Kamala Harris will hold a joint discussion on \"empowering women and girls\" with former President Bill Clinton, who has been accused of sexual misconduct by multiple women.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8F1KsWQqIM/kamala-harris-bill-clinton-empowering-women",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8F1KsWQqIM/kamala-harris-bill-clinton-empowering-women",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1423e728-8cc7-4e8e-8dbc-8ec58b90322d/93b24161-47b1-4ccd-aedd-a09363399bb7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-bill-clinton-empowering-women.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-bill-clinton-empowering-women.amp",
+      "publishedDateTime": "2021-03-24T10:06:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-duckworth-hirono-change-course-on-biden-nominees-after-assurances-on-aapi-representation.md",
+      "title": "Duckworth, Hirono change course on Biden nominees after assurances on AAPI representation",
+      "excerpt": "Sen. Tammy Duckworth, D-Ill., reversed course on vowing to object to President Joe Biden's nominees because of a lack of Asian American and Pacific Islander representation Tuesday evening after a spokesperson from her office said she had received ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/duckworth-won-t-vote-non-diversity-biden-nominees-over-lack-n1261865",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_12/3459014/210323-tammy-duckworth-jm-1637_366fa55d715e08f098a8783e0973abeb.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261865",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261865",
+      "publishedDateTime": "2021-03-24T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-bernie-sanders-doesnt-feel-comfortable-about-twitters-permanent-ban-against-trump-despite-him-being-a-pathological-liar.md",
       "title": "Bernie Sanders doesn't 'feel comfortable' about Twitter's permanent ban against Trump despite him being a 'pathological liar'",
       "excerpt": "Independent Sen. Bernie Sanders denounced former President Donald Trump in strong terms in an interview released Tuesday but said Twitter's permanent suspension of the former Republican president doesn't sit right with him.\n    \n",
@@ -1118,227 +1340,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-msnbcs-brian-williams-touts-ad-from-disgraced-lincoln-project-linking-trump-to-atlanta-spa-shootings.md",
-      "title": "MSNBC's Brian Williams touts ad from disgraced Lincoln Project linking Trump to Atlanta spa shootings",
-      "excerpt": "MSNBC anchor Brian Williams touted a new ad released by the disgraced Lincoln Project last week that tried to tie former President Donald Trump's rhetoric about the coronavirus to the March 16 Atlanta spa shootings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
-      "originalUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-williams-lincoln-project-ties-trump-atlanta-shootings.amp",
-      "publishedDateTime": "2021-03-22T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.md",
-      "title": "Biden HHS to turn San Diego Convention Center into migrant shelter",
-      "excerpt": "The Biden Administration is turning the San Diego Convention Center into a temporary shelter to support unaccompanied children seeking asylum in the United States.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/65SRXFq8Ly0/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/65SRXFq8Ly0/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-to-turn-san-diego-convention-center-into-migrant-shelter.amp",
-      "publishedDateTime": "2021-03-22T15:06:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-says-china-laughs-at-the-us-for-woke-politics.md",
-      "title": "Trump Says China Laughs At The US For 'Woke' Politics",
-      "excerpt": "The former president shared his thoughts and opinions on the Biden administration, as well as what he believes other countries think of the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
-      "originalUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg",
-          "width": 1024,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-china-laughs-us-woke-politics-3167134?amp=1",
-      "publishedDateTime": "2021-03-22T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-aoc-endorses-controversial-democrat-who-compared-voting-for-biden-to-eating-s.md",
-      "title": "AOC endorses controversial Democrat who compared voting for Biden to eating 's***'",
-      "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., endorsed controversial Democrat Nina Turner running for a vacant Ohio congressional seat who compared voting for President Joe Biden to eating feces. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9reokkCSEE/aoc-nina-turner-ohio-biden-eating-bowl",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0e9a35a-cdd7-493d-b0e0-8535c57de3fb/071070e4-ce62-44fe-9a99-32dadfc7bf59/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-nina-turner-ohio-biden-eating-bowl.amp",
-      "publishedDateTime": "2021-03-22T13:35:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

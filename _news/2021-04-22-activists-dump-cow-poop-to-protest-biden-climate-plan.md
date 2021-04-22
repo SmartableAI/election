@@ -447,6 +447,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "What Biden has done on climate change has activists applauding -- and waiting"
+    excerpt: "Biden has doubled down on climate change, hosting an international virtual summit with 40 world leaders this Earth Day."
+    publishedDateTime: 2021-04-22T16:54:00Z
+    webUrl: "https://abcnews.go.com/GMA/News/biden-climate-change-activists-applauding-waiting/story?id=77240848"
+    ampWebUrl: "https://goodmorningamerica.com/amp/news/story/biden-climate-change-activists-applauding-waiting-77240848"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/news/story/biden-climate-change-activists-applauding-waiting-77240848"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/GMA/biden2-gty-ml-210422_1619100244516_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Yoshihide Suga Affirms 'Tight Bond' Between U.S., Japan In Visit with Joe Biden"
     excerpt: "Japanese Prime Minister Yoshihide Suga praised a continuing \"bond\" between Japan and the United States during his first visit to Washington D.C. since President Joe Biden took office. Speaking to reporters before meeting with Biden at the White House,"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -601,6 +617,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republicans unveil $568 billion infrastructure package to counter Biden's $2.3 trillion plan"
+    excerpt: "U.S. Senate Republicans on Thursday proposed a $568 billion, five-year infrastructure package as a counter offer to President Joe Biden's sweeping $2.3 trillion plan, calling their measure a starting point for bipartisan negotiations."
+    publishedDateTime: 2021-04-22T17:31:00Z
+    webUrl: "https://www.businessinsider.com/republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
   - title: "Biden's pick for top U.S. civil rights lawyer, Kristen Clarke, faces fraught task"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden’s nominee to lead the Justice Department’s Civil Rights Division, Kristen Clarke, is poised to take on the role at a fraught time in American history. Clarke will face a Senate hearing this week as hate crimes ..."
     publishedDateTime: 2021-04-13T09:02:00Z
@@ -703,6 +730,6 @@ related:
         height: 683
         isCached: true
 
-secured: "NucQvbbSKO3sBAGRF8mM0xqehcStqwKlAtC2QUZAo6thNsOubR/SzQOYikPNbHApXkpT03mghogjhazSt0Ikrt2bziRPqlS+Od2ztKeqzcXybkYxD9v1xgEESaqv3zdULSID/Ia8U46tHhZRy5x66dW3k9c1pxBI/mYLD2ka0RegZJupQuccWZxXYim8RVXBr4iN84uHGNdHe1x754HWRktS3pHSNIg/R/UBe4BBDiD+T6V9odp2UQem3TG178sKgg6PkJoBF/1Lz+hUBj/hePIQ6TNh9aotNUxwHR/J0kmjkKAIKknK28PcrlLDNI9GnJVonkw93WKGhLjwaGooVF+qvjALHP/W0TD1h9JgxuE=;0kuzYcS+AaybsM1jNrdy2A=="
+secured: "Kfxo1se4FvDKE0iIw8vqY61E0gU2gKHW+DOPkkNUF3WQB0x+T9ZE6AYBxtB4T5tSakKHI5l7RozWgftU1xdBOuxkouGGuaYxDwMp9yn6s5Om3MYAgFhs4OT4VXnjVIzi6NrXaqIZ32g8CoTQJg5h8FEwv/JdC9QK1ad9M2LJFmLBg+Ndm0ao+U5Gp3EzNzZzwKtvUv59eM9gu1DJCb+6Ewb3D/WW2XpAf7mmf7G4L5DEjhL4ErHD8/Kj/Ke62Z4Jw0ovDtkzormHn+HfhWziYT2r9hUcx6gaCjbPXpxIEJSQNN7g+2huJU9WSF5wxxtyFSUAKSQaihWWex2euoQ1mOYeTG5ZGz13JpWYkiAv6aHTzMX7IImS/RdDTsOwCbv5PTOQYvjTu4TPOXWSMw6ZYk58FW4+/8DMoaxJ0WtCYvGTHKbDXNhIEmMevtfD6JoL9t9KwzLi2k7eDF61ONtIfa+0u682WOPsfoVcPOu0ykf/d5ZTaZ5orSQj4EU2ZVoAaE/SG6Y7q712zF6I5tsu9A==;pjvONFhFpUVGdA1aGSpuGg=="
 ---
 

@@ -223,6 +223,22 @@ related:
         width: 1024
         height: 728
         isCached: true
+  - title: "Senate Republicans unveil a $568 billion infrastructure package that would keep the Trump tax cuts"
+    excerpt: "The plan would set up user-fees to tax people rather than corporations. Democrats are likely to oppose it since it's a quarter of Biden's proposal."
+    publishedDateTime: 2021-04-22T16:08:00Z
+    webUrl: "https://www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/607889014206150018175bc2?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
     excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
     publishedDateTime: 2021-04-14T11:00:00Z
@@ -404,6 +420,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "TXxvsZuEMaIDlnKNjOn6pbK25CmvS8X7nU3Lfjmhs0u8Bx2EISt17DnPEGzlz6jIkPPiWxknOl0CBM0Qszi+8z6jJvW0Z8fcUnRqb4zX3O0BHaNJ4f9bznGLWPXxOKN6039ZBo6qcoZie7Lz7XaX5ZO5Px3PE6HHQSIjMElGttCsPcdMou57UpUz94Qs/qmRRRJczM1/ppbiSHYkhKlnWGgBpWBxnaeFVeEsi10abrf07Krgd/DsmNi/nzo/+hIgGI093h9OjJs4usfvJV3LvROsRiFgImBj1NYDyy5F5NCHfJpTOBWGnPOf8/WnUS46mVCrtK/S+LXS6wQNWKI+xgPlUI2E1IF04Lzz9sLyOk4=;UMzNgC+wXzcbWSM52lIBzw=="
+secured: "4AMPJ3mk+DDbop+esYQBVoDTEP6kQvox60HY5GnS6vEG+s2KmFtthJgP6KHAB4PPFbEOwKzKoF0pXm9a5RTDZ7zyWWswTUcrZ+cFmQ1OXv5dgIH+VfbO9L5YcQcXRoQ8utoMpScrRikq9hJoVYw6s5Q2hnBoiL39UmLvlQrQRQF5vuoEC4y210rQrG6xCAxEuUxQ+xV52JQV2uK42G1yflllY4Mqqr0T2MxwmqMCLW1ZtQ6aFhMPXBiSac6gIyLoccU+7igyXRFhjUVOCwILN87nTGlKOth7GYBtk6RqBi3EzO5F9ne5x9Dut7I6kIk8uuQyZ0weESWlCT6IrTe7RARYZ/QDShk7DyOpnb1EOUe0KuF/BZQYfsASDw4TvUHOtYcM2mFSWzxOqDUuJCtZW/HXvI5JfAYvD7bn9bt0dj3hZoS09Q6z7AfrNu+euIgOaow87T2bLhyIzovBI3dKHh572jK94FpC70Mt6725kQmeGdFc3AkFEZbZjnSHoPcd877gPyRDPYWXjbwdreeufA==;Ju4VqcRnQejmIQXcQiRm3Q=="
 ---
 

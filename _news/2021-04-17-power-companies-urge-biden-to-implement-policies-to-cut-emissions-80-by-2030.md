@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Existential crisis of our time': Joe Biden pledges to halve US emissions by 2030 – video"
+    excerpt: "The goal, unveiled at the start of a two-day climate summit hosted by President Joe Biden, comes as the United States seeks to reclaim global leadership in the fight against global warming after former president Donald Trump withdrew the country from international efforts to cut emissions."
+    publishedDateTime: 2021-04-22T12:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/22/joe-biden-us-emissions-pledge-climate-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
+    images:
+      - url: "https://i.guim.co.uk/img/media/c08fbea90e2a5f93a98cb8b9c96ab96236eae02b/0_150_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b7c1c0ced33c0d8c62508ab5a7f77dc"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9o7ELP09sOlMLwqDDB1ScBR4qVCUywzy2xnCgxrmfbUdHNE5SoOdyWeXlBom0d1EXGG3w+wf+78wS0umY+zxxjFrgrTthlh8JbssZkeg9Nxh1+uJhN8dVd9/qlvVj3VeeApbI0fa/LPwhKqoGkfhfltJrxsTnH6GNfFlCk/1F/vA7pYQMC6f2aQGstbAAV1fL/GmKh0BTvt8Juux23G/oGxGxLA/7DoGBfxpzBRusWTy1th/v8eoAIl1prNJ0JTGaXyLn6DExZVCxtKEREi4Xc0q9s9wT0+0doBeP9uzzU6xPpCO7JDfKW69iyCJlc+tFIz2xdRev2OpPAe5n9CMNvoV2GCtz6IiFWRgOjBrVE8=;kvOuPKnLTa5050pMvzLF5w=="
 ---

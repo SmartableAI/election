@@ -239,6 +239,22 @@ related:
         width: 1024
         height: 728
         isCached: true
+  - title: "Senate Republicans unveil a $568 billion infrastructure package that would keep the Trump tax cuts"
+    excerpt: "The plan would set up user-fees to tax people rather than corporations. Democrats are likely to oppose it since it's a quarter of Biden's proposal."
+    publishedDateTime: 2021-04-22T16:08:00Z
+    webUrl: "https://www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/607889014206150018175bc2?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
     excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
     publishedDateTime: 2021-04-14T16:49:00Z

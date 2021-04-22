@@ -179,6 +179,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact Check-Kamala Harris is not campaigning to end veteran benefits"
+    excerpt: "Social media posts saying U.S. Vice President Kamala Harris has started a campaign “to end veteran benefits” have no basis in fact and likely originated from a satirical article."
+    publishedDateTime: 2021-04-22T14:25:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-kamala-veterans-idUSL1N2MF1WP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MF1WP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MF1WP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "U.S. Vice President Kamala Harris is Keynote Speaker at NOBLE Annual Executive Symposium, March 8"
     excerpt: "NOBLE, an organization at the forefront of providing solutions to law enforcement issues and concerns, excitedly announces Vice President Kamala Harris as the keynote speaker for its 2021 William R. Bracey Winter CEO Symposium."
     publishedDateTime: 2021-03-03T07:02:00Z

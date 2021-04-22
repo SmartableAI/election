@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP senators say Dems trying to 'rig' SCOTUS through court-packing, ask Biden to rein in party's 'crazies'"
+    excerpt: "A group of Republican senators on Thursday spoke in front of the Supreme Court in opposition to court-packing, a response to legislation Democrats introduced at a press conference last week to do just that."
+    publishedDateTime: 2021-04-22T17:02:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_8KlBUzpB1w/gop-senators-dems-court-packing-biden-crazies-in-party"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-dems-court-packing-biden-crazies-in-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-dems-court-packing-biden-crazies-in-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "QJOsxT8WCgw/SOas07BUUY0h+RMQTKonQ37VIGuy/vnPiCCa044csdfekmklN6Kepl+8l8+2/SE5Wjv2PDM4F8FqbGrHKKiXqyMOWKapzpa/OrmTnjVCaHjWJX16NiT/aDv/+l75bdAwPdLgTKRDRPcus12E5E6rFN1/cPtnbV991TmRkTwwYkH+e/60ZfWS+5DTNklLozsn9wSCfd5lKg8Q8mRFfsoxtEmnHFnLE28huBFLg5D5DzfJqJf2sDNsLmraiHysfb3VEvVVqKtg6NbhXidyZfBaYt4mIGrHq9t2VQ4HoKhsNOGthh1m4VWxTPLNAxhpGYHWLdnTgrviol5pGC7E99/oMcrxlTO1yVw=;WPWCBLGPlecFWW/BcznanQ=="
 ---

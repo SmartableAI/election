@@ -95,7 +95,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Existential crisis of our time': Joe Biden pledges to halve US emissions by 2030 – video"
+    excerpt: "The goal, unveiled at the start of a two-day climate summit hosted by President Joe Biden, comes as the United States seeks to reclaim global leadership in the fight against global warming after former president Donald Trump withdrew the country from international efforts to cut emissions."
+    publishedDateTime: 2021-04-22T12:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/22/joe-biden-us-emissions-pledge-climate-summit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
+    images:
+      - url: "https://i.guim.co.uk/img/media/c08fbea90e2a5f93a98cb8b9c96ab96236eae02b/0_150_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b7c1c0ced33c0d8c62508ab5a7f77dc"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "VnNsjzzGxVI9rnF07+ZcpVIyP/qIC/DtwUA6dbJg2GDXYh+/4stOFH3e/UAPO8MY/6Q4NxvRrwgPgpz98kVK5pEeYcNKw1eKHEcfVB2nqJkPHsIf+0fAbiZbfz1BPsO9EOq56sccvvp2vm56XIKm/Ot3CQ8y9JfD9DC0iERsbUCM+96vo51esYRLlH2oykTX/Q8ZQ3y84g4TiSgMyzLbWanl3mmHSRj15xUK20bEeAcI3Nd2MogxKVbnIz6oEc4ND2x9goxuDWqKe/n4wmZ5N/XjS2ThU9rzfKJ+QojBL01uTsdCSSrSNa3NopLR3yc824ffFO+G3f5LSJOYT8G68lLwQwINduHw9Zof0hfeJ9E=;CJgxcx4W3cWaOE904/6Flg=="
+secured: "s5zEj/+c/y2aXnuhj4TEOPdPCZcjNh07KeBvKGMsCz9o/NkdF9mskVNt4wLgk6FTry+2TFmpc+QA59LIPwFSX2JnYy0ALO+JRbW//tfoXsV7y221h+NPnEMOAPkr6ucXbiOZuxg7RVBvLtqkKQL35yOkRI9xFXXiSkB3eix1/6JZRBLqBfci0D0eEIm7PBhDqIOB9dcAp1kSE+IDhDyRv8yZUh3Lm8XGpvAzrHqbWkwecTbXTZyiKAaHe3YFvQecHzlVT4J3nCpseH7IGkm1yXNwfY/L9gs3EA491P9Gqes6NSU/XxIHRoD6yMlqMXd/WHQwQY4Bo3cyvIOfrQxiOcO19ypOK14lvCaLU/hfF4CD89MmkWTaYi0Tz/KD+sOW11ScLY3GPrNjUG+P6BHacDcoSDUNIRSaBB1N8BJHDmqlXkY/d1H7Wm+kbO4zz28pPZPumvPrgFttSa+Pjd2MUYNjqOcbt8v7SenxGF5gAEs/w6qqgc2SaN7RpzQNmrI6jxQrFo4vOC8g6wKcyhb24w==;fBd2tzZCUN7r5t5k6V9bmQ=="
 ---
 

@@ -2,6 +2,224 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-17-vp-harris-dodges-question-about-migrant-children-i-havent-been-briefed-on-anything-today-about-it.md",
+      "title": "VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'",
+      "excerpt": "Harris' response comes as the Biden administration has refused to call the perilous border situation a crisis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075827674492.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-migrant-children-border.amp",
+      "publishedDateTime": "2021-03-16T17:54:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-biden-cuomo-should-resign-if-investigation-confirms-claims.md",
+      "title": "Biden: Cuomo should resign if investigation confirms claims",
+      "excerpt": "President Joe Biden says New York Gov. Andrew Cuomo should resign if the state attorney general’s investigation confirms the sexual harassment allegations against him",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-16T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-trump-credits-washington-post-for-correcting-georgia-election-report-im-very-happy-they-had-the-courage.md",
+      "title": "Trump credits Washington Post for correcting Georgia election report: I'm 'very happy' they 'had the courage'",
+      "excerpt": "Former President Trump gave credit to The Washington Post after it was forced to issue a major correction on a report about a phone call he had with and Georgia elections investigator Frances Watson.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trump-washington-post-correction-georgia",
+      "originalUrl": "https://www.foxnews.com/media/trump-washington-post-correction-georgia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d925ce6-0c35-409d-bc00-1b4ed3b7dac7/6dbbe175-d652-468f-944b-810e9ff95a7a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-washington-post-correction-georgia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-washington-post-correction-georgia.amp",
+      "publishedDateTime": "2021-03-16T17:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-biden-swings-by-pennsylvania-in-covid-relief-tour-and-promises-more-help.md",
+      "title": "Biden swings by Pennsylvania in Covid relief tour and promises ‘more help’",
+      "excerpt": "President stopped by unionized, Black-owned company to highlight how $1.9tn package will lift small businesses Last modified on Tue 16 Mar 2021 18.36 EDT Joe Biden stopped by a unionized, Black-owned flooring company in the battleground state of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cbbdd38aaa534703e2351104e4b147bc6657d5a7/0_85_3187_1912/master/3187.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6854b7cf8fc8ae24db44335aaedf3fe",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
+      "publishedDateTime": "2021-03-16T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-trump-to-be-interviewed-by-foxs-bartiromo.md",
       "title": "Trump to be interviewed by Fox's Bartiromo",
       "excerpt": "Former President Trump will appear on “Fox News Primetime” with host Maria Bartiromo on Wednesday night at 7 p.m., the former president’s office announced in a statement.",
@@ -1106,226 +1324,6 @@
       "ampWebUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
       "publishedDateTime": "2021-03-14T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-biden-says-cuomo-investigation-is-underway-and-we-should-see-what-it-brings-us.md",
-      "title": "Biden says Cuomo investigation is 'underway and we should see what it brings us'",
-      "excerpt": "President Joe Biden said Sunday he wants to see what comes of an investigation into allegations of sexual harassment against New York Gov. Andrew Cuomo when asked if the Democratic governor should resign.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_i6Eudk9ZDU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_i6Eudk9ZDU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311182531-01-joe-biden-0210-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/14/politics/joe-biden-andrew-cuomo/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/joe-biden-andrew-cuomo/index.html",
-      "publishedDateTime": "2021-03-14T19:04:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-trump-said-meghan-markle-is-no-good-following-bombshell-oprah-interview.md",
-      "title": "Trump said Meghan Markle is ‘no good’ following bombshell Oprah interview",
-      "excerpt": "Former President Donald Trump thought Meghan Markle was “no good” following her bombshell interview with Oprah Winfrey last week but felt publicly saying so would cause the sort of backlash experienced by British TV host Piers Morgan after he openly criticized the Duchess of Sussex, according to a former",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4_jrxN5hpQY/trump-meghan-markle-no-good-following-bombshell-oprah-interview",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4_jrxN5hpQY/trump-meghan-markle-no-good-following-bombshell-oprah-interview",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Trump-Markle.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-meghan-markle-no-good-following-bombshell-oprah-interview.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-meghan-markle-no-good-following-bombshell-oprah-interview.amp",
-      "publishedDateTime": "2021-03-14T15:21:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system.md",
-      "title": "Pelosi blames Donald Trump for ‘humanitarian challenge’ at border, inheritance of ‘broken system’",
-      "excerpt": "House Speaker Nancy Pelosi points fingers at former President Donald Trump for the current situation at the border on ABC News' \"This Week.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E_cHIboLc_Y/pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E_cHIboLc_Y/pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0aa8298d-286e-4223-940c-79aa5850d627/e55e808f-3039-4df5-978a-48237bd336f3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-blames-donald-trump-for-humanitarian-challenge-at-border-inheritance-of-broken-system.amp",
-      "publishedDateTime": "2021-03-14T13:47:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-geoff-duncan-criticizes-voting-restrictions-and-divisive-trump-rules-out-gop-senate-run.md",
-      "title": "Geoff Duncan Criticizes Voting Restrictions and 'Divisive' Trump, Rules Out GOP Senate Run",
-      "excerpt": "Georgia's Lt. Governor Geoff Duncan, a Republican, criticized GOP-led efforts in his state—and across the country—to restrict voting while also slamming former President Donald Trump's \"divisive\" politics. Earlier this month, Georgia's State House ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/geoff-duncan-criticizes-voting-restrictions-divisive-trump-rules-out-gop-senate-run-1576018",
-      "originalUrl": "https://www.newsweek.com/geoff-duncan-criticizes-voting-restrictions-divisive-trump-rules-out-gop-senate-run-1576018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1755663/geoff-duncan.png",
-          "width": 1439,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/geoff-duncan-criticizes-voting-restrictions-divisive-trump-rules-out-gop-senate-run-1576018?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/geoff-duncan-criticizes-voting-restrictions-divisive-trump-rules-out-gop-senate-run-1576018?amp=1",
-      "publishedDateTime": "2021-03-14T10:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

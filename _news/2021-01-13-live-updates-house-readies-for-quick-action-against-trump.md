@@ -225,6 +225,17 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What Liz Cheney has figured out about Donald Trump"
+    excerpt: "Wyoming Rep. Liz Cheney has planted a flag firmly against another Trump run in 2024, and while she may be lonely in that position in the GOP, the numbers seem to back her up. In this latest episode of The Point, CNN's Chris Cillizza explains why Cheney has taken such a big gamble to fight against Trump.\n"
+    publishedDateTime: 2021-04-22T14:29:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U7RZz8s_ypk/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
   - title: "McConnell Privately Backs Impeachment as House Moves to Charge Trump"
     excerpt: "The House was poised to formally call on Vice President Mike Pence to move to wrest power from the president, as Republican support built for impeaching him of inciting violence against the nation."
     publishedDateTime: 2021-01-13T02:40:00Z

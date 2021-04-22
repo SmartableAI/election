@@ -176,22 +176,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "VP Kamala Harris sets virtual meeting with Guatemala president next week regarding migrant crisis"
-    excerpt: "Vice President Kamala Harris plans to meet virtually next Monday with Guatemala’s President Alejandro Giammattei regarding the migrant crisis at the U.S.-Mexico border."
-    publishedDateTime: 2021-04-22T04:05:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8L9coa8Cqs/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris: Guilty verdict in Chauvin trial would 'not heal the pain that existed for generations'"
     excerpt: "Shortly before a jury convicted former Minneapolis police officer Derek Chauvin for the murder of George Floyd last May, Vice President Kamala Harris said even a guilty verdict would not “heal the pain” of systematic racism in the United States."
     publishedDateTime: 2021-04-20T23:44:34Z
@@ -272,6 +256,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris says migrants need ‘sense of hope that help is on the way’"
+    excerpt: "Vice President Kamala Harris on Thursday said that Central Americans need “a sense of hope that help is on the way” to deter migration to the overwhelmed US-Mexico border. Harris was"
+    publishedDateTime: 2021-04-22T17:29:00Z
+    webUrl: "https://nypost.com/2021/04/22/vp-harris-migrants-need-sense-of-hope-that-help-is-on-the-way/"
+    ampWebUrl: "https://nypost.com/2021/04/22/vp-harris-migrants-need-sense-of-hope-that-help-is-on-the-way/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/22/vp-harris-migrants-need-sense-of-hope-that-help-is-on-the-way/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-003-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris to travel to Mexico and Guatemala amid ongoing migrant crisis"
     excerpt: "Vice President Kamala Harris will travel to Mexico and Guatemala amid the ongoing migrant crisis on the southern border, but has no plans to visit the states affected by the havoc, she revealed."
     publishedDateTime: 2021-04-14T15:09:00Z
@@ -319,6 +319,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/harris-border-.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "VP Kamala Harris sets virtual meeting with Guatemala president next week regarding migrant crisis"
+    excerpt: "Vice President Kamala Harris plans to meet virtually next Monday with Guatemala’s President Alejandro Giammattei regarding the migrant crisis at the U.S.-Mexico border."
+    publishedDateTime: 2021-04-22T04:05:00Z
+    webUrl: "https://www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Washington Post stands by 'Four Pinocchios' rating for Trump claim Russian bounty intel was 'fake news'"
     excerpt: "The Washington Post is standing by a \"Four Pinocchios\" fact-check rating it gave then-President Donald Trump last year, even after U.S. intelligence backed away from reports that Russia placed bounties on the heads of American soldiers in Afghanistan."

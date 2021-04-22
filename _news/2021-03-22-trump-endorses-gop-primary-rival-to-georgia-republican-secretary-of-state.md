@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With Trump's backing, Walker freezes Senate GOP field in Georgia  "
+    excerpt: "Former President Donald Trump's backing of football great Herschel Walker to run for the Georgia Senate seat has been enough to effectively freeze the GOP field in place -- even though some Republicans privately worry the political neophyte might fizzle against Sen. Raphael Warnock in a high-stakes general"
+    publishedDateTime: 2021-04-22T16:50:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hnl9_MRoAQk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421194818-01-herschel-walker-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia Officials Reveal Third Trump Call Seeking to Influence Election Results"
     excerpt: "In a December call, President Trump told a Georgia elections investigator that the official would be a “national hero” for finding evidence of fraud."
     publishedDateTime: 2021-01-09T20:23:00Z

@@ -2,6 +2,175 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-26-corey-lewandowski-likely-to-lead-new-trump-political-action-committee.md",
+      "title": "Corey Lewandowski likely to lead new Trump political action committee",
+      "excerpt": "Former President Trump is starting up a new political action committee and is eyeing longtime top political adviser and aide Corey Lewandowski to head up the new super PAC, multiple people with knowledge of the conversations confirmed to Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVvQtrx3mn0/trump-political-action-committee-corey-lewandowski",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVvQtrx3mn0/trump-political-action-committee-corey-lewandowski",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp",
+      "publishedDateTime": "2021-02-26T07:14:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-biden-administration-and-democrats-do-not-care-about-american-jobs-sen-scott.md",
+      "title": "Biden administration and Democrats 'do not care' about American jobs: Sen. Scott",
+      "excerpt": "Sen. Rick Scott R-Fla. said Friday that the Biden administration and Democrats \"don't care about jobs\" and that the attempted inclusion of a $15 minimum wage in the latest coronavirus stimulus bill is just \"payback\" to liberal Democrats. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZkTrFGm5qc/minimum-wage-hike-biden-democrats-jobs-scott",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZkTrFGm5qc/minimum-wage-hike-biden-democrats-jobs-scott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1d9959d-2022-46fc-865c-355a8970d8a6/0494ea3a-053d-4d59-b663-2a432ef7a084/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp",
+      "publishedDateTime": "2021-02-26T05:49:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.md",
+      "title": "Pelosi vows to keep minimum wage provision in House bill; Harris could act",
+      "excerpt": "The Senate's chief parliamentarian ruled Thursday that a federal minimum wage hike should not be included in the $1.9 trillion COVID-19 relief package, but that seemed to do little to deter House Democrats from pursuing the plan — against impossible odds.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 363,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp",
+      "publishedDateTime": "2021-02-25T23:30:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.md",
       "title": "Donald Trump Jr.: Donald Trump is ‘still the future of the Republican Party’",
       "excerpt": "Former President Donald Trump is the future of the Republican Party, his eldest son Donald Trump Jr. argued on Thursday.",
@@ -1481,176 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp",
       "publishedDateTime": "2021-02-21T22:37:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-biden-tells-town-hall-not-all-minorities-know-how-to-get-online.md",
-      "title": "Biden tells town hall not all minorities 'know how to get online'",
-      "excerpt": "But the arrival of the Chinese virus followed by the idiotic lockdown policies of Blue State Governors and then, of course, the defeats of Donald Trump led to a less free, less prosperous, less optimistic America and listening to Joe Biden speaking today in Michigan you couldn't help but think that Biden and Fauci are going to keep us under their thumbs for as long as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
-      "originalUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a17db8b-72da-45f1-ac74-3f11135bb3b6/600bca1e-bafc-4923-ac66-753f6027ed5a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
-      "publishedDateTime": "2021-02-21T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-pence-declined-cpac-invitation-source.md",
-      "title": "Pence declined CPAC invitation: source",
-      "excerpt": "Former Vice President Mike Pence has declined an invitation to attend this year's Conservative Political Action Conference, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e7fe47e-ed40-4bb7-97a7-8b2c3b23ff48/b5a6a527-121e-4e98-876f-f6204780c546/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp",
-      "publishedDateTime": "2021-02-21T06:08:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.md",
-      "title": "Biden revival of immigration 'catch and release' won't work: former CBP chief",
-      "excerpt": "By reviving the so-called \"catch and release\" approach of the past, the Biden administration is \"facilitating illegal immigration,\" a former head of Customs and Border Protection argued Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rnq4rKqsh9s/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rnq4rKqsh9s/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp",
-      "publishedDateTime": "2021-02-20T17:36:24-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

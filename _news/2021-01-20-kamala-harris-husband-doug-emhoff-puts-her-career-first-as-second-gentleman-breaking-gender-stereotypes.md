@@ -417,6 +417,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Harris meets with nonprofit leaders to discuss root causes of Central American migration"
+    excerpt: "Harris told foundation leaders that she hopes to correct the conditions that drive people out of Guatemala, El Salvador and Honduras, instead of just increasing security at the U.S. border with Mexico."
+    publishedDateTime: 2021-04-22T17:55:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/0zRXhTh6zBROJfz04unRbpmc7c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NPNRUXPX5ZGIXESRZSSCS4ZR5M.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trailblazer Kamala Harris: America's First Woman Vice President"
     excerpt: "Kamala Harris smashed through one of America's highest glass ceilings Wednesday, becoming the first woman, first Black American and first person of Asian heritage to be appointed vice president, blazing a trail in the most diverse White House ever."
     publishedDateTime: 2021-01-20T23:06:00Z
