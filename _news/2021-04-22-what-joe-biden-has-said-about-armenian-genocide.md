@@ -255,6 +255,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Jill Biden visits US Southwest amid vaccine push"
+    excerpt: "First lady Jill Biden is kicking off a three-day, two-state visit to the U.S. Southwest with a tour of a vaccination clinic in Albuquerque"
+    publishedDateTime: 2021-04-21T19:17:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_cf94eb95800d45ec8d4372a953fbf1f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden set to formally recognize Armenian genocide, officials say"
     excerpt: "The anticipated move could further complicate an already tense relation ship with Recep Tayyip Erdoğan, the Turkish leader"
     publishedDateTime: 2021-04-22T01:07:00Z
@@ -575,6 +591,6 @@ related:
         height: 683
         isCached: true
 
-secured: "u0elllfFxat2R/gHLeLJSYm3y6oyNRT9YidvygnverwhOT7FIwEkNLbFRFZC2v+L6F74DwEhgH3QiBJib5Vse6CtAALYp9Ed44xtU/1EYVowFv+6dLpOEecRLtJmlblOGxMYA5PZQLiDcGjZQ9eYE9a9LdDYh8fZJ+jsoVEMOZMjxzr9H7DaJVHHLU5uIV8DOvvn9b7I7kwAkWfkKxIqd3lE36gehd2V9rmrrDQN0mXmC8it//ieHnda0d50LTy1hUDUh1cgUdWYwIfvWW8PHCHVmH++5RFBx67tAZvXEkqiRI83Pqi4bPcKLfeDCGeHZh5Gex4KF+mtUYy2K8ixR6vwcXtiXttzuFxsqOHZez4=;6noEwsTTcU4qFEABZjP/0w=="
+secured: "tPjKoon9JvtlhFUGpe6w8kIF1HoPwfYGYB6BXZeFycxi7oMKSfHdkLXloFmSm+E8LjECpeXhlgHXzwzDTBhpik4Y+RkP7xiklYTWuGEkhCUyPTNN2I1bXzUhgyRDBiKvw0jrkgWEKfzYGobc/8Yp6HKELscDw0Cd6WAsiUQIx4EpntlMF6nGIVmoj+dhe06Y1SQKbtv3T1mh8f4MAmvjg2FRqplzevWLXg2gQPQ5F93KHdaBVwhEXZMWOrbWwvij3V50WGINtsS3E7OdUcdxsc1rUkJLDQuQZVBy8pUoLaxff4ay3OljFsxwZlyxVipHzCmpXw8jSSK7doHEazMrN30Z7VSmhj03H44DcnnEhx3IXSrzsNcg+2IKDEgFznfH/45Iwqwt/4UwHs3xLQUU0I8MLILTDTRQrSjp06Hfsk3Ws+h3s1+A1xiKijmFofFOZgkw9OurbmnVCJWvvwjm8r6ZA7HpIlDJzOikQhaVg5E690ucP9akj75Ivz4ESyZfyJlaDc7sFpBl7dt/WLkk7w==;8tpKRuUNclIxzqi/RyaLxg=="
 ---
 

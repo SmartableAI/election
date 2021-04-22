@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Sikh Coalition urges Biden to appoint Sikh American liaison in wake of Indianapolis FedEx shooting"
-excerpt: "In the wake of the FedEx shooting that left eight people dead, including four members of the Sikh community, the Sikh Coalition wants President Joe Biden’s administration to enact policies to address “long standing challenges” impacting Sikh Americans."
-publishedDateTime: 2021-04-20T16:03:00Z
-originalUrl: "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html"
-webUrl: "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+title: "Jill Biden visits US Southwest amid vaccine push"
+excerpt: "First lady Jill Biden is kicking off a three-day, two-state visit to the U.S. Southwest with a tour of a vaccination clinic in Albuquerque"
+publishedDateTime: 2021-04-21T19:17:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
 type: article
-quality: 111
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Health/WireAP_cf94eb95800d45ec8d4372a953fbf1f1_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -255,22 +255,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Jill Biden visits US Southwest amid vaccine push"
-    excerpt: "First lady Jill Biden is kicking off a three-day, two-state visit to the U.S. Southwest with a tour of a vaccination clinic in Albuquerque"
-    publishedDateTime: 2021-04-21T19:17:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_cf94eb95800d45ec8d4372a953fbf1f1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Joe Biden set to formally recognize Armenian genocide, officials say"
     excerpt: "The anticipated move could further complicate an already tense relation ship with Recep Tayyip Erdoğan, the Turkish leader"
     publishedDateTime: 2021-04-22T01:07:00Z
@@ -430,6 +414,22 @@ related:
       - url: "https://i.insider.com/607b3fc774da0300181e252f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Sikh Coalition urges Biden to appoint Sikh American liaison in wake of Indianapolis FedEx shooting"
+    excerpt: "In the wake of the FedEx shooting that left eight people dead, including four members of the Sikh community, the Sikh Coalition wants President Joe Biden’s administration to enact policies to address “long standing challenges” impacting Sikh Americans."
+    publishedDateTime: 2021-04-20T16:03:00Z
+    webUrl: "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Mexico Plans Tree Planting, Regional Migration Pitch to Biden"
     excerpt: "Mexico’s president will propose a regional agreement on migration to the U.S. this week and the expansion of his tree planting program to Central America as an option to provide order in the process of seeking entry to the U."
@@ -591,6 +591,6 @@ related:
         height: 683
         isCached: true
 
-secured: "vaCnDmQyttjIsCkJwb57SbhDLapFiHQ6QmvcDEcGf02Nmpfo/lpF9EbLjPpN2amDXZ+fkLLMdtZhGke7VbPylBpMVJcakib03shEa8j36rmslMSXvaMAg2c8g2KM2GWky4SPl+8QL5oU5WFWKqdJzupOuAtBAbPNSA+v2wIfzrbTdhHrHS5ckXXe44OyNLQRCpq3FwsWqGtaX+CH3E4f+fq0JPV4XBWYU09r0pUWqlUifTJI+/eJq5H6vfppLScCH9tH15HTrqwfHUS68bDtXBSPLFwzxLOVsCiF+7hF3m1f+S6pqRw1mlIiXt6P3Hk75900p29BE1uca0W7BFczJVMac3tj0aleaSMazkQmepg=;iSQyRUAvlYgk+UR/d8oqMQ=="
+secured: "YcxwDFQfLqkW3YPlUtc2fwdSlVsSFqnKDthT6Vqe2SAGsrWMQrgtcFiWbqQS675snXaON6PnwJRGb4LrhwTwf5DahApH3gBlkFpFJOSXYTN6bQGVKsoscEjcbnbQoN6BPWxWvnbMm5xQG0yOnTDJsXU53HIZKG4AQHFBFUCGAMQrycZG4XE5i5V4+UfIE59pca8wDT2e2rpLmR+ZI7wA+x+JeBoHX+xv6FS1eGbq1hOKc485QbiB8lYcNTZI7XQeaNo8xQxphkfdRy2D1SyUo/jnHPH+u/5qmHuKke+x6+falU58z8YW67SfKTNd2yPp0u6mB44F86LhMPgy5unCdKAnnaaVbqGC7DqvBF9i5aU=;/EdhU1yJosvIyymqmH4lqg=="
 ---
 

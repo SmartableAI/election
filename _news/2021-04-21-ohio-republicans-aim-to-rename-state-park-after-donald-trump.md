@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Ohio Republicans aim to rename state park after Donald Trump"
-excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
-publishedDateTime: 2021-04-21T16:31:00Z
-originalUrl: "https://www.timesunion.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-webUrl: "https://www.timesunion.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-ampWebUrl: "https://www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+excerpt: "A GOP-backed bill would change the name of an Ohio state park to honor former President Donald Trump COLUMBUS, Ohio -- A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump."
+publishedDateTime: 2021-04-21T15:39:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4e3a416081f744298ea773bfbd3eb964_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -368,6 +372,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "L/GgtvPxTGNvYuMQ7HEvpZh8Ix5mNKNg+QKpd8U4kVklzQhxCoouYKa4nafEeTDYD2o7A9Fzoq8Y8sknbTBL9knGPiYsyyilMzgtcF119OkS4KBCYbtBepL9MzjRcj98P8tqbgWt5m7e8nL+nn4bsxErU+wTtvrEEJRGZWtAbVZP4z63RuHX/1HtFjaRcbeyHl1PLGoeQLPmMHSAJKN+v9dBblyPeT4pHlfFhBEc+zlzcK+aghlxnlxQv7Aaug5zkRPuBqAMDqz636pyUeXhzw3Om22Xu6Qw2jFFzndFb9mfYJ/+sF1YQA1PEwlGI9jVNRen7WMF2SmwPOSRg5tjHO/8X+BU1UUehicXbLvu7Jo=;VnM3x0Pq9jRppCA+cKchLA=="
+secured: "TXxvsZuEMaIDlnKNjOn6pbK25CmvS8X7nU3Lfjmhs0u8Bx2EISt17DnPEGzlz6jIkPPiWxknOl0CBM0Qszi+8z6jJvW0Z8fcUnRqb4zX3O0BHaNJ4f9bznGLWPXxOKN6039ZBo6qcoZie7Lz7XaX5ZO5Px3PE6HHQSIjMElGttCsPcdMou57UpUz94Qs/qmRRRJczM1/ppbiSHYkhKlnWGgBpWBxnaeFVeEsi10abrf07Krgd/DsmNi/nzo/+hIgGI093h9OjJs4usfvJV3LvROsRiFgImBj1NYDyy5F5NCHfJpTOBWGnPOf8/WnUS46mVCrtK/S+LXS6wQNWKI+xgPlUI2E1IF04Lzz9sLyOk4=;UMzNgC+wXzcbWSM52lIBzw=="
 ---
 

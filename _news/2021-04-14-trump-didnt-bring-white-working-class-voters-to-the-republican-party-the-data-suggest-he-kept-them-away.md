@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ohio Republicans aim to rename state park after Donald Trump"
+    excerpt: "A GOP-backed bill would change the name of an Ohio state park to honor former President Donald Trump COLUMBUS, Ohio -- A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump."
+    publishedDateTime: 2021-04-21T15:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4e3a416081f744298ea773bfbd3eb964_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Ohio Republicans want to rename state park for Donald Trump"
     excerpt: "The bill sponsored by Rep. Mike Loychik to rename Mosquito State Park to Donald J. Trump State Park is the latest attempt by Ohio Republicans to honor the former president."
     publishedDateTime: 2021-04-20T17:53:00Z
@@ -329,22 +345,6 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/653/417/69698d5d9cda3fce4bd2251e096f119f23-trump-hannity.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
-    publishedDateTime: 2021-04-21T16:31:00Z
-    webUrl: "https://www.timesunion.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
     excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."
