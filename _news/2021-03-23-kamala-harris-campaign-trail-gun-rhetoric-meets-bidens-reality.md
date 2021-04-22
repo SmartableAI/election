@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-contro
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html"
 type: article
 quality: 200
-heat: 780
+heat: 800
 published: true
 
 provider:
@@ -431,6 +431,20 @@ related:
       - url: "https://static.politico.com/52/6d/7843f4e645c691ceb78696d89ffb/gettyimages-1304776018-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Harris Says Biden’s Infrastructure Plan Will Create ‘Good Jobs’"
+    excerpt: "Vice President Kamala Harris visited North Carolina on Monday to promote President Biden’s infrastructure plan, saying it will create “good jobs.”"
+    publishedDateTime: 2021-04-19T18:14:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007718004/harris-north-carolina-jobs-plan-speech.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/19/us/politics/19new-washington-harris/19new-washington-harris-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
     excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."

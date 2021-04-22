@@ -2,9 +2,9 @@
 category: news
 title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
 excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
-publishedDateTime: 2021-04-19T14:39:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
+publishedDateTime: 2021-04-19T15:41:00Z
+originalUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
+webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
 type: article
 quality: 17
 heat: -1
@@ -457,6 +457,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "iaPAmMDkwPXGElRrF2XHIF/Fbcyw6MRxS/7aeNChgYO7LUsH3pdPRoFQ0Gc1hNREqKvQJofQhEQly8CM3eoyAx1bskJ1WTyLGDYEf/CfSbthvcItVNF/zM/zQNJ+D4HrhN4eGYSURSydO4LVNWB/6gU3YLy6KRPgchcvWLb0uwJ0YFIDroa1/Pjp8484xSHnQ641Q9W6SgZWQW47tr1hnGCwQHgY1fehAgmd43bZF/AGdl1WuxXJmG4iVfD0Ue7ihsc2R4kMUsm0bSa/prAoqpxIanOfg9gIWDnDC8zCcB2GhHcBeN5gXxqRiwB6iOt7jVzORSiI5726xyVSkpox6LcvNz/d0cZU7abdr7UPpyWK7H4qjI7gN99h78dyKk/SF4f2DT0E/ZjP6FAoG50AdIBhZ9N9n3Da+RFsVnrIcI+8Np3jtbAsPlT84H/tNsjB6DNPM6gD6JOWsQttvCQThPyklcQC5a6Xbbt5LtQbNYBB6AqoU3Q7+vgvAl4e6jWOgxJAYa7WB97NiCHVDGTIrg==;34bhPiqiCqFSWxTIoDlDgQ=="
+secured: "ILE9TJFdV5mZaqb0wTEGCSs4q80Q1MqlWyAmE+7K7k+1bS1/gbEeIZpgG0uy5ZsSmAA6pzdhrsjyWitA73vbB9iOAeWPzcBzfBtJ9fruurnK4MJ7gOxtSy01ig3LGolc1BNWeXDbIkk2dmmOPur0ZVi3spGb0VHNJsdCg2mONYyXL3q0h4NeVzYBrYNpkvynDB6hMzzK0R2/kTu1J8naMuk3NQrO0d2Q1Ih+/avUzJsnFEjDT5YXMzx00gCn5bdLFak6HcbAIj7uUu8OduS5njh20tmRe6Ll3CcJ9SwQzIlTa398RuDOz3fSdB6I3McFRUitRwbmw+QDI4akEGQApLBPFouchfOFoN1W34kQPJTlkRx/OuNxiA7g5o2n3mTHovxwy2sNduguuQWDYVkGahOSOrm4skVAC2FQAGUqbOoMqe0w4gY7fPyVz2/ULV8YFgHyLmBF0JgBn7HI8WfqLHRmK7kWApz3Ty/MDGmHQujPDX6nL+knc0+L9aXyJE9iFyBPJWUeCkl7qI+aUdhtzg==;fdUObL6eWx4eDr0HxM2dRQ=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden administration opens global climate summit"
+    excerpt: "The Latest on President Joe Biden’s global climate summit (all times local): 8 a.m. Support our journalism. Subscribe today. The Biden administration has opened a global climate summit including 40 world leaders."
+    publishedDateTime: 2021-04-22T12:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3JQUJFDOII6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
     excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
     publishedDateTime: 2021-04-17T15:38:00Z

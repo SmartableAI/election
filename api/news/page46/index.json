@@ -2,6 +2,58 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-02-06-biden-rescue-plan-answer-to-crisis-we-are-in.md",
+      "title": "Biden: Rescue plan, 'answer to crisis we are in'",
+      "excerpt": "President Joe Biden says the rescue plan he is pushing forward in Congress is the \"answer to the crisis we are in.\" (Feb. 5)",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/02/05/biden-rescue-plan-answer-crisis-we-in/4409846001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/02/05/biden-rescue-plan-answer-crisis-we-in/4409846001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/e9108b67-4d19-4f26-8904-014d5a3ed01e_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-why-joe-bidens-faith-based-equity-agenda-is-getting-pushback-from-religious-conservatives.md",
       "title": "Why Joe Biden's faith-based 'equity' agenda is getting pushback from religious conservatives",
       "excerpt": "Joe Biden, only the second Catholic president, has brought to the White House a different approach to faith, personally and politically, than Trump's.",
@@ -1302,62 +1354,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-biden-focuses-on-faith-and-unity-during-dark-dark-time-in-prayer-breakfast-remarks.md",
-      "title": "Biden focuses on faith and unity during 'dark, dark time' in prayer breakfast remarks",
-      "excerpt": "President Joe Biden on Thursday cited the importance of unity and faith during what he described as a \"dark, dark time\" for many Americans, as he continued the presidential tradition of participation in the National Prayer Breakfast.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0XqRDB2BV1Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0XqRDB2BV1Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210204101818-primera-biden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/politics/biden-national-prayer-breakfast/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/politics/biden-national-prayer-breakfast/index.html",
-      "publishedDateTime": "2021-02-04T07:13:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

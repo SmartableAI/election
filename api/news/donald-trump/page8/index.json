@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-03-06-white-house-fires-trump-eeoc-official-after-she-refuses-to-step-down.md",
-      "title": "White House fires Trump EEOC official after she refuses to step down",
-      "excerpt": "The move is part of a push to oust controversial Trump appointees who were seen by some Democrats as hostile to the mission of the agencies they served.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
-      "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UB5BBTT574I6XDC6GLSHWQVVDM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
-      "publishedDateTime": "2021-03-06T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-06-haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins.md",
       "title": "Haley, Noem Differ in Approach to Trump as 2024 Jockeying Begins",
       "excerpt": "The only two women so far on lists of potential 2024 Republican presidential candidates—Nikki Haley and Kristi Noem—have taken divergent paths in navigating around the sizable political shadow of former President Donald Trump.",
@@ -1574,6 +1522,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-trump-gives-first-public-speech-since-leaving-office-and-declares-journey-is-not-over.md",
+      "title": "Trump gives first public speech since leaving office and declares \"journey\" is not over",
+      "excerpt": "Former President Trump on Sunday gave his first public speech since he left office and was acquitted in his second Senate impeachment trial. CBS News political reporter Adam Brewster, CBSN political contributor and Democratic strategist Antjuan Seawright and Maggie's List spokeswoman Lauren Zelt join CBSN's Lana Zak to discuss the former president's speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/trump-gives-first-public-speech-since-leaving-office/",
+      "originalUrl": "https://www.cbsnews.com/video/trump-gives-first-public-speech-since-leaving-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/01/a09adc24-151c-414a-ae32-bc1db7b22730/thumbnail/1200x630/560ad0560a0efccd593d15e1c163f727/cbsn-fusion-trump-gives-first-public-speech-since-leaving-office-and-declares-journey-is-not-over-thumbnail-655544-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-28T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

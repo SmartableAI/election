@@ -448,6 +448,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Harris Says Biden’s Infrastructure Plan Will Create ‘Good Jobs’"
+    excerpt: "Vice President Kamala Harris visited North Carolina on Monday to promote President Biden’s infrastructure plan, saying it will create “good jobs.”"
+    publishedDateTime: 2021-04-19T18:14:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007718004/harris-north-carolina-jobs-plan-speech.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/19/us/politics/19new-washington-harris/19new-washington-harris-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "CALIFORNIA’S RECALL FEVER — HARRIS’ role tested — GOP targets BIDEN nominees with TECH ties — UBER reopens SF office"
     excerpt: "From Shasta to San Diego, California voters have recall fever. The possible recall of Gov. Gavin Newsom has generated national attention, but it’s only the most prominent example of ouster attempts across the state."
     publishedDateTime: 2021-03-29T13:13:00Z

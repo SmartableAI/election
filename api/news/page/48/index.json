@@ -2,6 +2,62 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-02-02-chicago-mayor-lori-lightfoot-blames-trump-for-standoff-between-citys-public-schools-and-teachers-union.md",
+      "title": "Chicago Mayor Lori Lightfoot blames Trump for standoff between city’s public schools and teachers union",
+      "excerpt": "Chicago Mayor Lori Lightfoot on Tuesday blamed the impasse between the city’s public schools and teachers union on President Donald Trump for not being able to roll out a nationwide vaccine program while he was in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf45ae16-a9fd-45fd-9ca2-c58562d1c92f/f424f3ab-ce52-4966-86f5-ebfc6cf3f51e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
+      "publishedDateTime": "2021-02-02T14:44:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-jan-6-rally-organizer-planning-maga-sellout-tour-targeting-republicans-who-betrayed-trump.md",
       "title": "Jan. 6 rally organizer planning 'MAGA Sellout' tour targeting Republicans who 'betrayed' Trump",
       "excerpt": "Pro-Trump organizers are planning a cross-country recruiting effort to attract primary challengers targeting Republicans who they say \"betrayed\" former President Trump.",
@@ -1289,62 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ukraines-zelensky-offended-by-media-reporting-that-trump-put-pressure-on-him.md",
-      "title": "Ukraine's Zelensky 'offended' by media reporting that Trump 'put pressure' on him",
-      "excerpt": "Ukrainian President Volodymyr Zelensky signaled that he was more upset about the aftermath of his now-infamous July 2019 phone call with then-President Donald Trump than the actual call.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o9PxwKhYSmE/ukraine-zelensky-offended-trump-phone-call-pressure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o9PxwKhYSmE/ukraine-zelensky-offended-trump-phone-call-pressure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ede87b4e-f728-484a-952c-5a4f33ca640f/0d574659-3148-41cc-8dc9-c2b3e138a970/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ukraine-zelensky-offended-trump-phone-call-pressure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukraine-zelensky-offended-trump-phone-call-pressure.amp",
-      "publishedDateTime": "2021-02-01T11:49:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

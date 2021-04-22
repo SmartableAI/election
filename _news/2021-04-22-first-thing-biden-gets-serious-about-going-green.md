@@ -175,6 +175,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden demands collective action at White House climate summit"
+    excerpt: "President Biden on Thursday called for collective action to combat climate change, saying the global community has no choice but to act to confront “the existential crisis of our time.”"
+    publishedDateTime: 2021-04-22T12:52:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenclimatesummit_042221getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden faces calls on pledge to recognize Armenian genocide"
     excerpt: "President Joe Biden is facing calls to recognize the Armenian genocide of more than a century ago, something that he pledged to do as a candidate but that could further complicate an already tense rel"
     publishedDateTime: 2021-04-21T20:15:00Z
@@ -655,6 +671,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Pl/+8PtyNK4NSvNHplJPAVukNzNqN1bIXw5AON7M+D1KNrGy1xFb1q8EBWgkHzHu7VYFzfsZnhF+NMt2Z9Q9gx8HbbFqrP+Sr8YFqk8qLzN9QviN8frULNTLF8NBEYic0wVm5ZmWNKgspdywPKqvbtPzZaY2liwfmSNjLQNYgHP42bpe/VpDX1GAOXXctMQ0aN3/0rk8asv+izcMzlWhG82Ijz6BFPOGjkt0FS4etYaCmvaLfS8MrSCso1KPBXjNcEgkKmhJPPy+62uRRuuHJCKxWSagkzOXQ7fYq8w6eQj9UNmQhbP8fLbIAPleAdxyD6dnI3TCcPI7EVGAF9a/7Wka1NNnjfuRYOIExOSk8zw=;4fMRelBQgQZ2YQ4JtyTFVw=="
+secured: "/LsWiGbkn0OEqGqv46krf1Rs/2lBbEdunE+eNZN7IkZjEScVpEAUppkj1ej5jpq4+iTUdTgeSzmbgZLDpuA/sAZ87Pn9v/s69fGHpxpumckZky9hB6H4iEB4Xfw79rGF9q+/pKi26LcE+6Jg0+J6QdWyJZXmlhg/ts5QUGXLiSOZu4g79qdul00zyiqrRVJboI4m/YOgKhE4nukFJmk1XHOdNAHfBJQzUT0bmt5xcuE3zKhyeYzhgkCQdfeJ5Os7CIcE2EZxK7pQXIkTIk4LSZ7pVHEf0bglEzyi4UOq1L9kaQQiEnfnP9kLIiZsRRjIgjVlPOfXJsyOdWXZoa/J7mAu0y3+eK407nsrq8M43mBgjB0R2ToyJLa6qOtelzJwQ08Gz4Bp52fnahQKs/G3nlqTSZWhShbaIGa7J2Ii6814oPHNF7tjPBOkhkr5vaoaBPM5gxnOK8mAExolI0slo3ismpwHXPte4jsw61WEQAsBF3fZ6x8J/+X/QP7t4nmk/+kTZrxFgm3DkWj9s3AabQ==;N30mBxLgyBRh0FlBm7yzng=="
 ---
 

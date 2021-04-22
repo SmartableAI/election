@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C118D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C118D"
 type: article
 quality: 125
-heat: 925
+heat: 945
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35EEPGVC2QI6XMYUF2MTXWB6GE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden demands collective action at White House climate summit"
+    excerpt: "President Biden on Thursday called for collective action to combat climate change, saying the global community has no choice but to act to confront “the existential crisis of our time.”"
+    publishedDateTime: 2021-04-22T12:52:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenclimatesummit_042221getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden faces calls on pledge to recognize Armenian genocide"
     excerpt: "President Joe Biden is facing calls to recognize the Armenian genocide of more than a century ago, something that he pledged to do as a candidate but that could further complicate an already tense rel"

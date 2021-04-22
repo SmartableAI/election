@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-14-pastor-jeff-jansen-says-trump-is-still-president-people-will-be-dancing-in-the-streets-in-april.md",
+      "title": "Pastor Jeff Jansen Says Trump Is 'Still President,' People Will Be 'Dancing in the Streets' in April",
+      "excerpt": "Pastor Jeff Jansen, a self-described \"prophet,\" still believes former President Donald Trump is in office and advised people to \"watch what the Lord does\" this month. Jansen, who leads the Global Fire Ministries International in Murfreesboro, Tennessee ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396",
+      "originalUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777294/donald-trump-jeff-jansen-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-jeff-jansen-says-trump-still-president-people-will-dancing-streets-april-1583396?amp=1",
+      "publishedDateTime": "2021-04-13T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-ex-trump-dhs-officials-say-harris-needs-to-visit-border-accuse-her-of-dodging-political-hot-potato.md",
       "title": "Ex-Trump DHS officials say Harris needs to visit border, accuse her of dodging 'political hot potato'",
       "excerpt": "Former Department of Homeland Security (DHS) officials under the Trump administration on Tuesday said Vice President Kamala Harris needs to visit the border soon if she is going to succeed in her role as border czar – while accusing her of dodging what has become a \"political hot potato\" for the administration.",
@@ -1313,58 +1365,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest.md",
-      "title": "Brooklyn Center Mayor Says Biden Offered Support After Daunte Wright Shooting Unrest",
-      "excerpt": "President Joe Biden has offered his administration's support to the city of Brooklyn Center, Minnesota, in the wake of Daunte Wright's death and Sunday night's subsequent protests, according to Mayor Mike Elliott. \"Just got off the phone with the @WhiteHouse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977",
-      "originalUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 258,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1776399/brooklyn-center.jpg",
-          "width": 594,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1",
-      "publishedDateTime": "2021-04-12T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

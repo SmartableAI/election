@@ -449,8 +449,8 @@ related:
     quality: 31
   - title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
-    publishedDateTime: 2021-04-19T14:39:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article250782539.html"
+    publishedDateTime: 2021-04-19T15:41:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250783554.html"
     type: article
     provider:
       name: Raleigh News & Observer
