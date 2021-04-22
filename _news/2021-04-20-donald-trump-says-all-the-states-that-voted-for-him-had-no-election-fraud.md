@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
 type: article
 quality: 139
-heat: 599
+heat: 619
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/YLuHmrMqB44AmyDZD9U8R6ujN28=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQALKA4NVFF5TIJWDB7XEDACXA.JPG"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump: Molly Forbes who stood up to golf plans dies at 96"
+    excerpt: "Molly Forbes and her son captured headlines with their opposition to Mr Trump's development next to their home."
+    publishedDateTime: 2021-04-22T10:26:00Z
+    webUrl: "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442"
+    ampWebUrl: "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41CD/production/_118154861_mollygetty.png"
+        width: 1024
+        height: 576
         isCached: true
   - title: "House passes bill aimed at stopping future Trump travel ban"
     excerpt: "The House passed legislation on Wednesday that would limit executive authority to issue future travel bans like the one imposed by former President Trump against several Muslim-majority countries."

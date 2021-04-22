@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump: Molly Forbes who stood up to golf plans dies at 96"
+    excerpt: "Molly Forbes and her son captured headlines with their opposition to Mr Trump's development next to their home."
+    publishedDateTime: 2021-04-22T10:26:00Z
+    webUrl: "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442"
+    ampWebUrl: "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41CD/production/_118154861_mollygetty.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "House passes bill aimed at stopping future Trump travel ban"
     excerpt: "The House passed legislation on Wednesday that would limit executive authority to issue future travel bans like the one imposed by former President Trump against several Muslim-majority countries."
     publishedDateTime: 2021-04-21T21:01:00Z

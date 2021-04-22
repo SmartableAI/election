@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-col
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 135
     images:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_15/3465202/210416-joe-biden-mc-1155_c99f90a0a886a7742215bfdcdba086ea.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Prince William urges Covid spirit in climate fight ahead of Biden summit"
+    excerpt: "The open letter signed by the prince and a string of high-profile figures calls climate change \"the most pressing challenge in human history.\""
+    publishedDateTime: 2021-04-22T11:46:00Z
+    webUrl: "https://www.nbcnews.com/news/world/prince-william-urges-covid-spirit-climate-fight-ahead-biden-summit-n1264896"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264896"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264896"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_16/3466826/210422-prince-william-mc-1005_24bb21d89a10918fb2f7bfb7c72a4387.jpg"
         width: 2500
         height: 1667
         isCached: true

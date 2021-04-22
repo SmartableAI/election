@@ -430,6 +430,15 @@ related:
       name: Politifact
       domain: politifact.com
     quality: 44
+  - title: "Kamala Harris to Speak With Guatemalan President on Monday: Axios"
+    excerpt: "U.S. Vice President Kamala Harris will meet virtually on Monday with Guatemalan President Alejandro Giammattei to discuss solutions to the surge of migration, Axios reported on Wednesday, citing a senior White House official."
+    publishedDateTime: 2021-04-22T01:02:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-04-21/kamala-harris-to-speak-with-guatemalan-president-on-monday-axios"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Charlotte Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
     publishedDateTime: 2021-04-19T15:33:00Z

@@ -110,6 +110,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Prince William urges Covid spirit in climate fight ahead of Biden summit"
+    excerpt: "The open letter signed by the prince and a string of high-profile figures calls climate change \"the most pressing challenge in human history.\""
+    publishedDateTime: 2021-04-22T11:46:00Z
+    webUrl: "https://www.nbcnews.com/news/world/prince-william-urges-covid-spirit-climate-fight-ahead-biden-summit-n1264896"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264896"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264896"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_16/3466826/210422-prince-william-mc-1005_24bb21d89a10918fb2f7bfb7c72a4387.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Can this Latina law professor tapped by Biden help reform the Supreme Court?"
     excerpt: "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ..."
     publishedDateTime: 2021-04-14T16:27:00Z

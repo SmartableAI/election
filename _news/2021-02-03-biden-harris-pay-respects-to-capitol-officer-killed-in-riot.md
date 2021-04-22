@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 3130
+heat: 3150
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 150
     images:
       - url: "https://thehill.com/sites/default/files/harriskamala_020521getty_harris.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Watch live: Biden, Harris speak at virtual climate summit"
+    excerpt: "President Biden and Vice President Harris are scheduled to speak at the opening of a virtual White House climate summit on Thursday morning. Their remarks are expected to begin at 8 a.m."
+    publishedDateTime: 2021-04-22T11:30:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 150
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenharris_1_0.jpg"
         width: 980
         height: 551
         isCached: true

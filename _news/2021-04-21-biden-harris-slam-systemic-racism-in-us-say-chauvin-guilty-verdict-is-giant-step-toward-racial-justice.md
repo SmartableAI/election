@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-say-chauvin-guilty-ver
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp"
 type: article
 quality: 181
-heat: 281
+heat: 301
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 159
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hannity blasts Biden, other leftists for 'stoking racial hatred for political gain'"
+    excerpt: "Fox News host Sean Hannity accused Democrats and the radical left Wednesday of being \"hell-bent on revenge\" after a jury found former Minneapolis police officer Derek Chauvin guilty of murder and manslaughter in the death of George Floyd."
+    publishedDateTime: 2021-04-22T03:29:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-biden-stoking-racial-hatred-political-gain"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-biden-stoking-racial-hatred-political-gain.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-stoking-racial-hatred-political-gain.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/96871bba-2991-429a-9664-e15c137ed2aa/3a8cb491-6fcc-4ffd-b747-d2391c0c53fd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

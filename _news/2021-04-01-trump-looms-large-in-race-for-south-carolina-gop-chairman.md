@@ -123,6 +123,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Lara Trump is wild card in North Carolina Senate race"
+    excerpt: "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names."
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race"
+    ampWebUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumplara_082620getty_camp.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Extent of Trump's Usefulness to GOP Questioned by WSJ Editorial Board After CPAC"
     excerpt: "\"If CPAC represented America, Mr. Trump would still reside in the White House, not Mar-a-Lago,\" the board wrote."
     publishedDateTime: 2021-03-02T16:51:00Z

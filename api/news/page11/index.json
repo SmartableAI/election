@@ -2,6 +2,119 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-07-biden-rhetoric-on-anti-asian-racism-undercut-by-his-doj-dropping-yale-lawsuit-advocates-say.md",
+      "title": "Biden rhetoric on anti-Asian racism undercut by his DOJ dropping Yale lawsuit, advocates say",
+      "excerpt": "President Biden has spoken out forcefully against anti-Asian racism, but the sincerity of his words is called into question by his administration's decision to drop a lawsuit against Yale University for allegedly discriminating against Asian applicants, advocates tell Fox News. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3nwWdgn1100/biden-asian-racism-doj-yale-lawsuit-affirmative-action",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3nwWdgn1100/biden-asian-racism-doj-yale-lawsuit-affirmative-action",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ad54a7b-ec78-41e7-bcc2-bab92767adf4/cc86f5f8-7e72-473c-832b-b7869347ef71/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-asian-racism-doj-yale-lawsuit-affirmative-action.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asian-racism-doj-yale-lawsuit-affirmative-action.amp",
+      "publishedDateTime": "2021-04-07T10:09:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-pence-launches-new-advocacy-organization-to-promote-pro-freedom-policies-of-the-last-four-years.md",
+      "title": "Pence launches new advocacy organization to promote 'pro-freedom policies of the last four years'",
+      "excerpt": "Former Vice President Mike Pence on Wednesday launched a new policy and advocacy organization to promote \"pro-freedom policies of the last four years,\" featuring an advisory board of nearly a dozen Trump-era alumni.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-hK3DvTJiJg/pence-new-advocacy-organization-pro-freedom-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-hK3DvTJiJg/pence-new-advocacy-organization-pro-freedom-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-new-advocacy-organization-pro-freedom-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-new-advocacy-organization-pro-freedom-policies.amp",
+      "publishedDateTime": "2021-04-07T08:34:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-pence-launches-political-advocacy-group-with-an-eye-to-the-trump-legacy-and-his-own-future.md",
       "title": "Pence launches political advocacy group with an eye to the Trump legacy -- and his own future",
       "excerpt": "Former Vice President Mike Pence on Wednesday announced the launch of a new political advocacy group, \"Advancing American Freedom,\" a move designed with an eye to his political future and his efforts to help shape the conversation around the Trump administration's legacy.\n    \n",
@@ -1256,110 +1369,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-missouri-ag-schmitt-touts-fights-alongside-trump-in-senate-gop-race-to-replace-blunt.md",
-      "title": "Missouri AG Schmitt touts 'fights' alongside Trump in Senate GOP race to replace Blunt",
-      "excerpt": "Missouri Attorney General Eric Schmitt plans to occupy what is likely to be a crowded pro-Trump lane in the Republican primary for the state's open U.S. Senate seat, and is emphasizing his fights \"alongside\" the former president in the early stages of the race.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mbyaqj_-yac/missouri-ag-schmitt-touts-fights-alongside-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mbyaqj_-yac/missouri-ag-schmitt-touts-fights-alongside-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/missouri-ag-schmitt-touts-fights-alongside-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-ag-schmitt-touts-fights-alongside-trump.amp",
-      "publishedDateTime": "2021-04-06T09:57:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
-      "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
-      "excerpt": "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/",
-      "originalUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-desk-010.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/see-kamala-harris-desk-made-from-parts-of-uss-constitution/amp/",
-      "publishedDateTime": "2021-04-06T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

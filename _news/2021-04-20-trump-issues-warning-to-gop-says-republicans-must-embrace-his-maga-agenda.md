@@ -79,10 +79,10 @@ related:
         isCached: true
   - title: "George W. Bush calls country \"divided\" under Trump and pushes immigration reform"
     excerpt: "Former President George W. Bush, who has mostly stayed on the political sidelines after the White House, has reemerged with criticism of his Republican successor as he advocates for a sharply different immigration policy from former President Donald Trump."
-    publishedDateTime: 2021-04-21T22:43:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-george-w-bush-donald-trump-criticism/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-george-w-bush-donald-trump-criticism/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-george-w-bush-donald-trump-criticism/"
+    publishedDateTime: 2021-04-22T10:40:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
     type: article
     provider:
       name: CBS News

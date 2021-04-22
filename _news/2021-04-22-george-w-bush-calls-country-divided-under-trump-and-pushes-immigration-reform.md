@@ -2,11 +2,11 @@
 category: news
 title: "George W. Bush calls country \"divided\" under Trump and pushes immigration reform"
 excerpt: "Former President George W. Bush, who has mostly stayed on the political sidelines after the White House, has reemerged with criticism of his Republican successor as he advocates for a sharply different immigration policy from former President Donald Trump."
-publishedDateTime: 2021-04-21T22:43:00Z
-originalUrl: "https://www.cbsnews.com/news/immigration-george-w-bush-donald-trump-criticism/"
-webUrl: "https://www.cbsnews.com/news/immigration-george-w-bush-donald-trump-criticism/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-george-w-bush-donald-trump-criticism/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-george-w-bush-donald-trump-criticism/"
+publishedDateTime: 2021-04-22T10:40:00Z
+originalUrl: "https://www.cbsnews.com/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+webUrl: "https://www.cbsnews.com/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
 type: article
 quality: 120
 heat: -1
@@ -212,6 +212,6 @@ related:
         height: 1352
         isCached: true
 
-secured: "kD2iGmJ/i0mLZ7bPRuTb2nfKOkGGmWa69JzUbQptbnJLAiZbk659DoDyN3XQPN5BzQUili7T5TC8faELCIp5bZjdiWCnuBBT/hpr/emJ7rVpDD1OZugJQsi82iRVQAzCOKbJS6g2nBlTiibFLUaWndk9doTKOcYkxd7HmMMxBlixwdLhkLJS/+WpcUxDaS1adMvpebgiIhZc3zU6zzfCCiFScBEJFSMP6ScEiP/AkHnJ05Qtx2MDfZmWKGDGrG2wWRfv8LcwNOTmIMlkVGY1TdROBWvXf3vvM3R5/XROuGwkZOUc+6kRwp4xX8WrLQOKus18NetVurWPXZ9u45y7EG7wdEezdRe6FPg1dzdA0yg=;55LWJKauAjvUR5iM2OyGVQ=="
+secured: "6YGau9lZmauCvHCgMGjqyr8/ubG8/P35ZAQicj80P5ilr6x3aBosHxtQvofZn9xo3shuTZKjvssyjd3yo5d74sEdqLxpdSTNn4bTdGK95xe0xe/Z4k2UExCIzxAwPkdpBa9nM6sy3mQmPKkjbOMbDDSFTT+cKyDmwG/i3hM4t2iIRAjY9zmpXgS+zAHMFT+Rfv0p4h714N+kGE2yuox7VZOHqzGgjukldNKY/wUQ7NYHiJefz7X5PwYfOdNVvQz88zZn/eshnoInnEY9sTUmLLCfNdcTYHUYOJT69Cw2xCTDfQNTtgO3ADuEPO1w18Zg4YKlK3PyqsZr0YyrqOrq/qxC/sV6SRzLSnpqm5CH0hE=;++qMX9i7yZx+C/5QhlEo1Q=="
 ---
 

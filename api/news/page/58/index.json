@@ -2,6 +2,118 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-01-19-army-veteran-calls-out-dem-lawmaker-for-ridiculous-remark-about-troops-posing-threat-to-biden.md",
+      "title": "Army veteran calls out Dem lawmaker for ‘ridiculous’ remark about troops posing threat to Biden",
+      "excerpt": "A West Point graduate and Army veteran ripped Rep. Steve Cohen, D-Tenn., for floating the conspiracy theory that National Guard troops deployed to Washington, D.C., for the inauguration pose a threat to President-elect Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DO3biNYF574/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DO3biNYF574/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous.amp",
+      "publishedDateTime": "2021-01-19T08:40:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-biden-announces-rachel-levine-as-pick-for-assistant-secretary-at-hhs-would-be-first-transgender-senate-confirmed-federal-official.md",
+      "title": "Biden announces Rachel Levine as pick for assistant secretary at HHS, would be first transgender Senate-confirmed federal official",
+      "excerpt": "President-elect Joe Biden has nominated Dr. Rachel Levine to serve as assistant health secretary, and she would make history as the first out, transgender federal official to be confirmed by the United States Senate, according to a statement Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9gUqgHcIpY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9gUqgHcIpY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210119080307-01-rachel-levine-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/rachel-levine-health-and-human-services/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/rachel-levine-health-and-human-services/index.html",
+      "publishedDateTime": "2021-01-19T06:33:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-read-excerpts-from-bidens-dni-pick-avril-haines-opening-statement.md",
       "title": "Read: Excerpts from Biden's DNI pick Avril Haines' opening statement",
       "excerpt": "Avril Haines will appear before the Senate Intelligence Committee on Tuesday to be considered for director of national intelligence.\n    \n",
@@ -1211,116 +1323,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-top-fema-official-attended-trumps-stop-the-steal-rally.md",
-      "title": "Top FEMA official attended Trump's 'Stop the Steal' rally",
-      "excerpt": "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
-      "originalUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ad/37/43fd268d42649efd54bf08dfbb90/ap20337786621970-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
-      "publishedDateTime": "2021-01-17T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-joe-bidens-options-for-dealing-with-donald-trump-are-worse-than-watergate.md",
-      "title": "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate",
-      "excerpt": "When it comes to Donald Trump, the incoming president has a critical decision to make about the best way to move the country forward—and neither Democrats nor Republicans are likely to be happy about his choice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
-      "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1709816/fe-reconciliation-02.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1",
-      "publishedDateTime": "2021-01-17T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Donald Trump"
       ]
     }

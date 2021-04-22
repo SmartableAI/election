@@ -92,6 +92,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Son-in-Law Benefited From Loan Program Biden Ripped"
+    excerpt: "Joe Biden needed to talk to a family member, and the message, Politico later reported, was blunt. For Christs sake, the then-presidential"
+    publishedDateTime: 2021-04-22T10:30:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/22/son-in-law_benefited_from_loan_program_biden_ripped_145635.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/22/son-in-law_benefited_from_loan_program_biden_ripped_145635.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/22/son-in-law_benefited_from_loan_program_biden_ripped_145635.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/541165_5_.jpg"
+        width: 750
+        height: 541
+        isCached: true
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
     publishedDateTime: 2021-04-14T11:37:00Z

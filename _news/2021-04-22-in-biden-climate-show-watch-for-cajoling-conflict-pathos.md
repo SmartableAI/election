@@ -1,22 +1,22 @@
 ---
 category: news
 title: "In Biden climate show, watch for cajoling, conflict, pathos"
-excerpt: "President Joe Biden takes center stage in a two-day climate summit highlighting America’s return to the fight to curb global warming"
-publishedDateTime: 2021-04-21T18:19:00Z
-originalUrl: "https://www.washingtonpost.com/politics/in-biden-climate-show-watch-for-cajoling-conflict-pathos/2021/04/21/8fe719d6-a2d6-11eb-b314-2e993bd83e31_story.html"
-webUrl: "https://www.washingtonpost.com/politics/in-biden-climate-show-watch-for-cajoling-conflict-pathos/2021/04/21/8fe719d6-a2d6-11eb-b314-2e993bd83e31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/in-biden-climate-show-watch-for-cajoling-conflict-pathos/2021/04/21/8fe719d6-a2d6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-biden-climate-show-watch-for-cajoling-conflict-pathos/2021/04/21/8fe719d6-a2d6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+excerpt: "President Joe Biden takes center stage in a two-day climate summit highlighting America's return to the fight to curb global warming"
+publishedDateTime: 2021-04-22T10:29:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5S525FFC2QI6XMYUF2MTXWB6GE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_5695d385b8374d449b83a3f2eb6017cc_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -191,6 +191,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden opening summit with ambitious new US climate pledge"
+    excerpt: "President Joe Biden is prepared to open a global Earth Day summit with an ambitious pledge to cut at least in half the climate-wrecking coal and petroleum fumes that the U.S. pumps out"
+    publishedDateTime: 2021-04-22T09:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-opening-summit-with-ambitious-new-us-climate-pledge/2021/04/22/a6a3446c-a351-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-opening-summit-with-ambitious-new-us-climate-pledge/2021/04/22/a6a3446c-a351-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-opening-summit-with-ambitious-new-us-climate-pledge/2021/04/22/a6a3446c-a351-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35EEPGVC2QI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden tests political climate at home and abroad: The Note"
+    excerpt: "President Joe Biden faces perhaps his biggest test yet on the international stage with the two-day climate summit, a mostly virtual gathering organized by the White House"
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-tests-political-climate-home-abroad-note/story?id=77219182"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tests-political-climate-home-abroad-note/story?id=77219182"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tests-political-climate-home-abroad-note/story?id=77219182"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-ge_hpMain_20210421-211411_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden thinks bar is too high for convicting violent cops"
     excerpt: "President Joe Biden thinks \"the bar is too high\" for convicting violent U.S. police officers and will use his speech to Congress next week to push for reform, a spokeswoman said on Wednesday."
     publishedDateTime: 2021-04-21T20:49:00Z
@@ -207,6 +239,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "First Thing: Biden gets serious about going green"
+    excerpt: "The US will halve its carbon emissions by 2030, the White House announced before a climate summit later today. Plus, 200m coronavirus shots have been administered in the US"
+    publishedDateTime: 2021-04-22T10:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/22/first-thing-biden-gets-serious-about-going-green"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/22/first-thing-biden-gets-serious-about-going-green"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/22/first-thing-biden-gets-serious-about-going-green"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/23ae0518d3762e18032936bc90702d00deb3e28a/0_164_5971_3582/master/5971.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7ef1d9fc5600a623508f4e3c542b2cab"
+        width: 600
+        height: 360
+        isCached: true
   - title: "House Dems to unveil drug pricing measure ahead of Biden package"
     excerpt: "House Democrats are preparing to reintroduce major legislation to lower drug prices ahead of President Biden's unveiling of his American Families Plan, which could include the proposals."
     publishedDateTime: 2021-04-21T21:04:00Z
@@ -222,6 +270,22 @@ related:
       - url: "https://thehill.com/sites/default/files/pelosinancy_041321gn2_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "How to Watch Joe Biden, 40 World Leaders Discuss Climate Change"
+    excerpt: "Issues concerning global climate change will be discussed before the world by President Joe Biden and 40 world leaders he invited to the two-day virtual Leaders Summit on Climate that can be viewed by livestream,"
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-joe-biden-40-world-leaders-discuss-climate-change-1585547"
+    ampWebUrl: "https://www.newsweek.com/how-watch-joe-biden-40-world-leaders-discuss-climate-change-1585547?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-joe-biden-40-world-leaders-discuss-climate-change-1585547?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1781334/us-president-joe-biden.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Jill Biden visits Southwest US amid vaccine push"
     excerpt: "First lady Jill Biden is kicking off a three-day, two-state visit to the U.S. Southwest with a tour of a vaccination clinic in Albuquerque"
@@ -591,6 +655,6 @@ related:
         height: 683
         isCached: true
 
-secured: "fRem1A0e0GeduuRr4Zjv7iqSZtHTdhAvpEi78jnn1Vtlvo2ZEV89GStYkN8ahPU/BZOzWe8Ya77KTULT46vkYs045Lbs7qjMFpGuDagSlHvG5gzNOJJQCVbT6r25uId/oPKACHXGa8nmUwnvvcGNnVMN0hT+rYtCj/74LpteJXgYU58GS0SqMcZLbyzODdp3s5+OrC2IgbNSeUxTLMTLV3sBzelApyFmfP65AEKoE4bR6FebjPlgUoyhdQ2m7BV3fE9Q9xtdTam3QfAl+yS1vWZ0CDklUYebTd2paIEJJ6rGlFGpVuuYWHZ12ibId2QtVU+IEGuzCjIzjOY7PJsXcvebGkT7o0//9QMM/46wPfo=;fB3jVa2wBidehpCuJhzA+Q=="
+secured: "3UjoeDdXM4l4eNV/6DlakuGZZ0g65zTLzRvGAOZ61oGR4SIoxr5UL+RL7jFxrNcnmMP+DFliTBhN8RsHxhU7q+sxoVRb90e5peYqA4/kyF2YAE9XLqMrDZbAAq038HbDhFNG4u9oVHig2jsAwdpqsq6fZy2skhSC1r6AVFVI1yhsGofiTN4+Uv5Q3SOxwNNY9bmbQO1mIYQfhU4fAiz2s1pUzSyIYWXqeDyl5sVYofH2wTDu22ojMvKgaeNvaGB64YG06gtvmuBECDt3mVyOhuXj2o2++1wf2gi6ik4S03rSDsYIMqeGUdizQwkMz/ICAXWC4urHEG+/EA6kxrUjSiTZ9IJweG7gls2f2RISsiQ=;us1SGkzJFMANcQ4FUt7cMg=="
 ---
 

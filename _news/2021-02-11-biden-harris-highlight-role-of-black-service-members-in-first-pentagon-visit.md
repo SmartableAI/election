@@ -80,6 +80,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Watch live: Biden, Harris speak at virtual climate summit"
+    excerpt: "President Biden and Vice President Harris are scheduled to speak at the opening of a virtual White House climate summit on Thursday morning. Their remarks are expected to begin at 8 a.m."
+    publishedDateTime: 2021-04-22T11:30:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 150
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenharris_1_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden and Harris call for teachers to be vaccine priority – US politics live"
     excerpt: "Vice-president says ‘teachers should be a priority along with other frontline workers’ for Covid vaccine – follow all the latest politics news"
     publishedDateTime: 2021-02-17T16:43:00Z
