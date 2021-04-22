@@ -175,6 +175,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Proposal to Rename State Park for Donald Trump Panned by Ohio State Agency"
+    excerpt: "A proposal to rename an Ohio state park for former President Donald Trump is not supported by Ohio's Department of Natural Resources as the agency defended the park's current name, Mosquito Creek Lake."
+    publishedDateTime: 2021-04-22T15:00:00Z
+    webUrl: "https://www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713"
+    ampWebUrl: "https://www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1781713/former-us-president-donald-trump.jpg"
+        width: 3000
+        height: 1945
+        isCached: true
   - title: "Fox News Hosts 'Joined Forces' With Giuliani to Spread Trump Voter Fraud Lies, Lawsuit Says"
     excerpt: "Smartmatic's motion states that Fox News and its hosts \"joined forces\" with Rudy Giuliani and Sidney Powell, two attorneys representing the re-election campaign of then-President Donald Trump, knowing that the attorneys would make false claims against ..."
     publishedDateTime: 2021-04-13T23:57:00Z

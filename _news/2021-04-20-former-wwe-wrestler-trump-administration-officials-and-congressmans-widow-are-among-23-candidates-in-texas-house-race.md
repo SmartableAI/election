@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Investigation suppressed by Trump administration reveals obstacles to hurricane aid for Puerto Rico"
+    excerpt: "A watchdog report uncovers bureaucratic hurdles the Trump administration erected for the struggling island to receive aid after Hurricanes Irma and Maria."
+    publishedDateTime: 2021-04-22T15:49:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZZ77WEY24I6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "DHS watchdog declined to pursue investigations into Secret Service during Trump administration, documents show"
     excerpt: "Joseph Cuffari rejected staff recommendations to examine the agency’s handling of the Lafayette Square clearing and the spread of the coronavirus in its ranks."
     publishedDateTime: 2021-04-20T12:11:00Z

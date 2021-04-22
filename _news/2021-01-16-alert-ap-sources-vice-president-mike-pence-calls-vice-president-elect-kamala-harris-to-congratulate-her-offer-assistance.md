@@ -3656,6 +3656,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Vice President Kamala Harris speaks in Washington"
+    excerpt: "Vice President Kamala Harris makes a statement before holding a roundtable discussion with leadership on issues concerning Guatemala, Honduras, and El Salvador at the White House in Washington, DC, on Thursday April 22,"
+    publishedDateTime: 2021-04-22T15:07:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a1e9844c566f5faadaf4d9e6bb68f65c/Vice-President-Kamala-Harris-speaks-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a1e9844c566f5faadaf4d9e6bb68f65c/HARRIS-CENTAM.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "VP Kamala Harris visits a Covid-19 Vaccination Facility in Washington, DC"
     excerpt: "United States Vice President Kamala Harris speaks during a visit to a COVID-19 vaccination facility in an effort to promote the administration's plan to promote vaccinations in areas hit hard by the virus,"
     publishedDateTime: 2021-02-25T15:39:00Z

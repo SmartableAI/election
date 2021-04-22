@@ -862,6 +862,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden Administration Moves to Unwind Trump Auto-Emissions Policy"
+    excerpt: "The Biden administration is moving to end a legal battle with California over the state’s authority to regulate motor-vehicle emissions, setting the stage for stricter regulations on the auto industry."
+    publishedDateTime: 2021-04-21T16:04:00Z
+    webUrl: "https://www.wsj.com/articles/biden-administration-moves-to-unwind-trump-auto-emissions-policy-11619023946"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-moves-to-unwind-trump-auto-emissions-policy-11619023946"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-moves-to-unwind-trump-auto-emissions-policy-11619023946"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-328054/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
     excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
     publishedDateTime: 2021-02-15T19:08:00Z

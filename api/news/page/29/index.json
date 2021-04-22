@@ -2,6 +2,110 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-03-07-biden-marks-bloody-sunday-by-signing-voting-rights-order.md",
+      "title": "Biden marks ‘Bloody Sunday’ by signing voting rights order",
+      "excerpt": "A new executive order from President Joe Biden directs federal agencies to take a series of steps to promote voting access",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-07T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-07-arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-in-jail-after-storming-capitol.md",
+      "title": "Arrested Trump Appointee Tells Judge 'Cockroaches Crawling Over Me' in Jail After Storming Capitol",
+      "excerpt": "Federico Guillermo Klein, 42, became the first Trump administration official to be arrested for taking part in the insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295",
+      "originalUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1751340/capitol-riot-stock-photo.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295?amp=1",
+      "publishedDateTime": "2021-03-06T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-fox-nation-to-premiere-new-series-on-rush-limbaugh-narrated-by-mike-pence.md",
       "title": "Fox Nation to premiere new series on Rush Limbaugh, narrated by Mike Pence",
       "excerpt": "It is an ambitious and affectionate salute to a man who regularly drew 15 million talk radio listeners for three hours of conservative thought each day. Fox Nation is set to premiere “The Age of Rush,",
@@ -1246,114 +1350,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-biden-considering-range-of-individuals-for-budget-chief-as-top-democrats-tout-shalanda-young.md",
-      "title": "Biden considering \"range of individuals\" for budget chief, as top Democrats tout Shalanda Young",
-      "excerpt": "Democratic leaders have pushed for Tanden's proposed deputy, Shalanda Young, to be considered for the top job.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-omb-shalanda-young/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-omb-shalanda-young/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/6e1af44e-c45c-4aa2-962f-3c81c8197c8a/thumbnail/1200x630/405cc78bccbeb9053a5a3eeb409bd8df/shalanda-young.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-omb-shalanda-young/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-omb-shalanda-young/",
-      "publishedDateTime": "2021-03-04T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-biden-told-union-leaders-im-all-for-natural-gas-report.md",
-      "title": "Biden told union leaders ‘I’m all for natural gas’: report",
-      "excerpt": "President Biden personally promised union leaders his support for natural gas, United Association General Mark McManus said. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hzJUUJxPhU/biden-union-leaders-natural-gas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hzJUUJxPhU/biden-union-leaders-natural-gas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-union-leaders-natural-gas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-union-leaders-natural-gas.amp",
-      "publishedDateTime": "2021-03-04T17:19:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

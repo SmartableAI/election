@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "At Earth Day climate summit, Biden promises 50% reduction in US greenhouse emissions"
+    excerpt: "President Joe Biden announced the goal of reducing greenhouse gas emissions by 50% as he kicked off a climate summit with 40 other world leaders."
+    publishedDateTime: 2021-04-22T14:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/22/president-biden-pledge-reduction-us-greenhouse-gas-emissions/7307038002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7307038002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7307038002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/10/05/USATODAY/usatsports/getty-emissions-refinery-flaring.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ZibFmlATrlemr+7MLvi+ddMU/jMxn1LYExlmdJdXK5ojD/I9lC4561GObYLjLMkKDLzCO5SMLaeK+4afDHMzB0i2q+InFpGIJwpnCiPnBvJ7FIfH8HtGZM9YK0Ry8xV1iwIrD9AYk2ZYL6iqzKU8s4kFT8uqCXIYChSGGioTER4NDbTS9Qyp1KKY8WFGZ6VOUzgCVNH7OtD3qXGltmFwcp1PlEC2BNv4KMPIHd5y73XbOYhwdo7tfveNjqK9JgqTJaUQiXOkeqBbKWih7Xi7nhkopkOI0BHOeV0iaDvOSTDRjd448maryWS39pzF9d9ra5ybUdsnQM49zpXxPwSvYJbm8xM9WEYOsz7E5cizYV2M5J6dBfAcNJp+v1KKFjiGDU48cAGsY0cKrAkSWgJbtzZGU/jmU5KzRKiM3eOZtbqhBvqrnqVJPLzQNu0oSgPq/i0wCp6rXTYpyN0YyUTIoiy3gLl8nEcWwGH4WLmypSNng2dZvU7OFPVpcS/6/h0oM+fv64hOhChSz8rx32Q0BQ==;5vam3DmHoOBDIYwgE2hAxw=="
 ---

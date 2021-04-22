@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "At Earth Day climate summit, Biden promises 50% reduction in US greenhouse emissions"
+    excerpt: "President Joe Biden announced the goal of reducing greenhouse gas emissions by 50% as he kicked off a climate summit with 40 other world leaders."
+    publishedDateTime: 2021-04-22T14:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/22/president-biden-pledge-reduction-us-greenhouse-gas-emissions/7307038002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7307038002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7307038002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/10/05/USATODAY/usatsports/getty-emissions-refinery-flaring.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Biden urges businesses to use paid leave to help workers get COVID-19 vaccines"
     excerpt: "President Joe Biden urged businesses to help workers get vaccinated while announcing he met early the goal of 200 million shots in 100 days."
     publishedDateTime: 2021-04-21T20:26:00Z
@@ -80,6 +96,6 @@ related:
         height: 675
         isCached: true
 
-secured: "l1gU15MXL3LQ7OuZq33+K638ErE5nrqjwX8k/B70JkG7o9d4eEPTJSo200qStqnwU/NHNfPMJk9UIqGTTl9OV5DUVYdmXBb4VaGHaolCyV65sRhIW/3o1jT/AUDo3dKU9Q8pGI8DklfMD0I4+iUTgzzuMC+g37y0obU3INmP0xASgpzhcmbAPVK0xS2bPvXpGMqNbqF+yDA3Y+23uOsaJQTDu8nzm72lrkBEtlMnUUXRr204BTuMqMXWnMJYZEME+Gh3mBsOu1R7eqpZmE/stVqk+NnF/enUw3KGJChP/aGWdDZoVPUzYbF001qc/p13JhDEuBTU3W4u+qqGc6yeZqH5VTrg7jYkhqz0nQXJTEI=;sb7mfqrCRkVzUmR5z2Ll4w=="
+secured: "OlcvBUnX357ce001QNU6MEglsMH12pv7OlzpU0TT3aJfkmxA8T6lqfq2dV1s5qEYtUfjXOcrsGpEZh5nMrtdgPwUzOzB1yMn9uljaR5YCE0EyJlUpH/UOHJ4aOc0wTTMgFA3ItV4gf8IFUGVD5VD0Wf5Pgun+lOhtvk5CHk5sjyKFKz+hTAqQp24EjHmSEY3CN9M7yg5ZGheiz7xalzwDN1AB7xMjeVt27/mYtrHUScmBEI7ou730z2jIQ7ZkrEhsZPpogHa0gwGufZj9QRliMY2FsKx74nhNOFhqYtlD8OtaJIfTMcQZemzxOpnU3QhsPTojkG+Jzm+XzZGxW76BwlDFEm07WYrOnRigI1OuFJ+QbEyGELjDHlPhgNz7KFM0zC3Bq3L9/2mfaQbesHvzUW92QhXY3ib2Hfktg8PkvhL8ZGA1LSig8IGa/wrXDW5BXFKBMk4HLj93EjEoXmt1oNBObdsxXYX8xrly9QRNVnAvSxhlEj2W2FNdnPofFV59B73wLroo7143jWW4TADyg==;eoES0vXm60L5bQrCQwDFHA=="
 ---
 
