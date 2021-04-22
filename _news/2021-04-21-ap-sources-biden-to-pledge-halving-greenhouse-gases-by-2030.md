@@ -2,21 +2,21 @@
 category: news
 title: "AP sources: Biden to pledge halving greenhouse gases by 2030"
 excerpt: "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders"
-publishedDateTime: 2021-04-21T03:07:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+publishedDateTime: 2021-04-21T14:01:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
+webUrl: "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
 type: article
 quality: 125
 heat: 165
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HRNNWAVB5UI6XMYUF2MTXWB6GE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_72bb4a2d95044868a55d724a16676fed_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -64,6 +64,6 @@ related:
         height: 675
         isCached: true
 
-secured: "C91IuORXywbmoVe7LpxeEv4YBbqLnSD+edGicgQY+9adE2IEvgk/J2RgLRdMuUgHV9dLl8Ds/fnaxl0co54P3NZywr3G7Yr5Vqf5Cr+Pubqar4+gyaJidAhFPdaW94X3hif3d7Erv0thvTR5/eNseUTqBvEgv21TKwRvixZMCNyflhEDX8++/uhOiOCbgtmn9aTt7PsIaXJjtGt0jOieuXCmqzxKvsIVn04E8zNeIQsEzXCI8WyWbvAu3xVXHC8+/DOZra0UV0eR8ZBITuE7v63WYqL8ZEng6QYhKHuI4oXtWQNjcl7XgcEmcyp/f5cAPNT5ysZwF3iVk+YhRFOj0HtKfDnhl4FS32O3owwIK0Gbqw61wItQ3n1FrvHfdsTSRdwv6TustRykyqze+ekQuGu+CjWRsY9oq7jy377wO2Ud1K+ICDkYIMu2VoDwBwIDYe6MW7qoubQ6U/x0Do9VJQNZwwSkN7ZK04LVTRvIBqKGavi4TqxX3kuADm+0jnkQ39bdtPeNqOH8pkTj4x2uEg==;CY3OjktlLym1oTS3VZaM5w=="
+secured: "rG2KpdUf7/Tt2DLhh3j5UjrJQki/iVEjK1LdWED/E85sRnbb9b8Cx12fuuEYQjLzjqA6TD4C6BBHCAnBClwflndF5Qp4VjK6/dIHiNkGfMb6/+7569gsQzwApRn4w3O7dndRKLXAL5MNBz6znp21R6jNk79jixU+i5RGw+COtIvsq5f8GeRh87d6T8HpRTtIAXZMBsv+R69fe9ZV1DPGfY3tABnPUdePiFUyEMGzOcgs4HDiYQnllKj/c6O/aDc5XM36xmVFp4ddTd9DNvorRxkuRG5L/hogvN5h7WmRUTw9l6m0gpz2xf2JLDfzghZQaXZKhgIwWltBZ8isyJzY0tjG69p6IPqOgFj3nOnR0PI=;dvd7bdRyTDFELy/PGIYowQ=="
 ---
 

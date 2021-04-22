@@ -33,19 +33,19 @@ images:
 related:
   - title: "AP sources: Biden to pledge halving greenhouse gases by 2030"
     excerpt: "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders"
-    publishedDateTime: 2021-04-21T03:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030/2021/04/21/27b9b456-a257-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    publishedDateTime: 2021-04-21T14:01:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HRNNWAVB5UI6XMYUF2MTXWB6GE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_72bb4a2d95044868a55d724a16676fed_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "President Biden urges businesses to use paid leave to help workers get COVID-19 vaccines"
     excerpt: "President Joe Biden urged businesses to help workers get vaccinated while announcing he met early the goal of 200 million shots in 100 days."

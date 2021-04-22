@@ -156,6 +156,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris casts tie-breaking vote advancing contentious Pentagon pick along party lines"
+    excerpt: "Vice President Kamala Harris cast her first tie-breaking vote on a President Biden nominee Wednesday, advancing his pick for undersecretary of defense for policy, according to reports."
+    publishedDateTime: 2021-04-22T03:34:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8XKlsLGrDM/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/INHOFE-HEADSHOT-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris: Guilty verdict in Chauvin trial would 'not heal the pain that existed for generations'"
     excerpt: "Shortly before a jury convicted former Minneapolis police officer Derek Chauvin for the murder of George Floyd last May, Vice President Kamala Harris said even a guilty verdict would not “heal the pain” of systematic racism in the United States."
     publishedDateTime: 2021-04-20T23:44:34Z

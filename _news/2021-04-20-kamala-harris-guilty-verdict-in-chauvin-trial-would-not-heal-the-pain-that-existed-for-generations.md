@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris casts tie-breaking vote advancing contentious Pentagon pick along party lines"
+    excerpt: "Vice President Kamala Harris cast her first tie-breaking vote on a President Biden nominee Wednesday, advancing his pick for undersecretary of defense for policy, according to reports."
+    publishedDateTime: 2021-04-22T03:34:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8XKlsLGrDM/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/INHOFE-HEADSHOT-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden used Russian bounty story against Trump in 2020 campaign"
     excerpt: "Then-presidential candidate Joe Biden, along with other Democrats, accused former President Trump during the 2020 campaign of having a soft spot for President Vladimir Putin following a New York Times report last year that Russia placed bounties on the heads of American soldiers."
     publishedDateTime: 2021-04-16T17:46:00Z
