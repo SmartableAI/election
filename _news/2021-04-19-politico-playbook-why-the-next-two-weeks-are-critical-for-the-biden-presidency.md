@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP Sen. Tim Scott to deliver GOP response for Biden address to Congress"
+    excerpt: "Republican Sen. Tim Scott of South Carolina will deliver the GOP response following President Joe Biden's address to a joint session of Congress on April 28.\n    \n"
+    publishedDateTime: 2021-04-22T19:50:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PxINL6tfAgQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/tim-scott-gop-response-biden-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/tim-scott-gop-response-biden-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200611182856-sen-tim-scott-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady Jill Biden to undergo 'procedure,' White House says"
     excerpt: "The White House says President Joe Biden will accompany his wife, Jill Biden, early Wednesday morning to an appointment where she will undergo a “common medical procedure.” The White House says both Bidens will then return to the White House and “resume their normal schedule."
     publishedDateTime: 2021-04-14T02:14:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Former Trump administration official mulling GOP challenge against Cheney"
-excerpt: "Perry Pendley, who served as acting director of the Bureau of Land Management during the Trump administration, is expected on Thursday evening to give a speech in his home state of Wyoming where he'll strongly hint at launching a Republican primary challenge against embattled Rep. Liz Cheney."
-publishedDateTime: 2021-04-22T16:46:05Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jp3ApLgn95w/former-trump-administration-official-liz-cheney-primary-challenge"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jp3ApLgn95w/former-trump-administration-official-liz-cheney-primary-challenge"
+excerpt: "Perry Pendley, who served as acting director of the Bureau of Land Management during the Trump administration, is expected on Thursday evening to give a speech in his home state of Wyoming where he'll strongly hint at launching a Republican primary challenge against embattled Rep."
+publishedDateTime: 2021-04-22T16:46:00Z
+originalUrl: "https://www.foxnews.com/politics/former-trump-administration-official-liz-cheney-primary-challenge"
+webUrl: "https://www.foxnews.com/politics/former-trump-administration-official-liz-cheney-primary-challenge"
 ampWebUrl: "https://www.foxnews.com/politics/former-trump-administration-official-liz-cheney-primary-challenge.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-administration-official-liz-cheney-primary-challenge.amp"
 type: article
-quality: 174
+quality: 134
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/perry-pendley.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -284,6 +285,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fYDrxMDp1IOQnOhF7mWxZDD5xcBVW9LugfX8wljUhJAm6rUNDY0jmLZrghFXhcn/gQ5485Xil5k2jaICsV7Jy0L9cR6xLL8pCq2f/6ZfkkiajJAEe868Zxt3jvWKLqjNiXkK4o3AtRY4Q196Hapho/9piT4OjulGPpPONBEmY9DOOD+7MWGHt/08eXqC4aWP9HrWgiSHn/DemcBISiWWcTBkzcXMvFjLgJBP6pvGSTTrrolGV7PyzKdlUEwkdz6LqI8iQbTohlmUqeIX9+8I4fpDvtVWieXflPjF6WcrChw+RRMo5jhZpFg339uwQOTpoFF8r8Czye9y8SNGljWTLlsSiRqYzXO4pD72F5r0VQQ=;1W/x0bXa4vdgXlUAHffNWA=="
+secured: "UvlF4BfG3x5M0VxZBphk1/j/yai5XHFaqUhTQf91PwNBmzseBOKG4lvEzBfVrjZvWPtrNnXQycRyCMb3wvVGzCeNcNueLS3ctwVLicQjHxFZNxy5KoHRrKwvI0rlkH599/RMlCEpzxQasoqLWj5roh8Y34decoJdLfycw8M+6adB4ze9X1UnGc9y1sf9/2IGO/zgh970Si3xy9dpWFQL8t1Twcd513hE2uuyS3P+iRKfZ51jR5qP+Vf8ME1vd26WVxAjnS7lRXCf9fsJLJsjMnEMZerjp5omQv2r+DYTdlNG1oz1VNwvRYs6cFDbsS653MFyjv3e8K/m86tripyyYBzdnn3DAzf8s46pKJBPDIY=;vpsD83LUNZ93UiO9yIAPlw=="
 ---
 

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP Sen. Tim Scott to deliver GOP response for Biden address to Congress"
+    excerpt: "Republican Sen. Tim Scott of South Carolina will deliver the GOP response following President Joe Biden's address to a joint session of Congress on April 28.\n    \n"
+    publishedDateTime: 2021-04-22T19:50:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PxINL6tfAgQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/tim-scott-gop-response-biden-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/tim-scott-gop-response-biden-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200611182856-sen-tim-scott-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Biden Will Host Japan’s Prime Minister at the White House"
     excerpt: "Prime Minister Yoshihide Suga will meet with President Biden and top aides in the afternoon, and the two leaders will hold a news conference. The visit is an opportunity for Mr. Biden to press Japan for its support in the effort to contain China’s economic and military ambitions."
     publishedDateTime: 2021-04-16T11:11:00Z

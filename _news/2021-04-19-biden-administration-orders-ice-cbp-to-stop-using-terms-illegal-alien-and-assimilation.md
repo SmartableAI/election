@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden administration cozies up to controversial UN agency for Palestinian refugees"
+    excerpt: "The U.N. Relief and Works Agency (UNRWA) has continuously faced accusations of teaching hatred and incitement in its school system against Jews and Israelis. Yet none of this was even hinted at in an optimistic statement released following the meeting between Ambassador Linda Thomas-Greenfield and the"
+    publishedDateTime: 2021-04-22T19:40:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vjv2JWtIe-U/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden administration increases seasonal worker visas by 22,000, including 6,000 from Central America"
     excerpt: "The Biden administration on Tuesday announced that it is increasing the number of available H-2B seasonal worker visas available -- increasing the number by 22,000, with 6,000 reserved for workers from Central American countries."
     publishedDateTime: 2021-04-20T16:48:58Z
