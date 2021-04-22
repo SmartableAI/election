@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-12-analysis-bidens-agencies-reverse-trumps-wall-street-friendly-rules.md",
+      "title": "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules",
+      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 880,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BZ16N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ16N",
+      "publishedDateTime": "2021-04-12T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-biden-aims-to-redefine-word-bipartisan-as-dems-work-to-push-spending-bill-without-any-gop-votes.md",
       "title": "Biden aims to redefine word ‘bipartisan’ as Dems work to push spending bill without any GOP votes",
       "excerpt": "President Biden vowed to bridge the partisan political divide but, struggling to garner Republican support for major bills, his administration appears to be changing the narrative by redefinining what \"bipartisan\" means.",
@@ -1272,58 +1324,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-nancy-pelosi-was-set-to-retire-from-politics-before-trump-election-win-in-2016-new-book.md",
-      "title": "Nancy Pelosi Was Set To Retire From Politics Before Trump Election Win in 2016: New Book",
-      "excerpt": "House Speaker Nancy Pelosi said the victory of Donald Trump in the 2016 election felt like \"a mule kicking you in the back\" and convinced her to remain in politics, according to an upcoming biography. Assured that the Democratic contender Hillary Clinton ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612",
-      "originalUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1775435/speaker-house-nancy-pelosi.jpg",
-          "width": 3600,
-          "height": 2401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1",
-      "publishedDateTime": "2021-04-10T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

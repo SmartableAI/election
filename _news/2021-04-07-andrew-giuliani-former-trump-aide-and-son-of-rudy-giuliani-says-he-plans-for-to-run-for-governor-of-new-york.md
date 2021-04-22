@@ -48,16 +48,16 @@ related:
         height: 619
         isCached: true
   - title: "Donald Trump Jr. takes on new role as top adviser inside the Trump family"
-    excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vice grip on the Republican base for any chance of success.\n    \n"
-    publishedDateTime: 2021-04-20T13:30:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ws83lHl9dR0/index.html"
+    excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vise grip on the Republican base for any chance of success."
+    publishedDateTime: 2021-04-20T09:30:00Z
+    webUrl: "https://www.cnn.com/2021/04/20/politics/donald-trump-jr-adviser/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 134
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419134709-donald-trump-jr-file-2019-super-tease.jpg"
         width: 1100

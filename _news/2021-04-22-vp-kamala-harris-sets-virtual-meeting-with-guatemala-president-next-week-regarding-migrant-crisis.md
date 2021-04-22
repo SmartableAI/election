@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Harris to travel to Guatemala, Mexico amid criticism over border crisis"
-excerpt: "Vice President Kamala Harris said on Wednesday that she will travel to Guatemala and Mexico as part of her role in tackling the \"root causes\" of the swirling migration crisis at the southern border -- as she faces intense criticism for her alleged lack of action on the crisis."
-publishedDateTime: 2021-04-14T14:36:25Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pue2-RecnWc/harris-guatemala-and-mexico-criticism-over-border-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pue2-RecnWc/harris-guatemala-and-mexico-criticism-over-border-crisis"
-ampWebUrl: "https://www.foxnews.com/politics/harris-guatemala-and-mexico-criticism-over-border-crisis.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-guatemala-and-mexico-criticism-over-border-crisis.amp"
+title: "VP Kamala Harris sets virtual meeting with Guatemala president next week regarding migrant crisis"
+excerpt: "Vice President Kamala Harris plans to meet virtually next Monday with Guatemala’s President Alejandro Giammattei regarding the migrant crisis at the U.S.-Mexico border."
+publishedDateTime: 2021-04-22T04:05:05Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8L9coa8Cqs/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8L9coa8Cqs/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
+ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
 type: article
-quality: 185
+quality: 172
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Harris to travel to Guatemala, Mexico amid criticism over border crisis"
+    excerpt: "Vice President Kamala Harris said on Wednesday that she will travel to Guatemala and Mexico as part of her role in tackling the \"root causes\" of the swirling migration crisis at the southern border -- as she faces intense criticism for her alleged lack of action on the crisis."
+    publishedDateTime: 2021-04-14T14:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pue2-RecnWc/harris-guatemala-and-mexico-criticism-over-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-guatemala-and-mexico-criticism-over-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-guatemala-and-mexico-criticism-over-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
     excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
     publishedDateTime: 2021-04-10T01:35:39Z
@@ -159,22 +175,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/INHOFE-HEADSHOT-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "VP Kamala Harris sets virtual meeting with Guatemala president next week regarding migrant crisis"
-    excerpt: "Vice President Kamala Harris plans to meet virtually next Monday with Guatemala’s President Alejandro Giammattei regarding the migrant crisis at the U.S.-Mexico border."
-    publishedDateTime: 2021-04-22T04:05:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8L9coa8Cqs/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Kamala Harris: Guilty verdict in Chauvin trial would 'not heal the pain that existed for generations'"
     excerpt: "Shortly before a jury convicted former Minneapolis police officer Derek Chauvin for the murder of George Floyd last May, Vice President Kamala Harris said even a guilty verdict would not “heal the pain” of systematic racism in the United States."
@@ -397,6 +397,6 @@ related:
         height: 648
         isCached: true
 
-secured: "kFa77bICJwm2j9joyP4snZuKxDd817fnkGIk77l/CdYUElcIx0wRcML0PErd16pGZ5iES2D6ENepz1jQJdn/Vjx1C1HoShkEUBUBwTu3WngO4HLZkevqxQzkkgkZHy5xdAqhUEILLULhOoJ8FzmZ/eavBQH/PcoYvq2Hn5ZiNodhliXN1gnjSHi6bEEjdCmd3bqJzzccWolMyU+KCFoHUitJhrwFAfrsiii5eCICK2nLoi5P+AaPXE6wb9ixnqJ8uTnKezI1JBwpBgdoSK28xWiSOEVuz3zNY3G4fojCCLP3qNmgNbq86w75TaD0m5kQIb2ZohCBGTaDp5AMoA74xfeyb0s9DhFTIWZpdnjKFlc=;p2toeA1/syjDIk73/EKGBQ=="
+secured: "hvXZ2YokW/yNwF5rfvEEki3Sz+EyqbXGmgJkzFsEPUEUQniRJJTgmEqgqTBjy7imKuUjjbxDCDjYDdiOX+vOsHeB+nn6pnnor/78kMDNIyJ+jvJT94R5xHp4j+jjFOvTEPMLnOlmbrK0VOYX9XFMDoya4pt96mZNYlAcmQFZ5pb0iPgApdS5f6VB5AdJb4FnGLX/buwwaOhuzLrAallKSJklJtC0pkZtMNa0l5/LaoGDHF2OI0yTNtAYvVwIM1r9WkHKkJgTPSKkhdDiQEA+fC9Ngh7c7wceE5Qo9El97rElwB15Sosr8yS7JM8D0MxnNxGiUWXPCkFV+mDQEYnZVmrXjy7zD9dJmBEy/yqtbDQ=;fv6PILRWrnDNkuqv8OWv3Q=="
 ---
 

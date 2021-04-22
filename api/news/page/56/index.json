@@ -2,6 +2,58 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-01-21-theologian-russell-moore-has-a-message-for-christians-who-still-worship-donald-trump.md",
+      "title": "Theologian Russell Moore Has a Message for Christians Who Still Worship Donald Trump",
+      "excerpt": "If you can defend this, you can defend anything,” wrote Russell Moore, a theologian who is also the president of the Ethics and Religious Liberty Commission (ERLC) of the Southern Baptist Convention (SBC),",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
+      "originalUrl": "https://time.com/5932014/donald-trump-christian-supporters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2021/01/russell-moore-conservative-christians.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T03:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-first-100-days-of-biden-obama-clinton-escalating-spending-to-address-economic-challenge.md",
       "title": "First 100 days of Biden, Obama, Clinton: Escalating spending to address economic challenge",
       "excerpt": "The first 100 days of a two-term presidency mark about 3% of the eight-year span, but since President Franklin Delano Roosevelt, this brief early window of opportunity has been used to judge a new commander in chief’s agenda.",
@@ -1321,58 +1373,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-no-go-for-joe-exotic-trump-pardon-list-omits-tiger-king.md",
-      "title": "No-go for Joe Exotic: Trump pardon list omits 'Tiger King'",
-      "excerpt": "One name missing in President Donald Trump 's flurry of pardons is “Tiger King” Joe Exotic. His team was so confident in a pardon that they'd readied a celebratory limousine and a hair and wardrobe team to whisk away the zookeeper-turned-reality-TV-star,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_aefb42ebd3664b1785d7448f48d06d37_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065",
-      "publishedDateTime": "2021-01-20T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

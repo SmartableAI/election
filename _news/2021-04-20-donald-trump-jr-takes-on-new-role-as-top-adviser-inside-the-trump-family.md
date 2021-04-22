@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Donald Trump Jr. takes on new role as top adviser inside the Trump family"
-excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vice grip on the Republican base for any chance of success.\n    \n"
-publishedDateTime: 2021-04-20T13:30:37Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ws83lHl9dR0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ws83lHl9dR0/index.html"
+excerpt: "Former President Donald Trump has elevated his son Donald Trump Jr. to an unofficial new role inside his orbit as he weighs the idea of a comeback presidential bid in 2024 that would require him to maintain a vise grip on the Republican base for any chance of success."
+publishedDateTime: 2021-04-20T09:30:00Z
+originalUrl: "https://www.cnn.com/2021/04/20/politics/donald-trump-jr-adviser/index.html"
+webUrl: "https://www.cnn.com/2021/04/20/politics/donald-trump-jr-adviser/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/donald-trump-jr-adviser/index.html"
 type: article
-quality: 174
+quality: 134
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -64,6 +65,6 @@ related:
         height: 619
         isCached: true
 
-secured: "zAO3WyD+ne4/kXvpoHzMgapBQEbDW423/dTrluCKKA/ndqUMqzbVzkrjiOxcDkHjy2YQ7YmWupUFuONzCrgLWPeLrlkBiONE5/I5VjWPf7RfOiCBWP0Hzt7HBskJvOAGHqqCF8kKiXrmD6IMNTi7NA7g3IsUwcS8hW3gmZd1KIoGZMIaCtBloBXU/lIQtEDBCqP5ELyIBEKPoAPC1kKXWf19NWaRJMFZat3IsBJtNPijhUHbA2D+3vhimhTNAJT//i1K6RRnLKr4XB6OCvbTwT9rb4z1j8ECktSf01dR+JcQO3W0rfvzXhc+6gL97XitlN6z320aSh53ZwyWSIUOAh60UYt4eOBt3xiZLpH+t7A=;Sd9B7jVm47x8557FeaWclA=="
+secured: "dlC+QOF4g+oH6amwj5dF5NT5iX134Fqqi6uvbLn4PZmk3gwPSRgUmUFdsE5vJdQ7V/2xsby9vBR4KG9boJtyVxWbiT8Z3nDiiYb9pNHovBRtkpdqFamXFHkhlIBOobHL8MAOmVuC1+eVOLXmE2vU+dz0FPTLZMGZ/dNquZ1JZZY+JSbf4TvR5oGd+eqaVOoxt3r6doJLUyBezpHddYaWmgrUMEIQurD81iQXi1yz9CO+1o2ffkID66k6TUES5DFpEHbaTKvREr1dSXyAwSRD1QFte4ssY1pJWKXpF3Jx2z4shscWkoOAEmF3yAwUmxao1MJldObMHowowFEJAi7qt46x39+BJiRhDRM6uUBePxs=;bpRO04t1YmN377UUatpTBQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-pr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1"
 type: article
 quality: 124
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "There would probably be more yawns than outrage if Biden expanded the Supreme Court"
-    excerpt: "Some progressives want Biden to expand the court and appoint several new members to balance the conservative 6-3 majority on the court. They are outraged at what they perceive as Republicans illegitimately filling two seats: first,"
-    publishedDateTime: 2021-04-20T11:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp"
+  - title: "Jill Biden to visit Navajo Nation, once floored by COVID-19"
+    excerpt: "Jill Thursday and Friday will be Biden’s third to the reservation that spans 27,000 square miles (70,000 square kilometers) in the Four Corners region, and her inaugural visit as first lady. She’s expected to meet Navajo officials in the tribal capital of Window Rock,"
+    publishedDateTime: 2021-04-22T04:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F5DZZDFBJ4I6XMYUF2MTXWB6GE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MRADZ5VDD4I6XMYUF2MTXWB6GE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

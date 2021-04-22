@@ -526,6 +526,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-20-there-would-probably-be-more-yawns-than-outrage-if-biden-expanded-the-supreme-court.md",
+      "title": "There would probably be more yawns than outrage if Biden expanded the Supreme Court",
+      "excerpt": "Some progressives want Biden to expand the court and appoint several new members to balance the conservative 6-3 majority on the court. They are outraged at what they perceive as Republicans illegitimately filling two seats: first,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F5DZZDFBJ4I6XMYUF2MTXWB6GE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp",
+      "publishedDateTime": "2021-04-20T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-reps-roy-herrell-move-to-force-house-vote-on-extending-trump-era-border-restrictions.md",
       "title": "Reps. Roy, Herrell move to force House vote on extending Trump-era border restrictions",
       "excerpt": "FIRST ON FOX: Reps. Chip Roy, R-Texas, and Yvette Herrell, R-N.M., on Monday moved to force a vote on a bill that would keep a Trump-era public health order -- which allows migrants to be rapidly expelled from the U.S. -- in place until the COVID-19 pandemic and associated restrictions are repealed.",
@@ -1272,58 +1324,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-george-w-bush-on-what-separates-him-from-trump-i-dont-miss-being-famous.md",
-      "title": "George W. Bush on What Separates Him From Trump: I Don't 'Miss Being Famous'",
-      "excerpt": "\"I think it's undignified to wanna see my name in print all the time,\" Bush said in a CBS News interview that aired Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512",
-      "originalUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1779568/george-w-bush.jpg",
-          "width": 1024,
-          "height": 745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/george-w-bush-what-separates-him-trump-i-dont-miss-being-famous-1584512?amp=1",
-      "publishedDateTime": "2021-04-18T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

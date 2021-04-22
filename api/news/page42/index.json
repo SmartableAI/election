@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-02-12-twitter-reacts-to-terrence-k-williams-calling-vp-kamala-harris-a-pole-model.md",
+      "title": "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’",
+      "excerpt": "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020",
+      "originalUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1",
+      "publishedDateTime": "2021-02-11T20:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-raskin-trump-like-the-fire-chief-who-sends-the-mob.md",
       "title": "Raskin: Trump 'Like the Fire Chief Who Sends the Mob'",
       "excerpt": "Maryland Rep. Jamie Raskin, the lead impeachment manager, countered arguments made by Donald Trump's attorneys that the former president's words in the lead-up to the Jan. 6 assault on the Capitol qualify as protected speech.",
@@ -1289,62 +1341,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
       "publishedDateTime": "2021-02-10T15:48:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-nikki-haley-warns-illegal-immigration-hitting-crisis-levels-amid-biden-moves.md",
-      "title": "Nikki Haley warns illegal immigration hitting ‘crisis levels,’ amid Biden moves",
-      "excerpt": "Nikki Haley on Wednesday warned that illegal immigration is hitting “crisis levels” in the wake of a number of reversals of key Trump-era policies by President Joe Biden -- with the former U.N. ambassador arguing that the U.S. needs to take care of “Americans first.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp",
-      "publishedDateTime": "2021-02-10T15:36:04-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

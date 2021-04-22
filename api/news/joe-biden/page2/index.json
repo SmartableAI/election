@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-11-clyburn-offers-manchin-history-lesson-to-clear-senate-path-for-biden-reforms.md",
+      "title": "Clyburn offers Manchin history lesson to clear Senate path for Biden reforms",
+      "excerpt": "said on Sunday he intends to give Joe Manchin a lesson in US history as he attempts to clear a path for Joe Biden on voting rights and infrastructure. Pelosi and Cheney critical of Gaetz but stop short of calling for resignation Manchin, a moderate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b9f072380b00e5cd707546e93628bd39d3af75d4/208_481_3048_1828/master/3048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe43afa6d72afd4bc9d30670810e50a4",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
+      "publishedDateTime": "2021-04-11T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-biden-sees-win-for-us-in-electric-vehicle-battery-deal.md",
       "title": "Biden sees `win' for US in electric vehicle battery deal",
       "excerpt": "President Joe Biden calls it “a win for American workers and the American auto industry.\" WASHINGTON -- Two big South Korean electric vehicle battery makers have settled a long-running trade ...",
@@ -1530,58 +1582,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-a-perverted-rule-how-joe-biden-evolved-from-supporting-the-filibuster-to-trying-to-change-it.md",
-      "title": "A ‘perverted’ rule: How Joe Biden evolved from supporting the filibuster to trying to change it",
-      "excerpt": "Over his 36 years in the Senate, Joe Biden personally threatened to filibuster legislation twice. The first came in 1993 during a debate on the funding and organizational structure for Radio Free Europe and Radio Liberty. Biden eventually reached a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-01-2021/t_efd6404ddd9b44afb7f96591793d9aed_name_20210331_BIDEN_FILIBUSTER_V4.png&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/?outputType=amp",
-      "publishedDateTime": "2021-04-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

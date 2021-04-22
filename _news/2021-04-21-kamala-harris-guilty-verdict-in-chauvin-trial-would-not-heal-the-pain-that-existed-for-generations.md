@@ -176,6 +176,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "VP Kamala Harris sets virtual meeting with Guatemala president next week regarding migrant crisis"
+    excerpt: "Vice President Kamala Harris plans to meet virtually next Monday with Guatemala’s President Alejandro Giammattei regarding the migrant crisis at the U.S.-Mexico border."
+    publishedDateTime: 2021-04-22T04:05:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8L9coa8Cqs/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-kamala-harris-sets-virtual-meeting-with-guatemala-president-next-week-regarding-migrant-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris: Guilty verdict in Chauvin trial would 'not heal the pain that existed for generations'"
     excerpt: "Shortly before a jury convicted former Minneapolis police officer Derek Chauvin for the murder of George Floyd last May, Vice President Kamala Harris said even a guilty verdict would not “heal the pain” of systematic racism in the United States."
     publishedDateTime: 2021-04-20T23:44:34Z

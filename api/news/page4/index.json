@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-17-this-pro-trump-latino-wants-to-lead-virginia.md",
+      "title": "This pro-Trump Latino wants to lead Virginia",
+      "excerpt": "Now, de la Peña, 65, who never sought elective office before, is using his life story to connect with voters as he seeks to become Virginia’s first ever Latino governor. He faces a crowded primary, which the Republican Party of Virginia will hold next month in an unassembled convention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502",
+      "originalUrl": "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/6f/30/8635360e44c49f7a766287c92f14/sergio-de-la-pena.png",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-ilhan-omar-and-democratic-members-urge-biden-to-act-swiftly-on-raising-refugee-caps-lives-depend-on-it.md",
       "title": "Ilhan Omar and Democratic members urge Biden to act swiftly on raising refugee caps: 'Lives depend on it'",
       "excerpt": "A group of progressive Democrats is urging the Biden administration to act quickly to raise refugee caps put in place by the former Trump administration, warning that \"lives depend on it.\"\n    \n",
@@ -1312,58 +1369,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-how-will-donald-trump-fare-in-tuesdays-primaries.md",
-      "title": "How will Donald Trump fare in Tuesday's primaries?",
-      "excerpt": "Candidates are making a final push ahead of Tuesday's primaries. Will Donald Trump enjoy another big night, or will recent violence at his rallies hurt him? CBSN political contributor Leslie Sanchez and Bob Cusack,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
-      "originalUrl": "https://www.cbsnews.com/video/how-will-donald-trump-fare-in-tuesdays-primaries-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/15/d475d0b6-b992-41b9-90da-fb04ecc2d3e1/thumbnail/1200x630/2fa521bbefe3d5e8c6c3020975a75a5a/cbsn-primary-preview-0314-498944-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

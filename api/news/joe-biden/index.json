@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-22-rand-paul-calls-for-joe-biden-to-burn-face-mask-to-promote-covid-vaccine.md",
-      "title": "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine",
-      "excerpt": "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention.",
+      "path": "_news/2021-04-22-jill-biden-to-visit-navajo-nation-once-floored-by-covid-19.md",
+      "title": "Jill Biden to visit Navajo Nation, once floored by COVID-19",
+      "excerpt": "Jill Thursday and Friday will be Biden’s third to the reservation that spans 27,000 square miles (70,000 square kilometers) in the Four Corners region, and her inaugural visit as first lady. She’s expected to meet Navajo officials in the tribal capital of Window Rock,",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579",
-      "originalUrl": "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579",
+      "webUrl": "https://www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1781388/rand-paul-biden-burn-mask-covid-vaccine.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MRADZ5VDD4I6XMYUF2MTXWB6GE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1",
-      "publishedDateTime": "2021-04-21T18:13:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-21T21:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -304,6 +304,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-there-would-probably-be-more-yawns-than-outrage-if-biden-expanded-the-supreme-court.md",
+      "title": "There would probably be more yawns than outrage if Biden expanded the Supreme Court",
+      "excerpt": "Some progressives want Biden to expand the court and appoint several new members to balance the conservative 6-3 majority on the court. They are outraged at what they perceive as Republicans illegitimately filling two seats: first,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F5DZZDFBJ4I6XMYUF2MTXWB6GE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp",
+      "publishedDateTime": "2021-04-20T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1484,58 +1536,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-clyburn-offers-manchin-history-lesson-to-clear-senate-path-for-biden-reforms.md",
-      "title": "Clyburn offers Manchin history lesson to clear Senate path for Biden reforms",
-      "excerpt": "said on Sunday he intends to give Joe Manchin a lesson in US history as he attempts to clear a path for Joe Biden on voting rights and infrastructure. Pelosi and Cheney critical of Gaetz but stop short of calling for resignation Manchin, a moderate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b9f072380b00e5cd707546e93628bd39d3af75d4/208_481_3048_1828/master/3048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fe43afa6d72afd4bc9d30670810e50a4",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/jim-clyburn-joe-manchin-voting-rights-georgia-jim-crow",
-      "publishedDateTime": "2021-04-11T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

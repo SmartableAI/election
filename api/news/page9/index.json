@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-09-haaland-meets-with-utah-politicians-tribes-as-biden-weighs-monument-changes.md",
+      "title": "Haaland meets with Utah politicians, tribes as Biden weighs monument changes",
+      "excerpt": "tribal leaders and other stakeholders Wednesday and Thursday as President Biden Joe Biden Anne Frank's stepsister: Trump 'obviously admired Hitler' Biden-GOP infrastructure talks off to rocky ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
+      "originalUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bearsearsmonument.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
+      "publishedDateTime": "2021-04-08T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-trump-endorses-gop-kentucky-sen-rand-paul-for-reelection-in-2022.md",
       "title": "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022",
       "excerpt": "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms.",
@@ -1321,58 +1373,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-913-carson-trump-axelrod.md",
-      "title": "9/13: Carson, Trump, Axelrod",
-      "excerpt": "The latest on the 2016 presidential campaign and the newest polls in key battleground states, with Donald Trump, Ben Carson, CBS News Elections Director Anthony Salvanto, Democratic Strategist David Axelrod,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/913-carson-trump-axelrod-1/",
-      "originalUrl": "https://www.cbsnews.com/video/913-carson-trump-axelrod-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/12/15/9334678b-ba9b-48ff-9dca-8457084b146a/thumbnail/1200x630/f248e71cc26ba21608939f758781626d/page-2-0912v3-445078-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
