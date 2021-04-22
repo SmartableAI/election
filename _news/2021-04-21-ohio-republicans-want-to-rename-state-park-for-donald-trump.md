@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Donald Trump faces backlash over comments about judge"
-excerpt: "Beast's Betsy Woodruff joins CBSN to discuss the backlash against Donald Trump, who accused a federal judge overseeing the lawsuit regarding Trump University of being unfair based on his Mexican heritage."
-publishedDateTime: 2021-04-18T06:30:00Z
-originalUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
-webUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
+title: "Ohio Republicans want to rename state park for Donald Trump"
+excerpt: "The bill sponsored by Rep. Mike Loychik to rename Mosquito State Park to Donald J. Trump State Park is the latest attempt by Ohio Republicans to honor the former president."
+publishedDateTime: 2021-04-20T17:53:00Z
+originalUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html"
+webUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html"
+ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/18/dcd664ed-ddac-4240-9f14-82e0330c3f7d/thumbnail/1200x630/21d8318cba3361fb95ab75f817569175/cbsn-trumps-trouble-0616-1073915-640x360.jpg"
+  - url: "https://www.chicagotribune.com/resizer/YLuHmrMqB44AmyDZD9U8R6ujN28=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQALKA4NVFF5TIJWDB7XEDACXA.JPG"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -92,22 +94,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/john-boehner-01-ap-iwb-210412_1618236535797_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Ohio Republicans want to rename state park for Donald Trump"
-    excerpt: "The bill sponsored by Rep. Mike Loychik to rename Mosquito State Park to Donald J. Trump State Park is the latest attempt by Ohio Republicans to honor the former president."
-    publishedDateTime: 2021-04-20T17:53:00Z
-    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/YLuHmrMqB44AmyDZD9U8R6ujN28=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQALKA4NVFF5TIJWDB7XEDACXA.JPG"
-        width: 1200
-        height: 675
         isCached: true
   - title: "House passes bill aimed at stopping future Trump travel ban"
     excerpt: "The House passed legislation on Wednesday that would limit executive authority to issue future travel bans like the one imposed by former President Trump against several Muslim-majority countries."
@@ -247,6 +233,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump faces backlash over comments about judge"
+    excerpt: "Beast's Betsy Woodruff joins CBSN to discuss the backlash against Donald Trump, who accused a federal judge overseeing the lawsuit regarding Trump University of being unfair based on his Mexican heritage."
+    publishedDateTime: 2021-04-18T06:30:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/18/dcd664ed-ddac-4240-9f14-82e0330c3f7d/thumbnail/1200x630/21d8318cba3361fb95ab75f817569175/cbsn-trumps-trouble-0616-1073915-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hillary Clinton calls Donald Trump a \"fraud\""
     excerpt: "Hillary Clinton called Donald Trump a \"fraud\" for allegedly ripping off students at Trump University. This comes as President Obama jumps into the 2016 presidential race, slamming Trump's proposals as \"crazy."
     publishedDateTime: 2021-04-18T02:26:00Z
@@ -372,6 +372,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Rrkiyez4unrZD5OF/BGNRngoMf8AG/gigC9VAyI5vEgFE5hjm3CeHiA4T9cGfCxR24FmnuejcAos9Vp3z+zVHtMcorqyULI4gZIU0XCBfT1p3YnU6mTuSv6sVq0P5/BNwch8pNNeaO0wh4d/QookLpiaQsatkh1r87zdPOOuR9dZi357RXlfjGvqPBM+zAe9wJbHV+FyBy9ZCrPTwnWLu0FpQNTQr2eHmI8zDCu0ZwDSOb/Rbc0rdUm+2sLf+kbIJ1YRMrIcr0uGiGRTa4DmWwKhMq0cFQ2f5q5AbHz5UnGO10cxyM5BdAkeTdpYdONo3+m7HvHPCFbtlSGx6ga8Y+jGDj1srTmX9UAYaKa1Hr0CmcMrgcqUfkvzjSHUtOPnp71g3DRjZSGt/14I4B4i8Uf4R5A+eVs0gF1wCYdeLqyleMFZmOYf7BW8zJmAsR2+fiDhmmnWVigjN7+4ia605IOGtTYsgawEWVF9TFVIjr+i3F+XrhzZbnDqUb7zctgSx7qre2oRJLDvlxp2S0DwjA==;+yk/JbbuGtZNog2+/fKBiw=="
+secured: "aExeFAwwshHP0QtKufr14Tl2hE64XOZqGYePmc+UbtdRJIgf2Y0TzUdg1BuY6HhuIK2H8rbztDGGD7w2Y+ZmFqgdJa+RF4FqU8s8sT8vr4YVDYohhGbpISzBagaGUJLkLJDAAr6JO1SdxNaRnfdpL8G1DL/RbIeeZ35KUtHRMfZ0DCQo/6zCOWgroJVrkQjX/ush9nWhwmJSmgXIic/4qiNXdw7wGt6oxWPi7ix8jU9ZAoOSZxkNYAPI/rcMbpdI+RyOb7+u/a30gj5o6339oT1fun0lz5cg+JDdE9e0flKfabtfZ9eBqpU8kVXeOHzWM28o9n/CLCZGyRHpgK+FudBKEqSrupcTtn7P53n+vzA=;KrIPbDSTJ14ELDo0Al6AWw=="
 ---
 

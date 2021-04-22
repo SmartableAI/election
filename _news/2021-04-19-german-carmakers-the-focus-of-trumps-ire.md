@@ -93,6 +93,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ohio Republicans want to rename state park for Donald Trump"
+    excerpt: "The bill sponsored by Rep. Mike Loychik to rename Mosquito State Park to Donald J. Trump State Park is the latest attempt by Ohio Republicans to honor the former president."
+    publishedDateTime: 2021-04-20T17:53:00Z
+    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/YLuHmrMqB44AmyDZD9U8R6ujN28=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQALKA4NVFF5TIJWDB7XEDACXA.JPG"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "House passes bill aimed at stopping future Trump travel ban"
     excerpt: "The House passed legislation on Wednesday that would limit executive authority to issue future travel bans like the one imposed by former President Trump against several Muslim-majority countries."
     publishedDateTime: 2021-04-21T21:01:00Z

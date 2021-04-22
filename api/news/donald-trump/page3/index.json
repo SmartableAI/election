@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-10-casey-urlacher-following-trump-pardon-claims-victory-as-write-in-candidate-in-mettawa-mayors-race.md",
+      "title": "Casey Urlacher, following Trump pardon, claims victory as write-in candidate in Mettawa mayor’s race",
+      "excerpt": "He was pardoned by former President Donald Trump on Jan. 20, and became a write-in candidate. Between the two candidates, approximately $85,000 was raised. O’Connor said there are only 450 registered voters in the village. Results will not be final until ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/jpovwQp5Tsg1X_OddJ0dELjLLO8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EWNYX4JHJVAQZC3EQMEXF6QY6E.jpg",
+          "width": 1200,
+          "height": 921,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-09T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-donald-trump-jr-and-kimberly-guilfoyle-buy-south-florida-mansion-for-97m.md",
       "title": "Donald Trump Jr. and Kimberly Guilfoyle buy South Florida mansion for $9.7M",
       "excerpt": "Donald Trump Jr. and his partner, the TV personality Kimberly Guilfoyle, have reportedly picked up a waterfront mansion in Jupiter, FL.",
@@ -1504,58 +1556,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-is-mlb-losing-tremendous-numbers-of-fans-as-donald-trump-claims.md",
-      "title": "Is MLB Losing 'Tremendous Numbers of Fans,' as Donald Trump Claims?",
-      "excerpt": "Former President Donald Trump called for a boycott of Major League Baseball (MLB) on Friday in response to their decision to move the All-Star Game out of Georgia due to the state's controversial new election law. \"Baseball is already losing tremendous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
-      "originalUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771314/los-angeles-dodgers-celebrate-their-victory.jpg",
-          "width": 3413,
-          "height": 2275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
-      "publishedDateTime": "2021-04-03T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

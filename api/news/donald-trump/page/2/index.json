@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-16-washington-moves-of-the-week-gaetz-promotes-former-democratic-staffer-while-former-trump-officials-jump-into-america-first-nonprofit.md",
+      "title": "Washington moves of the week: Gaetz promotes former Democratic staffer while former Trump officials jump into 'America First' nonprofit",
+      "excerpt": "Rep. Matt Gaetz has promoted a former Democratic staffer as other aides quit amid the sex trafficking investigation into the Florida Republican and Trump ally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/washington-moves-jobs-careers-trump-biden-administration-media-lobbying-congress-2021-4",
+      "originalUrl": "https://www.businessinsider.com/washington-moves-jobs-careers-trump-biden-administration-media-lobbying-congress-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6078928e74da0300181e1f13?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-vernon-jones-a-pro-trump-republican-will-challenge-kemp-in-georgia.md",
       "title": "Vernon Jones, a Pro-Trump Republican, Will Challenge Kemp in Georgia",
       "excerpt": "Vernon Jones, a Democrat-turned Republican and onetime state representative who has called Georgia’s presidential election “fixed,” will oppose Gov. Brian Kemp, one of Donald Trump’s top targets.",
@@ -1539,58 +1591,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-casey-urlacher-following-trump-pardon-claims-victory-as-write-in-candidate-in-mettawa-mayors-race.md",
-      "title": "Casey Urlacher, following Trump pardon, claims victory as write-in candidate in Mettawa mayor’s race",
-      "excerpt": "He was pardoned by former President Donald Trump on Jan. 20, and became a write-in candidate. Between the two candidates, approximately $85,000 was raised. O’Connor said there are only 450 registered voters in the village. Results will not be final until ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html",
-      "originalUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/jpovwQp5Tsg1X_OddJ0dELjLLO8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EWNYX4JHJVAQZC3EQMEXF6QY6E.jpg",
-          "width": 1200,
-          "height": 921,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-mettawa-mayor-st-0410-20210409-lzxyh6bus5bfrlt3beq3k65m44-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-09T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-16-us-and-japan-express-concern-over-chinas-aggressive-actions-during-first-trip-by-bidens-top-diplomat.md",
+      "title": "US and Japan express concern over China's 'aggressive actions' during first trip by Biden's top diplomat",
+      "excerpt": "US Secretary of State Antony Blinken criticized China's threats to regional stability during bilateral talks in Tokyo on Tuesday, warning that the United States and Japan would push back if necessary.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316034657-antony-blinken-lloyd-austin-us-japan-0316-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "publishedDateTime": "2021-03-16T04:54:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-undocumented-immigrants-see-light-of-hope-in-biden-relief-plan-which-gives-aid-to-their-us-born-children.md",
       "title": "Undocumented immigrants see 'light of hope' in Biden relief plan which gives aid to their U.S.-born children",
       "excerpt": "Undocumented workers were mostly left out of past COVID relief. Biden's $1.9 trillion plan would open that door through payments to their children.",
@@ -1298,58 +1354,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-for-biden-theres-no-place-like-a-weekend-home-in-delaware.md",
-      "title": "For Biden, there's no place like a weekend home in Delaware",
-      "excerpt": "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_3b0cbd70660341528ecdc742bc6d4056_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
-      "publishedDateTime": "2021-03-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

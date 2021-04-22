@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-14-obama-praises-bidens-bold-leadership-on-afghanistan-withdrawal.md",
+      "title": "Obama praises Biden's 'bold leadership' on Afghanistan withdrawal",
+      "excerpt": "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 495,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210414151832-obama-biden-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html",
+      "publishedDateTime": "2021-04-14T12:46:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-kamala-harris-again-says-she-has-no-plans-to-visit-us-mexico-border.md",
       "title": "Kamala Harris Again Says She Has No Plans to Visit U.S.-Mexico Border",
       "excerpt": "Ahead of a planned visit to Mexico and Guatemala, Vice President Kamala Harris reiterated to reporters on Wednesday that she will not travel to the southern border, which continues to experience an overwhelming increase in migrants. Harris said that ...",
@@ -1289,58 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-trump-speculates-johnson-johnson-vaccine-pause-fueled-by-politics-fdas-friends-at-pfizer.md",
-      "title": "Trump Speculates Johnson & Johnson Vaccine Pause Fueled by Politics, FDA's 'Friends at Pfizer'",
-      "excerpt": "Former President Donald Trump lambasted the Centers for Disease Control (CDC) and Food and Drug Administration's (FDA) recommended pause on the usage of the Johnson & Johnson vaccine as being politically driven. Six people who were recently vaccinated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307",
-      "originalUrl": "https://www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1777143/trump-johnson-johnson-pfizer-pause-cdcbiden.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307?amp=1",
-      "publishedDateTime": "2021-04-13T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

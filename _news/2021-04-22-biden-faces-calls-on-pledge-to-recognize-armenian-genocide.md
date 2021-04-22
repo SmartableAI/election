@@ -2,21 +2,21 @@
 category: news
 title: "Biden faces calls on pledge to recognize Armenian genocide"
 excerpt: "President Joe Biden is facing calls to recognize the Armenian genocide of more than a century ago, something that he pledged to do as a candidate but that could further complicate an already tense rel"
-publishedDateTime: 2021-04-21T21:15:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-pledge-recognize-armenian-genocide-77225965"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-pledge-recognize-armenian-genocide-77225965"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-pledge-recognize-armenian-genocide-77225965"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-pledge-recognize-armenian-genocide-77225965"
+publishedDateTime: 2021-04-21T20:15:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_0eec732618db478ebbaa195580429227_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPGKHHVCZ4I6XMYUF2MTXWB6GE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -529,6 +529,6 @@ related:
         height: 683
         isCached: true
 
-secured: "9n5Ng7js0mVcmvz7s8FoyOW01Hwz9fb0MaV/pZwiDUzhjxYCn0Tmhu+oLCyQBBrR1vpM8N3SP6+T/JCYFkIeKhF+4+vC5G3I/e56xPeL8brTTS73abvqaTj5pjrINaMH2zd3L7XiKN5sf9xcry26am+DS3R7cDsaf3e7O7k2z64xUbe2rC3+mxyP1/a+KCZnDHCQCSc13pM50xmIIuaLKQFsBrL4zkuOFr8x5CuLaKSHMph/R9B6ngH7fKmc+Sfm0ieRpnRA52tBOap+ZRGiY30pMU1p8Cw1PR/7z0UySOIewjMk9cqQcCt7SMArGwa61ARDravGTNl0/MlCiLGNeRZf1U3us0mgR/n4x/ZHMrc=;9EjghNV1/TnCprqzYwhyiA=="
+secured: "wQGhastAn/3ldX/vXaKEa1TLJifc1MrXm6N0XYBKhgCbgyjWG1OXcObpoS3xEtYwSjhGDtnppiiF7VGDJiDvelC3Q7SptdhMeaqh65Sa0jFccOHUWAl5JxKfahq0uIVPlCuw/JhmCh1EDzXYMDkNvVynU3tsZONnv0vK5sfeZ+Y8aUMlr6DzspP/eyc8bEaF1pRmO1K7wCoH0hE84V6jbdRR2nE482BrJ0sYaSGgY62PWsziDhnwvne+YdzSqUre7z8ft4CA8VrgylA1YntnYYDAkMp68TGGCwS6zvDbr7SfkfphtmWx1B/bisfGHc3p73CWChAJ0gcckjplJgU9z+US8vbDBvw4VcMZQINKAm4=;xwqTS3of/Lfzw+rfh50R6g=="
 ---
 
