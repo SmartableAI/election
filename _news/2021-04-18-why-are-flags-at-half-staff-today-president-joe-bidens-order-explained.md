@@ -287,6 +287,22 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "What Joe Biden Has Said About Armenian Genocide"
+    excerpt: "The president promised on the campaign trail to back a resolution calling the mass killings an act of genocide."
+    publishedDateTime: 2021-04-22T07:29:00Z
+    webUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587"
+    ampWebUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1781435/joe-biden-white-house.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden to meet with members of Congress over his infrastructure plan – live"
     excerpt: "Latest example of White House officials or the president himself meeting with members of Congress as they try and move Biden’s agenda"
     publishedDateTime: 2021-04-19T13:45:00Z

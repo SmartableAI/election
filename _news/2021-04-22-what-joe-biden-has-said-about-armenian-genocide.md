@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden says he's 'prepared to compromise' on infrastructure plan during meeting with bipartisan group of lawmakers"
-excerpt: "Biden and Transportation Secretary Pete Buttigieg met with lawmakers in an effort to gain support for an infrastructure plan that Republicans rebuked."
-publishedDateTime: 2021-04-20T13:58:00Z
-originalUrl: "https://www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4"
-webUrl: "https://www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4"
-ampWebUrl: "https://www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4?amp"
+title: "What Joe Biden Has Said About Armenian Genocide"
+excerpt: "The president promised on the campaign trail to back a resolution calling the mass killings an act of genocide."
+publishedDateTime: 2021-04-22T07:29:00Z
+originalUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587"
+webUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587"
+ampWebUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
 type: article
-quality: 104
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/607e29fe74da0300181e29d9?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://d.newsweek.com/en/full/1781435/joe-biden-white-house.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -287,22 +287,6 @@ related:
         width: 1440
         height: 959
         isCached: true
-  - title: "What Joe Biden Has Said About Armenian Genocide"
-    excerpt: "The president promised on the campaign trail to back a resolution calling the mass killings an act of genocide."
-    publishedDateTime: 2021-04-22T07:29:00Z
-    webUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587"
-    ampWebUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1781435/joe-biden-white-house.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
     excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
     publishedDateTime: 2021-04-18T11:58:00Z
@@ -459,6 +443,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden says he's 'prepared to compromise' on infrastructure plan during meeting with bipartisan group of lawmakers"
+    excerpt: "Biden and Transportation Secretary Pete Buttigieg met with lawmakers in an effort to gain support for an infrastructure plan that Republicans rebuked."
+    publishedDateTime: 2021-04-20T13:58:00Z
+    webUrl: "https://www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/607e29fe74da0300181e29d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amtrak Joe: A brief look at President Biden's long history supporting America's railroad"
     excerpt: "President Joe Biden at an event announcing funding for Amtrak as part of the American Recovery and Reinvestment Act in 2009. Larry Downing/Reuters Summary List Placement When President Ronald Reagan in 1981 moved to trim $884 million from a budget used by ..."
     publishedDateTime: 2021-04-10T15:01:00Z
@@ -575,6 +575,6 @@ related:
         height: 683
         isCached: true
 
-secured: "NhgKt6xUQqWh8MesLAiST8QPJEL4U9x+a2B142Y0UFEKcmR7RRuDGuLbi5sq4+zWmv/jdrklgGYN0/ZDxd/jO+8lu3Q+yn9K+MZ3JZIZ5sr1NBIshiYwtm4k4l4iAo39UeINfg9to9eSjeYtseQfjofYh6h0lZao4DcwsyYbESWbNda11oYfO/urL16fzHje7MlBCq1tMi0iHCa7j+T3NIB2plOPktk39Hf9zGyvV10Ttka81lwZV1VdVuuhDgu6Jj8aa1kuB3ggABhlipQwaboPyVpyXoPqSoXRPoQEvyAuMBs6dJx5F/Y/XuqpzFjsGwEysFoSjnbmCnXefAsXA2ok59+fXCfmrtFpT/PngE7jaQIq/Jp0jt5MqWK9uURk3xtKerC3h0/OlCnkDZWSNIwrpzsz0fvHronDCGOOxn0ly923/lYvMr2jT2HPkqgAkoNORqK7AWzHZfKDcrY+C1QgiYso4Fs2Mgm/71XXlCLJhhT6scdhF4D2sNwKi6iYCLZmXuURxqFZfhXVtoTaYA==;BS6M/lJvOpoqCbYfe3iRsw=="
+secured: "u0elllfFxat2R/gHLeLJSYm3y6oyNRT9YidvygnverwhOT7FIwEkNLbFRFZC2v+L6F74DwEhgH3QiBJib5Vse6CtAALYp9Ed44xtU/1EYVowFv+6dLpOEecRLtJmlblOGxMYA5PZQLiDcGjZQ9eYE9a9LdDYh8fZJ+jsoVEMOZMjxzr9H7DaJVHHLU5uIV8DOvvn9b7I7kwAkWfkKxIqd3lE36gehd2V9rmrrDQN0mXmC8it//ieHnda0d50LTy1hUDUh1cgUdWYwIfvWW8PHCHVmH++5RFBx67tAZvXEkqiRI83Pqi4bPcKLfeDCGeHZh5Gex4KF+mtUYy2K8ixR6vwcXtiXttzuFxsqOHZez4=;6noEwsTTcU4qFEABZjP/0w=="
 ---
 

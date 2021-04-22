@@ -271,6 +271,22 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "What Joe Biden Has Said About Armenian Genocide"
+    excerpt: "The president promised on the campaign trail to back a resolution calling the mass killings an act of genocide."
+    publishedDateTime: 2021-04-22T07:29:00Z
+    webUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587"
+    ampWebUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1781435/joe-biden-white-house.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
     excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
     publishedDateTime: 2021-04-18T11:58:00Z

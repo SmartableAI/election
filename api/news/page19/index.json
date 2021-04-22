@@ -2,6 +2,54 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-24-bernie-sanders-not-comfortable-with-trump-twitter-ban.md",
+      "title": "Bernie Sanders not ‘comfortable’ with Trump Twitter ban",
+      "excerpt": "Senator Bernie Sanders said recently that he’s not “comfortable” with former President Trump’s Twitter ban, arguing it could lead suppression of users across the political",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/",
+      "originalUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/sanders-on-trump-twitter-ban-882.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/bernie-sanders-not-comfortable-with-trump-twitter-ban/amp/",
+      "publishedDateTime": "2021-03-23T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-gop-colorado-rep-boebert-accuses-biden-of-politicizing-boulder-shooting.md",
       "title": "GOP Colorado Rep. Boebert accuses Biden of 'politicizing' Boulder shooting",
       "excerpt": "Rep. Lauren Boebert, R-Colo., accused President Biden on Tuesday of “politicizing” the mass shooting at a Boulder, Colorado grocery store that left 10 people dead after he called for a nationwide ban on assault weapons.",
@@ -1288,49 +1336,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-fact-check-misleading-meme-features-a-digitally-flipped-image-of-biden-and-a-pixelated-still-grab.md",
-      "title": "Fact Check-Misleading meme features a digitally flipped image of Biden and a pixelated still grab",
-      "excerpt": "Some users on social media are sharing a collage of photographs of U.S. President Joe Biden that points out apparent differences between the images: the color of his eyes and his writing hand. “Blue eyes vs brown eyes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-biden-misleadingmeme-idUSL1N2LK22A",
-      "originalUrl": "https://www.reuters.com/article/factcheck-biden-misleadingmeme-idUSL1N2LK22A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LK22A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LK22A",
-      "publishedDateTime": "2021-03-22T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

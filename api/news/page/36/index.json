@@ -2,6 +2,63 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-02-23-one-question-for-manhattan-da-candidates-will-you-prosecute-trump.md",
+      "title": "One Question for Manhattan D.A. Candidates: Will You Prosecute Trump?",
+      "excerpt": "The investigation into Donald J. Trump has been the focus of enormous attention, but candidates have mostly avoided talking about the case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/19/nyregion/00trumpda1/00trumpda1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.amp.html",
+      "publishedDateTime": "2021-02-23T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-graham-warns-biden-immigration-policies-will-lead-to-caravan-after-caravan-at-us-mexico-border.md",
       "title": "Graham warns Biden immigration policies will lead to 'caravan after caravan' at US-Mexico border",
       "excerpt": "The Biden administration halting near-completed sections of the border wall is the latest example of policies that will lead to \"caravan after caravan\" crossing the Southern border, Sen. Lindsey Graham told, R-S.C. \"Hannity\" Monday.",
@@ -1303,63 +1360,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-pence-declined-cpac-invitation-source.md",
-      "title": "Pence declined CPAC invitation: source",
-      "excerpt": "Former Vice President Mike Pence has declined an invitation to attend this year's Conservative Political Action Conference, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e7fe47e-ed40-4bb7-97a7-8b2c3b23ff48/b5a6a527-121e-4e98-876f-f6204780c546/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp",
-      "publishedDateTime": "2021-02-21T06:08:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],
