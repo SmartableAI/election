@@ -32,259 +32,103 @@ images:
     isCached: true
 
 related:
-  - title: "Wyoming GOP rips Rep. Liz Cheney for voting to impeach Trump"
-    excerpt: "Wyoming Republican leaders said Cheney’s decision led to a “whirlwind” of criticism in her home state."
-    publishedDateTime: 2021-01-14T21:08:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EJtMBnZ6JXQ/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp"
+  - title: "Pence hits Dems over border crisis, touts Trump's success stemming illegal immigration"
+    excerpt: "Former Vice President Mike Pence on Wednesday hit President Biden and Democrats for the escalating crisis at the southern border, while touting the Trump administration’s reduction of illegal immigration -- saying Biden inherited \"the most secure southern border in American history.\""
+    publishedDateTime: 2021-04-22T21:40:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 192
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3187e410-9dfa-479b-8233-dd28b7f7ebfd/674047aa-8ec5-40b0-b2b4-9cfb44aac92f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Wyoming Republicans censure Cheney over Trump impeachment vote"
-    excerpt: "Wyoming's Carbon County Republican Party voted unanimously to censure Rep. Liz Cheney, R-Wyo., for voting with nine other House Republicans to impeach President Trump on charges of \"incitement of an insurrection.\""
-    publishedDateTime: 2021-01-19T14:35:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ULwU1c9iBk/liz-cheney-impeachment-republicans-herrera-beutler-wyoming"
-    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
+  - title: "Democrats, after slamming Trump for upending ‘norms,’ now eyeing sweeping changes of their own"
+    excerpt: "Democrats, throughout the Trump administration, warned about how the 45th president was a threat to democracy and to the norms of the country -- but since he left office many have dedicated themselves to breaking down a different set of norms and democratic standards currently in place."
+    publishedDateTime: 2021-04-16T10:27:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BtBJApAfg48/democrats-trump-norms-sweeping-changes"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-trump-norms-sweeping-changes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-trump-norms-sweeping-changes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Liz Cheney gets 2022 primary challenger after Trump impeachment vote"
-    excerpt: "Rep. Liz Cheney, R-Wyo., one of the top Republicans in the House of Representatives, has a primary challenger for the 2022 election after voting to impeach President Donald Trump."
-    publishedDateTime: 2021-01-20T17:45:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qsz0_l9jdsM/liz-cheney-2022-primary-challenger-anthony-bouchard"
-    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-2022-primary-challenger-anthony-bouchard.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-2022-primary-challenger-anthony-bouchard.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Liz-Cheney-Anthony-Bouchard.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "GOP proposes delaying Trump impeachment trial until February"
-    excerpt: "Senate GOP Leader Mitch McConnell is proposing delaying former Donald Trump's impeachment trial until February so the former president's new legal team will have time to prepare his defense."
-    publishedDateTime: 2021-01-22T00:15:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jhV6Rg3fJHA/gop-propose-delaying-impeachment-trial-until-february-to-ready-trump-legal-team"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-propose-delaying-impeachment-trial-until-february-to-ready-trump-legal-team.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-propose-delaying-impeachment-trial-until-february-to-ready-trump-legal-team.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jason-donner.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "AOC says Republicans only care about Trump 'mob' when it's coming for them"
-    excerpt: "Rep. Alexandria Ocasio-Cortez on Thursday accused Republicans of neglecting what she characterizes as threats incited by President Trump unless they become the target."
-    publishedDateTime: 2021-01-14T23:52:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WOWTIClMtEg/aoc-republicans-only-care-trump-mob"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-republicans-only-care-trump-mob.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-republicans-only-care-trump-mob.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d067b54f-fd1f-4a23-bc8a-88d213bf4d12/eaaf4d35-fe32-4385-888b-9cb60c7d82c1/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f87b14f3-098d-4baa-91dc-93122c57f68b/51fc164b-bdd8-4d6d-83e7-852c2591453d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump’s sway with Republicans takes hit, but he still holds firm grip over GOP"
-    excerpt: "President Trump’s sway with Republicans takes hit in public opinion polls, but he still holds a firm grip over GOP"
-    publishedDateTime: 2021-01-18T16:45:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPc-eS43GiA/trumps-sway-with-republicans-takes-hit-but-he-still-holds-firm-grip-over-gop"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-sway-with-republicans-takes-hit-but-he-still-holds-firm-grip-over-gop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-sway-with-republicans-takes-hit-but-he-still-holds-firm-grip-over-gop.amp"
+  - title: "Pence hits Dems over border crisis, touts Trump's success stemming illegal immigration"
+    excerpt: "Former Vice President Mike Pence on Wednesday hit President Biden and Democrats for the escalating crisis at the southern border, while touting the Trump administration’s reduction of illegal immigration -- saying Biden inherited \"the most secure ..."
+    publishedDateTime: 2021-04-22T21:41:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 152
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Liz Cheney’s popularity in Wyoming sinks after impeachment vote, Trump PAC claims"
-    excerpt: "Republican U.S. Rep. Liz Cheney is paying a price for supporting former President Trump’s impeachment, a poll commissioned by Trump’s political operation suggests, according to a report."
-    publishedDateTime: 2021-01-28T06:19:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2scucRw7-Fw/liz-cheneys-popularity-in-wyoming-sinks-after-impeachment-vote-trump-pac-claims"
-    ampWebUrl: "https://www.foxnews.com/politics/liz-cheneys-popularity-in-wyoming-sinks-after-impeachment-vote-trump-pac-claims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheneys-popularity-in-wyoming-sinks-after-impeachment-vote-trump-pac-claims.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c82de6-c14d-4137-89d3-071d65d22423/e9007209-f228-4dbe-a90e-c50c3ef80488/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3187e410-9dfa-479b-8233-dd28b7f7ebfd/674047aa-8ec5-40b0-b2b4-9cfb44aac92f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "No apology from Cheney during House GOP showdown over her Trump impeachment vote"
-    excerpt: "No apology from Liz Cheney during House GOP showdown over her Trump impeachment vote"
-    publishedDateTime: 2021-02-04T00:03:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0ymL9ljm4I/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-apology-from-cheney-during-house-gop-showdown-over-her-trump-impeachment-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "LIVE UPDATES: Wyoming GOP votes to censure Liz Cheney over Trump impeachment vote"
-    excerpt: "Follow for the latest updates on Trump's impeachment."
-    publishedDateTime: 2021-02-07T06:54:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uEtcbHEssew/live-updates-impeachment-trump-2-7-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-impeachment-trump-2-7-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0dfedbd-dfc4-4cd5-b565-1133911fbe12/aec38a4d-cbe6-43fa-8ed2-28829a019de7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Gaetz traveling to Wyoming to take aim at Cheney amid uproar over her Trump impeachment vote"
-    excerpt: "One of former President Trump’s top supporters in the House of Representatives is targeting one of Trump’s biggest House GOP critics. Rep. Matt Gaetz of Florida is heading to House Republican Conference Chair Liz Cheney’s home state of Wyoming on Thursday, where he’ll hold an event outside the state"
-    publishedDateTime: 2021-01-25T15:56:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TEraHAR3f6c/gaetz-traveling-to-wyoming-to-take-aim-at-cheney-amid-uproar-over-her-trump-impeachment-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/gaetz-traveling-to-wyoming-to-take-aim-at-cheney-amid-uproar-over-her-trump-impeachment-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-traveling-to-wyoming-to-take-aim-at-cheney-amid-uproar-over-her-trump-impeachment-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Prospect for Trump acquittal unclear as most GOP senators undecided or won't say how they will vote"
-    excerpt: "President Trump's chances for an acquittal in his upcoming Senate impeachment trial are unclear, as most Republicans either refuse comment on how they will vote or say they are undecided."
-    publishedDateTime: 2021-01-15T03:51:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNS-KIT3Yuk/gop-senators-refuse-to-comment-on-impeachment-with-just-13-outright-objecting-to-it"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-refuse-to-comment-on-impeachment-with-just-13-outright-objecting-to-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-refuse-to-comment-on-impeachment-with-just-13-outright-objecting-to-it.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1babb2c-3f92-40ea-b9ad-1012787a0478/ec177a63-ad3a-4703-8921-79cab860d659/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "At Wyoming rally, Trump ally Gaetz blasts Cheney over impeachment"
-    excerpt: "One of former President Trump’s top supporters in Congress held a rally Thursday in Wyoming to blast the state’s sole House member – Rep. Liz Cheney – the most high profile House Republican to vote two weeks ago to impeach Trump."
-    publishedDateTime: 2021-01-28T23:00:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S3HslqUexI0/wyoming-rally-trump-ally-gaetz-blasts-cheney-impeachment"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Matt-Gaetz-Liz-Cheney.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Hires Butch Bowers as Impeachment Defense Attorney"
-    excerpt: "Former President Donald Trump told associates he hired the South Carolina attorney to represent him in his Senate impeachment trial, said a person familiar with the matter."
-    publishedDateTime: 2021-01-22T02:30:00Z
-    webUrl: "https://www.wsj.com/articles/trump-hires-butch-bowers-as-impeachment-defense-attorney-11611264609?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-hires-butch-bowers-as-impeachment-defense-attorney-11611264609"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-hires-butch-bowers-as-impeachment-defense-attorney-11611264609"
+  - title: "Biden Administration Moves to Unwind Trump Auto-Emissions Policy"
+    excerpt: "The Biden administration is moving to end a legal battle with California over the state’s authority to regulate motor-vehicle emissions, setting the stage for stricter regulations on the auto industry."
+    publishedDateTime: 2021-04-21T16:04:00Z
+    webUrl: "https://www.wsj.com/articles/biden-administration-moves-to-unwind-trump-auto-emissions-policy-11619023946"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-moves-to-unwind-trump-auto-emissions-policy-11619023946"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-moves-to-unwind-trump-auto-emissions-policy-11619023946"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://images.wsj.net/im-288784/social"
+      - url: "https://images.wsj.net/im-328054/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Wyoming GOP censures Liz Cheney over Trump impeachment vote"
-    excerpt: "The Wyoming Republican Party voted overwhelmingly Saturday to censure U.S. Rep. Liz Cheney for voting to impeach President Donald Trump for his role in the Jan. 6 riot at the U.S."
-    publishedDateTime: 2021-02-07T00:31:00Z
-    webUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/"
-    ampWebUrl: "https://nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/06/wyoming-republicans-censure-liz-cheney-over-trump-impeachment/amp/"
+  - title: "Trump says Biden could have avoided border crisis: ‘All he had to do is leave it alone’"
+    excerpt: "Former President Donald Trump is blasting President Biden for creating chaos at the border by not maintaining his immigration policies — pointing out that his border agenda was popular among"
+    publishedDateTime: 2021-04-19T15:41:00Z
+    webUrl: "https://nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 142
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Liz-Cheney-1.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-on-biden-border-hp.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Liz Cheney says Trump should have no future role in GOP or country"
-    excerpt: "The No. 3 House Republican denounced Trump after she was asked at a press conference if she thought it was appropriate for Trump to be speaking Sunday at the annual CPAC event."
-    publishedDateTime: 2021-02-24T17:34:00Z
-    webUrl: "https://nypost.com/2021/02/24/liz-cheney-says-trump-should-have-no-role-in-gop-or-country/"
-    ampWebUrl: "https://nypost.com/2021/02/24/liz-cheney-says-trump-should-have-no-role-in-gop-or-country/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/liz-cheney-says-trump-should-have-no-role-in-gop-or-country/amp/"
+  - title: "U.S. sues Trump ally Roger Stone, alleging he owes about $2 million in unpaid taxes"
+    excerpt: "The U.S. Department of Justice on Friday sued Roger Stone, saying the close ally of former President Donald Trump owes about $2 million in unpaid federal income taxes, according to a court"
+    publishedDateTime: 2021-04-17T08:17:00Z
+    webUrl: "https://nypost.com/2021/04/17/u-s-sues-trump-ally-roger-stone-for-alleged-unpaid-taxes/"
+    ampWebUrl: "https://nypost.com/2021/04/17/u-s-sues-trump-ally-roger-stone-for-alleged-unpaid-taxes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/17/u-s-sues-trump-ally-roger-stone-for-alleged-unpaid-taxes/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 129
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/liz-cheney-trump-01.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/6B29AA79-B7E1-4989-941A-3BA1C20142F4.jpeg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "At Wyoming rally, Trump ally Gaetz blasts Cheney over impeachment"
-    excerpt: "One of former President Trump’s top supporters in Congress held a rally Thursday in Wyoming to blast the state’s sole House member – Rep. Liz Cheney – the most high profile House Republican to vote two weeks ago to impeach Trump."
-    publishedDateTime: 2021-01-28T23:03:00Z
-    webUrl: "https://www.foxnews.com/politics/wyoming-rally-trump-ally-gaetz-blasts-cheney-impeachment"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Matt-Gaetz-Liz-Cheney.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
-secured: "UvlF4BfG3x5M0VxZBphk1/j/yai5XHFaqUhTQf91PwNBmzseBOKG4lvEzBfVrjZvWPtrNnXQycRyCMb3wvVGzCeNcNueLS3ctwVLicQjHxFZNxy5KoHRrKwvI0rlkH599/RMlCEpzxQasoqLWj5roh8Y34decoJdLfycw8M+6adB4ze9X1UnGc9y1sf9/2IGO/zgh970Si3xy9dpWFQL8t1Twcd513hE2uuyS3P+iRKfZ51jR5qP+Vf8ME1vd26WVxAjnS7lRXCf9fsJLJsjMnEMZerjp5omQv2r+DYTdlNG1oz1VNwvRYs6cFDbsS653MFyjv3e8K/m86tripyyYBzdnn3DAzf8s46pKJBPDIY=;vpsD83LUNZ93UiO9yIAPlw=="
+secured: "SwjG3aqmdg4HzpzFUCSd21N6nTu93uokkaJp3ySlJ3a0g+BcmT44zhorT31C40hC15w7iWHN9zleIWaWtqW7UzEAFxsQ8ka06xR/x1pJJDBGEwGJofSV0CNJo8S3HADU92QCvUth9IpltwYp4WSsknDoXTVAgpzFCfF5M8K1ptluU8JKpoKNKWdXmm4Izu9VDwgSIdDV9WQpJyEdo6Mbszmhh361b2O1RBn67DvpYLmLHy7AkDCZI7zBnoNefJP06AIZ8VAf2eKTkTFYN/6moNEwRsNAB34gIIYsBHIdTlrHJMrJhs3ODWmH8qPmLAyf9QVXPFTQG+KUvECVkdCNjf7IrYV0NaOUya6sEob1MRmg//u/uMbRp3fyZx8+WCg/66H7XWoIM4Zg+x02ibsogZbotu6CIiSsXadNakxmTOZz2MxiHdvSTTKra1ntX5rBfZik4AgSUiVWhp3zq84WK47of7ce+uk1ejVOjVqqM4bCv2HSoC+V+Rp1avZL4ySK2xZ/+ZOB6hDbSJ2BB0TptQ==;8XIBzr/qlJvmJNGYaLQVOQ=="
 ---
 

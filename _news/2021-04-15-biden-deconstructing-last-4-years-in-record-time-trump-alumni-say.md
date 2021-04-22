@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-america-first-policy-in
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-america-first-policy-institute-brooke-rollins.amp"
 type: article
 quality: 190
-heat: 550
+heat: 530
 published: true
 
 provider:
@@ -250,22 +250,6 @@ related:
     quality: 144
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/psaki-border-northern-triangle-02.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump says Biden could have avoided border crisis: ‘All he had to do is leave it alone’"
-    excerpt: "Former President Donald Trump is blasting President Biden for creating chaos at the border by not maintaining his immigration policies — pointing out that his border agenda was popular among"
-    publishedDateTime: 2021-04-19T15:41:00Z
-    webUrl: "https://nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/"
-    ampWebUrl: "https://nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/donald-trump-says-joe-biden-could-have-avoided-border-crisis/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 142
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-on-biden-border-hp.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 1530
+heat: 1510
 published: true
 
 provider:
@@ -842,22 +842,6 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-308331/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden Administration Moves to Unwind Trump Auto-Emissions Policy"
-    excerpt: "The Biden administration is moving to end a legal battle with California over the state’s authority to regulate motor-vehicle emissions, setting the stage for stricter regulations on the auto industry."
-    publishedDateTime: 2021-04-21T16:04:00Z
-    webUrl: "https://www.wsj.com/articles/biden-administration-moves-to-unwind-trump-auto-emissions-policy-11619023946"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-moves-to-unwind-trump-auto-emissions-policy-11619023946"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-moves-to-unwind-trump-auto-emissions-policy-11619023946"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-328054/social"
         width: 1280
         height: 640
         isCached: true

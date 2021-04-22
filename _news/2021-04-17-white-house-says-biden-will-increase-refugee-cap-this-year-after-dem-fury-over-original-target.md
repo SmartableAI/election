@@ -128,6 +128,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas AG sues Biden administration over COVID-19 risk at southern border amid migrant surge"
+    excerpt: "FIRST ON FOX: Texas Attorney General Ken Paxton on Thursday sued the Biden administration for allegedly encouraging the spread of COVID-19 at the border by allowing large numbers of migrants into the U.S., often into overcrowded facilities."
+    publishedDateTime: 2021-04-22T20:41:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8uEqrSkGs2I/texas-ag-biden-migrant-covid-risk-at-southern-border"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/481df1b5-a469-4e90-b5bd-9b29ff024316/6e779a0b-196a-4aa8-911c-e8f3ccd6770a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Graham To Biden: It's Not Just A \"Crisis\" On The Border, It's Chaos"
     excerpt: "South Carolina Republican Sen. Lindsey Graham told FNC's 'Justice with Judge Jeanine' to discuss the left's push to expand the Supreme Court and President Biden admitting the refugee situation at the border is a \"crisis."
     publishedDateTime: 2021-04-18T13:46:00Z

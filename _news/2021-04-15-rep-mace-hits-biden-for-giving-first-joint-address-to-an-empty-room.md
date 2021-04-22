@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-mace-biden-state-of-the-union-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a4c698-2716-47ac-a29c-fe49c8a2549b/b588a97f-04a0-4158-a1ee-919609e7c5fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Tim Scott to deliver GOP response to Biden's first speech to Congress"
+    excerpt: "Sen. Tim Scott, R-SC, will deliver the Republican Party’s response following President Biden’s first speech to a joint session of Congress on April 28, GOP leadership said on Thursday."
+    publishedDateTime: 2021-04-22T20:18:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vKeji-oKtuw/sen-tim-scott-deliver-gop-response-biden-first-speech-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0268a05a-cf95-4110-a9a4-402dbe6f08b4/44861f6a-69d1-400f-b2a5-971444fe656e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

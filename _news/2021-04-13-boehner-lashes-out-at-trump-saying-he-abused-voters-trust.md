@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 578
         isCached: true
+  - title: "As economy spikes, Republicans are still waiting for the ‘Biden depression’ that Trump predicted"
+    excerpt: "Throughout last year’s campaign, President Donald Trump issued a series of increasingly dark predictions about what would happen if Joe Biden were elected. “If he gets in, you will have a depression the likes of which you’ve never seen."
+    publishedDateTime: 2021-04-22T20:36:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNUSWAEX2QI6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Ohio Republicans aim to rename state park after Donald Trump"
     excerpt: "A GOP-backed bill would change the name of an Ohio state park to honor former President Donald Trump COLUMBUS, Ohio -- A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump."
     publishedDateTime: 2021-04-21T15:39:00Z

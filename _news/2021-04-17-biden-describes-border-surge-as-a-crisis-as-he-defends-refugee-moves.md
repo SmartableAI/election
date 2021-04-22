@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-surge-crisis-defends-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-surge-crisis-defends-refugee-move.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
     quality: 159
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa07c23e-822f-4acf-9564-ea278dd3b724/31df3aec-d9b8-4a97-a153-efba9c0bf890/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Texas AG sues Biden administration over COVID-19 risk at southern border amid migrant surge"
+    excerpt: "FIRST ON FOX: Texas Attorney General Ken Paxton on Thursday sued the Biden administration for allegedly encouraging the spread of COVID-19 at the border by allowing large numbers of migrants into the U.S., often into overcrowded facilities."
+    publishedDateTime: 2021-04-22T20:41:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8uEqrSkGs2I/texas-ag-biden-migrant-covid-risk-at-southern-border"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/481df1b5-a469-4e90-b5bd-9b29ff024316/6e779a0b-196a-4aa8-911c-e8f3ccd6770a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

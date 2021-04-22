@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Pelosi felt 'liberated' after ripping up Trump's 2020 State of the Union speech, author says"
-excerpt: "House Speaker Nancy Pelosi felt \"liberated\" when she ripped up a copy of President Donald Trump's State of the Union address last year, but the move was largely unplanned simply because she couldn't find a pen, according to a new book.\n    \n"
-publishedDateTime: 2021-04-22T12:42:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QkgUiceT5hA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QkgUiceT5hA/index.html"
+excerpt: "House Speaker Nancy Pelosi felt \"liberated\" when she ripped up a copy of President Donald Trump's State of the Union address last year, but the move was largely unplanned simply because she couldn't find a pen,"
+publishedDateTime: 2021-04-22T08:42:00Z
+originalUrl: "https://www.cnn.com/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html"
+webUrl: "https://www.cnn.com/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/pelosi-trump-state-of-the-union-address-cnntv/index.html"
 type: article
-quality: 164
-heat: 164
+quality: 124
+heat: 124
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 619
     isCached: true
 
-secured: "PJfOiEffgHpZSh9gN1Sva+hn7h3Pr+wv0aR2Y/RsZpPk7af197zI62jfLEZAInBSsZVMw+bKG0IElLTVT93ovDtnfAQo7T2BaZf0MOLMDakHz2jP6+25xW4P4JjalGjc/oawTqsZiopwYxhZOVCaLM3ZcEdrA/bz3KgeritvlADMlli+6IW2/4JeBeI/OWPsrGQojbVUdCZrnoXzmntq/ULD9ksdPvMvyHz1MB4NoYD3FwqS/T54REXTwIMM1fj0VpbXebxyOUGZ32Me+GLrJjTPZBVhM+0D+AT0meZlTtTtTi1F8T1feWj8/t/XnJqtePuaq9kIeerKaqiYQNjegOUZstDtxk+asfX+U4X8qLs=;J3sgJ+2zKzzBAXE2amhBKQ=="
+secured: "PVsywfcRa04rxjTJT2CS/wLGqogb9QtWta8HwN/Myab/BR02y0/NrccffI93qn7OducfSOXGCfCWjpk8Ala9MocmGyRFbJdNLfiwPMRyDA2rzw2X/ovHSL+MkIO3aPlQjSWmRTZkk5srSiAdrUq7R++9N85o3rrbotCFcIWniB3jwc/elJm3pVgdncF/vQhMj8M1Jwa60Teul0EZCNNCn+Jq2S2F2H39h1j4gdhgipGHkTI+JMO6Uo1mR3n6l8DMxOACSerSsVvMhw+zzrr6qe6zTY5IhLp29VMf1jCEm7FhjMjnG6iRAbjWFSPrqJd5SPuLgPz/z/nndgx6EcS/Jf1KO4HzVbliibaWJ/Z8ZFc=;DsFrif+CeZu3aCZbb53i7w=="
 ---
 

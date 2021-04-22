@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 578
         isCached: true
+  - title: "As economy spikes, Republicans are still waiting for the ‘Biden depression’ that Trump predicted"
+    excerpt: "Throughout last year’s campaign, President Donald Trump issued a series of increasingly dark predictions about what would happen if Joe Biden were elected. “If he gets in, you will have a depression the likes of which you’ve never seen."
+    publishedDateTime: 2021-04-22T20:36:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNUSWAEX2QI6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Boehner lashes out at Trump, saying he 'abused' voters' trust"
     excerpt: "Boehner on NSA Whistleblower: 'He's a Traitor' Former House Speaker John Boehner on Monday kept up his harsh criticism of President Donald Trump's role in the Jan. 6 riots, saying he \"abused\" the ..."
     publishedDateTime: 2021-04-12T21:40:00Z
@@ -420,6 +436,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Rjbel+3boDTZB5ELBYKiNKuVUILhkQVx8D/lM1Cs1bwiTwFUpyTW/F8B0kFOK+Zl+Y6A3OmxvJJh3F3RS/rj49KBi5lb45ng14xk22sadR2lGlwKKjoi4S5PiCcNp15BoOmoroFUnsDVoZyaTp/o572ITdityK/7BC6AWM+I+C0DNyOF3UT8XpSMNlJC0oKx2nbnBvcTv6UGUCXUvYva+JXQEx/tuZu26IkCTXfw6fUxkGWRTatc2B9pf82WQo7WhXJ5DkgO9FZS2UuYjUH7y3OA2ca102VWA/oeQfole8//UbeDJWak3f95aL5vvRUH1/HWpUY/Kav2YGtsDU2Rwr4N8QL8debv+k9uPCqTZVU=;F+aFv8Df8NgusrQEBgH4Qw=="
+secured: "ovG0Hor6PtfVejK3kpeAE2N4o9In5KOaZkPmfjGULtOi1LS4zi5dOn0QPDFZG4S/gu7krM6/hqzibkFj6PyzhJCcba3owwklsFSOFerucJyYRmG5tO1n+zjlTQtHOAi5Yws4Rky4MgGQ3aRk0UklMlLjx4CHokY3gihZnha/kn0oHbLiAVYIW4Z9BIv9wIP2DDwKIKGq7oixD4992sHo+m7Q7oV6ZBCXxrqhbiCAz37mZR7d9mjUVP4sI/NdLIyFiifUj6wu3vkKHAmDdugAMBXkTlSyQ9q9BB5F9KvUvYDb/bN1f2D5oWnO8qv5WBg8KJaumfiv3699F6KNggI0+/w4lEX/fyD2XNJqYUsyX4n21iMEM8t/8ZPq0Aiino4pzZoI80Cuz8DXo8Sx6j1lQr5rxezNMmBLqFINtSgqNnSNQwTNZlNimiQLzKau58S4f9Cl92kRjCE5ObBOXtJ25w3RR09aas01EdoENTNLH1NEuTNQ4dIGhRs31x7vZhkDURRAHdu6uxlDKIGziUCO9g==;vGC/zchV7Xwau6BABS45VA=="
 ---
 

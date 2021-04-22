@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/reps-roy-herrell-house-vote-extendi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.wsj.net/im-326160/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump's Dominance Spells Trouble for Republican Party"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-04-22T20:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/22/trumps_dominance_spells_trouble_for_republican_party_541131.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536849_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "PitMWtpp+LuGdQEKyObEHyEIuUeZwtEGhjjysUjFPuWIePx/wHHjEQCumLpUNrXcgl498nZBPrS9Ye2wr0TJDL0huSxksE/qcDq+7/Ku2jifoZbe1Td+b3uqsZpsvl8611SOZYZg/kXVD6nPwEYtGDMIuFP4xzeWlXxfWr7jYj4uJX/k+HaOOb1ULwmes9nfSY6cb0PjPhbQqaYmcsqW1XLu52O8lzoVGUP4WLgFnWb0Ni2n/fPq5ZpknnRRpwUloe6YaPmT5ilOXKVLbGXgZVgNBZEjogNSnwlMPAvS2vNi075WcO/XnhraDQZkeYNcJR/ob1t9SvuQIDDggLbf8Raz29ceY8XLfvXZMveESeY=;POpYR0qboV6fgcvP+ykDKg=="

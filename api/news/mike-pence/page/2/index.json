@@ -2,6 +2,120 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-10-former-vp-pence-narrates-the-age-of-rush-a-look-at-the-man-behind-the-golden-microphone.md",
+      "title": "Former VP Pence narrates 'The Age of Rush', a look at the man behind the golden microphone",
+      "excerpt": "How did Rush Limbaugh, a shy college dropout, become the most powerful radio talk show host of all time? A new FOX Nation special, \"The Age of Rush\" examines the late conservative icon's life and legacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/age-of-rush-mike-pence-fox-nation",
+      "originalUrl": "https://www.foxnews.com/media/age-of-rush-mike-pence-fox-nation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7de868b9-f13f-46e9-b925-00a0931cee67/cf3c51c9-4438-4f96-83a7-82ff737b32a1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/age-of-rush-mike-pence-fox-nation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/age-of-rush-mike-pence-fox-nation.amp",
+      "publishedDateTime": "2021-03-09T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-wsj-opinion-mike-pence-goes-from-hero-to-villain.md",
+      "title": "WSJ Opinion: Mike Pence Goes From Hero to Villain",
+      "excerpt": "For criticizing H.R.1 as an \"unconstitutional power grab,\" Mike Pence is accused of spreading Donald Trump’s ‘big lie.’ Images: AFP via Getty Image",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
+      "originalUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20210308/030821opvidmainstreet/030821opvidmainstreet_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-pence-will-make-his-first-speech-since-leaving-office.md",
       "title": "Pence will make his first speech since leaving office.",
       "excerpt": "The former vice president left Washington on the outs with former President Donald J. Trump, and his speech next month will be scrutinized for hints of his political future.",
@@ -1467,110 +1581,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-mike-pences-nuclear-football-was-potentially-at-risk-during-capitol-riot.md",
-      "title": "Mike Pence's 'nuclear football' was potentially at risk during Capitol riot",
-      "excerpt": "Footage from 6 January shows mob was within 30 metres of Pence and air force officer carrying briefcase with nuclear codes",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa570c715fe508074fa860f143bc11e882931278/0_103_3277_1966/master/3277.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55d5ec64a57c06a57b87f6d8c091f553",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "publishedDateTime": "2021-02-12T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-mike-pence-seen-sheltering-only-100-feet-from-insurrectionists-in-video-from-capitol-riots.md",
-      "title": "Mike Pence seen sheltering only 100 feet from insurrectionists in video from Capitol riots",
-      "excerpt": "Video from the riots in Washington, D.C. shows Vice President Mike Pence evacuating with his family as insurrectionists were 100 feet away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-riot-footage-mike-pence-sheltering-insurrectionists-near/6728485002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-riot-footage-mike-pence-sheltering-insurrectionists-near/6728485002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/11/USAT/4b88c8b2-1b2a-4058-953b-bc7bfef5f91b-Screen_Shot_2021-02-11_at_6.54.35_PM.jpg?quality=10",
-          "width": 854,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T16:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

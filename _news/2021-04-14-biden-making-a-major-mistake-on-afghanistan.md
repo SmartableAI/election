@@ -68,6 +68,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Tim Scott to deliver GOP response to Biden's first speech to Congress"
+    excerpt: "Sen. Tim Scott, R-SC, will deliver the Republican Party’s response following President Biden’s first speech to a joint session of Congress on April 28, GOP leadership said on Thursday."
+    publishedDateTime: 2021-04-22T20:18:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vKeji-oKtuw/sen-tim-scott-deliver-gop-response-biden-first-speech-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0268a05a-cf95-4110-a9a4-402dbe6f08b4/44861f6a-69d1-400f-b2a5-971444fe656e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Boebert, Roy seek to force vote on reversing Biden's oil and gas executive orders"
     excerpt: "Reps. Lauren Boebert and Chip Roy launched an effort Wednesday to force a House vote on reversing President Biden's oil and gas executive orders that the GOP lawmakers panned as detrimental to the economy and America's energy independence. "
     publishedDateTime: 2021-04-21T18:41:11Z

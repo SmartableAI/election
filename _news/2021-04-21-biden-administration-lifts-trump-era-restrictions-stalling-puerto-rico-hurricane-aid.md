@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid"
+    excerpt: "Findings from a new inspector general report show how Trump officials blocked hurricane aid for Puerto Rico and obstructed a probe looking into the withholdings."
+    publishedDateTime: 2021-04-22T21:01:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna749"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna749"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1132/200724-puerto-rico-ew-323p-053a09_a69b88d4a153c119ebf9b4c21caa3521643fa016.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
 
 secured: "P1JmX3iXJhIspWmYdUKkn9ARuvJ7Jt2nMXoQq6c06I8/Vp5Jd7AhnWsAL25Nz2NFbGkHUC/uJqqarZ7PUc8RiMDRmQZ5F/WEtpi5AdfT7pakQ44am5rlBx/u0WqV81Pq6M+ph6SwmOOx3u6OdATY+x7kriKw3FQ6m6ICjCD9HqHyxwsSmdQkuPgEk+kkIBzlgfzcSmBjLqaSWKxpMumu7IjVgjk4FJj341hKwL5wrePNo8Z7O+byRO8EzQ47hY5JfErSvrCMqNR1sN4gojEOeBnqLJgXBU/EH92m4Dt8KFPVVs356sU8bGs2C++I51pjZ2KQlvphr3JhSuzt4ewhp/cFAT3adnUM0MCmxLrwJzqLTnXnbIL62wFF5sUUveuodMT5duXe0k+fso//rT4ehSAhcHQpLRux+EtjEnlTPI1+JwL1lNOAT7AIA3Q/9Fn0qYhBMYv/PtfckE6kkDEsXO/0Sid4WdX82lpovNvXZip7XC6Q2Eb+cPwIvLonjzc7TxqqGFvSWDQ0/sO0zl9lRg==;stHV7amgnNQBnInc9E2uYw=="
 ---

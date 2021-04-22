@@ -250,22 +250,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Former Trump administration official mulling GOP challenge against Cheney"
-    excerpt: "Perry Pendley, who served as acting director of the Bureau of Land Management during the Trump administration, is expected on Thursday evening to give a speech in his home state of Wyoming where he'll strongly hint at launching a Republican primary challenge against embattled Rep."
-    publishedDateTime: 2021-04-22T16:46:00Z
-    webUrl: "https://www.foxnews.com/politics/former-trump-administration-official-liz-cheney-primary-challenge"
-    ampWebUrl: "https://www.foxnews.com/politics/former-trump-administration-official-liz-cheney-primary-challenge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-administration-official-liz-cheney-primary-challenge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/perry-pendley.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "At Wyoming rally, Trump ally Gaetz blasts Cheney over impeachment"
     excerpt: "One of former President Trump’s top supporters in Congress held a rally Thursday in Wyoming to blast the state’s sole House member – Rep. Liz Cheney – the most high profile House Republican to vote two weeks ago to impeach Trump."
     publishedDateTime: 2021-01-28T23:03:00Z

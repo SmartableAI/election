@@ -66,15 +66,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Where slaves once toiled, Vice President Kamala Harris will soon call home"
-    excerpt: "The vice president’s residence, soon to be home to Kamala Harris, stands on land once owned by D.C.’s second-largest slave owner."
-    publishedDateTime: 2021-02-23T13:33:00Z
-    webUrl: "https://www.rollcall.com/2021/02/23/where-slaves-once-toiled-vice-president-kamala-harris-will-soon-call-home/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 33
 
 secured: "H705yismTxUkmNl2+zk12T4cyjMR5D1mvlWLPHJVz13EDW3N8HhsSBo1dYqNxWYInNTYI1x4ET+1cMJh0k+iuyRRS9aesNGiFjnidH9/7tbn6Ppcb/bD5SaT6LQFxGRa1eHEOSxU2EsEq+97zHcy5Cp5wjsPxin6a6bowK5VLH9BrvJMPbimXoGYP1qXODTDkailSasAxjMUnWAUvulvvVJLoPssdR11XmCH2HDLTLrE6nZz6I4uVVWUD8KYfHJE2nru0x9me5L8EWrD9jzoe5aGh5Qc/OPPMlv0BpOqeELow1NDcVy3Ff2tv8gm67OtqlrndhNPsNNnCxTkgBIqxruTRHLUvM53ggYYaGs69Cs=;FLkhpAFYYNMF+jHSdWjV2g=="
 ---

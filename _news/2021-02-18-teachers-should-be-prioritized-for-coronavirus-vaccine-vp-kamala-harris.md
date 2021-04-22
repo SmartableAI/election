@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritiz
 webUrl: "https://www.cnbc.com/video/2021/02/17/teachers-should-be-prioritized-for-coronavirus-vaccine-vp-kamala-harris.html"
 type: article
 quality: 104
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Where slaves once toiled, Vice President Kamala Harris will soon call home"
-    excerpt: "The vice president’s residence, soon to be home to Kamala Harris, stands on land once owned by D.C.’s second-largest slave owner."
-    publishedDateTime: 2021-02-23T13:33:00Z
-    webUrl: "https://www.rollcall.com/2021/02/23/where-slaves-once-toiled-vice-president-kamala-harris-will-soon-call-home/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 33
 
 secured: "7mwK7wydOr49PZlNPCuHmZsh9x6xgH/bWPofC4OaAWuYYHGZPFZ4VA/VolZ3PaMRsRvMYPuGb6/3jJLg3RKGM5Sve2sjdehUmDGfkgR3pUMLGpDbOpwgV7I/+d8sBMbDUEn1aeTr73GgdW8CdltjjXeOQUkA+ipZEhEmQBUSdXrj3DaVavv9zgWBaaTFerlrf9wm+ah2l8lkHbNijWtKByj1pEaq6nukQMCM/jVjdmiyiwNcnbzLOVNONvKzEWU1zS9dFO33Z28h/zfKOYYB6PlopbWwypzs8mY1QQ0/bJNHWSYc6lkqcfka5sVrlWaNYmaeKR2g3jXwKhrXKlHbqt42cLBC6M2TcmU1jbSaCCvNmWNVdSquryBFBPa9OApI4xOnN2oFdR5a2JH/LNiSZHhcsExDTO5+ZlWrhbVmkNNOq9+P5HDGbRsMqIzskxtH+U/MZlCdhvr2v28QR39GcatAUsJ/pINEXRNwICH/ye1thI3XQI8S3mDFlHAk3ip5aX4aRahUHEDOxpsRQ3MgDQ==;A+8MvrnSKBqWXhCRuAXiVw=="
 ---
