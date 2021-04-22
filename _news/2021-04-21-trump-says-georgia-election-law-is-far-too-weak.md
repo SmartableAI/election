@@ -296,20 +296,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
-    publishedDateTime: 2021-04-21T15:36:00Z
-    webUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/4e3a416081f744298ea773bfbd3eb964/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Trump says he's optimistic that the GOP will take back Congress in 2022 midterm elections and the White House in 2024"
     excerpt: "Former President Trump said at the Republican National Committee's donor retreat over the weekend that he's optimistic Republicans will retake Congress in 2022 and reclaim the White House in 2024 and reiterated falsehoods about voter fraud in 2020."
     publishedDateTime: 2021-04-12T23:49:00Z
@@ -323,6 +309,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/12/0fafe1a2-52d1-4b8c-bbad-773dd9aad4c2/thumbnail/1200x630/f422c01c755616e5c70b15612ab66af3/cbsn-fusion-former-president-donald-trump-says-hes-optimistic-that-the-republican-party-will-take-back-congress-in-2022-midterm-elections-and-the-white-house-in-2024-thumbnail-690432-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ohio Republicans aim to rename state park after Donald Trump"
+    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
+    publishedDateTime: 2021-04-21T16:31:00Z
+    webUrl: "https://www.timesunion.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
     excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."
@@ -350,6 +352,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XDAWFpxXu5X+BNkU++rN40BxxK3w3Qx5+lNlOp7gm7qvWyHbcZbRwXLjp1uqnUyiibetUNgePkZ6+JmC6jGuHDlX5xzcKI4WV3MN9YgTTCRhbblY2cmvvNxQCzUiyVZxBPyC37GWDqQ/7/HBlMs1R71NBLMLcM3WhPbvN5HNyK2DKis5EnRviMbTkgVtDyOSjKbDrC6OXb995MbZ9zz8Nm8Xi0YbV/bSQi1jLzkqMs0SqBH9hmUcHQB8UTPT8suJjZfQOlGVWV3dEkrfLazd2LOCJk+gSFLzNUrTOTw5/pU5XqXOA8ibf6UtTYm3Av37YbGarAgtUBM0gBIpSjL/3WzFgDuXymvKt61njWl3h/M=;0FsXQo9P9hv+Gn8Bqt84Mg=="
+secured: "AQcQFVlziXrySn3U6MkMDqEgITwKTggtXoGBw3+RIRiCNg1coyZl16Tw2dIAeSzmZDs29N8CmDsQ9lr+CbBFm6U/gx3ysJUBgEuodVtLPFyRdhi3RXSUMv1gMd2xnWRf5AScToIixQJ1KuoptK5/ZzhXSRWYfNw+jNWSqYVj+JrbjPwIDmzYk4dORI0D7yvVGHjt1ak1d/6qC0CP4QwJh9VuEz0jR0/aZtMrfY2sDH+gm4pRC2V2i4Q9SolsVhWgMmXd5B8Qhqwo8HLEOgknovvdZb73yJTBGHcp2SeV1rLzICUbInrHyc5i/bvq+3COkXFziYlJKFfH3of6+Jb/AY/Peq3Fyo2B/03yE4iB2LTDij0x7d4y7dYyf21Gi2Efx11iUSHxUbyR0OO+TPKcdNNmnw4z4+STsQtFCiYR5Y4WgkYkIF4bidSDs3/J4nppTely40NQ9N3ZxLe4ODGcL2OLfjs8ZckLlkq4Xr/CxHT9+jx+o+GO5jjCnxlFBYo6mLn9wfvkydrgolNNTPlnJw==;0zkl1qQRbGPs1tyuBYExDg=="
 ---
 

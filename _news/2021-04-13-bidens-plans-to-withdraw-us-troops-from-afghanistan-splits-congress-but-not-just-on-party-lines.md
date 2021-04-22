@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden aims to cement US credibility on climate and galvanize world leaders at virtual summit"
+    excerpt: "President Joe Biden's ability to galvanize global momentum faces its first major test this week when he convenes 40 of his foreign counterparts for talks on combating the climate crisis.\n    \n"
+    publishedDateTime: 2021-04-21T19:08:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ayOSfxJt_6Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/climate-summit-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/climate-summit-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134225-01-biden-climate-remarks-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden draws on long history with the war in Afghanistan as he prepares to announce troop withdrawal"
     excerpt: "It's an image President Joe Biden kept returning to: the sight of helicopters evacuating Americans from Saigon during the last major battle of the Vietnam War.\n    \n"
     publishedDateTime: 2021-04-14T11:29:52Z

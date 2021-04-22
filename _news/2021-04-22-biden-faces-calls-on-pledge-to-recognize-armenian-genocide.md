@@ -2,21 +2,21 @@
 category: news
 title: "Biden faces calls on pledge to recognize Armenian genocide"
 excerpt: "President Joe Biden is facing calls to recognize the Armenian genocide of more than a century ago, something that he pledged to do as a candidate but that could further complicate an already tense rel"
-publishedDateTime: 2021-04-21T20:15:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+publishedDateTime: 2021-04-21T21:15:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-pledge-recognize-armenian-genocide-77225965"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-calls-pledge-recognize-armenian-genocide-77225965"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-pledge-recognize-armenian-genocide-77225965"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-calls-pledge-recognize-armenian-genocide-77225965"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPGKHHVCZ4I6XMYUF2MTXWB6GE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_0eec732618db478ebbaa195580429227_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -175,6 +175,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden thinks bar is too high for convicting violent cops"
+    excerpt: "President Joe Biden thinks \"the bar is too high\" for convicting violent U.S. police officers and will use his speech to Congress next week to push for reform, a spokeswoman said on Wednesday."
+    publishedDateTime: 2021-04-21T20:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-police-speech-idUSKBN2C82JH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C82JH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C82JH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559434547&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K1D2"
+        width: 817
+        height: 545
+        isCached: true
   - title: "House Dems to unveil drug pricing measure ahead of Biden package"
     excerpt: "House Democrats are preparing to reintroduce major legislation to lower drug prices ahead of President Biden's unveiling of his American Families Plan, which could include the proposals."
     publishedDateTime: 2021-04-21T21:04:00Z
@@ -222,6 +238,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "NRA launches $2 million campaign to oppose Biden gun-control agenda"
+    excerpt: "Tell Joe Manchin to reject President Biden’s extreme gun-control agenda,” the ads say, targeted to each state’s senators. As pictures of Biden, House Speaker Nancy Pelosi"
+    publishedDateTime: 2021-04-21T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/nra-launches-2-million-campaign-to-oppose-biden-gun-control-agenda/2021/04/21/362b2a80-a2eb-11eb-a774-7b47ceb36ee8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/nra-launches-2-million-campaign-to-oppose-biden-gun-control-agenda/2021/04/21/362b2a80-a2eb-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/nra-launches-2-million-campaign-to-oppose-biden-gun-control-agenda/2021/04/21/362b2a80-a2eb-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DQP73BVC7MI6XJ3UPND45M3O5A.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
   - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
     excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
@@ -497,6 +529,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ssQKKUBtS27PG8jcAW0XWzwv9Xbd4jU+D5ZqlgJp9iCu9nOXCPG96xc17CfU2Bzh4lAOK8B7uFsjmHqBrRIBtXSSpCm/UtwsNx0ZKpczhfd10zQtPRueQGuudj/CX1RwTYehxd8tZbbtG8x0JTb7q9aWWgLOwavKlV+QWhD3SfN43H7SSUTKj+HLUsNXhzd4sppJHgfl6QwshPi5X/ZvPBUt49JIZK7pOZvqPpM3Dbuu5oUG0dFDySMt/lno+fb5DECt8oKGibNPM6gT4NZOGred80Mucr68aiiZoBz37yV1zgCjXCdYUHUAvons71nWzxBx1Xyt+TIfTZW5SmwyWIt5FsgdUa0UJYMzCIoKrRU=;Z3HwXzKY7fWpqVnKdaB5BQ=="
+secured: "9n5Ng7js0mVcmvz7s8FoyOW01Hwz9fb0MaV/pZwiDUzhjxYCn0Tmhu+oLCyQBBrR1vpM8N3SP6+T/JCYFkIeKhF+4+vC5G3I/e56xPeL8brTTS73abvqaTj5pjrINaMH2zd3L7XiKN5sf9xcry26am+DS3R7cDsaf3e7O7k2z64xUbe2rC3+mxyP1/a+KCZnDHCQCSc13pM50xmIIuaLKQFsBrL4zkuOFr8x5CuLaKSHMph/R9B6ngH7fKmc+Sfm0ieRpnRA52tBOap+ZRGiY30pMU1p8Cw1PR/7z0UySOIewjMk9cqQcCt7SMArGwa61ARDravGTNl0/MlCiLGNeRZf1U3us0mgR/n4x/ZHMrc=;9EjghNV1/TnCprqzYwhyiA=="
 ---
 

@@ -284,20 +284,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
-    publishedDateTime: 2021-04-21T15:36:00Z
-    webUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/4e3a416081f744298ea773bfbd3eb964/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Trump says he's optimistic that the GOP will take back Congress in 2022 midterm elections and the White House in 2024"
     excerpt: "Former President Trump said at the Republican National Committee's donor retreat over the weekend that he's optimistic Republicans will retake Congress in 2022 and reclaim the White House in 2024 and reiterated falsehoods about voter fraud in 2020."
     publishedDateTime: 2021-04-12T23:49:00Z
@@ -328,6 +314,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ohio Republicans aim to rename state park after Donald Trump"
+    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
+    publishedDateTime: 2021-04-21T16:31:00Z
+    webUrl: "https://www.timesunion.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
     excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."
     publishedDateTime: 2021-04-20T15:56:00Z
@@ -354,6 +356,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9E/aa47PnQMZU76hfpjMR2qmoJOGGgvGlIxPOOgVe2F9vxJudNUGe+1xKhoF08Zx94kSKbGHRscmMQX5ovtjUh3SYpH1JliSF72XGx2bVFtMeDN87cWTbFAOLqOFqRquj1Y1OYLa6JYOpr5rEP1JRD9CKy3sFrHYXAD3VOQXY70X8AxKajiCOiGaZc6oErW+J+/71Pj91AFzILW0iZyEEwh9CgPD192h8aNp/G7Izpa/9+CE9axZG8K42EzG3VQnQtmXpCP6UpoLD3bs7NoYGm//nXOLm4LZ/xOCrC2Xp8EpxN3XQoPaxqJqnrJ/OxvR8qTbumlztBUgnFe+05DNFXHcyAjcfPp1ncRWc5BPK+w=;9oaO7EoKuBv/s+8ZDvdDXQ=="
+secured: "sjUsUXc7UpthCVXNNIgOuNOJlV09U60ULf/k9mNNSyS6jg3RkJ/g7R7WQyTxAhsCnPGUY899QfTkSnOAFwFy7yLqDhUOFdlh//PpvweKts1PRv3O9veDnhGcE+Og3VJ86vSlG4xW8d1somjodDOVO0M87nXBpAvziFPgaOfh4aAB+C6ichdeU3qOJ76xxK71GeQxj7bVLQm7su7kzISBw92LHOd7HZvaHj2gg115O07dGLEtS8UYnYS8gxtxBYw0SL2EMYM76foWLCC4ilYIphqB9aIsquApBRaZGygVfSsKvhNqzJFDmxieBzRn+GyIdzzJvHYSx6HqJz337solPROpZ9gO4ucRRFIv4TKHzuOMcsQ0FoHD5gTv12nWD2p74JfkT/xAyInf0Y68+goT5L+ZYh3d2v0MKiPKta42XFg5F5DT/YXRRUs9Tq7XLkk4LiKziGB1nI6Ze7M7wa/Sj0fbyvIe0MRmGPK+5WmMq4iUxr3nfvn2mjCj0NGz+WjoJTMIpukS0oWDbMhAUQEbeQ==;Qyeshm8YsdKbpk/yXj/Qog=="
 ---
 

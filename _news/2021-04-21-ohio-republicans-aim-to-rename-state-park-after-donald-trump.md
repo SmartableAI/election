@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Ohio Republicans aim to rename state park after Donald Trump"
-excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
-publishedDateTime: 2021-04-21T15:36:00Z
-originalUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
-webUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
+excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
+publishedDateTime: 2021-04-21T16:31:00Z
+originalUrl: "https://www.timesunion.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+webUrl: "https://www.timesunion.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/4e3a416081f744298ea773bfbd3eb964/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -350,6 +352,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9Ln9g3z2V8GhpFKBKs8VfwM8G/DGe8QFuPg3ROH53Tx39yjk/+x1rEY7jwJJNE2v0NAdgOYRDZPBLdXACxEvs3xpFTFvGeuPIf1GkueP6dUo1z7JqiVWODvk1JlMIvxTHvjKMFxJ3Al2gtKdvBsYgRUsAwRFrMOJYGvgp8w5G9VQQpuIt7jP1wnkxJbtmzmhmi8Ysfjn0MySQS6+kiSY3Sq9hb7xkNHAU4ktafdH3TB0ITehhCLnkpxwAkm/2mjJ6x4eGZrPUYUG94yVGRP3MueK8Vou16mIwFeTHAfYO2a5PXzpOldtX8npu0RS8p26j7xmYOsB8SNpvPLrScitXCI+wAekgmPl5IYQxWkEAv9yCbOsVZf8Jgd49+C7gasCTkQ/CtpZ1kpxpsLXibPaxN+PGFkHdNvlXWxFt05b6Eaod+1vR7z+yV0TXCtYYjOrBUMSsw6zA4sJPHSPm4zWglVmsG0LcFClrWK2YpTCi2WK7vLHGt/Ozh4oWS1IA7xTpc/hnVjyrnOIPfcojcHYDg==;zhlXluYPJ8OF07CIIxpw6g=="
+secured: "L/GgtvPxTGNvYuMQ7HEvpZh8Ix5mNKNg+QKpd8U4kVklzQhxCoouYKa4nafEeTDYD2o7A9Fzoq8Y8sknbTBL9knGPiYsyyilMzgtcF119OkS4KBCYbtBepL9MzjRcj98P8tqbgWt5m7e8nL+nn4bsxErU+wTtvrEEJRGZWtAbVZP4z63RuHX/1HtFjaRcbeyHl1PLGoeQLPmMHSAJKN+v9dBblyPeT4pHlfFhBEc+zlzcK+aghlxnlxQv7Aaug5zkRPuBqAMDqz636pyUeXhzw3Om22Xu6Qw2jFFzndFb9mfYJ/+sF1YQA1PEwlGI9jVNRen7WMF2SmwPOSRg5tjHO/8X+BU1UUehicXbLvu7Jo=;VnM3x0Pq9jRppCA+cKchLA=="
 ---
 

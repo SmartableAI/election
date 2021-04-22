@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-mov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMY3V2EZQMI6XDYKGOCM6T5TTE.jpg&w=1440"
         width: 1440
         height: 1046
+        isCached: true
+  - title: "George W. Bush calls country \"divided\" under Trump and pushes immigration reform"
+    excerpt: "Former President George W. Bush, who has mostly stayed on the political sidelines after the White House, has reemerged with criticism of his Republican successor as he advocates for a sharply different immigration policy from former President Donald Trump."
+    publishedDateTime: 2021-04-21T22:43:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-george-w-bush-donald-trump-criticism/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-george-w-bush-donald-trump-criticism/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-george-w-bush-donald-trump-criticism/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/20/845cd18c-e837-4007-b554-42f049a8e80c/thumbnail/1200x630/8e1cb01de7d35935dc1b4ae8bbdb396e/dsc00988.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nearly All of Trump's House GOP Impeachers Set Fundraising Records Since Capitol Riot"
     excerpt: "All 10 of the House Republicans who voted to impeach Trump for his alleged role in the deadly January 6 Capitol riot have managed to out-fundraise their Trump-backed challengers."
