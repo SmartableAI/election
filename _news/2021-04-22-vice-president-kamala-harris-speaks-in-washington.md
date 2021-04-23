@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris speaks in Washington"
 excerpt: "Vice President Kamala Harris makes a statement before holding a roundtable discussion with leadership on issues concerning Guatemala, Honduras, and El Salvador at the White House in Washington, DC, on Thursday April 22,"
 publishedDateTime: 2021-04-22T15:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/413e9fbcd0e54fa5b4518e5819b170f6/Vice-President-Kamala-Harris-speaks-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/413e9fbcd0e54fa5b4518e5819b170f6/Vice-President-Kamala-Harris-speaks-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/b14e37f0ee7273acfb0c328c51f68b37/Vice-President-Kamala-Harris-speaks-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/b14e37f0ee7273acfb0c328c51f68b37/Vice-President-Kamala-Harris-speaks-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/413e9fbcd0e54fa5b4518e5819b170f6/HARRIS-CENTAM.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/b14e37f0ee7273acfb0c328c51f68b37/HARRIS-CENTAM.jpg"
     width: 650
     height: 433
     isCached: true
@@ -3883,6 +3883,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "FTZc2HXiJc+YGaOWA6SLksA2UZgMrujSjVNOIxn3iO9MWyU39wLdBGShkoZbVqd+4ju+KmSe8rARJqI6UbhL0j+X45GkobxXr/aLsuk6Xa0nMzgl8rDyRg7vWyi3LKRPqAYj01Qx8iELsEfAhAawr5Ujc+Npd3mWK1KsAhfyiKT2KLE48cAeHp745WMr8dlFbMtIjm0TtdSiBClT9mmi/4+KmiwcdfJjETAmlUjt2VluryUym+Lh5UgT2BEjuskp1gCcZ3u+PJsTZXMgkPhpO5U7Czynu0eQjGfiz6fPvv03bZ4i7Zl3w3H9ybQy4cQs8GwavOll07YNEdv5hDTK1k+EMXaMBLNdZ9Iw7Rsbcy4=;oAqN3gTsZ+JOcnoRDm1lWg=="
+secured: "sgTHk2Mo8D4bccINfK84A7PyuumH57g+dYhgxXLPWgcM1rlaxP2XyMLI1jVqiXCdNe0zsHKK8Eow/forSTC9tTgkOn/j77EzjVfDvl0Huda3CeXk0unXd7MCKNmNwwatwzXrWUL+FJX+7uRcYroIj/FOm1oNGELRAvXvdsTP4oii/zsF5IrCweGcgTpOFHxsWRdkjn3pQhKzqv1etqsItuSxmfcFoMDBhK9sLnjjvTvR7dfM9vrfpBfGlOhlwYr0Ivp5qbnjwjhOXI2ClhrfVsRJSnpSonCNurq07AP2MnaMnubSBIWZI30EACM13lmFjoMShnJMCp93cZGKnjl2jdhAYEJC5v4tUYtU4FsLweY=;NI6godGtMiJDXiAIKA+3zw=="
 ---
 

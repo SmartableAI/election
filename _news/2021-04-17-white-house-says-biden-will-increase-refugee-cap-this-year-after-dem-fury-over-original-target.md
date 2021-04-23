@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Obama DOE scientist dissents from Biden climate change ‘existential crisis’ narrative"
+    excerpt: "Former undersecretary for the Department of Energy under President Obama, Steven Koonin is dissenting from the Biden administration’s stance on the global \"climate crisis,\" saying the data do not support the \"hysteria.\""
+    publishedDateTime: 2021-04-23T01:04:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bi-qrVSN9-g/obama-doe-scientist-dissents-from-climate-change-existential-crisis-narrative"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-doe-scientist-dissents-from-climate-change-existential-crisis-narrative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-doe-scientist-dissents-from-climate-change-existential-crisis-narrative.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10f0c3e8-6b34-4e18-8c1f-0a3f62fc93f0/ee500b0f-b710-4547-8031-741d38d0311f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep. Malliotakis: Biden administration can stop migrant surge by reversing border policies"
     excerpt: "New York Rep. Nicole Malliotakis slammed the Biden administration’s policies on “Fox & Friends Weekend” Sunday for “turning over our borders to the cartels,” after she traveled to Texas to witness the migrant surge."
     publishedDateTime: 2021-04-11T17:32:59Z

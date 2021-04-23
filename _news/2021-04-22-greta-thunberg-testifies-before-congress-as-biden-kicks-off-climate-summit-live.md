@@ -2,9 +2,9 @@
 category: news
 title: "Greta Thunberg testifies before Congress as Biden kicks off climate summit – live"
 excerpt: "House subcommittee holds hearing on fossil fuels with climate activist as Biden says at summit: ‘No nation can solve this crisis on our own’"
-publishedDateTime: 2021-04-22T14:57:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
+publishedDateTime: 2021-04-22T14:36:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates?page=with:block-6081750d8f08a84aa591acaa"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates?page=with:block-6081750d8f08a84aa591acaa"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
 type: article
@@ -25,11 +25,11 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/bfc28e778ab830aa2340d3b80b74d55e165f5772/0_0_3500_2185/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8242b90242225621989b95fa95f12d96"
+  - url: "https://i.guim.co.uk/img/media/ddb8bed6fafeb49dcfb81e736e9af0071d60a00e/0_153_5600_3362/master/5600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=664b12f6fe0a93b3b3631fe91702348f"
     width: 600
-    height: 374
+    height: 360
     isCached: true
 
-secured: "gkeUORoaq5//Lkg6cKVCG4Vw8zqJTu6fGDKEtyBMbtwqVpCGL0NcF78rwVdOD98l36eUqGPOsURAnkImHYjwwdjJRvoo1QUt42vSmcLrHyRZm9nXJD5dJmBwwFmBZQ7AMaLnXTI5bMTtLTAmgXgXUQbXPcv4JrjQMgnKA4fnX5vsdr7eFpKTh0KR/1zn2pmTgzrETtpPQa+PfWhkxg/1TlDV7BNb0xwPAlIVF7UMLdf0tufONsFzijZ+Fac+1BE3fhLJHsyBweWIbnFhfMson87SByNUEe2F0dmCztKr+qBqnZ/zAnqVqOLVUyNH0svUufc5snA0B2jD297cCuzAvFVPA+Wg4UnDUebXIjD/6t4zj/IPgv9zvE8CGKpmylo2YXTuFH5cNSp4nojy88Hf5Ep3nDfjlUYL1lo0c9KT6/WahhlcM8UTXI9YbRSkcSBMOEHIuOIoRC9/Lvr+oFLkWMIS672+KpIjXjNnUzC04cUWEjjBgeNnXP/KZv9zpaLcqJ5pf8GJ34dd7C9Wdy2+ow==;FouBFha5Nmnalxs8uTYkfg=="
+secured: "fSgZTNQruczAPbrFfdU4PFfrnc02VUfS4IKWSJmAWxYABxae8TLZWPfDBi8+xgLpHheibirVEekU1L4TW0R/NLvSZYPYGcHkF2ADd8dO0/ZTwcKAEeYHRJWO9uf5h2VKvShQxpahEpkbvrQxlQ/qmxv6v5V18vQ+wwEsFgyGiN6cLZqNA6s/Rr0wRJCrrX45STz74u38ziWtzySjkTO5e490muyCHiy/oEH239ICn84P7lS5SkgPkU3UvfNmoA2XkqvtDC4r+9QkS0ZpadJ3F6JkgadtIlloa7g2Bkf0iaXqmaFfgxPeXQ4eNc/m2iikk/IPx5T+7AelrOGcSoqkN/Qya0e8tuGpneHKbml1xDk=;vxY3nzXpBYVtDPghHgEzYw=="
 ---
 
