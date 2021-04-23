@@ -107,6 +107,22 @@ related:
         width: 1199
         height: 888
         isCached: true
+  - title: "Former VP Pence undergoes surgery to implant pacemaker"
+    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday's procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
+    publishedDateTime: 2021-04-15T20:06:00Z
+    webUrl: "https://omaha.com/news/national/govt-and-politics/former-vp-pence-undergoes-surgery-to-implant-pacemaker/article_a24eb5ff-f49c-5166-ab27-dcb2dceb4761.html"
+    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/former-vp-pence-undergoes-surgery-to-implant-pacemaker/article_a24eb5ff-f49c-5166-ab27-dcb2dceb4761.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/former-vp-pence-undergoes-surgery-to-implant-pacemaker/article_a24eb5ff-f49c-5166-ab27-dcb2dceb4761.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/68/968d4074-f1e8-5582-94c0-42562258bcdf/606e0f9ff228b.image.jpg?resize=1024%2C758"
+        width: 1024
+        height: 758
+        isCached: true
   - title: "Former Vice President Mike Pence undergoes heart procedure"
     excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
     publishedDateTime: 2021-04-15T20:48:00Z

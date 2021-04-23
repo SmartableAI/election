@@ -3659,14 +3659,14 @@ related:
   - title: "Vice President Kamala Harris speaks in Washington"
     excerpt: "Vice President Kamala Harris makes a statement before holding a roundtable discussion with leadership on issues concerning Guatemala, Honduras, and El Salvador at the White House in Washington, DC, on Thursday April 22,"
     publishedDateTime: 2021-04-22T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/7ba6a4d4682e22059d7d77d1e197c3da/Vice-President-Kamala-Harris-speaks-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/413e9fbcd0e54fa5b4518e5819b170f6/Vice-President-Kamala-Harris-speaks-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/7ba6a4d4682e22059d7d77d1e197c3da/HARRIS-CENTAM.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/413e9fbcd0e54fa5b4518e5819b170f6/HARRIS-CENTAM.jpg"
         width: 650
         height: 433
         isCached: true

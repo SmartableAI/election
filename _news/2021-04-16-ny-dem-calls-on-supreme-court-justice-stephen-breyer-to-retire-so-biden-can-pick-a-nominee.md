@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Pentagon nominee faces scrutiny over resurfaced tweet as nomination heads to final vote"
+    excerpt: "An old tweet from President Biden’s nominee to be the number three at the Pentagon has resurfaced as the nomination process heads to the Senate floor."
+    publishedDateTime: 2021-04-22T22:37:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WMqHIb-QIM/biden-pentagon-kahl-iran-israel-tweet"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
 
 secured: "3TIVFalpEnFl7fv+cTqyey8R/OIt/U7Z22F1wFopcERLSfQpTV7/iwEqPk4Nwc/lryeMEeNsNLKvK29EKOtFSQU7nnHkk1e+UAGDMjZgEeIdugQznqtgirRqJYLpkb+Y5crHTPcg5+j4FvN1Z5c2M3chT5wxljeNK99kKycq3zug6WaS9jNxRnjs5aCg7w7Pe2yM9tAiDtfJlpS/8NjjBsRtgPHChKBmdcdmW22NZ3eccq0vkBpDzI0flWbi2vpPhsPUEY0RJ0tvf0YGM1T21Hbs60/hRAgQoszAsT3nFeRF8esn7x0JiGHTp10Pp33uSZ4/icqiiDLd07l0PFBCqKvgWFO8O7g8DggdYpvjwYc=;bk3FuYfi5bVzPuz9dIBHSA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-ma
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5a7a30f-970d-4863-a9db-6656f89b1f15/83fd05b4-31f3-4769-a5fe-952f2229a468/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Inside Sean Hannity’s new $5.3M Palm Beach home next door to Donald Trump"
+    excerpt: "Photos of the three-bedroom, five-bathroom pad’s previous design look straight out of a scene from the film “Boogie Nights.”"
+    publishedDateTime: 2021-04-22T22:53:00Z
+    webUrl: "https://nypost.com/2021/04/22/inside-sean-hannitys-new-5-3m-palm-beach-home-near-donald-trump/"
+    ampWebUrl: "https://nypost.com/2021/04/22/inside-sean-hannitys-new-5-3m-palm-beach-home-near-donald-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/22/inside-sean-hannitys-new-5-3m-palm-beach-home-near-donald-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/hannity-mansion-0015.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "PEVf89WX2hTEfq1vtllUXjxqFg1iuyoKDGVEzMmstHt7Nl79IdSSzPEHuPGVrWRDgJFLxtWx7NQs7mruxGHoDJQUMfCWsUjOOIxxlnK55o7fd0S4shn6m/1RpgVGH858Fj1UxQrwhPqZ0V4G9UwZvwzCI8tPnc1odZwYMKSNsAz2U4MHHpLZXzlb8WLQRAjItRTcLbzZyQ/RzefxXZc0jftZMT+NoZd17JrutCXAnSZl7Q4ClHfBvBGRytVu5b6bPubtbg63hUhhG5vod7r2ECrv+IbVzkGdpKCGcXmvE5muHILN+g/94MZjULb8/iq7NTi8Qfm6/7MroSQWH7RJX+XRehWczQ8ttkLzUjLqAfE=;UOYzIGmlcMBq4eeiynRwug=="

@@ -8,7 +8,7 @@ webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U7RZz8s_ypk/liz-cheney-aga
 ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
 type: article
-quality: 155
+quality: 175
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422101510-the-point-liz-cheney-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
 
 related:
   - title: "Liz Cheney, No. 3 House Republican, to vote to impeach Trump"
@@ -330,6 +336,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "BhzWsDUQu0CeNqbBnLE/LAL2G5ZfnfGR0f1hGKRuzd2ShiQmOEWUcQTD3In5AuvQU6z7IiIKxS3LapyeDkRSqPPQ/qXyCDvYHbu2En2CvIrdrAc/OjDug+7kxy15zLI4u2cjlZKLZv/4aLnV6a/Jq49tRnda5dyG2lh4DUbD1mFMn18fZl+Z59v8JQU/rI6uAKnVuwZPXyFV/o8I6w6QL1fJgk/6yaspl4CIQEN0A8GQUJoyuwsKshVHLb7ndbeL2jFrzQf/MlVc/+tl8tmxwkbnPEhegYCFoKoOmNv0PkJw7xswgrqFx4yYIj13jNMhImeeM9izwVezO4GRv/2Y+bzcnQ4/lUDMvdOJvgOldgY=;6Zc19gB8enl4aNjtYSTgqQ=="
+secured: "HKvfh4FdZQmsJAFEKewTAvH8bqj1ZQjNPbxRW8Tz4xzC43MxE9k+PnZJTpz0KrPUJvaVQigQa9yt5dBx8iGO7+IFqamzqT0R8hJ/0DtUpoAz18MS04tNcX91NdZuXZ0xI5n3HnfHpxubPwhsfBG69T9uc/6euuQWxjCqVjXGv4aRSHAGfywl+FTAjeJXWNhebZjQ5iwf+NCkssqx6KRQ0ySwPyXxOJdUwlJFDblXWHIRzq+FCmV0l3pyFP+5sb8yCSAg5B2fXmlrF8e3GMpKJENOKML6GZe6vgBimCFgvXjlSxxKhzgac0q1NE2peHn6NYBT29ipDuHL644DiPB5Of2DjvngWi01bh/HLSetOvM=;XqjdBQg7+RphjN5EiofjOg=="
 ---
 

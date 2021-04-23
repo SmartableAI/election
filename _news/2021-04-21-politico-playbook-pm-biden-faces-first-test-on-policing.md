@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's sweeping climate goal comes down to one thing"
+    excerpt: "The president wants a sprint to slash greenhouse gas output throughout the U.S. economy. But electricity is the only sector with a running start."
+    publishedDateTime: 2021-04-22T22:54:00Z
+    webUrl: "https://www.politico.com/news/2021/04/22/biden-climate-goal-484326"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/22/biden-climate-goal-484326"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/22/biden-climate-goal-484326"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3b/44/3632b1e4489baaca0e56152b9957/gettyimages-1167751498-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "CvIFovmJ/3NxjlXgUDxAIn3t702ZeEsdZOfdl2lbMK/rY8UGC49jaUIExAQuoXsshboNiGBf+ITHuIsP0VLhjlyDDp2vdj7OTfJGKVX6a8t0vJcp3qeHWkO1lScYrYpvuqhC6gaw6ZCXSXoIChCs1GPGNCQtdzwM6YEsdV2UaJ9PIk+ZWm1ae1hNp9f5OqPW3vZitj7OVovPWyksuw09y42NhQXs19PO4QLTxesL9A6TBM4sOp1E9SCsWjs6Dj+K3pFM9DriSkHcU8yTADPTBAg9LH3xqkZCUey1Qqzi8gwbxdeW9aQ07DrcPQZo7LcOvl/Wt7tFwFG9AJcyXVuJ3yJ+tXxVh3iE9C394h6kjtc=;9cD7Z1tm0GHnfka+oxevWw=="
 ---

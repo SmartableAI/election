@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surger
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://imengine.prod.srp.navigacloud.com?uuid=c239fd6f-6fd3-5743-a73d-2d84e2da472a&type=primary&q=72&width=1200"
         width: 1199
         height: 888
+        isCached: true
+  - title: "Former VP Pence undergoes surgery to implant pacemaker"
+    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday's procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
+    publishedDateTime: 2021-04-15T20:06:00Z
+    webUrl: "https://omaha.com/news/national/govt-and-politics/former-vp-pence-undergoes-surgery-to-implant-pacemaker/article_a24eb5ff-f49c-5166-ab27-dcb2dceb4761.html"
+    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/former-vp-pence-undergoes-surgery-to-implant-pacemaker/article_a24eb5ff-f49c-5166-ab27-dcb2dceb4761.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/former-vp-pence-undergoes-surgery-to-implant-pacemaker/article_a24eb5ff-f49c-5166-ab27-dcb2dceb4761.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/68/968d4074-f1e8-5582-94c0-42562258bcdf/606e0f9ff228b.image.jpg?resize=1024%2C758"
+        width: 1024
+        height: 758
         isCached: true
   - title: "Former Vice President Mike Pence received pacemaker, full recovery expected"
     excerpt: "Former Vice President Mike Pence received a heart pacemaker device during a routine surgery on Wednesday and is expected to fully recover, a spokesman said on Thursday."

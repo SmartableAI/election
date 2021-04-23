@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-wrong-decisions-putin-russia-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wrong-decisions-putin-russia-china-iran-john-ratcliffe.amp"
 type: article
 quality: 161
-heat: 181
+heat: 161
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "The $8T (and Growing) Biden Wants to Spend on Changing America"
-    excerpt: "That's how much President Joe Biden has proposed in new spending — in just the 2½ months since taking office. It's an absurd figure, equal to more than a third of America's"
-    publishedDateTime: 2021-04-18T11:32:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/18/the_8t_and_growing_biden_wants_to_spend_on_changing_america_540777.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "+bJAhBx8YFTUl1BLYwgt3hLwptaRr/466HA7iaZGnfqdlL79iak+oR1OdvHcHSHbcLQGAGDWZ3A6JB/Cy5AXSIzCXLvnAZaAvaibk8iCTuhrHuVBF8lrQ8c2TzXMZjtzxSRvXMI2P7q24zHaVd3VXKAklYKZuvi60vwXjYwALjoBDKsxV1kgUFSqT3IrNSKHVySsmtAuSnb5x2RF/+afo4U82ugNWaRPfm0xZ/+HW0sVqp92jlnFNhawfYdX5APDYNEqk8JKJJK+HXI1bcj5C0HbvWk0Z3V+Gw4pnCBJ4OnUuvC8bccIZzzUHqvMZ7b+cUDGbJmBvqnCT61amjaVgvZdYK27ILDMgsAIKxn1nhg=;V4qmukYb7s+FaaIaI3RR3Q=="
 ---

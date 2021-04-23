@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-texas-levee-that-protect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-texas-levee-that-protects-border-towns.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/mondaire-jones.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Pentagon nominee faces scrutiny over resurfaced tweet as nomination heads to final vote"
+    excerpt: "An old tweet from President Biden’s nominee to be the number three at the Pentagon has resurfaced as the nomination process heads to the Senate floor."
+    publishedDateTime: 2021-04-22T22:37:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WMqHIb-QIM/biden-pentagon-kahl-iran-israel-tweet"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
 
 secured: "4LE+kWnDNmJrfW2r7lroqW+k90yflJiL/EWjqPd6X6sQA00mrLrWGV6hkWUWICePRd3uPvn7bihtR4OFom+mthLhkqX51VTMLbDpB9t23UXW+tm+T8ubMQghSa3nt0cJ5E0oWzjaoermeB0oa8vr/fKCfC4SJbIsvb5z2RSRBjvcfibjPbyazX9vh8AUlXWt/p2NygAUBr7qJ5fRviaC9a2x0QTICyZymIR8aJbKm3LHrYz1WfqhSZTJDwZcnafBQalA/qdz/LaAjoZOotaEOcnW1rz+CUpu3FqveIowEcsdYxnNaE8cp7YA1NkWbA4Kxd82nKblZFQahWNckfP8Kn9fBUTa72yA3TtAbMAMaEk=;2Y9/d7wPYEDXbxYvuEk63Q=="

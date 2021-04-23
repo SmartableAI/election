@@ -1226,9 +1226,9 @@ related:
         height: 800
         isCached: true
   - title: "Former Vice President Mike Pence memoir set for 2023 release"
-    excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-    publishedDateTime: 2021-04-07T22:03:00Z
-    webUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
+    excerpt: "Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell"
+    publishedDateTime: 2021-04-08T03:04:00Z
+    webUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
     type: article
     provider:
       name: Associated Press

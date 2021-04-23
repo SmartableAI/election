@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Former Vice President Mike Pence memoir set for 2023 release"
-excerpt: "NEW YORK (AP) — Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people ..."
-publishedDateTime: 2021-04-07T22:03:00Z
-originalUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
-webUrl: "https://apnews.com/article/us-news-michael-pence-united-states-3f508b45074a749ddd2122664d5d3b9c"
+excerpt: "Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell"
+publishedDateTime: 2021-04-08T03:04:00Z
+originalUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
+webUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
 type: article
 quality: 105
 heat: -1
@@ -1899,6 +1899,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "TCjaKpNo35tqVK9aTsCOXOrNcEeER0DrNvKQWcGSbpCuDyiY8AdvD10tG2uGt3WNywE/ULSMwpxv58Yff3+9a52vrKjPQqKdbKTV3g8IEOGjGpsCN328VFmUFDS/F0P3lxlqsN4rsTMCPwUBJuyaTN9tMT6SH8PbOQB/0xGvyd8FYB4ZbO3kpfx81oNflPJ5aRqd2i9b/6bueIdSEY4hX2iVWnDI1tnyfiIjLKUThfshEDA6/EqrHUtci9ApxoBXOxjAtCHoqNH3Y34WIxRIj/pVsqSquQMTY5dHYHLmHfwH22wZ2qE6D3r2/yW9kyuWft24w7ygpTZ3FZpcREqM+U/Tb9KbrsCngIeXVv8VIFX9MJBtNiY6PB6taErIE7yxF263ZvbutN2YxqCCNoeKptPSmqWE53rgMKW2q4qLv3uMRS/u389cgZQy+kGKO5GRxmQTC49MWPisrG2Hdu6dMQeXP0flGHaJDDu/rqOKvqJLWeaCMxobshuQk0sA3/7S5l8O9aKUblZi6jQrJq47HQ==;L0wlhD0PNyoUKcWqIbtu7Q=="
+secured: "egcnZR5vPSK2wEzQB4dE8lw3cA1hQQYp95sVEZ0koO3I7ZKQSMHN4/IpYR1klXhQPtmfKCMj4HQCyQ/S2VMHC7W0dwfxTY6JUQcMBMpZ++OmL7DTJGv4fnS4WGT2c/ZyihjMvortqVU2WAXpBoRJ2J0GKD3UYhj0oJuvpw64C5+bF7ugs48U6kkphaswbpOcBnF09BNEuoJHq6mj27HhzkmC8ynUWzJQ1toe4KEHeh7glISPB13GU+oEW337lknpsSy+KZLh3fo9FFAiJSguyMBY2P+/NR0KPTlSut5EK9xpS9cGlHiU/lVzKvVf2oq18cG4wXa4beC6DQdNP2rdiqUtaEclN7IVrVP/4udJlaI=;fjti2GLQWoyBADtiiAXPLA=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Inside Sean Hannity’s new $5.3M Palm Beach home next door to Donald Trump"
+    excerpt: "Photos of the three-bedroom, five-bathroom pad’s previous design look straight out of a scene from the film “Boogie Nights.”"
+    publishedDateTime: 2021-04-22T22:53:00Z
+    webUrl: "https://nypost.com/2021/04/22/inside-sean-hannitys-new-5-3m-palm-beach-home-near-donald-trump/"
+    ampWebUrl: "https://nypost.com/2021/04/22/inside-sean-hannitys-new-5-3m-palm-beach-home-near-donald-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/22/inside-sean-hannitys-new-5-3m-palm-beach-home-near-donald-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/hannity-mansion-0015.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "LIK0L3Bd3C/oZMcTF4K0y++7JxwSrS8TV+Tc7Xqe1EGBVy1KDNR++HxXSHqUraZY9eiSGQBn6Xy2g3dgpBYHNNJn0F2+pIJKedR2gDcEirBc0eJwc/6vnHQJrZA2fPXYcghauB3YSqkSFCjJRID7vL1XNUHiiYCoVddkSbBEaihjA4C4OGmGiCS7KNPBc0cAtE2eE7rc+ugx5yeIpCP1L0OHeE+xEjJbZ0ArsXMwPR/o+gBZIq+CHEP8NEU8nrZ+pUIiGUvWKVwKH38yHBOrJqKuiyNk8WEVndLngHxAyYu59JQCkwaHo+HBC384RdEINHb2MPejgrNvgGSG97UCTMB014Fzl5n9g974Q9Ot1l0=;9Rs5c4AKYKdHe6VveMY3/Q=="
 ---
