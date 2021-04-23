@@ -123,6 +123,22 @@ related:
         width: 1280
         height: 755
         isCached: true
+  - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
+    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
+    publishedDateTime: 2021-04-15T23:12:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 68
+    images:
+      - url: "https://www.baltimoresun.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
+        width: 1200
+        height: 889
+        isCached: true
   - title: "Former Vice President Mike Pence undergoes heart procedure"
     excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
     publishedDateTime: 2021-04-15T20:48:00Z
@@ -164,20 +180,6 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/ULCkz1RgzS4TZ4BRJuVbbYY8p_Q=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/RFKZZCVLWJCSTJQRFSOEJJV43Y.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
-    excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
-    publishedDateTime: 2021-04-15T23:12:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 48
-    images:
-      - url: "https://www.baltimoresun.com/resizer/JFUXjhM-9l-BvAm9bJbGSW23Ycw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B74HBX4SQKFBKCOXTYC3223JTU.aspx"
-        width: 1200
-        height: 889
         isCached: true
 
 secured: "fnhENE1j1vFz6AqTfDFfm0KmclI6ANG4oAUtuFYZMabYlikrOX2eE1vvH+1DdQxJQiOxtXd3rxJcSF3hn6AyUKITeGgPXpKJwJcXFQ2F7VGEuajLxzfVFcn2qmfl6px+K3yPoWtIlzm7HYWZGC+CX9FECfpqJGyZ7fkfgiEQdanCpSuPpK+b5sa8maBlvaHp49pHEhbksn41K2ojkcQK6aCU7EUr+sEm3Kmb/jxh8GwmQgVrq1TMcIFBJRUtmb8ydCLkDlgHXXLFI+77Qe6qDyNNpvdfBJz3y2kURVqlx7dpZf3r41cVF6l+l0zCsWZI56Mfh+GD6W4Yh3j3yI06FFEB7mNhLMxqUVLcIuBnl2A5mSigWWKP5TWBEZZgdB4spPDYqayed+dGCl5gz9GcKROj4pDAcdklvV4gFmBcVf7IOGMWNg9Yi2iQDQObVAMH5lB5e+XudqUbFFS8bAwngoh308cEFdvtSPapR2x5d9Epcm07QcsIxe5ogU7YRIqS7YOSWPhGB+dgXdr9KhewQA==;0m6MTS+GyuWpHCbZKLwGkQ=="

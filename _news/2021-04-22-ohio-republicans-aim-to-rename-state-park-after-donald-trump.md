@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Donald Trump faces backlash over comments about judge"
-excerpt: "Beast's Betsy Woodruff joins CBSN to discuss the backlash against Donald Trump, who accused a federal judge overseeing the lawsuit regarding Trump University of being unfair based on his Mexican heritage."
-publishedDateTime: 2021-04-18T06:30:00Z
-originalUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
-webUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
+title: "Ohio Republicans aim to rename state park after Donald Trump"
+excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
+publishedDateTime: 2021-04-21T20:54:00Z
+originalUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/18/dcd664ed-ddac-4240-9f14-82e0330c3f7d/thumbnail/1200x630/21d8318cba3361fb95ab75f817569175/cbsn-trumps-trouble-0616-1073915-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -327,6 +325,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump faces backlash over comments about judge"
+    excerpt: "Beast's Betsy Woodruff joins CBSN to discuss the backlash against Donald Trump, who accused a federal judge overseeing the lawsuit regarding Trump University of being unfair based on his Mexican heritage."
+    publishedDateTime: 2021-04-18T06:30:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/18/dcd664ed-ddac-4240-9f14-82e0330c3f7d/thumbnail/1200x630/21d8318cba3361fb95ab75f817569175/cbsn-trumps-trouble-0616-1073915-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hillary Clinton calls Donald Trump a \"fraud\""
     excerpt: "Hillary Clinton called Donald Trump a \"fraud\" for allegedly ripping off students at Trump University. This comes as President Obama jumps into the 2016 presidential race, slamming Trump's proposals as \"crazy."
     publishedDateTime: 2021-04-18T02:26:00Z
@@ -424,22 +436,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
-    publishedDateTime: 2021-04-21T20:54:00Z
-    webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
     excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."
     publishedDateTime: 2021-04-20T15:56:00Z
@@ -466,6 +462,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Rrkiyez4unrZD5OF/BGNRngoMf8AG/gigC9VAyI5vEgFE5hjm3CeHiA4T9cGfCxR24FmnuejcAos9Vp3z+zVHtMcorqyULI4gZIU0XCBfT1p3YnU6mTuSv6sVq0P5/BNwch8pNNeaO0wh4d/QookLpiaQsatkh1r87zdPOOuR9dZi357RXlfjGvqPBM+zAe9wJbHV+FyBy9ZCrPTwnWLu0FpQNTQr2eHmI8zDCu0ZwDSOb/Rbc0rdUm+2sLf+kbIJ1YRMrIcr0uGiGRTa4DmWwKhMq0cFQ2f5q5AbHz5UnGO10cxyM5BdAkeTdpYdONo3+m7HvHPCFbtlSGx6ga8Y+jGDj1srTmX9UAYaKa1Hr0CmcMrgcqUfkvzjSHUtOPnp71g3DRjZSGt/14I4B4i8Uf4R5A+eVs0gF1wCYdeLqyleMFZmOYf7BW8zJmAsR2+fiDhmmnWVigjN7+4ia605IOGtTYsgawEWVF9TFVIjr+i3F+XrhzZbnDqUb7zctgSx7qre2oRJLDvlxp2S0DwjA==;+yk/JbbuGtZNog2+/fKBiw=="
+secured: "fARIU+K2tH4vIRau2saBrIpu+Q5eh0WkrFgoNpdnW+yU7Cw0OBIloObTOYZXeOhUUhf041fr3SJJ58GJgPyuer/ZOD8XH7wZVAUEFFNbL4HD8ZGd7vaRtxEMZT4jC6aGTJXCIPYvS8MdoUlfnXsczeM7aTRta9wzVCf6wd29kIuTqzeIi8uspOGOIzjY0zJjfdNpUPsh+JucUpWvUkXLl88KiIOXhWHQmyWR89rdQSjxi5o2Z9QI8lnFxfdboXKxt2i7x8S2GtVxmsB3puS0/tJvAZdZYKj9Uma2cYnfE6OhqNUjHHqAF8L1Uy+To9SgHBxkiH6b0sSS79FgBwNaWsyWlq9yRkZiMvlGxoUIAEA=;au1eh4MwjhpH2VC4lPE3Qw=="
 ---
 

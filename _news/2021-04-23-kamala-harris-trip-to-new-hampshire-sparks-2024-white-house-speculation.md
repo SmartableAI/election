@@ -2,13 +2,13 @@
 category: news
 title: "Kamala Harris trip to New Hampshire sparks 2024 White House speculation"
 excerpt: "Vice President Kamala Harris will be out of Washington on Friday and traveling closer to the border – the Canadian border."
-publishedDateTime: 2021-04-23T03:54:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JT0zqdLakhY/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JT0zqdLakhY/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
+publishedDateTime: 2021-04-23T03:54:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
 type: article
-quality: 185
+quality: 135
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg"
@@ -429,6 +429,6 @@ related:
         height: 648
         isCached: true
 
-secured: "fDjLDhjc6Ah/C75UGxHFaD18c4leMhFLKhIXVDA6WUbbNuNNmIi5H7FU/GR3qXiCoq+HwRoT3B9cUVg0URoZ/bmBmgGtTVaImP7qbzpFMm0kGk4kyk9YxSpdm07QC7Rx3FSNYx3oueOtBJMoSU2jz5Ma0hYblTb+VANIjms+GcE6wRDgDtk9BA7J6Sh9TcQvuzy5/Lb9SXYxtNyBwuWnXXKUjxoKcELVz05kN5ZcwSgw/M2tiXQ1M0bU8qLJ2myuqv2PMtR6GJfUALZp75MzbsVA6JMmIQEQ4yXbkM+VF6nR5LvQ4fh9z3LwuV5KtdLhZDnb4rBePRMhIMa5bnEwjwa6jiTQFcBxAfqlCVPuFnQ=;4PetlM8nNl73YtF33MqySA=="
+secured: "2Vj54d0dFlqiaemDJnjFA5me7SLXPaUtHU8lzd78fj5Jmf17KuRu7+yU/Hi8lxNCHZi/+W8wbFq20IP8+tPtbwcFEgnmRuQdwKr1vCckSsFQDBSFll+6VebV/MAXVWhyQK1txrwICFHOmSllF5Y2tvClXsAwKNyW2GbaObofsCaDQlPV1eb8jUw5inBvB8ckDvoYs3uAfuzvx/UqDNKKo8CN6hZiju9Gl6iRR0OWZ7DUVw9bqsAhnAXchtV8H3S9BR/MWcCpaK7KbjyrHnCdxkxO/abqc+7nz+5ia7arAVd2H+eEOuATUyC3kNzYuuOzKDjBvBVwxmixLkR0lKPLMd8AqqooObbDQhOjrtG9O4M=;5zezxaFeofqO2OHngFcguA=="
 ---
 

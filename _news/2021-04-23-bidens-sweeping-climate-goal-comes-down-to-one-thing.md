@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to make maiden foreign trip in June to UK and Belgium"
+    excerpt: "President Joe Biden will embark upon his first foreign trip in June, the White House said on Friday, with plans to attend the Group of 7 summit in southwestern England and diplomatic meetings in Brussels.\n    \n"
+    publishedDateTime: 2021-04-23T15:42:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLIbrs3KlG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423101800-joe-biden-0423-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's big climate pledge is another promise it will be hard to honor"
     excerpt: "A White House riding high on a wave of ambition is setting up a series of inevitable tests of whether Joe Biden is promising more than he can deliver.\n    \n"
     publishedDateTime: 2021-04-23T04:28:15Z

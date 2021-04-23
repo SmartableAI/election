@@ -5,8 +5,10 @@ excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacem
 publishedDateTime: 2021-04-15T23:12:00Z
 originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
 webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-mike-pence-pacemaker-surgery-20210415-vgkxtm7tivd5tpqtr7j4t2jeqe-story.html?outputType=amp"
 type: article
-quality: 48
+quality: 68
 heat: -1
 published: false
 
@@ -180,6 +182,6 @@ related:
         height: 800
         isCached: true
 
-secured: "XiBaObuhq1XXCdUCM/40yd9kOKT1aPV4GwrUuMLHfk0TiSsZyL/KdCdWbGUoqn/AZvGd3wspsbDRUjBdD94McN2qGk5Rp/24bORKddfMX/6AxWRdFeB4dA/ybQJDLDr7FadZ9x1OupstjVA5Ss/aVQ+Aq79V+fduYUChUmw6ePvJsLxcKKHyLM07vk46i/eL3CspjvEfmq7lDl2VQdgMBjbRAa+clVuOKn6+iGdrinPKtzY7Q2keLmeV4KdWcYsRkxYpxx69MOk72PsUUBXNvNvVb7emDjSkLAam9p+KmmEH5rzy2/AoUHf/sym2pZtwwrV/GjmbDzKZ37WszCtTAqrRNNRVOQ8TiLTpXtjIAyk=;EvdtYeelb/91v2MVKniCVQ=="
+secured: "+MyRF7DzICQ8zIxnEccmbqsuOCQiiPJtQR4dZnBhI+MxRU/MopYVMlPsbVnJQ69qHWxT6mC+HaybO4C2G2WY/tB980XDEjJzRvBgQmQyByYVtxJCr0KgMJl03Jc3y9C9iISoasEKT2YMD5aQSXWacwGouYnYCpT24SzGMyHn6hBDpaRYdejsN0UkVvd+k8oxfj1HsaobS+RaMSaHsfKsGwEOMWLltX4zp9zvXCf5jUbdgyNfiWIU8gE2g/IBqBX3rnJm542o2jj5/D8M23RYBxJBsls7c5sXv6vVAslNVfGyZ+UIIsJY5tqTuvv0afh0ixw/DyxFmvdrx4B0OllYOv7UOCYhbdmKPScAvfoTNKJRO2bBPaktbjhqB+1iXSU/b8gsaVSaMKpAHSJjUO5yhF+zw7YzHxSX5hc4ow2JBotlWBvWORJJz1OCPxue2/gY7CrMGWOPW51OhFkKVebGkTW5nR05ffEAOAXFlfP1Xl39VrOm2372EMoK8o6pZWZcAqZUOiFsm+I++nsu68ydCA==;e7cOh11h+Rz9qUnZyygA+A=="
 ---
 

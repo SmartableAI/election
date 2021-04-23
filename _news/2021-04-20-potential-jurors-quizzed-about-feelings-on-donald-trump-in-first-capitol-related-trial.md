@@ -436,6 +436,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ohio Republicans aim to rename state park after Donald Trump"
+    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
+    publishedDateTime: 2021-04-21T20:54:00Z
+    webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "George W. Bush Condemns the Trump-Era Republican Party"
     excerpt: "Bush Condemns Trump’s GOP Former President George W. Bush derided his Republican Party on Tuesday for what he said it has become in the era of Donald Trump and misinformation, describing the GOP as \"isolationist, protectionist and, to a certain extent ..."
     publishedDateTime: 2021-04-20T17:47:00Z
