@@ -394,6 +394,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump says \"the shackles are off\""
+    excerpt: "In a tweetstorm, Donald Trump criticized Paul Ryan and the Republican Party and claimed \"the shackles are off.\" CBS News Chief White House Correspondent Major Garrett is following the Trump campaign with the latest."
+    publishedDateTime: 2021-04-23T03:13:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-the-shackles-are-off-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/23/90f9aee8-4a69-4373-a2e0-db98a68f15b0/thumbnail/1200x630/00a4fc769e58414c28af39574f65af03/1011-cbsn-trumpunshackled-1147591-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Says Georgia Election Law Is ‘Far Too Weak’"
     excerpt: "The former president’s message to Republicans is that using election laws to screw over the opposition isn’t just acceptable – it’s mandatory."
     publishedDateTime: 2021-04-21T00:56:00Z

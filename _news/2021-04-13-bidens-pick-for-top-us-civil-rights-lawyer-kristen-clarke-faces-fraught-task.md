@@ -439,6 +439,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "US President Joe Biden to 'propose hiking tax on rich'"
+    excerpt: "US President Joe Biden is reportedly set to propose a tax hike on the wealthiest Americans. The proposal would raise the top marginal rate and increase taxes on investment gains for the rich. The tax rise would help pay for childcare and education,"
+    publishedDateTime: 2021-04-23T03:24:00Z
+    webUrl: "https://www.bbc.com/news/business-56855301"
+    ampWebUrl: "https://www.bbc.com/news/business-56855301.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-56855301.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9F8E/production/_118164804_56855301.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "World leaders join President Biden for Earth Day climate summit"
     excerpt: "More than 40 world leaders joined President Joe Biden for a two-day virtual summit in celebration of Earth Day. The focus of the event is finding ways to cut carbon emissions, which Mr. Biden says the U."
     publishedDateTime: 2021-04-22T18:56:00Z

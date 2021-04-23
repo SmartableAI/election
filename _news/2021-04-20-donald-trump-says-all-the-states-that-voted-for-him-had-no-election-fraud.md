@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
 type: article
 quality: 139
-heat: 679
+heat: 699
 published: true
 
 provider:
@@ -377,6 +377,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/21/e490e4cf-8f4c-409b-9d9b-9a9c3fef4ff1/thumbnail/1200x630/5c0587cfd0886d7c68da051d69776619/eve-manafort-trump-0819-1109632-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump says \"the shackles are off\""
+    excerpt: "In a tweetstorm, Donald Trump criticized Paul Ryan and the Republican Party and claimed \"the shackles are off.\" CBS News Chief White House Correspondent Major Garrett is following the Trump campaign with the latest."
+    publishedDateTime: 2021-04-23T03:13:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-the-shackles-are-off-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/23/90f9aee8-4a69-4373-a2e0-db98a68f15b0/thumbnail/1200x630/00a4fc769e58414c28af39574f65af03/1011-cbsn-trumpunshackled-1147591-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

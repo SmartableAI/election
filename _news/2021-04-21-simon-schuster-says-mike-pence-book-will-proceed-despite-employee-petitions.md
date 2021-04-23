@@ -1,29 +1,70 @@
 ---
 category: news
-title: "Simon & Schuster says Mike Pence book will proceed, despite employee petitions"
-excerpt: "Simon & Schuster Chief Executive Jonathan Karp said Tuesday the publisher would proceed with a book by former Vice President Mike Pence despite objections from some of its employees, saying he wants to preserve a culture that presents different perspectives."
-publishedDateTime: 2021-04-21T05:29:00Z
-originalUrl: "https://www.foxbusiness.com/politics/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petitions"
-webUrl: "https://www.foxbusiness.com/politics/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petitions"
+title: "Simon & Schuster Says Mike Pence Book Will Proceed, Despite Employee Petitions"
+excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp said in a letter to staffers."
+publishedDateTime: 2021-04-20T19:10:00Z
+originalUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
+webUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
+ampWebUrl: "https://www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
 type: article
-quality: 51
-heat: 51
+quality: 131
+heat: -1
 published: false
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/Mike-Pence-FOX-Business.jpg?ve=1&tl=1"
+  - url: "https://images.wsj.net/im-327598/social"
     width: 1280
-    height: 720
+    height: 640
     isCached: true
 
-secured: "lS+maBY4ll+mHxhNPcW7yHYJzOgsAEk78J4LvkuufoKJRe/5SvbJzQGHs0Cyg6AiJd/NS7wG+5dXKRVEVawu8Ts6cdSKOPMRzR0oiiNyyG6mEdD/VaG6lSuLNYRCsuuAL69al0TzXelw46XRhY8XJOmdiw3LHuLbR8nst8+TTXn5EArvc6DmyLLaR3DC1h+VbmOpY3bRvQWoDC66eJ73kTIVGz9kykwnvHli2JE+MQLfr78j68O+gzAObDgs/IHICf4JMI8AZEULFkOIEhyajZWQ5EuyVPuSoOAh3UCEE3sUOu5IXKlKYzrWLZrWaRAgLeVEWfAhoECXVVPfJDzao5ZqcT7zbGt/Vq1p5Nl8Pn/VIycjDzMUVdH8bc98OYVOO5GWN/NFN3SOZCgVFUTIA7XDmujiYjkUMmT8xtdjqUj9E3xkeH0jHPyLnvufHgUvA5LsSuBVnpX3AplS39tME5EdtIkcJn1t72XgBBDaviIR03G6pmb/xlkMNHALUhuD+ET4FpqyG3tvzMpve7qREg==;2I7XcUg7nnOeGAx1hCK7Qw=="
+related:
+  - title: "Simon & Schuster will publish Mike Pence’s memoir despite staff objections"
+    excerpt: "Simon & Schuster says it will publish former Vice President Mike Pence’s memoir despite objections from employees who signed petitions demanding the company not sign book deals with"
+    publishedDateTime: 2021-04-21T13:47:00Z
+    webUrl: "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/"
+    ampWebUrl: "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-book-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Simon & Schuster Says Mike Pence Book Will Proceed, Despite Employee Petition"
+    excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp says in a letter to staffers."
+    publishedDateTime: 2021-04-20T18:53:00Z
+    webUrl: "https://www.wsj.com/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
+    ampWebUrl: "https://www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/simon-schuster-says-mike-pence-book-will-proceed-despite-employee-petition-11618948424"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-327598/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "JSH0IkDS0NwkzZNDL72YcozdTX6976uIHUubJ//QTLo4bt/qhHLrgPlhd54XyWDh6jFm6K2JIVmlE/uXuvpkulKlGGcewPV5LfgJzPuycmEuYgful4ShHsLjmgos/XCpsmbwD4BO65eq0QncGjMTje/A3Xiw6n8lrT3MSh8S9PQShcDOLv2KtKOKPheVTHAQVaa/2vgEmNMVTBjxRcoitFxQNscrxV3s/vsHgEnV4tKSnAjKjo6hAh/wSF0m++a5x4B23xVrYjPdtUGvSKX4JPq/JkCURRcabC2gKUsD4QUx2dVAHtAQdqJcYLVVwH9JDvkcz8aSlCKhBr4P+wYjpEn1ogO/MsqMB6KIKg0xots=;ReKOa2JQdvKqKONtkPE1lg=="
 ---
 

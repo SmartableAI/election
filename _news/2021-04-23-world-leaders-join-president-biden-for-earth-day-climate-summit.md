@@ -447,6 +447,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "US President Joe Biden to 'propose hiking tax on rich'"
+    excerpt: "US President Joe Biden is reportedly set to propose a tax hike on the wealthiest Americans. The proposal would raise the top marginal rate and increase taxes on investment gains for the rich. The tax rise would help pay for childcare and education,"
+    publishedDateTime: 2021-04-23T03:24:00Z
+    webUrl: "https://www.bbc.com/news/business-56855301"
+    ampWebUrl: "https://www.bbc.com/news/business-56855301.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-56855301.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9F8E/production/_118164804_56855301.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
     excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
     publishedDateTime: 2021-04-18T11:58:00Z
