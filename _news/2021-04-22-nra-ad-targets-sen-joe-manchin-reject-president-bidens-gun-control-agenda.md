@@ -3,8 +3,8 @@ category: news
 title: "NRA Ad Targets Sen. Joe Manchin: Reject President Biden's Gun Control Agenda"
 excerpt: "The National Rifle Association (NRA) launched an ad campaign opposing President Biden on gun control seeking to \"Stop Biden's gun grab.\" In this West Virginia ad, the NRA says: \"President Biden’s political machine is setting its"
 publishedDateTime: 2021-04-22T16:25:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.amp.html"
 type: article
@@ -366,6 +366,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "lOIHxBXKtLabfoquwPXg4MVY+luZP/YA7g5dmVO3Uqwxhhv/KxXBuzLLZLIBnnekSoZsShaynSWE5iSRMfC5gNrDB6PnkOn/YJ4F4KK/+D6aQiMNJk8FDpcI6jUte8PDET7hkE6guDGphvBjnzJ33RBxup+y610E1c9KeiY6zCDGhSAuoQf45AHqR9H6+SNT5Bo+sKjf/3xHOvywtK2wc/C9QncwI4QNP5Mx/5lalwUXIcpVfLMR0jyB9vSDbPc78rlPLt+lb6KofO17y52mtIAkwLfaz4WorILTk8PdBgrYmdMOBH6xppLaOqA8A9J+sTBo2NSbnD+kG4rHuZU0ZACU4W39l6EMysUMhmQPxvA=;gF0P7crPrRMXgAV7gYNEyQ=="
+secured: "QaWAL1CxZOiggnaxVahBcDIbDQRJ3wnjBlnYy3JKRVnDAtrmysU9ZiAsb29oWts/EAlMlk2mNaoZOlapckNDVMsCEz/QKg0VbFEkdtlVB1l7qLtTIl5ySdIdkZkrZx3OKsE1S5QQJHqufJWyWRSsQbgcBjwb+YQeXfwzwf+7YMyANj0SOcRaMp827UwUrVPR8VKcKCMLR1S82TQAG4z2+u5Kp5qLhs6xJNoA3dqqOygPymBY8xPMYB3az37onkAmRYE3VK11y4GI1rwYEfjHRvfCRgWEcotMHzZ4bBsEK7Mph1VKub2oTDUGHY8fYxe9JVCUKfjhwM4Rj4bQuNtC/s4+wCcm1bZx1Fkd4yCoC3M=;mUjWKtZLx3ljkIMOZ3Xz9A=="
 ---
 

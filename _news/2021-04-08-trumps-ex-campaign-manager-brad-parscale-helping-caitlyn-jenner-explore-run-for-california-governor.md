@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-ex-campaign-manager-brad-par
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp"
 type: article
 quality: 160
-heat: 180
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "California Gov. Newsom raising money by tying Caitlyn Jenner to Trump"
+    excerpt: "Gov. Gavin Newsom’s campaign team wasted no time coming after Caitlyn Jenner as she entered the recall race to take his seat. "
+    publishedDateTime: 2021-04-23T20:02:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Caitlyn-Jenner-CC.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Leo Terrell advises Caitlyn Jenner to run like a “Trump Republican” in bid for California governor"
+    excerpt: "Fox News contributors Leo Terrell and Joe Concha joined \"The Story\" Friday to discuss Caitlyn Jenner announcing she will run in a recall election aimed at ousting Democratic California Gov. Gavin Newsome."
+    publishedDateTime: 2021-04-23T20:24:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AmC5FvXOUD4/leo-terrell-advises-caitlyn-jenner-to-run-like-a-trump-republican-in-bid-for-california-governor"
+    ampWebUrl: "https://www.foxnews.com/politics/leo-terrell-advises-caitlyn-jenner-to-run-like-a-trump-republican-in-bid-for-california-governor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/leo-terrell-advises-caitlyn-jenner-to-run-like-a-trump-republican-in-bid-for-california-governor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Caitlyn Jenner gets help from former Trump ally with potential run for CA governor"
     excerpt: "Former Trump 2020 campaign manager Brad Parscale is assisting Caitlyn Jenner as she mulls a potential challenge to California Gov. Gavin Newsom in this year’s recall, a source familiar with"
     publishedDateTime: 2021-04-08T17:07:00Z

@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democrats pushing Biden to propose permanent extension of unemployment benefits"
+    excerpt: "Democrats on the Hill are pushing President Biden to propose permanently expanding unemployment benefits just as governments did for the duration of the pandemic. "
+    publishedDateTime: 2021-04-23T21:42:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pnrOSKXsVno/democrats-permanent-extension-unemployment-benefits"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-permanent-extension-unemployment-benefits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-permanent-extension-unemployment-benefits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Blinken says it will be 'very hard to meet' Biden's pledge to resettle 62,000 refugees"
     excerpt: "Secretary of State Antony Blinken on Sunday said it will be \"very hard to meet\" President Biden's pledge to resettle 62,000 refugees by the end of the fiscal year."
     publishedDateTime: 2021-04-18T16:22:19Z

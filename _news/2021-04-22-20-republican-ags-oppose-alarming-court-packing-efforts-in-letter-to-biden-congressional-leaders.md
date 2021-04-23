@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Florida AG Moody demands Biden make Supreme Court commission meetings public"
-    excerpt: "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms."
-    publishedDateTime: 2021-04-22T02:07:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
+  - title: "Biden avoids confronting China over climate in Earth Day speech with world leaders"
+    excerpt: "President Biden urged world leaders to act quickly and together to confront the consequences of Earth's changing climate, but notably did not specifically address heavy polluters like China."
+    publishedDateTime: 2021-04-22T16:16:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EPD_R2_bxg4/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c2a13b-83af-4d3f-9d1f-6b9fdb7bfc9c/1903328b-8ba5-4353-a238-68996472ba7c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "NY Dem calls on Supreme Court Justice Stephen Breyer to retire so Biden can pick a nominee"
-    excerpt: "New York Democrat Rep. Mondaire Jones said there’s \"no question\" Supreme Court Justice Stephen Breyer should retire during President Biden’s presidency. "
-    publishedDateTime: 2021-04-16T18:46:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b0Q9CxFEcoA/democratic-rep-supreme-court-justice-stephen-breyer-retire"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/mondaire-jones.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21112464404501-CROP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "W37Ieuq5Hl6M8tRMHV8HJDb44glQ3a9L3NCkc9zrCsjCfcXu6QYkUZs/9Y5pVKlnXY85Ixr2fugWrMAOAbpUIdUmWyulEZCsvt7B2t3qD9Oa+JQrwZLYvHo6QrJ1Q2nAFk6yXdd5y/g2kPe9MnE7ij7fdQb5myVHFz8Yn3RW/AjXEuII9XkLeYwv/i9FvAKJnV2cj7t8//T5G1GxLMVC8Q6K5eELHqhG4y0pR9d6HEi0iNwNNuXO1j0hGj9yO3U82gt/65X36j3ewLocdjYxDg0PClAjkZrIcQ5POFnUN4dKWJudY8x3O+OwswuSp6xdUaSei79JjcMsuEAOPbwrkztg5gzTadTwj8kSvYdPkQI=;uPwFCM1slz49R10IrG5b1g=="

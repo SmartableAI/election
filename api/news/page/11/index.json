@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-08-mike-pence-inks-deal-to-write-2-books.md",
+      "title": "Mike Pence inks deal to write 2 books",
+      "excerpt": "Washington — Former Vice President Mike Pence has signed a deal with Simon & Schuster to publish two books, with the first, his autobiography, tentatively set to hit shelves in 2023 as the nation gears up for the next presidential election. His ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
+      "originalUrl": "https://www.cbsnews.com/news/mike-pence-book-deal-simon-schuster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/a0af4233-839a-42bc-b7ea-17a6b76762fa/thumbnail/1200x630/c35ad2142b94342d0dc5c9892e32ec28/gettyimages-1230702122.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-book-deal-simon-schuster/",
+      "publishedDateTime": "2021-04-08T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-913-carson-trump-axelrod.md",
+      "title": "9/13: Carson, Trump, Axelrod",
+      "excerpt": "The latest on the 2016 presidential campaign and the newest polls in key battleground states, with Donald Trump, Ben Carson, CBS News Elections Director Anthony Salvanto, Democratic Strategist David Axelrod,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/913-carson-trump-axelrod-1/",
+      "originalUrl": "https://www.cbsnews.com/video/913-carson-trump-axelrod-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/12/15/9334678b-ba9b-48ff-9dca-8457084b146a/thumbnail/1200x630/f248e71cc26ba21608939f758781626d/page-2-0912v3-445078-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-gops-mccarthy-says-vp-harris-should-attend-fbi-cia-terror-briefing-i-know-she-hasnt-been-to-the-border.md",
       "title": "GOP's McCarthy says VP Harris should attend FBI-CIA terror briefing: 'I know she hasn't been to the border'",
       "excerpt": "House Minority Leader Kevin McCarthy confirmed Wednesday he has requested a classified briefing from the FBI and CIA over two Yemeni men on the FBI’s terror watch list who were allegedly caught crossing the U.S.-Mexico border two months apart this year.   ",
@@ -273,62 +377,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.md",
-      "title": "Trump’s ex-campaign manager Brad Parscale helping Caitlyn Jenner explore run for California governor",
-      "excerpt": "Former Trump campaign manager Brad Parscale is helping Caitlyn Jenner as she very seriously explores running for Governor in California, Fox News has learned. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/obM65EaV2G4/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/obM65EaV2G4/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-ex-campaign-manager-brad-parscale-helping-caitlyn-jenner-explore-run-for-california-governor.amp",
-      "publishedDateTime": "2021-04-07T17:41:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1313,63 +1361,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-the-mauritanian-star-benedict-cumberbatch-calls-on-joe-biden-to-close-down-guantanamo-bay.md",
-      "title": "'The Mauritanian' star Benedict Cumberbatch calls on Joe Biden to close down Guantanamo Bay",
-      "excerpt": "Benedict Cumberbatch says he plans to call on Joe Biden to close Guantanamo Bay following his latest movie \"The Mauritanian.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/mauritanian-benedict-cumberbatch-calls-joe-biden-close-guantanamo-bay",
-      "originalUrl": "https://www.foxnews.com/entertainment/mauritanian-benedict-cumberbatch-calls-joe-biden-close-guantanamo-bay",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Britain-Cumberbatch-blue-eyes-ap-660.jpg",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/mauritanian-benedict-cumberbatch-calls-joe-biden-close-guantanamo-bay.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/mauritanian-benedict-cumberbatch-calls-joe-biden-close-guantanamo-bay.amp",
-      "publishedDateTime": "2021-04-07T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

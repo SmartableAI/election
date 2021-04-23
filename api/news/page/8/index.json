@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-12-biden-is-expected-to-name-a-former-top-obama-era-federal-prosecutor-to-lead-the-justice-departments-criminal-division-sources-say.md",
+      "title": "Biden is expected to name a former top Obama-era federal prosecutor to lead the Justice Department's criminal division, sources say",
+      "excerpt": "Sources tell Insider that Kenneth Polite is expected to be Biden's pick to run the Justice Department office responsible for federal criminal probes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/doj-criminal-division-kenneth-polite-biden-nominee-justice-department-2021-4",
+      "originalUrl": "https://www.businessinsider.com/doj-criminal-division-kenneth-polite-biden-nominee-justice-department-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6073ad1aa451820019b3a79c?width=700",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-analysis-bidens-agencies-reverse-trumps-wall-street-friendly-rules.md",
+      "title": "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules",
+      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 880,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BZ16N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ16N",
+      "publishedDateTime": "2021-04-12T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-biden-aims-to-redefine-word-bipartisan-as-dems-work-to-push-spending-bill-without-any-gop-votes.md",
       "title": "Biden aims to redefine word ‘bipartisan’ as Dems work to push spending bill without any GOP votes",
       "excerpt": "President Biden vowed to bridge the partisan political divide but, struggling to garner Republican support for major bills, his administration appears to be changing the narrative by redefinining what \"bipartisan\" means.",
@@ -1237,110 +1341,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-donald-trump-tumbles-down-forbes-billionaires-while-kim-kardashian-lands-on-list.md",
-      "title": "Donald Trump tumbles down Forbes' billionaires while Kim Kardashian lands on list",
-      "excerpt": "Forbes magazine estimated former President Trump's wealth fell from $3.5 billion to $2.4 billion. moving him from 1,001st place to 1,299th.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/04/10/donald-trump-kim-kardashian-billionaire-forbes-list/7172191002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/04/10/donald-trump-kim-kardashian-billionaire-forbes-list/7172191002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/10/USAT/e567a5ff-2c30-4f38-ac5e-11d4de85964c-Donald_Trump_tumbles_down_Forbes_billion-6071983f4f499f10a8881ce2_1_Apr_10_2021_15_01_26_poster.jpeg?quality=10",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-nancy-pelosi-was-set-to-retire-from-politics-before-trump-election-win-in-2016-new-book.md",
-      "title": "Nancy Pelosi Was Set To Retire From Politics Before Trump Election Win in 2016: New Book",
-      "excerpt": "House Speaker Nancy Pelosi said the victory of Donald Trump in the 2016 election felt like \"a mule kicking you in the back\" and convinced her to remain in politics, according to an upcoming biography. Assured that the Democratic contender Hillary Clinton ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612",
-      "originalUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1775435/speaker-house-nancy-pelosi.jpg",
-          "width": 3600,
-          "height": 2401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-retire-election-2016-quit-1582612?amp=1",
-      "publishedDateTime": "2021-04-10T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

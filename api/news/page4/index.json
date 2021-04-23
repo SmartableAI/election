@@ -2,6 +2,115 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-19-michael-flynn-lin-wood-and-mike-lindell-pose-in-front-of-path-to-trump-board.md",
+      "title": "Michael Flynn, Lin Wood and Mike Lindell Pose in Front of 'Path to Trump' Board",
+      "excerpt": "The board was designed to document Trump's intricate web of associates and supporters with hopes of communicating conspiracy theories to the former president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648",
+      "originalUrl": "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1779799/michael-flynn-speaks-during-protest.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1",
+      "publishedDateTime": "2021-04-19T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor.md",
+      "title": "ILLINOIS GOP’s ASTERISK — FIRST AD for 2022 CYCLE — REMAP MAY HAVE A TRUMP FACTOR",
+      "excerpt": "The Illinois GOP has never been a fundraising juggernaut, and yet the first quarter numbers were still pretty bleak. For the first quarter, Illinois GOP reported receiving a little more than $115,000 in donations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/04/19/illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor-492515",
+      "originalUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/04/19/illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor-492515",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-billboards-troll-warnock-biden-abrams-over-all-star-game-as-poll-says-public-wants-companies-out-of-politics.md",
       "title": "Billboards troll Warnock, Biden, Abrams over All-Star game as poll says public wants companies out of politics",
       "excerpt": "Conservatives are doubling down on their attacks against Democrats after Major League Baseball moved its All-Star Game from Atlanta in protest of Georgia's new elections law, arguing \"lies\" about the content of the law led to the decision. ",
@@ -839,7 +948,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 334,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -1271,101 +1380,6 @@
         "Republican Voice",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-gun-violence-pierces-the-very-soul-of-our-nation-biden-says-after-indianapolis-shooting-live.md",
-      "title": "Gun violence ‘pierces the very soul of our nation’, Biden says after Indianapolis shooting – live",
-      "excerpt": "President says shooting at FedEx facility is ‘just the latest in a string of tragedies’ and ‘gun violence is an epidemic’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079c81a8f08a91092689de1",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079c81a8f08a91092689de1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates",
-      "publishedDateTime": "2021-04-16T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-ag-merrick-garland-rescinds-a-trump-era-memo-curtailing-consent-decrees-in-investigations-of-police-departments.md",
-      "title": "AG Merrick Garland rescinds a Trump-era memo curtailing consent decrees in investigations of police departments",
-      "excerpt": "The memo comes as the Justice Department shifts its priorities to focus more on civil rights issues, criminal justice overhauls and policing policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4",
-      "originalUrl": "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6079c16a44f4540019207203?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp",
-      "publishedDateTime": "2021-04-16T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C118D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C118D"
 type: article
 quality: 125
-heat: 1165
+heat: 1185
 published: true
 
 provider:
@@ -542,6 +542,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1779263/biden-yoshihide-suga-white-house.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Democrats urge Biden to stop using local police to enforce federal immigration law"
+    excerpt: "The lawmakers say the use of local law enforcement has undermined public safety by making immigrants afraid to report crimes."
+    publishedDateTime: 2021-04-22T22:06:00Z
+    webUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/6081dbc04becb800190f6a35?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden says he’s willing ‘to compromise’ with Republicans on infrastructure bill – live"
     excerpt: "President meets with a bipartisan group of lawmakers and says ‘I am prepared to compromise’"

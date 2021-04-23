@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-first-overseas-trip-president
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-overseas-trip-president.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21111606548941.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democrats pushing Biden to propose permanent extension of unemployment benefits"
+    excerpt: "Democrats on the Hill are pushing President Biden to propose permanently expanding unemployment benefits just as governments did for the duration of the pandemic. "
+    publishedDateTime: 2021-04-23T21:42:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pnrOSKXsVno/democrats-permanent-extension-unemployment-benefits"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-permanent-extension-unemployment-benefits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-permanent-extension-unemployment-benefits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-1312682563.jpg"
         width: 1280
         height: 720
         isCached: true

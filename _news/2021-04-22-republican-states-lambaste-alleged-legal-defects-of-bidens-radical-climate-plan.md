@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-emissions-plan-le
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-emissions-plan-legal.amp"
 type: article
 quality: 169
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "President Biden: Private Sector Can't Meet Challenges Of Climate Change \"Alone\""
-    excerpt: "President Biden told Thursday's virtual global climate summit that \"time is short\" for the U.S. to address climate change. He announced that the U.S. will cut its carbon emissions \"in half\" over the next decade."
-    publishedDateTime: 2021-04-22T19:38:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/22/president_biden_private_sector_cant_meet_challenges_of_climate_change_alone.html#!"
+  - title: "West Virginia AG threatens lawsuit against Biden Climate Plan"
+    excerpt: "West Virginia Attorney General Patrick Morrisey on Friday, vowed to take the Biden administration to court if the president does not seek congressional approval for his latest plan to combat climate change.  "
+    publishedDateTime: 2021-04-23T20:46:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n5HUvxZxRCk/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 61
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://assets.realclear.com/images/54/541271.jpg"
-        width: 4352
-        height: 2901
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59a712c5-fbee-4739-8f1d-6c1e1b4d8cec/2cbb6979-d7f9-43e3-90a6-ecfacd5492c5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Florida AG Moody demands Biden make Supreme Court commission meetings public"
+    excerpt: "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms."
+    publishedDateTime: 2021-04-22T02:07:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c2a13b-83af-4d3f-9d1f-6b9fdb7bfc9c/1903328b-8ba5-4353-a238-68996472ba7c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration cozies up to controversial UN agency for Palestinian refugees"
+    excerpt: "The U.N. Relief and Works Agency (UNRWA) has continuously faced accusations of teaching hatred and incitement in its school system against Jews and Israelis. Yet none of this was even hinted at in an optimistic statement released following the meeting between Ambassador Linda Thomas-Greenfield and the"
+    publishedDateTime: 2021-04-22T19:40:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vjv2JWtIe-U/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Left-wing group dumps cow poop at White House entrance, demands Biden take climate action"
+    excerpt: "Climate activists dissatisfied with President Biden's climate plan are not-so-subtly expressing their displeasure, as they are literally calling \"bull----\" while dumping cow manure in front of the White House."
+    publishedDateTime: 2021-04-22T14:02:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kISNx2lXbfI/left-cow-poop-white-house-climate"
+    ampWebUrl: "https://www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "yqpx5zqRqwMnE2Vxbk53rq5Fg3mJAB3IF3sjvtQsfrf+tJO5ob/gfElQqxEMcbbyrQlrnEsDiCW6dcvuI3Df1IlfXqlsiO2lSaOv1ZZVRfv83bjKjEJWXzD8FIS5RkZI6+RzK51OlvAahME132LzukaZ6LlgH2chZjWsUezUN7xEfGBcjP3JxaxEXKjx8U8GuT5Bvjwg8LELbIcI6Lq+vzKOR6U0ImIwsoZ3AffnNvYjx6i6KBkXfDCcrUv07STWAVUFYdp6+uioGOxLyieMOlatRJSA5q6RW6BT5SdL/ggkV8zNTNA9fmjRtr0vI9sBGxLCI24xwr0OIqAB23ZgivmOLuTwqzs6ncGTbuWPfE4=;d+M5+5SzaJckg+bI0J26gg=="
