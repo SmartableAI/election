@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden administration to provide $150 million to boost Covid response in underserved and vulnerable areas"
-excerpt: "The Biden administration on Monday will allocate $150 million from the American Rescue Plan to community-based health care providers across the nation to help boost their coronavirus response for \"underserved communities and vulnerable populations,\" an administration official told CNN.\n    \n"
-publishedDateTime: 2021-04-19T15:11:59Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dumFbX0rFYs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dumFbX0rFYs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/american-rescue-plan-funding-vulnerable-communities/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/american-rescue-plan-funding-vulnerable-communities/index.html"
+title: "Progressives will deliver their own response to President Joe Biden's speech to Congress"
+excerpt: "Traditionally, the opposition party gives a rebuttal to the president's address. But this year, a member of Biden's own party will respond, too."
+publishedDateTime: 2021-04-22T08:33:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/progressives-will-deliver-their-own-response-president-joe-biden-s-n1264880"
+webUrl: "https://www.nbcnews.com/politics/white-house/progressives-will-deliver-their-own-response-president-joe-biden-s-n1264880"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264880"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264880"
 type: article
-quality: 158
+quality: 126
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419104614-vaccination-april-10-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/3466730/210421-jamaal-bowman-ew-435p_d35a4131c8844eff13f4735c88a56a4a.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -335,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to provide $150 million to boost Covid response in underserved and vulnerable areas"
+    excerpt: "The Biden administration on Monday will allocate $150 million from the American Rescue Plan to community-based health care providers across the nation to help boost their coronavirus response for \"underserved communities and vulnerable populations,\" an administration official told CNN.\n    \n"
+    publishedDateTime: 2021-04-19T15:11:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dumFbX0rFYs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/american-rescue-plan-funding-vulnerable-communities/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/american-rescue-plan-funding-vulnerable-communities/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419104614-vaccination-april-10-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House backtracks on refugees decision after criticism and says Biden will announce increased cap by May 15"
     excerpt: "The White House said Friday President Joe Biden will set a new, increased refugee cap next month after facing a barrage of criticism when officials confirmed to CNN and other outlets that it would remain at the historically low level set by former President Donald Trump.\n    \n"
     publishedDateTime: 2021-04-17T14:00:52Z
@@ -463,22 +480,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Progressives will deliver their own response to President Joe Biden's speech to Congress"
-    excerpt: "Traditionally, the opposition party gives a rebuttal to the president's address. But this year, a member of Biden's own party will respond, too."
-    publishedDateTime: 2021-04-22T08:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/progressives-will-deliver-their-own-response-president-joe-biden-s-n1264880"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264880"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264880"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/3466730/210421-jamaal-bowman-ew-435p_d35a4131c8844eff13f4735c88a56a4a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden goes where Congress won’t on guns"
     excerpt: "That’s how President JOE BIDEN started off the Rose Garden speech where he unveiled his newest moves to curb gun violence. It’s both an encapsulation of the way his administration thinks about the issue and a preemptive defense against accusations from the right that he’s undermining the Second Amendment."
     publishedDateTime: 2021-04-08T17:48:00Z
@@ -508,6 +509,6 @@ related:
         height: 773
         isCached: true
 
-secured: "kaJfAsaxrtroEhn4Le98mV0rE2lwJPcOjeSXIY6e8wW37LhREl1aiYBCC+5u0G3ksrrU6GIZ6WNDMV+Fe4nDvsRvMLFAC1tMjP9BtCqmyu7xcMO1e8WQgSXo307c7wMNDahqvjjUf41Y0CulA1+I7jQbR0idm8oisAw8osJZaBO/R/9/QX5dEsQNsOLGo9BVeVS6dG1AEAKfpHU3FqMOUT4SmE2r14P0Z7etB99guXSeqtFfR5Ao5CswXBDQ2ZMRZGMjdbb9D0OuuTyNprK+ifwb/xsSo3fbC3IisIZ/Ls+mEY3RLBtVtSD52fVLcE9ZQs3BQIS/DygsCRFidj7F+n75PIoFwOm1VhNbBixPXyU=;8l8kpoz4yQ2YG/1lmmyalw=="
+secured: "BmDf0m7mp2gJPiUJR1Acd2FVe9M+2eqdtxK6D07sS50GYJmN7mBSRBZbDtdhNSemwx1K+Jdng8ctwi6qS40VvRpsm6eIHqQ36N3eMIWx9fbzXMuzcOkE9sbw7R6wo+xX3gOeaqJRgyWqEju0RPUnDrD2Qwp8qlFvLjtJCYWn7DyS36VoGiH+mTd/uzLZVqhMqBibFn0pCCNHW+AENlqkzOT+N2yFLRBgkW7GSLrQt2wAbN50SOrJdpGu1ZHhFMqfx6Xyejks1Uf3JhC6MisspT5wgMybZC4GOHzs4a2DA20vity0Tg/5TbMAhPuK/SN4AO02wy1it8fnKOoOWCMOh5BMzsmhDG6xIZvX4BIzDZU=;4qXWcS4osJ1pgPKdc1dPdA=="
 ---
 

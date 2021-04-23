@@ -478,6 +478,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Progressives will deliver their own response to President Joe Biden's speech to Congress"
+    excerpt: "Traditionally, the opposition party gives a rebuttal to the president's address. But this year, a member of Biden's own party will respond, too."
+    publishedDateTime: 2021-04-22T08:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/progressives-will-deliver-their-own-response-president-joe-biden-s-n1264880"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264880"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264880"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/3466730/210421-jamaal-bowman-ew-435p_d35a4131c8844eff13f4735c88a56a4a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "POLITICO Playbook PM: Biden makes moves on immigration"
     excerpt: "Minnesota police chief says officer who fired single shot that killed a Black man intended to discharge a Taser.” IMMIGRATION FILES — “Biden admin secures agreements with Mexico, Honduras and Guatemala to secure borders,"
     publishedDateTime: 2021-04-12T17:33:00Z

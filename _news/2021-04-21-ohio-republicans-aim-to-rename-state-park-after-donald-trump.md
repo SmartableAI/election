@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Ohio Republicans aim to rename state park after Donald Trump"
-excerpt: "A GOP-backed bill would change the name of an Ohio state park to honor former President Donald Trump COLUMBUS, Ohio -- A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump."
-publishedDateTime: 2021-04-21T15:39:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ohio-republicans-aim-rename-state-park-donald-trump-77194203"
+excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
+publishedDateTime: 2021-04-21T15:36:00Z
+originalUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
+webUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4e3a416081f744298ea773bfbd3eb964_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/4e3a416081f744298ea773bfbd3eb964/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -466,6 +460,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4AMPJ3mk+DDbop+esYQBVoDTEP6kQvox60HY5GnS6vEG+s2KmFtthJgP6KHAB4PPFbEOwKzKoF0pXm9a5RTDZ7zyWWswTUcrZ+cFmQ1OXv5dgIH+VfbO9L5YcQcXRoQ8utoMpScrRikq9hJoVYw6s5Q2hnBoiL39UmLvlQrQRQF5vuoEC4y210rQrG6xCAxEuUxQ+xV52JQV2uK42G1yflllY4Mqqr0T2MxwmqMCLW1ZtQ6aFhMPXBiSac6gIyLoccU+7igyXRFhjUVOCwILN87nTGlKOth7GYBtk6RqBi3EzO5F9ne5x9Dut7I6kIk8uuQyZ0weESWlCT6IrTe7RARYZ/QDShk7DyOpnb1EOUe0KuF/BZQYfsASDw4TvUHOtYcM2mFSWzxOqDUuJCtZW/HXvI5JfAYvD7bn9bt0dj3hZoS09Q6z7AfrNu+euIgOaow87T2bLhyIzovBI3dKHh572jK94FpC70Mt6725kQmeGdFc3AkFEZbZjnSHoPcd877gPyRDPYWXjbwdreeufA==;Ju4VqcRnQejmIQXcQiRm3Q=="
+secured: "0cn+N2jMcGHRUJlUBoM2l4wHW5v/cnFnEXK/Tsg0fFhz0elbwloPtIqVpBgxc1nE0tbSe0aa2+W4C3C7ihFjHyyTNqKoVZRo5+5hly+A1uym9BqGnzliZ0WQcfvc4wByDDnxM49mjUgFx9VlDq+6sGFZbg8uabbV3W3yUGo8HVZ/zdFcMa5oOOyTFOoNcfxVhQJ5GNdm374262o5yF3b1jIraOeb6ze0i9C/94LsaHHvRVqWcGmhjOghptuUxm51FTuaM74AgYygJ8xchxMl/jtTGpzfPHT10uzRrikKlHH6e0JUSEBl7hqooLFIE4mXet6bE8GX7tpX3DVi0ltGdGZaKryOzSFyZ+wy/tXThWU=;+bGdKmRnTbNz3PZiAr01nw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
 type: article
 quality: 180
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -462,6 +462,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/16/us/politics/16new-washington-briefing-japanese-prim2/16new-washington-briefing-japanese-prim2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Progressives will deliver their own response to President Joe Biden's speech to Congress"
+    excerpt: "Traditionally, the opposition party gives a rebuttal to the president's address. But this year, a member of Biden's own party will respond, too."
+    publishedDateTime: 2021-04-22T08:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/progressives-will-deliver-their-own-response-president-joe-biden-s-n1264880"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264880"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264880"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/3466730/210421-jamaal-bowman-ew-435p_d35a4131c8844eff13f4735c88a56a4a.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden goes where Congress won’t on guns"
     excerpt: "That’s how President JOE BIDEN started off the Rose Garden speech where he unveiled his newest moves to curb gun violence. It’s both an encapsulation of the way his administration thinks about the issue and a preemptive defense against accusations from the right that he’s undermining the Second Amendment."
