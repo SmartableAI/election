@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris speaks in Washington"
 excerpt: "Vice President Kamala Harris makes a statement before holding a roundtable discussion with leadership on issues concerning Guatemala, Honduras, and El Salvador at the White House in Washington, DC, on Thursday April 22,"
 publishedDateTime: 2021-04-22T15:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b1d1d922fc2e3b90d44ce718f767b461/Vice-President-Kamala-Harris-speaks-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b1d1d922fc2e3b90d44ce718f767b461/Vice-President-Kamala-Harris-speaks-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/b14e37f0ee7273acfb0c328c51f68b37/Vice-President-Kamala-Harris-speaks-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/b14e37f0ee7273acfb0c328c51f68b37/Vice-President-Kamala-Harris-speaks-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b1d1d922fc2e3b90d44ce718f767b461/HARRIS-CENTAM.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/b14e37f0ee7273acfb0c328c51f68b37/HARRIS-CENTAM.jpg"
     width: 650
     height: 433
     isCached: true
@@ -3883,6 +3883,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "3wIAGKjBy9IcAP7uM8+HLYILg4YQt3lV10Gjq0GCTQkTe6XPdmMVHr5NBr5PpOcDgzCwOVolNV/JYCxWUWxMgsYxc8RY8mZRzv4dqMK7bs4vz5KxCcFrfiWOhdwC0p+i48p3vWWV+cnjMk6MNTOB9E+mFgX0QIHxMtbL7FG/0ysMoIhCMIv/qexuHkQQrzSaey2gx4GJWA0X9Mwo6yJJ0kCE1cSpjyefjjZKQrt0GUsvcX5KJcLmH8ggI4PL0YnlRilWswl/YZnuidVKLjdhynKRgpWygv7yAWv2kN/ql8bXj/U9J6Qygeg50c0KJF90uPowC88HqqILT/mC40M3QHGl3Slqk2yovMlATxTdt0uMC0Lio7mQVUz6ALwvQ8YFk4Mc9rn//P1gM0P/jqQgKwmPUZi5A7pFeO93Us8gklD+D+heO7n1bRPW5zlnW73TwsHiwG0cGLXo31jXCTQls/1kVEpKUKO9cIksaS3eQF1a3eA5s/Gx6gBbypaGHYcYGZ+P2JlrM4X+NJQ8/l2nZQ==;9eaF7xWTFohTnOX/HuPkGQ=="
+secured: "G0vqSJm1otQI4NhKgZijHRrqUzUnKeFUND+opCd2nuoJ1Z8JG42+LQoTmdyCmhg420F5TXNl07o4PWoFCqrB6oEmHO+9JF0Cl++rBLUzVt0S4CjknyXYAo7iSr12LDwdKgEhDUOo+PTLcFR+j/wRf8n+d4Hhokj5smffogiumV2h7NJ7F3GPwjPRRcHID2Qmmv00V7XiRUuT9kqliowuw1zCUc6vqsAGgn1Wks2WpeCxGCVNTCZTMh3eBPwsG12kD3Oke7NE0CYNaAw0NMKZGG1JZ91pxZvb2szsQIiIC3o1HE0g9K6dzMFLPGXHP9SELLw8bSm90hLDRzyNH+93ALLXIqbfgc+YTDuh0fVOM3A=;GEJdylxZv57+D4jdb3wNug=="
 ---
 
