@@ -1323,6 +1323,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
+    excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
+    publishedDateTime: 2021-04-21T22:37:00Z
+    webUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/"
+    ampWebUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 87
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/sjm-4374537.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden said he’d invest in Black colleges. They hope Kamala Harris can help"
     excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
     publishedDateTime: 2021-03-16T09:00:00Z

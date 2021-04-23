@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americ
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americans/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323221903-jill-biden-jennifer-garner-split-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden will seek to raise taxes on richest Americans to fund sweeping education and child care proposals"
+    excerpt: "President Joe Biden is preparing to outline the next step of his economic agenda during a joint session to Congress next week and his proposal to pay for it is expected to include new taxes on the wealthiest Americans.\n    \n"
+    publishedDateTime: 2021-04-23T13:07:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gjEj8xL-fx0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/biden-tax-increase-education-childcare/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/biden-tax-increase-education-childcare/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

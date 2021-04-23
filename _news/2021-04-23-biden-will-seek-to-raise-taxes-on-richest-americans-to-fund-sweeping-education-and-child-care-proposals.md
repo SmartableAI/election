@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Jennifer Garner to promote American Rescue Plan with Jill Biden in Alabama on Friday"
-excerpt: "Actress Jennifer Garner will join first lady Jill Biden on Friday for a trip to Alabama as part of the Biden administration's \"Help is Here\" tour, promoting the American Rescue Plan.\n    \n"
-publishedDateTime: 2021-03-24T02:21:46Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gobLk2-WCxs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gobLk2-WCxs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/jennifer-garner-jill-biden-alabama/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/jennifer-garner-jill-biden-alabama/index.html"
+title: "Biden will seek to raise taxes on richest Americans to fund sweeping education and child care proposals"
+excerpt: "President Joe Biden is preparing to outline the next step of his economic agenda during a joint session to Congress next week and his proposal to pay for it is expected to include new taxes on the wealthiest Americans.\n    \n"
+publishedDateTime: 2021-04-23T13:07:09Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gjEj8xL-fx0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gjEj8xL-fx0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/biden-tax-increase-education-childcare/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/biden-tax-increase-education-childcare/index.html"
 type: article
-quality: 168
+quality: 159
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323221903-jill-biden-jennifer-garner-split-restricted-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden will seek to raise taxes on richest Americans to fund sweeping education and child care proposals"
-    excerpt: "President Joe Biden is preparing to outline the next step of his economic agenda during a joint session to Congress next week and his proposal to pay for it is expected to include new taxes on the wealthiest Americans.\n    \n"
-    publishedDateTime: 2021-04-23T13:07:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gjEj8xL-fx0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/biden-tax-increase-education-childcare/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/biden-tax-increase-education-childcare/index.html"
+  - title: "Jennifer Garner to promote American Rescue Plan with Jill Biden in Alabama on Friday"
+    excerpt: "Actress Jennifer Garner will join first lady Jill Biden on Friday for a trip to Alabama as part of the Biden administration's \"Help is Here\" tour, promoting the American Rescue Plan.\n    \n"
+    publishedDateTime: 2021-03-24T02:21:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gobLk2-WCxs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/jennifer-garner-jill-biden-alabama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/jennifer-garner-jill-biden-alabama/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323221903-jill-biden-jennifer-garner-split-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -94,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eJKcm/uaNkg+qRKSNJXWzT2O5BznaQoFPkAIX/MSnWF1LFcWwlL8uTIGP+e5G2sELHpMMBbUbavOQYDAGg+dPeEKLvL5RaUMorxcCkQiAynjYTYZKmT+0phwby5/DnJWS/6ynHwgpgP7WL45vmt5SvNOUeiXDxuoEwFsdF8qWp67Ya8h2OoqwkKzP0I+1mQ8F9YoIbGH3uIC/jZqczPW9qyLn68E9NGb7/eUUDC3SqDGUMBrRBb0/rh4GcGoIz09RJfnzBYkgfxbmd5fbaq1X58kH1eBgcTZhLFjcU4qmLqOM67eF1kyRsdRBAE5zn6nEMPaNvLcjrHAjo58MbnJIp5jipE+MylAXF0OtPsmSow=;LSJfygWHd3Pzw2R/BVRrFw=="
+secured: "ACuj3UrM2VK6tuk+m7030vPkh076PDC/IquEhUzGVO7YXkt+PQnmypnaNwr12l37udVmWkybkYWYnrmAuzRrJlS9FnV5Acwk0axqm1qCDZLFg4XeHfSJd5QeI8Ez6w/dgRy/2Ihlkil7EV9JKgbgVBZtKvujOALOTFdYdVAezIBhCDhmoRvfS6nRX4oO9ILkSC6SpmP/spfzEvBxrHjQRUQx65al49GSZ8uHiAJyQ6vK8c5wANJChGsr2wRiOHNmvuxZ6iM3EP453VFftydfdd75C911+b29zGrlZolmLIjdu+Ctch4gQPZxw3bZr4kSrUychCcXagsJM2F6mtbUPxVxJjVPKugHwBmKfVJn0Yg=;KF7n1IQK8msNjf/35BowCA=="
 ---
 

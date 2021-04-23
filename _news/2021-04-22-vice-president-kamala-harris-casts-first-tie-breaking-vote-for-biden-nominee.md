@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Kamala Harris Called 'Jezebel' By 2 Texas Pastors; Experts Weigh In On 'Horrendous' Racist Trope"
-excerpt: "Two white pastors in Texas have yet to apologize for referring to Vice President Kamala Harris as a \"Jezebel,\" a label that experts said had a racist and sexist undertone."
-publishedDateTime: 2021-02-10T03:25:00Z
-originalUrl: "https://www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695"
-webUrl: "https://www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695"
-ampWebUrl: "https://www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695?amp=1"
+title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
+excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
+publishedDateTime: 2021-04-21T22:37:00Z
+originalUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/"
+webUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/"
+ampWebUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
 type: article
-quality: 62
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/sjm-4374537.jpg?w=1024&h=683"
     width: 1024
-    height: 736
+    height: 683
     isCached: true
 
 related:
@@ -1327,22 +1323,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
-    excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
-    publishedDateTime: 2021-04-21T22:37:00Z
-    webUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/"
-    ampWebUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 87
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/sjm-4374537.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
     publishedDateTime: 2021-01-29T16:52:00Z
@@ -1962,6 +1942,22 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 63
+  - title: "Kamala Harris Called 'Jezebel' By 2 Texas Pastors; Experts Weigh In On 'Horrendous' Racist Trope"
+    excerpt: "Two white pastors in Texas have yet to apologize for referring to Vice President Kamala Harris as a \"Jezebel,\" a label that experts said had a racist and sexist undertone."
+    publishedDateTime: 2021-02-10T03:25:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-called-jezebel-2-texas-pastors-experts-weigh-horrendous-racist-trope-3141695?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "VP Kamala Harris Shared an Old Prank Jill Biden Pulled on then-VP Biden for Valentine's Day"
     excerpt: "First Lady Jill Biden once played a Valentine's Day prank to president Joe Biden in Vice President Kamala Harris' office. Buzz60's Maria Mercedes Galuppo has the story."
     publishedDateTime: 2021-02-16T21:06:00Z
@@ -2298,6 +2294,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "vZn3cDa9j1Aj8F6RK+QAs02HFLEZHzcQOxw4Ou1gIMAomsTZe2m3Thecl77SOdmsQeJ0OfqnnzDJQ0se65H3zAAkX2ecGlCO1A7aGMfpXnCd3LawCHFKKNwiUIBX+bTaezj9jOts0y9XVttfNtS3XJtxjEBfLW99I5gYFXGwk8JA2Ugd8Poh4YICgDxShkAqaL/NkCq+PZA+RLPRQ3v9YcKUhDCq93qPSY6N+FcthKlqYdHGMvGlXTB0+m7z3/yeAvc/LSH9x8Q25vg+tPgWBvzPD80LtsLr2f7SjZujWNWHwXslmZOeBUqzpb0Sx8Gt04IUxrcvN/vdovcyL8XceP7FXo6lsoKPmsa2IiYtZBfB8wITSGaGrUukv3e/FqX9FMCfCSYRU81lGrRDdXO9XEcWbS+/6TvNj8IUzw95lJjznYcmLdY2UzKx+gsRpAvqZY4mDvh1gwZLLurCC47HcGF+qpkWmLp8RcBFata7yb0QBNEig8nD5KGt+x4ustcZ7G4oY89OYkHerL/S2Temcw==;A03AMit2c86E6clmEKaLhA=="
+secured: "oNkgMioON8rDrlYfasOxDh1PQxxxMRye9Fo931DYXkY+TJYDCXGHqFs39GfyfEP7ipOTIydwErUxqKS8eWaQaojFt0DGGGgQarckrQeVkuqP7h3wQ4AP/0RV8GyphgYEGaP0nFkzC2+ViasCpoUKy2Diy3fKHD/6L9qd0RMso5YYPxIjwJHLIXZLYpIqSTFEs5N2IR8oK+wPjuhwQ0YWrboKP3A5/MKTId57LlfJc16fR9tjBMZVWgHezPEEDev7VpoUMEHAIZKN5Q3HIHhlWCe7OPpzPnmV+JXBtq8m39q9nftgoRG/PGkNqSqBfKv0ep70PLddPCHYn4lvfPVId7MKqa+U7ZM8Tf/hdsD3ghA=;FTsaN+N34z0MuLE8BX167w=="
 ---
 

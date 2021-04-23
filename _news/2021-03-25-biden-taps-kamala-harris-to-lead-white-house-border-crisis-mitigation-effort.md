@@ -1307,6 +1307,22 @@ related:
         width: 375
         height: 239
         isCached: true
+  - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
+    excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
+    publishedDateTime: 2021-04-21T22:37:00Z
+    webUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/"
+    ampWebUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 87
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/sjm-4374537.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
     publishedDateTime: 2021-01-29T16:52:00Z

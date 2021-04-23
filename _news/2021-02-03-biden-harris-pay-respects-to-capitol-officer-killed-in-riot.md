@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 3150
+heat: 3170
 published: true
 
 provider:
@@ -1311,6 +1311,22 @@ related:
       - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/migrants-unaccompanied-children-la-joya-texas.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
+    excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
+    publishedDateTime: 2021-04-21T22:37:00Z
+    webUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/"
+    ampWebUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 87
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/sjm-4374537.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
