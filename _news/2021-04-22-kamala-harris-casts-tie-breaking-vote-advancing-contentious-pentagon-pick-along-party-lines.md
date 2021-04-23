@@ -2,13 +2,13 @@
 category: news
 title: "Kamala Harris casts tie-breaking vote advancing contentious Pentagon pick along party lines"
 excerpt: "Vice President Kamala Harris cast her first tie-breaking vote on a President Biden nominee Wednesday, advancing his pick for undersecretary of defense for policy, according to reports."
-publishedDateTime: 2021-04-22T03:34:21Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8XKlsLGrDM/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8XKlsLGrDM/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines"
+publishedDateTime: 2021-04-22T03:34:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
 type: article
-quality: 175
+quality: 125
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/INHOFE-HEADSHOT-1.jpg?ve=1&tl=1"
@@ -109,6 +109,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d54f65f-30ec-453c-8f25-eefb49ca8085/7889981b-4d4d-4b64-8636-2c2a448f8fe3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris trip to New Hampshire sparks 2024 White House speculation"
+    excerpt: "Vice President Kamala Harris will be out of Washington on Friday and traveling closer to the border – the Canadian border."
+    publishedDateTime: 2021-04-23T03:54:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JT0zqdLakhY/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -413,6 +429,6 @@ related:
         height: 648
         isCached: true
 
-secured: "jbwMLML1ooX1aCYUj2vpT5CJqv8G4Pe/YPh/MnkpMBn5EXXCrUE0JlRuawfyN7JYpV0bFmhJx0JkweW9XWG0mLMkDKzHfsXGHvQCaJZVN6YIvyycCH9xs7VzHjALDHF5X0zjG6gfqh2K3S1UsktFLNwJWfF4pRJLwue3UP6teLRqRYb2fVUz79NgK4GZEii3gUWbSM5yExHjPZLfAn5YIVcO/kooBOCKgfXsqPjwXHFPWtT3hxRvTEmpMK+COphxNBhfR7RJhGEooRLm7hl2YsYStQtKKjRZDmyEOawm4gS1Hwn4w2fKn0TEEPNhpGmE7SeTUzWtb355fxbJpl7/5vWzwtkQoeVTaI1Rk8RTxgo=;ue5WoFsH5G7GHWS2v6AhoQ=="
+secured: "oKJzRNZehJl/M5ZZYFQ24AE+h9FWQWW/XGnqNsEnxZa+R9gV1CClK0KxCX/yB5zA4X++be2vltb3LNuXwQIJxCbQ28w6Nc6k2gg1Un6Fpm2QsKQJg7S3L6xaj5Q77j+h+DIy6jXdAoXsfLiX6AbCTfX1OKht7nGals6/KoBOIaQ4idnfVgWH26hYcuIJ+zKj3bPkAnEQi0RVYtoi0v+TcWN/ruIA99UFv/7Y3xUCWYjDoMJUMA2FKjlL/cTmyy/mWt1cF9KKiZLmMZsg0gT6iyQiLPuqDa3fVChnM5LNxpRC33AdHNmBdfx+drIPkNg7tfgKYwFVYVGw5xBGcmMYVj5/F01IC8PQuCzOw33053I=;tWeEf7e6m9QLWwckG2+Lng=="
 ---
 

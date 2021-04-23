@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris trip to New Hampshire sparks 2024 White House speculation"
+    excerpt: "Vice President Kamala Harris will be out of Washington on Friday and traveling closer to the border – the Canadian border."
+    publishedDateTime: 2021-04-23T03:54:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JT0zqdLakhY/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
     excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
     publishedDateTime: 2021-04-10T01:35:39Z
@@ -159,22 +175,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden-putin.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Kamala Harris casts tie-breaking vote advancing contentious Pentagon pick along party lines"
-    excerpt: "Vice President Kamala Harris cast her first tie-breaking vote on a President Biden nominee Wednesday, advancing his pick for undersecretary of defense for policy, according to reports."
-    publishedDateTime: 2021-04-22T03:34:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a8XKlsLGrDM/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/INHOFE-HEADSHOT-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Kamala Harris: Guilty verdict in Chauvin trial would 'not heal the pain that existed for generations'"
     excerpt: "Shortly before a jury convicted former Minneapolis police officer Derek Chauvin for the murder of George Floyd last May, Vice President Kamala Harris said even a guilty verdict would not “heal the pain” of systematic racism in the United States."
@@ -303,6 +303,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-001-3.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris casts tie-breaking vote advancing contentious Pentagon pick along party lines"
+    excerpt: "Vice President Kamala Harris cast her first tie-breaking vote on a President Biden nominee Wednesday, advancing his pick for undersecretary of defense for policy, according to reports."
+    publishedDateTime: 2021-04-22T03:34:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-casts-tie-breaking-vote-advancing-contentious-pentagon-pick-along-party-lines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/INHOFE-HEADSHOT-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "House Republicans display Kamala Harris milk carton at news conference: ‘Missing at the border’"
     excerpt: "House Republicans slammed Vice President Kamala Harris' failure to visit the southern border since being tapped to play a key role in the migrant crisis, putting her face on a milk carton to demonstrate that she has been missing. House Minority Whip Rep."

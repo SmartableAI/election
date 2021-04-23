@@ -2,11 +2,11 @@
 category: news
 title: "Analysis: U.S. financial regulators in hot seat as Biden ramps up climate agenda"
 excerpt: "As U.S. President Joe Biden escalates his climate change agenda, pressure is growing on the country's regulators to catch up with Europe and incorporate various risks posed by climate change into their oversight of the financial system."
-publishedDateTime: 2021-04-22T15:27:00Z
-originalUrl: "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idCAKBN2C91E2"
-webUrl: "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idCAKBN2C91E2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2C91E2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2C91E2"
+publishedDateTime: 2021-04-22T15:10:00Z
+originalUrl: "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2"
+webUrl: "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C91E2"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C91E2"
 type: article
 quality: 120
 heat: 120
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "vK7oR/iV6SkHvUXQOOy+RleLxL+5rrul14VSXECfUy7UruqbNDq0GiXTEiBJY+bOlNImnyaKIYSkQmBRiqQeurpQq7H1W9qgbrLa6CQYZWfpS4sLFD9ik1zr6p6A16ECRC1WGSeX0PjwHcV4XW9L1dkSZNUNQ85XjSjbq0nhljNMyC4ybL4Lc8eND41CWClzWv8Iv0PDoeA2WeAiQxYSaPBg6Uuq0rrjWphAesIkquJmcZ/MLBWcznrEioO8fMMR+OtKfFsVmZy0Cc24b7Tk6Uj52uREBEEy9ta0MeWeNu3u6alt+MyPK/AHprGf8sH6KK4AmmEdo81dWfmsoGXNWgkmC08zqWoB/b+2KzMPBNI=;DfZwGama+7Ekup7CRUb9AA=="
+secured: "cU/7Ey9YZjYLXpQTG27odKuBced7MZn09RF3YgqWvo39hp+Cuv9Jm8UipqRR+4QOFmXcHbitO5I+lFY1/XlNrYwIXE5HBO+zNXt7eTr+ZDTdqn+ydUt3I9qizvNiCStazYcjhCzkEEW2tUWYC7RVsmtP/he85QirWsbqPKKKbfI/3cbHJt5NT1sNqVR9FMKGRrK7PCVUOtwn1JHOWdjRxJETXIA2MvajvVuhEqEFCyxbQka6DAn9w+XxFTrlNflzA9aAk6QNdKZ52xpreFFYs6bfdExcXRRJ5livbT8w4WIhBMqgvqFczv9Y/aPQGX495zhsDkHw7DnZgozvdSkwbVW4cPyoD8GSVICDzUB4iww=;LStiNsPUiQvf4eRZdmh/gQ=="
 ---
 

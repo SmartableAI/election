@@ -1,14 +1,14 @@
 ---
 category: news
-title: "US intel backpedals on Russian bounty story that Trump called a 'hoax'"
-excerpt: "U.S. intelligence backpedaled Thursday on reports of Russians placing bounties on the heads of U.S. soldiers. "
-publishedDateTime: 2021-04-15T19:40:54Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zHxRHB8IQ8U/us-intel-back-pedals-russian-bounty-story"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zHxRHB8IQ8U/us-intel-back-pedals-russian-bounty-story"
-ampWebUrl: "https://www.foxnews.com/politics/us-intel-back-pedals-russian-bounty-story.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-intel-back-pedals-russian-bounty-story.amp"
+title: "Kamala Harris trip to New Hampshire sparks 2024 White House speculation"
+excerpt: "Vice President Kamala Harris will be out of Washington on Friday and traveling closer to the border – the Canadian border."
+publishedDateTime: 2021-04-23T03:54:29Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JT0zqdLakhY/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JT0zqdLakhY/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
 type: article
-quality: 175
+quality: 185
 heat: -1
 published: false
 
@@ -23,9 +23,10 @@ provider:
 topics:
   - Election
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden-putin.png"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -111,22 +112,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris trip to New Hampshire sparks 2024 White House speculation"
-    excerpt: "Vice President Kamala Harris will be out of Washington on Friday and traveling closer to the border – the Canadian border."
-    publishedDateTime: 2021-04-23T03:54:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JT0zqdLakhY/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Texas Gov. Abbott sends letter to VP Harris demanding migrant facility shutdown"
     excerpt: "Texas Gov. Greg Abbott sent a letter to Vice President Kamala Harris Friday demanding the Biden administration shut down a child migrant housing facility, following accusations of child abuse."
     publishedDateTime: 2021-04-10T01:35:39Z
@@ -156,6 +141,22 @@ related:
     quality: 179
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/20e79242-7e28-4c81-92e7-513dff51f664/31d8ef3b-1411-4c39-81f8-f951c37cac09/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "US intel backpedals on Russian bounty story that Trump called a 'hoax'"
+    excerpt: "U.S. intelligence backpedaled Thursday on reports of Russians placing bounties on the heads of U.S. soldiers. "
+    publishedDateTime: 2021-04-15T19:40:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zHxRHB8IQ8U/us-intel-back-pedals-russian-bounty-story"
+    ampWebUrl: "https://www.foxnews.com/politics/us-intel-back-pedals-russian-bounty-story.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-intel-back-pedals-russian-bounty-story.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden-putin.png"
         width: 1280
         height: 720
         isCached: true
@@ -428,6 +429,6 @@ related:
         height: 648
         isCached: true
 
-secured: "xZxxUrpVuG7ed2Wy/1+3AQLW0SJFkKdgv1nB6YLogqGne2Cvq5L6nH+wXbXcQyYdn0DLWuvnbMjrdZiEiKOA16tNGMhoCMvM3PWg8zOe+nCTF2J0ruwXkBQwiejH/YtVQe1NPiusW/VLDd4qw8CIcI0J8DVguBN+jwKJha6yiQaQbtW2D5hR/vJSlNx1JTBjzoo64uu9MTDcmJwRdtsQYzWvWYPcgAfB8v/6W3X/xk2ysRG+APz6bBBnHWKAmXGQnh8OX7bcrWIuC7ZF2xPLHaXhEcm00akZv44uu0UUZspzx3OHykAOu8YkiR6xXLd5vW2AROvJDdMYrqE/m73Bfdb7Gi6yOQnvrLSQOVVGXc0=;ogHKGSIS72mV6rB2YMlH/g=="
+secured: "WGQ/O/ziVB84qU4f6/0cDUeAleByQFOyrF3v74U4rTlQOiGGK5Zmzrk0/VBsPyHIGVF/ZtoY2gCc1OMVZSHlp+WraJZJ0NbISsLsunvd29S3IxT04Rum3v0RVZFbarSlTbfmoQFg8lOD4MPllAvJZoO+Rp86vUdD5VBMjGA/LqFEdNDVuBudIO8sD4qbQs2eBM21pVMm82IQ5e4FbQ8KpbRC5Mar/C2Rb/xCz4fxR2UqV4tyZWJ3wnVPKl+rgfpJAMwnRnk+tLdrgRw2kIw9cKzwj1tRkIe8IintK03k0M/hhqs45HVEEHBuOjRD0Z3LFB5ACnmNHJDLN8nYPx3nrdAJ9v9S/zIUA75pIE92R7U=;wx9Uv9wscq+bl7yhdDzgWQ=="
 ---
 
