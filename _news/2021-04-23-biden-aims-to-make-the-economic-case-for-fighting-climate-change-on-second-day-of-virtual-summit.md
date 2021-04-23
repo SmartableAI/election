@@ -1,14 +1,14 @@
 ---
 category: news
-title: "White House tells refugee advocates Biden likely to raise cap quickly "
-excerpt: "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n"
-publishedDateTime: 2021-04-17T14:07:32Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+title: "Biden aims to make the economic case for fighting climate change on second day of virtual summit"
+excerpt: "President Joe Biden on Friday aims to highlight the economic opportunities of climate action a day after announcing an ambitious new goal to reduce greenhouse gas emissions at his Leaders Summit on Climate from the White House.\n    \n"
+publishedDateTime: 2021-04-23T10:02:52Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sewqePj5dow/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sewqePj5dow/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
 type: article
-quality: 175
+quality: 162
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422083025-03-biden-climate-summit-0422-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416010826-02-indianapolis-fedex-shooting-0416-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House tells refugee advocates Biden likely to raise cap quickly "
+    excerpt: "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n"
+    publishedDateTime: 2021-04-17T14:07:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden aims to make the economic case for fighting climate change on second day of virtual summit"
-    excerpt: "President Joe Biden on Friday aims to highlight the economic opportunities of climate action a day after announcing an ambitious new goal to reduce greenhouse gas emissions at his Leaders Summit on Climate from the White House.\n    \n"
-    publishedDateTime: 2021-04-23T10:02:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sewqePj5dow/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422083025-03-biden-climate-summit-0422-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden says Iran enriching uranium at 60% is not helpful, but is pleased country engaging in indirect talks"
     excerpt: "President Joe Biden on Friday said Iran's decision to enrich uranium at 60% is not helpful and counter to the agreement the countries made under the Iran nuclear deal, but said he is pleased the country continues to engage in indirect talks with the United States.\n    \n"
     publishedDateTime: 2021-04-16T22:24:58Z
@@ -174,6 +174,6 @@ related:
         height: 773
         isCached: true
 
-secured: "+bImm4BwmxDGn7eV1Qtg4HAnZ/qDLPwu2GpRiZ9EyINHJqKDghb6QkjpaWX9qiyjHoxEIz4A1FfCnUhnosSU7NYvpiMsMZDlAFj//5PEwd01g2aNAOrZS8dMSDIFpqHipl8+GSG7ovYaC/96raXJeyUXdomGUY5e4OtQmjqOThlhOoAaxCpnNInxNEVsdSePrtLUcoNRxqYlCsqdPEH98PaLV5y1W2jiyUNWBKubuQJo6f76DdceCxUdQJ9RsSk2THbvzdoofH7TRVdFipOdHNxymuWpQmPkZRjuF8O8GuFJvJYT0pI9fyUCnkodB/wUeBqR2ivF4Govy3UNvziLeRasJikpd8yQUxDZdq7tTdc=;+Zs4NAOsIF4GE1zsrZyzbg=="
+secured: "5DH30Ezi9RVQUc/Y840ib2L4BQIGouEIRgmqJv0D5dNSRVYYdV1HjDZj74jQo8MqLT6LEFpmb4zkXQeeOKQEnHB/+xss0nQVxLXwkAIAtJRkqJ0FbIpvgq37vgzQlPHJtov07mJ5fWReoN8HeebHODRZzdnCm7xokY6lHuyHmdEX/WKFHYaJBv7BHK2aVDrRl6TbfHqhWMDf3Ct+5nFNZ5yxwJWqD5f7dOseDK28CiVRqlaF6EfLLJMgfrYsyBMBxh9RINOcc+AZl8+tHLuBzxmK3XiZ56xqk82luBu+7LRgJOmozpq6VKkG3uD/9D2N4UAcKYTEi9K1aPUbyT6njW7YAYsYM+BEGPlLqCe2gDs=;IilppktWP+9pKoU8pGDSkw=="
 ---
 

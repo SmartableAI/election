@@ -1,12 +1,12 @@
 ---
 category: news
-title: "White House tells refugee advocates Biden likely to raise cap quickly "
-excerpt: "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n"
-publishedDateTime: 2021-04-17T14:07:32Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+title: "Biden's big climate pledge is another promise it will be hard to honor"
+excerpt: "A White House riding high on a wave of ambition is setting up a series of inevitable tests of whether Joe Biden is promising more than he can deliver.\n    \n"
+publishedDateTime: 2021-04-23T04:28:15Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zb5NfXfH0PM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zb5NfXfH0PM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
 type: article
 quality: 175
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422142048-joe-biden-0422-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's big climate pledge is another promise it will be hard to honor"
-    excerpt: "A White House riding high on a wave of ambition is setting up a series of inevitable tests of whether Joe Biden is promising more than he can deliver.\n    \n"
-    publishedDateTime: 2021-04-23T04:28:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zb5NfXfH0PM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
+  - title: "White House tells refugee advocates Biden likely to raise cap quickly "
+    excerpt: "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n"
+    publishedDateTime: 2021-04-17T14:07:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422142048-joe-biden-0422-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -174,6 +174,6 @@ related:
         height: 773
         isCached: true
 
-secured: "+bImm4BwmxDGn7eV1Qtg4HAnZ/qDLPwu2GpRiZ9EyINHJqKDghb6QkjpaWX9qiyjHoxEIz4A1FfCnUhnosSU7NYvpiMsMZDlAFj//5PEwd01g2aNAOrZS8dMSDIFpqHipl8+GSG7ovYaC/96raXJeyUXdomGUY5e4OtQmjqOThlhOoAaxCpnNInxNEVsdSePrtLUcoNRxqYlCsqdPEH98PaLV5y1W2jiyUNWBKubuQJo6f76DdceCxUdQJ9RsSk2THbvzdoofH7TRVdFipOdHNxymuWpQmPkZRjuF8O8GuFJvJYT0pI9fyUCnkodB/wUeBqR2ivF4Govy3UNvziLeRasJikpd8yQUxDZdq7tTdc=;+Zs4NAOsIF4GE1zsrZyzbg=="
+secured: "SjioGdujgNCisps6x7LmP02SvJm4Ft+WZqZ73d0+fK5AcYuLZUDC/HO8HNtks9CPHRogiAPfhEcq1Ygs/T1Bn+tjTZysRK2uVFHwfHG+OpE59iIrDKEMVb4hDoo4/M2hXY5iAYwl0DlgV6FBe2r5R8MN9QpeZw0CayHofHCrfkFhegDpwRisxbLuWN9phEdtB/ogyFfCvxIJWlFf5LV48tH274KEgR6WFOIeiChFTN5Imwkt0d1d9kpUimlpoP18jXeaU/I833iH7ou805Wgt87IwzyMDJd+E+aKnuHBerHwY6aGxC2MNcBleeUgLIk/tkpy3ytEevOhF5G62x6FmAeemPSg0QTV/XRahRtN2Ak=;ifxWLm1+BQm58V8zBJPpgA=="
 ---
 

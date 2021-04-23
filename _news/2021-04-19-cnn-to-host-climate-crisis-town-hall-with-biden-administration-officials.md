@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's big climate pledge is another promise it will be hard to honor"
+    excerpt: "A White House riding high on a wave of ambition is setting up a series of inevitable tests of whether Joe Biden is promising more than he can deliver.\n    \n"
+    publishedDateTime: 2021-04-23T04:28:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zb5NfXfH0PM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422142048-joe-biden-0422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden won't raise refugee cap this fiscal year in a reversal on earlier pledge"
     excerpt: "President Joe Biden will sign a declaration on Friday to speed refugee admissions to the US but not raise the refugee cap, as he has committed to doing. Instead, he will sign an emergency determination that will cast a wider net of who can arrive to the US under the refugee ceiling currently in place.\n"
     publishedDateTime: 2021-04-16T17:12:36Z
@@ -92,6 +108,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420141937-01-needles-pfizer-vaccine-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden aims to make the economic case for fighting climate change on second day of virtual summit"
+    excerpt: "President Joe Biden on Friday aims to highlight the economic opportunities of climate action a day after announcing an ambitious new goal to reduce greenhouse gas emissions at his Leaders Summit on Climate from the White House.\n    \n"
+    publishedDateTime: 2021-04-23T10:02:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sewqePj5dow/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422083025-03-biden-climate-summit-0422-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
