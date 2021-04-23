@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NY Dem calls on Supreme Court Justice Stephen Breyer to retire so Biden can pick a nominee"
+    excerpt: "New York Democrat Rep. Mondaire Jones said there’s \"no question\" Supreme Court Justice Stephen Breyer should retire during President Biden’s presidency. "
+    publishedDateTime: 2021-04-16T18:46:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b0Q9CxFEcoA/democratic-rep-supreme-court-justice-stephen-breyer-retire"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/mondaire-jones.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "W37Ieuq5Hl6M8tRMHV8HJDb44glQ3a9L3NCkc9zrCsjCfcXu6QYkUZs/9Y5pVKlnXY85Ixr2fugWrMAOAbpUIdUmWyulEZCsvt7B2t3qD9Oa+JQrwZLYvHo6QrJ1Q2nAFk6yXdd5y/g2kPe9MnE7ij7fdQb5myVHFz8Yn3RW/AjXEuII9XkLeYwv/i9FvAKJnV2cj7t8//T5G1GxLMVC8Q6K5eELHqhG4y0pR9d6HEi0iNwNNuXO1j0hGj9yO3U82gt/65X36j3ewLocdjYxDg0PClAjkZrIcQ5POFnUN4dKWJudY8x3O+OwswuSp6xdUaSei79JjcMsuEAOPbwrkztg5gzTadTwj8kSvYdPkQI=;uPwFCM1slz49R10IrG5b1g=="
 ---

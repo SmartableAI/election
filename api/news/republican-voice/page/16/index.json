@@ -2,6 +2,62 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-05-stunning-hypocrisy-for-biden-administration-to-push-back-against-the-cdcs-approval-to-open-schools-farah.md",
+      "title": "‘Stunning hypocrisy’ for Biden administration to push back against the CDC’s approval to open schools: Farah",
+      "excerpt": "The Biden administration is hypocritical for appearing to dismiss the Center for Disease Control's guidance for reopening schools, former Trump White House Director of Strategic Communications Alyssa Farah said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXmOUjyrUA4/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXmOUjyrUA4/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah.amp",
+      "publishedDateTime": "2021-02-05T13:21:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-angel-dad-slams-joe-bidens-immigration-orders-insanity-on-steroids.md",
       "title": "Angel dad slams Joe Biden's immigration orders: 'Insanity on steroids'",
       "excerpt": "A California father, whose son was killed in a car accident with an illegal immigrant slammed President Joe Biden’s move to halt deportations of undocumented migrants on Friday, calling the administration's actions “insanity on steroids.”",
@@ -1602,62 +1658,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
       "publishedDateTime": "2021-02-01T09:12:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-kinzinger-launches-new-pac-to-take-back-gop-from-trump.md",
-      "title": "Kinzinger launches new PAC to 'take back' GOP from Trump",
-      "excerpt": "Under fire by many in his own party for his vote to impeach then-President Trump, Republican Rep. Adam Kinzinger of Illinois is fighting to \"take back\" the GOP.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NNGvr15TROg/kinzinger-pac-take-back-gop-from-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NNGvr15TROg/kinzinger-pac-take-back-gop-from-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp",
-      "publishedDateTime": "2021-02-01T08:48:33-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

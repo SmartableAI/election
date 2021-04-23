@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "NY Dem calls on Supreme Court Justice Stephen Breyer to retire so Biden can pick a nominee"
+    excerpt: "New York Democrat Rep. Mondaire Jones said there’s \"no question\" Supreme Court Justice Stephen Breyer should retire during President Biden’s presidency. "
+    publishedDateTime: 2021-04-16T18:46:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b0Q9CxFEcoA/democratic-rep-supreme-court-justice-stephen-breyer-retire"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/mondaire-jones.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "20 Republican AGs oppose 'alarming' court-packing efforts in letter to Biden, congressional leaders"
     excerpt: "Florida Attorney General Ashley Moody and 19 other Republican state attorneys general sent a letter to President Biden and congressional leaders opposing efforts to alter the makeup of the Supreme Court."
     publishedDateTime: 2021-04-22T17:59:50Z

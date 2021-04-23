@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 943
         isCached: true
+  - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
+    excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
+    publishedDateTime: 2021-04-23T17:18:00Z
+    webUrl: "https://www.cbsnews.com/news/republican-senators-infrastructure-counteroffer/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/363cae7d-cfc6-49bc-97d0-790fdb8711af/thumbnail/1200x630g2/b8e871c9faf3025e98261d67ca7e7b22/gettyimages-1231516589.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jill Biden urges farmworkers to get vaccinated in California"
     excerpt: "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated"
     publishedDateTime: 2021-04-01T04:18:00Z

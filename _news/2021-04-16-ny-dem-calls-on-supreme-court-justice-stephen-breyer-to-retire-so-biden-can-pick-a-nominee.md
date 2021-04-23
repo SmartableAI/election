@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
-    excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
-    publishedDateTime: 2021-04-22T17:31:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPg22cdJoYU/cruz-biden-texas-levee-that-protects-border-towns"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-texas-levee-that-protects-border-towns.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-texas-levee-that-protects-border-towns.amp"
+  - title: "Florida AG Moody demands Biden make Supreme Court commission meetings public"
+    excerpt: "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms."
+    publishedDateTime: 2021-04-22T02:07:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74ec3c25-855b-4b5e-99c7-b1e87498fa09/c0f1ad92-5924-44c0-a2e4-dac4bc55482a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c2a13b-83af-4d3f-9d1f-6b9fdb7bfc9c/1903328b-8ba5-4353-a238-68996472ba7c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Pentagon nominee faces scrutiny over resurfaced tweet as nomination heads to final vote"
-    excerpt: "An old tweet from President Biden’s nominee to be the number three at the Pentagon has resurfaced as the nomination process heads to the Senate floor."
-    publishedDateTime: 2021-04-22T22:37:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WMqHIb-QIM/biden-pentagon-kahl-iran-israel-tweet"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
+  - title: "20 Republican AGs oppose 'alarming' court-packing efforts in letter to Biden, congressional leaders"
+    excerpt: "Florida Attorney General Ashley Moody and 19 other Republican state attorneys general sent a letter to President Biden and congressional leaders opposing efforts to alter the makeup of the Supreme Court."
+    publishedDateTime: 2021-04-22T17:59:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yveOH163qDA/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 161
     images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "3TIVFalpEnFl7fv+cTqyey8R/OIt/U7Z22F1wFopcERLSfQpTV7/iwEqPk4Nwc/lryeMEeNsNLKvK29EKOtFSQU7nnHkk1e+UAGDMjZgEeIdugQznqtgirRqJYLpkb+Y5crHTPcg5+j4FvN1Z5c2M3chT5wxljeNK99kKycq3zug6WaS9jNxRnjs5aCg7w7Pe2yM9tAiDtfJlpS/8NjjBsRtgPHChKBmdcdmW22NZ3eccq0vkBpDzI0flWbi2vpPhsPUEY0RJ0tvf0YGM1T21Hbs60/hRAgQoszAsT3nFeRF8esn7x0JiGHTp10Pp33uSZ4/icqiiDLd07l0PFBCqKvgWFO8O7g8DggdYpvjwYc=;bk3FuYfi5bVzPuz9dIBHSA=="

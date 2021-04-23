@@ -575,6 +575,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Republicans unveil $568 billion infrastructure package to counter Biden's $2.3 trillion plan"
+    excerpt: "U.S. Senate Republicans on Thursday put forward their version of an infrastructure package that would spend $568 billion over five years in a response to Democratic U.S. President Joe Biden's $2.3 trillion proposal."
+    publishedDateTime: 2021-04-22T20:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-infrastructure-republica-idUSKBN2C92BK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C92BK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C92BK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559564512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L156"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden administration reveals first 2022 budget request: $1.5 trillion in discretionary funding"
     excerpt: "The Biden administration on Friday sent Congress its first budget request for the 2022 fiscal year, outlining a set of priorities including funding for medical research, education, housing, civil rights, combating gun violence, tackling climate change and ..."
     publishedDateTime: 2021-04-09T15:10:00Z
@@ -706,17 +722,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Republicans unveil $568 billion infrastructure package to counter Biden's $2.3 trillion plan"
-    excerpt: "U.S. Senate Republicans on Thursday proposed a $568 billion, five-year infrastructure package as a counter offer to President Joe Biden's sweeping $2.3 trillion plan, calling their measure a starting point for bipartisan negotiations."
-    publishedDateTime: 2021-04-22T17:31:00Z
-    webUrl: "https://www.businessinsider.com/republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
   - title: "Biden's pick for top U.S. civil rights lawyer, Kristen Clarke, faces fraught task"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden’s nominee to lead the Justice Department’s Civil Rights Division, Kristen Clarke, is poised to take on the role at a fraught time in American history. Clarke will face a Senate hearing this week as hate crimes ..."
     publishedDateTime: 2021-04-13T09:02:00Z

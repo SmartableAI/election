@@ -1,14 +1,14 @@
 ---
 category: news
 title: "What Liz Cheney has figured out about Donald Trump"
-excerpt: "Wyoming Rep. Liz Cheney has planted a flag firmly against another Trump run in 2024, and while she may be lonely in that position in the GOP, the numbers seem to back her up. In this latest episode of The Point, CNN's Chris Cillizza explains why Cheney has taken such a big gamble to fight against Trump.\n"
-publishedDateTime: 2021-04-22T14:29:08Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U7RZz8s_ypk/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U7RZz8s_ypk/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
+excerpt: "Wyoming Rep. Liz Cheney has planted a flag firmly against another Trump run in 2024, and while she may be lonely in that position in the GOP, the numbers seem to back her up. In this latest episode of The Point,"
+publishedDateTime: 2021-04-22T14:29:00Z
+originalUrl: "https://www.cnn.com/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
+webUrl: "https://www.cnn.com/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
 ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -336,6 +337,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "8gRB3n0yr4xbw3RJ0EqHCQa5RXqb2E4TwE9Jf0Ad5VLeZjiXjcHrmvtQKgBubLkbv/P5bgTfe/NRwPVa1olWBCYSOhwtVbcmcr9OdnIwwXwWv9sXLbawTPvNLkh7JF7R+WhkjfEsF7G4iiAM2EDMAbAjOUo+qpr10T3GsBoawvbccvbriFE4+rshcKGLwHUA+aV3Z4ZPuLTnZAoXPhkyp/TxYFue5lo27aJuvXFk+FgPH0EBFasCbmgLWdrlJcBofXG9AdBNcjQ/wkT7+NU6rsecVZuStnIAkF9T7Sp3wKC2z7SiS14PjxuSNToMwsClNFte0ChDqzWzc2ZIX3cr5A4/PODTNU9Wn2gIr48ngto=;0fqD8OCzaPg/gDKDOkeNhg=="
+secured: "81/6rR8G70Av3MwdXLuY3VKtG3Vc0peCvPdzDDPVsVHachTfsyauLCsWG/OXruTdkKiwxA6EX82Cj3tplYDHy6UF9+Z8U4uzZDvYiKIkS8nhpdE4qAc1J/Z0UL7gnx8gG4/9jVCKoBjWGtMXm4RT4Cwgx+4SGVWulxVUBCDwjOiEI9IbDrzAbDk79vbQcI5QSAq5iQtVtz9X5OOlAvi8SrLrXLJ6tiPnzjyhC1ndgskAs/IjMqIRAA44VwQ1/shPuIU9pUKVaVHh9NzX//E1WtTuWY15brZH6G6QIcHz+ygOTdGs7whRkfcqxNpF9PFxdTTYiR5yPEEJV/qsgfPyxVJ2oajMiWm0Gc1SXwKcljg=;7rHJ5B0SZ9jQf3vpC9FqVQ=="
 ---
 
