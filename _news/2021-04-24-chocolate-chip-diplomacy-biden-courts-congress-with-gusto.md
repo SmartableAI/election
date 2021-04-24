@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Chocolate chip diplomacy: Biden courts Congress with gusto"
-excerpt: "The pictures always make it look so presidential: Joe Biden sitting in a tall-back chair, surrounded by the arrayed members of Congress invited for a meeting at the White House. But inside the Oval Office,"
-publishedDateTime: 2021-04-24T03:38:00Z
-originalUrl: "https://www.washingtonpost.com/politics/chocolate-chip-diplomacy-biden-courts-congress-with-gusto/2021/04/24/ea9f8ff2-a4b6-11eb-b314-2e993bd83e31_story.html"
-webUrl: "https://www.washingtonpost.com/politics/chocolate-chip-diplomacy-biden-courts-congress-with-gusto/2021/04/24/ea9f8ff2-a4b6-11eb-b314-2e993bd83e31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/chocolate-chip-diplomacy-biden-courts-congress-with-gusto/2021/04/24/ea9f8ff2-a4b6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/chocolate-chip-diplomacy-biden-courts-congress-with-gusto/2021/04/24/ea9f8ff2-a4b6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+excerpt: "N.Y., speaks during a meeting with members of the WASHINGTON -- The pictures always make it look so presidential: Joe Biden sitting in a tall-back chair, surrounded by the arrayed members of Congress invited for a meeting at the White House."
+publishedDateTime: 2021-04-24T04:44:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438"
+webUrl: "https://abcnews.go.com/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438"
 type: article
 quality: 125
 heat: 145
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6MIS3WVEWEI6XMYUF2MTXWB6GE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_5a699b1db2464656b8755b92bfb3c581_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -48,6 +48,6 @@ related:
         height: 360
         isCached: true
 
-secured: "/ji4SB33IleJU8G2DCbC63XlfAfscVoZ48mOKuvvSUBAKPLAXYuvrN0EzRiT0F8RBMmsSdPvF8HL4VNxunz3KTGx9CkHvK7+J4aUAiZ6ylt6jyC8G23JVgXR19cgBi5fMlPc4rnfIs6KCo3VAO3olTO4iJPq407ibR5QUFH5UbkS513MPz376JZhUH6vUf7hUb5B7BO0uPPYmgiUh7FauQC6DBzZeUWw2YFgVtiBwmV+ozx7D4UVBm4bxzehDQz54vz5OYs9BmX16tj/yvhSN7hyXPyFDDeXlse4p54fFq5hqTHauuHCb7hRxrrZn7pxxBIctQBrSiCwLCS7ci+3W8dk4/2du6gctGFKuVPHne8=;MWNUNQejTdIX58iK/p6/6w=="
+secured: "7S/ILZBBmdzsp4E/ABG77CoYqQ8+r3mg21Vj3kyq5gtqYtmsByuo5wOuEnmr+qbt87zJckHmoGbp5jPxlIoe5USX2hfahCnCLSUS0x2GqUuFR4kYShXiAqOfPxRn6JaFF1qTdAJtT+JKssreHZgyvqu0kwhT1Zc3VD5gsoUoCV7p/mf+44MlVZwtsYvsed0YrXrFFpPPkJtniuST4CQuNZKQzM/rK7fmOvGWSM/mmq893zQHdYsCAKdxD2SpKOWZZvjW96vsgyJE42eMlqvhxJGa2x+uhdMeRXuYrXWVnX79AnN5zJ8MyKWb/XgvBFvth9Rmg8mC6AcBBt0ujAWHTEYrwCgqucwriYE+sHrjj80=;g6LjmCfArqfy9kgAmOYaJg=="
 ---
 

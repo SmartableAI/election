@@ -173,6 +173,22 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Will Donald Trump Run Again? Ex-President Backs New Donor Group, Accuses Arizona Democrats"
+    excerpt: "Donald Trump is still the 2024 candidate of choice for many self-identified Republican voters, according to recent polling."
+    publishedDateTime: 2021-04-24T07:54:00Z
+    webUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166"
+    ampWebUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1782493/former-president-donald-trump-cpac.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z

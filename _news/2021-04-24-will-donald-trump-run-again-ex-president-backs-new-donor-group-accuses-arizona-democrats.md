@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Inmates sent home amid pandemic may have to return under Trump-era policy"
-excerpt: "Thousands of inmates deemed “low risk” who were allowed home supervision during the pandemic may have to return because of a Trump-era memo."
-publishedDateTime: 2021-04-21T09:04:00Z
-originalUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html"
-webUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
+title: "Will Donald Trump Run Again? Ex-President Backs New Donor Group, Accuses Arizona Democrats"
+excerpt: "Donald Trump is still the 2024 candidate of choice for many self-identified Republican voters, according to recent polling."
+publishedDateTime: 2021-04-24T07:54:00Z
+originalUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166"
+webUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166"
+ampWebUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
 type: article
-quality: 124
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMY3V2EZQMI6XDYKGOCM6T5TTE.jpg&w=1440"
-    width: 1440
-    height: 1046
+  - url: "https://d.newsweek.com/en/full/1782493/former-president-donald-trump-cpac.jpg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -95,6 +95,22 @@ related:
         width: 320
         height: 212
         isCached: true
+  - title: "Inmates sent home amid pandemic may have to return under Trump-era policy"
+    excerpt: "Thousands of inmates deemed “low risk” who were allowed home supervision during the pandemic may have to return because of a Trump-era memo."
+    publishedDateTime: 2021-04-21T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMY3V2EZQMI6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 1046
+        isCached: true
   - title: "George W. Bush calls country \"divided\" under Trump and pushes immigration reform"
     excerpt: "Former President George W. Bush, who has mostly stayed on the political sidelines after the White House, has reemerged with criticism of his Republican successor as he advocates for a sharply different immigration policy from former President Donald Trump."
     publishedDateTime: 2021-04-22T10:40:00Z
@@ -158,22 +174,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKZT7DTBVMI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 1080
-        isCached: true
-  - title: "Will Donald Trump Run Again? Ex-President Backs New Donor Group, Accuses Arizona Democrats"
-    excerpt: "Donald Trump is still the 2024 candidate of choice for many self-identified Republican voters, according to recent polling."
-    publishedDateTime: 2021-04-24T07:54:00Z
-    webUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166"
-    ampWebUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1782493/former-president-donald-trump-cpac.jpg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
@@ -260,6 +260,6 @@ related:
         height: 1352
         isCached: true
 
-secured: "SPW7h8iuqFsPtEFP4jlI4oc1l+mPbnzBraDN93oySN5UzttMwL7mGzlU7RnWGwQOqY1ybcwtmGll53l2zWVmvomOdAUMBDB/eXsTVgwN3O6jmkVVtAsruY41/BfESpvciEKWEmHnfAP8fsuzAo73lJco6T79DVd7ZGBuwlo5UXo9hfIjLJ/g/RKZJSuB6K3IcR01P48MjmVIOyAIZCvF1oyBTYtj3tsgJTfUkd1LbWXdI1Iwcip89OAe9SxwUD3+Ep73Uyj9q0XLOmi9ZHzn4sRyRyDE5J3HZsrzXCagB/0vEykWReVharvPQamqlOfEEeaevUCzf3JyEt0upH/AIs9VPI44zgZBT/oZaWUPGvzXAE5kOgwL8KsN/onxbXGcOzVlO/iaxuTZczZhjuwY+VG1kFySVtOTNC9aEfxoEQhJhLELBkP/iVqoGTqLvq7yiPO8LyeMQFmKsJHvuhv4QKgj71DliQdHOH7QJFmz48lfp0Hl6fWrJlBB8pyfBg9qCKXVVFyv3CGKmJaraaw9aw==;vXcGmwpDLiLL2flLqb1YYA=="
+secured: "MUJu7RRquMWdKirSNwZdMn1HyP6l8Lr05jAZheKcXU9ao3CzFRrAtYgiHz5CEZl5yyMj4L1T/igklnLcS90ixsrgS9t1TiwN6AwMFGamZmImwU56XMxKU0vKWWZVxyZnU0F+PUKst3EMzwle+GQx2bMUUzsnjY+OoxGsO5SAyznsMUs790TABx9wwNycCWlBxkb/SuWSyuXj4ZbOAfAjkOeyBf8A0YMcuZBSBFYxC2FwJvsUo7JaqOEip/AzMGwd7YALv39KtYdASKAfuCtMYO1KVzVZxg5suyIa6t8v1YNMAjGkYQu2zJhTJFRhTQHO47r3I49SueO9aqluDfKFXcMaEHUw5TIyrz2sGtj+eCc=;dubb1y2ldBOQYCgxSh0NIQ=="
 ---
 
