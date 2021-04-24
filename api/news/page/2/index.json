@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-22-biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.md",
+      "title": "Biden avoids confronting China over climate in Earth Day speech with world leaders",
+      "excerpt": "President Biden urged world leaders to act quickly and together to confront the consequences of Earth's changing climate, but notably did not specifically address heavy polluters like China.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EPD_R2_bxg4/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EPD_R2_bxg4/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21112464404501-CROP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.amp",
+      "publishedDateTime": "2021-04-22T09:16:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-inside-chuck-schumers-mission-to-turn-bidens-agenda-into-law-while-preserving-his-own-40-year-legacy.md",
+      "title": "Inside Chuck Schumer's mission to turn Biden's agenda into law while preserving his own 40-year legacy",
+      "excerpt": "With his slim majority, Senate Democratic Leader Chuck Schumer is depending on an arcane legislative maneuver to get things done. But only if the Senate parliamentarian gives him the thumbs-up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/senate-schumer-reconciliation-biden-agenda-2022-midterms-policy-new-york-2021-4",
+      "originalUrl": "https://www.businessinsider.com/senate-schumer-reconciliation-biden-agenda-2022-midterms-policy-new-york-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6080486474da0300181e2f85?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-analysis-us-financial-regulators-in-hot-seat-as-biden-ramps-up-climate-agenda.md",
       "title": "Analysis: U.S. financial regulators in hot seat as Biden ramps up climate agenda",
       "excerpt": "As U.S. President Joe Biden escalates his climate change agenda, pressure is growing on the country's regulators to catch up with Europe and incorporate various risks posed by climate change into their oversight of the financial system.",
@@ -536,6 +644,58 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-today-we-did-it-joe-biden-touts-200m-vaccine-shots-administered-as-it-happened.md",
+      "title": "‘Today we did it’: Joe Biden touts 200m vaccine shots administered – as it happened",
+      "excerpt": "President, who promised 200m jabs in his first 100 days, also expected",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/21/joe-biden-covid-coronavirus-vaccines-republicans-democrats-politics-live?page=with:block-608055e38f08080a7ae67ad0",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/21/joe-biden-covid-coronavirus-vaccines-republicans-democrats-politics-live?page=with:block-608055e38f08080a7ae67ad0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6d6a3becba67c83f78a49e2580b35f22230e3bc8/0_163_3936_2362/master/3936.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=463fcf1a7a2daa8f3406e85eb5663460",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/21/joe-biden-covid-coronavirus-vaccines-republicans-democrats-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/21/joe-biden-covid-coronavirus-vaccines-republicans-democrats-politics-live",
+      "publishedDateTime": "2021-04-21T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1188,168 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-simon-schuster-will-publish-mike-pences-memoir-despite-staff-objections.md",
-      "title": "Simon & Schuster will publish Mike Pence’s memoir despite staff objections",
-      "excerpt": "Simon & Schuster says it will publish former Vice President Mike Pence’s memoir despite objections from employees who signed petitions demanding the company not sign book deals with",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/",
-      "originalUrl": "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-book-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/amp/",
-      "publishedDateTime": "2021-04-21T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.md",
-      "title": "Biden ignores $1B in riot damage while praising George Floyd protesters after Chauvin conviction",
-      "excerpt": "President Biden neglected to acknowledge the rioting, looting, arson and worse that reportedly caused more than $1 billion in property damage last year as he praised George Floyd protesters Tuesday following Derek Chauvin's conviction on murder charges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
-      "originalUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1312682563.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
-      "publishedDateTime": "2021-04-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-foxconn-plant-once-touted-by-trump-as-a-13000-job-juggernaut-will-now-create-just-1500-jobs.md",
-      "title": "Foxconn plant, once touted by Trump as a 13,000-job juggernaut, will now create just 1,500 jobs",
-      "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former President Donald Trump once called \"the eighth wonder of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/foxconn-plant-once-touted-trump-13-000-job-juggernaut-will-n1264793",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/foxconn-plant-once-touted-trump-13-000-job-juggernaut-will-n1264793",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_16/3466568/210421-foxconn-mb-1404_348c6a4a19257ed509b54c9e5196d724.JPG",
-          "width": 5228,
-          "height": 3486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264793",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264793",
-      "publishedDateTime": "2021-04-21T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

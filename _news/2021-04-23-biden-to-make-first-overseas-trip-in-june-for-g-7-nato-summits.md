@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-first-overseas-trip-president
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-overseas-trip-president.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 174
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74ec3c25-855b-4b5e-99c7-b1e87498fa09/c0f1ad92-5924-44c0-a2e4-dac4bc55482a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ten state AGs sue Biden admin for ‘social cost of carbon’ executive order"
+    excerpt: "The lawsuit was announced on Friday, with the group calling the president’s executive order on tackling climate change “an act of executive overreach that will kill thousands of jobs throughout the country and threatens to impose more burdens and harms on the American people.”"
+    publishedDateTime: 2021-04-24T00:44:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UCFiZ_YDPaE/ags-sue-biden-carbon-order"
+    ampWebUrl: "https://www.foxnews.com/politics/ags-sue-biden-carbon-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ags-sue-biden-carbon-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a884897d-83b8-46a5-9507-d14c625b79bb/e19c5681-4c25-46d4-8c17-53c6f906c73d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

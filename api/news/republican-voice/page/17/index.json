@@ -2,6 +2,118 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-01-david-schoen-what-to-know-about-trump-impeachment-defense-attorney.md",
+      "title": "David Schoen: What to know about Trump impeachment defense attorney",
+      "excerpt": "High-profile civil rights attorney David Schoen, who before Jeffrey Epstein's death was in discussions to join his legal team, will be one of the two top members of former President Donald Trump's legal team for his impeachment trial, which is set to start in earnest in the Senate next week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6nzLmM_Dudg/david-schoen-what-to-know-about-trump-impeachment-defense-attorney",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6nzLmM_Dudg/david-schoen-what-to-know-about-trump-impeachment-defense-attorney",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1075,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp",
+      "publishedDateTime": "2021-02-01T09:49:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-kudlow-trump-was-consequential-brilliant-president-on-policy.md",
+      "title": "Kudlow: Trump was 'consequential, brilliant' president on policy",
+      "excerpt": "New Fox Business host Larry Kudlow said Monday that former President Donald Trump would go down as a \"brilliant, consequential\" president on policy terms and would have been better served to focus on his achievements instead of fighting the election result in the final weeks of his term.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/chzdNoThrso/kudlow-trump-consequential-brilliant-president-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/chzdNoThrso/kudlow-trump-consequential-brilliant-president-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9cd91a2-aabf-4b81-8154-6590a5d4d92c/7a32678c-9e11-4b3a-bb2d-b65a86c8fe20/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
+      "publishedDateTime": "2021-02-01T09:12:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-kinzinger-launches-new-pac-to-take-back-gop-from-trump.md",
       "title": "Kinzinger launches new PAC to 'take back' GOP from Trump",
       "excerpt": "Under fire by many in his own party for his vote to impeach then-President Trump, Republican Rep. Adam Kinzinger of Illinois is fighting to \"take back\" the GOP.",
@@ -1542,118 +1654,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/european-commission-president-twitter-trump-ban-serious-interference-with-freedom-of-expression.amp",
       "publishedDateTime": "2021-01-27T14:21:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-gop-blasts-bidens-climate-gambit-its-a-full-out-assault-on-the-oil-and-gas-industry.md",
-      "title": "GOP blasts Biden's climate gambit: 'It's a full-out assault on the oil and gas industry'",
-      "excerpt": "Republicans on Capitol Hill came out swinging Wednesday against President Biden's latest energy policies, claiming his efforts to combat the climate crisis are killing American jobs.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_eryBGnLpc/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x_eryBGnLpc/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/August-Pfluger-FOX.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-push-back-on-bidens-new-energy-policies-warn-of-job-losses.amp",
-      "publishedDateTime": "2021-01-27T14:00:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-biden-un-pick-promises-to-counter-chinas-authoritarian-agenda-and-regrets-2019-speech.md",
-      "title": "BIden UN pick promises to counter China's 'authoritarian agenda' and regrets 2019 speech",
-      "excerpt": "Linda Thomas-Greenfield, President Biden’s pick to be ambassador to the United Nations, pledged Wednesday to stand up to China’s \"authoritarian agenda\" at the U.N., -- as she was grilled by lawmakers about a 2019 speech she made praising Beijing’s approach in Africa.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQ6gcNRqD4g/biden-un-pick-chinas-agenda-2019-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-un-pick-chinas-agenda-2019-speech.amp",
-      "publishedDateTime": "2021-01-27T12:52:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

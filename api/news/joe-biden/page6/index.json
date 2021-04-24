@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-23-fact-check-posts-falsely-claim-biden-gave-china-control-of-us-power-grid.md",
+      "title": "Fact check: Posts falsely claim Biden gave China control of U.S. power grid",
+      "excerpt": "No executive order signed by President Joe Biden gave China control of the U.S. power grid, and his order isn't linked to the Texas power outages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4523427001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4523427001",
+      "publishedDateTime": "2021-02-22T18:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-biden-to-mark-covid-death-milestone-with-candle-ceremony-at-white-house-live-updates.md",
       "title": "Biden to mark Covid death milestone with candle ceremony at White House – live updates",
       "excerpt": "President will address nation this evening on the American lives lost to the pandemic",
@@ -1522,58 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup.md",
-      "title": "Biden says US will sanction military leaders, family members behind Myanmar coup",
-      "excerpt": "Biden says US will sanction military leaders, family members behind Myanmar coup. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-10T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

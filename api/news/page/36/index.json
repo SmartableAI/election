@@ -2,6 +2,166 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-02-25-a-year-after-trump-said-coronavirus-was-under-control-a-look-back-at-the-first-news-stories.md",
+      "title": "A year after Trump said coronavirus was ‘under control,’ a look back at the first news stories",
+      "excerpt": "Wednesday that then-President Trump offered words of assurance about the coronavirus which had only recently been detected in the United States. “The Coronavirus is very much under control in the USA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3JNHGTAAII6VLCQDBYB4FHANU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/?outputType=amp",
+      "publishedDateTime": "2021-02-24T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-biden-cia-nominee-burns-to-focus-on-authoritarian-adversary-china.md",
+      "title": "Biden CIA nominee Burns to focus on 'authoritarian adversary' China",
+      "excerpt": "President Joe Biden's nominee to be director of the CIA, William Burns, told a Senate committee on Wednesday that he saw competition with China - and countering its \"adversarial, predatory\" leadership - as the key to U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552770877&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N13F",
+          "width": 717,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AO19B",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO19B",
+      "publishedDateTime": "2021-02-24T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-donald-trump-jr-deposed-by-dc-attorney-general-as-part-of-inaugural-funds-lawsuit.md",
+      "title": "Donald Trump Jr. deposed by DC attorney general as part of inaugural funds lawsuit",
+      "excerpt": "Donald Trump Jr. was deposed as part of the Washington, DC, attorney general's lawsuit alleging the misuse of Trump inaugural funds, according to a new court filing.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3oMEkHPiJ1s/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3oMEkHPiJ1s/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120200043-07-donald-trump-jr-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/24/politics/donald-trump-jr-deposition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/donald-trump-jr-deposition/index.html",
+      "publishedDateTime": "2021-02-24T12:31:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-nikki-haley-slams-biden-push-for-seat-on-sham-human-rights-council-with-tyrants-dictators.md",
       "title": "Nikki Haley slams Biden push for seat on ‘sham’ Human Rights Council with ‘tyrants,' 'dictators’",
       "excerpt": "Former U.N. Ambassador Nikki Haley on Wednesday slammed the Biden administration’s move to reclaim a seat on the controversial Human Rights Council – noting that the Geneva-based body’s table includes human rights abusers.",
@@ -1215,167 +1375,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-in-backing-south-carolina-gop-chair-trump-remains-active.md",
-      "title": "In backing South Carolina GOP chair, Trump remains active",
-      "excerpt": "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-23T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-biden-trudeau-meeting-canadians-glad-to-get-beyond-trump-but-new-administration-brings-new-friction.md",
-      "title": "Biden-Trudeau meeting: Canadians glad to get beyond Trump, but new administration brings new friction",
-      "excerpt": "Relations between the leaders are likely to be more harmonious, but they differ on pipeline projects, Biden's \"Buy American\" policies and, possibly, vaccine cooperation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/",
-      "originalUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AKLUKDAAYI6XILXO5S7FGUVEQ.jpg&w=1440",
-          "width": 1440,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp",
-      "publishedDateTime": "2021-02-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-one-question-for-manhattan-da-candidates-will-you-prosecute-trump.md",
-      "title": "One Question for Manhattan D.A. Candidates: Will You Prosecute Trump?",
-      "excerpt": "The investigation into Donald J. Trump has been the focus of enormous attention, but candidates have mostly avoided talking about the case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/19/nyregion/00trumpda1/00trumpda1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.amp.html",
-      "publishedDateTime": "2021-02-23T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

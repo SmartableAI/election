@@ -371,6 +371,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-22-today-we-did-it-joe-biden-touts-200m-vaccine-shots-administered-as-it-happened.md",
+      "title": "‘Today we did it’: Joe Biden touts 200m vaccine shots administered – as it happened",
+      "excerpt": "President, who promised 200m jabs in his first 100 days, also expected",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/21/joe-biden-covid-coronavirus-vaccines-republicans-democrats-politics-live?page=with:block-608055e38f08080a7ae67ad0",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/21/joe-biden-covid-coronavirus-vaccines-republicans-democrats-politics-live?page=with:block-608055e38f08080a7ae67ad0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6d6a3becba67c83f78a49e2580b35f22230e3bc8/0_163_3936_2362/master/3936.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=463fcf1a7a2daa8f3406e85eb5663460",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/21/joe-biden-covid-coronavirus-vaccines-republicans-democrats-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/21/joe-biden-covid-coronavirus-vaccines-republicans-democrats-politics-live",
+      "publishedDateTime": "2021-04-21T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-biden-briefed-on-tragic-police-killing-of-makhia-bryant-white-house-says.md",
       "title": "Biden briefed on ‘tragic’ police killing of Ma’Khia Bryant, White House says",
       "excerpt": "Ma’Khia, 16, shot dead by police in Columbus, Ohio on Tuesday, minutes before jury announced guilty verdict in Chauvin murder case",
@@ -1489,58 +1541,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-is-he-really-in-charge-cornyn-tweet-about-biden-draws-scorn-white-house-response.md",
-      "title": "'Is he really in charge?': Cornyn tweet about Biden draws scorn, White House response",
-      "excerpt": "AUSTIN – U.S. Sen. John Cornyn, R-Texas, drew attention Monday for a series of tweets on President Joe Biden's media strategy, asking if the president \"is really in charge.\" Cornyn, quoting a Politico article about Biden's media presence, shared the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/john-cornyn-twitter-biden-2020-election-white-house-response/7197230002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/26/NAAS/a30c32b0-58c3-4c51-a961-fd83f61cdbdc-Biden_Cabinet.jpg?auto=webp&crop=4750,2672,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7197230002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7197230002",
-      "publishedDateTime": "2021-04-12T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

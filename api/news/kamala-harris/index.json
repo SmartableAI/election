@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-24-washington-post-runs-fact-check-on-tim-scotts-ancestry-but-not-on-kamala-harris-fweedom-plagiarism-claim.md",
+      "title": "Washington Post runs 'fact-check' on Tim Scott's ancestry but not on Kamala Harris' 'Fweedom' plagiarism claim",
+      "excerpt": "The Washington Post appears quite selective when it comes to the urgency of its 'fact-checks' of certain prominent politicians.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
+      "originalUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Tim-Scott-Kamala-Harris-AP.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.md",
       "title": "Kamala Harris ripped by New Hampshire GOP for visiting 'wrong border'",
       "excerpt": "The New Hampshire Republican Party called out Vice President Kamala Harris for visiting the \"wrong border\" as she heads to the Granite State for a visit.",
@@ -124,7 +181,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1581,49 +1638,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-kamala-harris-faces-political-trapdoors-as-she-takes-lead-role-on-migrant-border-surge.md",
-      "title": "Kamala Harris faces political ‘trapdoors’ as she takes lead role on migrant border surge",
-      "excerpt": "The humanitarian crisis at the southern border has vexed politicians in both parties for years. Now it’s Vice President Kamala Harris’ problem. President Joe Biden’s administration announced this week that Harris would lead its efforts to reduce the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/news/politics-government/article250228600.html",
-      "originalUrl": "https://www.sacbee.com/news/politics-government/article250228600.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/0e24fbe0-2f65-4599-9098-ba0b42f0dd09/27351149-8aa2-4f11-a1ed-53620864a567/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.sacbee.com/news/politics-government/article250228600.html",
-      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article250228600.html",
-      "publishedDateTime": "2021-03-26T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

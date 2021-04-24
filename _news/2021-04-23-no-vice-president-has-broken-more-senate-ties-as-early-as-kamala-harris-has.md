@@ -47,6 +47,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "NRSC dings Kamala Harris ahead of New Hampshire visit"
+    excerpt: "Vice President Kamala Harris can’t seem to go anywhere without catching flak about her reluctance to visit the U.S.-Mexico border. The National Republican Senatorial Committee made certain of that Friday ahead of Ms. Harris’ scheduled trip to New ..."
+    publishedDateTime: 2021-04-23T16:07:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/23/nrsc-dings-kamala-harris-ahead-new-hampshire-visit/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/apr/23/nrsc-dings-kamala-harris-ahead-new-hampshire-visit/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/apr/23/nrsc-dings-kamala-harris-ahead-new-hampshire-visit/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/23/Harris_77850.jpg-cadbc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "BA senator implies that VP Kamala Harris slept her way into politics"
+    excerpt: "When asked Friday by a television reporter to explain his comment about Harris and paper straws, Nathan Dahm said he was referencing her \"vast experience and how she got into"
+    publishedDateTime: 2021-04-24T01:25:00Z
+    webUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/ba-senator-implies-that-vp-kamala-harris-slept-her-way-into-politics/article_264fcd10-a46b-11eb-b9a8-1bd10c4c3da6.html"
+    ampWebUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/ba-senator-implies-that-vp-kamala-harris-slept-her-way-into-politics/article_264fcd10-a46b-11eb-b9a8-1bd10c4c3da6.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/ba-senator-implies-that-vp-kamala-harris-slept-her-way-into-politics/article_264fcd10-a46b-11eb-b9a8-1bd10c4c3da6.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/5/db/5dbdd1d6-a487-11eb-9b67-47d8e827e73c/5e947240e0f52.image.jpg?resize=1024%2C695"
+        width: 1024
+        height: 695
+        isCached: true
   - title: "Vice President Harris Holds Roundtable on Northern Triangle"
     excerpt: "T10:00:00-04:00  Vice President Harris hosts a roundtable meeting with foundation leaders on the Northern Triangle (El"
     publishedDateTime: 2021-04-22T11:47:00Z

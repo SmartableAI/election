@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ten state AGs sue Biden admin for ‘social cost of carbon’ executive order"
+    excerpt: "The lawsuit was announced on Friday, with the group calling the president’s executive order on tackling climate change “an act of executive overreach that will kill thousands of jobs throughout the country and threatens to impose more burdens and harms on the American people.”"
+    publishedDateTime: 2021-04-24T00:44:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UCFiZ_YDPaE/ags-sue-biden-carbon-order"
+    ampWebUrl: "https://www.foxnews.com/politics/ags-sue-biden-carbon-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ags-sue-biden-carbon-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a884897d-83b8-46a5-9507-d14c625b79bb/e19c5681-4c25-46d4-8c17-53c6f906c73d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden, NATO allies to discuss 'effective burden sharing,' White House says"
     excerpt: "President Biden will speak to NATO allies about “effective burden-sharing” next month, in a hint that his dealings with the military alliance may have at least one similarity with those of his predecessor, former President Donald Trump."
     publishedDateTime: 2021-04-23T23:03:47Z
