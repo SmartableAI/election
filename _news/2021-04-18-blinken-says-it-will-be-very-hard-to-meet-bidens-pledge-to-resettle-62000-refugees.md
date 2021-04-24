@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, NATO allies to discuss 'effective burden sharing,' White House says"
+    excerpt: "President Biden will speak to NATO allies about “effective burden-sharing” next month, in a hint that his dealings with the military alliance may have at least one similarity with those of his predecessor, former President Donald Trump."
+    publishedDateTime: 2021-04-23T23:03:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2b1Y1IjR4Y/biden-nato-allies-effective-burden-sharing-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nato-allies-effective-burden-sharing-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nato-allies-effective-burden-sharing-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa434e0f-6b4c-404e-89ce-c7e26329c066/ff42937c-f70a-49f7-a7c6-6d27dc8e6c8f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki has nothing to say on whether Biden will extend 100-day mask challenge"
     excerpt: "With just over 50 percent of Americans who have received at least one vaccine, press secretary Jen Psaki punted a question on whether the White House would extend its call for Americans to mask up beyond 100 days. "
     publishedDateTime: 2021-04-22T22:02:38Z

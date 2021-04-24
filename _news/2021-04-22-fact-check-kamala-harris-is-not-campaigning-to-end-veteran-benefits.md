@@ -3,8 +3,8 @@ category: news
 title: "Fact Check-Kamala Harris is not campaigning to end veteran benefits"
 excerpt: "Social media posts saying U.S. Vice President Kamala Harris has started a campaign “to end veteran benefits” have no basis in fact and likely originated from a satirical article."
 publishedDateTime: 2021-04-22T14:25:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-kamala-veterans/fact-check-kamala-harris-is-not-campaigning-to-end-veteran-benefits-idUSL1N2MF1WP"
-webUrl: "https://www.reuters.com/article/factcheck-kamala-veterans/fact-check-kamala-harris-is-not-campaigning-to-end-veteran-benefits-idUSL1N2MF1WP"
+originalUrl: "https://www.reuters.com/article/factcheck-kamala-veterans-idUSL1N2MF1WP"
+webUrl: "https://www.reuters.com/article/factcheck-kamala-veterans-idUSL1N2MF1WP"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MF1WP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MF1WP"
 type: article
@@ -605,6 +605,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "t3OqvMZQK8IeOu1pEmiuFpLPRLecLIgw/SXn3ZoeAam4ouvmWvnZ/v4bSv0h+cpDYF61L7I/LFOPaA+gok8KPLOMCEGx0UmIu6Rzlj51nHixWqB96THj/ir44Tv/5LYpZ8TTRdiIcELfA6vC1EGxNu/zCJCeOtBdfCOktmbgNhORTPEY0sAfV6T4AZOW/Lw3rWD4zbpy/psREpi9RWdnengstkp6XbPh3FjNMJyqw1cxeFHN25rOMahf5UoYb0Iv+oPepeIuW7I+lGXWS9HX5Llb0lvp9c61RZIKvxU1gw+KDnUqtwOitFfD8PfErK4HA7QOaJzx+qSADJccc7px4XDZB/A9SXH3XC/blpVMY00=;fGUiJ8eqlpBU3ahziJpIBw=="
+secured: "b3fkx0lOZwfBEWRBBrHAlWfYtKrVcGsejiBmgC/UNspu5H0MF4HQRbE4mVrdyqy4fr8nxKEpsOUxj9V2G6NhbjsV3JQfh1VuPBBkN85OZfvBK7m4JnWlyUCGP7LwV097OMPv9BF3M1Oc6fFXd8VodPNq+unQFoEn1Yo6M/dvzhnpgi8NTcUlvYYMX0yRUuQ12c3g6r2whWRa5jwXyQkJ8cYC9zsNM7oJzGTq7IsdLyYl3e/0zIAsMyNGmlj8HtK2wzCWbi8/k9oHb60H5vjs8gTnL3N6Qn/SBnwolt9s6LeB8K4DZCi8J/P0f0P4ZOeFhzAL9V9Rb0XoctZnzJCsTGhiZfyd/tqKOmEZs10ffgk=;WRbdi5Y2olazMqv4SrGgWw=="
 ---
 

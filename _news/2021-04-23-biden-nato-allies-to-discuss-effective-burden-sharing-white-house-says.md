@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden Pentagon nominee faces scrutiny over resurfaced tweet as nomination heads to final vote"
-excerpt: "An old tweet from President Biden’s nominee to be the number three at the Pentagon has resurfaced as the nomination process heads to the Senate floor."
-publishedDateTime: 2021-04-22T22:37:26Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WMqHIb-QIM/biden-pentagon-kahl-iran-israel-tweet"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WMqHIb-QIM/biden-pentagon-kahl-iran-israel-tweet"
-ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
+title: "Biden, NATO allies to discuss 'effective burden sharing,' White House says"
+excerpt: "President Biden will speak to NATO allies about “effective burden-sharing” next month, in a hint that his dealings with the military alliance may have at least one similarity with those of his predecessor, former President Donald Trump."
+publishedDateTime: 2021-04-23T23:03:47Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2b1Y1IjR4Y/biden-nato-allies-effective-burden-sharing-white-house"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2b1Y1IjR4Y/biden-nato-allies-effective-burden-sharing-white-house"
+ampWebUrl: "https://www.foxnews.com/politics/biden-nato-allies-effective-burden-sharing-white-house.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nato-allies-effective-burden-sharing-white-house.amp"
 type: article
-quality: 164
+quality: 173
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://amp.spot.im/loader.png"
-    width: 375
-    height: 815
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa434e0f-6b4c-404e-89ce-c7e26329c066/ff42937c-f70a-49f7-a7c6-6d27dc8e6c8f/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -60,22 +60,6 @@ related:
     quality: 174
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74ec3c25-855b-4b5e-99c7-b1e87498fa09/c0f1ad92-5924-44c0-a2e4-dac4bc55482a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden, NATO allies to discuss 'effective burden sharing,' White House says"
-    excerpt: "President Biden will speak to NATO allies about “effective burden-sharing” next month, in a hint that his dealings with the military alliance may have at least one similarity with those of his predecessor, former President Donald Trump."
-    publishedDateTime: 2021-04-23T23:03:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2b1Y1IjR4Y/biden-nato-allies-effective-burden-sharing-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nato-allies-effective-burden-sharing-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nato-allies-effective-burden-sharing-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa434e0f-6b4c-404e-89ce-c7e26329c066/ff42937c-f70a-49f7-a7c6-6d27dc8e6c8f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -127,7 +111,23 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden Pentagon nominee faces scrutiny over resurfaced tweet as nomination heads to final vote"
+    excerpt: "An old tweet from President Biden’s nominee to be the number three at the Pentagon has resurfaced as the nomination process heads to the Senate floor."
+    publishedDateTime: 2021-04-22T22:37:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WMqHIb-QIM/biden-pentagon-kahl-iran-israel-tweet"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-kahl-iran-israel-tweet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
 
-secured: "Qutamm8FcHPEKosiL5fgMILBh/AUT5K21I9NTi266R/uTaLrhqVKDNEtGrpMQB74EgmmjFawRWYdEbD0ar+1UVnDKEYau19X6FyrCQmbjjLkpknEwJPFSZYHjDQ+wEfRkoR4vhjnMzXtcSXdq8wPmOu1oChC6FcO4OcgDdFdTUAJ2l4EMdFMend/mj2fRI6AfiPIqy7bHoefJ4fn0Uc24ZvGhTE5029CkdU5/U++9yFedh+wr3a3Zx8u47Rwc3Sm67sy7a8/OTxcU1Xlrjz+/d3dMDTlmQWQvEf0MQmGwpEQrfBPn0a37CvakM4ZpdFnSx7YWyPE5JCAUHCAs5qFhxmjC02Z0YpQ3U/Hy1F84/A=;K+y6JVZCgmnuahFoR3EX7Q=="
+secured: "s8uzx+NSnZyuulf5UvmHc4XsHn+sEiBXQe1ocgnVW6g3Kn1FVsjgcXgOC7jCw13UKf6TyP5tPoQHJzEKnUk8IPe7otQtD490RkyakQJzVGC/rDTFr+6qIjrJhn7JlOJ66Alv2YJMEUjWNqx/zGxyKVm8NryRoDZQICAXXFUFTO1/VyJtuYijsKlD6Qas/Fn1Wf3f6aW5phqpur+0PzHlIRCa6R3369G+UIfqS2lRViQJRFqe1dd58x7eW/f1PEV5aKkwwVz8CBbpqcC4cenABEu3el96mKjGxEJqeqX2UtFCFe6XDfHK73R8WL8HC3PUquOxYgKWecnSl3b59LJgzvTyvt5IwtObNbfixrYWhq0=;0kuv2en5sVYv/KW2AiZg4A=="
 ---
 

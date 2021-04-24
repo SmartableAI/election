@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris speaks in Washington"
 excerpt: "Vice President Kamala Harris makes a statement before holding a roundtable discussion with leadership on issues concerning Guatemala, Honduras, and El Salvador at the White House in Washington, DC, on Thursday April 22,"
 publishedDateTime: 2021-04-22T15:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/81dd76737b133843775af16be89a3918/Vice-President-Kamala-Harris-speaks-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/81dd76737b133843775af16be89a3918/Vice-President-Kamala-Harris-speaks-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/7ba6a4d4682e22059d7d77d1e197c3da/Vice-President-Kamala-Harris-speaks-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/7ba6a4d4682e22059d7d77d1e197c3da/Vice-President-Kamala-Harris-speaks-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/81dd76737b133843775af16be89a3918/HARRIS-CENTAM.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/7ba6a4d4682e22059d7d77d1e197c3da/HARRIS-CENTAM.jpg"
     width: 650
     height: 433
     isCached: true
@@ -3883,6 +3883,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "cxQwbqcV3ZbDxNLKM/xp8cqZORi4q3ioZZkberAYPXf68AgsViBhKgNrYqqT16EJ/c3C0I3Jtw+ENI+OIIbX4tS54X7tn2jr+9lXfecjSZBUV808b9YHvWBeSLNetHjDpp0JvOZ7Ab4jk5wmv+k/iVcvgX1F8xUhh9vQTRq9XfPgq/Yz0ZnGjYBD2glw/wx3X3cRT4WGkWkRhBlJh6gFK8jwbcFEwgUhFL0H/Chg3nbXYxX1Ud7bghB++x2crLICSkfRJHVr7edNDg7dYZXBAaomAvVAKh7vR5z6yKI6szDqCR3VAu4duua6eD+5eOij9ndhjUXyUzix4sUJxYVQEgjPeksz91qWJcigbK7GFUhOdCZgc4pkocdeB9LFwQ0WXATqrhU/qJ5jmd9k9s09VW7MgFM5XltUCLUoePY/36wNiQOVYaUbtIileO/z64rJCrwalWZHtCc5C1veyf71OA6yoetYoZ+E3BgVfvq+4NuuT9RVMEVXH9rtuAD/SMPKaWejgMX6JGgfs7lSvqDKCw==;lQ8DFjbKps5uares4QlpQA=="
+secured: "Bf4O5nP/RD+9MZureewIkmQoQFQdVJgIIc2jQA5EX8CLSLx3Dubfw4uAQ2WXFJqnbxsjB1AfsLZFcdwzfTjYVeAe169phjQB6fXHouZTk0p5Uhx4Cu09xuG9PhZmElAvrCw6L58/s7Wi2ijr11uZfHrbzidlpEEferStaTUs3o/JMafbf+juuhh9QGkn15vBZyEtEf7fi7RN5uV/l4hXJcT10sqOe469kBk8b8Ux93JPavvUIYG/1II0Xi3HKxXSm9C5HT6ef6iKW7O88Ak9dF78y9yAfxVH1SYlKz3uyj0DTOLB2e8kXNmckiuDYTzZ46u9SIrRMT3jm9NXLH7O01Fu2isSqWLontKe2ljlKnM=;66NmaZfEk9rdOgUiW3gNNg=="
 ---
 
