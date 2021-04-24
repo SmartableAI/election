@@ -2,6 +2,58 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-01-18-rep-marjorie-taylor-greene-was-suspended-by-twitter-for-12-hours-not-long-after-she-told-trump-supporters-to-mobilize-in-a-deleted-tweet.md",
+      "title": "Rep. Marjorie Taylor Greene was suspended by Twitter for 12 hours not long after she told Trump supporters to 'mobilize' in a deleted tweet",
+      "excerpt": "In a since-deleted tweet, the congresswoman told 'all Americans' to 'mobilize and make your voices heard in opposition' days before Biden is sworn in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1",
+      "originalUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600499fa660f6c0018349a20?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1?amp",
+      "publishedDateTime": "2021-01-17T12:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-top-fema-official-attended-trumps-stop-the-steal-rally.md",
       "title": "Top FEMA official attended Trump's 'Stop the Steal' rally",
       "excerpt": "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ...",
@@ -1239,58 +1291,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-proud-boys-intended-to-kill-mike-pence-and-nancy-pelosi-fbi-witness-says.md",
-      "title": "Proud Boys Intended To Kill Mike Pence and Nancy Pelosi, FBI Witness Says",
-      "excerpt": "A group allegedly involved in the violent breach of the U.S. Capitol last week, including at least one self-proclaimed member of the Proud Boys, said that \"they would have killed [Vice President] Mike Pence if given the chance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
-      "originalUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1709898/proud-boys-pence-pelosi-capitol-riots.jpg",
-          "width": 2500,
-          "height": 1705,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
-      "publishedDateTime": "2021-01-15T15:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

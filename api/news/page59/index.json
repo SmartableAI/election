@@ -2,6 +2,58 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-01-20-donald-trump-is-first-president-in-modern-history-to-never-reach-50-approval-in-gallup-poll.md",
+      "title": "Donald Trump is First President in Modern History to Never Reach 50% Approval in Gallup Poll",
+      "excerpt": "Trump will also exit the White House with the lowest average approval rating of any president in the Gallup poll. At 41 percent, the president's rating is four points lower than the averages of Jimmy Carter and Harry Truman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
+      "originalUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1710870/donald-trump-border-wall-visit-1-12-2021.jpg",
+          "width": 2500,
+          "height": 1623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
+      "publishedDateTime": "2021-01-19T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-army-veteran-calls-out-dem-lawmaker-for-ridiculous-remark-about-troops-posing-threat-to-biden.md",
       "title": "Army veteran calls out Dem lawmaker for ‘ridiculous’ remark about troops posing threat to Biden",
       "excerpt": "A West Point graduate and Army veteran ripped Rep. Steve Cohen, D-Tenn., for floating the conspiracy theory that National Guard troops deployed to Washington, D.C., for the inauguration pose a threat to President-elect Joe Biden.",
@@ -1272,58 +1324,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-rep-marjorie-taylor-greene-was-suspended-by-twitter-for-12-hours-not-long-after-she-told-trump-supporters-to-mobilize-in-a-deleted-tweet.md",
-      "title": "Rep. Marjorie Taylor Greene was suspended by Twitter for 12 hours not long after she told Trump supporters to 'mobilize' in a deleted tweet",
-      "excerpt": "In a since-deleted tweet, the congresswoman told 'all Americans' to 'mobilize and make your voices heard in opposition' days before Biden is sworn in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1",
-      "originalUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/600499fa660f6c0018349a20?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1?amp",
-      "publishedDateTime": "2021-01-17T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

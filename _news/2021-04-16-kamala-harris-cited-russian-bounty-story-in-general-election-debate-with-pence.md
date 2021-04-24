@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-cited-russian-bounty-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cited-russian-bounty-story-debate-pence.amp"
 type: article
 quality: 221
-heat: 721
+heat: 741
 published: true
 
 provider:
@@ -231,6 +231,22 @@ related:
     webUrl: "https://www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation"
     ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-trip-to-new-hampshire-sparks-2024-white-house-speculation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris takes no questions from reporters during NH trip"
+    excerpt: "Vice President Harris continued her habit of keeping the press at arm's length on Friday during her trip to New Hampshire."
+    publishedDateTime: 2021-04-24T04:27:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-takes-no-questions-from-reporters-during-nh-trip"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-takes-no-questions-from-reporters-during-nh-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-takes-no-questions-from-reporters-during-nh-trip.amp"
     type: article
     provider:
       name: Fox News

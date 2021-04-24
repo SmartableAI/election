@@ -2,6 +2,62 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-02-17-biden-speaks-with-netanyahu-after-delay-raised-questions.md",
+      "title": "Biden speaks with Netanyahu after delay raised questions",
+      "excerpt": "President Joe Biden spoke Wednesday with his Israeli counterpart Benjamin Netanyahu, ending what had been a lengthy stretch without a call after Biden took office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Z8tgIZe_lE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Z8tgIZe_lE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 555,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html",
+      "publishedDateTime": "2021-02-17T13:44:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-biden-israeli-pm-netanyahu-have-warm-and-friendly-talk.md",
       "title": "Biden, Israeli PM Netanyahu have 'warm and friendly' talk",
       "excerpt": "President Biden spoke with Israeli Prime Minister Benjamin Netanyahu on Wednesday, Netanyahu’s office confirmed to Fox News.",
@@ -1299,58 +1355,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-biden-has-reopened-obamacare-enrollment-but-how-fast-you-need-to-act-depends-on-where-you-live.md",
-      "title": "Biden has reopened Obamacare enrollment, but how fast you need to act depends on where you live",
-      "excerpt": "Residents of one state don't know whether they can participate in a special enrollment period for federally subsidized health insurance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/2f3822947b6a8f8aa6a183e96e64d71752a99d03/c=0-89-2998-1783/local/-/media/2016/09/22/USATODAY/USATODAY/636101585701576984-BLM-OBAMA-HEALTHCARE-58839458.JPG?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6745781002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6745781002",
-      "publishedDateTime": "2021-02-15T22:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

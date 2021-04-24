@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-09-washington-moves-of-the-week-hoosiers-in-dc-landed-big-jobs-this-week-a-sign-of-the-sprawling-networks-of-mike-pence-and-pete-buttigieg.md",
+      "title": "Washington moves of the week: Hoosiers in DC landed big jobs this week, a sign of the sprawling networks of Mike Pence and Pete Buttigieg",
+      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% A diaspora of Hoosier politicos in DC made big job moves this week, a sign of the enduring and sprawling political networks forged by former Vice President Mike Pence and Transportation Secretary Pete Buttigieg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/heres-who-got-hired-in-washington-this-week-buttigieg-pence-2021-4",
+      "originalUrl": "https://www.businessinsider.com/heres-who-got-hired-in-washington-this-week-buttigieg-pence-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/606f7cb54d3e410018b70217?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-joe-manchin-on-the-fate-of-joe-bidens-agenda.md",
       "title": "Joe Manchin on the fate of Joe Biden's agenda ",
       "excerpt": "Joe Manchin says it's no fun being the most powerful man in Washington.\n    \n",
@@ -1292,62 +1344,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/epa-chief-slammed-firing-science-advisers.amp",
       "publishedDateTime": "2021-04-08T07:10:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-doj-slow-to-act-on-opioid-crisis-despite-ag-garland-saying-it-should-be-high-priority.md",
-      "title": "Biden DOJ slow to act on opioid crisis despite AG Garland saying it should be 'high priority'",
-      "excerpt": "Attorney General Merrick Garland pledged to make the opioid crisis still plaguing America a \"high priority\" for the Department of Justice (DOJ), but it seems as though the Biden administration has put the situation on the backburner.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCUIicke6Hw/biden-justice-department-opioid-crisis-merrick-garland",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9791ea4e-28cf-44ee-8e5e-eaf4871bac13/6e5b12ba-498f-4f5a-8725-881901e745e5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-justice-department-opioid-crisis-merrick-garland.amp",
-      "publishedDateTime": "2021-04-08T07:06:44-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

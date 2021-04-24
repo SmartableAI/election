@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to Hannity: Big Tech should face antitrust scrutiny, slams CNN over leaked video"
+    excerpt: "In an exclusive interview with \"Hannity,\" former President Donald J. Trump said that social media and Big Tech firms like Facebook, Twitter, Amazon and Google should face the scrutiny of antitrust investigatory bodies, given their monopolistic actions toward American political discourse."
+    publishedDateTime: 2021-04-24T04:38:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vyRAWzA-Aes/trump-to-hannity-big-tech-should-face-antitrust-scrutiny-slams-cnn-over-leaked-video"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-hannity-big-tech-should-face-antitrust-scrutiny-slams-cnn-over-leaked-video.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hannity-big-tech-should-face-antitrust-scrutiny-slams-cnn-over-leaked-video.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc338f44-5fac-4af7-8435-c6e3f86fcc68/cc8eb602-0588-4384-9be1-d1ae2fdd5193/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Inside Sean Hannity’s new $5.3M Palm Beach home next door to Donald Trump"
     excerpt: "Photos of the three-bedroom, five-bathroom pad’s previous design look straight out of a scene from the film “Boogie Nights.”"
     publishedDateTime: 2021-04-22T22:53:00Z

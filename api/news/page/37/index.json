@@ -2,6 +2,62 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-02-23-fact-check-breaking-down-bidens-first-month-of-claims.md",
+      "title": "Fact check: Breaking down Biden's first month of claims ",
+      "excerpt": "President Joe Biden was more consistently factual in his first month in office than his predecessor ever was in office. But Biden was not perfect himself.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JbRiqEClkxc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JbRiqEClkxc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 435,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210219122934-01-biden-munich-security-conference-0219-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-month-2021/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-month-2021/index.html",
+      "publishedDateTime": "2021-02-23T07:02:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-in-backing-south-carolina-gop-chair-trump-remains-active.md",
       "title": "In backing South Carolina GOP chair, Trump remains active",
       "excerpt": "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term",
@@ -1294,63 +1350,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-biden-tells-town-hall-not-all-minorities-know-how-to-get-online.md",
-      "title": "Biden tells town hall not all minorities 'know how to get online'",
-      "excerpt": "But the arrival of the Chinese virus followed by the idiotic lockdown policies of Blue State Governors and then, of course, the defeats of Donald Trump led to a less free, less prosperous, less optimistic America and listening to Joe Biden speaking today in Michigan you couldn't help but think that Biden and Fauci are going to keep us under their thumbs for as long as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
-      "originalUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a17db8b-72da-45f1-ac74-3f11135bb3b6/600bca1e-bafc-4923-ac66-753f6027ed5a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
-      "publishedDateTime": "2021-02-21T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

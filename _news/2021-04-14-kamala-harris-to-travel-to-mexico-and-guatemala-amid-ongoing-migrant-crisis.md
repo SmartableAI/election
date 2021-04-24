@@ -252,6 +252,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris takes no questions from reporters during NH trip"
+    excerpt: "Vice President Harris continued her habit of keeping the press at arm's length on Friday during her trip to New Hampshire."
+    publishedDateTime: 2021-04-24T04:27:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-takes-no-questions-from-reporters-during-nh-trip"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-takes-no-questions-from-reporters-during-nh-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-takes-no-questions-from-reporters-during-nh-trip.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris says migrants need ‘sense of hope that help is on the way’"
     excerpt: "Vice President Kamala Harris on Thursday said that Central Americans need “a sense of hope that help is on the way” to deter migration to the overwhelmed US-Mexico border. Harris was"
     publishedDateTime: 2021-04-22T17:29:00Z

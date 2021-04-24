@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-col
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 435
 published: true
 
 provider:
@@ -60,6 +60,38 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200611182856-sen-tim-scott-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Vaccine hesitancy among Republicans emerges as Biden's next big challenge"
+    excerpt: "As the pace of daily vaccinations slides in the US, the Biden administration is directing fresh urgency to one of the biggest political challenges it faces in stopping the spread of the coronavirus: tackling vaccine hesitancy, particularly among conservative and rural voters in the Southeast and Mountain"
+    publishedDateTime: 2021-04-24T04:10:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-f_WMEjQAWw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/24/politics/joe-biden-vaccine-hesitancy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/24/politics/joe-biden-vaccine-hesitancy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423101832-02-joe-biden-0423-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "John Kerry predicts that Biden's climate-focused jobs plan will attract Republican support"
+    excerpt: "John Kerry, the special presidential envoy for climate, predicted during a CNN Climate Town Hall aired Friday that the Biden administration's efforts to combat climate change while creating jobs will garner Republican support.\n    \n"
+    publishedDateTime: 2021-04-24T03:03:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zBi2yPVFzk8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/john-kerry-climate-town-hall-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/john-kerry-climate-town-hall-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423180814-cnn-climate-town-hall-0423-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

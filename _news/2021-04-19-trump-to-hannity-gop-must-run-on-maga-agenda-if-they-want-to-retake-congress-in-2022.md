@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-ma
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.amp"
 type: article
 quality: 167
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump to Hannity: Big Tech should face antitrust scrutiny, slams CNN over leaked video"
+    excerpt: "In an exclusive interview with \"Hannity,\" former President Donald J. Trump said that social media and Big Tech firms like Facebook, Twitter, Amazon and Google should face the scrutiny of antitrust investigatory bodies, given their monopolistic actions toward American political discourse."
+    publishedDateTime: 2021-04-24T04:38:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vyRAWzA-Aes/trump-to-hannity-big-tech-should-face-antitrust-scrutiny-slams-cnn-over-leaked-video"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-hannity-big-tech-should-face-antitrust-scrutiny-slams-cnn-over-leaked-video.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hannity-big-tech-should-face-antitrust-scrutiny-slams-cnn-over-leaked-video.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc338f44-5fac-4af7-8435-c6e3f86fcc68/cc8eb602-0588-4384-9be1-d1ae2fdd5193/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tells 'Hannity' he's 'very seriously' considering 2024 run, misses 'helping people' the most"
     excerpt: "In an exclusive, hour-long interview, former President Donald Trump told \"Hannity\" Monday that he will \"very seriously\" consider running again in 2024 if the Republican Party can \"get the right people\" on Capitol Hill."
     publishedDateTime: 2021-04-20T03:00:22Z
