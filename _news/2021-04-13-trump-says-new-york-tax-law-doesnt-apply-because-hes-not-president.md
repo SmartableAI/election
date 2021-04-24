@@ -413,6 +413,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Former Vice President Mike Pence memoir set for 2023 release"
+    excerpt: "Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people,"
+    publishedDateTime: 2021-04-07T22:04:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/vice-president-mike-pence-memoir-set-2023-release-76930379"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/vice-president-mike-pence-memoir-set-2023-release-76930379"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/vice-president-mike-pence-memoir-set-2023-release-76930379"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_68099959bed54032b39c56fac8d26f97_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Republicans probe EPA firing of Trump-appointed science advisers"
     excerpt: "dismissing 40 appointees of former President Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship attacked at sea Biden exceeds expectations on ..."
     publishedDateTime: 2021-04-07T18:44:00Z
@@ -1237,20 +1253,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/khzi_2y-XHd1Yp1jn1t7Bfvu1bE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQHCL3XD4NHGRKDKBNGOZBAEXI.JPG"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Former Vice President Mike Pence memoir set for 2023 release"
-    excerpt: "Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell"
-    publishedDateTime: 2021-04-08T03:04:00Z
-    webUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg"
-        width: 3000
-        height: 2221
         isCached: true
   - title: "Business faces tricky path navigating post-Trump politics"
     excerpt: "But the relationship, already strained during Donald Trump’s presidency, has come under increasing pressure as companies take cultural stands. That Republicans and businesses report to ..."

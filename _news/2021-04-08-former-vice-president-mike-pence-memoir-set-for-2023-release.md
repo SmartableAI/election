@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Former Vice President Mike Pence memoir set for 2023 release"
-excerpt: "Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell"
-publishedDateTime: 2021-04-08T03:04:00Z
-originalUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
-webUrl: "https://apnews.com/3f508b45074a749ddd2122664d5d3b9c"
+excerpt: "Former Vice President Mike Pence has a book deal. His autobiography, currently untitled, is scheduled to come out in 2023. “I am grateful to have the opportunity to tell the story of my life in public service to the American people,"
+publishedDateTime: 2021-04-07T22:04:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/vice-president-mike-pence-memoir-set-2023-release-76930379"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/vice-president-mike-pence-memoir-set-2023-release-76930379"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/vice-president-mike-pence-memoir-set-2023-release-76930379"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/vice-president-mike-pence-memoir-set-2023-release-76930379"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/68099959bed54032b39c56fac8d26f97/3000.jpeg"
-    width: 3000
-    height: 2221
+  - url: "https://s.abcnews.com/images/Entertainment/WireAP_68099959bed54032b39c56fac8d26f97_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1899,6 +1905,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "egcnZR5vPSK2wEzQB4dE8lw3cA1hQQYp95sVEZ0koO3I7ZKQSMHN4/IpYR1klXhQPtmfKCMj4HQCyQ/S2VMHC7W0dwfxTY6JUQcMBMpZ++OmL7DTJGv4fnS4WGT2c/ZyihjMvortqVU2WAXpBoRJ2J0GKD3UYhj0oJuvpw64C5+bF7ugs48U6kkphaswbpOcBnF09BNEuoJHq6mj27HhzkmC8ynUWzJQ1toe4KEHeh7glISPB13GU+oEW337lknpsSy+KZLh3fo9FFAiJSguyMBY2P+/NR0KPTlSut5EK9xpS9cGlHiU/lVzKvVf2oq18cG4wXa4beC6DQdNP2rdiqUtaEclN7IVrVP/4udJlaI=;fjti2GLQWoyBADtiiAXPLA=="
+secured: "ZiolR7I/H1h9eGpoTsU+eW8m8S0WcFS4wn31IaCCjkjGUdY/8cEE68Kv8sFTqCD0rDOv+irzO8Ii7fheEykWA4PitINdpfbciUX0BVYb2wa1eVmkbhbRUwbLLeEMoNDK7Q2zOh16ir+fUd8aLpnc/itHu3iEBJXMkfzyorpapX03deUBkcYvkr3pTZiLl0h6Infc1ehGWUoIXJ6FJAx41uWMqFcqItMNd8zkndCjK7glVecijUJmawaPitEMMg/vO1gxw8FWRREyQg5sccQtC+uPn2T+AZQb5Q7oOCEXu3Jk/J5Hg1/xzeRB5NkFn00fo5sEC9XQ/aDPkblaz2bKsErxggHV0gYZR0MgkeO5JMc=;W5XCnNoixz0rcxjGqrH9Vw=="
 ---
 

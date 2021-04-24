@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-mov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -213,6 +213,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 88
+  - title: "This millennial GOP congressman voted to impeach Trump. Now he's trying to save his party from going off a cliff."
+    excerpt: "Republican Rep. Peter Meijer's 1st term in Congress started with a vote to impeach Trump. He's still getting plenty of flak, but he doesn't care."
+    publishedDateTime: 2021-04-24T13:36:00Z
+    webUrl: "https://www.businessinsider.com/peter-meijer-trump-impeachment-michigan-house-republican-profile-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://i.insider.com/60806acb4becb800190f6529?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Gregg Popovich keeps heat on owners, others who support Donald Trump"
     excerpt: "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats."
     publishedDateTime: 2021-04-15T00:29:00Z

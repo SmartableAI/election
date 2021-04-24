@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US President Joe Biden to visit UK for first overseas trip"
+    excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
+    publishedDateTime: 2021-04-24T11:33:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/56870420"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/56870420.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/56870420.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/E0D5/production/_118175575_hi066931757.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "9o7ELP09sOlMLwqDDB1ScBR4qVCUywzy2xnCgxrmfbUdHNE5SoOdyWeXlBom0d1EXGG3w+wf+78wS0umY+zxxjFrgrTthlh8JbssZkeg9Nxh1+uJhN8dVd9/qlvVj3VeeApbI0fa/LPwhKqoGkfhfltJrxsTnH6GNfFlCk/1F/vA7pYQMC6f2aQGstbAAV1fL/GmKh0BTvt8Juux23G/oGxGxLA/7DoGBfxpzBRusWTy1th/v8eoAIl1prNJ0JTGaXyLn6DExZVCxtKEREi4Xc0q9s9wT0+0doBeP9uzzU6xPpCO7JDfKW69iyCJlc+tFIz2xdRev2OpPAe5n9CMNvoV2GCtz6IiFWRgOjBrVE8=;kvOuPKnLTa5050pMvzLF5w=="
 ---

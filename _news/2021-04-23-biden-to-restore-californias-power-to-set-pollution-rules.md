@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-restore-californias
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_582476d4c83f4a849953260173f0be01_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
+    excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
+    publishedDateTime: 2021-04-24T12:18:00Z
+    webUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html"
+    ampWebUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4PAU5DZLYFF5DJ3VNJ3ORP3RZ4.jpg"
+        width: 5472
+        height: 3648
         isCached: true
 
 secured: "V+q4nNkAd4SyKsgdFEDN7iriu86ou6/WVt1EaXvmtic4hQNB3kOt6/uICj77w80VaZZ8DRWHPAVJrXQEKldnD9Rna9MBvCLlkIqgk7V7SmoByXHoH5TBSd9MvzBpEzRguLBuaelLuZPfctsyY/JIdYFSz48qwrrjLqFozPSyGbhV0XsZFpMs7DwE86E/gkDYZeI3kF13QwwvLxNdRDgbHvr10vh2XEW8tnCH3NAQUAKRuHSVBpl7LWNsGB7xK6ON6xH25vLvItu1JsvofgMk7bqKRqTy9u/UtTPDiYhYtAemvDqUAF+whEv1puUtMoXo8P0LQuQCMWuCfSliUeqDAJ3VKdnABAKQIR40WFLPCL45ONuzyD3r7w0lJi27cH5O5udTPj8OtxujO/IGu+H+Z9Y8dEs10lR8UPABfALpIsUy+AExlmiAP4boTzxRwnsZO8QWY+KOtbLbI2cp4ipRmmtFsETETt5zUTjXnmKW8xaUJjyIEWnzX8FmfEsS//H33vct21AVzrtw3nYnXJ+t8Q==;MIBcqsWodaGpdNUVJsZnpA=="

@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris isn't at the southern border -- but migrant kids are getting Veep's book"
+    excerpt: "Vice President Kamala Harris hasn’t been to the border to address a crisis she was tasked to help fix — but a children’s book she wrote is waiting there for young migrants who are being welcomed into the country."
+    publishedDateTime: 2021-04-24T13:02:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPXIQl1v3EE/kamala-harris-southern-border-migrant-kids-veeps-book"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-southern-border-migrant-kids-veeps-book.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-southern-border-migrant-kids-veeps-book.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "OwKxeQ/mwLQ+WyLPrWg6L9ikVdIKBuEOiqKrVGvPpVofYP4gC7fuWCfg5tsAZU/vrtqsE6L+wkqS2F81iCNN2OGvpWivKviMQIBIRF5q8iXC8IwiiQLNjIml6I8V0gtzi+6ESjZKKYj7dZTF1+09WG9HzlHRRLiDpSVFMK6Gh7BPXt4TtF9mhArv4GXSld3iFc58FmlJm88shXl/uG8LqO84uNy7EHMBbLtmEIk6AawldPrB9ZigKfzoOYzSQsdId38tAN/TiAfpvkzz3gU9FqGIIEE2wbKzQjWU5s/ZIxP2yOwk4OHKo/Y0xMfI3ZexoRwUB5YgUV3y9bYA31+sRlpHUY4/ODyC4Ywp+qDcGqI=;KmD2QFQJuHTHomGOKq3XUg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledg
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c08fbea90e2a5f93a98cb8b9c96ab96236eae02b/0_150_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b7c1c0ced33c0d8c62508ab5a7f77dc"
         width: 1200
         height: 630
+        isCached: true
+  - title: "US President Joe Biden to visit UK for first overseas trip"
+    excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
+    publishedDateTime: 2021-04-24T11:33:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/56870420"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/56870420.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/56870420.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/E0D5/production/_118175575_hi066931757.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "zOuvIhkAZQrH2aJCEZW/Xd4cv9PxxHmqf3pgxmyxZJm5TZoh6zQvCOPax6+npkWMA6rboqe3FgFUCjH5Vm7Eh/FfmhiBGiyiAaqnkxLX5mgfHTDX3J8iHGOKuKq+lC1+TmE1NX0Q4d7o+ebd6XBWWGftRLZYWDUhJ3ZiIgVWt4CnHKt6lJl6ZNqY6DreAfhx6LevCR9CNgs2Onq3nWVRmSF5A5pKuOT7JcxmyKPNvBzPuM1MMxo6e4+2XYYGOWJLi+AQtMlAINkxKsdnGWfo/YILPrMjmuAl5+Imy8jK0nBhQSkVRmLdGf6Szm2puzxRMViFvDZraNIGu8oDcoykvvEzR5G5UOLog59IzFXiYw1ywU8vkWDnimekWypsz6FZNGvz+4tziPPxMcXdH04J95tQxmuWbMwJ8K0Utd2ghNVA9kA5dVOoXJGz5bU/d9Q8Tqq//mR1ManDlRitNOQxa2yb+zIzsROKPyt4+h5A1sd6tKg9uOJfCaFG6cAqsohD3yE1zYaZ1FhqsC1Ne0LD7w==;KBA2fXGJ1dDWHQQtJvB5kQ=="

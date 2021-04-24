@@ -213,6 +213,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 88
+  - title: "This millennial GOP congressman voted to impeach Trump. Now he's trying to save his party from going off a cliff."
+    excerpt: "Republican Rep. Peter Meijer's 1st term in Congress started with a vote to impeach Trump. He's still getting plenty of flak, but he doesn't care."
+    publishedDateTime: 2021-04-24T13:36:00Z
+    webUrl: "https://www.businessinsider.com/peter-meijer-trump-impeachment-michigan-house-republican-profile-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://i.insider.com/60806acb4becb800190f6529?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Gregg Popovich keeps heat on owners, others who support Donald Trump"
     excerpt: "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats."
     publishedDateTime: 2021-04-15T00:29:00Z
@@ -276,6 +290,6 @@ related:
         height: 1352
         isCached: true
 
-secured: "OFfcJI2PODsf1nZdfi7YOxgeImSt2KNvQ+XxrQtwT3JXdLurSMtMjOQ4GbWqGg/dCpJId2R+lLeZh2412CAwXGNErD/l/fk3u7dKfQqs7JQLVUdWOYjDFbITLeHjtjakbbezxhaJpT5ZLJ8t6ICbs+TsLws446R3+Wg4Wo3Ep5Y6kGKHMAABXDvXbvGY6Sn8SGVaeriGirOc6Rz0F8019LU7WktTTnBeliOwiZ0oBqwZB6HNs+jSyeq/nDP6CJAIfwTn0TCgSYX+h6csyEe2iU6kNv9f3rab9UgH3OIsiSJvuWpj+iP+u1dSxmfgO32/q9wcZ+W9swl/dbRh1FGgehlIXRog8shGu+NEx7Dgvf0=;YuSjtTOTucWbb5o9VjI16Q=="
+secured: "XIl8rGISkDmWardLFdIPOnMjBD+AeiBJPGQY/Z/mgN5H/7MdPObIAJ6B6Mt+0hJrMBrmFiCVXHyWAiAl6rpGlX41oYS4alNjHQHXWoUe9sEervUeEJksyhYtCekCeLwyVlTh1xDIhRuKvcI8lNEqlgYviiU+L0fwh6E3fZQ4ifjfRjOFgneO7hY0HqRJmDiXCPrVqLaUMrIPW7qjsAeMpGnws6LiDI+fBPsvaQtn3RNCIWdupg26TwCxvMYc2Tt3IqNFczjRGs77uJOa5mTOr3FA23m1xyT/dknzWT8nvezKFeauv0mVgKwRhopDe5onjGr/Bt/P1nD3dFgbpinDd+5mr3q5TIFNMjFGxgxjXeqCSuP3sIwlPGtEs84jvWthrscbwmFKuL8kKbFVSj9MrpMdfVRuQvw7zCNeqHrldDRfI6dT3JEEdZ0q0e1YGY4frp4i39MZa1gWkAMCTEW4v+j6n1Ls7wYtD1ljAq8OtIs4f3pVB6ixKz2XF0d51BDgfSHiWTgLbuJr/dD4/AKEpQ==;JFpWhsm+S66XImOIZqXUlg=="
 ---
 

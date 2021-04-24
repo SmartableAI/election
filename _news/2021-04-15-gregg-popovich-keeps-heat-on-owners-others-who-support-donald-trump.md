@@ -225,6 +225,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 88
+  - title: "This millennial GOP congressman voted to impeach Trump. Now he's trying to save his party from going off a cliff."
+    excerpt: "Republican Rep. Peter Meijer's 1st term in Congress started with a vote to impeach Trump. He's still getting plenty of flak, but he doesn't care."
+    publishedDateTime: 2021-04-24T13:36:00Z
+    webUrl: "https://www.businessinsider.com/peter-meijer-trump-impeachment-michigan-house-republican-profile-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://i.insider.com/60806acb4becb800190f6529?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "GOP White House hopefuls move forward as Trump considers run"
     excerpt: "Less than three months after former President Donald Trump left the White House, the race to succeed him atop the Republican Party is already beginning. Trump's former secretary of state, Mike Pompeo,"
     publishedDateTime: 2021-04-20T13:39:00Z

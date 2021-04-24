@@ -75,6 +75,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
+    excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
+    publishedDateTime: 2021-04-24T12:18:00Z
+    webUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html"
+    ampWebUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4PAU5DZLYFF5DJ3VNJ3ORP3RZ4.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
 
 secured: "k4CYZgHrK2QcQydFUbCD66fMQe1s+AKcLOg5xxMpkn2JszS/0wMUIS9qz15DGaG+3oAiic4gH62kiJ5OkmUGqJyeBAORilA2fzKT/gmedf+pVr9Sl41b819Sxem3IH3FkWwo2OFwqh2kjvlrMtA1HmeCbZyJmN+NS95sTqpEyY5eLsIdphnPeozIeLXYQpadmZvvh7yQ4K62BruWFsudS2BFbHk9x53dVDfodMRg3WW2nmIrUMDT5ZB98Xns/7I7RsYgnlLXhw4i2czkcObp3KsSjg2oNWQiR5Mc/3cen04I6gVKKOMnuIjraCiV9yWEGnmqwENrIpVApRQLwwlS4LUPS8MeuwxWQvgoledpZbkATMUD0/dgEXZoFqoSQ9HnkTL9xB/x4fET13WyIwvMPT4Xlpr+jzjqjGWeAr9d/+NZLLgjFEjRZ3bGGOAKlrk7xr+CXIp8lKHmuHXxI+1Pz+HRJ58P3UF5YPSkPVRmxsg6fUeL4pnjq3Sw2u+LDjgwN7kPw6PSLarLQijNGXZlJg==;+vmjSjLTSUq00F0/jocXVg=="
 ---

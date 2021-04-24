@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Louisiana runoff tests direction of Democratic base three months into Biden's presidency"
+    excerpt: "Louisiana voters are set to weigh in on the direction of the Democratic Party, choosing between a more moderate candidate who is aligned with President Joe Biden's White House and a more progressive contender who could make history as the first Black woman to represent the state in Congress, in a Saturday"
+    publishedDateTime: 2021-04-24T12:05:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UL-qtImRT7k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/24/politics/louisiana-runoff-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/24/politics/louisiana-runoff-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423140805-troy-carter-karen-carter-peterson-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "John Kerry predicts that Biden's climate-focused jobs plan will attract Republican support"
     excerpt: "John Kerry, the special presidential envoy for climate, predicted during a CNN Climate Town Hall aired Friday that the Biden administration's efforts to combat climate change while creating jobs will garner Republican support.\n    \n"
     publishedDateTime: 2021-04-24T03:03:42Z
