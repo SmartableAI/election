@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
-excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
-publishedDateTime: 2021-04-17T15:38:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-climate-electricity-idCAKBN2C40DP"
-webUrl: "https://www.reuters.com/article/us-usa-climate-electricity-idCAKBN2C40DP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2C40DP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2C40DP"
+title: "Biden's first address to Congress is invite-only"
+excerpt: "Only invited members of Congress will be allowed to attend President Biden's address to a Joint Session of Congress on Wednesday, and the event \"will be invitation-only for a limited number of members of Congress,"
+publishedDateTime: 2021-04-24T11:07:00Z
+originalUrl: "https://www.cbsnews.com/news/biden-speech-joint-session-congress-invite-only/"
+webUrl: "https://www.cbsnews.com/news/biden-speech-joint-session-congress-invite-only/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
 type: article
-quality: 122
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558873837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3G07K"
-    width: 817
-    height: 545
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/23/ab8ef0e0-16b8-48e8-b2fe-3232ed54766b/thumbnail/1200x630/24c3ca048ad637f5d5327bc25562f187/gettyimages-1232457998.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden's first address to Congress is invite-only"
-    excerpt: "Only invited members of Congress will be allowed to attend President Biden's address to a Joint Session of Congress on Wednesday, and the event \"will be invitation-only for a limited number of members of Congress,"
-    publishedDateTime: 2021-04-24T11:07:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-speech-joint-session-congress-invite-only/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
+  - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
+    excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
+    publishedDateTime: 2021-04-17T15:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-climate-electricity-idCAKBN2C40DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2C40DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2C40DP"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/23/ab8ef0e0-16b8-48e8-b2fe-3232ed54766b/thumbnail/1200x630/24c3ca048ad637f5d5327bc25562f187/gettyimages-1232457998.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558873837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3G07K"
+        width: 817
+        height: 545
         isCached: true
   - title: "At Earth Day climate summit, Biden promises 50% reduction in US greenhouse emissions"
     excerpt: "President Joe Biden announced the goal of reducing greenhouse gas emissions by 50% as he kicked off a climate summit with 40 other world leaders."
@@ -126,6 +126,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9o7ELP09sOlMLwqDDB1ScBR4qVCUywzy2xnCgxrmfbUdHNE5SoOdyWeXlBom0d1EXGG3w+wf+78wS0umY+zxxjFrgrTthlh8JbssZkeg9Nxh1+uJhN8dVd9/qlvVj3VeeApbI0fa/LPwhKqoGkfhfltJrxsTnH6GNfFlCk/1F/vA7pYQMC6f2aQGstbAAV1fL/GmKh0BTvt8Juux23G/oGxGxLA/7DoGBfxpzBRusWTy1th/v8eoAIl1prNJ0JTGaXyLn6DExZVCxtKEREi4Xc0q9s9wT0+0doBeP9uzzU6xPpCO7JDfKW69iyCJlc+tFIz2xdRev2OpPAe5n9CMNvoV2GCtz6IiFWRgOjBrVE8=;kvOuPKnLTa5050pMvzLF5w=="
+secured: "pI0UybFmmupye2Z1TGCYaSXWH4yGyJo0+xRrNWTs02pgAQ6UDkpyXfZD+7O7qg6bo3ulfLjSU/Sc0Hjo2rZVhlaUGuhqLzsXMlmC8PHmCgHYZf6hzD4n4KRT+FgUgw9+YGsIOouin488VNEAS0Utonvb36gcoUTqEno4U4YTP2T6aK0XGy1A8d3DHXhjxzWjGMtx50k4mchOZlON0/b4nYqICq0upTZvm0w3AkuZkl2W/5VirLAwk+X7QwG6WNU1Ba9xD5fPnQq5j7OyPT80gKivH3vpDp97t21QCpqhFm8hzCDQBu3aPaf+1JneOe6M1MjuiNq3/+QU3F3+0pKtMZpg07Fcj+iQCDwh/cl5JbY=;/KIAA9skC+ubJVQk3jvNgg=="
 ---
 

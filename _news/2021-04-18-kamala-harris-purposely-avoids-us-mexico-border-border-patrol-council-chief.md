@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris greeted by protesters during New Hampshire trip to promote infrastructure"
+    excerpt: "Vice President Kamala Harris on Friday was greeted by protesters in New Hampshire who urged her to visit the US-Mexico border in her role as the Biden's adminstration's migration czar."
+    publishedDateTime: 2021-04-24T11:45:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWEbUQ2gMaU/kamala-harris-protesters-new-hampshire-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-new-hampshire-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-protesters-new-hampshire-trip.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/President-Kamala-Harris.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "OwKxeQ/mwLQ+WyLPrWg6L9ikVdIKBuEOiqKrVGvPpVofYP4gC7fuWCfg5tsAZU/vrtqsE6L+wkqS2F81iCNN2OGvpWivKviMQIBIRF5q8iXC8IwiiQLNjIml6I8V0gtzi+6ESjZKKYj7dZTF1+09WG9HzlHRRLiDpSVFMK6Gh7BPXt4TtF9mhArv4GXSld3iFc58FmlJm88shXl/uG8LqO84uNy7EHMBbLtmEIk6AawldPrB9ZigKfzoOYzSQsdId38tAN/TiAfpvkzz3gU9FqGIIEE2wbKzQjWU5s/ZIxP2yOwk4OHKo/Y0xMfI3ZexoRwUB5YgUV3y9bYA31+sRlpHUY4/ODyC4Ywp+qDcGqI=;KmD2QFQJuHTHomGOKq3XUg=="
 ---

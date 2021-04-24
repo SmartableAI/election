@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-ripped-by-new-hampshi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.amp"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris greeted by protesters during New Hampshire trip to promote infrastructure"
+    excerpt: "Vice President Kamala Harris on Friday was greeted by protesters in New Hampshire who urged her to visit the US-Mexico border in her role as the Biden's adminstration's migration czar."
+    publishedDateTime: 2021-04-24T11:45:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWEbUQ2gMaU/kamala-harris-protesters-new-hampshire-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-protesters-new-hampshire-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-protesters-new-hampshire-trip.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/President-Kamala-Harris.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris purposely ‘avoids’ US-Mexico border: Border Patrol council chief"
     excerpt: "It’s no accident that Vice President Kamala Harris hasn’t visited the U.S.-Mexico border region, the head of the Border Patrol agents’ union said Saturday."
     publishedDateTime: 2021-04-18T01:52:00Z

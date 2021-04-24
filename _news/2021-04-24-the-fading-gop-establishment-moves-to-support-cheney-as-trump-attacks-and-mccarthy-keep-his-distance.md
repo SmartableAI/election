@@ -1,14 +1,14 @@
 ---
 category: news
-title: "RNC Chairwoman Ronna McDaniel comes under pressure to show more independence from Trump"
-excerpt: "Some party committee members want the GOP to create some distance from the former president — or at least grapple with the fact that Republicans lost the White House, Senate and House during his administration."
-publishedDateTime: 2021-04-17T23:26:00Z
-originalUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html"
-webUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
+title: "The fading GOP establishment moves to support Cheney as Trump attacks and McCarthy keep his distance"
+excerpt: "Instead of becoming the first female Republican House speaker — a more difficult task now that she has so many internal enemies — Liz Cheney’s legacy might be defined by her success or failure in steering the party back to its conservative foundation."
+publishedDateTime: 2021-04-24T09:04:00Z
+originalUrl: "https://www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html"
+webUrl: "https://www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html?outputType=amp"
 type: article
-quality: 117
+quality: 110
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKZT7DTBVMI6XILXO5S7FGUVEQ.jpg&w=1440"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUWM74VCBQI6XMYUF2MTXWB6GE.jpg&w=1440"
     width: 1440
-    height: 1080
+    height: 1007
     isCached: true
 
 related:
@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "RNC Chairwoman Ronna McDaniel comes under pressure to show more independence from Trump"
+    excerpt: "Some party committee members want the GOP to create some distance from the former president — or at least grapple with the fact that Republicans lost the White House, Senate and House during his administration."
+    publishedDateTime: 2021-04-17T23:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKZT7DTBVMI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
   - title: "Will Donald Trump Run Again? Ex-President Backs New Donor Group, Accuses Arizona Democrats"
     excerpt: "Donald Trump is still the 2024 candidate of choice for many self-identified Republican voters, according to recent polling."
     publishedDateTime: 2021-04-24T07:54:00Z
@@ -174,22 +190,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1782493/former-president-donald-trump-cpac.jpg"
         width: 3000
         height: 2000
-        isCached: true
-  - title: "The fading GOP establishment moves to support Cheney as Trump attacks and McCarthy keep his distance"
-    excerpt: "Instead of becoming the first female Republican House speaker — a more difficult task now that she has so many internal enemies — Liz Cheney’s legacy might be defined by her success or failure in steering the party back to its conservative foundation."
-    publishedDateTime: 2021-04-24T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUWM74VCBQI6XMYUF2MTXWB6GE.jpg&w=1440"
-        width: 1440
-        height: 1007
         isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
@@ -276,6 +276,6 @@ related:
         height: 1352
         isCached: true
 
-secured: "ecQ+UY8d4po2Fc+dFDQ7VT3ORNZMSwFwDo9zgzUH35x1LnUDyEwX/ZwPnXIVleYqAnkjoE9s68k+i3GIzxuHICMgvAAC5ORjOAiTePmWTEBG6HLUz0lFgrIGKC1pDAeG9FD7UCkl8GRbGHoQ84kDdlcMvG1rz/3EWQD71qfFfC2UiWhmILpA2kB4QbVZ0z1T4eTsNnlKh3kitY4iBF3xCCb288ESN9W0ycLflaOfZ+umkjlF4GvfThgfXikmBA4ogBCjuQWBf8/L+2Xq24O/kNM9RPqMEQ4lcBk4aVQHI5r3aMqY5jfBOnn5BKeZLJfzDyhtv/5sujl9yHM8gUCmtGthv+I7tos2YilwFVmJhmY8IJMv18w4ytClFeSu8fBZ6VtjDstCjjTaRsqkeuGaJJBcw/en85Jz8WihwfK/xZP08Mh+bPm/yK7d4GKuc7wMSw8eJ65r1Dwu8bOLLi9dtoXjMOWTIJn5sUDk3UBhiCNNHtMswDvzz5A3PypnEoFcUN1J2K0ER7c1BAsiYjf6sQ==;6yRfD0SrC7LQkBLBsIK3ug=="
+secured: "OFfcJI2PODsf1nZdfi7YOxgeImSt2KNvQ+XxrQtwT3JXdLurSMtMjOQ4GbWqGg/dCpJId2R+lLeZh2412CAwXGNErD/l/fk3u7dKfQqs7JQLVUdWOYjDFbITLeHjtjakbbezxhaJpT5ZLJ8t6ICbs+TsLws446R3+Wg4Wo3Ep5Y6kGKHMAABXDvXbvGY6Sn8SGVaeriGirOc6Rz0F8019LU7WktTTnBeliOwiZ0oBqwZB6HNs+jSyeq/nDP6CJAIfwTn0TCgSYX+h6csyEe2iU6kNv9f3rab9UgH3OIsiSJvuWpj+iP+u1dSxmfgO32/q9wcZ+W9swl/dbRh1FGgehlIXRog8shGu+NEx7Dgvf0=;YuSjtTOTucWbb5o9VjI16Q=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-03-07-fox-nation-to-premiere-new-series-on-rush-limbaugh-narrated-by-mike-pence.md",
+      "title": "Fox Nation to premiere new series on Rush Limbaugh, narrated by Mike Pence",
+      "excerpt": "It is an ambitious and affectionate salute to a man who regularly drew 15 million talk radio listeners for three hours of conservative thought each day. Fox Nation is set to premiere “The Age of Rush,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/04/1_4_2021_beltway8202_c0-0-2500-1458_s1200x700.jpg?99c7ae3bdbf327c408533720fb3c8c1f3a8a793f",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
+      "publishedDateTime": "2021-03-06T15:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-obama-congratulates-biden-on-senate-passage-of-his-covid-relief-bill.md",
       "title": "Obama congratulates Biden on Senate passage of his Covid relief bill ",
       "excerpt": "Former President Barack Obama on Saturday congratulated President Joe Biden on the successful passage of the Covid-19 relief bill through the Senate, the administration's top legislative priority as millions of Americans continue to struggle financially amid the coronavirus pandemic.\n    \n",
@@ -1311,58 +1354,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-youtube-will-lift-ban-on-trump-channel-when-risk-of-violence-decreases-ceo.md",
-      "title": "YouTube will lift ban on Trump channel when risk of violence decreases: CEO",
-      "excerpt": "Alphabet Inc's YouTube will lift its suspension on former U.S. President Donald Trump's channel when it determines the risk of real-world violence has decreased, the company's CEO, Susan Wojcicki, said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-youtube-trump-suspension-idINKBN2AW2LI",
-      "originalUrl": "https://www.reuters.com/article/us-youtube-trump-suspension-idINKBN2AW2LI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH231FS",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AW2LI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AW2LI",
-      "publishedDateTime": "2021-03-04T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
