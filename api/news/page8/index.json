@@ -2,6 +2,170 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-13-biden-proposes-summit-with-putin-in-coming-months.md",
+      "title": "Biden proposes summit with Putin in coming months ",
+      "excerpt": "President Biden on Tuesday proposed a summit with Russian President Vladimir Putin in the coming months, but suggested it take place in a third country – outside of the United States and Russia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoJitY6T5ik/biden-proposes-putin-summit-russia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoJitY6T5ik/biden-proposes-putin-summit-russia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-proposes-putin-summit-russia.amp",
+      "publishedDateTime": "2021-04-13T09:15:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-trump-speculates-johnson-johnson-vaccine-pause-fueled-by-politics-fdas-friends-at-pfizer.md",
+      "title": "Trump Speculates Johnson & Johnson Vaccine Pause Fueled by Politics, FDA's 'Friends at Pfizer'",
+      "excerpt": "Former President Donald Trump lambasted the Centers for Disease Control (CDC) and Food and Drug Administration's (FDA) recommended pause on the usage of the Johnson & Johnson vaccine as being politically driven. Six people who were recently vaccinated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307",
+      "originalUrl": "https://www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1777143/trump-johnson-johnson-pfizer-pause-cdcbiden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-speculates-johnson-johnson-vaccine-pause-fueled-politics-fdas-friends-pfizer-1583307?amp=1",
+      "publishedDateTime": "2021-04-13T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-johnson-johnson-vaccine-pause-wont-have-significant-impact-on-biden-covid-19-plan-white-house.md",
+      "title": "Johnson & Johnson vaccine pause won't have 'significant impact' on Biden COVID-19 plan: White House",
+      "excerpt": "The White House said the pause on Johnson & Johnson vaccines will not have a “significant impact” on President Biden’s COVID-19 vaccine plan, saying that vaccine makes up “less than 5 percent” of recorded shots administered to Americans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNZm9KxZt5w/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNZm9KxZt5w/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/johnson-johnson-vaccine-pause-biden-covid-19-vaccine-plan.amp",
+      "publishedDateTime": "2021-04-13T08:08:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-biden-to-pull-us-troops-from-afghanistan-by-sept-11-sources-say.md",
       "title": "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say",
       "excerpt": "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, three sources familiar with the decision told Reuters.",
@@ -1194,166 +1358,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-rep-liz-cheney-criticized-trump-for-embracing-insurrection-in-a-wild-speech-deepening-a-gop-rift.md",
-      "title": "Rep. Liz Cheney criticized Trump for 'embracing insurrection' in a wild speech, deepening a GOP rift",
-      "excerpt": "An envelope. It indicates the ability to send an email. Rep. Liz Cheney criticized former president Donald Trump for continuing to use the incendiary rhetoric that she claims provoked the January 6 riot at the US Capitol. Cheney was responding to a wild ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4",
-      "originalUrl": "https://www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/607410c33e3fe7001882a0e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/liz-cheney-criticizes-trump-and-gop-for-embracing-insurrection-2021-4?amp",
-      "publishedDateTime": "2021-04-12T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-ramadan-begins-derek-chauvin-trial-bidens-infrastructure-plan-5-things-to-know-monday.md",
-      "title": "Ramadan begins, Derek Chauvin trial, Biden's infrastructure plan: 5 things to know Monday",
-      "excerpt": "Chauvin is charged with second-degree murder, third-degree murder and second-degree manslaughter in Floyd's death. President Joe Biden will meet with a bipartisan group of U.S. House and Senate lawmakers Monday to discuss his proposed $2.3 trillion infra ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/04/12/ramadan-derek-chauvin-trial-covid-19-5-things-know-monday/7158232002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/04/12/ramadan-derek-chauvin-trial-covid-19-5-things-know-monday/7158232002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/12/USAT/8e808988-b36c-4d38-99e5-a1194fdf9ce3-AFP_AFP_97P74U.jpg?auto=webp&crop=5124,2883,x0,y260&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7158232002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7158232002",
-      "publishedDateTime": "2021-04-12T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-biden-to-name-former-nsa-deputy-director-to-lead-cisa-report.md",
-      "title": "Biden to name former NSA deputy director to lead CISA: report",
-      "excerpt": "John C. Inglis, the former deputy director of the National Security Agency, is expected to be tapped by President Biden to head the Department of Homeland Security’s cybersecurity agency, according to a report late Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCzW5eQ_oe8/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCzW5eQ_oe8/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-name-former-nsa-deputy-director-to-lead-cisa-report.amp",
-      "publishedDateTime": "2021-04-11T20:51:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

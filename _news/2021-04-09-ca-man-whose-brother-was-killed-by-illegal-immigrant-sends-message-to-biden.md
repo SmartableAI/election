@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's address to Congress: Everything to know"
+    excerpt: "President Biden on Wednesday will give a primetime address to a joint session of Congress, marking the biggest speech of his presidency so far and giving him the opportunity to lay out his agenda for the rest of his time in office. "
+    publishedDateTime: 2021-04-28T11:25:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bygW-7sJzE/biden-joint-address-to-congress-everything-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joint-address-to-congress-everything-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joint-address-to-congress-everything-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Liz Cheney blasts Biden over 'reckless decision' to pull out of Afghanistan"
     excerpt: "House Republican Conference Chair Liz Cheney joined \"Your World\" Wednesday to react to President Biden's announcement that U.S. forces would begin their final withdrawal from Afghanistan May 1."
     publishedDateTime: 2021-04-14T22:30:28Z

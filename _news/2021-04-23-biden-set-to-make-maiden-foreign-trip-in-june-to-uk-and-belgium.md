@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-fo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 355
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's first 100 days: What he's gotten done"
+    excerpt: "President Joe Biden has moved fast since his January 20 swearing-in, signing a $1.9 trillion Covid relief bill into law less than two months into his term and issuing more executive orders so far than his three predecessors.\n    \n"
+    publishedDateTime: 2021-04-28T04:14:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SKyijwMUVf8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/president-biden-first-100-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/president-biden-first-100-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427113628-20210427-joe-biden-100-days-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bipartisan talks on infrastructure heat up as Biden prepares for big push"
     excerpt: "As the White House intensifies conversations with key Republicans on infrastructure, a small, bipartisan group of senators is in the early stages of seeing if they might be able to break loose consensus on their own plan.\n    \n"
     publishedDateTime: 2021-04-27T23:19:05Z
@@ -108,6 +124,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/130219144014-universal-preschool-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden to showcase his moderate radicalism in his big congressional address"
+    excerpt: "President Joe Biden's \"radical\" idea is that government is not the problem in America but the multi-trillion-dollar solution that can end the pandemic, equalize the economy and make life better for millions of working people.\n    \n"
+    publishedDateTime: 2021-04-28T11:38:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/In7SNqCeWkI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/joe-biden-joint-address-to-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/joe-biden-joint-address-to-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -521,6 +521,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris, Nancy Pelosi will be historic duo at Biden's address to Congress"
+    excerpt: "When Joe Biden delivers his first speech as president to Congress on Wednesday, history will be made behind him. For the first time during a joint address to Congress, the majority of politicians on the dais in the House of Representatives will be women,"
+    publishedDateTime: 2021-04-28T11:18:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-Nancy-Pelosi-will-be-historic-duo-16133896.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-Nancy-Pelosi-will-be-historic-duo-16133896.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-Nancy-Pelosi-will-be-historic-duo-16133896.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 86
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/63/56/20921276/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "'One giant leap': Harris says Biden's American Jobs Plan aims high, will reach higher"
     excerpt: "Vice President Kamala Harris told a small audience at GTCC that \"the president and I are determined to get this done.\""
     publishedDateTime: 2021-04-19T17:45:00Z

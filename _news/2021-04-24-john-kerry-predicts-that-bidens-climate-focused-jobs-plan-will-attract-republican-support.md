@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/john-kerry-climate-town-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/john-kerry-climate-town-hall-cnntv/index.html"
 type: article
 quality: 165
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Prince William urges Covid spirit in climate fight ahead of Biden summit"
-    excerpt: "The open letter signed by the prince and a string of high-profile figures calls climate change \"the most pressing challenge in human history.\""
-    publishedDateTime: 2021-04-22T11:46:00Z
-    webUrl: "https://www.nbcnews.com/news/world/prince-william-urges-covid-spirit-climate-fight-ahead-biden-summit-n1264896"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264896"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264896"
+  - title: "Here's what's in Biden's $1.8 trillion American Families Plan"
+    excerpt: "A month after he laid out a roughly $2 trillion infrastructure plan aimed at helping the nation recover from the coronavirus pandemic, President Joe Biden is set to unveil an additional $1.8 trillion federal investment in education, child care and paid family leave during his first address to Congress"
+    publishedDateTime: 2021-04-28T09:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xHmZRxQNRQM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427125800-01-joe-biden-0420-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Majority of Americans approve of Biden and his priorities in first 100 days"
+    excerpt: "On the cusp of the 100-day mark of Joe Biden's presidency, a new CNN Poll conducted by SSRS finds 53% of Americans approve of the way he is handling the job and say he has had the right priorities, and 59% say he is doing a good job keeping his campaign promises.\n    \n"
+    publishedDateTime: 2021-04-28T11:30:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rGFk1yeIKkw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/cnn-poll-biden-approval-100-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/cnn-poll-biden-approval-100-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427232328-joe-biden-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration announces new operation to crack down on human smuggling"
+    excerpt: "The Biden administration announced Tuesday an operation focused on disrupting transnational criminal organizations, including human smugglers who have facilitated the illegal crossings of migrants at the US-Mexico border.\n    \n"
+    publishedDateTime: 2021-04-27T17:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3VNw4AkoF3A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301130048-01-mayorkas-wh-briefing-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "President Biden told Turkish President Erdogan he's planning to recognize Armenian genocide"
+    excerpt: "President Joe Biden told his Turkish counterpart Recep Tayyip Erdoğan on Friday he plans to recognize the 1915 massacre of Armenians by the Ottoman Empire as a genocide, according to a person familiar with the conversation.\n    \n"
+    publishedDateTime: 2021-04-23T21:30:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G_5C3V9_OqI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/biden-erdogan-armenian-genocide/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/biden-erdogan-armenian-genocide/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423101832-02-joe-biden-0423-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration lifts Trump-era restrictions stalling Puerto Rico hurricane aid"
+    excerpt: "The Department of Housing and Urban Development also made $8.2 billion available to Puerto Rico, three years after Congress initially approved the aid."
+    publishedDateTime: 2021-04-21T14:50:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/biden-administration-lifts-trump-era-restrictions-stalling-puerto-rico-hurricane-n1264672"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264672"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264672"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 134
+    quality: 143
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_16/3466826/210422-prince-william-mc-1005_24bb21d89a10918fb2f7bfb7c72a4387.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/2688286/181218-puerto-rico-hurricane-maria-damage-cs-449p_224914a1716ff83713dd32469cd273d7.jpg"
         width: 2500
         height: 1667
         isCached: true
