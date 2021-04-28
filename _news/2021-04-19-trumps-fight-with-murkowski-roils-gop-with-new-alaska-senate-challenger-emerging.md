@@ -128,6 +128,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
+    excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
+    publishedDateTime: 2021-04-28T20:35:00Z
+    webUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/28/business/28jedi/merlin_161472645_b390071c-509b-4eca-a742-44668e12796f-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "A Trump-McConnell power struggle creates landmines in GOP quest to retake Congress"
     excerpt: "It’s forcing congressional leadership to tread lightly and avoid setting off an explosion that does real damage to the party."
     publishedDateTime: 2021-04-22T20:55:00Z

@@ -363,19 +363,19 @@ related:
         isCached: true
   - title: "Watching from afar, Congress will make or break Biden agenda"
     excerpt: "The most striking part of President Joe Biden’s address to Congress may be the absence of most members of Congress"
-    publishedDateTime: 2021-04-28T18:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/watching-from-afar-congress-will-make-or-break-biden-agenda/2021/04/28/cc6cfba8-a855-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/watching-from-afar-congress-will-make-or-break-biden-agenda/2021/04/28/cc6cfba8-a855-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/watching-from-afar-congress-will-make-or-break-biden-agenda/2021/04/28/cc6cfba8-a855-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    publishedDateTime: 2021-04-28T19:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/watching-afar-congress-make-break-biden-agenda-77374336"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/watching-afar-congress-make-break-biden-agenda-77374336"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/watching-afar-congress-make-break-biden-agenda-77374336"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ERACQBFHBUI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 973
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bf43b7d1ca9d4321ba42f697f0502122_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "No vice president has broken more Senate ties as early as Kamala Harris has"
     excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
@@ -766,6 +766,22 @@ related:
         width: 1024
         height: 695
         isCached: true
+  - title: "New York Post reporter who wrote false Kamala Harris story resigns"
+    excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
+    publishedDateTime: 2021-04-28T20:41:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/7YzhkcpcZ-0qK4jTmaxATjfiWIA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VNC6TPHQ2ZF55P5TTUOYHX6EKE.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Kamala Harris to visit Baltimore on Biden administration’s 100th day, tout COVID relief, recovery"
     excerpt: "Democratic Vice President Kamala Harris is expected to visit Baltimore the day after President Joe Biden makes his first joint address to Congress."
     publishedDateTime: 2021-04-28T20:00:00Z
@@ -988,6 +1004,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
+    publishedDateTime: 2021-04-28T19:28:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251009199.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251009199.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251009199.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
   - title: "Kamala Harris to Speak With Guatemalan President on Monday: Axios"
     excerpt: "U.S. Vice President Kamala Harris will meet virtually on Monday with Guatemalan President Alejandro Giammattei to discuss solutions to the surge of migration, Axios reported on Wednesday, citing a senior White House official."
     publishedDateTime: 2021-04-22T01:02:00Z

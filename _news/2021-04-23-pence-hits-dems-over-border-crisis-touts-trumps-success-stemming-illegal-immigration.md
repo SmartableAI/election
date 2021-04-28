@@ -129,6 +129,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Senate Votes to Reverse Trump-Era Loosening of Methane Emission Rules"
+    excerpt: "The Senate voted to restore regulations on methane gas that leaks into the air from U.S. oil and gas production, reversing a Trump-era policy and giving a boost to the Biden administration’s goal of reducing emissions."
+    publishedDateTime: 2021-04-28T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/senate-votes-to-reverse-trump-era-loosening-of-methane-emission-rules-11619645144"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-votes-to-reverse-trump-era-loosening-of-methane-emission-rules-11619645144"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-votes-to-reverse-trump-era-loosening-of-methane-emission-rules-11619645144"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-331077/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Former Trump administration official mulling GOP challenge against Cheney"
     excerpt: "Perry Pendley, who served as acting director of the Bureau of Land Management during the Trump administration, is expected on Thursday evening to give a speech in his home state of Wyoming where he'll strongly hint at launching a Republican primary challenge against embattled Rep."
     publishedDateTime: 2021-04-22T16:46:00Z

@@ -144,6 +144,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Senate Votes to Reverse Trump-Era Loosening of Methane Emission Rules"
+    excerpt: "The Senate voted to restore regulations on methane gas that leaks into the air from U.S. oil and gas production, reversing a Trump-era policy and giving a boost to the Biden administration’s goal of reducing emissions."
+    publishedDateTime: 2021-04-28T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/senate-votes-to-reverse-trump-era-loosening-of-methane-emission-rules-11619645144"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-votes-to-reverse-trump-era-loosening-of-methane-emission-rules-11619645144"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-votes-to-reverse-trump-era-loosening-of-methane-emission-rules-11619645144"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-331077/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "U.S. sues Trump ally Roger Stone, alleging he owes about $2 million in unpaid taxes"
     excerpt: "The U.S. Department of Justice on Friday sued Roger Stone, saying the close ally of former President Donald Trump owes about $2 million in unpaid federal income taxes, according to a court"
     publishedDateTime: 2021-04-17T08:17:00Z

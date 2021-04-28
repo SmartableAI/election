@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-keep-intelligence-i
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden to deliver presidential address amid heightened security"
+    excerpt: "With security fences still surrounding the Capitol and continuing concerns over extremist threats, President Joe Biden's first joint address to Congress will take place under heavy guard -- though details remain murky."
+    publishedDateTime: 2021-04-28T19:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-deliver-presidential-address-amid-heightened-security/story?id=77340169"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-deliver-presidential-address-amid-heightened-security/story?id=77340169"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-deliver-presidential-address-amid-heightened-security/story?id=77340169"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-before-biden-adress--01-gty-iwb-210428_1619638171520_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What to expect from President Biden's address to Congress"
     excerpt: "President Biden will give his first address to a joint session of Congress tonight. CBS News political contributor Antjuan Seawright and former White House aide to President George H.W. Bush Joe Watkins joined CBSN with a look at what we can expect."
     publishedDateTime: 2021-04-28T17:32:00Z
@@ -311,18 +327,18 @@ related:
         height: 1080
         isCached: true
   - title: "Biden to push Congress for trillions in investment"
-    excerpt: "News Agency Biden to push Congress for trillions in investment. Posted . In his first address to a joint session of the U.S. Congress, President Joe Biden will press for a massive"
+    excerpt: "Top News Biden to push Congress for trillions in investment. Posted . In his first address to a joint session of the U.S. Congress, President Joe Biden will press for a massive in"
     publishedDateTime: 2021-04-28T17:40:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEAFZE1R"
+    webUrl: "https://www.reuters.com/video/watch/idRCV009OJK"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210428&i=OVEAFZE1R&r=OVEAFZE1R&t=2"
-        width: 960
-        height: 540
+      - url: "https://static.reuters.com/resources/r/?d=20210428&i=RCV009OJK&r=RCV009OJK&t=2"
+        width: 1200
+        height: 675
         isCached: true
   - title: "US President Joe Biden to visit UK for first overseas trip"
     excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
@@ -364,6 +380,6 @@ related:
       domain: usnews.com
     quality: 42
 
-secured: "CuJ7mC5PoxbZDy7EkeKpMuZ0S6L11LH9RQj51M555bFafh8kAeSMe9zg1Z05yXIrcrviH+oE9v3AoiSl3zvsLu73sN5qkZf9LViashelKM14zJLQk/732Jz9QW7sPdbZbcEXcr40JTHVzplsoRz+dTNEn9t8JExicQ/ED3Tneriwnne7tj4aElJS5wvrLaJnlwfQ+k9kBuXxh9LsuY9w27KgQoUfv0NuSR4iwpsffFOa4sc4maNhp1n28N1rXwQv80ocBgmhGuYITcFuaHhwe95h1IR4VFybKxWJaN45DSvErAR3nIC7IxfGLaJ2jUS9+SOXwMgNzkNSY7saXuEexFeaGakoqgp4sDBsUC1CcbY=;zEm+M03wRMuxpWUfXaL9Kg=="
+secured: "W23uD1dbBlLWHzwW13qJzP+mW9AsFpvUXoKdQdiy4QSJzcMUBB8TQSotd/kUOeE81VMdhzfRXH4dn9NPZrJhHwnB/JygRT0uhRWH11h28DBifaMwyBVsmyYGvil8QOHnez10MmxEFlgge390BzgZ27TIKQ8Ygg9+/03s+ZUqePg0uouPTCJv4BL9z75q9lhxDode8gbeejN5T3PDZiBOCwZLZ/07GvdaLS0T8FxJwbFD5NoMf+70IfjllcFCh+xMMAjTk1ORWfX7NPUCwclOoAtbI9oSm49jtdad8XCRihRuwPmeB+SxIm0/iRCPe22nL5X6Lie7yuwimZ1Jh28E16319cikuvL+OuJCdggk3KY5sIuhsZx2r9vGs31ES9ALyCuEBRvTK3xLACGs09UimiPe5tBEa5fuwalEMaMfiDASTdkPiAJq0RDfzV8UthiF6UQi8eBIAhwMtXeYAuYB/HhMFmnh6dxOfgHctV5x6eSQjegzP+IYBKmP6s51Iz8tz/1tR8C2PQyjG4RA2Gkd1Q==;VCLN+W/oI0y/45oSDdY1HA=="
 ---
 

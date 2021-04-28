@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Cooling the temperature: Biden faces fractious Congress"
+    excerpt: "Trust between Republicans and Democrats on Capitol Hill has cratered as Joe Biden prepares to address House and Senate lawmakers for the first time in his presidency"
+    publishedDateTime: 2021-04-27T15:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/cooling-the-temperature-biden-faces-fractious-congress/2021/04/27/5f4b7262-a70f-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/cooling-the-temperature-biden-faces-fractious-congress/2021/04/27/5f4b7262-a70f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/cooling-the-temperature-biden-faces-fractious-congress/2021/04/27/5f4b7262-a70f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOHRBZVHBUI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "President Biden urges businesses to use paid leave to help workers get COVID-19 vaccines"
     excerpt: "President Joe Biden urged businesses to help workers get vaccinated while announcing he met early the goal of 200 million shots in 100 days."
     publishedDateTime: 2021-04-21T20:26:00Z

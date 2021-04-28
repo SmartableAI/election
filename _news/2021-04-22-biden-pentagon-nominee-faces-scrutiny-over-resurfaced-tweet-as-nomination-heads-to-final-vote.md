@@ -257,15 +257,15 @@ related:
         isCached: true
   - title: "Hours before Biden's speech, Christie accuses president of lying to hide 'socialist agenda'"
     excerpt: "Chris Christie is once again accusing President Biden of lying, this time charging that the president is \"not telling the truth\" about the tax increases inside the sweeping spending proposal he’ll unveil on Wednesday night."
-    publishedDateTime: 2021-04-28T15:59:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9k7ev-B7gE/chris-christie-biden-speech-new-hampshire-2024"
+    publishedDateTime: 2021-04-28T15:59:00Z
+    webUrl: "https://www.foxnews.com/politics/chris-christie-biden-speech-new-hampshire-2024"
     ampWebUrl: "https://www.foxnews.com/politics/chris-christie-biden-speech-new-hampshire-2024.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-speech-new-hampshire-2024.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 125
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340

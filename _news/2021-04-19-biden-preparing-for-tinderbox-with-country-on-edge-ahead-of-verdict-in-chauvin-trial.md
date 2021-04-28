@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Scoring Biden's performance on 4 key campaign promises in first 100 days"
+    excerpt: "The practice of judging a presidency during its first 100 days began almost a century ago during the first term of President Franklin Roosevelt as he attempted to pull the country out of the depths of the Great Depression.\n    \n"
+    publishedDateTime: 2021-04-28T21:23:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dtHetfc3sIY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/biden-100-day-promises-scorecard/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/biden-100-day-promises-scorecard/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427163143-09-biden-100-days-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Democrats holding a lottery for tickets to Biden's address to Congress"
     excerpt: "Senate Democrats are using a lottery system to distribute the limited number of tickets available for members of the caucus who are interested in attending President Joe Biden's address to a joint session of Congress on Wednesday, multiple senators -- including Hawaii Sen. Brian Schatz -- and aides told"
     publishedDateTime: 2021-04-27T17:57:42Z
@@ -204,6 +220,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427133953-judge-ketanji-brown-jackson-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden will invite the top four congressional leaders to the White House for May 12 meeting"
+    excerpt: "President Joe Biden will invite the top four congressional leaders to the White House on May 12, his first meeting with the bipartisan congressional leadership since he entered office, according to a White House official.\n    \n"
+    publishedDateTime: 2021-04-28T20:59:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bElJfTexqAA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/top-four-congressional-leaders-white-house-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/top-four-congressional-leaders-white-house-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427161742-07-biden-100-days-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

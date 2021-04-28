@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Progressives think Biden's latest $1.8T families plan isn't big enough"
+    excerpt: "Progressives on Wednesday viewed President Biden's latest spending plan on families as a good start, but said the $1.8 trillion proposal is still too small to provide a necessary safety net for the American public. "
+    publishedDateTime: 2021-04-28T21:07:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZW6lr4iPBTg/progressives-biden-families-plan-too-small"
+    ampWebUrl: "https://www.foxnews.com/politics/progressives-biden-families-plan-too-small.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-biden-families-plan-too-small.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration cozies up to controversial UN agency for Palestinian refugees"
     excerpt: "The U.N. Relief and Works Agency (UNRWA) has continuously faced accusations of teaching hatred and incitement in its school system against Jews and Israelis. Yet none of this was even hinted at in an optimistic statement released following the meeting between Ambassador Linda Thomas-Greenfield and the"
     publishedDateTime: 2021-04-22T19:40:59Z

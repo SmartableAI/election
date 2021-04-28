@@ -365,19 +365,19 @@ related:
         isCached: true
   - title: "Watching from afar, Congress will make or break Biden agenda"
     excerpt: "The most striking part of President Joe Biden’s address to Congress may be the absence of most members of Congress"
-    publishedDateTime: 2021-04-28T18:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/watching-from-afar-congress-will-make-or-break-biden-agenda/2021/04/28/cc6cfba8-a855-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/watching-from-afar-congress-will-make-or-break-biden-agenda/2021/04/28/cc6cfba8-a855-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/watching-from-afar-congress-will-make-or-break-biden-agenda/2021/04/28/cc6cfba8-a855-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    publishedDateTime: 2021-04-28T19:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/watching-afar-congress-make-break-biden-agenda-77374336"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/watching-afar-congress-make-break-biden-agenda-77374336"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/watching-afar-congress-make-break-biden-agenda-77374336"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ERACQBFHBUI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 973
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bf43b7d1ca9d4321ba42f697f0502122_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "No vice president has broken more Senate ties as early as Kamala Harris has"
     excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
@@ -768,6 +768,22 @@ related:
         width: 1024
         height: 695
         isCached: true
+  - title: "New York Post reporter who wrote false Kamala Harris story resigns"
+    excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
+    publishedDateTime: 2021-04-28T20:41:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/7YzhkcpcZ-0qK4jTmaxATjfiWIA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VNC6TPHQ2ZF55P5TTUOYHX6EKE.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris to visit Baltimore next week to mark Biden administration’s first 100 days"
     excerpt: "Vice President Kamala Harris will visit Baltimore next week to mark an early milestone for the Biden-Harris administration, according to the White House."
     publishedDateTime: 2021-04-24T01:45:00Z
@@ -988,6 +1004,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
+    publishedDateTime: 2021-04-28T19:28:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article251009199.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article251009199.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article251009199.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
   - title: "Kamala Harris to Speak With Guatemalan President on Monday: Axios"
     excerpt: "U.S. Vice President Kamala Harris will meet virtually on Monday with Guatemalan President Alejandro Giammattei to discuss solutions to the surge of migration, Axios reported on Wednesday, citing a senior White House official."
     publishedDateTime: 2021-04-22T01:02:00Z
@@ -1016,6 +1043,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "XapZ7EYTkGUbUiHZgtjpojRiR08XcgisEy+VwSEdkPv1cO+d7LGkYdKG6CASfZT+crKPQkIwPtacgsvfw62dAorhzBPkZYoX8HVIS25+cc39NwlN+mdM+uFvEkp7VlF22UNzMgg+7YillLjpRt+jzYuZzEblvVtdyUmWh21VCKjEPe4Kk16GkJuLX4Cv25XBXcC2dI8UkioRPfSyXoP7yHqKJJiOzTjxgvKWesZn7KvA2/nbxOZbkmZa3McrAPhKDyUoPplwCOOtATh8utbCzADBiOOl4nKnlhXIZ+8jVfXKcFmzo7nhuK1qxH470XspisC9QEDOs5oZVn9YDBZ9Ftv1s2GBwrrtjU5s0CfhSDM=;IQqehs3VrRe3t2gVaen2rg=="
+secured: "Q0nDnneNnMoE1K8f4RWM8J5O1V4xGEMISDdrFV0L/1c2P2VZ8LoH8vFQxgZXx5vhHvCE4WlFvB9oOXeKwHGkNUqsVFPrA/p7lWlhEC2vNAksgANBnGMVNR3cFmPPQfb69OVeNslB7Wzoioj19jU1Lf1q20pLezkUaMyA/jt/3J0lldWYST/EITUJrMHPxP0R7zA0oG4nSd/gZ7peYJ2vD+cLQv2ejO+raibbtsnlOyve9tKt3hrtY+Z6j6lehEUAnwHJwgd+47A38wRZiqLHm7kI5zYec5RzmNmUFqHre1HXhH4OBt6yNZpOzd7sMYDLW/ziu9s6+q7aJv4VMhyIUh4DB/ZJ1GyzCkn8O5E9Rzw1ML2PmQ1U+oQeszxbJfYBSArTkteec/NFbctnOuWh/jfcbXIQ04H3BA4/XPay8WxX21ZHjfX4ao42Qw+fbPhl2pXDLOZhpugYEPc7VUiEYRR0K9recpbK5DyL2csfWUNYGDjqWyo83ekoL0QGB543eUs9k4NXdxMdDR8AZRALQw==;45FUAbXdZP/9Wa8mi2Ra8Q=="
 ---
 

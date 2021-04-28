@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Progressives think Biden's latest $1.8T families plan isn't big enough"
+    excerpt: "Progressives on Wednesday viewed President Biden's latest spending plan on families as a good start, but said the $1.8 trillion proposal is still too small to provide a necessary safety net for the American public. "
+    publishedDateTime: 2021-04-28T21:07:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZW6lr4iPBTg/progressives-biden-families-plan-too-small"
+    ampWebUrl: "https://www.foxnews.com/politics/progressives-biden-families-plan-too-small.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-biden-families-plan-too-small.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Florida AG Moody demands Biden make Supreme Court commission meetings public"
     excerpt: "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms."
     publishedDateTime: 2021-04-22T02:07:26Z

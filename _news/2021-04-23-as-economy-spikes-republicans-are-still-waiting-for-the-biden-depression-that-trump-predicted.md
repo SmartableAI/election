@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden to deliver presidential address amid heightened security"
+    excerpt: "With security fences still surrounding the Capitol and continuing concerns over extremist threats, President Joe Biden's first joint address to Congress will take place under heavy guard -- though details remain murky."
+    publishedDateTime: 2021-04-28T19:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-deliver-presidential-address-amid-heightened-security/story?id=77340169"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-deliver-presidential-address-amid-heightened-security/story?id=77340169"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-deliver-presidential-address-amid-heightened-security/story?id=77340169"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-before-biden-adress--01-gty-iwb-210428_1619638171520_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What to expect from President Biden's address to Congress"
     excerpt: "President Biden will give his first address to a joint session of Congress tonight. CBS News political contributor Antjuan Seawright and former White House aide to President George H.W. Bush Joe Watkins joined CBSN with a look at what we can expect."
     publishedDateTime: 2021-04-28T17:32:00Z
@@ -311,18 +327,18 @@ related:
         height: 1080
         isCached: true
   - title: "Biden to push Congress for trillions in investment"
-    excerpt: "News Agency Biden to push Congress for trillions in investment. Posted . In his first address to a joint session of the U.S. Congress, President Joe Biden will press for a massive"
+    excerpt: "Top News Biden to push Congress for trillions in investment. Posted . In his first address to a joint session of the U.S. Congress, President Joe Biden will press for a massive in"
     publishedDateTime: 2021-04-28T17:40:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEAFZE1R"
+    webUrl: "https://www.reuters.com/video/watch/idRCV009OJK"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210428&i=OVEAFZE1R&r=OVEAFZE1R&t=2"
-        width: 960
-        height: 540
+      - url: "https://static.reuters.com/resources/r/?d=20210428&i=RCV009OJK&r=RCV009OJK&t=2"
+        width: 1200
+        height: 675
         isCached: true
   - title: "US President Joe Biden to visit UK for first overseas trip"
     excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."

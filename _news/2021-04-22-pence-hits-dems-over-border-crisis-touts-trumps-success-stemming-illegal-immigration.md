@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-hits-dems-over-border-crisis-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp"
 type: article
 quality: 192
-heat: 352
+heat: 372
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc3a524-edcf-4b7b-9e53-7d0cf1f47575/32f00be1-f3d6-44dd-b2be-3ab6435ab413/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Senate Votes to Reverse Trump-Era Loosening of Methane Emission Rules"
+    excerpt: "The Senate voted to restore regulations on methane gas that leaks into the air from U.S. oil and gas production, reversing a Trump-era policy and giving a boost to the Biden administration’s goal of reducing emissions."
+    publishedDateTime: 2021-04-28T20:25:00Z
+    webUrl: "https://www.wsj.com/articles/senate-votes-to-reverse-trump-era-loosening-of-methane-emission-rules-11619645144"
+    ampWebUrl: "https://www.wsj.com/amp/articles/senate-votes-to-reverse-trump-era-loosening-of-methane-emission-rules-11619645144"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-votes-to-reverse-trump-era-loosening-of-methane-emission-rules-11619645144"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-331077/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Former Trump administration official mulling GOP challenge against Cheney"
     excerpt: "Perry Pendley, who served as acting director of the Bureau of Land Management during the Trump administration, is expected on Thursday evening to give a speech in his home state of Wyoming where he'll strongly hint at launching a Republican primary challenge against embattled Rep."

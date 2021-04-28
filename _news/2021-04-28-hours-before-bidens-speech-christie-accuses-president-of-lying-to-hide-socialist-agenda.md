@@ -2,13 +2,13 @@
 category: news
 title: "Hours before Biden's speech, Christie accuses president of lying to hide 'socialist agenda'"
 excerpt: "Chris Christie is once again accusing President Biden of lying, this time charging that the president is \"not telling the truth\" about the tax increases inside the sweeping spending proposal he’ll unveil on Wednesday night."
-publishedDateTime: 2021-04-28T15:59:54Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9k7ev-B7gE/chris-christie-biden-speech-new-hampshire-2024"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9k7ev-B7gE/chris-christie-biden-speech-new-hampshire-2024"
+publishedDateTime: 2021-04-28T15:59:00Z
+originalUrl: "https://www.foxnews.com/politics/chris-christie-biden-speech-new-hampshire-2024"
+webUrl: "https://www.foxnews.com/politics/chris-christie-biden-speech-new-hampshire-2024"
 ampWebUrl: "https://www.foxnews.com/politics/chris-christie-biden-speech-new-hampshire-2024.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-speech-new-hampshire-2024.amp"
 type: article
-quality: 165
+quality: 125
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -318,6 +319,6 @@ related:
         height: 500
         isCached: true
 
-secured: "PO50HuJRfAGkycO6vPI6dJg9lE4Mk+h9B69TJZ0x9Tfw1+qZJBvaqyJjtoL7lV1aDcm2c8Cry0SQCldHAJw5o1jqYkFgE4lOdCyDy25ofvczL3dj/88fNe0pyWxhZpkXZhK7HkaZZTakTTcH6pUEt/XHas6kH0BVFtecYQGa+VoZH6+AWYBM7nohiiosbglMdXED3DpMnJt6VzWJTQvACx58pHeDGiSCP15V4xagdsjIti56zWVWWShQQfgpW58wkUOTWv7TRf2KLuRvn55fFLW5vVmydcECh719JMxJodWxcLfuMo1uRTcTO88s/LAonDPOFx4Df65DmzOBLBKrVaJEiGPAwSfVSdkGftQwhUs=;jn6BNdIkuNy96T6QaQvudA=="
+secured: "Vh3YATDi2Cmr76d4//ugreix0oZxSbORa6s0L7bS2ZAc7MI32FvG1RmIbOIG/KAa+pNX6aoHislUUEyTRW1T2J+GDiq8T73yINOe60Zwinw/fzZCdyNZPNgRbrGkSDjoG4dzZV66NPQK9VrfJKUsmXcCX3SW62KHtfy+LMUkt++vqmi4wOIKtRjpctbka6Fh83IcOp9RilJ9eUdMTsxRVZiUrQ/fJUQa6sjvuQ0vvRempI5kjKjoo5l8oprTp6Iu+2bYnJFRc+eYsrhWmsuxdguTJ/PjziU3hqnoBcQ9AlBBgyIbgJr8FQeMLXoE55kc2K228j9c40GUyt2JL/8eDOAhWdBkAO8ElDQFPLj40eI=;yZtCPjbdwqYE8gWjObBMeA=="
 ---
 
