@@ -93,6 +93,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "US Catholic bishops may press Biden to stop taking Communion"
+    excerpt: "When U.S. Catholic bishops hold their next national meeting in June, they’ll be deciding whether to send a tougher-than-ever message to President Joe Biden and other Catholic politicians"
+    publishedDateTime: 2021-04-28T14:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/us-catholic-bishops-may-press-biden-to-stop-taking-communion/2021/04/28/ae4f802a-a83a-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/us-catholic-bishops-may-press-biden-to-stop-taking-communion/2021/04/28/ae4f802a-a83a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-catholic-bishops-may-press-biden-to-stop-taking-communion/2021/04/28/ae4f802a-a83a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLOODGFIFII6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What to expect from President Biden's address to Congress"
+    excerpt: "President Biden will give his first address to a joint session of Congress tonight. CBS News political contributor Antjuan Seawright and former White House aide to President George H.W. Bush Joe Watkins joined CBSN with a look at what we can expect."
+    publishedDateTime: 2021-04-28T17:32:00Z
+    webUrl: "https://www.cbsnews.com/video/what-to-expect-from-president-bidens-address-to-congress/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/what-to-expect-from-president-bidens-address-to-congress/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/what-to-expect-from-president-bidens-address-to-congress/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/28/108a0afb-48fc-47f6-ac85-cedccb5f8e81/thumbnail/1200x630/79ae958beb214ae983cb253b3488f365/0428-cbsn-fqg-bidenaddresscongress-702977-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
     excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
     publishedDateTime: 2021-04-17T15:38:00Z

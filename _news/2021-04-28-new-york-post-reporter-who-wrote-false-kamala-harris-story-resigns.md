@@ -930,6 +930,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris' first 100 days: A supportive second-in-command"
+    excerpt: "Vice President Kamala Harris used to be one of President Joe Biden’s rivals. Now, as she tackles some of the new administration’s toughest tasks, she has become a prominent advocate of – and contributor to – his policies."
+    publishedDateTime: 2021-04-28T16:41:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0428/Kamala-Harris-first-100-days-A-supportive-second-in-command"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0428/Kamala-Harris-first-100-days-A-supportive-second-in-command"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0428/Kamala-Harris-first-100-days-A-supportive-second-in-command"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
   - title: "Vice President Kamala Harris Meets With Guatemalan Ambassador"
     excerpt: "U.S. Vice President Kamala Harris speaks during a virtual roundtable with representatives from Guatemalan community-based organizations in the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
     publishedDateTime: 2021-04-27T23:42:00Z

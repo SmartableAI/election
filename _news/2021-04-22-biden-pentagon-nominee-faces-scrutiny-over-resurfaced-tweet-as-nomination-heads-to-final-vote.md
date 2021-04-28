@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Controversial Biden Pentagon pick confirmed by Senate"
+    excerpt: "The Senate confirmed President Biden's nominee for undersecretary of defense for policy, Colin Kahl, Tuesday evening after a party-line 49-45 vote."
+    publishedDateTime: 2021-04-28T17:02:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rsx0-qL6yIk/biden-pentagon-pick-colin-kahl-confirmed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-pick-colin-kahl-confirmed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-pick-colin-kahl-confirmed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z
@@ -223,6 +239,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Hours before Biden's speech, Christie accuses president of lying to hide 'socialist agenda'"
+    excerpt: "Chris Christie is once again accusing President Biden of lying, this time charging that the president is \"not telling the truth\" about the tax increases inside the sweeping spending proposal he’ll unveil on Wednesday night."
+    publishedDateTime: 2021-04-28T15:59:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9k7ev-B7gE/chris-christie-biden-speech-new-hampshire-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-biden-speech-new-hampshire-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-biden-speech-new-hampshire-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Son-in-Law Benefited From Loan Program Biden Ripped"
     excerpt: "Joe Biden needed to talk to a family member, and the message, Politico later reported, was blunt. For Christs sake, the then-presidential"
     publishedDateTime: 2021-04-22T10:30:00Z
@@ -254,6 +286,20 @@ related:
       - url: "https://assets.realclear.com/images/54/541245.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "How the Biden Presidency Looks From Pivotal PA County"
+    excerpt: "Carol Erker vividly remembers the emotion that washed over her after Joe Biden won the 2020 election. Even as she worried about the pandemic and the Oval Office that Biden was inheriting, she felt like she could finally breathe."
+    publishedDateTime: 2021-04-28T12:05:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/28/how_the_biden_presidency_looks_from_pivotal_pa_county_541579.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/526043_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "Qutamm8FcHPEKosiL5fgMILBh/AUT5K21I9NTi266R/uTaLrhqVKDNEtGrpMQB74EgmmjFawRWYdEbD0ar+1UVnDKEYau19X6FyrCQmbjjLkpknEwJPFSZYHjDQ+wEfRkoR4vhjnMzXtcSXdq8wPmOu1oChC6FcO4OcgDdFdTUAJ2l4EMdFMend/mj2fRI6AfiPIqy7bHoefJ4fn0Uc24ZvGhTE5029CkdU5/U++9yFedh+wr3a3Zx8u47Rwc3Sm67sy7a8/OTxcU1Xlrjz+/d3dMDTlmQWQvEf0MQmGwpEQrfBPn0a37CvakM4ZpdFnSx7YWyPE5JCAUHCAs5qFhxmjC02Z0YpQ3U/Hy1F84/A=;K+y6JVZCgmnuahFoR3EX7Q=="

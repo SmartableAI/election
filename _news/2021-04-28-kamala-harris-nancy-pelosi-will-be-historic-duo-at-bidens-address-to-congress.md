@@ -920,6 +920,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris' first 100 days: A supportive second-in-command"
+    excerpt: "Vice President Kamala Harris used to be one of President Joe Biden’s rivals. Now, as she tackles some of the new administration’s toughest tasks, she has become a prominent advocate of – and contributor to – his policies."
+    publishedDateTime: 2021-04-28T16:41:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0428/Kamala-Harris-first-100-days-A-supportive-second-in-command"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0428/Kamala-Harris-first-100-days-A-supportive-second-in-command"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0428/Kamala-Harris-first-100-days-A-supportive-second-in-command"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
   - title: "New York Post reporter who wrote false Kamala Harris story resigns"
     excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment. The New York Post later issued brief corrections."
     publishedDateTime: 2021-04-28T13:42:00Z
@@ -973,6 +984,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "b1CwDTmhJg95Ed3Bzgbu61yIhsxrdXtVQb18NjHpX9SfmKtG+UJOMrtHA4jK+JQj1GgdjizseMx2PCae07PYa6rSfCs8RZGHJDcltlKG+Bvbax5zTZmnkSgrGbRcCHcTxdyLzcJpQHxXBdxSlXjAJquxK3WkeOpN8z6AM6L+srzh/lTcBgm1omxJswXgcV6tYpxrJ2A0J92PfU1Q9qYP9I2ePsTxadgB7urz+HVAhCrVI9MvtUW77LbeKNi23ktnuQ9TX4QLsQlD3dIs/u52js1oYywiMLpeJy7mC/Toxh4xjsLOMS+euhPVcyaKIzDBIEP8DKEAc9gPalcCM9p+dZ8Y1UHRy+bWn5AAGQ2H+cM=;22As4FZJ84WfvN9ZhBnFBQ=="
+secured: "mvGl4Zl+HqhiGVrom7nxu3uxvoO/n+MJZGJ2QdTvHKvXo717s4hKEDHa+AgfKszLVE0K3HUqiiFyZyT4B4LsGQraSvFslG7jCpdYyolWfz1FXDN84mOHtgQZlNsyeVoEbScBwEH1VUy9T92D1SlCID9UzALLEIr0FT85zV5jF4meRfL0bZRSMRFPZaVns7BPTGJqcE/vN/QUsGqoARRCaxrKsgOIbqKinGtNV7RhyePsn3nZ9R3q3pTxgX9TPhQRZYxeaZ6f2xkFGSiKnAEtrHEt/QThoZByM7EutRd1/dQTWbbBcjGFBZDQ3E+pdywn2jwhYfxIknj/nJwJHtJf77mPcaTaxyk6UaSRabxIAQbIyuGXySJkkfmy7iAqYscpTlQuDzB4IvsnOZMT4R292sJ6GGN07mp9ouWW090feqLCL32sjtcoTuDS2/8C6CIvN4N+R+iBsvdFohDssDgvPBaGjkv5t/H8lCaMhco87TSUNfYmZn+7rAHpNCb9uhp8B4cJSr1IcwMjFM/cDb7tQw==;CLVjIzry0v7gRF0uF3ZQqw=="
 ---
 

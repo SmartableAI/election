@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-28-sen-joni-ernst-to-lead-gop-prebuttal-to-bidens-joint-address-to-congress.md",
-      "title": "Sen. Joni Ernst to lead GOP 'prebuttal' to Biden's joint address to Congress",
-      "excerpt": "EXCLUSIVE: Sen. Joni Ernst, the vice chair of the Senate GOP conference, will lead a \"prebuttal\" Wednesday afternoon to President Biden's joint address to Congress. ",
+      "path": "_news/2021-04-28-how-bidens-address-to-congress-will-look-different-amid-covid-19-pandemic.md",
+      "title": "How Biden's address to Congress will look different amid COVID-19 pandemic",
+      "excerpt": "President Biden's first address before a joint session of Congress will look a bit different amid the pandemic.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4eI7VbZ6h-8/joni-ernst-gop-prebuttal-biden-joint-address-congress",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4eI7VbZ6h-8/joni-ernst-gop-prebuttal-biden-joint-address-congress",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwb_e4SWJmE/biden-address-congress-different-pandemic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwb_e4SWJmE/biden-address-congress-different-pandemic",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 192,
+      "heat": 233,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3773a681-47b0-44d9-a780-f69a57dd1c8a/365df13b-8c13-41d8-97c5-bf15453c7d8b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joni-ernst-gop-prebuttal-biden-joint-address-congress.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joni-ernst-gop-prebuttal-biden-joint-address-congress.amp",
-      "publishedDateTime": "2021-04-28T08:29:48-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-address-congress-different-pandemic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-address-congress-different-pandemic.amp",
+      "publishedDateTime": "2021-04-28T08:56:36-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -833,7 +833,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 455,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -1221,7 +1221,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {

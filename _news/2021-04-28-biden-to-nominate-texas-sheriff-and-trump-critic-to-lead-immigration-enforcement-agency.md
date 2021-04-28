@@ -56,20 +56,20 @@ related:
         height: 558
         isCached: true
   - title: "Senate panel approves Biden nominees to Postal Service board"
-    excerpt: "A Senate committee has approved President Joe Biden’s three nominees to the U.S. Postal Service’s governing board"
-    publishedDateTime: 2021-04-28T14:20:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    excerpt: "A Senate committee has approved President Joe Biden’s three nominees to the U.S. Postal Service's governing board"
+    publishedDateTime: 2021-04-28T15:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "President Biden urges businesses to use paid leave to help workers get COVID-19 vaccines"
     excerpt: "President Joe Biden urged businesses to help workers get vaccinated while announcing he met early the goal of 200 million shots in 100 days."

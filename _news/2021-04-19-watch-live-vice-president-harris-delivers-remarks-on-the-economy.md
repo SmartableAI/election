@@ -136,6 +136,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "6 things to watch during President Joe Biden's first address to Congress"
+    excerpt: "President Joe Biden is slated to deliver his first joint address to Congress on Wednesday, where he will lay out his next big legislative priority to the American people and celebrate what he sees as his administration's victories during his first 100 days in office.\n    \n"
+    publishedDateTime: 2021-04-28T17:15:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W9WF9mlhaM0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/congress-address-tonight/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/congress-address-tonight/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427125800-01-joe-biden-0420-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Democrats holding a lottery for tickets to Biden's address to Congress"
     excerpt: "Senate Democrats are using a lottery system to distribute the limited number of tickets available for members of the caucus who are interested in attending President Joe Biden's address to a joint session of Congress on Wednesday, multiple senators -- including Hawaii Sen. Brian Schatz -- and aides told"
     publishedDateTime: 2021-04-27T17:57:42Z
@@ -149,6 +165,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205170603-02-us-capitol-0208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Internal Biden administration debate over vaccine sharing grows more intense"
+    excerpt: "The internal debate in the Biden administration over sharing excess US vaccines doses with other countries has grown more intense in recent weeks as the Covid-19 crisis worsens globally and the situation in the US improves, according to sources familiar with the tensions.\n    \n"
+    publishedDateTime: 2021-04-28T17:11:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2fljiKlQhzA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/biden-administration-vaccine-sharing-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/biden-administration-vaccine-sharing-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401062309-01-pfizer-covid-19-vaccine-new-york-0326-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -385,6 +417,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/20/us/politics/20vid-biden-floyd-family/20vid-biden-floyd-family-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden's economic plan leaves health policy fights behind"
+    excerpt: "President Joe Biden's new spending proposal offers plenty of reforms Democrats have championed — but stays far away from big health care initiatives. — A White House decision to send AstraZeneca vaccines abroad stunned some senior officials,"
+    publishedDateTime: 2021-04-28T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/04/28/bidens-economic-plan-leaves-health-policy-fights-behind-794945"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "WcQHqzRJyO7ereEtbx/p5d9WkboqmgZMX3C7kfRsEdgOuXf16qpq678T5GyPE9ip5oMq3qhjhmNTCSMzroA0C6XAeJTApzk7kqd0c09ub/VRV6kzwxwakXhlrQbpq3kSV4WryT3a3N0PwHkRcfNnLI/6CubIIRqOyeILReOOShX6ydd1mFEfgyYXZJIJXPkJ11t/0mwQbdd232HSPoPEmiX+6hXh6sypMXFNaMiZjxN5ZOBTuZm4Xjt2f9dE3jzj3kqc+rlWBAnwwNZwPu2YAxtf2qqB44c1JKJMI9/Fw+jO+0VGlgzcz4N1z0wqIPSU0suy40Q0vodxvJW7/J/2ktriT0nY8eJgl/+yAov3ank5A1AeNEMCrTAz+TK5opz3aqej/LLcR4iZe631QARiplhBVtmUf1TA+7DDAvKfczLdX5BHONjJDsJEiiT6K7hMtzI5wLNgT5gb8eFH0XKbmMgvNbN3ZUOXh7UHejAneQEQ6sQOTVdScoNvOC9CchiDsCqk4Xcas6QFa9DqNTeDAQ==;95s9RM3wzWtVP4q58DZKLQ=="

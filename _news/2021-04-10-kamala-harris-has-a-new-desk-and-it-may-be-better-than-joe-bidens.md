@@ -921,6 +921,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris' first 100 days: A supportive second-in-command"
+    excerpt: "Vice President Kamala Harris used to be one of President Joe Biden’s rivals. Now, as she tackles some of the new administration’s toughest tasks, she has become a prominent advocate of – and contributor to – his policies."
+    publishedDateTime: 2021-04-28T16:41:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0428/Kamala-Harris-first-100-days-A-supportive-second-in-command"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0428/Kamala-Harris-first-100-days-A-supportive-second-in-command"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0428/Kamala-Harris-first-100-days-A-supportive-second-in-command"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
   - title: "New York Post reporter who wrote false Kamala Harris story resigns"
     excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment. The New York Post later issued brief corrections."
     publishedDateTime: 2021-04-28T13:42:00Z

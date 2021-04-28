@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Senate panel approves Biden nominees to Postal Service board"
-excerpt: "A Senate committee has approved President Joe Biden’s three nominees to the U.S. Postal Service’s governing board"
-publishedDateTime: 2021-04-28T14:20:00Z
-originalUrl: "https://www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+excerpt: "A Senate committee has approved President Joe Biden’s three nominees to the U.S. Postal Service's governing board"
+publishedDateTime: 2021-04-28T15:25:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+webUrl: "https://abcnews.go.com/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -121,6 +121,6 @@ related:
       domain: usnews.com
     quality: 42
 
-secured: "0m/mrEQ5E1tgkkCDdPXzdWC5qJb5fZtwQJbisx7LidialIkwdJQWhnxTsPBlvc4vebYYoYP4Okehc/CnO68xF7dMLn3c2gJhQZK26tmO5WGkIBQ3ZhUnos73APuCN3csofMQwAQqhMt3MoIPaM5J9g4Lfq8uuENCoovmHQTOyTUuluWYDzNtJoEokeczY2NLsUj8IC5cL4fifEvA8NqMdq4fKrmSjNbTRg5NfWMf2yJuxRBgFeUXJPRCb9+pDAS2et5U3f0y7lARzYuUJt8m1h4QcUiKx/MospbHMsRw76vED+o0i5/qAP8jVZLxwhSCRzRE6XeT/HF+kqLdUZQfsTeEgV7oFHCQml3cZ3O8oE4=;gxeLTg7CCEisZGaHyYEFeQ=="
+secured: "fkozmlUyGxK3P/uLeTQ08xaUOlr45+wOGsItM6tKQyQCT35gwGSYl4FJMABUEHMKKIomzq2xrIcF2zRQmYxzHIaxA4aWf+ENW3+vXSniaaS1cBRDu2WhUxbudpHtCs55fgsUEc4sLFI7BX878y7v1b4n3mi5jWopEru9PBngo5v5iDG8cjpYBhfUbRVUZRm+U/76+hZYiuHmcy+lQ2flRl7HHqTsFhObYAAl3UZCSF/zNscMaPxzAdv1yyn4t5fLIOoM9XJOygFdugUCXPKedUGheGPceEhau+k9EdjOFbfFKvtGGTxcQ2q7Vg9CTcV6kh03MRkL4tsZuFFuRc48uXciOc7ZOE+aufLjote3f7A=;mKSDLWIjKJID/86RfsjtbA=="
 ---
 
